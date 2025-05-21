@@ -2,6 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+API_KEYS = {
+    'POI_g_review': os.getenv('GOOGLE_API_KEY')
+}
+
+if not API_KEYS['POI_g_review']:
+    raise ValueError("Google API key not found. Please set GOOGLE_API_KEY in your .env file.")
 
 # Placeholder for Google review crawling logic
 
@@ -135,10 +146,6 @@ def get_place_id_v1(query, api_key):
         return resp.json().get('places', [])
     else:
         return []
-
-API_KEYS = {
-    'POI_g_review': 'AIzaSyC5p8upMmfMKDMKfw4rqjyNh0t46bmqEbE'
-}
 
 def process_multiple_pois(poi_queries, api_key, min_rating=4):
     """
