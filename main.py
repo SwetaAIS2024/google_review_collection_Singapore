@@ -7,13 +7,6 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-API_KEYS = {
-    'POI_g_review': os.getenv('GOOGLE_API_KEY')
-}
-
-if not API_KEYS['POI_g_review']:
-    raise ValueError("Google API key not found. Please set GOOGLE_API_KEY in your .env file.")
-
 # Placeholder for Google review crawling logic
 
 def crawl_google_reviews(poi_url):
@@ -257,7 +250,7 @@ def fetch_reviews_for_all_pois(csv_path, api_key, output_dir="poi_reviews"):
 if __name__ == "__main__":
     print("\nGoogle Review POI Crawler - Singapore (Google Places API mode)")
     # Use the stored API key
-    api_key = API_KEYS['POI_g_review']
+    api_key = os.getenv('GOOGLE_API_KEY')
     # Sentosa Place ID: 'ChIJyY4rtGcX2jERIKTarqz3AAQ'
     place_id = 'ChIJyY4rtGcX2jERIKTarqz3AAQ'  # Sentosa, Singapore
     reviews = get_google_place_reviews(place_id, api_key)
@@ -279,7 +272,7 @@ if __name__ == "__main__":
     else:
         print("No reviews returned by the API.")
     print("\nGoogle Review POI Crawler - Singapore (Google Places API v1 mode)")
-    api_key = API_KEYS['POI_g_review']
+    api_key = os.getenv('GOOGLE_API_KEY')
     place_id = 'ChIJyY4rtGcX2jERIKTarqz3AAQ'  # Sentosa, Singapore
     details = get_google_place_reviews_v1(place_id, api_key)
     if details and 'reviews' in details:
@@ -294,7 +287,7 @@ if __name__ == "__main__":
     else:
         print("No reviews returned by the API v1.")
     print("\nGoogle Places API v1 Text Search for Place ID...")
-    api_key = API_KEYS['POI_g_review']
+    api_key = os.getenv('GOOGLE_API_KEY')
     query = "Sentosa, Singapore"
     places = get_place_id_v1(query, api_key)
     if places:
@@ -319,7 +312,7 @@ if __name__ == "__main__":
     else:
         print("No places found for query.")
     print("\nAutomated review extraction for multiple POIs...")
-    api_key = API_KEYS['POI_g_review']
+    api_key = os.getenv('GOOGLE_API_KEY')
     poi_queries = [
         "Sentosa, Singapore",
         "Marina Bay Sands, Singapore",
@@ -327,7 +320,7 @@ if __name__ == "__main__":
     ]
     process_multiple_pois(poi_queries, api_key, min_rating=4)
     print("\nFetching all types of POIs in Singapore...")
-    api_key = API_KEYS['POI_g_review']
+    api_key = os.getenv('GOOGLE_API_KEY')
     fetch_all_pois_in_singapore(api_key)
     print("\nFetching reviews for all POIs in the CSV...")
     csv_path = "all_singapore_pois.csv"
