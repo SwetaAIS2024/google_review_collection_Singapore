@@ -1,0 +1,70 @@
+{
+  "formatted_address": "87 Bedok North Street 4, Singapore 460087",
+  "geometry": {
+    "location": {
+      "lat": 1.3326058,
+      "lng": 103.9385264
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333942330291502,
+        "lng": 103.9398219802915
+      },
+      "southwest": {
+        "lat": 1.331244369708498,
+        "lng": 103.9371240197085
+      }
+    }
+  },
+  "name": "川香厨房",
+  "place_id": "ChIJ1V8ycOY92jERX1r0qbgbx-k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "James Zong",
+      "author_url": "https://www.google.com/maps/contrib/102000742501042436633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2KNNb7RRnAJl73PDYRspncaMQu9d-6D7eVdy4qxxmdFEf5B6btA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Very satisfied",
+      "time": 1611406986,
+      "translated": false
+    },
+    {
+      "author_name": "LEE AH KOW",
+      "author_url": "https://www.google.com/maps/contrib/112532212465248469090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVASv-dC3SNr3jSn0Y7dDkAuXeIWEN2HLWv1eC5ZcSBKMCx0SBF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Tasty.",
+      "time": 1671244558,
+      "translated": false
+    },
+    {
+      "author_name": "Shuning Zheng",
+      "author_url": "https://www.google.com/maps/contrib/104820407559704693158/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-7febsFH-sso8o46fdeZN_y8I9Gt6NgX2G-tkmCujp3fSag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "The newly opened restaurant tastes very good. I ordered shredded potatoes and Kung Pao Chicken. The rice tastes very good and tastes like home. Will visit again.",
+      "time": 1615267416,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16845463411141925471",
+  "user_ratings_total": 3,
+  "vicinity": "87 Bedok North Street 4, Singapore"
+}

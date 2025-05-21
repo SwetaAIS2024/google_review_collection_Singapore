@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Sims Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3158411,
+      "lng": 103.8867027
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317221130291502,
+        "lng": 103.8880467302915
+      },
+      "southwest": {
+        "lat": 1.314523169708498,
+        "lng": 103.8853487697085
+      }
+    }
+  },
+  "name": "Sim avenue",
+  "place_id": "ChIJT2OTNgAZ2jERXllC5U0UCko",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Mary Lee",
+      "author_url": "https://www.google.com/maps/contrib/115470751178511858094/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8c9eZ5asqWsJjggfjG6bSiQls3WBu6IknOvUndJuH8_PS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741165383,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5335099033365141854",
+  "user_ratings_total": 1,
+  "vicinity": "Sims Avenue"
+}

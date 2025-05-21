@@ -1,0 +1,76 @@
+{
+  "formatted_address": "326 Ubi Ave 1, Block 326, Singapore 400326",
+  "geometry": {
+    "location": {
+      "lat": 1.3273244,
+      "lng": 103.9032549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328737980291502,
+        "lng": 103.9045000302915
+      },
+      "southwest": {
+        "lat": 1.326040019708498,
+        "lng": 103.9018020697085
+      }
+    }
+  },
+  "name": "Harmony Park",
+  "place_id": "ChIJva7Kp7oX2jER3FrEkSNKOSc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Murali Mani",
+      "author_url": "https://www.google.com/maps/contrib/116139810359326769327/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz-wymSFTpBFQsZVSX6V5-UZsXoTUS8zot8-HaauBNfGztnpQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Nice to see this place",
+      "time": 1658938627,
+      "translated": false
+    },
+    {
+      "author_name": "Happy Ng",
+      "author_url": "https://www.google.com/maps/contrib/104991222968171843076/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV51ao_ySDAoPWbcrTuuxc_GdOXoM0ty8C-JN5NB4JBS-Hkj2k=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice environment!",
+      "time": 1676767598,
+      "translated": true
+    },
+    {
+      "author_name": "Kt Oung",
+      "author_url": "https://www.google.com/maps/contrib/117334709259934260466/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-uaGP6GJFKYzyemZrMoBNCC36G75pR1y3Lg3so5YyE6VVtQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713610226,
+      "translated": false
+    },
+    {
+      "author_name": "humayun Rooney",
+      "author_url": "https://www.google.com/maps/contrib/114429733883867487285/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjWoxpTofiWbHl25IDz96rjzSLTZ24KBS7D9-Pguqpd9mo1ROc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668597013,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2826371757781572316",
+  "user_ratings_total": 4,
+  "vicinity": "326 Ubi Avenue 1, Block 326, Singapore"
+}

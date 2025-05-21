@@ -1,0 +1,81 @@
+{
+  "formatted_address": "111 Seagull Walk, Singapore 486703",
+  "geometry": {
+    "location": {
+      "lat": 1.3472139,
+      "lng": 103.9637431
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348493180291502,
+        "lng": 103.9650704802915
+      },
+      "southwest": {
+        "lat": 1.345795219708498,
+        "lng": 103.9623725197085
+      }
+    }
+  },
+  "name": "Bakes at 111",
+  "place_id": "ChIJDTNEnHU92jERG-LwGyL8oSM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "pauline low",
+      "author_url": "https://www.google.com/maps/contrib/105682796874185322834/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7uTXBrcZ3in5KH1tLeRX5NlSTh4v4FVX8R06bVftXflrOHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "A hidden gem in this quiet neighborhood. Delicious homemade cakes, flavours change every weekend depending on baker's whim & inspiration. Flavour today: butter cake with a well-browned crispy top. No walk-in, by invitation only.",
+      "time": 1729403986,
+      "translated": false
+    },
+    {
+      "author_name": "Jessie NG",
+      "author_url": "https://www.google.com/maps/contrib/100902456276202991818/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJcKugHVOGWo72NJbf72_L0m6bigkQsb4B5xAAhgFvy4KuDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "No regrets accepting the invitation to this rare hideout. Cosy place to dine in. The aroma of fresh bakes fills the place and is a constant surprise to await what’s served next. Can’t think of a better way to spend a leisurely Sunday afternoon. Looking forward to what else the baker has up her sleeve.",
+      "time": 1729405029,
+      "translated": false
+    },
+    {
+      "author_name": "Wong Bryan",
+      "author_url": "https://www.google.com/maps/contrib/105646238574793721845/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUQ56VgZMsusrkbLJm8VDE08w5wYvIEqGbbIgSTxbG2gh6-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Five stars for hospitality. Dangerously delicious coffee by a bjj practitioner. Try at your risk!",
+      "time": 1729405051,
+      "translated": false
+    },
+    {
+      "author_name": "Terence Hee",
+      "author_url": "https://www.google.com/maps/contrib/103219259899225980197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLczgEyO-3Sym4hZ_XYQIYSbmfA6TyJ7OBSqlyV8rZhty136w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Good desserts, coffee and ambience",
+      "time": 1729403342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2567610486005752347",
+  "user_ratings_total": 4,
+  "vicinity": "111 Seagull Walk"
+}

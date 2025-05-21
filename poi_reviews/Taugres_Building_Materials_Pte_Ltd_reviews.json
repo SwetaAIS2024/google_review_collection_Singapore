@@ -1,0 +1,66 @@
+{
+  "formatted_address": "7 Defu Ln 1, Singapore 539482",
+  "geometry": {
+    "location": {
+      "lat": 1.360541,
+      "lng": 103.896998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361908480291502,
+        "lng": 103.8982934802915
+      },
+      "southwest": {
+        "lat": 1.359210519708498,
+        "lng": 103.8955955197085
+      }
+    }
+  },
+  "name": "Taugres Building Materials Pte Ltd",
+  "place_id": "ChIJIVciissX2jERHB3AWg2Agaw",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Clement Ng",
+      "author_url": "https://www.google.com/maps/contrib/101203232558880418725/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN2xmGtvmENwcJkLotGz3YbirOxSdJHVvZF_4moaKNCZ09mUM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Seems like it no longer exists. Place is run down and there's no one here",
+      "time": 1669268483,
+      "translated": false
+    },
+    {
+      "author_name": "FARUK OMUR",
+      "author_url": "https://www.google.com/maps/contrib/105147416769292706697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSXDsPJaL20VYslrpQyVwg8A0pdhC2aaySvpXSR72kNyZtf8NT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "good place",
+      "time": 1556634800,
+      "translated": false
+    },
+    {
+      "author_name": "Ah Di",
+      "author_url": "https://www.google.com/maps/contrib/114437886731758658577/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQjn8IscLRwHkeKYNYCpQLiWlabxs-Eey7ZnflrCHdJyxTQLTe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482192222,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12430357241364749596",
+  "user_ratings_total": 3,
+  "vicinity": "7 Defu Lane 1, Singapore"
+}

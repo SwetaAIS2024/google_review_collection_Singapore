@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Bedok Rd, #01-32, Singapore 469572",
+  "geometry": {
+    "location": {
+      "lat": 1.3203848,
+      "lng": 103.9555055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321864780291502,
+        "lng": 103.9568062802915
+      },
+      "southwest": {
+        "lat": 1.319166819708498,
+        "lng": 103.9541083197085
+      }
+    }
+  },
+  "name": "GRIDDLE",
+  "place_id": "ChIJRROBxQAj2jERtxOHgb6tM00",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "smile69",
+      "author_url": "https://www.google.com/maps/contrib/109133500222508172585/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdkQ8NMpLxHBbvDMlU6CojUuP-yv8CXD6XdGQvBfrVWzc2pyDX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "' bird's nest bread ' ... beef aka minced beef. similar to the ones we had in Penang. 👍🏽👍🏽👍🏽👍🏽👍🏽",
+      "time": 1701232582,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5562980998461199287",
+  "user_ratings_total": 1,
+  "vicinity": "1 Bedok Road, #01-32"
+}

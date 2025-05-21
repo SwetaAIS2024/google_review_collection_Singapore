@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314898,
+      "lng": 103.880951
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316191480291502,
+        "lng": 103.8823121802915
+      },
+      "southwest": {
+        "lat": 1.313493519708498,
+        "lng": 103.8796142197085
+      }
+    }
+  },
+  "name": "Bef Lor 23 Geylang",
+  "place_id": "ChIJAY9gizoY2jERiQQFUC7J988",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Monika Gaspar",
+      "author_url": "https://www.google.com/maps/contrib/117636626222148150289/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBevLR7N8zAO_N3I1W31YW3EnTjiKPf-a2F6fnZjaD1NLvNQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The bus station is on the other side of the road",
+      "time": 1703300997,
+      "translated": false
+    },
+    {
+      "author_name": "mordan life",
+      "author_url": "https://www.google.com/maps/contrib/114870017907264788179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN15BZbTon39qDBFioXRVKxbv3Vih2R5uOx5QXtIwpgBVtcFg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Beautiful",
+      "time": 1575634361,
+      "translated": false
+    },
+    {
+      "author_name": "Shakil Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/113827639199403171417/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw65tQiLHnb294CzwXYvYI3dhZ4vwQiCr3nxyHeoBDy5OynTs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667259731,
+      "translated": false
+    },
+    {
+      "author_name": "Shreyank Shah",
+      "author_url": "https://www.google.com/maps/contrib/105493433777388644116/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbr735aNxm9iIfcic8jV4O_T9H4k6vrM7tyTFUwH1OpWop8l1rrw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666054224,
+      "translated": false
+    },
+    {
+      "author_name": "Lip Boon Ng",
+      "author_url": "https://www.google.com/maps/contrib/115419584001500701755/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3V1AwffP-W22tNR8TGGElnr5QKoWsHGjSA1GdQZzqaBhcyy0I=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655389028,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14985667485846799497",
+  "user_ratings_total": 11,
+  "vicinity": "Singapore"
+}

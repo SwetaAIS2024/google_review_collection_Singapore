@@ -1,0 +1,45 @@
+{
+  "formatted_address": "26-01, Sunway Iskandar, Persiaran Medini 3, 79250 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3943534,
+      "lng": 103.635037
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395654780291502,
+        "lng": 103.6364502302915
+      },
+      "southwest": {
+        "lat": 1.392956819708498,
+        "lng": 103.6337522697085
+      }
+    }
+  },
+  "name": "中原烩面",
+  "place_id": "ChIJa2u8FwAJ2jERY4gKEmQ539I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ong NN",
+      "author_url": "https://www.google.com/maps/contrib/118291098969372155545/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJQNa_Cvrig2WOc5uXiz-dpIX4UrVFS10psbMiFvkoS2mOEw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Eggplant, beans (it turns out to be long beans), and big pot chicken (slightly spicy) are all delicious and go well with rice. The store sent a piece of pasta that was as good as a big pot of chicken. The noodles have just the right amount of chewiness. The store owner is friendly and says they have a lot of Sichuan food. Convenient parking",
+      "time": 1746634906,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15194926769733535843",
+  "user_ratings_total": 1,
+  "vicinity": "Sunway Iskandar, 26-01, Persiaran Medini 3"
+}

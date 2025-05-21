@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Changi Airport Singapore Terminal 4 Departure, #02-72 Transit Lounge North, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3385587,
+      "lng": 103.9829023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339913630291502,
+        "lng": 103.9842366802915
+      },
+      "southwest": {
+        "lat": 1.337215669708498,
+        "lng": 103.9815387197085
+      }
+    }
+  },
+  "name": "Taste Singapore",
+  "place_id": "ChIJQdctYcc82jERP5J0Xs46cUI",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Tran Trung",
+      "author_url": "https://www.google.com/maps/contrib/117852245431723709471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj9mOmIw4S8fq5CGJW6wR4S3s91bFmtjZz4TDdN84HPeLZ81YBMA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "ok",
+      "time": 1696245362,
+      "translated": false
+    },
+    {
+      "author_name": "Rais Is",
+      "author_url": "https://www.google.com/maps/contrib/100198992349938984406/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2eSRLUUSs-TP6T4wmc2_PyIOxnI-BBDC9o6zTn9AggW4pmzQwyg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745347161,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4787672536893919807",
+  "user_ratings_total": 2,
+  "vicinity": "Changi Airport Singapore Terminal 4 Departure, #02-72 Transit Lounge North"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "11 Tampines Street 92, Singapore 528872",
+  "geometry": {
+    "location": {
+      "lat": 1.342513,
+      "lng": 103.944673
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343769930291502,
+        "lng": 103.9459102802915
+      },
+      "southwest": {
+        "lat": 1.341071969708498,
+        "lng": 103.9432123197085
+      }
+    }
+  },
+  "name": "Capitol Gravure Industries Pte Ltd",
+  "place_id": "ChIJ_3Futj092jERzQkoEFOYNS8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shivam Singh",
+      "author_url": "https://www.google.com/maps/contrib/111502043321227395265/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcvZ_J7CscqL5AXmb-qJzhl33-eIvC3p1MEr3OihUq-rvS_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631108850,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3401792576069044685",
+  "user_ratings_total": 1,
+  "vicinity": "11 Tampines Street 92, Singapore"
+}

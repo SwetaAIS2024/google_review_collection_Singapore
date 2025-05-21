@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3995374,
+      "lng": 103.8179016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400784030291502,
+        "lng": 103.8192231802915
+      },
+      "southwest": {
+        "lat": 1.398086069708498,
+        "lng": 103.8165252197085
+      }
+    }
+  },
+  "name": "发展鱼圆面",
+  "place_id": "ChIJpQI8K4IR2jER6taG4qBGGUc",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5123203707919849194",
+  "vicinity": "Singapore"
+}

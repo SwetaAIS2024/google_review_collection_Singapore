@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Boundary Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3541585,
+      "lng": 103.8747883
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355545130291502,
+        "lng": 103.8761808302915
+      },
+      "southwest": {
+        "lat": 1.352847169708498,
+        "lng": 103.8734828697085
+      }
+    }
+  },
+  "name": "Interim Park - Boundary Road",
+  "place_id": "ChIJLYc2h2wX2jERFXBbAb5_SFQ",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Namdev Sachathep",
+      "author_url": "https://www.google.com/maps/contrib/111037740868917751962/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2CbZZ6TzJvBD62k3JttMh4xa0OcqPmvwFyPtaAmZ6gOj84MPu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Pretty average.",
+      "time": 1690876795,
+      "translated": false
+    },
+    {
+      "author_name": "MS 333 channel",
+      "author_url": "https://www.google.com/maps/contrib/108942974342810125966/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK92Ue199IY2VeHnrePcrYSOjqGlA6QYasXYGldymB486e9S_t=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good",
+      "time": 1615084619,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6073244551552397333",
+  "user_ratings_total": 2,
+  "vicinity": "Boundary Road"
+}

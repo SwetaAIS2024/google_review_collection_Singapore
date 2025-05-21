@@ -1,0 +1,30 @@
+{
+  "formatted_address": "95 Portsdown Rd, Singapore 139299",
+  "geometry": {
+    "location": {
+      "lat": 1.2965688,
+      "lng": 103.7929078
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297866630291502,
+        "lng": 103.7942371802915
+      },
+      "southwest": {
+        "lat": 1.295168669708498,
+        "lng": 103.7915392197085
+      }
+    }
+  },
+  "name": "Banyan Cafe",
+  "place_id": "ChIJhcCpcSAb2jERg1jyrjrRk9c",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15533989589704398979",
+  "vicinity": "95 Portsdown Road"
+}

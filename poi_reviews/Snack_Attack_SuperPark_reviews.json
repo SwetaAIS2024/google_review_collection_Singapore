@@ -1,0 +1,46 @@
+{
+  "formatted_address": "3 Temasek Blvd, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2957055,
+      "lng": 103.8597298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297093630291502,
+        "lng": 103.8610408802915
+      },
+      "southwest": {
+        "lat": 1.294395669708498,
+        "lng": 103.8583429197085
+      }
+    }
+  },
+  "name": "Snack Attack (SuperPark)",
+  "place_id": "ChIJC6kyWAAZ2jERgDV6t4XXtxM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chef Boyardee",
+      "author_url": "https://www.google.com/maps/contrib/118223425292612146808/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-vy8xR2Ytjcindh32zJ5G7MrIUMVPRnUo_-6-Kq_nDT0yRam1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Lots of popular snacks available. Friendly and helpful staff 👍🏻",
+      "time": 1716782394,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1420841176767542656",
+  "user_ratings_total": 1,
+  "vicinity": "3 Temasek Boulevard"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "13 Medical Dr, Singapore 117510",
+  "geometry": {
+    "location": {
+      "lat": 1.2963971,
+      "lng": 103.7812272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297786980291502,
+        "lng": 103.7826162802915
+      },
+      "southwest": {
+        "lat": 1.295089019708498,
+        "lng": 103.7799183197085
+      }
+    }
+  },
+  "name": "Clinical Diagnostic Services Laboratory",
+  "place_id": "ChIJ2fYgR1Ea2jERFTMum9VMJdg",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15574939366645969685",
+  "vicinity": "13 Medical Drive"
+}

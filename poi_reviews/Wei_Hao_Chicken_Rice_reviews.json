@@ -1,0 +1,46 @@
+{
+  "formatted_address": "254 Jurong East St 24, Singapore 600254",
+  "geometry": {
+    "location": {
+      "lat": 1.3436411,
+      "lng": 103.7374743
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345055430291502,
+        "lng": 103.7389985302915
+      },
+      "southwest": {
+        "lat": 1.342357469708498,
+        "lng": 103.7363005697085
+      }
+    }
+  },
+  "name": "Wei Hao Chicken Rice",
+  "place_id": "ChIJhepumDoR2jERnGtHfAqAmG4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kwang Yi",
+      "author_url": "https://www.google.com/maps/contrib/105117970746229221147/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBkxeHtb1WHS-Atirn_HC43WijnrFsjKQEfFBcQTLVnzHS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Amazing chicken rice and teh ping",
+      "time": 1655963407,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7969260323155176348",
+  "user_ratings_total": 1,
+  "vicinity": "254 Jurong East Street 24"
+}

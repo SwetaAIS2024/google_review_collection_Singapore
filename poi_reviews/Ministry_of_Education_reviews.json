@@ -1,0 +1,28 @@
+{
+  "formatted_address": "25 Jln Tembusu, Singapore 438234",
+  "geometry": {
+    "location": {
+      "lat": 1.3034437,
+      "lng": 103.8986268
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304810680291502,
+        "lng": 103.8999631302915
+      },
+      "southwest": {
+        "lat": 1.302112719708498,
+        "lng": 103.8972651697085
+      }
+    }
+  },
+  "name": "Ministry of Education",
+  "place_id": "ChIJ63YoPWwY2jERwUPgMxhw9_g",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17939930889905521601",
+  "vicinity": "25 Jalan Tembusu"
+}

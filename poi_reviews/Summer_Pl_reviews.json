@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356895,
+      "lng": 103.8681649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358184230291502,
+        "lng": 103.8695084802915
+      },
+      "southwest": {
+        "lat": 1.355486269708498,
+        "lng": 103.8668105197085
+      }
+    }
+  },
+  "name": "Summer Pl",
+  "place_id": "ChIJwQTPKqgX2jERVf9SWAeV7Dg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Keith Faith",
+      "author_url": "https://www.google.com/maps/contrib/103541026235581601535/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeHM4Kdo598pWLyjXuAxhAGKS2388bpcr0tEFhA25HoNyrcM8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Very good da!",
+      "time": 1483251597,
+      "translated": false
+    },
+    {
+      "author_name": "Dillip kumar sahoo (dilugamer)",
+      "author_url": "https://www.google.com/maps/contrib/108440492393012603202/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV_zJCPMunX2XP2Ax17m4VnFh9pNJZegBj1oYR6sSrBG4BI6Sa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509338770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4101817219406823253",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

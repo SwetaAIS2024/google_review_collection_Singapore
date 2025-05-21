@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Biopolis Dr, Singapore 138622",
+  "geometry": {
+    "location": {
+      "lat": 1.3013281,
+      "lng": 103.7927389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302703030291502,
+        "lng": 103.7940468802915
+      },
+      "southwest": {
+        "lat": 1.300005069708498,
+        "lng": 103.7913489197085
+      }
+    }
+  },
+  "name": "Advanced Medicine drop off",
+  "place_id": "ChIJEWe2RQAb2jERQn9rLtQmlc4",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14885846836096761666",
+  "vicinity": "1 Biopolis Drive, Singapore"
+}

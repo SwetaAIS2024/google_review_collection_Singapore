@@ -1,0 +1,31 @@
+{
+  "formatted_address": "632 Yishun Street 61, Singapore 760632",
+  "geometry": {
+    "location": {
+      "lat": 1.4185433,
+      "lng": 103.839036
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420014080291502,
+        "lng": 103.8404948802915
+      },
+      "southwest": {
+        "lat": 1.417316119708498,
+        "lng": 103.8377969197085
+      }
+    }
+  },
+  "name": "Yi Cing Mini-super Market",
+  "place_id": "ChIJQ9gKfRMU2jERST_E6tQBm-o",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16905107640248713033",
+  "vicinity": "632 Yishun Street 61, Singapore"
+}

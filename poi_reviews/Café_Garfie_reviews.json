@@ -1,0 +1,29 @@
+{
+  "formatted_address": "951A Tampines St. 96, Singapore 521951",
+  "geometry": {
+    "location": {
+      "lat": 1.3440725,
+      "lng": 103.9358427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345480130291502,
+        "lng": 103.9370523302915
+      },
+      "southwest": {
+        "lat": 1.342782169708498,
+        "lng": 103.9343543697085
+      }
+    }
+  },
+  "name": "Café Garfie",
+  "place_id": "ChIJUZqphHg92jER9fIHVVwlwgc",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=559050382241166069",
+  "vicinity": "951A Tampines Street 96"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297299,
+      "lng": 103.876511
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298682430291502,
+        "lng": 103.8778568302915
+      },
+      "southwest": {
+        "lat": 1.295984469708498,
+        "lng": 103.8751588697085
+      }
+    }
+  },
+  "name": "Opp Camelot By-The-Water",
+  "place_id": "ChIJO2oFvVEY2jERO9-UMGP7t6g",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Good stop new location inconvenient",
+      "time": 1685327648,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Dewandaru",
+      "author_url": "https://www.google.com/maps/contrib/109920369883362860558/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8vRm5Mn4xQlJPxPKNsbkxoOZcQCJSQhmYgp4rhgxQQzDGTtI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482035029,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Aja",
+      "author_url": "https://www.google.com/maps/contrib/109388293704260030632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVhmXPwvxhAYcA-cffDF0svQJFhzqh0Q1w3NORYDxhFpEqaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1412432411,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12157462122545340219",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

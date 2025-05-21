@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Blk 201 Clementi Ave 6, Singapore 120201",
+  "geometry": {
+    "location": {
+      "lat": 1.320232,
+      "lng": 103.7629963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321660130291502,
+        "lng": 103.7642939302915
+      },
+      "southwest": {
+        "lat": 1.318962169708498,
+        "lng": 103.7615959697085
+      }
+    }
+  },
+  "name": "Music in the House",
+  "place_id": "ChIJT6bX6j4b2jERrpITQM3nUF4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Joe Cheng",
+      "author_url": "https://www.google.com/maps/contrib/113800530660088895889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzAmeN-QpLUFR0AvUB-eprYMYZq4FgYR9ZfZHQjyMgU3rpNEE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717639331,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6796186706431414958",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 201 Clementi Avenue 6"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3191569,
+      "lng": 103.772486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320570130291502,
+        "lng": 103.7738062302915
+      },
+      "southwest": {
+        "lat": 1.317872169708498,
+        "lng": 103.7711082697085
+      }
+    }
+  },
+  "name": "Bef Clementi Rd",
+  "place_id": "ChIJa0X_TIYa2jERIT8AEPYtE_g",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "Matthew Leong",
+      "author_url": "https://www.google.com/maps/contrib/100779983761833501120/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcZzg6Tswrw9gHvwb7t_vIxK27ohlAeso0MLFZ3QMjpSZCc78=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Lousy bus stop",
+      "time": 1498271456,
+      "translated": false
+    },
+    {
+      "author_name": "John Friend101_",
+      "author_url": "https://www.google.com/maps/contrib/112052762015870348534/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8-ZDmAthlpwIw99O2qdgh9JlZRINuYK0wju83AzNBZJlfkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610710157,
+      "translated": false
+    },
+    {
+      "author_name": "Deborah Ong",
+      "author_url": "https://www.google.com/maps/contrib/104271677133945034989/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0fMmzvaLyMN-8jXnkmouCfKlThDBXAQp12XHqcoRida0Dynm6=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482204341,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17875681880817286945",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

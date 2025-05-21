@@ -1,0 +1,30 @@
+{
+  "formatted_address": "468 Jurong West Street 41, Singapore 640468",
+  "geometry": {
+    "location": {
+      "lat": 1.3486019,
+      "lng": 103.7204578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349815180291502,
+        "lng": 103.7219703802915
+      },
+      "southwest": {
+        "lat": 1.347117219708498,
+        "lng": 103.7192724197085
+      }
+    }
+  },
+  "name": "Poh Lai Store",
+  "place_id": "ChIJG0ODrN0P2jERGsz8ZMuEOz0",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4412266269047049242",
+  "vicinity": "468 Jurong West Street 41, Singapore"
+}

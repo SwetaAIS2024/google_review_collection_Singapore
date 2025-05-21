@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Woodlands Rd, Singapore 677899",
+  "geometry": {
+    "location": {
+      "lat": 1.37978,
+      "lng": 103.760383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381165380291502,
+        "lng": 103.7617500802915
+      },
+      "southwest": {
+        "lat": 1.378467419708498,
+        "lng": 103.7590521197085
+      }
+    }
+  },
+  "name": "Jabelle De Beaute",
+  "place_id": "ChIJTXT5XbwR2jERj78aBes-ywE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Shaiful Adha",
+      "author_url": "https://www.google.com/maps/contrib/116433203109780580363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP6kguzR-zGZYG1mzR9mYNzUI-oTSyLVNa1laoi0pJk8sxNFU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "closed when i appear even though it stated that it's opening timing is 10 am",
+      "time": 1536723175,
+      "translated": false
+    }
+  ],
+  "types": [
+    "beauty_salon",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=129266193434066831",
+  "user_ratings_total": 1,
+  "vicinity": "1 Woodlands Road"
+}

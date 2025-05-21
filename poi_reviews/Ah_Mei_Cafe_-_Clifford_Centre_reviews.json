@@ -1,0 +1,30 @@
+{
+  "formatted_address": "24 Raffles Pl, Singapore 048621",
+  "geometry": {
+    "location": {
+      "lat": 1.283847,
+      "lng": 103.852123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285213930291502,
+        "lng": 103.8536003802915
+      },
+      "southwest": {
+        "lat": 1.282515969708498,
+        "lng": 103.8509024197085
+      }
+    }
+  },
+  "name": "Ah Mei Cafe - Clifford Centre",
+  "place_id": "ChIJOWoWyA4Z2jER87oWcJ9-UAM",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=238830003496073971",
+  "vicinity": "24 Raffles Place"
+}

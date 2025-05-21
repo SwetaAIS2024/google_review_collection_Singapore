@@ -1,0 +1,30 @@
+{
+  "formatted_address": "34 Upper Cross St, #01-160, Singapore 050034",
+  "geometry": {
+    "location": {
+      "lat": 1.2862351,
+      "lng": 103.8422531
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287721680291502,
+        "lng": 103.8436517802915
+      },
+      "southwest": {
+        "lat": 1.285023719708498,
+        "lng": 103.8409538197085
+      }
+    }
+  },
+  "name": "Great Value Pte Ltd",
+  "place_id": "ChIJ3Y-E--QZ2jERnhJF3tRk2go",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=782048350727115422",
+  "vicinity": "34 Upper Cross Street, #01-160, Singapore"
+}

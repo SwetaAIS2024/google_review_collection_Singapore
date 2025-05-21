@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377172,
+      "lng": 103.8601
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378510580291502,
+        "lng": 103.8614519302915
+      },
+      "southwest": {
+        "lat": 1.375812619708498,
+        "lng": 103.8587539697085
+      }
+    }
+  },
+  "name": "Aft CTE",
+  "place_id": "ChIJV-F5bvEW2jER-d8XsuSpml4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6816947785684213753",
+  "vicinity": "Singapore"
+}

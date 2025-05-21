@@ -1,0 +1,62 @@
+{
+  "formatted_address": "1 Jalan Anak Bukit, Singapore 588996",
+  "geometry": {
+    "location": {
+      "lat": 1.3388803,
+      "lng": 103.7786025
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340228730291502,
+        "lng": 103.7799511802915
+      },
+      "southwest": {
+        "lat": 1.337530769708498,
+        "lng": 103.7772532197085
+      }
+    }
+  },
+  "name": "Art Zone",
+  "place_id": "ChIJ3dARAokQ2jERnP6Utjbr5vE",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Dangel Lee Warner",
+      "author_url": "https://www.google.com/maps/contrib/104467157457886623801/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVONLVIpFyKTrVaxLCus15aOy78QKoY8DK4XNeQlywHkM_WPi5tKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1614832518,
+      "translated": false
+    },
+    {
+      "author_name": "kj tan",
+      "author_url": "https://www.google.com/maps/contrib/112973624678354202977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCPIpbb41QQXoVy5MqAXfSFZSvA_wC6jt5lwECtGhXfWgjSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581209716,
+      "translated": false
+    },
+    {
+      "author_name": "Cen Lee",
+      "author_url": "https://www.google.com/maps/contrib/103366362707859579459/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL0GPQkwF3-FfTl36uyS6cCET72KZDJhgzCmTU2jVgMiPU7zg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530700324,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17430878028008062620",
+  "user_ratings_total": 3,
+  "vicinity": "1 Jalan Anak Bukit"
+}

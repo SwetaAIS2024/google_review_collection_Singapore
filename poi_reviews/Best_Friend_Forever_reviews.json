@@ -1,0 +1,29 @@
+{
+  "formatted_address": "64 Loyang Way, Singapore 508754",
+  "geometry": {
+    "location": {
+      "lat": 1.383927,
+      "lng": 103.974311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385300480291502,
+        "lng": 103.9756417802915
+      },
+      "southwest": {
+        "lat": 1.382602519708498,
+        "lng": 103.9729438197085
+      }
+    }
+  },
+  "name": "Best Friend Forever",
+  "place_id": "ChIJ5yFjNgA92jERRsFQR1tLJJs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11179143030450995526",
+  "vicinity": "64 Loyang Way, Singapore"
+}

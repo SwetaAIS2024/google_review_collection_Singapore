@@ -1,0 +1,45 @@
+{
+  "formatted_address": "82 Whampoa Dr, #01-965 320082, Singapore 327748",
+  "geometry": {
+    "location": {
+      "lat": 1.3239428,
+      "lng": 103.8566468
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325256180291502,
+        "lng": 103.8580366802915
+      },
+      "southwest": {
+        "lat": 1.322558219708498,
+        "lng": 103.8553387197085
+      }
+    }
+  },
+  "name": "DE KING MEDICAL HALL",
+  "place_id": "ChIJJ1eteNcZ2jERrak10s0RhhI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tan Patrick",
+      "author_url": "https://www.google.com/maps/contrib/103499783555422367239/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFA25PZOzoRX9LD6YbxmRVPBL8IO_umiLsZHxZkHCZNdCg4Hnj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739510642,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1334773915254630829",
+  "user_ratings_total": 1,
+  "vicinity": "82 Whampoa Drive, #01-965 320082"
+}

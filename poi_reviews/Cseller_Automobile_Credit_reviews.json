@@ -1,0 +1,31 @@
+{
+  "formatted_address": "10 Anson Road, #21-02, International Plaza, 079903, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.275972,
+      "lng": 103.845782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277456330291502,
+        "lng": 103.8471133802915
+      },
+      "southwest": {
+        "lat": 1.274758369708498,
+        "lng": 103.8444154197085
+      }
+    }
+  },
+  "name": "Cseller Automobile Credit",
+  "place_id": "ChIJPV2RRhMZ2jEReQQEO1Wtohg",
+  "types": [
+    "bank",
+    "finance",
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1775171784711341177",
+  "vicinity": "10 Anson Road, #21-02, International Plaza, 079903"
+}

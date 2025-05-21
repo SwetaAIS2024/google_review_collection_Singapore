@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Nanyang Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3565892,
+      "lng": 103.6874947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357931880291502,
+        "lng": 103.6888545802915
+      },
+      "southwest": {
+        "lat": 1.355233919708498,
+        "lng": 103.6861566197085
+      }
+    }
+  },
+  "name": "Nanyang Crescent Bus Park",
+  "place_id": "ChIJU7wXQlwP2jERJBMzivM1knc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Bh",
+      "author_url": "https://www.google.com/maps/contrib/108786365683567282803/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMyNP3AmQJk3tiBcmcOTAnSov77lD_HoCX5StqPWI1z6TOwg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "9 months ago",
+      "text": "This area is designated for the parking of NTU buses within the campus grounds.",
+      "time": 1722415357,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8616008357225108260",
+  "user_ratings_total": 1,
+  "vicinity": "Nanyang Crescent"
+}

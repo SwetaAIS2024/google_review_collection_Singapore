@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3461745,
+      "lng": 103.9608567
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347552830291502,
+        "lng": 103.9622388302915
+      },
+      "southwest": {
+        "lat": 1.344854869708498,
+        "lng": 103.9595408697085
+      }
+    }
+  },
+  "name": "Jalan Pelatok Open Space",
+  "place_id": "ChIJmfFvJ-A82jERYQkrH2Jgi9g",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15603671308501191009",
+  "vicinity": "Singapore"
+}

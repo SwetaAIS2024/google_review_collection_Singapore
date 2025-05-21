@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 614 Tampines North Dr. 1, #01-K1, Singapore 520614",
+  "geometry": {
+    "location": {
+      "lat": 1.365567,
+      "lng": 103.9366465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366861730291502,
+        "lng": 103.9379296302915
+      },
+      "southwest": {
+        "lat": 1.364163769708498,
+        "lng": 103.9352316697085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines North Drive 1",
+  "place_id": "ChIJ4V-tLfY92jERZWp8wZj_wgI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=199002365103991397",
+  "vicinity": "Blk 614 Tampines North Drive 1, #01-K1"
+}

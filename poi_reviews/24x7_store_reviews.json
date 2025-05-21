@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Lor 10 Geylang, Singapore 399039",
+  "geometry": {
+    "location": {
+      "lat": 1.3116819,
+      "lng": 103.8774761
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313044330291502,
+        "lng": 103.8788905302915
+      },
+      "southwest": {
+        "lat": 1.310346369708498,
+        "lng": 103.8761925697085
+      }
+    }
+  },
+  "name": "24x7 store",
+  "place_id": "ChIJ0w5xTPQZ2jERHNA9nT-MMsA",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13849286008966598684",
+  "vicinity": "6A Lorong 10 Geylang, Singapore"
+}

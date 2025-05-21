@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Yishun, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4262424,
+      "lng": 103.8409204
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427429480291502,
+        "lng": 103.8420986302915
+      },
+      "southwest": {
+        "lat": 1.424731519708498,
+        "lng": 103.8394006697085
+      }
+    }
+  },
+  "name": "Walk the Giant",
+  "place_id": "ChIJ2RU5dAAV2jERswpGAu5wiTM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "🌳Walk the Giant is a paved concrete walkway near Fitness Station at the north of the Park.\n🌲It runs parallel to a section of Yishun Central road.\n🌳Interesting facts about trees are embedded into the walkway.\n🪵Located along the walkway at intervals are round concrete seats arranged in a circular manner.\n🌲🌳It's a uniquely interesting feature at the Park.",
+      "time": 1738728455,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3713623535286356659",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

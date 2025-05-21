@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Upper Serangoon View, Singapore 534809",
+  "geometry": {
+    "location": {
+      "lat": 1.3748539,
+      "lng": 103.9030884
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376202880291502,
+        "lng": 103.9044373802915
+      },
+      "southwest": {
+        "lat": 1.373504919708498,
+        "lng": 103.9017394197085
+      }
+    }
+  },
+  "name": "Anthony",
+  "place_id": "ChIJbUBtoU8X2jERmEEzmNr6QsA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "akshaya Sivakumar",
+      "author_url": "https://www.google.com/maps/contrib/107295196728202394188/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTwjqZ6alMck8xUEQ4DbbsoEbHzOgTjPnCUOKjjVeX-2gDRf8H=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744264669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13853911220508377496",
+  "user_ratings_total": 1,
+  "vicinity": "Upper Serangoon View"
+}

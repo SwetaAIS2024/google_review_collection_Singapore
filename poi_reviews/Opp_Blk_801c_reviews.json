@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301017,
+      "lng": 103.762291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302389680291502,
+        "lng": 103.7636900302915
+      },
+      "southwest": {
+        "lat": 1.299691719708498,
+        "lng": 103.7609920697085
+      }
+    }
+  },
+  "name": "Opp Blk 801c",
+  "place_id": "ChIJMX4Tyu8a2jERG2xbUeJQ_g4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1080389893573274651",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "7 Empress Rd, #01-67, Empress Market, Singapore 260007",
+  "geometry": {
+    "location": {
+      "lat": 1.3163893,
+      "lng": 103.8057652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317795980291502,
+        "lng": 103.8070888802915
+      },
+      "southwest": {
+        "lat": 1.315098019708498,
+        "lng": 103.8043909197085
+      }
+    }
+  },
+  "name": "Chop Teck Seng",
+  "place_id": "ChIJsUjoMQAb2jERgZATfcF6JR4",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2172277366721843329",
+  "vicinity": "7 Empress Road, #01-67, Empress Market, Singapore"
+}

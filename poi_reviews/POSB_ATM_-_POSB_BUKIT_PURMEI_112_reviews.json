@@ -1,0 +1,29 @@
+{
+  "formatted_address": "112 Bukit Purmei Rd, #01-00A, Singapore 090112",
+  "geometry": {
+    "location": {
+      "lat": 1.2745295,
+      "lng": 103.8259281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275962380291502,
+        "lng": 103.8272795802915
+      },
+      "southwest": {
+        "lat": 1.273264419708498,
+        "lng": 103.8245816197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT PURMEI/112",
+  "place_id": "ChIJYTq-ZwoZ2jERWqeOkfgPuvk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17994712821380589402",
+  "vicinity": "112 Bukit Purmei Road, #01-00A"
+}

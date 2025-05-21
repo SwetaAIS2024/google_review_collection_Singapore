@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37902,
+      "lng": 103.847229
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380347580291502,
+        "lng": 103.8485408802915
+      },
+      "southwest": {
+        "lat": 1.377649619708498,
+        "lng": 103.8458429197085
+      }
+    }
+  },
+  "name": "Nanyang Poly",
+  "place_id": "ChIJKVPMNuoW2jER1U2KxtTgeEg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5222170972404731349",
+  "vicinity": "Singapore"
+}

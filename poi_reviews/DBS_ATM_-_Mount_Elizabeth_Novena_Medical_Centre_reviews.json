@@ -1,0 +1,29 @@
+{
+  "formatted_address": "38 Irrawaddy Rd, Singapore 329563",
+  "geometry": {
+    "location": {
+      "lat": 1.3218577,
+      "lng": 103.843966
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323085880291502,
+        "lng": 103.8455634302915
+      },
+      "southwest": {
+        "lat": 1.320387919708498,
+        "lng": 103.8428654697085
+      }
+    }
+  },
+  "name": "DBS ATM - Mount Elizabeth Novena Medical Centre",
+  "place_id": "ChIJg6F_4cwZ2jERyR9324AkjNc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15531829350750429129",
+  "vicinity": "38 Irrawaddy Road"
+}

@@ -1,0 +1,85 @@
+{
+  "formatted_address": "200 Cantonment Rd, Singapore 089763",
+  "geometry": {
+    "location": {
+      "lat": 1.2735783,
+      "lng": 103.8413779
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274985080291502,
+        "lng": 103.8428378802915
+      },
+      "southwest": {
+        "lat": 1.272287119708498,
+        "lng": 103.8401399197085
+      }
+    }
+  },
+  "name": "Dominion",
+  "place_id": "ChIJ90Uuu2sZ2jERetSU6ejyXCM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ryan Quay",
+      "author_url": "https://www.google.com/maps/contrib/100204217015885486673/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvqC6jvzO6OQGinolQCBGpFgJxDBkbj-3uc5affE6PNugi8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very helpful and professional.",
+      "time": 1637309317,
+      "translated": false
+    },
+    {
+      "author_name": "Double AA",
+      "author_url": "https://www.google.com/maps/contrib/111684229603005493332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYeypFYyaFDv5IO3-oeS_I7_YHDgKQj8ekfv9NEgtxohEIzQKy=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Not responsible, not responsive and not professional",
+      "time": 1598327530,
+      "translated": false
+    },
+    {
+      "author_name": "Gavin Li",
+      "author_url": "https://www.google.com/maps/contrib/115493408585347899000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPNj12sn0yXnjxlwADSvoIB6ritGZaxT9lfWxX3-x_z8sVYmw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1594201605,
+      "translated": false
+    },
+    {
+      "author_name": "Albert tan",
+      "author_url": "https://www.google.com/maps/contrib/108833719619718462248/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5uxo0m9mwG-qfTq3Ubm0ihyVQbCORLGDuwGI73XkyeReckQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704960472,
+      "translated": false
+    },
+    {
+      "author_name": "Cheong aik-chye",
+      "author_url": "https://www.google.com/maps/contrib/107516998897450089168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNhj9qgAAUNs-zSccKsMwhyye5-SZgHJiUBnSyqqJk3jVuTTE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567464806,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2548178571350037626",
+  "user_ratings_total": 5,
+  "vicinity": "200 Cantonment Road, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "9 Tagore Ln, Singapore 787472",
+  "geometry": {
+    "location": {
+      "lat": 1.3837737,
+      "lng": 103.8260292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384996480291502,
+        "lng": 103.8274256802915
+      },
+      "southwest": {
+        "lat": 1.382298519708498,
+        "lng": 103.8247277197085
+      }
+    }
+  },
+  "name": "Haleywood Industries Pte Ltd",
+  "place_id": "ChIJRXG86rUW2jERVY8wfi8Hmg8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tze Yang Chaw",
+      "author_url": "https://www.google.com/maps/contrib/106112955714656340318/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcPp5UFJeAcaupdQ4pd1zORYfRZK9NG2O74U1SvFgEiE51cVfjug=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1600163105,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1124218957544329045",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tagore Lane"
+}

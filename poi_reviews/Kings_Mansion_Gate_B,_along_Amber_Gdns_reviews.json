@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30103,
+      "lng": 103.89834
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302354730291502,
+        "lng": 103.8996988802915
+      },
+      "southwest": {
+        "lat": 1.299656769708498,
+        "lng": 103.8970009197085
+      }
+    }
+  },
+  "name": "King's Mansion Gate B, along Amber Gdns",
+  "place_id": "ChIJu-453W4Y2jERpSae7HNzznU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8488849289368184485",
+  "vicinity": "Singapore"
+}

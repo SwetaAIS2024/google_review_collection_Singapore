@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Marine Parade Central, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3021176,
+      "lng": 103.9064868
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303426030291502,
+        "lng": 103.9078543302915
+      },
+      "southwest": {
+        "lat": 1.300728069708498,
+        "lng": 103.9051563697085
+      }
+    }
+  },
+  "name": "Hong Kong Stewed Soup- Zhong Zai Fan",
+  "place_id": "ChIJMzxTdM8Z2jERx6C5hS1jY3c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ken Woodlands",
+      "author_url": "https://www.google.com/maps/contrib/113611267426468840247/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTiv8vUq3t336z17_mCx7E9-85RKeCWbpsbZS_MAlSQ4uKHTE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Delicious 😋!",
+      "time": 1714963044,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8602828760375992519",
+  "user_ratings_total": 1,
+  "vicinity": "Marine Parade Central"
+}

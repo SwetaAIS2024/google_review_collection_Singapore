@@ -1,0 +1,27 @@
+{
+  "formatted_address": "10 Medical Dr, #02-03 MD 11, Singapore 117597",
+  "geometry": {
+    "location": {
+      "lat": 1.2958715,
+      "lng": 103.7817176
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297163180291502,
+        "lng": 103.7832585302915
+      },
+      "southwest": {
+        "lat": 1.294465219708498,
+        "lng": 103.7805605697085
+      }
+    }
+  },
+  "name": "Centre for Biomedical Ethics",
+  "place_id": "ChIJD7BdsFMa2jER1FIP-EhIBKA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11530420424211911380",
+  "vicinity": "10 Medical Drive, #02-03 MD 11"
+}

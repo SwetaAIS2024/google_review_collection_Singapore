@@ -1,0 +1,46 @@
+{
+  "formatted_address": "1 Woodlands Height, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.428847,
+      "lng": 103.7988766
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.430201430291502,
+        "lng": 103.8002131302915
+      },
+      "southwest": {
+        "lat": 1.427503469708498,
+        "lng": 103.7975151697085
+      }
+    }
+  },
+  "name": "Beverages",
+  "place_id": "ChIJzVbaQT4T2jERvLRis9d86g4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kwong Fei Yee",
+      "author_url": "https://www.google.com/maps/contrib/118030178376808365901/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXSTSRtNgAfr4F9hG5R--eq5_xEIcGnF7cEFBWhcE269TSrA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "This is the beverages stall at this Koufu HQ foodcourt. We ordered the breakfast set C. The piece of toast is huge with nice thick kaya and thick slab of butter. The coffee is also thick and has the omph. Hmm... one word of caution though, I do find that for coffeeshop, the quality of the coffee depends alot on who is making it on that day. Hopefully the next time you order, you get a good coffee maker!",
+      "time": 1659226417,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1074808726950687932",
+  "user_ratings_total": 1,
+  "vicinity": "1 Woodlands Height"
+}

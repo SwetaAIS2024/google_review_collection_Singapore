@@ -1,0 +1,52 @@
+{
+  "formatted_address": "1 Kay Siang Rd, #08-01/02, Singapore 248922",
+  "geometry": {
+    "location": {
+      "lat": 1.2960465,
+      "lng": 103.8157393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297330630291502,
+        "lng": 103.8170872302915
+      },
+      "southwest": {
+        "lat": 1.294632669708498,
+        "lng": 103.8143892697085
+      }
+    }
+  },
+  "name": "ECTA",
+  "place_id": "ChIJe-kzz3IY2jERR0pj7sPnINw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pearlyn Yap",
+      "author_url": "https://www.google.com/maps/contrib/100146700165843425688/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAP6JvGd4wqQbyqVjcr5aHFiHZ4jryMj4RqUNKGr5vjnjAQlxI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676680173,
+      "translated": false
+    },
+    {
+      "author_name": "Kenneth Kwa",
+      "author_url": "https://www.google.com/maps/contrib/112336500488103886307/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGjmJnItEMjEb0-hkApHkVkXxReclbh1nxiFXIBgJHpZloE8wEzg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512860450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15861932716303010375",
+  "user_ratings_total": 2,
+  "vicinity": "1 Kay Siang Road, #08-01/02, Singapore"
+}

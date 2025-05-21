@@ -1,0 +1,41 @@
+{
+  "formatted_address": "51 Sakra Avenue, Jurong Island, Singapore 627894",
+  "geometry": {
+    "location": {
+      "lat": 1.2596005,
+      "lng": 103.7025235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.260942880291502,
+        "lng": 103.7038883802915
+      },
+      "southwest": {
+        "lat": 1.258244919708498,
+        "lng": 103.7011904197085
+      }
+    }
+  },
+  "name": "Sembcorp Industries Ltd - SUT",
+  "place_id": "ChIJ7VuGWZ4E2jERFV-kXTNz6SY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Azman A",
+      "author_url": "https://www.google.com/maps/contrib/101923597223779868044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHePJl92PaJZMR3NJaV7V_HjuQx-Nfse_XsubrkaElxfmuf4Q0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508384737,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2803898907466424085",
+  "user_ratings_total": 1,
+  "vicinity": "51 Sakra Avenue, Jurong Island"
+}

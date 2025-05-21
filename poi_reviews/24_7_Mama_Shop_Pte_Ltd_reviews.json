@@ -1,0 +1,44 @@
+{
+  "formatted_address": "111 Tampines Rd, #01-03 Trilive Condo, Singapore 535133",
+  "geometry": {
+    "location": {
+      "lat": 1.361973,
+      "lng": 103.8914729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363328180291502,
+        "lng": 103.8928784302915
+      },
+      "southwest": {
+        "lat": 1.360630219708498,
+        "lng": 103.8901804697085
+      }
+    }
+  },
+  "name": "24/7 Mama Shop Pte Ltd",
+  "place_id": "ChIJuY90g1AX2jERLoX0CxxGBFc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ahmad Farkhan",
+      "author_url": "https://www.google.com/maps/contrib/102069595095096973920/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhq6DoBVk3maqaDrm_nG9sMsiJLPz8FRPYILChioDtmI1Ynw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711454619,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6270213667480175918",
+  "user_ratings_total": 1,
+  "vicinity": "111 Tampines Road, #01-03 Trilive Condo"
+}

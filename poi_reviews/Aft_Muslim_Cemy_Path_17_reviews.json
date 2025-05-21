@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382839,
+      "lng": 103.696999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384182030291502,
+        "lng": 103.6983886802915
+      },
+      "southwest": {
+        "lat": 1.381484069708498,
+        "lng": 103.6956907197085
+      }
+    }
+  },
+  "name": "Aft Muslim Cemy Path 17",
+  "place_id": "ChIJfWzpiUIO2jER26Quh-4yhQ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Minesh Velmulugan",
+      "author_url": "https://www.google.com/maps/contrib/117455568647317233224/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0zUM8J2aedlDd96Je2JTPzsIefQqE4Jkz141wxU3EobwuAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482901824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=974240894447166683",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

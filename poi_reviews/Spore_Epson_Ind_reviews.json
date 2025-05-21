@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335593,
+      "lng": 103.641541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336952630291502,
+        "lng": 103.6429002802915
+      },
+      "southwest": {
+        "lat": 1.334254669708498,
+        "lng": 103.6402023197085
+      }
+    }
+  },
+  "name": "S'pore Epson Ind",
+  "place_id": "ChIJV_4VJFIP2jERb0n1pmYbPfI",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "xin sun",
+      "author_url": "https://www.google.com/maps/contrib/113987705763562563115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHT-1dlNeml6rSYM1QHiYs7b5Sf8lN9ijHyzCn3ZY366UWykhzAA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478081446,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17455137858459617647",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

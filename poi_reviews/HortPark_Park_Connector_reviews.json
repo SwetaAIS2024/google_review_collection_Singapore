@@ -1,0 +1,28 @@
+{
+  "formatted_address": "7 Canterbury Rd, Singapore 119802",
+  "geometry": {
+    "location": {
+      "lat": 1.2802453,
+      "lng": 103.7981348
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281565580291502,
+        "lng": 103.7994967802915
+      },
+      "southwest": {
+        "lat": 1.278867619708498,
+        "lng": 103.7967988197085
+      }
+    }
+  },
+  "name": "HortPark Park Connector",
+  "place_id": "ChIJ1QMBUwAb2jERSn-KEnFxknc",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8616073767569489738",
+  "vicinity": "7 Canterbury Road, Singapore"
+}

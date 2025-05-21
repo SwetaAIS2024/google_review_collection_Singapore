@@ -1,0 +1,30 @@
+{
+  "formatted_address": "179 Ang Mo Kio Ave 5, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3752304,
+      "lng": 103.8395115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376537980291502,
+        "lng": 103.8408590802915
+      },
+      "southwest": {
+        "lat": 1.373840019708498,
+        "lng": 103.8381611197085
+      }
+    }
+  },
+  "name": "Nam Religious Good Mini Supermarket",
+  "place_id": "ChIJq6qqesMW2jERUloeYQaJRf0",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18250143725480991314",
+  "vicinity": "179 Ang Mo Kio Avenue 5"
+}

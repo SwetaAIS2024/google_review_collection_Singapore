@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Temasek Blvd, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2961111,
+      "lng": 103.8592882
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297400330291502,
+        "lng": 103.8607598802915
+      },
+      "southwest": {
+        "lat": 1.294702369708498,
+        "lng": 103.8580619197085
+      }
+    }
+  },
+  "name": "サンテックシティ",
+  "place_id": "ChIJrS5peQAZ2jER_Q8y6I9tK7c",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13198763597782716413",
+  "vicinity": "3 Temasek Boulevard, Singapore"
+}

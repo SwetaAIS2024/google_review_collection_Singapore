@@ -1,0 +1,41 @@
+{
+  "formatted_address": "3 Tuas View Cl, Singapore 637491",
+  "geometry": {
+    "location": {
+      "lat": 1.2995557,
+      "lng": 103.6247855
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300902630291502,
+        "lng": 103.6261337802915
+      },
+      "southwest": {
+        "lat": 1.298204669708498,
+        "lng": 103.6234358197085
+      }
+    }
+  },
+  "name": "Biofuel Research",
+  "place_id": "ChIJORoTrnoG2jERPqHLDLWvNb0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sunil Kumar",
+      "author_url": "https://www.google.com/maps/contrib/104903058557897447174/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGDvgan-95lS2HVQLQ5TMNZihtIbh_u5p7xQowtUG90jAhEk2BLQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1400823304,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13633996639072657726",
+  "user_ratings_total": 1,
+  "vicinity": "3 Tuas View Close, Singapore"
+}

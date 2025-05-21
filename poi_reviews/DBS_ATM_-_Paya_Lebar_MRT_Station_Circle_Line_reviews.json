@@ -1,0 +1,45 @@
+{
+  "formatted_address": "15 Paya Lebar Rd, Singapore 409049",
+  "geometry": {
+    "location": {
+      "lat": 1.3172477,
+      "lng": 103.8924082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319040780291502,
+        "lng": 103.89562415
+      },
+      "southwest": {
+        "lat": 1.316342819708498,
+        "lng": 103.89106315
+      }
+    }
+  },
+  "name": "DBS ATM - Paya Lebar MRT Station Circle Line",
+  "place_id": "ChIJP9M-sFEZ2jERz2kBE3MP7oA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Go Shaman",
+      "author_url": "https://www.google.com/maps/contrib/108450867817701001688/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGdbs_McIkZRWLva44dcjg4-OjI5Krolf9jZISvpYFbgF1b-8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "no cash deposit.",
+      "time": 1558526883,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9290380068226427343",
+  "user_ratings_total": 1,
+  "vicinity": "15 Paya Lebar Road, Singapore"
+}

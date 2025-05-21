@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2779314,
+      "lng": 103.80862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279253530291502,
+        "lng": 103.8099604302915
+      },
+      "southwest": {
+        "lat": 1.276555569708498,
+        "lng": 103.8072624697085
+      }
+    }
+  },
+  "name": "Opp Blk 85",
+  "place_id": "ChIJlfQHIsUb2jERmtU3EMyQbZ4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Leslie Boado",
+      "author_url": "https://www.google.com/maps/contrib/106955367593061423164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfkrpP2MU0tcMTYARsm0Z4O40Kjl0aluNSXwvVUnxXVB8oktJW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I love it",
+      "time": 1741141138,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11415939836573898138",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

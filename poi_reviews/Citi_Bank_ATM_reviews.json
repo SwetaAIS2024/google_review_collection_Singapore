@@ -1,0 +1,45 @@
+{
+  "formatted_address": "68 Orchard Rd, #02-27/28, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3007111,
+      "lng": 103.844904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301961930291502,
+        "lng": 103.8464860802915
+      },
+      "southwest": {
+        "lat": 1.299263969708498,
+        "lng": 103.8437881197085
+      }
+    }
+  },
+  "name": "Citi Bank ATM",
+  "place_id": "ChIJY317fr0Z2jERg86c5BW5i5w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jack Yiu",
+      "author_url": "https://www.google.com/maps/contrib/110422059662015362828/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbpi18QErL1Mnwk6GQd463GswqSrUyC7iJ__SsSlFQE6IryplO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "UnionPay credit card withdrawal fee is SGD 100 and SGD 3, the fee is medium and the operation interface is relatively friendly.",
+      "time": 1623893358,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11280313195360472707",
+  "user_ratings_total": 1,
+  "vicinity": "68 Orchard Road, #02-27/28, Singapore"
+}

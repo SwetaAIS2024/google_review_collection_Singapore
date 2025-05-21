@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3067286,
+      "lng": 103.6648909
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308109580291502,
+        "lng": 103.6665039302915
+      },
+      "southwest": {
+        "lat": 1.305411619708498,
+        "lng": 103.6638059697085
+      }
+    }
+  },
+  "name": "Allied Vending Hot Food Machine (GE Repair)",
+  "place_id": "ChIJFf21klMF2jERXDeEXedbAaQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yang Ng",
+      "author_url": "https://www.google.com/maps/contrib/107582388757199412554/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZyU2TBr9IUauz0aRQ8q_-WGjxZ0_S7U-sAs5YrCvN4KVe9IrT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Better than SooSanNa",
+      "time": 1612843826,
+      "translated": false
+    },
+    {
+      "author_name": "Kenji Koh",
+      "author_url": "https://www.google.com/maps/contrib/100900231126669794594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT69Ocf2_vUZdLbTWJIsFPYmw44Zsd2ml0A38DTMBdofznFvo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1612843737,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11817827946461411164",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

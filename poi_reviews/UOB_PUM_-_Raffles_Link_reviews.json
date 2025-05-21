@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Raffles Link, Singapore 039393",
+  "geometry": {
+    "location": {
+      "lat": 1.2920047,
+      "lng": 103.8558964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293324280291502,
+        "lng": 103.8573368802915
+      },
+      "southwest": {
+        "lat": 1.290626319708498,
+        "lng": 103.8546389197085
+      }
+    }
+  },
+  "name": "UOB PUM - Raffles Link",
+  "place_id": "ChIJRTQQJaYZ2jERI7rLrPfbxC0",
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3298002683944483363",
+  "vicinity": "1 Raffles Link"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Y5C, Jurong Port, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3040666,
+      "lng": 103.7249715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305661580291502,
+        "lng": 103.7262456802915
+      },
+      "southwest": {
+        "lat": 1.302963619708498,
+        "lng": 103.7235477197085
+      }
+    }
+  },
+  "name": "Jurong Port Y5B",
+  "place_id": "ChIJaSftUQAF2jERTIJwcyJXxUk",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5315750740657996364",
+  "vicinity": "Y5C, Jurong Port"
+}

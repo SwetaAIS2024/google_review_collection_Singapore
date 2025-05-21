@@ -1,0 +1,44 @@
+{
+  "formatted_address": "181 Orchard Rd, Level 3, Singapore 238896",
+  "geometry": {
+    "location": {
+      "lat": 1.300842,
+      "lng": 103.8399381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302194730291502,
+        "lng": 103.8412921802915
+      },
+      "southwest": {
+        "lat": 1.299496769708498,
+        "lng": 103.8385942197085
+      }
+    }
+  },
+  "name": "The Space",
+  "place_id": "ChIJx66YWg8Z2jERQnsvbuG7-SM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Chua",
+      "author_url": "https://www.google.com/maps/contrib/104805418112540145105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0GTHsNCcQCNmLOla7F3Z9YFyPTWTfhHU3LVQcVNZTHsLEm1ui=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very nice getaway on Level 3 within Orchard Central shopping mall!",
+      "time": 1676603028,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2592309637419072322",
+  "user_ratings_total": 1,
+  "vicinity": "181 Orchard Road, Level 3, Singapore"
+}

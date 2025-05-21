@@ -1,0 +1,44 @@
+{
+  "formatted_address": "809 French Rd, Singapore 200809",
+  "geometry": {
+    "location": {
+      "lat": 1.308384,
+      "lng": 103.861858
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309705430291502,
+        "lng": 103.8631778802915
+      },
+      "southwest": {
+        "lat": 1.307007469708498,
+        "lng": 103.8604799197085
+      }
+    }
+  },
+  "name": "Soon Fatt Hung Medical Trading Pte Ltd",
+  "place_id": "ChIJi4WI9skZ2jER4y7xB95Ocjk",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Gautam Aggarwal",
+      "author_url": "https://www.google.com/maps/contrib/105197201894581903864/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8Drzk2BWHM_2FFrzDPmlt2MREVcIeZZLfelhupPTNvtXhNQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688477099,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4139457723029860067",
+  "user_ratings_total": 1,
+  "vicinity": "809 French Road"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Ang Mo Kio Ind Park 2, #2 5068, Singapore 569571",
+  "geometry": {
+    "location": {
+      "lat": 1.3761516,
+      "lng": 103.8608681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377440680291502,
+        "lng": 103.8622877302915
+      },
+      "southwest": {
+        "lat": 1.374742719708498,
+        "lng": 103.8595897697085
+      }
+    }
+  },
+  "name": "SpeiseTech Pte Ltd",
+  "place_id": "ChIJkdD2IvEW2jER6sVULUIzcqM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "QW Tan",
+      "author_url": "https://www.google.com/maps/contrib/116379621721725563735/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpWvUrYeMJ5QI7T50vRnxZPCOO0LGLQNTarMiUiZpU6NgQGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676085012,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11777532334848656874",
+  "user_ratings_total": 1,
+  "vicinity": "Ang Mo Kio Ind Park 2, #2 5068"
+}

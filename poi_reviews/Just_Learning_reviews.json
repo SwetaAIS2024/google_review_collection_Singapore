@@ -1,0 +1,30 @@
+{
+  "formatted_address": "261 Waterloo St, Singapore 180261",
+  "geometry": {
+    "location": {
+      "lat": 1.298496,
+      "lng": 103.851496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300275030291502,
+        "lng": 103.8530923802915
+      },
+      "southwest": {
+        "lat": 1.297577069708498,
+        "lng": 103.8503944197085
+      }
+    }
+  },
+  "name": "Just Learning",
+  "place_id": "ChIJ27EeTbsZ2jERBJPDdNzZREI",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4775181045794575108",
+  "vicinity": "261 Waterloo Street"
+}

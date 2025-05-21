@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2940936,
+      "lng": 103.7832166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295979880291502,
+        "lng": 103.7842493802915
+      },
+      "southwest": {
+        "lat": 1.293281919708498,
+        "lng": 103.7815514197085
+      }
+    }
+  },
+  "name": "BackJoy-Singapore",
+  "place_id": "ChIJEdAr2FMa2jER-9KhrXkngXg",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8683264960104616699",
+  "vicinity": "5 Lower Kent Ridge Road, Singapore"
+}

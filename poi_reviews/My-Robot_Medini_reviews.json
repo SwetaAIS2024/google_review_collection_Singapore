@@ -1,0 +1,27 @@
+{
+  "formatted_address": "S-46-03, Pusat Komersil Visi Medini, Persiaran Medini 2, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4161844,
+      "lng": 103.621425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417544580291502,
+        "lng": 103.6227580802915
+      },
+      "southwest": {
+        "lat": 1.414846619708498,
+        "lng": 103.6200601197085
+      }
+    }
+  },
+  "name": "My-Robot Medini",
+  "place_id": "ChIJUWwBUEUL2jERY-6bcALhmoA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9266966583863668323",
+  "vicinity": "S-46-03, Pusat Komersil Visi Medini, Persiaran Medini 2, Bandar Medini Iskandar, Iskandar Puteri"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "349 Beach Rd, Singapore 199570",
+  "geometry": {
+    "location": {
+      "lat": 1.301574,
+      "lng": 103.8616767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302828830291502,
+        "lng": 103.8630725302915
+      },
+      "southwest": {
+        "lat": 1.300130869708498,
+        "lng": 103.8603745697085
+      }
+    }
+  },
+  "name": "酒拾度 @ Beer Belly",
+  "place_id": "ChIJF_5oZbEZ2jERTn9sbtYdkZA",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10417140219897478990",
+  "vicinity": "349 Beach Road"
+}

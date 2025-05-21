@@ -1,0 +1,30 @@
+{
+  "formatted_address": "432 Clementi Ave 3, Block 432, Singapore 120432",
+  "geometry": {
+    "location": {
+      "lat": 1.3139897,
+      "lng": 103.7625603
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315420730291502,
+        "lng": 103.7637780802915
+      },
+      "southwest": {
+        "lat": 1.312722769708498,
+        "lng": 103.7610801197085
+      }
+    }
+  },
+  "name": "Ban Shun Chan Medical Hall",
+  "place_id": "ChIJGddn3pEa2jERKqrokKfrzMM",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14108910837568154154",
+  "vicinity": "432 Clementi Avenue 3, Block 432, Singapore"
+}

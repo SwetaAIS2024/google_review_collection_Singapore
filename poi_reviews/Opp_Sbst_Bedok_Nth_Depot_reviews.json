@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337726,
+      "lng": 103.946465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339055630291502,
+        "lng": 103.9478110802915
+      },
+      "southwest": {
+        "lat": 1.336357669708498,
+        "lng": 103.9451131197085
+      }
+    }
+  },
+  "name": "Opp Sbst Bedok Nth Depot",
+  "place_id": "ChIJTSw0ADs92jERDad59dcMuZQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "郭明",
+      "author_url": "https://www.google.com/maps/contrib/107669464729611662831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMpnO4hcb4jHg2ZVIU2UJOzjEGnsejazK8p4sNvKrl6Bl21Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745795038,
+      "translated": false
+    },
+    {
+      "author_name": "Thang Khua Lian",
+      "author_url": "https://www.google.com/maps/contrib/101995295229689958405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOI7O4neZAcf51Og4u89dSP3EA1nZI2RcA5oA3IOiTsyHpHMBN=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543243484,
+      "translated": false
+    },
+    {
+      "author_name": "Shouwen wang",
+      "author_url": "https://www.google.com/maps/contrib/107781928162158137835/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX98GZDfOfx2iMKO8dyRsqwW34I9FQKuu3ba3gh_0FlovtgrW8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506159717,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10716610909980698381",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

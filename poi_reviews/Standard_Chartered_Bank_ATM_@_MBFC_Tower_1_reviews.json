@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Marina Bay Financial Centre (MBFC Tower 1, 8 Marina Blvd, Level 1, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.2799096,
+      "lng": 103.8540139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281471780291502,
+        "lng": 103.8554371302915
+      },
+      "southwest": {
+        "lat": 1.278773819708498,
+        "lng": 103.8527391697085
+      }
+    }
+  },
+  "name": "Standard Chartered Bank ATM @ MBFC Tower 1",
+  "place_id": "ChIJSyxs2jEZ2jERE2LNIuSL2vQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Basil Ting",
+      "author_url": "https://www.google.com/maps/contrib/110675472795091313880/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqyNvWisPkYyn8XqpVo1HCz6Mq5Wk3R_7iQ3q1riX776AZeKrL=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The customer service is utterly useless, requested for an annual fee waiver for my credit card. First time experiencing annual wee waivers rejections and the only explanation is “the banks decision is final”. It looks to me like a cheap method of SCB to get in a few extra dollars. Would never use this bank for any of their services again. Been using so many banks in SG and all proceeded to waive annual fees without hesitation and trouble.",
+      "time": 1715925848,
+      "translated": false
+    },
+    {
+      "author_name": "Vachagan Balayan",
+      "author_url": "https://www.google.com/maps/contrib/108268688808727695132/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs52DXrQQFg6rufdTL9E_hBqf6PnOpExAHp1o0zIm0RK-fGdwZyA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Worst bank that i had ever worked with. If you ever need a human operator to assist you know that you are screwed. To solve my issue i had to fly to Singapore and even after visiting their branch i had lots of issues resolving something very trivial.",
+      "time": 1665645615,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17643568302130029075",
+  "user_ratings_total": 2,
+  "vicinity": "Marina Bay Financial Centre (MBFC Tower 1, 8 Marina Boulevard, Level 1"
+}

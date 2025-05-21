@@ -1,0 +1,62 @@
+{
+  "formatted_address": "1 Stadium Pl, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3025249,
+      "lng": 103.8736219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303529030291502,
+        "lng": 103.8754581802915
+      },
+      "southwest": {
+        "lat": 1.300831069708498,
+        "lng": 103.8727602197085
+      }
+    }
+  },
+  "name": "Stadium Waterfront",
+  "place_id": "ChIJAQAAA0wY2jERLcJeuZIM9xQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jasmine",
+      "author_url": "https://www.google.com/maps/contrib/108341402289724941191/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK0iVBqYKZL1rlOiAmZSndGk1n2u1fXHVXi7cdjj_0Cl_I-5mn=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728656290,
+      "translated": false
+    },
+    {
+      "author_name": "Oliver-Bjoern Ritter: Trausnitz Kirchherr",
+      "author_url": "https://www.google.com/maps/contrib/112381920061065105979/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgSH3Zv90WpCRgK_bEGJ5zuwR7IoAxn4RK3HQwRew_-fT_0Rkw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690976307,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson",
+      "author_url": "https://www.google.com/maps/contrib/108457286515619385001/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI8GI40EHqoYErEvxqprUE4xfWuvW869ynhir6B-KUAS21uQVOsg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676364472,
+      "translated": false
+    }
+  ],
+  "types": [
+    "stadium",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1510690024320844333",
+  "user_ratings_total": 3,
+  "vicinity": "1 Stadium Place"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Raffles Quay, Singapore 048583",
+  "geometry": {
+    "location": {
+      "lat": 1.2810815,
+      "lng": 103.851973
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282833180291502,
+        "lng": 103.8532611802915
+      },
+      "southwest": {
+        "lat": 1.280135219708498,
+        "lng": 103.8505632197085
+      }
+    }
+  },
+  "name": "Rzb - Austria",
+  "place_id": "ChIJHXaCig4Z2jERqMo2Xa_zdkg",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5221628752491367080",
+  "vicinity": "1 Raffles Quay"
+}

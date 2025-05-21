@@ -1,0 +1,45 @@
+{
+  "formatted_address": "624 Choa Chu Kang Street 62, #01-K2, Singapore 680624",
+  "geometry": {
+    "location": {
+      "lat": 1.397926,
+      "lng": 103.7467915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399641330291502,
+        "lng": 103.7483837302915
+      },
+      "southwest": {
+        "lat": 1.396943369708498,
+        "lng": 103.7456857697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Yew TEE Square",
+  "place_id": "ChIJvzVcBPQR2jERO3TYFJrJ4vw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Service All Product",
+      "author_url": "https://www.google.com/maps/contrib/106081658629755403257/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFsEnUwcO7fflru-rlxjExkh-k4qSEw3f8v9dLBOhB1NPv0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "A model that can be used for that purpose",
+      "time": 1501786996,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18222348705906324539",
+  "user_ratings_total": 1,
+  "vicinity": "624 Choa Chu Kang Street 62, #01-K2"
+}

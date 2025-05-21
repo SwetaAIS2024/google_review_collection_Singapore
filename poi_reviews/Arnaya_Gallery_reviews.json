@@ -1,0 +1,28 @@
+{
+  "formatted_address": "37 Tampines Street 34, Singapore 529240",
+  "geometry": {
+    "location": {
+      "lat": 1.3559882,
+      "lng": 103.9593598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357509180291502,
+        "lng": 103.9608909802915
+      },
+      "southwest": {
+        "lat": 1.354811219708498,
+        "lng": 103.9581930197085
+      }
+    }
+  },
+  "name": "Arnaya Gallery",
+  "place_id": "ChIJt2GaF6492jERfmUKZ0exWlw",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6654826319622858110",
+  "vicinity": "37 Tampines Street 34"
+}

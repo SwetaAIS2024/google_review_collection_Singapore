@@ -1,0 +1,52 @@
+{
+  "formatted_address": "9008 Tampines Industrial Park A Street 93,#02-15, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3418201,
+      "lng": 103.9425423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343218430291502,
+        "lng": 103.9437901802915
+      },
+      "southwest": {
+        "lat": 1.340520469708498,
+        "lng": 103.9410922197085
+      }
+    }
+  },
+  "name": "B.O.B Design",
+  "place_id": "ChIJmcMlgT492jERyrEwWRF82TA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Diana Tan",
+      "author_url": "https://www.google.com/maps/contrib/111328567229776205138/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfljUQL_SHODqV4U7OcyR_KYjy45desdaxOhKpWUB9ouexyY8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1615134752,
+      "translated": false
+    },
+    {
+      "author_name": "Dilys",
+      "author_url": "https://www.google.com/maps/contrib/112646736085022051278/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWKx-WpHAPtaqhcPl6_tblMPtXKMx-ITpGdXFSwjEMrt1jvQPa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1457929805,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3519980997719405002",
+  "user_ratings_total": 2,
+  "vicinity": "9008 Tampines Industrial Park A Street 93,#02-15"
+}

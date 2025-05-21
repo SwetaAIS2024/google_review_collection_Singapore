@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Jurong East Street 21, #22, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.3339423,
+      "lng": 103.7460817
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335266880291502,
+        "lng": 103.7474107802915
+      },
+      "southwest": {
+        "lat": 1.332568919708498,
+        "lng": 103.7447128197085
+      }
+    }
+  },
+  "name": "Singapore Watercolour Oil Painting Class",
+  "place_id": "ChIJKaODZIsZ2jERTh68Py02Qpk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "khan sab",
+      "author_url": "https://www.google.com/maps/contrib/104297030341341049769/reviews",
+      "language": "en-US",
+      "original_language": "cs",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeMbo2QiK9jP6b_YhRm7TSKMv68z89bg6Q1rpC19IvZ7oJn7bSGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "10 years ago",
+      "text": "Then",
+      "time": 1405387853,
+      "translated": true
+    },
+    {
+      "author_name": "Jalou Guinto",
+      "author_url": "https://www.google.com/maps/contrib/107765432664882535886/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuW0hQtWC2WN4rx8d1gjK_JuOjqOdeOZVBErh_M5aoeAKE9UtP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743068281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11043448804236598862",
+  "user_ratings_total": 2,
+  "vicinity": "Jurong East Street 21, #22"
+}

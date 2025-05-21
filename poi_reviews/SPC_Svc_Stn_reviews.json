@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314691,
+      "lng": 103.716019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315996830291502,
+        "lng": 103.7173715802915
+      },
+      "southwest": {
+        "lat": 1.313298869708498,
+        "lng": 103.7146736197085
+      }
+    }
+  },
+  "name": "SPC Svc Stn",
+  "place_id": "ChIJm153lkUF2jERKxr0qkcbDbc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jedidiah Ithiel",
+      "author_url": "https://www.google.com/maps/contrib/105871675373199611165/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ7ef-ikV-MQzx8_10X6i42084v4_j6fFwEm8XX5JBJ1WvJ4Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "It's closed!!!",
+      "time": 1711177352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13190228878262802987",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

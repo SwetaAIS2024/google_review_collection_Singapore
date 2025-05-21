@@ -1,0 +1,52 @@
+{
+  "formatted_address": "201 Henderson Rd, Singapore 159545",
+  "geometry": {
+    "location": {
+      "lat": 1.2827111,
+      "lng": 103.8204487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284062930291502,
+        "lng": 103.8217945802915
+      },
+      "southwest": {
+        "lat": 1.281364969708498,
+        "lng": 103.8190966197085
+      }
+    }
+  },
+  "name": "Fixx Systems Pte Ltd",
+  "place_id": "ChIJMcUMBCgY2jERV2o3z3I4sKE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ayikoru Desire",
+      "author_url": "https://www.google.com/maps/contrib/104263356871830741965/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpCDaTWMgivHTavIGd--3-0m1etAuzKnYB47DP4i-wRW5Bgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732264509,
+      "translated": false
+    },
+    {
+      "author_name": "José Escobedo",
+      "author_url": "https://www.google.com/maps/contrib/100384852870554893929/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO_uoZk5_machySYRjhUQKof6EzOr6jmeSMZOD6EiFmmHOoA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1630221492,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11650874301761415767",
+  "user_ratings_total": 2,
+  "vicinity": "201 Henderson Road"
+}

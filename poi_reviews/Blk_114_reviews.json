@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2820208,
+      "lng": 103.8067044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283416430291502,
+        "lng": 103.8080514302915
+      },
+      "southwest": {
+        "lat": 1.280718469708498,
+        "lng": 103.8053534697085
+      }
+    }
+  },
+  "name": "Blk 114",
+  "place_id": "ChIJEVOOA88b2jER4qcSfGUTJqA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrey Mischenko",
+      "author_url": "https://www.google.com/maps/contrib/111992330857784408761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdpAW39c9CC8R9VyY44byfhMXnNqRie4nuwkpGhfDgT2VWTeQJrw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482144430,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11539932421777696738",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

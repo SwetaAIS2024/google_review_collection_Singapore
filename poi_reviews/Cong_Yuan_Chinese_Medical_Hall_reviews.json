@@ -1,0 +1,30 @@
+{
+  "formatted_address": "727 Clementi West Street 2, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.304455,
+      "lng": 103.763716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305884280291502,
+        "lng": 103.7653977802915
+      },
+      "southwest": {
+        "lat": 1.303186319708498,
+        "lng": 103.7626998197085
+      }
+    }
+  },
+  "name": "Cong Yuan Chinese Medical Hall",
+  "place_id": "ChIJPQz4CfIa2jERmHNBxAf21i0",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3303097889940665240",
+  "vicinity": "727 Clementi West Street 2"
+}

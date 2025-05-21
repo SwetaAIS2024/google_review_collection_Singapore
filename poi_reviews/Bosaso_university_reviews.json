@@ -1,0 +1,28 @@
+{
+  "formatted_address": "30 Robertson Quay, Singapore 238251",
+  "geometry": {
+    "location": {
+      "lat": 1.291333,
+      "lng": 103.8414166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292701680291502,
+        "lng": 103.8428845802915
+      },
+      "southwest": {
+        "lat": 1.290003719708498,
+        "lng": 103.8401866197085
+      }
+    }
+  },
+  "name": "Bosaso university",
+  "place_id": "ChIJT8d0YvwZ2jERECbPS5yyARg",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1729860116243490320",
+  "vicinity": "30 Robertson Quay"
+}

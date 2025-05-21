@@ -1,0 +1,55 @@
+{
+  "formatted_address": "409A Ang Mo Kio Ave 10, #01-11, Singapore 561409",
+  "geometry": {
+    "location": {
+      "lat": 1.3627445,
+      "lng": 103.8554335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363875780291502,
+        "lng": 103.8566893302915
+      },
+      "southwest": {
+        "lat": 1.361177819708498,
+        "lng": 103.8539913697085
+      }
+    }
+  },
+  "name": "香記鷄飯",
+  "place_id": "ChIJCdKWOB0X2jEROzeci3zVJ3Y",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "J Seng",
+      "author_url": "https://www.google.com/maps/contrib/116938237846338409963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVP7OUCnLw68yrAPXNbrudd7mhfivsgqRFt8QQVrGjO-apmao_Lcg=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "The rice is cooked just nice, not oily. Chicken is roasted with crisp skin but meat is still soft. Not salty like some chicken rice stores. Of couse the chilli must be spicy to go with the chicken, and this store's chilli is just that, complimented by ginger paste dips.",
+      "time": 1626501155,
+      "translated": false
+    },
+    {
+      "author_name": "Shane Astar",
+      "author_url": "https://www.google.com/maps/contrib/107880449591480719836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9z2YRMVCdXRvphLWF1NP2m8U7nnF7ii7sX-cQUfx18GmLng=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1664963945,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8514008351462143803",
+  "user_ratings_total": 2,
+  "vicinity": "409A Ang Mo Kio Avenue 10, #01-11"
+}

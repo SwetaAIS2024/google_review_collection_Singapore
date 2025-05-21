@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.316531,
+      "lng": 103.73539
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317867680291502,
+        "lng": 103.7367949802915
+      },
+      "southwest": {
+        "lat": 1.315169719708498,
+        "lng": 103.7340970197085
+      }
+    }
+  },
+  "name": "Aft Penjuru Pl",
+  "place_id": "ChIJ8wthjbEa2jERpAyhU0nm8gY",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "salim reza",
+      "author_url": "https://www.google.com/maps/contrib/118006908179853688325/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXURN9ttWxVMjobMK6ok1UhPblMBZgGMOOEvhcyRNwQSgRkk-ra=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Good",
+      "time": 1485512563,
+      "translated": false
+    },
+    {
+      "author_name": "Forhad Hossen",
+      "author_url": "https://www.google.com/maps/contrib/103888910156289922558/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9NmUWxydJkV1kkF6FwrQmmOd5lVc7q0tgTx2zu8F4Pgpfmdky=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668869995,
+      "translated": false
+    },
+    {
+      "author_name": "Mahabub SG",
+      "author_url": "https://www.google.com/maps/contrib/108031541032369943546/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5DYFCzbxVfAnj50pIOdkMKXZSZQ_Qj0XGikrcMjHFniXQTLLLZg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665480802,
+      "translated": false
+    },
+    {
+      "author_name": "Saiful Islam Sg",
+      "author_url": "https://www.google.com/maps/contrib/112866996652857931243/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNEV2RmAjFFLvBEQu1TA3nOwK0UFrnvfzjP1_TDdvx7j7WZDL4Cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571807883,
+      "translated": false
+    },
+    {
+      "author_name": "Kabilan S",
+      "author_url": "https://www.google.com/maps/contrib/103803671175827873843/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJwzmUcL2c7BCJ1N6GVwZ562Yby7nN2F_VbkOfF6S8gTJujaY6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512380483,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=500715711201610916",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

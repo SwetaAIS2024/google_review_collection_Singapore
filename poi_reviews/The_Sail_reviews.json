@@ -1,0 +1,92 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2816618,
+      "lng": 103.8530344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283039580291502,
+        "lng": 103.8544113802915
+      },
+      "southwest": {
+        "lat": 1.280341619708498,
+        "lng": 103.8517134197085
+      }
+    }
+  },
+  "name": "The Sail",
+  "place_id": "ChIJ1RxtUQ4Z2jERzvF_IId6r50",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Natasha S",
+      "author_url": "https://www.google.com/maps/contrib/117847232994079258642/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMKrPEyg-Ah9TDPzD-yYsn8t3jxWGEp2LvERma1k53T3VFx6U=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "This is busstop number 03381",
+      "time": 1728103473,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Lin",
+      "author_url": "https://www.google.com/maps/contrib/116145964632997305699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0DIlZmUENeb6lV9AjtCYKGiF5ojAtL6ko9sgUg1NhdsymXCOY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Focal point to eat, live, play and work!",
+      "time": 1491280912,
+      "translated": false
+    },
+    {
+      "author_name": "Altaf Hussain (Engr)",
+      "author_url": "https://www.google.com/maps/contrib/114970215821699947756/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn7-l0jK8YhRU_VPdg8YNDf6co-7jVZsplCX8j2Ry5HB8DGw4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "More crowded",
+      "time": 1684589310,
+      "translated": false
+    },
+    {
+      "author_name": "chi13 tose",
+      "author_url": "https://www.google.com/maps/contrib/110025481387468277770/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCXXqbYU-SAbnkjXQaNqd6mRZPEtrYacmrehC0Gzf1IAPF1w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Bus number 400 was not popular.",
+      "time": 1688379574,
+      "translated": true
+    },
+    {
+      "author_name": "Eddie Chan",
+      "author_url": "https://www.google.com/maps/contrib/102462731244224597638/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaFodqcb0J_5oWM3VmsvF2C6K-ksY9PPt26_4OimpNfS0HvYUw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Convenient transportation",
+      "time": 1652606676,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11362435105663480270",
+  "user_ratings_total": 10,
+  "vicinity": "Singapore"
+}

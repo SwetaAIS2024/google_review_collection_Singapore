@@ -1,0 +1,74 @@
+{
+  "formatted_address": "20 Harbour Dr, Singapore 117612",
+  "geometry": {
+    "location": {
+      "lat": 1.283076,
+      "lng": 103.779343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284344680291502,
+        "lng": 103.7806443302915
+      },
+      "southwest": {
+        "lat": 1.281646719708498,
+        "lng": 103.7779463697085
+      }
+    }
+  },
+  "name": "Smit Lamnalco Singapore",
+  "place_id": "ChIJI41qF6kb2jER3HqpKRCC4vI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Michael Hogan",
+      "author_url": "https://www.google.com/maps/contrib/110167846696996864526/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTl8vYmJX8IJtHPL0oztxinqJuvwnRMoBWFoBMPVP8z7E8tpgL=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Beautiful complex, spacious and comfortable. ASD simulator with fantastic trainer, David Ferrier",
+      "time": 1557826507,
+      "translated": false
+    },
+    {
+      "author_name": "Rik van Vreden",
+      "author_url": "https://www.google.com/maps/contrib/109499082552470318052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP6Jiy-5m0KEtr3SFVDzubXCbcTVSQcJayd27_pHBzvnJocw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685056574,
+      "translated": false
+    },
+    {
+      "author_name": "Ricardo Gonzalez",
+      "author_url": "https://www.google.com/maps/contrib/115790236143442972629/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI3x8Bs8OAw_D6FfgcBKK9C4hDagu0DNSZK8GZAyo8iPRtfD2-MQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568156273,
+      "translated": false
+    },
+    {
+      "author_name": "apri yanto",
+      "author_url": "https://www.google.com/maps/contrib/115912753728213425884/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgqgPE3v2oVVaeaB41iFkNxCg6WDNxQBV4JKEJZ_TrtgozNqKqPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513965044,
+      "translated": false
+    }
+  ],
+  "types": [
+    "moving_company",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17501694107845229276",
+  "user_ratings_total": 4,
+  "vicinity": "20 Harbour Drive"
+}

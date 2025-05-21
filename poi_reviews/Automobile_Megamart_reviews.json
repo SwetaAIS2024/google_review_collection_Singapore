@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3312999,
+      "lng": 103.9014532
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.332601830291502,
+        "lng": 103.9028544302915
+      },
+      "southwest": {
+        "lat": 1.329903869708498,
+        "lng": 103.9001564697085
+      }
+    }
+  },
+  "name": "Automobile Megamart",
+  "place_id": "ChIJu5Y72PYX2jERoZFoTUDa8ic",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Coming from Circuit Rd / Circuit Link direction, this is the exact bus station to alight to get food & grocery from either Block 301 or Block 302 Ubi Ave 2.",
+      "time": 1507980600,
+      "translated": false
+    },
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Wow good place",
+      "time": 1501176525,
+      "translated": false
+    },
+    {
+      "author_name": "lin gopi",
+      "author_url": "https://www.google.com/maps/contrib/109414524832952956811/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvWTWRoFJaDgfEUOYLmR0fXeLNhK9PCffYgiW_fTMvOtTc5NyEqw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529667885,
+      "translated": false
+    },
+    {
+      "author_name": "Armaandeep Singh",
+      "author_url": "https://www.google.com/maps/contrib/115668211689965056781/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqkCjj_gz0ijqxK2yjnVOn_XjVW3dY7x-433JRbatNsz7ll9Iaiw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507455587,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2878603081554629025",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

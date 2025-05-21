@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2727529,
+      "lng": 103.841408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274041030291502,
+        "lng": 103.8427296802915
+      },
+      "southwest": {
+        "lat": 1.271343069708498,
+        "lng": 103.8400317197085
+      }
+    }
+  },
+  "name": "Bef Cantonment Rd",
+  "place_id": "ChIJ1-gtrWsZ2jERJ9xJ3rM1Ml4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jason Karthik",
+      "author_url": "https://www.google.com/maps/contrib/112666372777596928540/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6o0-7tlojYH-RMs5tnyMy-vuvam76GY5OVREMFVPEXvqvag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523204235,
+      "translated": false
+    },
+    {
+      "author_name": "Tze-wei Lim (Averagebum)",
+      "author_url": "https://www.google.com/maps/contrib/108979338206566394181/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyxaXGj_L8rcDSzpArw8O08P_yoSnb4PyU5Y3nDI_gWv3JLAMx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476850802,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6787546635045559335",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

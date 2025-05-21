@@ -1,0 +1,56 @@
+{
+  "formatted_address": "57 Marine Ter, #01 121, Singapore 440057",
+  "geometry": {
+    "location": {
+      "lat": 1.3064945,
+      "lng": 103.9154413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307691130291502,
+        "lng": 103.9168089802915
+      },
+      "southwest": {
+        "lat": 1.304993169708498,
+        "lng": 103.9141110197085
+      }
+    }
+  },
+  "name": "Sin Rosaka Furniture Trading",
+  "place_id": "ChIJV2BjY3UY2jERw1oC_YH9ZkQ",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Daanii 123",
+      "author_url": "https://www.google.com/maps/contrib/108679983708890229167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqaWGg63z9Z_AI_EZ9RsmJg3bYJ9JL0kTwWPTZBOjOXInQOw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "When top up tpg cannot",
+      "time": 1678181683,
+      "translated": false
+    },
+    {
+      "author_name": "NB Tan",
+      "author_url": "https://www.google.com/maps/contrib/110116908036208658237/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuTmT7VKGF0E7UZJIHf8EqRNSrTkpZFnXuSUZXatpUCxfLRPXu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669516235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4928905576940985027",
+  "user_ratings_total": 2,
+  "vicinity": "57 Marine Terrace, #01 121"
+}

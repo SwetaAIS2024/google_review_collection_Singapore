@@ -1,0 +1,54 @@
+{
+  "formatted_address": "JALAN MEDINI SELATAN 3 BANDAR SUNWAY ISKANDAR PUTERI, 79520 Johor, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3990797,
+      "lng": 103.6249623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400161880291502,
+        "lng": 103.6261626802915
+      },
+      "southwest": {
+        "lat": 1.397463919708498,
+        "lng": 103.6234647197085
+      }
+    }
+  },
+  "name": "SYS Aroma&Tea",
+  "place_id": "ChIJJ_RoEgAJ2jER2TRZD5Q0IMM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "yuan yuan",
+      "author_url": "https://www.google.com/maps/contrib/101457072837344185206/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXYyrr31ZViw715G7wfxdyXCvLlMBzj5eFnfu3SOOnTZjix84=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "The environment is very comfortable",
+      "time": 1730959338,
+      "translated": true
+    },
+    {
+      "author_name": "Candy",
+      "author_url": "https://www.google.com/maps/contrib/102200924965171609906/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIc8UMjQS0NtxWOujxypbxZDUSXcaZoh475Hw8lxLqriXjZMqg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731047629,
+      "translated": false
+    }
+  ],
+  "types": [
+    "spa",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14060295847167997145",
+  "user_ratings_total": 2,
+  "vicinity": "JALAN MEDINI SELATAN 3 BANDAR SUNWAY ISKANDAR PUTERI, Johor"
+}

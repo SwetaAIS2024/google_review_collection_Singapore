@@ -1,0 +1,52 @@
+{
+  "formatted_address": "One Commonwealth Building, 1, Commonwealth Ln, #03-03, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044469,
+      "lng": 103.7967854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305728430291502,
+        "lng": 103.7980745302915
+      },
+      "southwest": {
+        "lat": 1.303030469708498,
+        "lng": 103.7953765697085
+      }
+    }
+  },
+  "name": "Red Dynasty Paintball Park (Main Office)",
+  "place_id": "ChIJNZpS8kAa2jERNpOxGX51mzw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ahmad ._. k",
+      "author_url": "https://www.google.com/maps/contrib/114679282927223266559/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy60J9SYSuajJgu0MP7XJ_XeeahxNTtjxuXW_zQbhYlwN69Ksr7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519872361,
+      "translated": false
+    },
+    {
+      "author_name": "Артур Ковальчук",
+      "author_url": "https://www.google.com/maps/contrib/114064288880717625024/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdQ3l8w9m6opem3WAF-ljEbmsTCjuGqRLgTEDrplHW90ktvhY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1376361433,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4367213448123224886",
+  "user_ratings_total": 2,
+  "vicinity": "One Commonwealth Building, 1, Commonwealth Lane, #03-03"
+}

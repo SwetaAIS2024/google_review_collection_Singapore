@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Simei Street 4, Singapore 520235",
+  "geometry": {
+    "location": {
+      "lat": 1.3429704,
+      "lng": 103.9555283
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344351580291502,
+        "lng": 103.9569252302915
+      },
+      "southwest": {
+        "lat": 1.341653619708498,
+        "lng": 103.9542272697085
+      }
+    }
+  },
+  "name": "LightWork Web Design",
+  "place_id": "ChIJCfchjyE92jERrnKT4anho6k",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12223861933363917486",
+  "vicinity": "Simei Street 4"
+}

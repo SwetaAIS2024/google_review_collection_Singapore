@@ -1,0 +1,44 @@
+{
+  "formatted_address": "554 Ang Mo Kio Ave 10, Singapore 560554",
+  "geometry": {
+    "location": {
+      "lat": 1.3727959,
+      "lng": 103.8577973
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374195830291502,
+        "lng": 103.8590597302915
+      },
+      "southwest": {
+        "lat": 1.371497869708498,
+        "lng": 103.8563617697085
+      }
+    }
+  },
+  "name": "Cfn Trading",
+  "place_id": "ChIJN5qVovoW2jERGKDNB5gYzo8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "CL Chong",
+      "author_url": "https://www.google.com/maps/contrib/109142063857375478009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxkRqyR83fRzJRcAJmCUgdcLi9Tz8kX3IZ6IdrCKoFWWxfdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1578384964,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10362246833871101976",
+  "user_ratings_total": 1,
+  "vicinity": "554 Ang Mo Kio Avenue 10, Singapore"
+}

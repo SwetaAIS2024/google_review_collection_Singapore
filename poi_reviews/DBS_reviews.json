@@ -1,0 +1,77 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2563288,
+      "lng": 103.8212547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257531180291502,
+        "lng": 103.8227302802915
+      },
+      "southwest": {
+        "lat": 1.254833219708498,
+        "lng": 103.8200323197085
+      }
+    }
+  },
+  "name": "DBS",
+  "place_id": "ChIJMWdIAf4b2jERLUBNu7NKfbI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Clement Chan",
+      "author_url": "https://www.google.com/maps/contrib/112610798905878592845/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6XxCp5oBUtE24hRlGipzn0wwZoAA3ZXeMNP4MDAvL4ZJ2dqyq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "DBS Maybank ATMs at basement",
+      "time": 1698488982,
+      "translated": false
+    },
+    {
+      "author_name": "ichigo mode",
+      "author_url": "https://www.google.com/maps/contrib/116646323269466455771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsQ-PHrHP19h8mBFyGY4Utzazka9ZUldOFiiznAVkFrwDA_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Super important when you need cash here. No other places to withdraw cash.",
+      "time": 1609129119,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Stoklosa",
+      "author_url": "https://www.google.com/maps/contrib/110194824202729972414/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViLKrmobUbZB8QsekXAFfEgF70kg8KM8-JrnXy070Tiujr1rI=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1593744683,
+      "translated": false
+    },
+    {
+      "author_name": "Phua Kokhua",
+      "author_url": "https://www.google.com/maps/contrib/106772318518186037693/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxIVF_Hw6IEvOEO9sxrQyIpbTNzTWfhIJu0NYyFMMNRZmRRKgV=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1448616578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12861518246642008109",
+  "user_ratings_total": 4,
+  "vicinity": "8 Sentosa Gateway"
+}

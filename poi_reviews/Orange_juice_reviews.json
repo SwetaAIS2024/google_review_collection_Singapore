@@ -1,0 +1,44 @@
+{
+  "formatted_address": "8A Biomedical Grove, Singapore 138648",
+  "geometry": {
+    "location": {
+      "lat": 1.3022274,
+      "lng": 103.7935832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303396080291502,
+        "lng": 103.7948630302915
+      },
+      "southwest": {
+        "lat": 1.300698119708498,
+        "lng": 103.7921650697085
+      }
+    }
+  },
+  "name": "Orange juice",
+  "place_id": "ChIJmfLE65Ib2jERi7wRwJ2SY98",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bruno REVERSADE",
+      "author_url": "https://www.google.com/maps/contrib/103727486598324264482/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1zNoBSq0r-ulyalNm2R1Yrd9XnonYL-92FdRZq5hjXUNbIR0hCA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Fresh, cold and squizzed on the spot for 2 sgd.",
+      "time": 1634621249,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16096870699382193291",
+  "user_ratings_total": 1,
+  "vicinity": "8A Biomedical Grove, Singapore"
+}

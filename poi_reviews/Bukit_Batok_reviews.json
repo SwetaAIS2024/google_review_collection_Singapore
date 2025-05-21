@@ -1,0 +1,30 @@
+{
+  "formatted_address": "447 Bukit Batok West Ave 9, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3523026,
+      "lng": 103.7399944
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353644580291502,
+        "lng": 103.7414858802915
+      },
+      "southwest": {
+        "lat": 1.350946619708498,
+        "lng": 103.7387879197085
+      }
+    }
+  },
+  "name": "Bukit Batok",
+  "place_id": "ChIJ0YsLTAAR2jER3BLZt6olMGg",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7507541993985741532",
+  "vicinity": "447 Bukit Batok West Avenue 9"
+}

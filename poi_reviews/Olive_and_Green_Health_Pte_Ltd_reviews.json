@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Blk 3015 Bedok North Street 5, #04-20 Shimei East Kitchen, Singapore 486350",
+  "geometry": {
+    "location": {
+      "lat": 1.3367427,
+      "lng": 103.947448
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338330430291502,
+        "lng": 103.9490106302915
+      },
+      "southwest": {
+        "lat": 1.335632469708498,
+        "lng": 103.9463126697085
+      }
+    }
+  },
+  "name": "Olive & Green Health Pte Ltd",
+  "place_id": "ChIJS37l6zo92jERhpw4lugi7Zg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Nishanth Ravindran",
+      "author_url": "https://www.google.com/maps/contrib/110311339579441055964/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFtosb_P9QM-CVqjZMUm4p8atbHACktmBfjnRqm3tXGKus_S9e=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658187656,
+      "translated": false
+    },
+    {
+      "author_name": "Brenda Pin",
+      "author_url": "https://www.google.com/maps/contrib/103816270482680110319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkCiz3ohRx_Oj0jJfSYC4Jf3MnFCGeIKpDFYmEDE7E6WgpZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527659686,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "bakery",
+    "spa",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11019502245593521286",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 3015 Bedok North Street 5, #04-20 Shimei East Kitchen, Singapore"
+}

@@ -1,0 +1,61 @@
+{
+  "formatted_address": "21 Fernvale Rd, #01-11, Singapore 797637",
+  "geometry": {
+    "location": {
+      "lat": 1.3961411,
+      "lng": 103.8750521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397464630291502,
+        "lng": 103.8764420302915
+      },
+      "southwest": {
+        "lat": 1.394766669708498,
+        "lng": 103.8737440697085
+      }
+    }
+  },
+  "name": "Daily Delights Mini Mart",
+  "place_id": "ChIJ-xyMJgAX2jERn9DQUqHCu5Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HB mailer",
+      "author_url": "https://www.google.com/maps/contrib/102560138643148157376/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTEE_q2T7jwSR10GgCg9VUgOl7ZGGdQGhrglLwPqa4dPFhjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Small space but well-stocked and clean. The staff is always helpful and friendly.",
+      "time": 1742471099,
+      "translated": false
+    },
+    {
+      "author_name": "Mohan Raj D",
+      "author_url": "https://www.google.com/maps/contrib/111046448820773785542/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZnztqFL0qzZS7M7hlxTbsCb3sLU2cO96g4jmOoTgM34LXIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great selection, friendly staff, and super convenient! Highly recommended!",
+      "time": 1742470987,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "shopping_mall",
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10717373736393167007",
+  "user_ratings_total": 2,
+  "vicinity": "21 Fernvale Road, #01-11"
+}

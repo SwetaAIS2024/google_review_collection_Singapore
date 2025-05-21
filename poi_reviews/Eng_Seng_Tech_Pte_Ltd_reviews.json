@@ -1,0 +1,54 @@
+{
+  "formatted_address": "9 Tagore Ln, #01-18, Singapore 787472",
+  "geometry": {
+    "location": {
+      "lat": 1.3840141,
+      "lng": 103.8260558
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385581130291502,
+        "lng": 103.8273388302915
+      },
+      "southwest": {
+        "lat": 1.382883169708498,
+        "lng": 103.8246408697085
+      }
+    }
+  },
+  "name": "Eng Seng Tech Pte Ltd",
+  "place_id": "ChIJbQVHGGYS2jER3TRu6OkWvHE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Michael Teo",
+      "author_url": "https://www.google.com/maps/contrib/112114985731848808138/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtISXHlPB6e5Qj2J6nPxu6SlrrNbZdDlEa2S9jMHVFgDkybEGUHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Ok",
+      "time": 1532437690,
+      "translated": false
+    },
+    {
+      "author_name": "Thiru Selvam",
+      "author_url": "https://www.google.com/maps/contrib/118305507292464321656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1n1ALkArCIs_331qrSzpJEVX_SNL7qNYQH2SX3nI4fj1Wy3AeJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716609209,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8195450615790187741",
+  "user_ratings_total": 2,
+  "vicinity": "9 Tagore Lane, #01-18"
+}

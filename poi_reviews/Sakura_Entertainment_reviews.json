@@ -1,0 +1,44 @@
+{
+  "formatted_address": "517A Geylang Rd, #02-01, Singapore 389473",
+  "geometry": {
+    "location": {
+      "lat": 1.3136784,
+      "lng": 103.884473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315012980291502,
+        "lng": 103.8858906802915
+      },
+      "southwest": {
+        "lat": 1.312315019708498,
+        "lng": 103.8831927197085
+      }
+    }
+  },
+  "name": "Sakura Entertainment",
+  "place_id": "ChIJgxHFMA4Z2jERK7NFR6M5l4k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "evelyn",
+      "author_url": "https://www.google.com/maps/contrib/102475292999368904448/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbyzYyMDD-2NcbP32CpJezZWwyTU8JNc08CeQe32Vajm7BTLsM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "top notch place to be\nservice 💯\nstaffs are friendly💯",
+      "time": 1747669197,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9914456478117638955",
+  "user_ratings_total": 1,
+  "vicinity": "517A Geylang Road, #02-01"
+}

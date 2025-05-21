@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2911363,
+      "lng": 103.8409655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292427380291502,
+        "lng": 103.8426153802915
+      },
+      "southwest": {
+        "lat": 1.289729419708498,
+        "lng": 103.8399174197085
+      }
+    }
+  },
+  "name": "River One Park",
+  "place_id": "ChIJbbKx758Z2jERn44j3B3on5c",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "dimaz2kx",
+      "author_url": "https://www.google.com/maps/contrib/107400231203276142251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDuNXph2lo-SByDviiUtoOuzyPJMp8rLCAUEwzUD3iXHVmCt-3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Good place to jog or walk around in evening.",
+      "time": 1542503321,
+      "translated": false
+    },
+    {
+      "author_name": "LimSong Er",
+      "author_url": "https://www.google.com/maps/contrib/117695859962544021009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZLxtWzsDlYIKrEyVFmH2xkEJFgAHPPcNhz0ZMdcTc5oLPWy8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553149190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10925706435969126047",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Choa Chu Kang Loop, Singapore 689671",
+  "geometry": {
+    "location": {
+      "lat": 1.3845778,
+      "lng": 103.7454199
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385895730291502,
+        "lng": 103.7467790302915
+      },
+      "southwest": {
+        "lat": 1.383197769708498,
+        "lng": 103.7440810697085
+      }
+    }
+  },
+  "name": "FeeGenie",
+  "place_id": "ChIJpXnvNOkR2jERO-mzlqlekWc",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7462850140000479547",
+  "vicinity": "Choa Chu Kang Loop, Singapore"
+}

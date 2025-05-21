@@ -1,0 +1,29 @@
+{
+  "formatted_address": "29 Blair Rd, Singapore 089929",
+  "geometry": {
+    "location": {
+      "lat": 1.2760358,
+      "lng": 103.8362008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277425580291502,
+        "lng": 103.8375124802915
+      },
+      "southwest": {
+        "lat": 1.274727619708498,
+        "lng": 103.8348145197085
+      }
+    }
+  },
+  "name": "Iglesia San Jose",
+  "place_id": "ChIJx-Q3DwAZ2jER3eaN28opNsY",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14282649219495749341",
+  "vicinity": "29 Blair Road, Singapore"
+}

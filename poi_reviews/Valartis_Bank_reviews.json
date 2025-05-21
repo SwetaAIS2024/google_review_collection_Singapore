@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 Raffles Pl, #42-05 Singapore Land Tower, Singapore 048623",
+  "geometry": {
+    "location": {
+      "lat": 1.2846475,
+      "lng": 103.8523385
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286017730291502,
+        "lng": 103.8537480302915
+      },
+      "southwest": {
+        "lat": 1.283319769708497,
+        "lng": 103.8510500697085
+      }
+    }
+  },
+  "name": "Valartis Bank",
+  "place_id": "ChIJWYnkMwkZ2jERGIkYaqEOSHQ",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8378963193155324184",
+  "vicinity": "50 Raffles Place, #42-05 Singapore Land Tower"
+}

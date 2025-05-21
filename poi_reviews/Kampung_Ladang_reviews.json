@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Kampung Ladang, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.36596,
+      "lng": 103.61968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367375880291502,
+        "lng": 103.6209684802915
+      },
+      "southwest": {
+        "lat": 1.364677919708498,
+        "lng": 103.6182705197085
+      }
+    }
+  },
+  "name": "Kampung Ladang",
+  "place_id": "ChIJh1hFRScJ2jERk40_UaJFHHs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8871041929463172499",
+  "vicinity": "Malaysia"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2647313,
+      "lng": 103.8193854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266067630291502,
+        "lng": 103.8208652302915
+      },
+      "southwest": {
+        "lat": 1.263369669708498,
+        "lng": 103.8181672697085
+      }
+    }
+  },
+  "name": "Roasted Delights",
+  "place_id": "ChIJZwxuPgAb2jEREl_5ifQdG4E",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9303062391387938578",
+  "vicinity": "1 Maritime Square, Singapore"
+}

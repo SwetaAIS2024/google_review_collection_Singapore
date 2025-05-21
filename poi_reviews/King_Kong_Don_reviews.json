@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Biomedical Grove, Singapore 138665",
+  "geometry": {
+    "location": {
+      "lat": 1.3024603,
+      "lng": 103.7930202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303810380291502,
+        "lng": 103.7943186802915
+      },
+      "southwest": {
+        "lat": 1.301112419708498,
+        "lng": 103.7916207197085
+      }
+    }
+  },
+  "name": "King Kong Don",
+  "place_id": "ChIJA2kUFNYb2jERRLnWaD2QVoQ",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9535967854429911364",
+  "vicinity": "8 Biomedical Grove"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.347063,
+      "lng": 103.839455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348424530291502,
+        "lng": 103.8407296302915
+      },
+      "southwest": {
+        "lat": 1.345726569708498,
+        "lng": 103.8380316697085
+      }
+    }
+  },
+  "name": "Aft Bishan St 21",
+  "place_id": "ChIJp8jhMT8X2jERFbJmi5kL6wY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=498504937851236885",
+  "vicinity": "Singapore"
+}

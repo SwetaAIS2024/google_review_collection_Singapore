@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3024191,
+      "lng": 103.7983862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303823880291502,
+        "lng": 103.7995555802915
+      },
+      "southwest": {
+        "lat": 1.301125919708498,
+        "lng": 103.7968576197085
+      }
+    }
+  },
+  "name": "C'wealth Stn",
+  "place_id": "ChIJq9hoX0ca2jER83J7iJJTeqw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12428338010502427379",
+  "vicinity": "Singapore"
+}

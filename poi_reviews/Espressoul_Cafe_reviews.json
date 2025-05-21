@@ -1,0 +1,44 @@
+{
+  "formatted_address": "60 Airport Blvd., Singapore 819643",
+  "geometry": {
+    "location": {
+      "lat": 1.356716,
+      "lng": 103.98651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357751080291502,
+        "lng": 103.9885896
+      },
+      "southwest": {
+        "lat": 1.355053119708498,
+        "lng": 103.9858168
+      }
+    }
+  },
+  "name": "Espressoul Cafe",
+  "place_id": "ChIJ_-4P-ow82jERPIDNibMYVPM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Oh Hu",
+      "author_url": "https://www.google.com/maps/contrib/107501953001224039494/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbPW5lhyVVTNvEDigSme3xOwVQkNKowug_b8gFz2KPUeOlMGk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1716174145,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17533666408650342460",
+  "user_ratings_total": 1,
+  "vicinity": "60 Airport Boulevard, Singapore"
+}

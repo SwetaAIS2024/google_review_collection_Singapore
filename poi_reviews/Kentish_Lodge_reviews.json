@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3160823,
+      "lng": 103.8532561
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317434280291502,
+        "lng": 103.8546345802915
+      },
+      "southwest": {
+        "lat": 1.314736319708498,
+        "lng": 103.8519366197085
+      }
+    }
+  },
+  "name": "Kentish Lodge",
+  "place_id": "ChIJneRo3sQZ2jERrzoweBd8zzE",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3589223868280093359",
+  "vicinity": "Singapore"
+}

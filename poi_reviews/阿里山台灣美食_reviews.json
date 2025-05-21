@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Tampines Street 32, Tampines Mart, Singapore 529287",
+  "geometry": {
+    "location": {
+      "lat": 1.3543928,
+      "lng": 103.9602917
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355902330291502,
+        "lng": 103.9618779302915
+      },
+      "southwest": {
+        "lat": 1.353204369708498,
+        "lng": 103.9591799697085
+      }
+    }
+  },
+  "name": "阿里山台灣美食",
+  "place_id": "ChIJnZ7wIQA92jERw01wwRnO9KA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11598121550400736707",
+  "vicinity": "Tampines Street 32, Tampines Mart, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Tiong Bahru, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2812463,
+      "lng": 103.8256784
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282515980291502,
+        "lng": 103.8269858802915
+      },
+      "southwest": {
+        "lat": 1.279818019708498,
+        "lng": 103.8242879197085
+      }
+    }
+  },
+  "name": "OurSpace@KimTian",
+  "place_id": "ChIJLeJhB8cZ2jERx8nTgTSq2XA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Prince Kashyap",
+      "author_url": "https://www.google.com/maps/contrib/103484319748193273821/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcQX1vZn1pIlJuLLXkYb7kx1zexhE1qrRtHy3vxNP4cS8-0lQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704422352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8131717744687303111",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

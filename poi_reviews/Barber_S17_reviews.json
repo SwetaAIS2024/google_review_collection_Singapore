@@ -1,0 +1,51 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4396673,
+      "lng": 103.6322207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440952680291502,
+        "lng": 103.6336858302915
+      },
+      "southwest": {
+        "lat": 1.438254719708498,
+        "lng": 103.6309878697085
+      }
+    }
+  },
+  "name": "Barber S17",
+  "place_id": "ChIJRUPpagAL2jER8iediMVKlWg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "amir Hamizan",
+      "author_url": "https://www.google.com/maps/contrib/114720349954431860718/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXlqCrfbpGZsi8CylyXu0jabzFZBLuiIefdVoMhozaTlYcnSPq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1737786597,
+      "translated": false
+    },
+    {
+      "author_name": "Don A",
+      "author_url": "https://www.google.com/maps/contrib/102464053917467747923/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJf37hPAuJPHdStLc8DePQiXLCw2jPZAixGt9fUtmNoPkHDzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735024590,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7536011763735406578",
+  "user_ratings_total": 2,
+  "vicinity": "Iskandar Puteri"
+}

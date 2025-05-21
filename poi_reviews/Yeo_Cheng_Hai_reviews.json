@@ -1,0 +1,31 @@
+{
+  "formatted_address": "80 Eu Tong Sen St, Singapore 059810",
+  "geometry": {
+    "location": {
+      "lat": 1.284591,
+      "lng": 103.843259
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285872380291502,
+        "lng": 103.8446926802915
+      },
+      "southwest": {
+        "lat": 1.283174419708498,
+        "lng": 103.8419947197085
+      }
+    }
+  },
+  "name": "Yeo Cheng Hai",
+  "place_id": "ChIJPb0Nn3QZ2jERZvG9X2zQO6A",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11546051233575727462",
+  "vicinity": "80 Eu Tong Sen Street"
+}

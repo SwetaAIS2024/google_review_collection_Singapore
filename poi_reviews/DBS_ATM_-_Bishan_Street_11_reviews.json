@@ -1,0 +1,29 @@
+{
+  "formatted_address": "151 Bishan St.11, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.345258,
+      "lng": 103.8557037
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346570080291502,
+        "lng": 103.8571593802915
+      },
+      "southwest": {
+        "lat": 1.343872119708498,
+        "lng": 103.8544614197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bishan Street 11",
+  "place_id": "ChIJpSbvgL8X2jER31vuqFEUoLM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12943367670021905375",
+  "vicinity": "151 Bishan Street 11, Singapore"
+}

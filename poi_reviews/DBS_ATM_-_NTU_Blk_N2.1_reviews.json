@@ -1,0 +1,45 @@
+{
+  "formatted_address": "76 Nanyang Drive Blk N2, #1 Nanyang Technological University, Singapore 637331",
+  "geometry": {
+    "location": {
+      "lat": 1.3473891,
+      "lng": 103.680821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348633480291502,
+        "lng": 103.6821713302915
+      },
+      "southwest": {
+        "lat": 1.345935519708498,
+        "lng": 103.6794733697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTU Blk N2.1",
+  "place_id": "ChIJQwe3hWwP2jERmSvHrcP83GU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yidong Chong",
+      "author_url": "https://www.google.com/maps/contrib/111351694875279812045/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRP72ctF0kYsPsy5du8uY9ebmTtzOoCF7FFH8q4HFpP5GuiWSA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "At top level, near the library entrance.",
+      "time": 1706762491,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7340019410071399321",
+  "user_ratings_total": 1,
+  "vicinity": "76 Nanyang Drive Blk N2, #1 Nanyang Technological University"
+}

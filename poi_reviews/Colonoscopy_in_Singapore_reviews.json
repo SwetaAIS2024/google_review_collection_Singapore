@@ -1,0 +1,43 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.307592,
+      "lng": 103.8199224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308870680291502,
+        "lng": 103.8213195802915
+      },
+      "southwest": {
+        "lat": 1.306172719708498,
+        "lng": 103.8186216197085
+      }
+    }
+  },
+  "name": "Colonoscopy in Singapore",
+  "place_id": "ChIJw9azPiAa2jERyx0yeipYg2U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "JOSE JOHN",
+      "author_url": "https://www.google.com/maps/contrib/115657289027205045493/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKglhGtHjcb9Om13OkVFIae0khh1JUPQ15HC6KZTmHeuyHTFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1438223498,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7314787159241792971",
+  "user_ratings_total": 1,
+  "vicinity": "6 Napier Road"
+}

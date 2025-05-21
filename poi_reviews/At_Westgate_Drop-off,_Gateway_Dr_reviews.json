@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33477,
+      "lng": 103.74295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336068580291502,
+        "lng": 103.7441580802915
+      },
+      "southwest": {
+        "lat": 1.333370619708498,
+        "lng": 103.7414601197085
+      }
+    }
+  },
+  "name": "At Westgate Drop-off, Gateway Dr",
+  "place_id": "ChIJNYZksA8Q2jERoHQqFbN_Rb0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13638447453692392608",
+  "vicinity": "Singapore"
+}

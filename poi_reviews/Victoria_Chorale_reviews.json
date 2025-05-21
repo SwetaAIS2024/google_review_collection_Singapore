@@ -1,0 +1,27 @@
+{
+  "formatted_address": "30 Eastwood Rd, Singapore 468365",
+  "geometry": {
+    "location": {
+      "lat": 1.3210213,
+      "lng": 103.9561116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322426830291502,
+        "lng": 103.9575305802915
+      },
+      "southwest": {
+        "lat": 1.319728869708498,
+        "lng": 103.9548326197085
+      }
+    }
+  },
+  "name": "Victoria Chorale",
+  "place_id": "ChIJodLloNYi2jER-mIoRda-16E",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11661999587591742202",
+  "vicinity": "30 Eastwood Road"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Trengganu St, F&B 11, Singapore 059029",
+  "geometry": {
+    "location": {
+      "lat": 1.2824893,
+      "lng": 103.8439086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283843430291502,
+        "lng": 103.8452805302915
+      },
+      "southwest": {
+        "lat": 1.281145469708498,
+        "lng": 103.8425825697085
+      }
+    }
+  },
+  "name": "Chinatown Food Stall (Alls Good)",
+  "place_id": "ChIJJ1PQMpwZ2jERmhYkJhVoXJM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "VIVIAN ONG",
+      "author_url": "https://www.google.com/maps/contrib/110632385452598902000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhKrXUnhRVoRjlT9rRCklDQBGQ17YxirrYKNKdL6Jv8DKVAICf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Staff are friendly, and the food is nice! Suitable for a light bite before lunch or dinner.",
+      "time": 1724737948,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10618476461476288154",
+  "user_ratings_total": 1,
+  "vicinity": "Trengganu Street, F&B 11, Singapore"
+}

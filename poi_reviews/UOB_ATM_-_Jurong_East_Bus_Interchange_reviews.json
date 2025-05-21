@@ -1,0 +1,45 @@
+{
+  "formatted_address": "No. 17A, Jurong Gateway Road, Jurong East Bus Interchange, Singapore 608513",
+  "geometry": {
+    "location": {
+      "lat": 1.3319949,
+      "lng": 103.7408911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333406630291502,
+        "lng": 103.7423096302915
+      },
+      "southwest": {
+        "lat": 1.330708669708498,
+        "lng": 103.7396116697085
+      }
+    }
+  },
+  "name": "UOB ATM - Jurong East Bus Interchange",
+  "place_id": "ChIJw07tV04R2jERk6ofuUCoHDo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Imran Alam",
+      "author_url": "https://www.google.com/maps/contrib/101009381817032184885/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQGODdlzDuPqMPyq_RemULO4tYeLEJBJXl2XgW7XIjga2QU5Gdmg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "United overseas bank",
+      "time": 1655817790,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4187406749484952211",
+  "user_ratings_total": 1,
+  "vicinity": "No. 17A, Jurong Gateway Road, Jurong East Bus Interchange"
+}

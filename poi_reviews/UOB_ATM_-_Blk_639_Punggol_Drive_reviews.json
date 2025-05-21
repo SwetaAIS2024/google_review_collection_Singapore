@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Punggol Dr., #01-K4 Blk 639, Singapore 820639",
+  "geometry": {
+    "location": {
+      "lat": 1.3994698,
+      "lng": 103.9160757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400924180291502,
+        "lng": 103.9174953302915
+      },
+      "southwest": {
+        "lat": 1.398226219708498,
+        "lng": 103.9147973697085
+      }
+    }
+  },
+  "name": "UOB ATM - Blk 639 Punggol Drive",
+  "place_id": "ChIJZ6h6ZUk92jERttWpLVT8shU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1563589459124540854",
+  "vicinity": "Punggol Drive, #01-K4 Blk 639"
+}

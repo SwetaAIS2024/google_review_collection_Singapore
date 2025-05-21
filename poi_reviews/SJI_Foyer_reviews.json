@@ -1,0 +1,54 @@
+{
+  "formatted_address": "38 Malcolm Rd, Singapore 308274",
+  "geometry": {
+    "location": {
+      "lat": 1.3235155,
+      "lng": 103.827908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324842680291502,
+        "lng": 103.8291654802915
+      },
+      "southwest": {
+        "lat": 1.322144719708498,
+        "lng": 103.8264675197085
+      }
+    }
+  },
+  "name": "SJI Foyer",
+  "place_id": "ChIJL9s2CQAZ2jER_68IY3qPDWw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nathanael Chia",
+      "author_url": "https://www.google.com/maps/contrib/110687995347117039853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9cZCqbnnoxTgFYqgDvURuyGgqn-LzYPWGCSSd7nEsOlucAVmf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Ah yes, has better score than the actual school lol",
+      "time": 1737026270,
+      "translated": false
+    },
+    {
+      "author_name": "LE3012025 MICHAEL TAN YONG SENG",
+      "author_url": "https://www.google.com/maps/contrib/116914019815449511436/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUJofov0qR3cbgKfySJNINUuAx9oP0sDi0l_VxlrRWv9c3pM0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736501405,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7786037086603751423",
+  "user_ratings_total": 2,
+  "vicinity": "38 Malcolm Road, Singapore"
+}

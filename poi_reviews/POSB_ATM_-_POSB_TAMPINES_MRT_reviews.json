@@ -1,0 +1,29 @@
+{
+  "formatted_address": "12 Tampines Ctrl 1 #01-12 Tampines MRT Stn, Singapore 529537",
+  "geometry": {
+    "location": {
+      "lat": 1.354312,
+      "lng": 103.945301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355580480291502,
+        "lng": 103.9467437802915
+      },
+      "southwest": {
+        "lat": 1.352882519708498,
+        "lng": 103.9440458197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB TAMPINES MRT",
+  "place_id": "ChIJNUgF8To92jER94Mk1rARTZQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10686216942024688631",
+  "vicinity": "12 Tampines Ctrl 1 #01-12 Tampines MRT Stn"
+}

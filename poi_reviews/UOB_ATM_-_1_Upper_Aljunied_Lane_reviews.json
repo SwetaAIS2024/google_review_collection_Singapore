@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 1 Upper Aljunied Ln, #01-K3, Singapore 360001",
+  "geometry": {
+    "location": {
+      "lat": 1.3342108,
+      "lng": 103.8785373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335497130291502,
+        "lng": 103.8799687302915
+      },
+      "southwest": {
+        "lat": 1.332799169708498,
+        "lng": 103.8772707697085
+      }
+    }
+  },
+  "name": "UOB ATM - 1 Upper Aljunied Lane",
+  "place_id": "ChIJ5VfcU3gX2jERlAvD5hGt6lI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5974778148057975700",
+  "vicinity": "Blk 1 Upper Aljunied Lane, #01-K3"
+}

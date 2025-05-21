@@ -1,0 +1,29 @@
+{
+  "formatted_address": "535 Clementi Rd, Block 58, Level 2 Ngee Ann Polytechnic, Singapore 599489",
+  "geometry": {
+    "location": {
+      "lat": 1.3336184,
+      "lng": 103.7769862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335114430291502,
+        "lng": 103.7785198802915
+      },
+      "southwest": {
+        "lat": 1.332416469708498,
+        "lng": 103.7758219197085
+      }
+    }
+  },
+  "name": "UOB ATM - Hangout@UOB - Ngee Ann Polytechnic",
+  "place_id": "ChIJGyLq6QER2jERGDAlV1blWSc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2835549599398440984",
+  "vicinity": "535 Clementi Road, Block 58, Level 2 Ngee Ann Polytechnic"
+}

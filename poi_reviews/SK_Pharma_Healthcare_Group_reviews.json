@@ -1,0 +1,30 @@
+{
+  "formatted_address": "74 Whampoa Dr, Singapore 320074",
+  "geometry": {
+    "location": {
+      "lat": 1.3248887,
+      "lng": 103.8579105
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326130680291502,
+        "lng": 103.8592897802915
+      },
+      "southwest": {
+        "lat": 1.323432719708498,
+        "lng": 103.8565918197085
+      }
+    }
+  },
+  "name": "SK Pharma Healthcare Group",
+  "place_id": "ChIJo5nZl9cZ2jERizCqRYYVZlg",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6369802389400727691",
+  "vicinity": "74 Whampoa Drive"
+}

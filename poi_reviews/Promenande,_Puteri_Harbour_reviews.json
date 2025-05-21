@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1, 1, Puteri Harbour, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4167427,
+      "lng": 103.6578119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418047230291502,
+        "lng": 103.6590984302915
+      },
+      "southwest": {
+        "lat": 1.415349269708498,
+        "lng": 103.6564004697085
+      }
+    }
+  },
+  "name": "Promenande, Puteri Harbour",
+  "place_id": "ChIJjUpmRgAN2jER2VDjy-hSA9k",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Maziz Daud",
+      "author_url": "https://www.google.com/maps/contrib/106376118048467164117/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGn2lFIPhd1b5bicFGXhVat11tIQvm84mGX1a9TD40vQRkyeYM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "Good vibes for relaxing",
+      "time": 1739413111,
+      "translated": false
+    },
+    {
+      "author_name": "J",
+      "author_url": "https://www.google.com/maps/contrib/100975424480514632105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbl9MsVA3v4le5p7GVdPBEtGG81Y-mQjAeQQO1Z0C8W9w_eDSw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Clean",
+      "time": 1731918253,
+      "translated": false
+    }
+  ],
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15637433490967056601",
+  "user_ratings_total": 2,
+  "vicinity": "1, 1, Puteri Harbour, Iskandar Puteri"
+}

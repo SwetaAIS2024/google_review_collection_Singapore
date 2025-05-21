@@ -1,0 +1,29 @@
+{
+  "formatted_address": "211 Henderson Rd, Singapore 159552",
+  "geometry": {
+    "location": {
+      "lat": 1.2820206,
+      "lng": 103.8195886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283454480291502,
+        "lng": 103.8208327802915
+      },
+      "southwest": {
+        "lat": 1.280756519708498,
+        "lng": 103.8181348197085
+      }
+    }
+  },
+  "name": "Collfan Development (s) Pte Ltd",
+  "place_id": "ChIJc4e3tNcb2jERGK2VPi19LvM",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17523080833422175512",
+  "vicinity": "211 Henderson Road"
+}

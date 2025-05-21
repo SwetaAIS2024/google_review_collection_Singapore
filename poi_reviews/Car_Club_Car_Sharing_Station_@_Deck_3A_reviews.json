@@ -1,0 +1,51 @@
+{
+  "formatted_address": "Block 675A Choa Chu Kang Cresent, Deck 3A, Lot Number 331 - 332, Singapore 681675",
+  "geometry": {
+    "location": {
+      "lat": 1.401318,
+      "lng": 103.7467428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402717330291502,
+        "lng": 103.7481009802915
+      },
+      "southwest": {
+        "lat": 1.400019369708498,
+        "lng": 103.7454030197085
+      }
+    }
+  },
+  "name": "Car Club Car Sharing Station @ Deck 3A",
+  "place_id": "ChIJf94X5PUR2jERtJnSOYz89Zc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Gary",
+      "author_url": "https://www.google.com/maps/contrib/108657696528876987529/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJOxXsU0OnEaw21DMXHKfJ2vkjYLus1c3Nzl_R7oKlC4xfXs07=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589514701,
+      "translated": false
+    },
+    {
+      "author_name": "chezhian lakshmanan",
+      "author_url": "https://www.google.com/maps/contrib/102438291961828967326/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsWn75WlJxAO-f5ZtwMLGFBKRf9vJ89atJyYt3ZrMljgvgtwnm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575524695,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10949935748216953268",
+  "user_ratings_total": 2,
+  "vicinity": "Block 675A Choa Chu Kang Cresent, Deck 3A, Lot Number 331 - 332"
+}

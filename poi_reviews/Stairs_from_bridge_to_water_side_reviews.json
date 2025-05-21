@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Beach Rd, #4876, Singapore 199587",
+  "geometry": {
+    "location": {
+      "lat": 1.3035618,
+      "lng": 103.8675943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304537330291502,
+        "lng": 103.8683399802915
+      },
+      "southwest": {
+        "lat": 1.301839369708498,
+        "lng": 103.8656420197085
+      }
+    }
+  },
+  "name": "Stairs from bridge to water side",
+  "place_id": "ChIJVdM2xN0Z2jERcoBKuYOnILE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lloyd Smyth",
+      "author_url": "https://www.google.com/maps/contrib/110351636094658664935/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO73zP8fsm01W-SAdN2zsTkTfpqxLYY4H2ASnShCMTC_XL9w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Stairs down from the Merdeka bridge to get back down to the waterfront/Marina Bay loop!",
+      "time": 1698647665,
+      "translated": false
+    },
+    {
+      "author_name": "Dhermender Narwal",
+      "author_url": "https://www.google.com/maps/contrib/114329492071036395455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL40xWc88uuRsZ0cC7OMlJYcZFPvFLU1ux5zTH5EWeKL-Ge6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1680689776,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12763385528159207538",
+  "user_ratings_total": 2,
+  "vicinity": "Beach Road, #4876"
+}

@@ -1,0 +1,70 @@
+{
+  "formatted_address": "58 Marine Ter, Block 58, Singapore 440058",
+  "geometry": {
+    "location": {
+      "lat": 1.3056596,
+      "lng": 103.9136626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307092830291502,
+        "lng": 103.9149305302915
+      },
+      "southwest": {
+        "lat": 1.304394869708498,
+        "lng": 103.9122325697085
+      }
+    }
+  },
+  "name": "Express Avenue",
+  "place_id": "ChIJmwczZnUY2jER6z63UT1hfkE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rahul Garine",
+      "author_url": "https://www.google.com/maps/contrib/116331238344599196836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDQUUKbCZoOQlzZRQTujZzs2RdzAp9Y-BVf-atylfOe6EkHw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Very good vegetables and provisioned available. Thanks for a great service. will come back again.",
+      "time": 1602327224,
+      "translated": false
+    },
+    {
+      "author_name": "Amore corp",
+      "author_url": "https://www.google.com/maps/contrib/103080934947643110246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPAi3kAbobyFBjnVeW9QOXkTmLm1lFZ_RiBCn-B2kbarMeXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Very fresh Indian vegetables. Great service from store keeper",
+      "time": 1602327125,
+      "translated": false
+    },
+    {
+      "author_name": "Umar Shahid",
+      "author_url": "https://www.google.com/maps/contrib/112567962250604782103/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnzFDj_Ux0wpWT2o1GhCtxloYOUDvXS9GXrovBY_tO7V_dcHJ1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best mama shop you will ever visit",
+      "time": 1712406004,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4719316375522721515",
+  "user_ratings_total": 3,
+  "vicinity": "58 Marine Terrace, Block 58"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1E Kent Ridge Rd, Singapore 119228",
+  "geometry": {
+    "location": {
+      "lat": 1.292474,
+      "lng": 103.7834832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293672780291502,
+        "lng": 103.7846131802915
+      },
+      "southwest": {
+        "lat": 1.290974819708498,
+        "lng": 103.7819152197085
+      }
+    }
+  },
+  "name": "HBV Cure",
+  "place_id": "ChIJs--jsVMa2jERBHoMV0jt--g",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16788272930907519492",
+  "vicinity": "1E Kent Ridge Road, Singapore"
+}

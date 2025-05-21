@@ -1,0 +1,44 @@
+{
+  "formatted_address": "545 Bukit Panjang Ring Rd, Block 545 Block 545, Singapore 670545",
+  "geometry": {
+    "location": {
+      "lat": 1.3817476,
+      "lng": 103.7633967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383165530291502,
+        "lng": 103.7646794802915
+      },
+      "southwest": {
+        "lat": 1.380467569708498,
+        "lng": 103.7619815197085
+      }
+    }
+  },
+  "name": "PCF Sparkletots Cashew Education Centre",
+  "place_id": "ChIJdZfaUL0R2jER1esn2M1XmJg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Fei Lin",
+      "author_url": "https://www.google.com/maps/contrib/110170628751138087123/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLK5BY5E0LiRdhb8BslyXm90s9hLKZBGLi6gABO59p_xYGvvXHGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "The teachers here are very caring",
+      "time": 1725435874,
+      "translated": true
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10995635031831473109",
+  "user_ratings_total": 1,
+  "vicinity": "545 Bukit Panjang Ring Road, Block 545 Block 545, Singapore"
+}

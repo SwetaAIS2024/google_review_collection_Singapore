@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27408,
+      "lng": 103.842049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275416180291502,
+        "lng": 103.8433980802915
+      },
+      "southwest": {
+        "lat": 1.272718219708498,
+        "lng": 103.8407001197085
+      }
+    }
+  },
+  "name": "Aft Tanjong Pagar Rd",
+  "place_id": "ChIJO6K6dWsZ2jERQDmF5BkhMrw",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Kevin L",
+      "author_url": "https://www.google.com/maps/contrib/110499388475112957004/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ-Bx_1OmrO7dlE31SEfA4EYC42HZTxC2IspId_w5UCWbgvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1587277175,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13560937823057819968",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

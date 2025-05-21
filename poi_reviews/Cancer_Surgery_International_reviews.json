@@ -1,0 +1,31 @@
+{
+  "formatted_address": "6A Napier Rd, #02-37A Gleneagles Hospital Annexe Block, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309068730291502,
+        "lng": 103.8211892302915
+      },
+      "southwest": {
+        "lat": 1.306370769708498,
+        "lng": 103.8184912697085
+      }
+    }
+  },
+  "name": "Cancer Surgery International",
+  "place_id": "ChIJjVnXYo0b2jERWQ4hEFI5BsA",
+  "types": [
+    "hospital",
+    "doctor",
+    "local_government_office",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13836809929763130969",
+  "vicinity": "6A Napier Road, #02-37A Gleneagles Hospital Annexe Block"
+}

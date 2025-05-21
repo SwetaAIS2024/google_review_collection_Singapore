@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jurong East Street 21, Singapore 609606",
+  "geometry": {
+    "location": {
+      "lat": 1.3337719,
+      "lng": 103.7454999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335199630291502,
+        "lng": 103.7469104802915
+      },
+      "southwest": {
+        "lat": 1.332501669708498,
+        "lng": 103.7442125197085
+      }
+    }
+  },
+  "name": "bb xin hospital",
+  "place_id": "ChIJu9qfFQAR2jEREUuCysW9Bt4",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15998683383484009233",
+  "vicinity": "1 Jurong East Street 21, Singapore"
+}

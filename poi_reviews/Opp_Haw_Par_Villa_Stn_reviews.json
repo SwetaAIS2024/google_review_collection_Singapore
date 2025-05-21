@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2828768,
+      "lng": 103.7815268
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284239030291502,
+        "lng": 103.7828926302915
+      },
+      "southwest": {
+        "lat": 1.281541069708498,
+        "lng": 103.7801946697085
+      }
+    }
+  },
+  "name": "Opp Haw Par Villa Stn",
+  "place_id": "ChIJ4byj0a4b2jERbEnE7N_TQ5M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10611558105718475116",
+  "vicinity": "Singapore"
+}

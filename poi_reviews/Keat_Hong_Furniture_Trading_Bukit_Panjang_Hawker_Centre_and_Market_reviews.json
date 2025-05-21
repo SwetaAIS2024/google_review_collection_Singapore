@@ -1,0 +1,56 @@
+{
+  "formatted_address": "2 Bukit Panjang Ring Rd, #02-02, Singapore 679947",
+  "geometry": {
+    "location": {
+      "lat": 1.3774574,
+      "lng": 103.7724947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378868180291502,
+        "lng": 103.7736783302915
+      },
+      "southwest": {
+        "lat": 1.376170219708498,
+        "lng": 103.7709803697085
+      }
+    }
+  },
+  "name": "Keat Hong Furniture Trading (Bukit Panjang Hawker Centre & Market)",
+  "place_id": "ChIJByKUI6cR2jERaBcpox_dpV0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Joycelyn Ong",
+      "author_url": "https://www.google.com/maps/contrib/109486204780113534844/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTSofb09xFxaKsuwGYxJ9vO1UTg0uUT1aEgZ0GpIukHqbySw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good shopping experience, bought 2 wardrobes and mattress from this shop and quality is really good.",
+      "time": 1647692804,
+      "translated": false
+    },
+    {
+      "author_name": "joanne lo",
+      "author_url": "https://www.google.com/maps/contrib/113584693232884198693/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIa4nNxj-mf4GbW2kPYVYmHcDhWbm_ThCv66ABMMKIHML5lTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611284088,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "point_of_interest",
+    "home_goods_store",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6748042744635660136",
+  "user_ratings_total": 2,
+  "vicinity": "2 Bukit Panjang Ring Road, #02-02"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Eastwood Terrace, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3223647,
+      "lng": 103.9572961
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323637780291502,
+        "lng": 103.9587047802915
+      },
+      "southwest": {
+        "lat": 1.320939819708498,
+        "lng": 103.9560068197085
+      }
+    }
+  },
+  "name": "Eastwood Terrace",
+  "place_id": "ChIJ6VcVNtQi2jERz4TgXDb3Gvc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Meng Foo Choo",
+      "author_url": "https://www.google.com/maps/contrib/118082395255459356366/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmHR8M-qln2MONfLjh1DkpeqqjyQFIP2B3abI4DNdAvTIZ3vj2=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Some new terrace",
+      "time": 1583659412,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17805815889621189839",
+  "user_ratings_total": 1,
+  "vicinity": "Eastwood Terrace"
+}

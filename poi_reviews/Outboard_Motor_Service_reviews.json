@@ -1,0 +1,41 @@
+{
+  "formatted_address": "600 Ponggol Seventeenth Ave, Singapore 829734",
+  "geometry": {
+    "location": {
+      "lat": 1.415119,
+      "lng": 103.898972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416356880291502,
+        "lng": 103.9005688802915
+      },
+      "southwest": {
+        "lat": 1.413658919708498,
+        "lng": 103.8978709197085
+      }
+    }
+  },
+  "name": "Outboard Motor Service",
+  "place_id": "ChIJuU5XnO4V2jERxKBOlJ3x7yE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ambrose Yung",
+      "author_url": "https://www.google.com/maps/contrib/117194417597373559059/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI58i_lQiXuepNh2v4hn6FGNP7FPqCMTw2ufMRmA8jNKF01Gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502016275,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2445438781785809092",
+  "user_ratings_total": 1,
+  "vicinity": "600 Ponggol Seventeenth Avenue"
+}

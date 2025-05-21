@@ -1,0 +1,68 @@
+{
+  "formatted_address": "290 Orchard Rd, #04-45 Paragon, Singapore 238859",
+  "geometry": {
+    "location": {
+      "lat": 1.3044544,
+      "lng": 103.8360724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305712830291502,
+        "lng": 103.8374736802915
+      },
+      "southwest": {
+        "lat": 1.303014869708498,
+        "lng": 103.8347757197085
+      }
+    }
+  },
+  "name": "Linda Gallery Paragon",
+  "place_id": "ChIJw9n7kFUZ2jERDPkOZt5wSWo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Warren Kok",
+      "author_url": "https://www.google.com/maps/contrib/117972047662283645279/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdxRHyGp4QhrmsGEJhORo0nCEo0LYVHLFNYqw1kha8OUuuhhOw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Love this Gallery! Great",
+      "time": 1689789690,
+      "translated": false
+    },
+    {
+      "author_name": "ali kusno fusin",
+      "author_url": "https://www.google.com/maps/contrib/101319628994308722247/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6DQ2p1knBrIJgieztJP1lvWH_bQNszn4lTZsyt5lfvJDG8_sV=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A lot of new works every month",
+      "time": 1709069292,
+      "translated": false
+    },
+    {
+      "author_name": "MSR VLOGS&GUIDE'S INFO",
+      "author_url": "https://www.google.com/maps/contrib/103091816215903182106/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-pvExya0F5KGf41IHc-QfKRBC-BhTfBzgeGdMrCNIdlB7InnJ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice",
+      "time": 1712130658,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7658776741817547020",
+  "user_ratings_total": 3,
+  "vicinity": "290 Orchard Road, #04-45 Paragon"
+}

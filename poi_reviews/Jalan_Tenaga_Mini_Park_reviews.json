@@ -1,0 +1,64 @@
+{
+  "formatted_address": "HDB Jalan Tenaga #01-134, Jln Tenaga, S)410660 Block 660, Singapore 410660",
+  "geometry": {
+    "location": {
+      "lat": 1.3339924,
+      "lng": 103.9066279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335301880291502,
+        "lng": 103.9078845802915
+      },
+      "southwest": {
+        "lat": 1.332603919708498,
+        "lng": 103.9051866197085
+      }
+    }
+  },
+  "name": "Jalan Tenaga Mini Park",
+  "place_id": "ChIJ7d-vI7MX2jERY4rDM05_Z40",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Sarita K",
+      "author_url": "https://www.google.com/maps/contrib/109384849063147259364/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWjZwF5oruWZ57c6j56i3bgJFNsofx2KVQxIoAEqXTEfW8GQf6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Pleasant place for Morning walk",
+      "time": 1698463657,
+      "translated": false
+    },
+    {
+      "author_name": "El Raisuli",
+      "author_url": "https://www.google.com/maps/contrib/112466916853789584539/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURWM6YiNF2Lz4OAl4DJxw_6llN1gUSDcXv146jy1cNqZMQnrcu=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695904139,
+      "translated": false
+    },
+    {
+      "author_name": "Kris Azen",
+      "author_url": "https://www.google.com/maps/contrib/112037153124711602706/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCENODY0xwMlTs97aJNHFXDu7BdYjvrgy8dVjNVtzma2WMgMD6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1628775370,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10189252655801666147",
+  "user_ratings_total": 3,
+  "vicinity": "HDB Jalan Tenaga #01-134, Jalan Tenaga, S)410660 Block 660, Singapore"
+}

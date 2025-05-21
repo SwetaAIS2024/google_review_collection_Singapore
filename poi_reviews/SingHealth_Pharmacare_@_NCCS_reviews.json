@@ -1,0 +1,30 @@
+{
+  "formatted_address": "30 Hospital Boulevard, Level 1 National Cancer Centre, Singapore 168583",
+  "geometry": {
+    "location": {
+      "lat": 1.2813712,
+      "lng": 103.8377497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282751380291502,
+        "lng": 103.8389234302915
+      },
+      "southwest": {
+        "lat": 1.280053419708498,
+        "lng": 103.8362254697085
+      }
+    }
+  },
+  "name": "SingHealth Pharmacare @ NCCS",
+  "place_id": "ChIJJbpI93UZ2jERZkL1bWFuzcA",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13892881790243521126",
+  "vicinity": "30 Hospital Boulevard, Level 1 National Cancer Centre"
+}

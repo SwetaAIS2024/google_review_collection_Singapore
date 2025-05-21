@@ -1,0 +1,43 @@
+{
+  "formatted_address": "118 Rivervale Dr, #02-14 Rivervale Plaza, Singapore 540118",
+  "geometry": {
+    "location": {
+      "lat": 1.3848818,
+      "lng": 103.9016533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386115480291502,
+        "lng": 103.9029526302915
+      },
+      "southwest": {
+        "lat": 1.383417519708498,
+        "lng": 103.9002546697085
+      }
+    }
+  },
+  "name": "Ji De Lai Kitchen",
+  "place_id": "ChIJSVTL9xgX2jER3Kvf0Uvw1cI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Danny Limanseta",
+      "author_url": "https://www.google.com/maps/contrib/107806720281505758352/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSoC7Wy0pgq8xCR9j_jJe48W9lggbXlYg5Ry0GBg7okO3kBHBIOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730625557,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14039391621831699420",
+  "user_ratings_total": 1,
+  "vicinity": "118 Rivervale Drive, #02-14 Rivervale Plaza, Singapore"
+}

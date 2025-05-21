@@ -1,0 +1,29 @@
+{
+  "formatted_address": "756 Upper Serangoon Rd, Singapore 534626",
+  "geometry": {
+    "location": {
+      "lat": 1.3539782,
+      "lng": 103.8786504
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355396230291502,
+        "lng": 103.8799372802915
+      },
+      "southwest": {
+        "lat": 1.352698269708498,
+        "lng": 103.8772393197085
+      }
+    }
+  },
+  "name": "Infinity Credit",
+  "place_id": "ChIJYcuuSKUX2jERb2wkC4H1u6k",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12230639147641236591",
+  "vicinity": "756 Upper Serangoon Road"
+}

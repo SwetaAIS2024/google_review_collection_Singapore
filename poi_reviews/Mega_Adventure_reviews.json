@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.25618,
+      "lng": 103.81218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257555480291502,
+        "lng": 103.8135641802915
+      },
+      "southwest": {
+        "lat": 1.254857519708498,
+        "lng": 103.8108662197085
+      }
+    }
+  },
+  "name": "Mega Adventure",
+  "place_id": "ChIJ2Tlaj_kb2jERP7DTs4wxMKg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Danny Chaw yijie",
+      "author_url": "https://www.google.com/maps/contrib/117340015383450828471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPY2UHAWDIuFMz_YlUKajEBF1qB99K7sdEx0Tm7DqBFx7GRMo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Loved the experience here, whole procedure was smooth and fast thanks to the help of Lindah, Desmond and Munirah. Top tower Kamil, Aloy and Izz were very welcoming and made us all feel at ease and lastly Ryan, Tim and Harriz gave very good instructions as to where I should go after",
+      "time": 1700383598,
+      "translated": false
+    },
+    {
+      "author_name": "Mabowa Makhomisane",
+      "author_url": "https://www.google.com/maps/contrib/110901391180898067461/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgFUF4VPn8mPOXYmNYf2s1NZyaigzMF6U8zr1L6jtPJxQPyqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689140156,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12119241077636182079",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

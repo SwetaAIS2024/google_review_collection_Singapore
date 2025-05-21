@@ -1,0 +1,41 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, #01-29, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3433049,
+      "lng": 103.7758171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344761680291502,
+        "lng": 103.7771617302915
+      },
+      "southwest": {
+        "lat": 1.342063719708498,
+        "lng": 103.7744637697085
+      }
+    }
+  },
+  "name": "SMDC Human Resource Services",
+  "place_id": "ChIJyd5nY4oQ2jERprExh5JV4-Q",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Rina Handria",
+      "author_url": "https://www.google.com/maps/contrib/106815322038774190334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmF3A5wrFqJCjdvCUH5bnIA7sIaOcRgjXO-dy0qrwQi2SUVA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562976669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16493120348182655398",
+  "user_ratings_total": 1,
+  "vicinity": "170 Upper Bukit Timah Road, #01-29"
+}

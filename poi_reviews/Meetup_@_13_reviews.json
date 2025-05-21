@@ -1,0 +1,56 @@
+{
+  "formatted_address": "13 Old Airport Rd, Singapore 390013",
+  "geometry": {
+    "location": {
+      "lat": 1.3070223,
+      "lng": 103.8835652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308265030291502,
+        "lng": 103.8849647802915
+      },
+      "southwest": {
+        "lat": 1.305567069708498,
+        "lng": 103.8822668197085
+      }
+    }
+  },
+  "name": "Meetup @ 13",
+  "place_id": "ChIJjz80rtYZ2jER-kVyaLKT-wE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Ann L",
+      "author_url": "https://www.google.com/maps/contrib/103657010349229508636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLENYDafBvt-LlwCA-rDR6hPSl3ep6YiADM2MtjtBsutovuvg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Popular zhi char restaurant that gets very busy after 6pm. Service staff is friendly enough in spite of the high traffic.",
+      "time": 1695466401,
+      "translated": false
+    },
+    {
+      "author_name": "Brian Saw",
+      "author_url": "https://www.google.com/maps/contrib/115535225216805366190/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJMTyafZbLR4zr2JCyvV9QJ6HB_MWONkqwRsDZouAl7MpFNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707133741,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=142870207658083834",
+  "user_ratings_total": 2,
+  "vicinity": "13 Old Airport Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Blk 142, Bishan ST 12, #13-524, Singapore 570142",
+  "geometry": {
+    "location": {
+      "lat": 1.345606,
+      "lng": 103.853152
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346900580291502,
+        "lng": 103.8544758302915
+      },
+      "southwest": {
+        "lat": 1.344202619708498,
+        "lng": 103.8517778697085
+      }
+    }
+  },
+  "name": "MyTuitionGuru Singapore",
+  "place_id": "ChIJ9ztu1hIX2jERUTZ8M7dPl8o",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14598224365406139985",
+  "vicinity": "Blk 142, Bishan ST 12, #13-524"
+}

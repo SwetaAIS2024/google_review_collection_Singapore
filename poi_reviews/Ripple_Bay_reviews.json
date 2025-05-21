@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378619,
+      "lng": 103.96096
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380001880291502,
+        "lng": 103.9622973802915
+      },
+      "southwest": {
+        "lat": 1.377303919708498,
+        "lng": 103.9595994197085
+      }
+    }
+  },
+  "name": "Ripple Bay",
+  "place_id": "ChIJYeRwNUs82jER-77TgGlnVjw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Xiaoman Zhang",
+      "author_url": "https://www.google.com/maps/contrib/113420864765851922525/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwl5pebk0srTQni9sHRPvihxjxSS3ZssJuZAwyLMdpyehm0Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714061226,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4347776193103380219",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374112,
+      "lng": 103.920059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375467730291502,
+        "lng": 103.9214528802915
+      },
+      "southwest": {
+        "lat": 1.372769769708498,
+        "lng": 103.9187549197085
+      }
+    }
+  },
+  "name": "Bef Tampines Ind Ave 5",
+  "place_id": "ChIJyaK6sog92jERDmVsamrd5qI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Yong En Ong",
+      "author_url": "https://www.google.com/maps/contrib/115108724076257370102/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRVFfHLK9dKiCRvKtr1ULmMq1EMGdH3SgPp9CGwwZuunnzz5w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "very hot",
+      "time": 1702902057,
+      "translated": false
+    },
+    {
+      "author_name": "Russell Ong",
+      "author_url": "https://www.google.com/maps/contrib/101777293442773375632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuxm1zlZ7GUsiwcCdKf_yDODQC38sAzl_plYEua1vh2SEFnmDd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1660117872,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11738312927909537038",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

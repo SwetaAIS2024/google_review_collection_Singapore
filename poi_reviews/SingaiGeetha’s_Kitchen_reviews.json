@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Blk-11 Haig Rd, #04-379, Singapore 430011",
+  "geometry": {
+    "location": {
+      "lat": 1.3148477,
+      "lng": 103.8966275
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316437980291502,
+        "lng": 103.8979768802915
+      },
+      "southwest": {
+        "lat": 1.313740019708498,
+        "lng": 103.8952789197085
+      }
+    }
+  },
+  "name": "SingaiGeetha’s Kitchen",
+  "place_id": "ChIJF5McFWcZ2jERzn3zKIx-9NA",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15056798594653978062",
+  "vicinity": "Blk-11 Haig Road, #04-379"
+}

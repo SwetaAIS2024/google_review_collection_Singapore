@@ -1,0 +1,51 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279176,
+      "lng": 103.712483
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280457130291502,
+        "lng": 103.7138454302915
+      },
+      "southwest": {
+        "lat": 1.277759169708498,
+        "lng": 103.7111474697085
+      }
+    }
+  },
+  "name": "Stella Chemifa Singapore Pte Ltd",
+  "place_id": "ChIJeTLmlcQE2jERX7uGzoHp8W8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "santha kumar",
+      "author_url": "https://www.google.com/maps/contrib/105082335314126097630/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvSMDppXspCIQ1TWrcFyj3KUyZfHvwuNcRGRnHqzWKsykADpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583624104,
+      "translated": false
+    },
+    {
+      "author_name": "Justin Chew",
+      "author_url": "https://www.google.com/maps/contrib/109681721355606467896/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuYUgrJOfU5X7V07PqhOdpEY807Ff2gCobLAB9TeO6co7dQxc=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1550654257,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8066485151322258271",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

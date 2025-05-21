@@ -1,0 +1,30 @@
+{
+  "formatted_address": "150 Changi Rd, Singapore 419973",
+  "geometry": {
+    "location": {
+      "lat": 1.3167589,
+      "lng": 103.9021806
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318251380291502,
+        "lng": 103.9035482802915
+      },
+      "southwest": {
+        "lat": 1.315553419708498,
+        "lng": 103.9008503197085
+      }
+    }
+  },
+  "name": "Nanyang Yinda Arts Education Centre",
+  "place_id": "ChIJg6VfqBoY2jERASEFPjqX9B0",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2158516397821731073",
+  "vicinity": "150 Changi Road"
+}

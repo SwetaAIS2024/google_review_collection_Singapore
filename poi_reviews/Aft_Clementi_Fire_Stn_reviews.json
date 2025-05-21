@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320852,
+      "lng": 103.76207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322175780291502,
+        "lng": 103.7633789302915
+      },
+      "southwest": {
+        "lat": 1.319477819708498,
+        "lng": 103.7606809697085
+      }
+    }
+  },
+  "name": "Aft Clementi Fire Stn",
+  "place_id": "ChIJ47FmFpsa2jERH0yEZfnlX8U",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "Abhijeet Gite (Abhi)",
+      "author_url": "https://www.google.com/maps/contrib/117029146137833745595/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8ivfw0hkuK7pzV7jgmBrUJe_uvCs9GB8bwgOquJ7gUMb8E12Qwg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "On Time busses.",
+      "time": 1542013170,
+      "translated": false
+    },
+    {
+      "author_name": "Chen Lin Chang",
+      "author_url": "https://www.google.com/maps/contrib/107376718828267674496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMf2xKiXnsl2WDrOL2rKbX7eUoFxQ27onsDZUcmaDWotMK1As=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "😁",
+      "time": 1611278744,
+      "translated": false
+    },
+    {
+      "author_name": "Sushant Pushkarna",
+      "author_url": "https://www.google.com/maps/contrib/109353282328088499526/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZBgL2amCo-HsDWIW_ZmjHpQTwfxAI7WrCEmIg0xaxX7xAY2VEjA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654012501,
+      "translated": false
+    },
+    {
+      "author_name": "Amit Morya",
+      "author_url": "https://www.google.com/maps/contrib/117342844954713077546/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSs2syVbeIUSe4hnAdMUlacH6ddNL3ykk967YA_3MibfW8e9Lmhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1537446130,
+      "translated": false
+    },
+    {
+      "author_name": "Soo Fern Yip",
+      "author_url": "https://www.google.com/maps/contrib/101462696983488517366/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbeoEPyl3Ub1Hlu2Jvw9R5jZcXgD-mZE7pk0JqsiLXsT7c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517722186,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14222339007572102175",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

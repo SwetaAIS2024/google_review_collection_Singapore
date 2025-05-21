@@ -1,0 +1,45 @@
+{
+  "formatted_address": "3 Yung Sheng Rd, #02-81, Singapore 618499",
+  "geometry": {
+    "location": {
+      "lat": 1.3348158,
+      "lng": 103.7214418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336114780291502,
+        "lng": 103.7229006802915
+      },
+      "southwest": {
+        "lat": 1.333416819708498,
+        "lng": 103.7202027197085
+      }
+    }
+  },
+  "name": "Ya Chen Coffee & Beer 亞陳",
+  "place_id": "ChIJr-MZRS8P2jER1MbfrPrRYWI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Pi Pi",
+      "author_url": "https://www.google.com/maps/contrib/106740689770185563251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVKrpHwXtiHszvWi-NN-AJ6T3f79HYSEIdH8YJRI8_r5J7Ig=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "There are so many other beverage shop.  Don't waste your money here. Just stay away from these rude boss.",
+      "time": 1744469107,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7089178163030247124",
+  "user_ratings_total": 1,
+  "vicinity": "3 Yung Sheng Road, #02-81, Singapore"
+}

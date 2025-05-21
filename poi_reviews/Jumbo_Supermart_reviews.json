@@ -1,0 +1,31 @@
+{
+  "formatted_address": "501 W Coast Dr, Singapore 120501",
+  "geometry": {
+    "location": {
+      "lat": 1.311289,
+      "lng": 103.758457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312729830291502,
+        "lng": 103.7602230802915
+      },
+      "southwest": {
+        "lat": 1.310031869708498,
+        "lng": 103.7575251197085
+      }
+    }
+  },
+  "name": "Jumbo Supermart",
+  "place_id": "ChIJyfb17pMa2jERl04xo3PY1Gk",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7625958060215848599",
+  "vicinity": "501 West Coast Drive, Singapore"
+}

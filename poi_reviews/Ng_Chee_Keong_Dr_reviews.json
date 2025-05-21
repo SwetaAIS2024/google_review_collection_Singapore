@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Eunos Cres, Singapore 400005",
+  "geometry": {
+    "location": {
+      "lat": 1.32128,
+      "lng": 103.903556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322643080291502,
+        "lng": 103.9049037802915
+      },
+      "southwest": {
+        "lat": 1.319945119708498,
+        "lng": 103.9022058197085
+      }
+    }
+  },
+  "name": "Ng Chee Keong Dr",
+  "place_id": "ChIJn7z_pQQY2jER77w8nvl29pc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10950070358471654639",
+  "vicinity": "5 Eunos Crescent"
+}

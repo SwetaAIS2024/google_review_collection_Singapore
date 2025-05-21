@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.365936,
+      "lng": 103.861923
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367283530291502,
+        "lng": 103.8632757802915
+      },
+      "southwest": {
+        "lat": 1.364585569708498,
+        "lng": 103.8605778197085
+      }
+    }
+  },
+  "name": "Aft Medway Dr",
+  "place_id": "ChIJfYKU1v0W2jERamVzOP6hkVU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "nael naniseb",
+      "author_url": "https://www.google.com/maps/contrib/110342231433841649073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOIU4L64nWRgFGyQYM1fU1cP9pR8MdWGgMLu-vW71fmwGLVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1473519344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6165887478087771498",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

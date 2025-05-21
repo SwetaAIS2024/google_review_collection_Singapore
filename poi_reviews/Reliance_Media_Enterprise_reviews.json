@@ -1,0 +1,30 @@
+{
+  "formatted_address": "287 Choa Chu Kang Ave 2, Block 287, Singapore 680287",
+  "geometry": {
+    "location": {
+      "lat": 1.3790946,
+      "lng": 103.7415429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380439830291502,
+        "lng": 103.7429557802915
+      },
+      "southwest": {
+        "lat": 1.377741869708498,
+        "lng": 103.7402578197085
+      }
+    }
+  },
+  "name": "Reliance Media Enterprise",
+  "place_id": "ChIJ2453Z8MR2jERuA_QhG5YqIs",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10063390599057248184",
+  "vicinity": "287 Choa Chu Kang Avenue 2, Block 287, Singapore"
+}

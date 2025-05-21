@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.294611,
+      "lng": 103.859656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295866330291502,
+        "lng": 103.8610509802915
+      },
+      "southwest": {
+        "lat": 1.293168369708498,
+        "lng": 103.8583530197085
+      }
+    }
+  },
+  "name": "Union De Banques Arabes Et Francaises Ubaf",
+  "place_id": "ChIJE9n1qK8Z2jERsXyqjh-mLmg",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7507120283340930225",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jurong East Street 21, Block 223A, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3413952,
+      "lng": 103.7366641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342826780291502,
+        "lng": 103.7380140302915
+      },
+      "southwest": {
+        "lat": 1.340128819708498,
+        "lng": 103.7353160697085
+      }
+    }
+  },
+  "name": "Eco garden",
+  "place_id": "ChIJN25PDAAR2jERIK2WBHt6ykk",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5317196978840841504",
+  "vicinity": "Jurong East Street 21, Block 223A"
+}

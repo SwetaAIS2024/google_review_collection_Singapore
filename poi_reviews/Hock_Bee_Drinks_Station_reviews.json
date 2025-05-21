@@ -1,0 +1,30 @@
+{
+  "formatted_address": "17 Old Airport Rd, #13 Kallang Estate Hawker, Singapore 397972",
+  "geometry": {
+    "location": {
+      "lat": 1.3072611,
+      "lng": 103.8838864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308746230291502,
+        "lng": 103.8851789302915
+      },
+      "southwest": {
+        "lat": 1.306048269708498,
+        "lng": 103.8824809697085
+      }
+    }
+  },
+  "name": "Hock Bee Drinks Station",
+  "place_id": "ChIJeUZPZ0cY2jERDNOB--nPTEI",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4777421908587172620",
+  "vicinity": "17 Old Airport Road, #13 Kallang Estate Hawker"
+}

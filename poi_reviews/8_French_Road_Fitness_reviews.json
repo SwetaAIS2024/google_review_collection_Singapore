@@ -1,0 +1,28 @@
+{
+  "formatted_address": "8 French Rd, Singapore 200008",
+  "geometry": {
+    "location": {
+      "lat": 1.3069589,
+      "lng": 103.8606577
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308248430291502,
+        "lng": 103.8619501802915
+      },
+      "southwest": {
+        "lat": 1.305550469708498,
+        "lng": 103.8592522197085
+      }
+    }
+  },
+  "name": "8 French Road Fitness",
+  "place_id": "ChIJ8cTZfQAZ2jER0IqLGeg77E0",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5614928703471192784",
+  "vicinity": "8 French Road"
+}

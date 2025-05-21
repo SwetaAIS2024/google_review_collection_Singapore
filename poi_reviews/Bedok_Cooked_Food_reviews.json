@@ -1,0 +1,69 @@
+{
+  "formatted_address": "7 Hougang Ave 3, #01-48, Singapore 530007",
+  "geometry": {
+    "location": {
+      "lat": 1.3623023,
+      "lng": 103.8933853
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363564130291502,
+        "lng": 103.8948949802915
+      },
+      "southwest": {
+        "lat": 1.360866169708498,
+        "lng": 103.8921970197085
+      }
+    }
+  },
+  "name": "Bedok Cooked Food",
+  "place_id": "ChIJ9RwD5soX2jER1SfCL708krw",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Ram Loh",
+      "author_url": "https://www.google.com/maps/contrib/109609851436924975172/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlVb66P_00b1gVPdwCD2kMpGsg9CYao-6wRNvUhtTLlMiu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "$6 for a few slices of ultra thin char Siew meat and pork. My first time and will avoid eating at this shop at all cost next time.",
+      "time": 1741336786,
+      "translated": false
+    },
+    {
+      "author_name": "Jee Nee Lim",
+      "author_url": "https://www.google.com/maps/contrib/101109994280504072291/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZO9wipUdrcJR2Rz-H5oayMSEma-VzGJ-pzjnnTCvve3AnKvoH=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Bedok Cooked Food is back after a 3-year hiatus! Best char siew, roast pork and best roast duck ever! I only eat duck from this stall - no other can match it. The quality and tasting their food has not changed at all. If anything, the char siew has improved in flavour. I hope all their old customers will return to support them.",
+      "time": 1741408586,
+      "translated": false
+    },
+    {
+      "author_name": "Simon Tan",
+      "author_url": "https://www.google.com/maps/contrib/103103596960607837929/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsIkh4nd0GomHnMCKq-Qp6iyJrOpCb31Nh5MZdyaFZVHvZhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Rude hawker, horrible char siew. Not worth trying.",
+      "time": 1743924018,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13587989808977946581",
+  "user_ratings_total": 3,
+  "vicinity": "7 Hougang Avenue 3, #01-48, Singapore"
+}

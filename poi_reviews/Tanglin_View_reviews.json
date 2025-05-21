@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2915376,
+      "lng": 103.8176061
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292843830291502,
+        "lng": 103.8188944802915
+      },
+      "southwest": {
+        "lat": 1.290145869708498,
+        "lng": 103.8161965197085
+      }
+    }
+  },
+  "name": "Tanglin View",
+  "place_id": "ChIJq9pmCisa2jERacdJFbArJpU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sweta Das",
+      "author_url": "https://www.google.com/maps/contrib/115092880506160654396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIZrMevOpB1pMxDGef2u6frDnjddB4WYzva__FIcv09cwxwg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very good area👍👍",
+      "time": 1632483787,
+      "translated": false
+    },
+    {
+      "author_name": "Hung Thai",
+      "author_url": "https://www.google.com/maps/contrib/104398292238271682744/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQMrHdLaVdjDPL53n4rFm02taBu061DhnkAV69Tb5Bb_cNllWgSA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478344141,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10747325596037662569",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

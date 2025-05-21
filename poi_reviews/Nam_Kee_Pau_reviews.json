@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Joo Koon Cir, #01-36 FairPrice Joo Koon, Singapore 629117",
+  "geometry": {
+    "location": {
+      "lat": 1.3270992,
+      "lng": 103.6780653
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328707380291502,
+        "lng": 103.6794037802915
+      },
+      "southwest": {
+        "lat": 1.326009419708498,
+        "lng": 103.6767058197085
+      }
+    }
+  },
+  "name": "Nam Kee Pau",
+  "place_id": "ChIJdTPcFQAF2jERkUSs3Pq6kTk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "YH J",
+      "author_url": "https://www.google.com/maps/contrib/110082210226531439831/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8j4GflPNmVcWMkP3ql3UzWNnMmDgGT1wHQ_0L1-qjQ-GUnRwM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "New store!",
+      "time": 1704778330,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4148302318391805073",
+  "user_ratings_total": 1,
+  "vicinity": "1 Joo Koon Circle, #01-36 FairPrice Joo Koon"
+}

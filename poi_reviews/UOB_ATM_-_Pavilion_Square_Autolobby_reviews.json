@@ -1,0 +1,29 @@
+{
+  "formatted_address": "345 Geylang Rd, Singapore 389366",
+  "geometry": {
+    "location": {
+      "lat": 1.3128902,
+      "lng": 103.8798388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314150830291502,
+        "lng": 103.8811992302915
+      },
+      "southwest": {
+        "lat": 1.311452869708498,
+        "lng": 103.8785012697085
+      }
+    }
+  },
+  "name": "UOB ATM - Pavilion Square Autolobby",
+  "place_id": "ChIJ9Uip3j0Z2jERrJRmp7M9RAw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=883899268688417964",
+  "vicinity": "345 Geylang Road"
+}

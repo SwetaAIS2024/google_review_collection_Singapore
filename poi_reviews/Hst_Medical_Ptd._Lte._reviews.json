@@ -1,0 +1,30 @@
+{
+  "formatted_address": "101 Upper Cross St, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.285697,
+      "lng": 103.843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286911030291502,
+        "lng": 103.8454818802915
+      },
+      "southwest": {
+        "lat": 1.284213069708498,
+        "lng": 103.8427839197085
+      }
+    }
+  },
+  "name": "Hst Medical Ptd. Lte.",
+  "place_id": "ChIJM7Kvx3QZ2jERHpX2V0LSQOU",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16519434615580431646",
+  "vicinity": "101 Upper Cross Street"
+}

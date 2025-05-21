@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore, Ang Mo Kio Ave 4, blk632",
+  "geometry": {
+    "location": {
+      "lat": 1.3750884,
+      "lng": 103.8390087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376382730291502,
+        "lng": 103.8403901802915
+      },
+      "southwest": {
+        "lat": 1.373684769708498,
+        "lng": 103.8376922197085
+      }
+    }
+  },
+  "name": "富城咖啡店",
+  "place_id": "ChIJYZYmm8QW2jERPLMyTT7ulpc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Linda Ong",
+      "author_url": "https://www.google.com/maps/contrib/112197670978531640653/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo9uGBP9Cx9B7U5piEdZy8biAse4hQOL86AwC5f7ZhKcgxfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "In this 505caberra link coffee shop, the coffee is cold and does not burn. I complained and the employee was unhappy.",
+      "time": 1699774455,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10923179897584268092",
+  "user_ratings_total": 1,
+  "vicinity": "blk632, Ang Mo Kio Avenue 4"
+}

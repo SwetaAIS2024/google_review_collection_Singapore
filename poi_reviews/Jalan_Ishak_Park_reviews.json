@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3247892,
+      "lng": 103.9071302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.32634095,
+        "lng": 103.9085687802915
+      },
+      "southwest": {
+        "lat": 1.32326835,
+        "lng": 103.9058708197085
+      }
+    }
+  },
+  "name": "Jalan Ishak Park",
+  "place_id": "ChIJ3TCvQAIY2jER_KXSLgUuqXE",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8190127997145228796",
+  "vicinity": "Singapore"
+}

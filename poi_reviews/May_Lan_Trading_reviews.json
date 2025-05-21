@@ -1,0 +1,30 @@
+{
+  "formatted_address": "531 Ang Mo Kio Ave 10, #01-2443 Cheng San Centre, Singapore 560531",
+  "geometry": {
+    "location": {
+      "lat": 1.373417299999999,
+      "lng": 103.8547535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374805330291502,
+        "lng": 103.8561595302915
+      },
+      "southwest": {
+        "lat": 1.372107369708497,
+        "lng": 103.8534615697085
+      }
+    }
+  },
+  "name": "May Lan Trading",
+  "place_id": "ChIJAYoUFgAX2jER3gA7iMUIoeM",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16402400962347204830",
+  "vicinity": "531 Ang Mo Kio Avenue 10, #01-2443 Cheng San Centre"
+}

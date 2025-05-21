@@ -1,0 +1,45 @@
+{
+  "formatted_address": "5 Tanjong Pagar Plz, Singapore 081005",
+  "geometry": {
+    "location": {
+      "lat": 1.2762569,
+      "lng": 103.8429313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.2769934,
+        "lng": 103.8443333302915
+      },
+      "southwest": {
+        "lat": 1.2740474,
+        "lng": 103.8416353697085
+      }
+    }
+  },
+  "name": "OCBC ATM @ Tanjong Pagar Plaza",
+  "place_id": "ChIJXVi_0qAZ2jEROut-0mR-p9s",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Calvin Sim",
+      "author_url": "https://www.google.com/maps/contrib/103128429614857031939/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF6pozAwONKEl_CEhH2LyJwrOB7f1Qt0KFWnR9zwi8egSscy1czA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Gets the job done",
+      "time": 1610810770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15827758386910260026",
+  "user_ratings_total": 1,
+  "vicinity": "5 Tanjong Pagar Plaza, Singapore"
+}

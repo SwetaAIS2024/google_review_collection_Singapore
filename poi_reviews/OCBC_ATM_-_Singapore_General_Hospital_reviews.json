@@ -1,0 +1,65 @@
+{
+  "formatted_address": "1 Hospital Dr, Singapore 169608",
+  "geometry": {
+    "location": {
+      "lat": 1.2796218,
+      "lng": 103.8348519
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280773480291502,
+        "lng": 103.8363756302915
+      },
+      "southwest": {
+        "lat": 1.278075519708498,
+        "lng": 103.8336776697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Singapore General Hospital",
+  "place_id": "ChIJcwfA7m8Z2jEROuJn6Dmvwto",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Near Block 4 Retail Pharmacy.",
+      "time": 1472712380,
+      "translated": false
+    },
+    {
+      "author_name": "Xiao Chua",
+      "author_url": "https://www.google.com/maps/contrib/108170575784955234033/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKgf1bbcA54yFeSIp5eK6h2jfEcgyltgGOiMSca1dOmW76iw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524459397,
+      "translated": false
+    },
+    {
+      "author_name": "Kenzir",
+      "author_url": "https://www.google.com/maps/contrib/116623712359817478053/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMfMKfZ8LnwXiPZrqO8oijeDyBKHFsIiT-7d3I5mTbLXkDCCwJ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478974303,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15763354308997276218",
+  "user_ratings_total": 3,
+  "vicinity": "1 Hospital Drive"
+}

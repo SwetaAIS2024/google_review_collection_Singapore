@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379869,
+      "lng": 103.975922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381248880291502,
+        "lng": 103.9773252302915
+      },
+      "southwest": {
+        "lat": 1.378550919708498,
+        "lng": 103.9746272697085
+      }
+    }
+  },
+  "name": "Composite Tech",
+  "place_id": "ChIJYwYTA0c82jERHFz5-oQ7pqI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "ervin tan",
+      "author_url": "https://www.google.com/maps/contrib/107033547212067734049/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIl6uinuXaEGK2WD3mP7vB_WTJDW_tpuvrUJhNz1Uaumia2ZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559570572,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11720120522610662428",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

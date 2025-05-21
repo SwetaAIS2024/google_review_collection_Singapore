@@ -1,0 +1,46 @@
+{
+  "formatted_address": "151 Bishan St.11, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.3452271,
+      "lng": 103.8553405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346810380291502,
+        "lng": 103.8567444802915
+      },
+      "southwest": {
+        "lat": 1.344112419708498,
+        "lng": 103.8540465197085
+      }
+    }
+  },
+  "name": "Sisters Snack House",
+  "place_id": "ChIJFZpvrdIX2jERGea_WZYwGLI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kamal Raj",
+      "author_url": "https://www.google.com/maps/contrib/106535627874305714473/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs9FLt2hreDHm4u0N-4kVwZJEY9brD9TmZlLpAVHa8AVoN72c3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "My colleague and my favourite breakfast place. Run by sisters they are all very friendly. They sell economic food and their fried rice and homemade sambal is my favourite. The aunty cooks on her own and is absolutely delicious.",
+      "time": 1699185608,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12833060560501204505",
+  "user_ratings_total": 1,
+  "vicinity": "151 Bishan Street 11"
+}

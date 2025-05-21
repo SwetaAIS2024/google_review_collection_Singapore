@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Bedok S Rd, #01-K1 Block 165, Singapore 460165",
+  "geometry": {
+    "location": {
+      "lat": 1.3202925,
+      "lng": 103.9460775
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321579380291502,
+        "lng": 103.9474497302915
+      },
+      "southwest": {
+        "lat": 1.318881419708498,
+        "lng": 103.9447517697085
+      }
+    }
+  },
+  "name": "newEcon - Orange Mart SG Pte Ltd",
+  "place_id": "ChIJ7dVK174j2jERJNQAQRO1l50",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ian Sarah",
+      "author_url": "https://www.google.com/maps/contrib/117399684134149820856/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5sDWersBS1DAMegEk2wWAaHE_BJEmtnCPTIRQ1_WbvFSe9b0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Orange Mart is a convenient neighbourhood void deck shop that not only offers online parcel collection but also sells essential groceries and titbits. It's a one-stop-shop for all your daily needs.",
+      "time": 1695609776,
+      "translated": false
+    },
+    {
+      "author_name": "Gerald Tan",
+      "author_url": "https://www.google.com/maps/contrib/115515368120659741400/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFVIP6fGwaWGbvnzg-cyU_hBHPmr8dl6vsFZQltCTaR2Kc1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Convenient location, common household products meet buyers’ needs, prices are affordable, and some are significantly cheaper than competitors’",
+      "time": 1705630202,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11355744079737574436",
+  "user_ratings_total": 2,
+  "vicinity": "Bedok South Road, #01-K1 Block 165, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2640606,
+      "lng": 103.8223506
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265399480291502,
+        "lng": 103.82308065
+      },
+      "southwest": {
+        "lat": 1.262701519708498,
+        "lng": 103.82016045
+      }
+    }
+  },
+  "name": "The Skin Pharmacy",
+  "place_id": "ChIJq6qqmlgZ2jERaMq9MR5Go4U",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9629617523745737320",
+  "vicinity": "1 HarbourFront Walk"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "603 Tiong Bahru Rd, Singapore 158788",
+  "geometry": {
+    "location": {
+      "lat": 1.2884921,
+      "lng": 103.8196336
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289875030291502,
+        "lng": 103.8209812802915
+      },
+      "southwest": {
+        "lat": 1.287177069708498,
+        "lng": 103.8182833197085
+      }
+    }
+  },
+  "name": "Shell Select",
+  "place_id": "ChIJ4VG4e4Mb2jER49QHbQ6A4ec",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Small little convenience store housed here within Shell petrol kiosk. Was stopped by the lady attendant from taking photos and videos, even after explaining to her that I was pushing the contents onto Google Maps. Oh well.",
+      "time": 1682213259,
+      "translated": false
+    },
+    {
+      "author_name": "Eddie Chen",
+      "author_url": "https://www.google.com/maps/contrib/116525405810664109944/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrWPN46MoYGtlqy1Rp49Hi5s6JoyqhAk9Qt1VQkxVj5yFPHo3H=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Friendly staff and clean environment.",
+      "time": 1677073291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16708776891968378083",
+  "user_ratings_total": 2,
+  "vicinity": "603 Tiong Bahru Road, Singapore"
+}

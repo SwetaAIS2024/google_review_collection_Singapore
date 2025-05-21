@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Holland Grv Vw, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3124879,
+      "lng": 103.7814239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313866630291502,
+        "lng": 103.7827664302915
+      },
+      "southwest": {
+        "lat": 1.311168669708498,
+        "lng": 103.7800684697085
+      }
+    }
+  },
+  "name": "Park connector access",
+  "place_id": "ChIJYVm1LgAb2jERiG58458HDx4",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2165958329086275208",
+  "vicinity": "Holland Grove View"
+}

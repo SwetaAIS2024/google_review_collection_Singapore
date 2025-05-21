@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25 Airline Rd, Level 1 SIA Engineering, Singapore 819829",
+  "geometry": {
+    "location": {
+      "lat": 1.3772,
+      "lng": 103.99727
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378717680291502,
+        "lng": 103.9982504802915
+      },
+      "southwest": {
+        "lat": 1.376019719708498,
+        "lng": 103.9955525197085
+      }
+    }
+  },
+  "name": "DBS ATM - Airline House",
+  "place_id": "ChIJJSLyE4c92jER5lljmOOJi44",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10271454985755777510",
+  "vicinity": "25 Airline Road, Level 1 SIA Engineering"
+}

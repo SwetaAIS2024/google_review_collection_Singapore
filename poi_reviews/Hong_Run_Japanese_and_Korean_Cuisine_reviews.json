@@ -1,0 +1,44 @@
+{
+  "formatted_address": "151 Bishan St.11, #01- 195 Block 151, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.3453956,
+      "lng": 103.8557235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346719930291502,
+        "lng": 103.8569806802915
+      },
+      "southwest": {
+        "lat": 1.344021969708498,
+        "lng": 103.8542827197085
+      }
+    }
+  },
+  "name": "Hong Run Japanese & Korean Cuisine",
+  "place_id": "ChIJ62xCSQAX2jERu3dE-006GFc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "yinshen tan",
+      "author_url": "https://www.google.com/maps/contrib/102058738810628865179/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx0ELUBM5x9TcGdnvUOWuey50qb9RUIjED3wcc0qcB_N_Uth8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735129645,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6275830187343247291",
+  "user_ratings_total": 1,
+  "vicinity": "151 Bishan Street 11, #01- 195 Block 151, Singapore"
+}

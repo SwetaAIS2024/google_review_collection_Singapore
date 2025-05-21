@@ -1,0 +1,31 @@
+{
+  "formatted_address": "55 Serangoon North Ave 4, #02-08 S9, Singapore 555859",
+  "geometry": {
+    "location": {
+      "lat": 1.3769565,
+      "lng": 103.8748026
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378230730291502,
+        "lng": 103.8761478302915
+      },
+      "southwest": {
+        "lat": 1.375532769708498,
+        "lng": 103.8734498697085
+      }
+    }
+  },
+  "name": "WTF Vending Machine Services (Main Office) - 24hr Drinks & Food",
+  "place_id": "ChIJ1TKjrNwX2jERbNsTRrDqyb8",
+  "types": [
+    "convenience_store",
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13819834974373927788",
+  "vicinity": "55 Serangoon North Avenue 4, #02-08 S9"
+}

@@ -1,0 +1,78 @@
+{
+  "formatted_address": "149 Rochor Rd, Singapore 188425",
+  "geometry": {
+    "location": {
+      "lat": 1.301531,
+      "lng": 103.854515
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302666830291502,
+        "lng": 103.8560037802915
+      },
+      "southwest": {
+        "lat": 1.299968869708498,
+        "lng": 103.8533058197085
+      }
+    }
+  },
+  "name": "Shinn Shyang Medical Co",
+  "place_id": "ChIJJyJqRLoZ2jERz5OkzRsqNm4",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Joke Jong",
+      "author_url": "https://www.google.com/maps/contrib/113676134921645244781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDKW6l5UaAKTNs5gI3tzetkEwRlo_BLdcYg-YJAsPHiKECEX_O=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Friendly, comprehensive and Ms Kathy Ng was very helpful! They have been in operation for 30 plus years and certainly knowledgeable in their trade!",
+      "time": 1486980254,
+      "translated": false
+    },
+    {
+      "author_name": "Chua Chim Hoe",
+      "author_url": "https://www.google.com/maps/contrib/102084408668407444537/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6-dFt1KsTR7INHYgFFyT2e216WjMjoVf27iGWl-hUn0ueDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Dr. Huang Lifang has many years of clinical experience and superb medical skills. Especially for the gastrointestinal aspect, it is even better and highly recommended.",
+      "time": 1712198110,
+      "translated": true
+    },
+    {
+      "author_name": "João Pimentel",
+      "author_url": "https://www.google.com/maps/contrib/110066752468045064938/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWal4r7vDXJbpBk6jNDXPpGBgQ5i980KvVOdh-hR2tFT-1ICLst=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556523879,
+      "translated": false
+    },
+    {
+      "author_name": "陈C罗",
+      "author_url": "https://www.google.com/maps/contrib/117611200276672449903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4f556baWoK0t5nvSWqAWQsVg-S_9Nfuk9s5u0aGjOzf3Oxbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543335090,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7941581291817046991",
+  "user_ratings_total": 4,
+  "vicinity": "149 Rochor Road, Singapore"
+}

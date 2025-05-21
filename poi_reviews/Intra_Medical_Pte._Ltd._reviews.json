@@ -1,0 +1,44 @@
+{
+  "formatted_address": "19 Kim Keat Rd, Singapore 328804",
+  "geometry": {
+    "location": {
+      "lat": 1.3249831,
+      "lng": 103.8531284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326294330291502,
+        "lng": 103.8545243302915
+      },
+      "southwest": {
+        "lat": 1.323596369708498,
+        "lng": 103.8518263697085
+      }
+    }
+  },
+  "name": "Intra Medical Pte. Ltd.",
+  "place_id": "ChIJk-Rm9tgZ2jERLFweEE9cXVc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "LEK KWEE CHUENG",
+      "author_url": "https://www.google.com/maps/contrib/111637286369035678112/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5kMiNiIcJDTheO26eXBP9KNc3yuVbo28zvf_OIPmzt8_76w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561954814,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6295289348776418348",
+  "user_ratings_total": 1,
+  "vicinity": "19 Kim Keat Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Chinese Garden Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3424045,
+      "lng": 103.73255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343912030291502,
+        "lng": 103.7338712802915
+      },
+      "southwest": {
+        "lat": 1.341214069708498,
+        "lng": 103.7311733197085
+      }
+    }
+  },
+  "name": "OCBC ATM @ Chinese Garden MRT",
+  "place_id": "ChIJW-JjTCIR2jERZSEwYX6AcjA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3490993941450334565",
+  "vicinity": "Chinese Garden Road"
+}

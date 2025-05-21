@@ -1,0 +1,29 @@
+{
+  "formatted_address": "118 Joo Chiat Rd, #01-01, Singapore 427407",
+  "geometry": {
+    "location": {
+      "lat": 1.3138723,
+      "lng": 103.8990948
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315254080291502,
+        "lng": 103.9004898302915
+      },
+      "southwest": {
+        "lat": 1.312556119708498,
+        "lng": 103.8977918697085
+      }
+    }
+  },
+  "name": "Reiwa Health",
+  "place_id": "ChIJQQYk-k0Z2jERKDFXFfHc00g",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5247780918820024616",
+  "vicinity": "118 Joo Chiat Road, #01-01"
+}

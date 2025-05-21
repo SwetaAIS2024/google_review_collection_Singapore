@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3410404,
+      "lng": 103.9629619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342019280291502,
+        "lng": 103.9644440302915
+      },
+      "southwest": {
+        "lat": 1.339321319708498,
+        "lng": 103.9617460697085
+      }
+    }
+  },
+  "name": "Taiwanese Cuisine",
+  "place_id": "ChIJ7ZsLTAA92jERuuxt2WrJJGA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6927883587554241722",
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

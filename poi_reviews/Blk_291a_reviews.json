@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3441708,
+      "lng": 103.7564481
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345559180291502,
+        "lng": 103.7577696302915
+      },
+      "southwest": {
+        "lat": 1.342861219708498,
+        "lng": 103.7550716697085
+      }
+    }
+  },
+  "name": "Blk 291a",
+  "place_id": "ChIJGd-xSGoQ2jERZMKCVtbS8QI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Note 55555",
+      "author_url": "https://www.google.com/maps/contrib/111189574609570389707/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk3wrj01-oU5I9a31tKTA1qXXaS1p1rHJQYFVS2lvcg4WsIrAG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1646355194,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=212182475479368292",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

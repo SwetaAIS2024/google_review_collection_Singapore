@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336877,
+      "lng": 103.718056
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338209380291502,
+        "lng": 103.7193828802915
+      },
+      "southwest": {
+        "lat": 1.335511419708498,
+        "lng": 103.7166849197085
+      }
+    }
+  },
+  "name": "Taman Jurong Greens",
+  "place_id": "ChIJW9gJUuUP2jERfgaG_H-9Sag",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lei Zhang",
+      "author_url": "https://www.google.com/maps/contrib/110470102040840629379/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVP0Sls8kkfzv0yGLzfJYjxGRe3UpVXjos3fFCAKDzdpz92KIc=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516103364,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12126431829066909310",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

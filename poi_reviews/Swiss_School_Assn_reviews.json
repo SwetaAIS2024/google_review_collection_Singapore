@@ -1,0 +1,29 @@
+{
+  "formatted_address": "119 Airport Cargo Rd, Singapore 819454",
+  "geometry": {
+    "location": {
+      "lat": 1.3734711,
+      "lng": 103.9950669
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375039180291502,
+        "lng": 103.9965134802915
+      },
+      "southwest": {
+        "lat": 1.372341219708498,
+        "lng": 103.9938155197085
+      }
+    }
+  },
+  "name": "Swiss School Assn",
+  "place_id": "ChIJt1xe5m882jERnu6IoyiTsok",
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9922154731802259102",
+  "vicinity": "119 Airport Cargo Road"
+}

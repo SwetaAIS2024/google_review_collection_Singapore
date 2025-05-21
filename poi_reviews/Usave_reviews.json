@@ -1,0 +1,29 @@
+{
+  "formatted_address": "231 Simei Street 4, #09-116, Singapore 520231",
+  "geometry": {
+    "location": {
+      "lat": 1.3439323,
+      "lng": 103.9568655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345283880291502,
+        "lng": 103.9581839802915
+      },
+      "southwest": {
+        "lat": 1.342585919708498,
+        "lng": 103.9554860197085
+      }
+    }
+  },
+  "name": "Usave",
+  "place_id": "ChIJhW3Hrf092jERpdg5cmmo3Ps",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18148565769237682341",
+  "vicinity": "231 Simei Street 4, #09-116"
+}

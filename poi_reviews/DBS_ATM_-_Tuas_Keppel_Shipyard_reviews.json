@@ -1,0 +1,45 @@
+{
+  "formatted_address": "51 Pioneer Sector 1, Singapore 628437",
+  "geometry": {
+    "location": {
+      "lat": 1.30253,
+      "lng": 103.6551002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304041180291502,
+        "lng": 103.6566040802915
+      },
+      "southwest": {
+        "lat": 1.301343219708498,
+        "lng": 103.6539061197085
+      }
+    }
+  },
+  "name": "DBS ATM - Tuas Keppel Shipyard",
+  "place_id": "ChIJuTSV2jEF2jERp0dz62HM0CE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Soori T",
+      "author_url": "https://www.google.com/maps/contrib/102174582631863191756/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwygGg0iYe_J9feYFO8zZjpbQhJpBV_1Izue1yU9aeRLkcp4o=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Tuas needs way more ATMs. Easy-ish to find and not much Q to get money during lunch. Would still recommend coming into Tuas with money. The other nearest ATM is at the coffee shops after the highway exit. This one is more for staff at Keppel",
+      "time": 1581491450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2436672119341533095",
+  "user_ratings_total": 1,
+  "vicinity": "51 Pioneer Sector 1, Singapore"
+}

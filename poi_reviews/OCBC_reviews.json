@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2567871,
+      "lng": 103.8196958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258172480291502,
+        "lng": 103.8206160302915
+      },
+      "southwest": {
+        "lat": 1.255474519708498,
+        "lng": 103.8179180697085
+      }
+    }
+  },
+  "name": "OCBC",
+  "place_id": "ChIJ3-Xn2_0b2jERdNSsfIxf15E",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10508973312484103284",
+  "vicinity": "8 Sentosa Gateway"
+}

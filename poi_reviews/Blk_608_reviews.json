@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337734,
+      "lng": 103.699951
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339064480291502,
+        "lng": 103.7013002802915
+      },
+      "southwest": {
+        "lat": 1.336366519708498,
+        "lng": 103.6986023197085
+      }
+    }
+  },
+  "name": "Blk 608",
+  "place_id": "ChIJvwqH9ZEP2jERFzpMThF598g",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Chia Yong Fun",
+      "author_url": "https://www.google.com/maps/contrib/115775055615545277788/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtxSLMkq3_MVZ1ZTMYl0UoupvQ0Dkph6AMnvQ-XGX2wuuerA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492476345,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14481176242068142615",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

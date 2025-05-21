@@ -1,0 +1,30 @@
+{
+  "formatted_address": "101 Thomson Rd, Singapore 307591",
+  "geometry": {
+    "location": {
+      "lat": 1.3171474,
+      "lng": 103.8435716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318499030291502,
+        "lng": 103.8451206302915
+      },
+      "southwest": {
+        "lat": 1.315801069708498,
+        "lng": 103.8424226697085
+      }
+    }
+  },
+  "name": "Snack Attack (United Square)",
+  "place_id": "ChIJLTfuAwAZ2jERXP063aTkjY8",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10344175315877297500",
+  "vicinity": "101 Thomson Road"
+}

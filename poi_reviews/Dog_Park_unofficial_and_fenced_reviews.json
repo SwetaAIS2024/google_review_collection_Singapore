@@ -1,0 +1,28 @@
+{
+  "formatted_address": "17 Marne Rd, Singapore 208388",
+  "geometry": {
+    "location": {
+      "lat": 1.3122349,
+      "lng": 103.8569067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313531680291502,
+        "lng": 103.8583229802915
+      },
+      "southwest": {
+        "lat": 1.310833719708498,
+        "lng": 103.8556250197085
+      }
+    }
+  },
+  "name": "Dog Park (unofficial and fenced)",
+  "place_id": "ChIJGaWxBwAZ2jERLUBFdX36cSs",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3130558632744534061",
+  "vicinity": "17 Marne Road, Singapore"
+}

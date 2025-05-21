@@ -1,0 +1,42 @@
+{
+  "formatted_address": "10 Collyer Quay, Singapore 049315",
+  "geometry": {
+    "location": {
+      "lat": 1.2829639,
+      "lng": 103.8520725
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284243780291502,
+        "lng": 103.8534350302915
+      },
+      "southwest": {
+        "lat": 1.281545819708498,
+        "lng": 103.8507370697085
+      }
+    }
+  },
+  "name": "College of General Dental Practitioners (Singapore)",
+  "place_id": "ChIJJaZL6w4Z2jERQD5-SFW2O2g",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Nitin verma",
+      "author_url": "https://www.google.com/maps/contrib/114847728682963195017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP4kbEs68UCWhbozV-n5H8ICXYdwTyiECcPrWhgm6x19kSGLRf=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502162074,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7510797280975142464",
+  "user_ratings_total": 1,
+  "vicinity": "10 Collyer Quay"
+}

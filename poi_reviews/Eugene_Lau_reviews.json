@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jurong East Street 21, Singapore 609606",
+  "geometry": {
+    "location": {
+      "lat": 1.3337719,
+      "lng": 103.7454999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335199630291502,
+        "lng": 103.7469104802915
+      },
+      "southwest": {
+        "lat": 1.332501669708498,
+        "lng": 103.7442125197085
+      }
+    }
+  },
+  "name": "Eugene Lau",
+  "place_id": "ChIJAUCm-5QR2jER8Jb9q0Al6JI",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10585751883828008688",
+  "vicinity": "1 Jurong East Street 21"
+}

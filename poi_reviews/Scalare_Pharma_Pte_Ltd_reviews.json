@@ -1,0 +1,54 @@
+{
+  "formatted_address": "152 Beach Rd, #28-01 Gateway east, Singapore 189721",
+  "geometry": {
+    "location": {
+      "lat": 1.2988735,
+      "lng": 103.8594007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300409780291502,
+        "lng": 103.8605595302915
+      },
+      "southwest": {
+        "lat": 1.297711819708498,
+        "lng": 103.8578615697085
+      }
+    }
+  },
+  "name": "Scalare Pharma Pte Ltd",
+  "place_id": "ChIJD67q0rEZ2jERNtzSu-Ax0vI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SUNIL MORE RDC1",
+      "author_url": "https://www.google.com/maps/contrib/116411801293376915099/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_5DYjwlDYh6V_CrePCXUUrtYvycpFtLAKWb7nxDjQFdW7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676029556,
+      "translated": false
+    },
+    {
+      "author_name": "Ram Ram",
+      "author_url": "https://www.google.com/maps/contrib/113174521530508088222/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUukzqOeH-sljuGUsVMzEQwAgFOFI06Za8CY4fM1wAEHRZVSqZq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674636541,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17497102343581391926",
+  "user_ratings_total": 2,
+  "vicinity": "152 Beach Road, #28-01 Gateway east"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Tampines, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3495907,
+      "lng": 103.9567879
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.37574700501689,
+        "lng": 103.9858350324979
+      },
+      "southwest": {
+        "lat": 1.314461869299935,
+        "lng": 103.9242189648732
+      }
+    }
+  },
+  "name": "Tampines",
+  "place_id": "ChIJ0e4CNAQ92jERy_T_mqOSB48",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Tampines,+Singapore&ftid=0x31da3d043402eed1:0x8f0792a39afff4cb",
+  "vicinity": "Singapore"
+}

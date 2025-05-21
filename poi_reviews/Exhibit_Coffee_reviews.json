@@ -1,0 +1,30 @@
+{
+  "formatted_address": "126C Tengah Dr, Singapore 693126",
+  "geometry": {
+    "location": {
+      "lat": 1.3586254,
+      "lng": 103.7348009
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359905930291502,
+        "lng": 103.7360868802915
+      },
+      "southwest": {
+        "lat": 1.357207969708498,
+        "lng": 103.7333889197085
+      }
+    }
+  },
+  "name": "Exhibit Coffee",
+  "place_id": "ChIJQapQg6sR2jERNVI1bIQi7OA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16207367111146033717",
+  "vicinity": "126C Tengah Drive"
+}

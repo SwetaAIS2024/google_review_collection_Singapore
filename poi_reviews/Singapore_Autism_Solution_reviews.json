@@ -1,0 +1,28 @@
+{
+  "formatted_address": "38 N Bridge Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3054582,
+      "lng": 103.8632413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306852980291502,
+        "lng": 103.8646466802915
+      },
+      "southwest": {
+        "lat": 1.304155019708498,
+        "lng": 103.8619487197085
+      }
+    }
+  },
+  "name": "Singapore Autism Solution",
+  "place_id": "ChIJC83TzbUZ2jERnVFRCav3aJI",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10549954441083179421",
+  "vicinity": "38 North Bridge Road"
+}

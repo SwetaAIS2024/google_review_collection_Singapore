@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Lucky Gardens, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3192859,
+      "lng": 103.942094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320639480291502,
+        "lng": 103.9432948302915
+      },
+      "southwest": {
+        "lat": 1.317941519708498,
+        "lng": 103.9405968697085
+      }
+    }
+  },
+  "name": "Lucky Gardens Boyanese Cemetery",
+  "place_id": "ChIJh-gvIski2jERhUP6pzcDBMI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amir Lim",
+      "author_url": "https://www.google.com/maps/contrib/114134895421921853757/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUatrH16i9gwF15szEbdJryFNfUMsECSENxfKx9Ev0Yk14iTHvW=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Al-Fatihah to all occupants of the grave",
+      "time": 1712064160,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13980302680841143173",
+  "user_ratings_total": 1,
+  "vicinity": "Lucky Gardens"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Jurong West Street 41, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3490634,
+      "lng": 103.7218575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.350365058512818,
+        "lng": 103.7231351135338
+      },
+      "southwest": {
+        "lat": 1.347667097929814,
+        "lng": 103.7204371529508
+      }
+    }
+  },
+  "name": "Palm View Garden",
+  "place_id": "ChIJ291wONwP2jERqZeiwwfticA",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Jurong+West+Street+41,+Singapore&ftid=0x31da0fdc3870dddb:0xc089ed07c3a297a9",
+  "vicinity": "Singapore"
+}

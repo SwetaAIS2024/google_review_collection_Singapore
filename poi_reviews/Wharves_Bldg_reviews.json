@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279419,
+      "lng": 103.783577
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281345130291502,
+        "lng": 103.7845420302915
+      },
+      "southwest": {
+        "lat": 1.278647169708498,
+        "lng": 103.7818440697085
+      }
+    }
+  },
+  "name": "Wharves Bldg",
+  "place_id": "ChIJT79em6Ub2jER0no60iHHu30",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9060054023460780754",
+  "vicinity": "Singapore"
+}

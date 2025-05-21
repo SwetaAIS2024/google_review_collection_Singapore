@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Blk 484 Pasir Ris Drive 4, Singapore 510484",
+  "geometry": {
+    "location": {
+      "lat": 1.3740297,
+      "lng": 103.9607233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375407030291502,
+        "lng": 103.9620246302915
+      },
+      "southwest": {
+        "lat": 1.372709069708498,
+        "lng": 103.9593266697085
+      }
+    }
+  },
+  "name": "\"Pop Piano Improvisation\" @ Pasir Ris",
+  "place_id": "ChIJZzY83lwW2jERKn1tKcfdsoA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yanqiang Sun",
+      "author_url": "https://www.google.com/maps/contrib/113593177640833404310/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsUKyT5Wgl9uEsU6IwlnyOiy4IAjRXPjDxrqTt5l-82fpfUrqs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A good place to relax during holidays",
+      "time": 1711704318,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9273718430172544298",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 484 Pasir Ris Drive 4"
+}

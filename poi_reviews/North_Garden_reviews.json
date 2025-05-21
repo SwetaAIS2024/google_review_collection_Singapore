@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2840632,
+      "lng": 103.8609831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285399930291502,
+        "lng": 103.8624495802915
+      },
+      "southwest": {
+        "lat": 1.282701969708498,
+        "lng": 103.8597516197085
+      }
+    }
+  },
+  "name": "North Garden",
+  "place_id": "ChIJ_0_fGAQZ2jERIpAx8JBlh7s",
+  "types": [
+    "park",
+    "point_of_interest",
+    "subpremise",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da190418df4fff:0xbb876590f0319022",
+  "vicinity": "Singapore"
+}

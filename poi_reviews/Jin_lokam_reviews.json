@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Upper Serangoon Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3576474,
+      "lng": 103.8824703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358995230291502,
+        "lng": 103.8838203802915
+      },
+      "southwest": {
+        "lat": 1.356297269708498,
+        "lng": 103.8811224197085
+      }
+    }
+  },
+  "name": "Jin lokam",
+  "place_id": "ChIJ0ZfhLQAX2jERtleze-j_32k",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7629097667761756086",
+  "vicinity": "Upper Serangoon Road"
+}

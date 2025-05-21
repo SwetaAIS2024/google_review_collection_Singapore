@@ -1,0 +1,86 @@
+{
+  "formatted_address": "15 Computing Dr, Singapore 117418",
+  "geometry": {
+    "location": {
+      "lat": 1.2942824,
+      "lng": 103.7741012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295738380291502,
+        "lng": 103.7753625802915
+      },
+      "southwest": {
+        "lat": 1.293040419708498,
+        "lng": 103.7726646197085
+      }
+    }
+  },
+  "name": "COM 2",
+  "place_id": "ChIJRafctPga2jER8aiJ3XzHihM",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Raj Joshi",
+      "author_url": "https://www.google.com/maps/contrib/109025530273285577965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzI9T587d6OcpJXxiIwvTlimDDOH5z4AZ2VyBImh1J6j4smw24=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "This the second building of the NUS School of Computing. Hosts bunch of research labs, faculty offices, meeting rooms, an ATM and a canteen.",
+      "time": 1500342744,
+      "translated": false
+    },
+    {
+      "author_name": "Tong Bai",
+      "author_url": "https://www.google.com/maps/contrib/104864061303390721259/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQj8rHDHIP8InvG5tEeKJF6cNlHlLZTj3oyrDU0wo1k-hUYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Too many stairs",
+      "time": 1661334806,
+      "translated": false
+    },
+    {
+      "author_name": "sb koon",
+      "author_url": "https://www.google.com/maps/contrib/113224386033578757352/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNQOzuF21I-2L0DdB9T8ibZkHybkJeHWBm8sdcLTndHHOlazoMMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608629268,
+      "translated": false
+    },
+    {
+      "author_name": "Dmitry Mordovtsev",
+      "author_url": "https://www.google.com/maps/contrib/110562560981431224676/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUef5tFSbsGrEACsEHdV1K8LISD_qoYjNSkkkm2Bv0DNo57DN-g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1580396571,
+      "translated": false
+    },
+    {
+      "author_name": "Wong D Brian",
+      "author_url": "https://www.google.com/maps/contrib/107538418194109234649/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPiT0yfFOnV2L5HP0vyTO5Ysaxp4O_SWmOf4GSnSjz3oeIhWuj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516268417,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1408157172613359857",
+  "user_ratings_total": 6,
+  "vicinity": "15 Computing Drive"
+}

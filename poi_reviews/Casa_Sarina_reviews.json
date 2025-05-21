@@ -1,0 +1,78 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3197018,
+      "lng": 103.9072825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320978480291502,
+        "lng": 103.9086476802915
+      },
+      "southwest": {
+        "lat": 1.318280519708498,
+        "lng": 103.9059497197085
+      }
+    }
+  },
+  "name": "Casa Sarina",
+  "place_id": "ChIJQbKNNwQY2jERNvrZgsqdeO0",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Chee Kong Christopher Yaw",
+      "author_url": "https://www.google.com/maps/contrib/114959384714848706764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsCKE7zGtmd-uk3u1YZMp2xr5S6uG0DjUzgEgSocecbo-jPzJL=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Unfriendly security guard. Guard which would cramp your vehicle anyhow even if you are a residents during the 2nd day of CNY 2025.",
+      "time": 1738238367,
+      "translated": false
+    },
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "It's just wow. Place....",
+      "time": 1501175671,
+      "translated": false
+    },
+    {
+      "author_name": "Cristina Narvaez",
+      "author_url": "https://www.google.com/maps/contrib/116318368065101674309/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXWCAJW74J3FILe8zN2flBttEhCGJZT1FTbq2eZi-lFkck_QBe=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "11 years ago",
+      "text": "Where we live in sg",
+      "time": 1370045415,
+      "translated": false
+    },
+    {
+      "author_name": "Edc Edc",
+      "author_url": "https://www.google.com/maps/contrib/105010587030907044605/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrJVzsLVceB5V2dKgtDtSFJIfiXJ32v14QEKFJcmPvlj-2Gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737115281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17111600277298477622",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

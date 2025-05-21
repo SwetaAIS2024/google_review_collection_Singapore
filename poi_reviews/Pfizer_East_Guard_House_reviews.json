@@ -1,0 +1,41 @@
+{
+  "formatted_address": "31 Tuas South Ave 6, Singapore 637578",
+  "geometry": {
+    "location": {
+      "lat": 1.2994108,
+      "lng": 103.637216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300757680291502,
+        "lng": 103.6385695302915
+      },
+      "southwest": {
+        "lat": 1.298059719708498,
+        "lng": 103.6358715697085
+      }
+    }
+  },
+  "name": "Pfizer East Guard House",
+  "place_id": "ChIJIYsIn7gF2jERbNoz6-Joqes",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kelvin Wang",
+      "author_url": "https://www.google.com/maps/contrib/118344174639777221135/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBGWAtLOgAwU7NL69iZgd_H59Z9g-OU-VYaFK_p37jSkvzNiYr=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681366879,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16981219193795107436",
+  "user_ratings_total": 1,
+  "vicinity": "31 Tuas South Avenue 6, Singapore"
+}

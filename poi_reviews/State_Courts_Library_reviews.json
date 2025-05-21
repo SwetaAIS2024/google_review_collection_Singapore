@@ -1,0 +1,28 @@
+{
+  "formatted_address": "2A Havelock Square, Singapore 059726",
+  "geometry": {
+    "location": {
+      "lat": 1.2861872,
+      "lng": 103.8434049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287822530291502,
+        "lng": 103.8449227802915
+      },
+      "southwest": {
+        "lat": 1.285124569708498,
+        "lng": 103.8422248197085
+      }
+    }
+  },
+  "name": "State Courts Library",
+  "place_id": "ChIJ89EdJgAZ2jER91IoEEUvwcQ",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14177665075609359095",
+  "vicinity": "2A Havelock Square, Singapore"
+}

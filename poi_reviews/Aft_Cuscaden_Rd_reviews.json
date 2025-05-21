@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304887,
+      "lng": 103.8255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306260730291502,
+        "lng": 103.8268836802915
+      },
+      "southwest": {
+        "lat": 1.303562769708498,
+        "lng": 103.8241857197085
+      }
+    }
+  },
+  "name": "Aft Cuscaden Rd",
+  "place_id": "ChIJwYcRu4sZ2jERmwQbAHAe86E",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "C 12",
+      "author_url": "https://www.google.com/maps/contrib/105640845787905583483/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcA1GvU-8xlfRsasWBkn1vslX2qxkAPsm3gDVqw8JfTBKcQSKOUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Nice interchange in midst of Orchard Road. Friendly cosy comfy welcoming ambience.",
+      "time": 1500971391,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515920757,
+      "translated": false
+    },
+    {
+      "author_name": "Naman Mittal",
+      "author_url": "https://www.google.com/maps/contrib/101003625357126189411/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXER0zY5B0h2s5Y4C95qGt2nhRKdOzAodn8YY1JoBe02gaL0XCi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502966187,
+      "translated": false
+    },
+    {
+      "author_name": "blueback",
+      "author_url": "https://www.google.com/maps/contrib/108364437120902290677/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVugDG6ZH-xHhJ_UFEM1A8e5SIN8ID4x1ukEIJVJBc_4A557gl1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489291394,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11669704525834028187",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

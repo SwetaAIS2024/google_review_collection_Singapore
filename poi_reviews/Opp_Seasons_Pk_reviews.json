@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.385759,
+      "lng": 103.838715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387054980291502,
+        "lng": 103.8401117302915
+      },
+      "southwest": {
+        "lat": 1.384357019708498,
+        "lng": 103.8374137697085
+      }
+    }
+  },
+  "name": "Opp Seasons Pk",
+  "place_id": "ChIJa8SNLbkW2jERWu2eaB_CGlI",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "R F",
+      "author_url": "https://www.google.com/maps/contrib/103566776924293221191/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR-RPcHHNSWlCJJCsCk2sKH5qQW5dCQEz200oqv295LtysrQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "unsure why set farther from mrt exit than taxi stop so must walk farther to catch the bus",
+      "time": 1693027944,
+      "translated": false
+    },
+    {
+      "author_name": "Dragon Dragon",
+      "author_url": "https://www.google.com/maps/contrib/106077836006778730549/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2B6PemH2hIL18RkhMVnA4dOzMhLfpfMqff7cFX7rwxyNIAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Hahaha it's near to my work place...",
+      "time": 1604918440,
+      "translated": false
+    },
+    {
+      "author_name": "Rashidi Hadbi",
+      "author_url": "https://www.google.com/maps/contrib/104102748791561346829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw3sU1r-eC4_-eNtB_nIh45S3qkIhgXqFQBkJUX34i-i0ZOYz1eg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Place for bus stop",
+      "time": 1676199258,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5916254500659588442",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

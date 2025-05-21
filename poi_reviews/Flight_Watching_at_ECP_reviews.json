@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1500 ECP, Singapore 468963",
+  "geometry": {
+    "location": {
+      "lat": 1.3146753,
+      "lng": 103.9631862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316386830291502,
+        "lng": 103.9641708802915
+      },
+      "southwest": {
+        "lat": 1.313688869708498,
+        "lng": 103.9614729197085
+      }
+    }
+  },
+  "name": "Flight Watching at ECP",
+  "place_id": "ChIJwUuBMwAj2jERRG-XfrqTBXQ",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8360250712480247620",
+  "vicinity": "1500 East Coast Parkway, Singapore"
+}

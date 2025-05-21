@@ -1,0 +1,30 @@
+{
+  "formatted_address": "30 Kaki Bukit Rd 3, Singapore 417819",
+  "geometry": {
+    "location": {
+      "lat": 1.3363738,
+      "lng": 103.9036146
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337635980291502,
+        "lng": 103.9048799302915
+      },
+      "southwest": {
+        "lat": 1.334938019708498,
+        "lng": 103.9021819697085
+      }
+    }
+  },
+  "name": "Chah wala",
+  "place_id": "ChIJN53qcaIX2jER5otxI6E47ms",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7777215871250959334",
+  "vicinity": "30 Kaki Bukit Road 3, Singapore"
+}

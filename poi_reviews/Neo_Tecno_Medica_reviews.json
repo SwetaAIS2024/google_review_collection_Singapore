@@ -1,0 +1,30 @@
+{
+  "formatted_address": "151 Chin Swee Rd, Singapore 169876",
+  "geometry": {
+    "location": {
+      "lat": 1.287062,
+      "lng": 103.8406922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288517180291502,
+        "lng": 103.8419402302915
+      },
+      "southwest": {
+        "lat": 1.285819219708498,
+        "lng": 103.8392422697085
+      }
+    }
+  },
+  "name": "Neo Tecno Medica",
+  "place_id": "ChIJQU2dtnUZ2jERDclqW7KAjrQ",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13010477877046200589",
+  "vicinity": "151 Chin Swee Road"
+}

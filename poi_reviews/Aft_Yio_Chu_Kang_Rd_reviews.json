@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362869,
+      "lng": 103.872391
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364193930291502,
+        "lng": 103.8737266302915
+      },
+      "southwest": {
+        "lat": 1.361495969708498,
+        "lng": 103.8710286697085
+      }
+    }
+  },
+  "name": "Aft Yio Chu Kang Rd",
+  "place_id": "ChIJvUigQKsX2jERXD59whXdeWE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Wayne Lee",
+      "author_url": "https://www.google.com/maps/contrib/112148099900748531368/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJl0LrYhot7L6ku-BGLffFJ0Ela5_ku9NK8DKw2JI_uN9NYDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "There is a bus lane at this place but the bus drivers usually dont turn into the bus lane when they dont spot any people waiting at the bus stop, even if you are running to catch the bus. It is worse when buses like 315 have such a long interval.\nIn such cases, where usually you could have caught up to the bus, but because they are travelling on the main road they cannot stop for boarding at all.",
+      "time": 1742701023,
+      "translated": false
+    },
+    {
+      "author_name": "Jingyu Huang",
+      "author_url": "https://www.google.com/maps/contrib/108164039622830326007/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSUV_ox-UTUMoB5tml9RZS88O3pDdIvbym__6XwbsYG53HlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Timing around 6:50pm, 315 bus captains speedrun with poker face , bus don’t stop, or drive in the bus pickup lane 😂",
+      "time": 1735988195,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7023888179388038748",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

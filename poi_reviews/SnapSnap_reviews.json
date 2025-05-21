@@ -1,0 +1,56 @@
+{
+  "formatted_address": "15 Jln Tepong, #04-09 Jurong Food Hub, Singapore 619336",
+  "geometry": {
+    "location": {
+      "lat": 1.3073959,
+      "lng": 103.722129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308919080291502,
+        "lng": 103.7233315302915
+      },
+      "southwest": {
+        "lat": 1.306221119708498,
+        "lng": 103.7206335697085
+      }
+    }
+  },
+  "name": "SnapSnap",
+  "place_id": "ChIJ_6ZxroEF2jERiUIRy3bIEMw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Din A",
+      "author_url": "https://www.google.com/maps/contrib/115849359747775748218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcKGYUA0U5Z_NFn-F4VPoCuwzJvRu6Vw0xwPB9apzPEt3_WECV=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I like the cereal cookies the best. Its crunchy and tasty. Highly addictive!",
+      "time": 1632900695,
+      "translated": false
+    },
+    {
+      "author_name": "val lok",
+      "author_url": "https://www.google.com/maps/contrib/115855919486497416053/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGSKtqDvJpSUyUsNjkGqQ-f4kELRjDV92Cgs4pHz-cpEBSmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I like the coffee butter cookie.   Overall all the flavour butter cookie are yummy and addictive.  You will never know unless you try.",
+      "time": 1636518231,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14704473195903271561",
+  "user_ratings_total": 2,
+  "vicinity": "15 Jalan Tepong, #04-09 Jurong Food Hub"
+}

@@ -1,0 +1,74 @@
+{
+  "formatted_address": "33 Tanglin Halt Rd, Singapore 906699",
+  "geometry": {
+    "location": {
+      "lat": 1.2965862,
+      "lng": 103.7984912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297916480291502,
+        "lng": 103.8000730802915
+      },
+      "southwest": {
+        "lat": 1.295218519708498,
+        "lng": 103.7973751197085
+      }
+    }
+  },
+  "name": "S",
+  "place_id": "ChIJ-dSIj-kR2jER2JZGo9rcgnM",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "paul bedi",
+      "author_url": "https://www.google.com/maps/contrib/106768332877013374963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI77HwecT5qi8oxxcAjSdiR-nl7U7k0YoDCGWYif9Kksbbfhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Great service ! And reasonable priced for the quality.",
+      "time": 1563600485,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Williams",
+      "author_url": "https://www.google.com/maps/contrib/112929388409939615159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWblsiLxHovMGV-TLxCs8z8d1T4sPJRIVL_Sr_buGxlw6ivuuRD=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563668221,
+      "translated": false
+    },
+    {
+      "author_name": "Tiat Leong Ang",
+      "author_url": "https://www.google.com/maps/contrib/117039188767039499568/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Tak5HNGv5zQXRpuCxIDm6n_gbOhBdS2puY6h8jaR6sAgytSUEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563600794,
+      "translated": false
+    },
+    {
+      "author_name": "fendi al qareem",
+      "author_url": "https://www.google.com/maps/contrib/116056876271061518337/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsPWd8PFSN8eVA22PVRgidfKDkGbyfGjIIQ_Umcr0ONpXgDhBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561718402,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8323457892934391512",
+  "user_ratings_total": 4,
+  "vicinity": "33 Tanglin Halt Road"
+}

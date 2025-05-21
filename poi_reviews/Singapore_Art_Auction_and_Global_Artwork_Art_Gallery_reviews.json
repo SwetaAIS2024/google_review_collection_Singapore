@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50 Chin Swee Road, #09-04 Thong Chai Building, Singapore 169874",
+  "geometry": {
+    "location": {
+      "lat": 1.2876109,
+      "lng": 103.8401485
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288890380291502,
+        "lng": 103.8415530302915
+      },
+      "southwest": {
+        "lat": 1.286192419708498,
+        "lng": 103.8388550697085
+      }
+    }
+  },
+  "name": "Singapore Art Auction & Global Artwork Art Gallery",
+  "place_id": "ChIJ-Zy7wHUZ2jERuKfUqk3SunA",
+  "types": [
+    "art_gallery",
+    "museum",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8123036108936488888",
+  "vicinity": "50 Chin Swee Road, #09-04 Thong Chai Building"
+}

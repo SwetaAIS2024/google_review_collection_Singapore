@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 270031",
+  "geometry": {
+    "location": {
+      "lat": 1.313811,
+      "lng": 103.8414416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315154080291502,
+        "lng": 103.8428743302915
+      },
+      "southwest": {
+        "lat": 1.312456119708498,
+        "lng": 103.8401763697085
+      }
+    }
+  },
+  "name": "Fatty Cow Mala Xiang Guo (Takeaway only)",
+  "place_id": "ChIJ92BFG_0Z2jERGQ0vF9iyiu4",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17188747568984558873",
+  "vicinity": "Singapore"
+}

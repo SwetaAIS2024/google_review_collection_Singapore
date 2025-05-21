@@ -1,0 +1,43 @@
+{
+  "formatted_address": "33 Lor Kilat, Singapore 598132",
+  "geometry": {
+    "location": {
+      "lat": 1.3414035,
+      "lng": 103.7723218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342813530291502,
+        "lng": 103.7737255802915
+      },
+      "southwest": {
+        "lat": 1.340115569708498,
+        "lng": 103.7710276197085
+      }
+    }
+  },
+  "name": "Ebenezer Chapel",
+  "place_id": "ChIJ03CXeGEQ2jERGDzzMYSSIso",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "prayers grabber",
+      "author_url": "https://www.google.com/maps/contrib/111592583108176207391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOkS6aA9DH3OZBdUwPjq74-jKKiPV0u7inc0_c6Y9YXmRbaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723495460,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14565365241340967960",
+  "user_ratings_total": 1,
+  "vicinity": "33 Lorong Kilat"
+}

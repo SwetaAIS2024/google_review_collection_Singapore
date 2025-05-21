@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Harbourfront Circle Line SMRT Station, 83 Telok Blangah Rd, Singapore 098886",
+  "geometry": {
+    "location": {
+      "lat": 1.2650372,
+      "lng": 103.8215381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266648080291502,
+        "lng": 103.8228599802915
+      },
+      "southwest": {
+        "lat": 1.263950119708498,
+        "lng": 103.8201620197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Harbourfront MRT",
+  "place_id": "ChIJDS2lDpob2jERzrJpfI-MfRo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1908836364970472142",
+  "vicinity": "Harbourfront Circle Line SMRT Station, 83 Telok Blangah Road"
+}

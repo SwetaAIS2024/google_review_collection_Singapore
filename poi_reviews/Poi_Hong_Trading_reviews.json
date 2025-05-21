@@ -1,0 +1,54 @@
+{
+  "formatted_address": "15 Wholesale Centre, Singapore 110015",
+  "geometry": {
+    "location": {
+      "lat": 1.2847327,
+      "lng": 103.778455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286159230291502,
+        "lng": 103.7797009802915
+      },
+      "southwest": {
+        "lat": 1.283461269708498,
+        "lng": 103.7770030197085
+      }
+    }
+  },
+  "name": "Poi Hong Trading",
+  "place_id": "ChIJg2lyY6kb2jERdDWC9Thry3o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Casey Li",
+      "author_url": "https://www.google.com/maps/contrib/114387573394207930533/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpzaTnrIVf-izaw5iuYMY5vQozY4tOPNt1sjUV528P2dz3TH8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1651626167,
+      "translated": false
+    },
+    {
+      "author_name": "Baofeng Zhuo",
+      "author_url": "https://www.google.com/maps/contrib/106246723319075475836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxSvg_uAcvd9nZokX1OgZiqfxQFO3NLNBE3g2Nb7lx94CF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529484880,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8848283785280763252",
+  "user_ratings_total": 2,
+  "vicinity": "15 Wholesale Centre, Singapore"
+}

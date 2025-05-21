@@ -1,0 +1,28 @@
+{
+  "formatted_address": "855 Tampines Street 83, #01-262, Singapore 520855",
+  "geometry": {
+    "location": {
+      "lat": 1.353674,
+      "lng": 103.9348178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355052830291502,
+        "lng": 103.9360968302915
+      },
+      "southwest": {
+        "lat": 1.352354869708498,
+        "lng": 103.9333988697085
+      }
+    }
+  },
+  "name": "M.Y World @ Tampines Central",
+  "place_id": "ChIJa985cm092jERBXgpIT-XuvM",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17562515994279770117",
+  "vicinity": "855 Tampines Street 83, #01-262"
+}

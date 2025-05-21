@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Brooke Rd, Singapore 429979",
+  "geometry": {
+    "location": {
+      "lat": 1.303763,
+      "lng": 103.904064
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305314230291502,
+        "lng": 103.9052481302915
+      },
+      "southwest": {
+        "lat": 1.302616269708498,
+        "lng": 103.9025501697085
+      }
+    }
+  },
+  "name": "Mui Noi Store",
+  "place_id": "ChIJbVlMb3IY2jERN9EjZQsNAQ0",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=937044540062421303",
+  "vicinity": "1 Brooke Road, Singapore"
+}

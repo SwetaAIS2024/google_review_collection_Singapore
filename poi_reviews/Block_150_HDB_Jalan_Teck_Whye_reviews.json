@@ -1,0 +1,53 @@
+{
+  "formatted_address": "150 Jln Teck Whye, Singapore 680150",
+  "geometry": {
+    "location": {
+      "lat": 1.3780691,
+      "lng": 103.7564286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379396480291502,
+        "lng": 103.7578489302915
+      },
+      "southwest": {
+        "lat": 1.376698519708498,
+        "lng": 103.7551509697085
+      }
+    }
+  },
+  "name": "Block 150 HDB Jalan Teck Whye",
+  "place_id": "ChIJX0PuSbkR2jERbur7vooMyME",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Eng Kuang",
+      "author_url": "https://www.google.com/maps/contrib/114378817743555544343/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxACSBRwK7hvoPzZVI_C4RvRJ84ATgAvpAjAehuEMYd4zQmh0B=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Convenient location along Choa Chu Kang Road in between Teck Whye and Phoenix LRT station.",
+      "time": 1584011651,
+      "translated": false
+    },
+    {
+      "author_name": "Alfred Lee",
+      "author_url": "https://www.google.com/maps/contrib/113896653593280451837/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYIaZFf2D_xQYl_92npJrYAb2K4zzp_1LpGDL3TX_rtBPIv3A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686478774,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13963424434711423598",
+  "user_ratings_total": 2,
+  "vicinity": "150 Jalan Teck Whye, Singapore"
+}

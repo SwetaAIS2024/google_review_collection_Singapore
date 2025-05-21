@@ -1,0 +1,45 @@
+{
+  "formatted_address": "3 Second Hospital Ave, Singapore 168937",
+  "geometry": {
+    "location": {
+      "lat": 1.279753,
+      "lng": 103.8387035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281249530291502,
+        "lng": 103.8400542302915
+      },
+      "southwest": {
+        "lat": 1.278551569708498,
+        "lng": 103.8373562697085
+      }
+    }
+  },
+  "name": "Radiologic Clinic Outram",
+  "place_id": "ChIJSVzC4nEZ2jERJlX0i350PDY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chua Swee Choo",
+      "author_url": "https://www.google.com/maps/contrib/103846330144460094554/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpq-Cb_bzkuLeW7DhJdjaYW86QuOESclSN44nLOkN6jznrTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Outram Hospital NCCS",
+      "time": 1677485368,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3908126663513494822",
+  "user_ratings_total": 1,
+  "vicinity": "3 Second Hospital Avenue"
+}

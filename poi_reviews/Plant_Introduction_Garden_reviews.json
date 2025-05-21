@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2790891,
+      "lng": 103.799502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279969680291502,
+        "lng": 103.8005000802915
+      },
+      "southwest": {
+        "lat": 1.277271719708498,
+        "lng": 103.7978021197085
+      }
+    }
+  },
+  "name": "Plant Introduction Garden",
+  "place_id": "ChIJOzQC7Mcb2jERo3_7WLX_TPw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18180186950134890403",
+  "vicinity": "Singapore"
+}

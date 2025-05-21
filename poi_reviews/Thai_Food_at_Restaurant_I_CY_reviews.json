@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Unit 50-01, Laman Niaga Sunway, Persiaran Medini 3, Sunway City, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3944812,
+      "lng": 103.6345116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395821480291502,
+        "lng": 103.6358723302915
+      },
+      "southwest": {
+        "lat": 1.393123519708498,
+        "lng": 103.6331743697085
+      }
+    }
+  },
+  "name": "Thai Food at Restaurant I CY",
+  "place_id": "ChIJT5lMfgAP2jERKcmJ01OrEMA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "T. Gordon",
+      "author_url": "https://www.google.com/maps/contrib/113961261911353330846/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO2xGoGLEyU6Q-o13o8HhLbUpEzrFCKQKBG3ISYRIp_qbb0Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Affordable and good",
+      "time": 1747300277,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13839750031429191977",
+  "user_ratings_total": 1,
+  "vicinity": "Unit 50-01, Laman Niaga Sunway, Laman Niaga Sunway, Persiaran Medini 3, Sunway City, Iskandar Puteri"
+}

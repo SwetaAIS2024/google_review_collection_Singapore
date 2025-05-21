@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33873,
+      "lng": 103.724022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339996330291502,
+        "lng": 103.7254432302915
+      },
+      "southwest": {
+        "lat": 1.337298369708498,
+        "lng": 103.7227452697085
+      }
+    }
+  },
+  "name": "Opp Chinese Gdn",
+  "place_id": "ChIJ1bMfd-MP2jERm7fO2lRXfgA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Pascale Crama",
+      "author_url": "https://www.google.com/maps/contrib/105667579078854346312/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz8zaBHYbKFTKYlP4hCxh3Z1H00B5dqT5CMVkc5hUZhJ97EQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700215688,
+      "translated": false
+    },
+    {
+      "author_name": "Zhang LongQi",
+      "author_url": "https://www.google.com/maps/contrib/105991512825962554136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhicIr9g7_nNGITuQPbh7hyAcuNyIEga2KzJ6oOxyxGuI69o2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490832632,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=35561869025392539",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

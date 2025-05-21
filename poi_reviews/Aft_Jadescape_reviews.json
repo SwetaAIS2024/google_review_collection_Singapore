@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3531715,
+      "lng": 103.8403097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354687880291502,
+        "lng": 103.8412881802915
+      },
+      "southwest": {
+        "lat": 1.351989919708498,
+        "lng": 103.8385902197085
+      }
+    }
+  },
+  "name": "Aft Jadescape",
+  "place_id": "ChIJ2y5BkzwX2jERwA3zDP54dMk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14516360531456232896",
+  "vicinity": "Singapore"
+}

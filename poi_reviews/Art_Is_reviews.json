@@ -1,0 +1,56 @@
+{
+  "formatted_address": "22 Sin Ming Ln, #06-87 Midview City, Singapore 573969",
+  "geometry": {
+    "location": {
+      "lat": 1.358606,
+      "lng": 103.833566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359756130291502,
+        "lng": 103.8346624802915
+      },
+      "southwest": {
+        "lat": 1.357058169708498,
+        "lng": 103.8319645197085
+      }
+    }
+  },
+  "name": "Art Is",
+  "place_id": "ChIJNU_K9iUX2jERs1Bt3HLGLSk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Soon Joo Gog",
+      "author_url": "https://www.google.com/maps/contrib/100031077314217406326/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTced8Rtbgtlt_no7e39N0DNMOLZetFZHlg4klHi8gtyENzUdA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I have been learning fine art with Raphael since 2015. A great environment to learn art and learn about myself",
+      "time": 1666508164,
+      "translated": false
+    },
+    {
+      "author_name": "ian tyner",
+      "author_url": "https://www.google.com/maps/contrib/113194366756628607108/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDciyWigQUu-DIde-Pqbx8HAT1Jh3cnOZtaoI2GBDsmLZcsRDN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Bravo!",
+      "time": 1643444054,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2967245926133747891",
+  "user_ratings_total": 2,
+  "vicinity": "22 Sin Ming Lane, #06-87 Midview City"
+}

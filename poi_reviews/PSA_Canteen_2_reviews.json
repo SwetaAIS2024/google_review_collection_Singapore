@@ -1,0 +1,81 @@
+{
+  "formatted_address": "Pasir Panjang Terminal Ave 3, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2779683,
+      "lng": 103.7629154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279275630291502,
+        "lng": 103.7642397302915
+      },
+      "southwest": {
+        "lat": 1.276577669708498,
+        "lng": 103.7615417697085
+      }
+    }
+  },
+  "name": "PSA Canteen 2",
+  "place_id": "ChIJq4S6qCAb2jERQ9xFV3-0zqg",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Mathavan Rajendran",
+      "author_url": "https://www.google.com/maps/contrib/117420344054885247532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9HliECOsTr57PbMFomEAGHLSV1vn859nxavtO62P6-n9dxWkq=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Indian food not available all time.\nAlso bad in some available time.",
+      "time": 1599301334,
+      "translated": false
+    },
+    {
+      "author_name": "Maxys Turk",
+      "author_url": "https://www.google.com/maps/contrib/114498288078946960784/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK63fItiURIYe3gHWfmmIEaddPNZUToMivtUoRYD8iqTsyAnks=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Shrimp gave me gas, felt nice though",
+      "time": 1600433277,
+      "translated": false
+    },
+    {
+      "author_name": "Azrudy K",
+      "author_url": "https://www.google.com/maps/contrib/104887622957934118482/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISg-f6LyOWy6QaAqZ-qJsgdazsuzrQMwU8N-eu23T5nL5LIA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "Dirty toilet",
+      "time": 1737367063,
+      "translated": false
+    },
+    {
+      "author_name": "Izzat Elias",
+      "author_url": "https://www.google.com/maps/contrib/101908979179151483421/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-JUGWWjl5SfGpjA7iFo3DCgOtWTYLFoo4G7eFYe_sW437ljtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very good",
+      "time": 1630989807,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12163858102592330819",
+  "user_ratings_total": 4,
+  "vicinity": "Pasir Panjang Terminal Avenue 3"
+}

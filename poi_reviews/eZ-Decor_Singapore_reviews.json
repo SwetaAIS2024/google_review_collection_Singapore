@@ -1,0 +1,29 @@
+{
+  "formatted_address": "100 Eunos Ave 7, #04-10, Singapore 409572",
+  "geometry": {
+    "location": {
+      "lat": 1.3232059,
+      "lng": 103.8976634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324406030291502,
+        "lng": 103.8990425302915
+      },
+      "southwest": {
+        "lat": 1.321708069708498,
+        "lng": 103.8963445697085
+      }
+    }
+  },
+  "name": "eZ-Decor Singapore",
+  "place_id": "ChIJdUi9XecZ2jERh4TWQ4HghpY",
+  "types": [
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10846603598361953415",
+  "vicinity": "100 Eunos Avenue 7, #04-10"
+}

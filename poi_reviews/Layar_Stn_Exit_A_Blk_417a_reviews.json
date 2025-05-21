@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.391982,
+      "lng": 103.880196
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393364980291502,
+        "lng": 103.8815666802915
+      },
+      "southwest": {
+        "lat": 1.390667019708498,
+        "lng": 103.8788687197085
+      }
+    }
+  },
+  "name": "Layar Stn Exit A/Blk 417a",
+  "place_id": "ChIJi0x6AnAW2jERD7_O9zPaYsQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Tim Sim",
+      "author_url": "https://www.google.com/maps/contrib/102356453590675557944/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRqQUiejtEpWtwSQVLTOZQS8yMrB7hmjad9DAIXID_gNiNaTMj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547019168,
+      "translated": false
+    },
+    {
+      "author_name": "Sbz",
+      "author_url": "https://www.google.com/maps/contrib/107040409333326472973/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaLijdEFW4wrA9lbfw0X9-kIV4ii0htmo-w5ZG6w4TzpZCH4lz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1493173109,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14151112895887228687",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,63 @@
+{
+  "formatted_address": "203 Henderson Rd, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.28147,
+      "lng": 103.821202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282859430291502,
+        "lng": 103.8225047302915
+      },
+      "southwest": {
+        "lat": 1.280161469708498,
+        "lng": 103.8198067697085
+      }
+    }
+  },
+  "name": "The Harvest Force",
+  "place_id": "ChIJFRMz2tcb2jERNNcbNtM5pww",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pris希乐 Phang",
+      "author_url": "https://www.google.com/maps/contrib/100400117740832303551/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSIQGCM-phBG-GMPVuRRKvRZeuqkuaYHbcy64Kj2Yx5tZ7qDht=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685511196,
+      "translated": false
+    },
+    {
+      "author_name": "qiuleong",
+      "author_url": "https://www.google.com/maps/contrib/109708816456591589161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0KdqCRW40adP25iTCnL9RKVnxA97iqNI9M1DjGXieQawPbyrF0A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636428894,
+      "translated": false
+    },
+    {
+      "author_name": "Elisa Blessing",
+      "author_url": "https://www.google.com/maps/contrib/103826675080090933686/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_ofmYhdoAG4Q8ki5ae69ICFd9idyCHUWsN-9NYT3VANTGfrFO=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565507720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=911761028874491700",
+  "user_ratings_total": 3,
+  "vicinity": "203 Henderson Road, Singapore"
+}

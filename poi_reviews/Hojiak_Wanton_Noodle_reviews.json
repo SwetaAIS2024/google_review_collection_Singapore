@@ -1,0 +1,43 @@
+{
+  "formatted_address": "69 Bedok South Ave 3, Singapore 460069",
+  "geometry": {
+    "location": {
+      "lat": 1.3194186,
+      "lng": 103.9434833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320822180291502,
+        "lng": 103.9447622802915
+      },
+      "southwest": {
+        "lat": 1.318124219708498,
+        "lng": 103.9420643197085
+      }
+    }
+  },
+  "name": "Hojiak Wanton Noodle",
+  "place_id": "ChIJtTC7FgAj2jERYfXdfjbir5w",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sean Goh",
+      "author_url": "https://www.google.com/maps/contrib/113608706305591448585/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEaTeEStI-pfTIXqsvSF6l02FivQ-XBDO9hy5SPhzxdS9tTA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724038138,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11290491514525709665",
+  "user_ratings_total": 1,
+  "vicinity": "69 Bedok South Avenue 3"
+}

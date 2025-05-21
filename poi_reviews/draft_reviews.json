@@ -1,0 +1,28 @@
+{
+  "formatted_address": "52 Foch Rd, Singapore 209274",
+  "geometry": {
+    "location": {
+      "lat": 1.3128479,
+      "lng": 103.8605606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314223030291502,
+        "lng": 103.8618843302915
+      },
+      "southwest": {
+        "lat": 1.311525069708498,
+        "lng": 103.8591863697085
+      }
+    }
+  },
+  "name": "draft",
+  "place_id": "ChIJyy_wyM4Z2jEREr11oQCVENo",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15713222929837047058",
+  "vicinity": "52 Foch Road"
+}

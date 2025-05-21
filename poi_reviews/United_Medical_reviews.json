@@ -1,0 +1,30 @@
+{
+  "formatted_address": "10 Sinaran Dr, Singapore 307506",
+  "geometry": {
+    "location": {
+      "lat": 1.3207595,
+      "lng": 103.8443605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322393080291502,
+        "lng": 103.8455953802915
+      },
+      "southwest": {
+        "lat": 1.319695119708498,
+        "lng": 103.8428974197085
+      }
+    }
+  },
+  "name": "United Medical",
+  "place_id": "ChIJq6rqXecZ2jERkL7xeNffTM8",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14937560180621164176",
+  "vicinity": "10 Sinaran Drive"
+}

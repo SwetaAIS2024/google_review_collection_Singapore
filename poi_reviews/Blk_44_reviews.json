@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3221883,
+      "lng": 103.8663736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323532930291502,
+        "lng": 103.8676758302915
+      },
+      "southwest": {
+        "lat": 1.320834969708498,
+        "lng": 103.8649778697085
+      }
+    }
+  },
+  "name": "Blk 44",
+  "place_id": "ChIJB0E2mdQZ2jERLRKP_uhheHU",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Jr Wong",
+      "author_url": "https://www.google.com/maps/contrib/107618441268469521006/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqhJT2UYMDOXOJrT6qZ2ck1IqOlijsMtA3s7y8E1l3f9RABBOd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Many bus reach to city",
+      "time": 1646981566,
+      "translated": false
+    },
+    {
+      "author_name": "Aug Yx",
+      "author_url": "https://www.google.com/maps/contrib/110399463193902346018/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIPmg5pDd9F3oNrZGY7EUuh3a_nY5RNn-g9uBIfJ_QRCGkkIqj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Bus Stop 60139",
+      "time": 1524457112,
+      "translated": false
+    },
+    {
+      "author_name": "Chian Foong Tien",
+      "author_url": "https://www.google.com/maps/contrib/112859325557753809694/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6VNVcDTuidSORMltz6nWbi9P87OzSOlZuuBpN291cUpZqXKk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744159610,
+      "translated": false
+    },
+    {
+      "author_name": "Bee Chin Sim",
+      "author_url": "https://www.google.com/maps/contrib/108561974828335897685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKex0aChjcR2i1vd-GltNfkZRFgAUIkL9qGs13CHH5A27BxUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642690627,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamed Sarjoon",
+      "author_url": "https://www.google.com/maps/contrib/112604858370796357268/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRPXgKvqkCMCYJzkfD8u-aUDdkB4HvAOxMxtfU4IVi1ocna6YpgQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1612832052,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8464623152973943341",
+  "user_ratings_total": 8,
+  "vicinity": "Singapore"
+}

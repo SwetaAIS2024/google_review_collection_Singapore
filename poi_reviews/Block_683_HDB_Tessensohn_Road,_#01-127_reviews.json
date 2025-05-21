@@ -1,0 +1,41 @@
+{
+  "formatted_address": "683 Tessensohn Rd, #01-127, Singapore 210683",
+  "geometry": {
+    "location": {
+      "lat": 1.31453,
+      "lng": 103.8558755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315774080291502,
+        "lng": 103.8572755302915
+      },
+      "southwest": {
+        "lat": 1.313076119708498,
+        "lng": 103.8545775697085
+      }
+    }
+  },
+  "name": "Block 683 HDB Tessensohn Road, #01-127",
+  "place_id": "ChIJnyp2g8UZ2jERIZyoOhzeItc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Emily Eng",
+      "author_url": "https://www.google.com/maps/contrib/100672082815620018672/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfy0uRZbPK-Qvwc5qPPf6nrIVuO1JocLRrr72sbbM15ZheUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1451321434,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15502197080187247649",
+  "user_ratings_total": 1,
+  "vicinity": "683 Tessensohn Road, #01-127, Singapore"
+}

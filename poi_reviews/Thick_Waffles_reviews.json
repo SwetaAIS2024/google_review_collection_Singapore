@@ -1,0 +1,46 @@
+{
+  "formatted_address": "378 Clementi Ave 5, Singapore 120378",
+  "geometry": {
+    "location": {
+      "lat": 1.3175134,
+      "lng": 103.7673547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318962530291502,
+        "lng": 103.7688216802915
+      },
+      "southwest": {
+        "lat": 1.316264569708498,
+        "lng": 103.7661237197085
+      }
+    }
+  },
+  "name": "Thick Waffles",
+  "place_id": "ChIJcQeTQwAb2jER67-idB0V7FY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jane Ang",
+      "author_url": "https://www.google.com/maps/contrib/112683847768823722994/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpqRiWb9fAPziw1uOetMDE_XFSg191PaD-gm3wVNlYvw1BYRQR=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Waffle was slightly charred on the inside and tasted a little salty. Price is good 👍🏼",
+      "time": 1742599966,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6263404398020575211",
+  "user_ratings_total": 1,
+  "vicinity": "378 Clementi Avenue 5"
+}

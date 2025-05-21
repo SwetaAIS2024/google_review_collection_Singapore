@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Teban Gardens Rd, Block 37, Singapore 600037",
+  "geometry": {
+    "location": {
+      "lat": 1.3204462,
+      "lng": 103.742946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321785430291502,
+        "lng": 103.7441747802915
+      },
+      "southwest": {
+        "lat": 1.319087469708498,
+        "lng": 103.7414768197085
+      }
+    }
+  },
+  "name": "Geylang Laksa Prawn Noodles",
+  "place_id": "ChIJAcU0EQAb2jER2qjW08PF_oA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9295084125802637530",
+  "vicinity": "Teban Gardens Road, Block 37"
+}

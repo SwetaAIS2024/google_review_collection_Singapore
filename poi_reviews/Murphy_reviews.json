@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Marine Parade Central, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3020281,
+      "lng": 103.9065371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303359330291502,
+        "lng": 103.9078928302915
+      },
+      "southwest": {
+        "lat": 1.300661369708498,
+        "lng": 103.9051948697085
+      }
+    }
+  },
+  "name": "Murphy",
+  "place_id": "ChIJCRV-v2kZ2jERl-8fn_yd1NM",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15263998745392443287",
+  "vicinity": "Marine Parade Central"
+}

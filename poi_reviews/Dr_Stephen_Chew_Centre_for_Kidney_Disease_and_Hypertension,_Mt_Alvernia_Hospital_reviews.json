@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3418213,
+      "lng": 103.8386596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343146480291502,
+        "lng": 103.8399596802915
+      },
+      "southwest": {
+        "lat": 1.340448519708498,
+        "lng": 103.8372617197085
+      }
+    }
+  },
+  "name": "Dr Stephen Chew Centre for Kidney Disease & Hypertension, Mt Alvernia Hospital",
+  "place_id": "ChIJ_76JyUYX2jERaHtGafBzN8A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yi Liang Lee",
+      "author_url": "https://www.google.com/maps/contrib/114807006584886432850/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVWk7xucDwNSajBgxwdTGq7qt5N3AdOiYemoSG3r8VTbmmIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Very good",
+      "time": 1562152982,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13850666655396821864",
+  "user_ratings_total": 1,
+  "vicinity": "Toa Payoh"
+}

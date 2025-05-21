@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2782072,
+      "lng": 103.8018227
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279541080291502,
+        "lng": 103.8032123302915
+      },
+      "southwest": {
+        "lat": 1.276843119708498,
+        "lng": 103.8005143697085
+      }
+    }
+  },
+  "name": "Car Park Garden",
+  "place_id": "ChIJ42EnTsYb2jER3ckSQ_XugK8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ansur Momin",
+      "author_url": "https://www.google.com/maps/contrib/105728325460821477698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv-BoVXt0X1eV9w83uZ0syhvzhj7UTM4dswQyoPjjfHfT1vNc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571572906,
+      "translated": false
+    },
+    {
+      "author_name": "Wilfred Tan",
+      "author_url": "https://www.google.com/maps/contrib/105511454419718089513/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw9YWYsrXqUoy_x-zX_equM5nP0SziHhl4QFeFbEtdafiZgiU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562921936,
+      "translated": false
+    },
+    {
+      "author_name": "rismanda rich",
+      "author_url": "https://www.google.com/maps/contrib/114549469379712227580/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTgUOjVlN_L0rf3U8TGJb381l6YjIuHG6kKV7pwsIiKfkQpReC=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1455202961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12646370490816055773",
+  "user_ratings_total": 3,
+  "vicinity": ""
+}

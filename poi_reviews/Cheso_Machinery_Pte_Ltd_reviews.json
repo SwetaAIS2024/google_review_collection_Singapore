@@ -1,0 +1,41 @@
+{
+  "formatted_address": "47 Tuas View Cl, Singapore 637475",
+  "geometry": {
+    "location": {
+      "lat": 1.3001711,
+      "lng": 103.6252627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301516030291502,
+        "lng": 103.6266226302915
+      },
+      "southwest": {
+        "lat": 1.298818069708498,
+        "lng": 103.6239246697085
+      }
+    }
+  },
+  "name": "Cheso Machinery Pte Ltd",
+  "place_id": "ChIJiXBwHFA82jERqFKxHXvSbDU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Roushan Kumar",
+      "author_url": "https://www.google.com/maps/contrib/110038246934844471588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpP5FcWCNYRu9_blgRkdWlp6vWQl6KuSQsANaGtHVA89p90Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613405181,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3849683207715902120",
+  "user_ratings_total": 1,
+  "vicinity": "47 Tuas View Close"
+}

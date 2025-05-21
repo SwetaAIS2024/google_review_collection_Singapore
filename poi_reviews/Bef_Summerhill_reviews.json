@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.358391,
+      "lng": 103.7649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359711530291502,
+        "lng": 103.7662394302915
+      },
+      "southwest": {
+        "lat": 1.357013569708498,
+        "lng": 103.7635414697085
+      }
+    }
+  },
+  "name": "Bef Summerhill",
+  "place_id": "ChIJ48QmwVEQ2jER_Jib1zccI7A",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Kenneth Teo",
+      "author_url": "https://www.google.com/maps/contrib/101187016215430215168/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGS5Oc8uuKqdLgmIMK5VSNXkEoHkNpp1edmXzhgQ6iYFH72BPRYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Peaceful place",
+      "time": 1523501524,
+      "translated": false
+    },
+    {
+      "author_name": "Javen Tan",
+      "author_url": "https://www.google.com/maps/contrib/109049912517219471486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQFMddRFz4OvAqjafPY6kUrGXzTy5JrKWyk-V0eW3quPp00aldzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569403102,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12692019201026267388",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

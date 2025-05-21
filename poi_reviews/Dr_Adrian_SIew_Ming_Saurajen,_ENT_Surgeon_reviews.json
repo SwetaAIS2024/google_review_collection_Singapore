@@ -1,0 +1,45 @@
+{
+  "formatted_address": "820 Thomson Road Suite 05-02, A Mount Alvernia Medical Centre, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3418981,
+      "lng": 103.8378678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343240530291502,
+        "lng": 103.8391870802915
+      },
+      "southwest": {
+        "lat": 1.340542569708498,
+        "lng": 103.8364891197085
+      }
+    }
+  },
+  "name": "Dr Adrian SIew Ming Saurajen, ENT Surgeon",
+  "place_id": "ChIJDwHeAbMX2jERXJQunBilRD8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Emma Xiang",
+      "author_url": "https://www.google.com/maps/contrib/116132366789648016572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-XjSRdIC9b_t7LxfL5kUV74QT-INfyfHm1_xi03O5YDT4fHM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Dr Adrian and his team has been nothing but helpful and reassuring throughout consultation, operation and post op. I have never felt so safe in someone’s hand and my recovery from post op has been ever so smooth. I cannot express my gratitude towards Dr Adrian and his team (Jessica, Jasmine, Jerlin, Daphne) enough.",
+      "time": 1685806308,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4558950247923881052",
+  "user_ratings_total": 1,
+  "vicinity": "820 Thomson Road Suite 05-02, A Mount Alvernia Medical Centre"
+}

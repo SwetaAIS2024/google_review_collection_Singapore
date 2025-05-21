@@ -1,0 +1,45 @@
+{
+  "formatted_address": "253 Choa Chu Kang Ave 1, Singapore 680253",
+  "geometry": {
+    "location": {
+      "lat": 1.3774405,
+      "lng": 103.744394
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378821030291502,
+        "lng": 103.7458572302915
+      },
+      "southwest": {
+        "lat": 1.376123069708498,
+        "lng": 103.7431592697085
+      }
+    }
+  },
+  "name": "Chui Peng Leong",
+  "place_id": "ChIJAQAAQNsR2jERdrV75GBVJ9M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dharmesh Mehta",
+      "author_url": "https://www.google.com/maps/contrib/115045364369927096755/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYA_KtkgfZ-vCE1LE7t4Pw_9CtHlxA9dJ3GxrYRJwd2ZYKyIBm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "One of the best Doctor in the Town. I am using his service for my family for last 5-6 years. Doctor is very knowledgeable, provide sufficient time and advise and his diagnosis and medicine always work. Charges are very reasonable too. He is doing real service to the society.",
+      "time": 1540888287,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15215223740733044086",
+  "user_ratings_total": 1,
+  "vicinity": "253 Choa Chu Kang Avenue 1"
+}

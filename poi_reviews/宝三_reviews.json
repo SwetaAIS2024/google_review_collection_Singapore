@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Chai Chee Ave, #34, blk 461034",
+  "geometry": {
+    "location": {
+      "lat": 1.3240314,
+      "lng": 103.9262016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325394730291502,
+        "lng": 103.9273445302915
+      },
+      "southwest": {
+        "lat": 1.322696769708498,
+        "lng": 103.9246465697085
+      }
+    }
+  },
+  "name": "宝三",
+  "place_id": "ChIJAQCQhLIi2jEROkCRyOKOF1s",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6563872086594502714",
+  "vicinity": "Chai Chee Avenue, #34, blk"
+}

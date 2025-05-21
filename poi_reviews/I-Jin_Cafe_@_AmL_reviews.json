@@ -1,0 +1,29 @@
+{
+  "formatted_address": "61 Ubi Ave 2, Singapore 408898",
+  "geometry": {
+    "location": {
+      "lat": 1.3321204,
+      "lng": 103.9010183
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333479380291502,
+        "lng": 103.9025701802915
+      },
+      "southwest": {
+        "lat": 1.330781419708498,
+        "lng": 103.8998722197085
+      }
+    }
+  },
+  "name": "I-Jin Cafe @ AmL",
+  "place_id": "ChIJ3ePcZGQX2jER2TOpZLmOPEQ",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4916961820090643417",
+  "vicinity": "61 Ubi Avenue 2, Singapore"
+}

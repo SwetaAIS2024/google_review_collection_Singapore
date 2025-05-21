@@ -1,0 +1,29 @@
+{
+  "formatted_address": "261 Waterloo St, Singapore 180261",
+  "geometry": {
+    "location": {
+      "lat": 1.2984503,
+      "lng": 103.8516324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299872030291502,
+        "lng": 103.8533551802915
+      },
+      "southwest": {
+        "lat": 1.297174069708498,
+        "lng": 103.8506572197085
+      }
+    }
+  },
+  "name": "Xun Jiao Enrichment Centre",
+  "place_id": "ChIJSy66TLsZ2jERZoRK7QPKH1I",
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5917670553602917478",
+  "vicinity": "261 Waterloo Street, Singapore"
+}

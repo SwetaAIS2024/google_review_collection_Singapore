@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Commonwealth Ln, #02-03 One Commonwealth, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044545,
+      "lng": 103.7968083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305878780291502,
+        "lng": 103.7982167302915
+      },
+      "southwest": {
+        "lat": 1.303180819708498,
+        "lng": 103.7955187697085
+      }
+    }
+  },
+  "name": "Glymaxx",
+  "place_id": "ChIJB5l-YUAa2jERqcD9m8guH0U",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4980751152040493225",
+  "vicinity": "1 Commonwealth Lane, #02-03 One Commonwealth"
+}

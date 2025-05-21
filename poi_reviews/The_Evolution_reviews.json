@@ -1,0 +1,29 @@
+{
+  "formatted_address": "114 Lavender St., #13-70, Singapore 338729",
+  "geometry": {
+    "location": {
+      "lat": 1.3117411,
+      "lng": 103.8629343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313048030291502,
+        "lng": 103.8643099802915
+      },
+      "southwest": {
+        "lat": 1.310350069708498,
+        "lng": 103.8616120197085
+      }
+    }
+  },
+  "name": "The Evolution",
+  "place_id": "ChIJeaYdYfYZ2jERXmMB5d0FciY",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2770283171374261086",
+  "vicinity": "114 Lavender Street, #13-70"
+}

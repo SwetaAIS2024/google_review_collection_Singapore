@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Bishan Rd, Singapore 579778",
+  "geometry": {
+    "location": {
+      "lat": 1.3449707,
+      "lng": 103.8473498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346395368321301,
+        "lng": 103.8490327748674
+      },
+      "southwest": {
+        "lat": 1.343697407738297,
+        "lng": 103.8463348142843
+      }
+    }
+  },
+  "name": "Bishan Harmony Park",
+  "place_id": "ChIJdc4f1GoX2jERk6J_0UyUI_Y",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Bishan+Rd,+Singapore+579778&ftid=0x31da176ad41fce75:0xf623944cd17fa293",
+  "vicinity": "Singapore"
+}

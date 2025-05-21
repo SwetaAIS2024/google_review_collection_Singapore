@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3412345,
+      "lng": 103.9819888
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342578930291502,
+        "lng": 103.9833353802915
+      },
+      "southwest": {
+        "lat": 1.339880969708498,
+        "lng": 103.9806374197085
+      }
+    }
+  },
+  "name": "Near SATS Flight Kitchen",
+  "place_id": "ChIJx9QJ9cA82jERoAD0FuSTClM",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Evans Woo",
+      "author_url": "https://www.google.com/maps/contrib/102117292621303145711/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUSACSR_mlweFkeeTwMYSd8OJSKoyMAHxLCD70LbXb_tp8Gs4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Good connectivity, overhead bridge connects to Airport Police Stn bus stop",
+      "time": 1729485796,
+      "translated": false
+    },
+    {
+      "author_name": "Trung Quang",
+      "author_url": "https://www.google.com/maps/contrib/104642657844637695164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRnoqiJHcLje0euc_GzsZQ8fHGNCAwEwq-AxvAXmbrW5GNx4nR=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Very good",
+      "time": 1596347908,
+      "translated": false
+    },
+    {
+      "author_name": "KEYAN",
+      "author_url": "https://www.google.com/maps/contrib/109669768385698309665/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx_D9wTvYXlBs6vKns0yMsn9oRdEiCO4DOwU1w17lsRmLpOIKt8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "versatile bus stop 🤯🤯🤯",
+      "time": 1697367605,
+      "translated": false
+    },
+    {
+      "author_name": "Johnnybk Ng",
+      "author_url": "https://www.google.com/maps/contrib/118205980151945820008/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnOrgVpaR8BEtaOrby85PuyBtu2C1ASprTBxHOxVwfTiLw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642304628,
+      "translated": false
+    },
+    {
+      "author_name": "Raja Thulasi",
+      "author_url": "https://www.google.com/maps/contrib/116353262781479478739/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXJvGtF4JmkZH7yWgU58a_sA9vCexMgXen-B51i81CWXAK_842=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489287305,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5983757662762041504",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

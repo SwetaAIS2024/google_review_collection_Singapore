@@ -1,0 +1,43 @@
+{
+  "formatted_address": "135 Joo Seng Rd, #03-04, Singapore 368363",
+  "geometry": {
+    "location": {
+      "lat": 1.3379583,
+      "lng": 103.8827708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339215730291502,
+        "lng": 103.8841247302915
+      },
+      "southwest": {
+        "lat": 1.336517769708498,
+        "lng": 103.8814267697085
+      }
+    }
+  },
+  "name": "Foster Electric",
+  "place_id": "ChIJHZGqN44X2jERLWqefNWeipA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yirou T",
+      "author_url": "https://www.google.com/maps/contrib/106113076197958415889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLjqDFchHXSte9DAIfiiyhAWxCVr1u-46XfmnS8knR4pvxBE0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478649619,
+      "translated": false
+    }
+  ],
+  "types": [
+    "electronics_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10415311728003672621",
+  "user_ratings_total": 1,
+  "vicinity": "135 Joo Seng Road, #03-04, Singapore"
+}

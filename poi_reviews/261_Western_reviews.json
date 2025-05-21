@@ -1,0 +1,45 @@
+{
+  "formatted_address": "261 Punggol Wy, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4054152,
+      "lng": 103.8969093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406819880291502,
+        "lng": 103.8983153302915
+      },
+      "southwest": {
+        "lat": 1.404121919708498,
+        "lng": 103.8956173697085
+      }
+    }
+  },
+  "name": "261 Western",
+  "place_id": "ChIJRXGKPwAV2jERb-uVOQzjiCQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "I ordered a Chicken Chop from this no name Western stall in the coffeeshop. The taste was slightly below average.",
+      "time": 1744243708,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2632603623843294063",
+  "user_ratings_total": 1,
+  "vicinity": "261 Punggol Way"
+}

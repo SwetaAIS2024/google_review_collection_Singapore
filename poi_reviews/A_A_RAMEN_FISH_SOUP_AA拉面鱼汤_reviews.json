@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Singapore 120710",
+  "geometry": {
+    "location": {
+      "lat": 1.3066402,
+      "lng": 103.7617473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307869130291502,
+        "lng": 103.7629666802915
+      },
+      "southwest": {
+        "lat": 1.305171169708498,
+        "lng": 103.7602687197085
+      }
+    }
+  },
+  "name": "A A RAMEN FISH SOUP (AA拉面鱼汤)",
+  "place_id": "ChIJKcSpIQAb2jER4mARMV69MVY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Marthin Singapore",
+      "author_url": "https://www.google.com/maps/contrib/115721967156839998697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQbNp8S6aKjr57kMpEyc9MdH6nAd0K1_ELm5n-hu-FKnlAFA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very cheap but tasty.\nUmami soup and bouncy noodle.",
+      "time": 1744796710,
+      "translated": false
+    },
+    {
+      "author_name": "Akiuk Akiuk",
+      "author_url": "https://www.google.com/maps/contrib/104404450780234112649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJ0HteZDDjs4cxMOA09Y_tXZmr_5nh8YQ-lrVqziWM13uErQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Very fragrant fish soup with chewy fresh noodle.\nVery cheap pricing also.",
+      "time": 1742299331,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6210953573368422626",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

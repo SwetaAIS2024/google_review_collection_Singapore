@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2966295,
+      "lng": 103.8155256
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298028780291502,
+        "lng": 103.8168782302915
+      },
+      "southwest": {
+        "lat": 1.295330819708498,
+        "lng": 103.8141802697085
+      }
+    }
+  },
+  "name": "Aft Tanglin Rd",
+  "place_id": "ChIJj7cpLC8a2jERaZFdzkrPmbo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Edmund Daniel Devadason",
+      "author_url": "https://www.google.com/maps/contrib/110936427744566623391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEoN-v0ykdsH4_oq-SOqxh2zwhrLQsHsy7YqRMOu8-ZANbIhHc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479899828,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13446006082688094569",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

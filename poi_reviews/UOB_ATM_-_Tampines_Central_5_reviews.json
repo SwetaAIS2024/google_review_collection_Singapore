@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Century Square, Singapore 529509",
+  "geometry": {
+    "location": {
+      "lat": 1.3523888,
+      "lng": 103.9438567
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353869480291502,
+        "lng": 103.9453299302915
+      },
+      "southwest": {
+        "lat": 1.351171519708498,
+        "lng": 103.9426319697085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines Central 5",
+  "place_id": "ChIJu_BjjBE92jER4UdbvQt7IFE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Loonfai “Kelvin” Ho",
+      "author_url": "https://www.google.com/maps/contrib/113731837743666883232/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwoZNDWHdAveVjL7mMZtZyXVIosdPr18eiaBaLxghVwLgmv0L-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Only with atm not a branch",
+      "time": 1727757310,
+      "translated": false
+    },
+    {
+      "author_name": "victor chong",
+      "author_url": "https://www.google.com/maps/contrib/105101356365728465894/reviews",
+      "language": "en-US",
+      "original_language": "su",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2i6ZiZP3oDculbxNDlzKgWceBaWLqMOIUN3gg73u2X0YKug=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "10 years ago",
+      "text": ". Wow",
+      "time": 1409916737,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5845807606678636513",
+  "user_ratings_total": 2,
+  "vicinity": "Century Square, Singapore"
+}

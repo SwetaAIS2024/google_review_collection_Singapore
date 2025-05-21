@@ -1,0 +1,29 @@
+{
+  "formatted_address": "115A Alkaff Cres, Singapore 341115",
+  "geometry": {
+    "location": {
+      "lat": 1.3363147,
+      "lng": 103.8730392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337608030291502,
+        "lng": 103.8743819302915
+      },
+      "southwest": {
+        "lat": 1.334910069708498,
+        "lng": 103.8716839697085
+      }
+    }
+  },
+  "name": "Your Daily Cuppa",
+  "place_id": "ChIJBRhbdE0X2jER4Jix9DHUvg4",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1062519873129781472",
+  "vicinity": "115A Alkaff Crescent"
+}

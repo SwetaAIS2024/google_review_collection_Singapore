@@ -1,0 +1,46 @@
+{
+  "formatted_address": "378 Clementi Ave 5, Singapore 120378",
+  "geometry": {
+    "location": {
+      "lat": 1.3176474,
+      "lng": 103.7674392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319039380291502,
+        "lng": 103.7688933302915
+      },
+      "southwest": {
+        "lat": 1.316341419708498,
+        "lng": 103.7661953697085
+      }
+    }
+  },
+  "name": "家旺",
+  "place_id": "ChIJ4y5QhF0b2jERTR4qcKI2V8U",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Steven steven",
+      "author_url": "https://www.google.com/maps/contrib/115892426594702607124/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhOvx-xaNo0ziJk-1x8AOC7M5zI1bzwZB1MK7g4dtx4QjOrA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "This Economical Rice has lots of variety for selection from meat, fish & vegetable. Price wise 2 veg + 1 meat around $3.7. Owners were friendly....highly recommend the Sweet & Sour Pork & Fish, Black Pepper Fry Fish, Pork Rib King....etc.",
+      "time": 1676089730,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14219894419740040781",
+  "user_ratings_total": 1,
+  "vicinity": "378 Clementi Avenue 5, Singapore"
+}

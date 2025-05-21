@@ -1,0 +1,55 @@
+{
+  "formatted_address": "5 Stadium Walk, B1-12 Leisure Park Kallang, Singapore 397693",
+  "geometry": {
+    "location": {
+      "lat": 1.3021918,
+      "lng": 103.876502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303398430291502,
+        "lng": 103.8779187802915
+      },
+      "southwest": {
+        "lat": 1.300700469708498,
+        "lng": 103.8752208197085
+      }
+    }
+  },
+  "name": "Hockhua Tonic",
+  "place_id": "ChIJgQUi_k4Y2jERvtisHtvTK1E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "C.C Quah",
+      "author_url": "https://www.google.com/maps/contrib/116254700547999874013/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS__F_bS2OskoSu1ldK4zlzZBumlrapfRsXkoU5LjioEqe20HopA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Friendly staff! Knows wat to recommend. 👍",
+      "time": 1678609678,
+      "translated": false
+    },
+    {
+      "author_name": "Allen Li",
+      "author_url": "https://www.google.com/maps/contrib/105726751372578840059/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCY37BYTz7AQB4ohOxsoO2NC-tpsdmDvd_rk4xq0pW_iyBVHe2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560567186,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5849001479136663742",
+  "user_ratings_total": 2,
+  "vicinity": "5 Stadium Walk, B1-12 Leisure Park Kallang, Singapore"
+}

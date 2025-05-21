@@ -1,0 +1,44 @@
+{
+  "formatted_address": "22 Sin Ming Ln, #06-76 Midview City, Singapore 573969",
+  "geometry": {
+    "location": {
+      "lat": 1.358606,
+      "lng": 103.833566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359747580291502,
+        "lng": 103.8346829802915
+      },
+      "southwest": {
+        "lat": 1.357049619708498,
+        "lng": 103.8319850197085
+      }
+    }
+  },
+  "name": "Kaffeign",
+  "place_id": "ChIJ2fn5TusX2jERoT342SrKTjY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hilmi Salim",
+      "author_url": "https://www.google.com/maps/contrib/103352191098055247435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVioiLVj8FyIMnnxZq3BMbwgA92M1AJPBIkA6ns1DGOJacPU1MRg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731071538,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3913287411625901473",
+  "user_ratings_total": 1,
+  "vicinity": "22 Sin Ming Lane, #06-76 Midview City, Singapore"
+}

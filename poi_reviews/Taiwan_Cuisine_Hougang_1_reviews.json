@@ -1,0 +1,55 @@
+{
+  "formatted_address": "5 Hougang Street 91, Singapore 538692",
+  "geometry": {
+    "location": {
+      "lat": 1.375898,
+      "lng": 103.8793913
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377127380291502,
+        "lng": 103.8806689302915
+      },
+      "southwest": {
+        "lat": 1.374429419708498,
+        "lng": 103.8779709697085
+      }
+    }
+  },
+  "name": "Taiwan Cuisine Hougang 1",
+  "place_id": "ChIJUd8pAm8X2jER8q1eAcg0BWs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Yi Lin Tan",
+      "author_url": "https://www.google.com/maps/contrib/100331498837182200793/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDV5_RgRvahDIE5NFQdEJBRidIjDK506lXmMibDjCHhp9wFQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "Jun'24 - it is located inside Kopitiam. Tried the noodle, taste goood. Especially with the fried egg.",
+      "time": 1718914479,
+      "translated": false
+    },
+    {
+      "author_name": "Bryan",
+      "author_url": "https://www.google.com/maps/contrib/114706263778188373093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzt6rU_i45DH6mbUu_vlBUEigXC1wCpERNKHMK4bpSbLbBF8s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698311088,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7711627970562928114",
+  "user_ratings_total": 2,
+  "vicinity": "5 Hougang Street 91, Singapore"
+}

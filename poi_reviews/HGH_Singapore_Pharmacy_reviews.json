@@ -1,0 +1,46 @@
+{
+  "formatted_address": "101 Thomson Rd, HGH Singapore Pharmacy, Singapore 307591",
+  "geometry": {
+    "location": {
+      "lat": 1.317551,
+      "lng": 103.8430958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318897180291502,
+        "lng": 103.8447601302915
+      },
+      "southwest": {
+        "lat": 1.316199219708498,
+        "lng": 103.8420621697085
+      }
+    }
+  },
+  "name": "HGH Singapore Pharmacy",
+  "place_id": "ChIJz-ENcuwZ2jERAbOb91HrUGE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alex Paterson",
+      "author_url": "https://www.google.com/maps/contrib/109490583405839556106/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQKuG_L_9t0vbxIrsIH8OXSNtSm1kVwETklY15aGYFdgNDsaQh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Friendly Jan, good customer support.\nI recommend to other customers, thanks",
+      "time": 1723539540,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7012363357094916865",
+  "user_ratings_total": 1,
+  "vicinity": "101 Thomson Road, HGH Singapore Pharmacy"
+}

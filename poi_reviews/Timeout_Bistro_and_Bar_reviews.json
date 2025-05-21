@@ -1,0 +1,29 @@
+{
+  "formatted_address": "60 Springside Walk, Singapore 786020",
+  "geometry": {
+    "location": {
+      "lat": 1.4047655,
+      "lng": 103.8194607
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406153930291502,
+        "lng": 103.8207524802915
+      },
+      "southwest": {
+        "lat": 1.403455969708498,
+        "lng": 103.8180545197085
+      }
+    }
+  },
+  "name": "Timeout Bistro & Bar",
+  "place_id": "ChIJvSFZyu4T2jERD7y0LvDPzQA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=57931000708381711",
+  "vicinity": "60 Springside Walk"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "239 Bishan Street 22, Block 238, Singapore 570239",
+  "geometry": {
+    "location": {
+      "lat": 1.3597934,
+      "lng": 103.844658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361035080291502,
+        "lng": 103.8459171802915
+      },
+      "southwest": {
+        "lat": 1.358337119708498,
+        "lng": 103.8432192197085
+      }
+    }
+  },
+  "name": "Edu Plus Language Centre",
+  "place_id": "ChIJxQ1B-yEX2jERx4ZHfUVaSlk",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Carol C",
+      "author_url": "https://www.google.com/maps/contrib/102970905531078637455/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaSbNcBW3MLEzmIVtUdhskgZM12oYT3Cbg8xYCYJ2gPx_tSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "10 years ago",
+      "text": "zhou lao shi wo ai ni from claire chu yong yi",
+      "time": 1418812282,
+      "translated": true
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6434054272153257671",
+  "user_ratings_total": 1,
+  "vicinity": "239 Bishan Street 22, Block 238"
+}

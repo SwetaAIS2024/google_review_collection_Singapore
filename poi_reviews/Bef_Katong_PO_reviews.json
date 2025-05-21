@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3046177,
+      "lng": 103.8965207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305916730291502,
+        "lng": 103.8978369802915
+      },
+      "southwest": {
+        "lat": 1.303218769708498,
+        "lng": 103.8951390197085
+      }
+    }
+  },
+  "name": "Bef Katong PO",
+  "place_id": "ChIJLdjgjmsY2jERco0XiF6s4b0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Girlie Gorgonio",
+      "author_url": "https://www.google.com/maps/contrib/103013006379048537455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqv6fZH31s0GjV-VahQ20aN8t0Vg3gZ-UF4qAXs7ZLMTztpA8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648962375,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13682406664938425714",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

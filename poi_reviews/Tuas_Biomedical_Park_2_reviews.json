@@ -1,0 +1,63 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.283489,
+      "lng": 103.625771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284633080291502,
+        "lng": 103.6284833
+      },
+      "southwest": {
+        "lat": 1.281935119708498,
+        "lng": 103.6248669
+      }
+    }
+  },
+  "name": "Tuas Biomedical Park 2",
+  "place_id": "ChIJMaQfnIUG2jERNLGtOEWCzm4",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "Ian Mc",
+      "author_url": "https://www.google.com/maps/contrib/104262601865195289723/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUMd4Mb9q_lHcgeeZkdxuRPgwVwib19SBswv7WHSL7LZ78aQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Tuas is amazing miles of industrial",
+      "time": 1578006499,
+      "translated": false
+    },
+    {
+      "author_name": "花花春华",
+      "author_url": "https://www.google.com/maps/contrib/106939022232628917391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8gP0k9ysbrWg3vPNFW0XgafSTvPlethGwU7pV_mNxHz_kug=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498654135,
+      "translated": false
+    },
+    {
+      "author_name": "Junaied Uzzal",
+      "author_url": "https://www.google.com/maps/contrib/113273253135589818083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6TWAzfuGiSqKfSMRhCtASor5oVAsLjlh9mdDiDnvLhS_KyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1386677950,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7984462423189729588",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

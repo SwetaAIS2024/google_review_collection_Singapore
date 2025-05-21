@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3047903,
+      "lng": 103.8555445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306179280291502,
+        "lng": 103.8569384802915
+      },
+      "southwest": {
+        "lat": 1.303481319708498,
+        "lng": 103.8542405197085
+      }
+    }
+  },
+  "name": "Singapore Jalan Besar",
+  "place_id": "ChIJB8V6xbkZ2jERS6MfZUUA4XM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8349955482170925899",
+  "vicinity": "Singapore"
+}

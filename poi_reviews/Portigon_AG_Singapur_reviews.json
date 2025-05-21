@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Temasek Ave, Singapore 039190",
+  "geometry": {
+    "location": {
+      "lat": 1.2940289,
+      "lng": 103.8605801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295384780291502,
+        "lng": 103.8617907302915
+      },
+      "southwest": {
+        "lat": 1.292686819708498,
+        "lng": 103.8590927697085
+      }
+    }
+  },
+  "name": "Portigon AG Singapur",
+  "place_id": "ChIJhVKCDakZ2jERxWC-uL6TXT8",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4565968044576104645",
+  "vicinity": "2 Temasek Avenue"
+}

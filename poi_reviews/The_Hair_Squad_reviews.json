@@ -1,0 +1,29 @@
+{
+  "formatted_address": "681 Hougang Ave 8, Block 681, Singapore 530681",
+  "geometry": {
+    "location": {
+      "lat": 1.3729813,
+      "lng": 103.8855871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374329130291502,
+        "lng": 103.8868821802915
+      },
+      "southwest": {
+        "lat": 1.371631169708498,
+        "lng": 103.8841842197085
+      }
+    }
+  },
+  "name": "The Hair Squad",
+  "place_id": "ChIJIYoMtQMX2jERYhuzxuf8mV0",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6744699989365300066",
+  "vicinity": "681 Hougang Avenue 8, Block 681"
+}

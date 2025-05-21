@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Block 6 Hougang Ave 3, #01-72, Singapore 530006",
+  "geometry": {
+    "location": {
+      "lat": 1.3626991,
+      "lng": 103.8939989
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364339930291502,
+        "lng": 103.8954099302915
+      },
+      "southwest": {
+        "lat": 1.361641969708498,
+        "lng": 103.8927119697085
+      }
+    }
+  },
+  "name": "Ong & Lam Trading",
+  "place_id": "ChIJH7grmt8X2jERuU9LKjKc3iU",
+  "types": [
+    "store",
+    "liquor_store",
+    "convenience_store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2728790163504975801",
+  "vicinity": "Block 6 Hougang Avenue 3, #01-72"
+}

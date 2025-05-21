@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3367469,
+      "lng": 103.9580342
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338062780291502,
+        "lng": 103.9593524302915
+      },
+      "southwest": {
+        "lat": 1.335364819708498,
+        "lng": 103.9566544697085
+      }
+    }
+  },
+  "name": "Aft Upp Changi Rd",
+  "place_id": "ChIJ7VQusyc92jERKyj1BCbopgw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Elliot Munro",
+      "author_url": "https://www.google.com/maps/contrib/102541318227726465065/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3Ox_PWXuXpY7je8YgL3aI28JcLx8YUqFmq7HVHpSp3jQJlfDSbw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547626685,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=911671224578680875",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

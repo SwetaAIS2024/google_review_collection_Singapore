@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3068464,
+      "lng": 103.9157453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308227180291502,
+        "lng": 103.9170863302915
+      },
+      "southwest": {
+        "lat": 1.305529219708498,
+        "lng": 103.9143883697085
+      }
+    }
+  },
+  "name": "Marine Terr Stn Exit 1",
+  "place_id": "ChIJI-SY8p8i2jERuEcQMn0oaFQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "fire ashoke",
+      "author_url": "https://www.google.com/maps/contrib/108973415253025671161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMU1IBQtE-cC5nMYyUdLcm2NuUPxPHqCf0M-rc8wnOkmZmn8E=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Excellent",
+      "time": 1641034635,
+      "translated": false
+    },
+    {
+      "author_name": "H I",
+      "author_url": "https://www.google.com/maps/contrib/118147628112248145087/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmX0TwhrDkpSVMkS8zEpO3N5uU63Di2aeAxdIsOpe8cR7r6ovv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1579173370,
+      "translated": false
+    },
+    {
+      "author_name": "Chong Kong Yap",
+      "author_url": "https://www.google.com/maps/contrib/105259775225783397351/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVswNgy9ngz6zyOP2SM95C3GAUdWdUt8BFciENdrVxnTX69EO4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556507847,
+      "translated": false
+    },
+    {
+      "author_name": "yuk seem",
+      "author_url": "https://www.google.com/maps/contrib/113906268759646614791/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWTnZEqT_8oA4L7hOUFyy-mAfpW-_2pzkNTYxMOfGz50Rc3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498063362,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6082155814939805624",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

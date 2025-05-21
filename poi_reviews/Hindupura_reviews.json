@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 574211",
+  "geometry": {
+    "location": {
+      "lat": 1.3455728,
+      "lng": 103.8369011
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346863830291502,
+        "lng": 103.8383021802915
+      },
+      "southwest": {
+        "lat": 1.344165869708498,
+        "lng": 103.8356042197085
+      }
+    }
+  },
+  "name": "Hindupura",
+  "place_id": "ChIJDYWs7e4X2jERy6_Mdd8Nx6w",
+  "types": [
+    "hindu_temple",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12449934948294242251",
+  "vicinity": "Singapore"
+}

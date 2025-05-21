@@ -1,0 +1,31 @@
+{
+  "formatted_address": "111 Jalan Bukit Merah, #01-1694, Orchid 160111",
+  "geometry": {
+    "location": {
+      "lat": 1.2802744,
+      "lng": 103.826304
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281550630291502,
+        "lng": 103.8275642802915
+      },
+      "southwest": {
+        "lat": 1.278852669708498,
+        "lng": 103.8248663197085
+      }
+    }
+  },
+  "name": "Really Good",
+  "place_id": "ChIJIyFVWmQZ2jER2lGrcuk1Yek",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16816781760345625050",
+  "vicinity": "111 Jalan Bukit Merah, #01-1694, Orchid"
+}

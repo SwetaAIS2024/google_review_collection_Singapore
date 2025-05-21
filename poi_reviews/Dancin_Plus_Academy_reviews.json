@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore, Eu Tong Sen St, 90号#02-01 邮政编码: 059811",
+  "geometry": {
+    "location": {
+      "lat": 1.2831367,
+      "lng": 103.841587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284432330291502,
+        "lng": 103.8429987802915
+      },
+      "southwest": {
+        "lat": 1.281734369708498,
+        "lng": 103.8403008197085
+      }
+    }
+  },
+  "name": "Dancin Plus Academy",
+  "place_id": "ChIJIRknWtIZ2jERZajE0lSP6yY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Evelyn Ngo",
+      "author_url": "https://www.google.com/maps/contrib/112186785563770804236/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGSWXpxl2Btw7frKICnYrrZ-ztjel-ptiCrcaQcGXHX5evLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727620667,
+      "translated": false
+    },
+    {
+      "author_name": "Isaac Chen",
+      "author_url": "https://www.google.com/maps/contrib/109291185656048183039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtt8uZntCeET94mWZLOvf-QOxtfoDwpvgE9vbWDtA1ab2TlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709696652,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2804492787444394085",
+  "user_ratings_total": 2,
+  "vicinity": "90 Eu Tong Sen Street, #02-01"
+}

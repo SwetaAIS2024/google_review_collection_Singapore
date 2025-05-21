@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1 Lewis Rd, Singapore 258617",
+  "geometry": {
+    "location": {
+      "lat": 1.3209404,
+      "lng": 103.8231333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322289880291502,
+        "lng": 103.8244671802915
+      },
+      "southwest": {
+        "lat": 1.319591919708498,
+        "lng": 103.8217692197085
+      }
+    }
+  },
+  "name": "Plushy Play",
+  "place_id": "ChIJ0zmwuPgZ2jERozNWv6mCZgc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=533257271461163939",
+  "vicinity": "1 Lewis Road"
+}

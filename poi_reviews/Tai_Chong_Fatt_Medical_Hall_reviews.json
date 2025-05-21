@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9005 Tampines Street 93, Singapore 528839",
+  "geometry": {
+    "location": {
+      "lat": 1.339254,
+      "lng": 103.941341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340712130291502,
+        "lng": 103.9426053802915
+      },
+      "southwest": {
+        "lat": 1.338014169708498,
+        "lng": 103.9399074197085
+      }
+    }
+  },
+  "name": "Tai Chong Fatt Medical Hall",
+  "place_id": "ChIJP80WOzk92jERGvzLSgN9r4Q",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9560997987024108570",
+  "vicinity": "9005 Tampines Street 93"
+}

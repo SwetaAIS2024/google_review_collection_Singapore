@@ -1,0 +1,46 @@
+{
+  "formatted_address": "221A Boon Lay Pl, Singapore 641221",
+  "geometry": {
+    "location": {
+      "lat": 1.3456596,
+      "lng": 103.7130736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347116030291502,
+        "lng": 103.7146140302915
+      },
+      "southwest": {
+        "lat": 1.344418069708498,
+        "lng": 103.7119160697085
+      }
+    }
+  },
+  "name": "德发咖啡面包之家",
+  "place_id": "ChIJAQk9q5EP2jERgjvX096LxVQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lim Lam Sin (Keston)",
+      "author_url": "https://www.google.com/maps/contrib/104017026296774707444/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx5OH6B4LYxsjZO27rb-vlybS7XtCSU1zOeM49JIHIR8wxJVc=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "09 Jan 23’\n\nThis coffee stall opens at around 6am, perfect for those who are in a rush for breakfast.\n\nThe toast is made with homemade gaya and pure butter.",
+      "time": 1673960597,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6108442258751044482",
+  "user_ratings_total": 1,
+  "vicinity": "221A Boon Lay Place, Singapore"
+}

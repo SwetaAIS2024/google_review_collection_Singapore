@@ -1,0 +1,30 @@
+{
+  "formatted_address": "46 Farleigh Ave, Singapore 557820",
+  "geometry": {
+    "location": {
+      "lat": 1.3655277,
+      "lng": 103.8641205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366832980291502,
+        "lng": 103.8654415802915
+      },
+      "southwest": {
+        "lat": 1.364135019708498,
+        "lng": 103.8627436197085
+      }
+    }
+  },
+  "name": "Dribites",
+  "place_id": "ChIJP4mvvbsX2jER6LVIdiRZhuE",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16250774318551184872",
+  "vicinity": "46 Farleigh Avenue"
+}

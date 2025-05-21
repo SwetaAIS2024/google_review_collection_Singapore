@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2966661,
+      "lng": 103.8121963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298046380291502,
+        "lng": 103.8135461302915
+      },
+      "southwest": {
+        "lat": 1.295348419708498,
+        "lng": 103.8108481697085
+      }
+    }
+  },
+  "name": "Bef Margaret Dr",
+  "place_id": "ChIJf5PasS8a2jERqYjobTY67Qg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "WM",
+      "author_url": "https://www.google.com/maps/contrib/105398767199270855281/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoPAKHaqBjYgwEyr8jiSccdDAbd3C-I0RZ5lX0tXTa4mfEy8Wu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The place or known as Dawson area went through several transformation. New high rise buildings which look like private condominiums. The buildings are situated near black and white bungalows.\n\nThese are actually new designed HDB buildings with sky gardens and playgrounds.\n\nThe colours of the building are different from common HDB building' colours.",
+      "time": 1707649314,
+      "translated": false
+    },
+    {
+      "author_name": "Ong Zhen Yuan",
+      "author_url": "https://www.google.com/maps/contrib/107287088540160696673/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfLE0qYqjjq5cBZDxPAgpstKTEiUMjSqFr94bBH1d3Fqh-Ag=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Note this bus stop have 32, and the stop before this is after Tanglin road\n\nNote: it does not turn into Queenstown Secondary school",
+      "time": 1512125052,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=643234327230449833",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

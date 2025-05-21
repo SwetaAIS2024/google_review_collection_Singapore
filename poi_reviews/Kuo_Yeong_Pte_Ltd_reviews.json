@@ -1,0 +1,41 @@
+{
+  "formatted_address": "16 Wholesale Centre, Singapore 110016",
+  "geometry": {
+    "location": {
+      "lat": 1.2844669,
+      "lng": 103.7780536
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285844730291502,
+        "lng": 103.7793648802915
+      },
+      "southwest": {
+        "lat": 1.283146769708498,
+        "lng": 103.7766669197085
+      }
+    }
+  },
+  "name": "Kuo Yeong Pte Ltd",
+  "place_id": "ChIJT1XheKkb2jER4ha11Q3bFyk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "QQ Zero",
+      "author_url": "https://www.google.com/maps/contrib/102451892548656588902/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnG4wejj0pABF7QOOkrLQkGydyA7Gt1C9jRZ3bdMgRC8ICjg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690760293,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2961076132485863138",
+  "user_ratings_total": 1,
+  "vicinity": "16 Wholesale Centre, Singapore"
+}

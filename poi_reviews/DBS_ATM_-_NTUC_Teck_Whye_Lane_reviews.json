@@ -1,0 +1,29 @@
+{
+  "formatted_address": "140 Teck Whye Ln, Singapore 680140",
+  "geometry": {
+    "location": {
+      "lat": 1.3800007,
+      "lng": 103.7530199
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381348180291502,
+        "lng": 103.7543796802915
+      },
+      "southwest": {
+        "lat": 1.378650219708498,
+        "lng": 103.7516817197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Teck Whye Lane",
+  "place_id": "ChIJ0yyFlSwR2jERwxXsVTePv4g",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9853751977537443267",
+  "vicinity": "140 Teck Whye Lane, Singapore"
+}

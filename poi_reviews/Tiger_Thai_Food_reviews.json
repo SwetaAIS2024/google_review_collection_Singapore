@@ -1,0 +1,81 @@
+{
+  "formatted_address": "210A Clementi Ave 6, Singapore 121210",
+  "geometry": {
+    "location": {
+      "lat": 1.3219181,
+      "lng": 103.763383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323269480291502,
+        "lng": 103.7647658802915
+      },
+      "southwest": {
+        "lat": 1.320571519708498,
+        "lng": 103.7620679197085
+      }
+    }
+  },
+  "name": "Tiger Thai Food",
+  "place_id": "ChIJIfWowxUb2jERRkh3GaUYNl4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Felix Michael",
+      "author_url": "https://www.google.com/maps/contrib/107820530361622332124/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8d0Q67R1Y-zgaE8OBo291R7YaoaDXocFTZ8lhTaWbKseyOne3FQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "The food was good. Had basil stir fry and fried mama noodles. But the portion size was way too small. You would need 2 or even 3 orders for a normal meal.",
+      "time": 1715966442,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Ang",
+      "author_url": "https://www.google.com/maps/contrib/110330035388745466922/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX_ibSJHlvQ9V5z_4AkkGRn7VDgOzf62qCjRTsjigEgwj-VIGNTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Delicious Thai food. Ordered the basil pork rice and boat noodles. They packed the soup for the boat noodles separately so the noodles don't become soggy",
+      "time": 1741869755,
+      "translated": false
+    },
+    {
+      "author_name": "David",
+      "author_url": "https://www.google.com/maps/contrib/105736987078672768270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVDTSzGw_obpeP9XHe7YaG18ZIgw5c-ioe0_taMWfJxxIbAg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Cannot find the 'restaurant'. I drove here in vain.",
+      "time": 1743257745,
+      "translated": false
+    },
+    {
+      "author_name": "Danny Hinde",
+      "author_url": "https://www.google.com/maps/contrib/106325771676634297462/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs7_qNl21PelMie9X7gtevOGCByvTknjJIs64A4wexUmbB9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Good food and amazing Thai Tea",
+      "time": 1723469390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6788640585683519558",
+  "user_ratings_total": 4,
+  "vicinity": "210A Clementi Avenue 6"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Teban Place, #02-03, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3220906,
+      "lng": 103.7384924
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323333930291502,
+        "lng": 103.7398190802915
+      },
+      "southwest": {
+        "lat": 1.320635969708498,
+        "lng": 103.7371211197085
+      }
+    }
+  },
+  "name": "Éclair salon",
+  "place_id": "ChIJ65HbZqwb2jERe5OAsgWZ8b8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joseline Ang",
+      "author_url": "https://www.google.com/maps/contrib/107209490054948908154/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6MvWe9XuTAeBWw9SYoqJDIj6CeZzX-ZVbNRLh-5SqisqYzsxx=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Look for hair dresser Ms Clare, she is patience & great in managing my frizzy hair",
+      "time": 1686044287,
+      "translated": false
+    },
+    {
+      "author_name": "Ai Li Bernadatte",
+      "author_url": "https://www.google.com/maps/contrib/106716148047610691142/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQG2yiTD4UdF92iM8AqtWnOdHTdR2tHFKxV6njSO6r-YPp7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good service by clare 😍",
+      "time": 1669165754,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13831004180380160891",
+  "user_ratings_total": 2,
+  "vicinity": "Teban Place, #02-03"
+}

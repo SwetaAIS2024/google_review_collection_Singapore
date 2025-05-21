@@ -1,0 +1,44 @@
+{
+  "formatted_address": "81 Lor 25 Geylang, Singapore 388310",
+  "geometry": {
+    "location": {
+      "lat": 1.3162624,
+      "lng": 103.8824446
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317773430291502,
+        "lng": 103.8838043302915
+      },
+      "southwest": {
+        "lat": 1.315075469708498,
+        "lng": 103.8811063697085
+      }
+    }
+  },
+  "name": "iJooz - Freshly Squeezed Orange Juice Vending Machine",
+  "place_id": "ChIJc8L6rYEZ2jERIaOjFwhJG8c",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "yudhapong mapan",
+      "author_url": "https://www.google.com/maps/contrib/112745313641861492836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx_RmJv3Rk9j-h72W1D1aIo5O8JYESQqnx8q8-t82htvyW2jU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Fresh!!!",
+      "time": 1684772888,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14347141337024013089",
+  "user_ratings_total": 1,
+  "vicinity": "81 Lorong 25 Geylang, Singapore"
+}

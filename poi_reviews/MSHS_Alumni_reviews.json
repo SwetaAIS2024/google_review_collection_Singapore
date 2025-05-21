@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25 Mount Vernon Rd, Singapore 368051",
+  "geometry": {
+    "location": {
+      "lat": 1.341748,
+      "lng": 103.8782795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343063080291502,
+        "lng": 103.8797795802915
+      },
+      "southwest": {
+        "lat": 1.340365119708498,
+        "lng": 103.8770816197085
+      }
+    }
+  },
+  "name": "MSHS Alumni",
+  "place_id": "ChIJ17DwwJkX2jERtyI-cs5XW-g",
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16743072583871505079",
+  "vicinity": "25 Mount Vernon Road, Singapore"
+}

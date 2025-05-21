@@ -1,0 +1,43 @@
+{
+  "formatted_address": "260 Bangkit Rd, #01-15, BR 670260",
+  "geometry": {
+    "location": {
+      "lat": 1.3779482,
+      "lng": 103.7733395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379326580291502,
+        "lng": 103.7747781802915
+      },
+      "southwest": {
+        "lat": 1.376628619708498,
+        "lng": 103.7720802197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT PANJANG BRANCH",
+  "place_id": "ChIJyZ35aukR2jERgeIW4wkx9wM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cutiey Cutiey",
+      "author_url": "https://www.google.com/maps/contrib/117602415378198518804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAKg7Ax-RiGy1RC_6oTFp71vTxiZ_43cHVLFeuedca0HK6dw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709718965,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=285751019895710337",
+  "user_ratings_total": 1,
+  "vicinity": "260 Bangkit Road, #01-15, BR"
+}

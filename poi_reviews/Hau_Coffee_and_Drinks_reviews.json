@@ -1,0 +1,56 @@
+{
+  "formatted_address": "4A Jln Batu, #01-23 4A, Singapore 432004",
+  "geometry": {
+    "location": {
+      "lat": 1.3023324,
+      "lng": 103.8838966
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303674780291502,
+        "lng": 103.8851765302915
+      },
+      "southwest": {
+        "lat": 1.300976819708498,
+        "lng": 103.8824785697085
+      }
+    }
+  },
+  "name": "Hau Coffee & Drinks",
+  "place_id": "ChIJ10-yIkQY2jER4IZaDBrKUN0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "C L (CL)",
+      "author_url": "https://www.google.com/maps/contrib/102251196794219891497/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8uUMlu1ZX0fC2pfBGEOnPR4rgupBeObMYzMdOen8q3Y5qhVvP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Rude and impatient staff\nAvoid this stall please",
+      "time": 1716114986,
+      "translated": false
+    },
+    {
+      "author_name": "Tio YeeJen",
+      "author_url": "https://www.google.com/maps/contrib/116788294671097693774/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB9LqHM9f16qUj3HsHCBocdV52PbD4rgPuUL767ihG5VAhwg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682855043,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15947468493744146144",
+  "user_ratings_total": 2,
+  "vicinity": "4A Jalan Batu, #01-23 4A, Singapore"
+}

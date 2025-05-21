@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1 Irving Pl, #09-08, Singapore 369546",
+  "geometry": {
+    "location": {
+      "lat": 1.3361803,
+      "lng": 103.8863974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337616530291502,
+        "lng": 103.8875108302915
+      },
+      "southwest": {
+        "lat": 1.334918569708498,
+        "lng": 103.8848128697085
+      }
+    }
+  },
+  "name": "Basic Academy",
+  "place_id": "ChIJazUfDpIX2jER-6AUSJx69Gc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cardinal Chaos",
+      "author_url": "https://www.google.com/maps/contrib/102308639484995457725/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyPrzr5ahnwlpZOIrcBAkB7e8olwBg0kUdoXd3vEYve2PGPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "It is a great experience. To those looking to get into modeling, applying here is good. Good bookers, good teachers to help you get started",
+      "time": 1581068549,
+      "translated": false
+    },
+    {
+      "author_name": "mao barrameda",
+      "author_url": "https://www.google.com/maps/contrib/107984105032712239847/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3d4YWK2itcRn107tjF1Y4MyxdXlKgq2vQsdysVMGS1WyVZ5x0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "It was indeed a great experience being mentored by Yura Seo for the Catwalk Workshop. 😁😁😁",
+      "time": 1575688259,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7490746891866775803",
+  "user_ratings_total": 2,
+  "vicinity": "1 Irving Place, #09-08"
+}

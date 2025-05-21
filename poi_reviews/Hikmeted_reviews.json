@@ -1,0 +1,29 @@
+{
+  "formatted_address": "150 Kampong Ampat, Singapore 368324",
+  "geometry": {
+    "location": {
+      "lat": 1.3350249,
+      "lng": 103.8836791
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336418130291502,
+        "lng": 103.8848774802915
+      },
+      "southwest": {
+        "lat": 1.333720169708498,
+        "lng": 103.8821795197085
+      }
+    }
+  },
+  "name": "Hikmeted",
+  "place_id": "ChIJ2Ryr-PUX2jERvUQQV9gsSbQ",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12990963907812148413",
+  "vicinity": "150 Kampong Ampat"
+}

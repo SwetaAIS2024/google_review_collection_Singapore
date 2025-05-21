@@ -1,0 +1,59 @@
+{
+  "formatted_address": "304 Orchard Rd, #02-38/39 Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3045795,
+      "lng": 103.8340621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306018680291502,
+        "lng": 103.8355141802915
+      },
+      "southwest": {
+        "lat": 1.303320719708498,
+        "lng": 103.8328162197085
+      }
+    }
+  },
+  "name": "Scarlett Supermarket @Lucky Plaza 思家客幸运广场",
+  "place_id": "ChIJyy_0NzIZ2jERU5CUWjdcNXo",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Christina Ang",
+      "author_url": "https://www.google.com/maps/contrib/109797649602460148372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoZ_pL94N3xDZCIZPC-Gs_4oaDGBSCjl72Am3ertYAptOlqs0P6A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Be prepared to crack these hazelnuts if you buy from Scarlet. Fresh but hard nut to crack",
+      "time": 1700186640,
+      "translated": false
+    },
+    {
+      "author_name": "Max L",
+      "author_url": "https://www.google.com/maps/contrib/110397761505155779197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfyrTttCM5WAzDvh8ERQRcoDMI6v4OGROncbJ0bkSfNzIaTPE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Claiming to be opened at 8h30 but still closed passed 10… wont come back",
+      "time": 1707185132,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8806046039205515347",
+  "user_ratings_total": 2,
+  "vicinity": "304 Orchard Road, #02-38/39 Lucky Plaza"
+}

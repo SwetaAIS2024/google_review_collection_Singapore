@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3064742,
+      "lng": 103.8005673
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307770630291502,
+        "lng": 103.8019032302915
+      },
+      "southwest": {
+        "lat": 1.305072669708498,
+        "lng": 103.7992052697085
+      }
+    }
+  },
+  "name": "Guan Keat Pte Ltd",
+  "place_id": "ChIJJ5eKuj8a2jER_hphVtC6vgA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=53685649540193022",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "#09-05 CHINATOWN POINT, 133 New Bridge Road, Singapore 059413, Singapore 059413",
+  "geometry": {
+    "location": {
+      "lat": 1.285507,
+      "lng": 103.845044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286875030291502,
+        "lng": 103.8463643802915
+      },
+      "southwest": {
+        "lat": 1.284177069708498,
+        "lng": 103.8436664197085
+      }
+    }
+  },
+  "name": "Dr Ho's Clinic",
+  "place_id": "ChIJ5WVoSgsZ2jEReO1_J2C3c6Q",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11850016668149345656",
+  "vicinity": "#09-05 CHINATOWN POINT, 133 New Bridge Road, Singapore 059413"
+}

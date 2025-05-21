@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Serangoon, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3553567,
+      "lng": 103.8678708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.391093008459967,
+        "lng": 103.884942978313
+      },
+      "southwest": {
+        "lat": 1.340901966818889,
+        "lng": 103.8568668980926
+      }
+    }
+  },
+  "name": "Serangoon",
+  "place_id": "ChIJs1vOCVUW2jEREKbarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Serangoon,+Singapore&ftid=0x31da165509ce5bb3:0x500f7acaedaa610",
+  "vicinity": "Singapore"
+}

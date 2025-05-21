@@ -1,0 +1,43 @@
+{
+  "formatted_address": "154 W Coast Rd, Singapore 127371",
+  "geometry": {
+    "location": {
+      "lat": 1.3039305,
+      "lng": 103.7662902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304970880291502,
+        "lng": 103.7671856802915
+      },
+      "southwest": {
+        "lat": 1.302272919708498,
+        "lng": 103.7644877197085
+      }
+    }
+  },
+  "name": "DBS ATM - West Coast Plaza",
+  "place_id": "ChIJ_yzwK_Ia2jERRuP89_MlfzA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Rama xooqd",
+      "author_url": "https://www.google.com/maps/contrib/111524540065513851564/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6rUUoLW5uABQaZ-USVBWpcC8HIJ1mxKeX_nnlPUlP656W=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1551231302,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3494553565630620486",
+  "user_ratings_total": 1,
+  "vicinity": "154 West Coast Road, Singapore"
+}

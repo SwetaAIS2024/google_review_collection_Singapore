@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3261373,
+      "lng": 103.8978852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327525030291502,
+        "lng": 103.8992336302915
+      },
+      "southwest": {
+        "lat": 1.324827069708498,
+        "lng": 103.8965356697085
+      }
+    }
+  },
+  "name": "Paya Ubi Ind Pk",
+  "place_id": "ChIJHata9h0Y2jER8XiHzbvJrK4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Maverick Ting",
+      "author_url": "https://www.google.com/maps/contrib/107155804169962663014/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfstIhAUAjuFYQy2jrAKcDgWd4wdCG-mEfT8_PuE6Ns2-WTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Paya Ubi Industrial Park. Low Cost Long Term Parking. Car Storage. Selling Per entry tickets, no validity.",
+      "time": 1602034675,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamed Asif",
+      "author_url": "https://www.google.com/maps/contrib/116278581634426933595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGUU8D_5gVXQp_Um7ITlIzPHbc83_wKLtvXj3jJNVQ16HY2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511334807,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12586656867037968625",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

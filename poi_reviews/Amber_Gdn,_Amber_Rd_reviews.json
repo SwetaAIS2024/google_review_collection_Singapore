@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30171,
+      "lng": 103.90094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303064030291502,
+        "lng": 103.9023003302915
+      },
+      "southwest": {
+        "lat": 1.300366069708498,
+        "lng": 103.8996023697085
+      }
+    }
+  },
+  "name": "Amber Gdn, Amber Rd",
+  "place_id": "ChIJUVntaW4Y2jERAhCXPBHAWCk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2979342333769093122",
+  "vicinity": "Singapore"
+}

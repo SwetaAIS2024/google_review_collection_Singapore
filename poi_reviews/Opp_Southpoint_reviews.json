@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2732507,
+      "lng": 103.8419464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274579080291502,
+        "lng": 103.8432651802915
+      },
+      "southwest": {
+        "lat": 1.271881119708498,
+        "lng": 103.8405672197085
+      }
+    }
+  },
+  "name": "Opp Southpoint",
+  "place_id": "ChIJBc7-B2sZ2jERy3HnJPIUZxU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1542224427631473099",
+  "vicinity": "Singapore"
+}

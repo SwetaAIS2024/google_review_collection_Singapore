@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Sentosa Gateway, #02-106, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2551519,
+      "lng": 103.8192253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.256477480291502,
+        "lng": 103.8205589802915
+      },
+      "southwest": {
+        "lat": 1.253779519708498,
+        "lng": 103.8178610197085
+      }
+    }
+  },
+  "name": "Chopard RWS Boutique",
+  "place_id": "ChIJ-YuyBFYZ2jERvKLtIao6mnk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amira Hamdan",
+      "author_url": "https://www.google.com/maps/contrib/109644300848382039590/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYvNBqvhqJt_qLQHcqjBg-ugAwHVeUIcgkrydlewMO9-Tteg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Excellent services 👍🏽👍🏽.",
+      "time": 1675786339,
+      "translated": false
+    },
+    {
+      "author_name": "family muslim",
+      "author_url": "https://www.google.com/maps/contrib/101965972090371553365/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPgxV9aCKN58u6lo1wagZOO5yoJga4LNyoweaJW-1WBCffhwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Best service.",
+      "time": 1675781859,
+      "translated": false
+    }
+  ],
+  "types": [
+    "jewelry_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8762380527390794428",
+  "user_ratings_total": 2,
+  "vicinity": "Sentosa Gateway, #02-106"
+}

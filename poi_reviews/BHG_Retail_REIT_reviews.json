@@ -1,0 +1,28 @@
+{
+  "formatted_address": "100 Beach Rd, Singapore 189702",
+  "geometry": {
+    "location": {
+      "lat": 1.2965124,
+      "lng": 103.8568162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297962780291502,
+        "lng": 103.8580407302915
+      },
+      "southwest": {
+        "lat": 1.295264819708498,
+        "lng": 103.8553427697085
+      }
+    }
+  },
+  "name": "BHG Retail REIT",
+  "place_id": "ChIJAQDQha8Z2jERrdoC-B7Q-OY",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16643281254376200877",
+  "vicinity": "100 Beach Road"
+}

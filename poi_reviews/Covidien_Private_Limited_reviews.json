@@ -1,0 +1,43 @@
+{
+  "formatted_address": "15 Pioneer Walk, Singapore 627753",
+  "geometry": {
+    "location": {
+      "lat": 1.3210103,
+      "lng": 103.6951767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322360580291502,
+        "lng": 103.6964832302915
+      },
+      "southwest": {
+        "lat": 1.319662619708498,
+        "lng": 103.6937852697085
+      }
+    }
+  },
+  "name": "Covidien Private Limited",
+  "place_id": "ChIJVfS9xGQF2jER0Bl-bq7uj0o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cho Kyi Hsu Han",
+      "author_url": "https://www.google.com/maps/contrib/112537817115763929808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfDUnaInr5ecrmfq-t1IZcnyy7QHiEnxx5iI6b3ZMKxcZi6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1442160781,
+      "translated": false
+    }
+  ],
+  "types": [
+    "local_government_office",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5372775313421769168",
+  "user_ratings_total": 1,
+  "vicinity": "15 Pioneer Walk"
+}

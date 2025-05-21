@@ -1,0 +1,29 @@
+{
+  "formatted_address": "413 Yishun Ring Rd, #01-K1, Singapore 760413",
+  "geometry": {
+    "location": {
+      "lat": 1.4252298,
+      "lng": 103.8461007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426633480291502,
+        "lng": 103.8473862802915
+      },
+      "southwest": {
+        "lat": 1.423935519708498,
+        "lng": 103.8446883197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB YISHUN RING ROAD/413",
+  "place_id": "ChIJYSn3iGsV2jERHdPHdhunXSE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2404261512484475677",
+  "vicinity": "413 Yishun Ring Road, #01-K1"
+}

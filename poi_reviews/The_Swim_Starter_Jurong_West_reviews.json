@@ -1,0 +1,29 @@
+{
+  "formatted_address": "20 Jurong West Street 93, Singapore 648965",
+  "geometry": {
+    "location": {
+      "lat": 1.3381771,
+      "lng": 103.693875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339530530291502,
+        "lng": 103.6952358802915
+      },
+      "southwest": {
+        "lat": 1.336832569708498,
+        "lng": 103.6925379197085
+      }
+    }
+  },
+  "name": "The Swim Starter Jurong West",
+  "place_id": "ChIJLduhwvoP2jER8D50ugsRga4",
+  "types": [
+    "school",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12574350376665628400",
+  "vicinity": "20 Jurong West Street 93, Singapore"
+}

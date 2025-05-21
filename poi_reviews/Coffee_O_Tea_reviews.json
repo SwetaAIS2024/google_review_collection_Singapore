@@ -1,0 +1,43 @@
+{
+  "formatted_address": "51, #01-21 Hougang Ave 9, Ci Yuan Hawker Centre, Ci Yuan Community Centre, Singapore 538776",
+  "geometry": {
+    "location": {
+      "lat": 1.375411,
+      "lng": 103.8829961
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376735430291502,
+        "lng": 103.8844681802915
+      },
+      "southwest": {
+        "lat": 1.374037469708498,
+        "lng": 103.8817702197085
+      }
+    }
+  },
+  "name": "Coffee 'O'/Tea",
+  "place_id": "ChIJ2-jvrEUW2jERj9jmBlMCeTU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrey Alif",
+      "author_url": "https://www.google.com/maps/contrib/106761950156404397761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEow1dxPXIG6vm0xiR-NegGGTdsPtE4ZajiyYCL1EE24WAJ4xy=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1623462698,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3853113511813503119",
+  "user_ratings_total": 1,
+  "vicinity": "51, #01-21 Hougang Avenue 9, Ci Yuan Hawker Centre, Ci Yuan Community Centre"
+}

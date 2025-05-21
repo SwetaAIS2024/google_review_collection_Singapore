@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26 Sentosa Gateway, Universal Studio Entrance, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2575275,
+      "lng": 103.8225029
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258665530291502,
+        "lng": 103.8244693
+      },
+      "southwest": {
+        "lat": 1.255967569708498,
+        "lng": 103.8215809
+      }
+    }
+  },
+  "name": "DBS ATM - Resorts World Sentosa Universal Studio Entrance",
+  "place_id": "ChIJkaBWDeIZ2jERuh_g6DOstDc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4014022506844266426",
+  "vicinity": "26 Sentosa Gateway, Universal Studio Entrance"
+}

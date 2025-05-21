@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340655,
+      "lng": 103.891953
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342032430291502,
+        "lng": 103.8933440302915
+      },
+      "southwest": {
+        "lat": 1.339334469708498,
+        "lng": 103.8906460697085
+      }
+    }
+  },
+  "name": "Bef Kim Chuan Rd",
+  "place_id": "ChIJlVgPWusX2jERKyPeXqYITtM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Arshad h Sobuj",
+      "author_url": "https://www.google.com/maps/contrib/101912783756811281329/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkfPcYiZcq-ehkhqNDHgRN86iOWUXQplQtQ0LdgdfDEuveO_fi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1633869623,
+      "translated": false
+    },
+    {
+      "author_name": "Muhamad Ariffin Husin",
+      "author_url": "https://www.google.com/maps/contrib/114519440467440608621/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUYSmU8hF-sEhmg1xnLV2lo_qikgkAIZPC7ocC4toexqxaQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512973301,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15226116900835435307",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

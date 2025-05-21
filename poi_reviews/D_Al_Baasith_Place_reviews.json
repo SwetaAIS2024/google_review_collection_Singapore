@@ -1,0 +1,45 @@
+{
+  "formatted_address": "630 Bedok Reservoir Rd, #01-06, Bedok Reservoir Food Centre, Singapore 470630",
+  "geometry": {
+    "location": {
+      "lat": 1.3331782,
+      "lng": 103.9143549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334683980291502,
+        "lng": 103.9157365802915
+      },
+      "southwest": {
+        "lat": 1.331986019708498,
+        "lng": 103.9130386197085
+      }
+    }
+  },
+  "name": "D' Al Baasith Place",
+  "place_id": "ChIJrxLkf_0X2jERHWS7E-wsoA4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Bought 3 curry puffs for $2. They had a good old Malay-style taste.",
+      "time": 1735387440,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1053891705259648029",
+  "user_ratings_total": 1,
+  "vicinity": "630 Bedok Reservoir Rd, #01-06, Bedok Reservoir Food Centre, Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "26 Jurong Port Rd, Singapore 619099",
+  "geometry": {
+    "location": {
+      "lat": 1.3159064,
+      "lng": 103.7190502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317295680291502,
+        "lng": 103.7205896302915
+      },
+      "southwest": {
+        "lat": 1.314597719708498,
+        "lng": 103.7178916697085
+      }
+    }
+  },
+  "name": "SPCI HELM Singapore Pte Ltd",
+  "place_id": "ChIJmcFFnk8F2jERfXZi0u_M8yg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vincent Tay",
+      "author_url": "https://www.google.com/maps/contrib/111704907255690336175/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs_Tbbgndjx8mBYbIcSBJeadzTZ4yOjye59TyI8b4IrprCgoBepA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Chemical company",
+      "time": 1618535585,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Hilmi",
+      "author_url": "https://www.google.com/maps/contrib/105099852585111488045/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPGvfcBAqXId9QKXo5cKsw1Ml7StwCrEy36hPKTZhgJhXSQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722357947,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2950927511256725117",
+  "user_ratings_total": 2,
+  "vicinity": "26 Jurong Port Road, Singapore"
+}

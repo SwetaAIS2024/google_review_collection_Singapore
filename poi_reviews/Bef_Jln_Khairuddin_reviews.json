@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319238,
+      "lng": 103.921997
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320553480291502,
+        "lng": 103.9233441302915
+      },
+      "southwest": {
+        "lat": 1.317855519708498,
+        "lng": 103.9206461697085
+      }
+    }
+  },
+  "name": "Bef Jln Khairuddin",
+  "place_id": "ChIJ0Vrm464i2jERJlLnjwk34n8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9214988301761991206",
+  "vicinity": "Singapore"
+}

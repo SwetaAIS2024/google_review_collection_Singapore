@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Mount Alvernia Hospital #02-05, 820 Thomson Road (S)574623, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3421217,
+      "lng": 103.8377029
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343411680291502,
+        "lng": 103.8391398802915
+      },
+      "southwest": {
+        "lat": 1.340713719708498,
+        "lng": 103.8364419197085
+      }
+    }
+  },
+  "name": "Pang Ah San Dr",
+  "place_id": "ChIJGcBnlUYX2jERuEkxCPizKTk",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4119021212077738424",
+  "vicinity": "Mount Alvernia Hospital #02-05, 820 Thomson Road (S)574623"
+}

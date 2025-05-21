@@ -1,0 +1,44 @@
+{
+  "formatted_address": "335 Smith St, #1.282875 103.843167, Singapore 051335",
+  "geometry": {
+    "location": {
+      "lat": 1.2828487,
+      "lng": 103.8429351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284211730291502,
+        "lng": 103.8444804802915
+      },
+      "southwest": {
+        "lat": 1.281513769708498,
+        "lng": 103.8417825197085
+      }
+    }
+  },
+  "name": "Chinatown Complex Shopping Mall",
+  "place_id": "ChIJ32fXcgAZ2jERnNIRypYFNo8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Buren",
+      "author_url": "https://www.google.com/maps/contrib/103975090698079167241/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAW6S8iH0P3hdkbnNjDwY-1QnTYpxJkwDDT-YDbzHNPYcT3cRF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "A charming old shopping complex, strategically located near Chinatown MRT (exit Pagoda Steet).\n\nIf you miss more traditional shopping style, where small shops are consolidated in one space, try experience haggling for prices here. From fashion, old coins, household items, precious stones, festive decorations, shoes, books, jewelries, bag, souvenirs, even carrots and potatoes, because yes, there is a wet market on the lower floor, and food court on the upper floor.\n\nThe place uses natural ventilations, no aircon, so it can be hot during daytime. It can also be messy with stuffs and sometimes there are rubbish around, but overall, enjoy the charming older era with Chinatown touch.",
+      "time": 1741508455,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10319441741359469212",
+  "user_ratings_total": 1,
+  "vicinity": "335 Smith Street, #1.282875 103.843167, Singapore"
+}

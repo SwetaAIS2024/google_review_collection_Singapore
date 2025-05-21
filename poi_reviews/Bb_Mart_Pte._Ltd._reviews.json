@@ -1,0 +1,30 @@
+{
+  "formatted_address": "97 Hillview Ave, Singapore 669628",
+  "geometry": {
+    "location": {
+      "lat": 1.3535684,
+      "lng": 103.7604884
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354882930291502,
+        "lng": 103.7618302302915
+      },
+      "southwest": {
+        "lat": 1.352184969708498,
+        "lng": 103.7591322697085
+      }
+    }
+  },
+  "name": "Bb Mart Pte. Ltd.",
+  "place_id": "ChIJha0NpkUQ2jERGOAd0xnyIWc",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7431487052868083736",
+  "vicinity": "97 Hillview Avenue"
+}

@@ -1,0 +1,70 @@
+{
+  "formatted_address": "308 Clementi Ave 4, Singapore 120308",
+  "geometry": {
+    "location": {
+      "lat": 1.3210523,
+      "lng": 103.7668437
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322512080291502,
+        "lng": 103.7682314802915
+      },
+      "southwest": {
+        "lat": 1.319814119708498,
+        "lng": 103.7655335197085
+      }
+    }
+  },
+  "name": "Noodle House",
+  "place_id": "ChIJc_0qL1Mb2jER40pejdKKKWs",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "ZJ L",
+      "author_url": "https://www.google.com/maps/contrib/110571287300387473678/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSjXewDLpwajXuSPfZC0M7T2TFQZDil4omynHoIHL68_o9KoJd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Nicely seasoned minced meat noodles with generous serving of minced meat.\n\nTheir satay beehoon is pretty decent too!",
+      "time": 1725683252,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastian Tng",
+      "author_url": "https://www.google.com/maps/contrib/105953305744594940229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ50eNzsm8oXQDgS9NmZz9J4gBBQwai3yxKmFhQx5O9Ub2D=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Mushroom minced pork noodles is the specialty of this stall.",
+      "time": 1674379502,
+      "translated": false
+    },
+    {
+      "author_name": "Adeline Tan",
+      "author_url": "https://www.google.com/maps/contrib/117847261235892213991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb9ZlBbUElfDc1Kpj5pPyiwu1CokLOrAJGPx0osbrPnJ2KAUOO=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Always delicious",
+      "time": 1656238995,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7721855673022958307",
+  "user_ratings_total": 3,
+  "vicinity": "308 Clementi Avenue 4, Singapore"
+}

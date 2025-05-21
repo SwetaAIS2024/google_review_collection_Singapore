@@ -1,0 +1,29 @@
+{
+  "formatted_address": "24 Penjuru Rd, Singapore 609128",
+  "geometry": {
+    "location": {
+      "lat": 1.3145779,
+      "lng": 103.733623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315654680291502,
+        "lng": 103.7349147302915
+      },
+      "southwest": {
+        "lat": 1.312956719708498,
+        "lng": 103.7322167697085
+      }
+    }
+  },
+  "name": "28 place",
+  "place_id": "ChIJiUI3QAAb2jERpu2mnTEq4Z0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11376420526301310374",
+  "vicinity": "24 Penjuru Road, Singapore"
+}

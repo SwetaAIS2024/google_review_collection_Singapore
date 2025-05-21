@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297146,
+      "lng": 103.793694
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298503030291502,
+        "lng": 103.7950202302915
+      },
+      "southwest": {
+        "lat": 1.295805069708498,
+        "lng": 103.7923222697085
+      }
+    }
+  },
+  "name": "Opp Tanglin Trust Sch",
+  "place_id": "ChIJG1n1w0ga2jERda7Ec5pu6qc",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12099604958530547317",
+  "vicinity": "Singapore"
+}

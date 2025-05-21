@@ -1,0 +1,43 @@
+{
+  "formatted_address": "119 Aljunied Ave 2, Singapore 380119",
+  "geometry": {
+    "location": {
+      "lat": 1.3201928,
+      "lng": 103.8860292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321404830291502,
+        "lng": 103.8874119302915
+      },
+      "southwest": {
+        "lat": 1.318706869708498,
+        "lng": 103.8847139697085
+      }
+    }
+  },
+  "name": "SAM Kiosk - Geylang East Branch",
+  "place_id": "ChIJK8CCjiMY2jER7KeIMtHBBKQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547546380,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11818784426367166444",
+  "user_ratings_total": 1,
+  "vicinity": "119 Aljunied Avenue 2"
+}

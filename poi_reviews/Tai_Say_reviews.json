@@ -1,0 +1,30 @@
+{
+  "formatted_address": "116 Sims Ave, Singapore 387440",
+  "geometry": {
+    "location": {
+      "lat": 1.3140144,
+      "lng": 103.8781419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315456730291502,
+        "lng": 103.8794596802915
+      },
+      "southwest": {
+        "lat": 1.312758769708498,
+        "lng": 103.8767617197085
+      }
+    }
+  },
+  "name": "Tai Say",
+  "place_id": "ChIJk5lO7TAY2jER31EJtYuZSkY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5065029556248334815",
+  "vicinity": "116 Sims Avenue"
+}

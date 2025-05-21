@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307524,
+      "lng": 103.777824
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308847230291502,
+        "lng": 103.7791611302915
+      },
+      "southwest": {
+        "lat": 1.306149269708498,
+        "lng": 103.7764631697085
+      }
+    }
+  },
+  "name": "Ayer Rajah Telecoms",
+  "place_id": "ChIJHUDQzV8a2jERkNFo5lLLbyk",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "arun vicky",
+      "author_url": "https://www.google.com/maps/contrib/103380005130666902759/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCpVD0ed65ZcCzJRh0lZODyXTG83T1Ma463rngmFR0VHr0USDj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738039619,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmine Poh",
+      "author_url": "https://www.google.com/maps/contrib/109376991362728229681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6rpORHB0c0l__RjcHi9rZc7xIsFyRUZrXz6DRdbk1iyGk5g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562677035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2985828634883314064",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

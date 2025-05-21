@@ -1,0 +1,28 @@
+{
+  "formatted_address": "51 Goldhill Plaza, #07-10/11, Singapore 308900",
+  "geometry": {
+    "location": {
+      "lat": 1.3181318,
+      "lng": 103.8428701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319258430291502,
+        "lng": 103.8442929302915
+      },
+      "southwest": {
+        "lat": 1.316560469708498,
+        "lng": 103.8415949697085
+      }
+    }
+  },
+  "name": "The RPA Academy",
+  "place_id": "ChIJ2RSc1QYZ2jERvdRoTROPK1s",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6569501794515866813",
+  "vicinity": "51 Goldhill Plaza, #07-10/11"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Blk 25 Bendemeer Rd, #01-561/563, Singapore 330025",
+  "geometry": {
+    "location": {
+      "lat": 1.3184709,
+      "lng": 103.8633089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320001780291502,
+        "lng": 103.8644593802915
+      },
+      "southwest": {
+        "lat": 1.317303819708498,
+        "lng": 103.8617614197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Bendemeer Road Branch",
+  "place_id": "ChIJNSvE9GEZ2jERoyvsUG8Wv4Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Liang Kee Lim",
+      "author_url": "https://www.google.com/maps/contrib/102175763197765320035/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQTPBYfdHW_wfWR3meOtq4cin6509rc9gE6OfsWRsAp_Vzd0S9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Staffs at this branch are very friendly and helpful at counter 1 on 21st May 2021 at 10.30am",
+      "time": 1621701549,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9565388800913058723",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 25 Bendemeer Road, #01-561/563"
+}

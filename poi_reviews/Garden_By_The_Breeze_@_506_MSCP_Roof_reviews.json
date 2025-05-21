@@ -1,0 +1,44 @@
+{
+  "formatted_address": "506 Yishun Ave 4, Singapore 760454",
+  "geometry": {
+    "location": {
+      "lat": 1.4148327,
+      "lng": 103.8403491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415985580291502,
+        "lng": 103.8415567802915
+      },
+      "southwest": {
+        "lat": 1.413287619708498,
+        "lng": 103.8388588197085
+      }
+    }
+  },
+  "name": "Garden By The Breeze @ 506 MSCP Roof",
+  "place_id": "ChIJoSzwwf8V2jERT5c42wQkc5s",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Raem Tan",
+      "author_url": "https://www.google.com/maps/contrib/111294093485047386427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd34Ud1LkcveT79RL87Pj_Npt6c3WfN63Y5Ui1oAscRjFe2ZNv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Garden with corn, eggplant, beans, cucumber and various leafy vegetables for volunteers to experience gardening in Singapore",
+      "time": 1699783714,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11201336301476943695",
+  "user_ratings_total": 1,
+  "vicinity": "506 Yishun Avenue 4, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "559 Jurong West Street 42, Block 559, Singapore 640559",
+  "geometry": {
+    "location": {
+      "lat": 1.3543045,
+      "lng": 103.719054
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355652030291502,
+        "lng": 103.7203595302915
+      },
+      "southwest": {
+        "lat": 1.352954069708498,
+        "lng": 103.7176615697085
+      }
+    }
+  },
+  "name": "SG Home",
+  "place_id": "ChIJ0QuPIy4P2jERTaRBYw6_RfU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17673742381201073229",
+  "vicinity": "559 Jurong West Street 42, Block 559, Singapore"
+}

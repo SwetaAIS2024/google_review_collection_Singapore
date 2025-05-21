@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore, Unnamed Road",
+  "geometry": {
+    "location": {
+      "lat": 1.4177682,
+      "lng": 103.6781009
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419097330291502,
+        "lng": 103.6794392302915
+      },
+      "southwest": {
+        "lat": 1.416399369708498,
+        "lng": 103.6767412697085
+      }
+    }
+  },
+  "name": "兵营",
+  "place_id": "ChIJlb5PySUN2jERN758Xj1z9Ro",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1942585521695669815",
+  "vicinity": "Unnamed Road"
+}

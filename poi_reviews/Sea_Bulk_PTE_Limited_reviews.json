@@ -1,0 +1,65 @@
+{
+  "formatted_address": "01-19 Food Hub, 15 Jln Tepong, Singapore 619336",
+  "geometry": {
+    "location": {
+      "lat": 1.3086149,
+      "lng": 103.7219367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.310002030291502,
+        "lng": 103.7231887802915
+      },
+      "southwest": {
+        "lat": 1.307304069708498,
+        "lng": 103.7204908197085
+      }
+    }
+  },
+  "name": "Sea Bulk (PTE) Limited",
+  "place_id": "ChIJa6kNoAAb2jERNxNqIWBTTCY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Helmi Shahrom",
+      "author_url": "https://www.google.com/maps/contrib/118000820815844729156/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM_SepiY8zi2CqBbOkE2x7W111ozVFlaJ16Taipd0QHFLNEKt_gg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very useful",
+      "time": 1659610259,
+      "translated": false
+    },
+    {
+      "author_name": "Surya Murugan",
+      "author_url": "https://www.google.com/maps/contrib/106644564185853119286/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5670AemFlLbeAS6nLJhfLOMmB7dNBGlBHgrIOnp7ocDo9s-MT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good 😊👍",
+      "time": 1687747117,
+      "translated": false
+    },
+    {
+      "author_name": "ravindra kumar",
+      "author_url": "https://www.google.com/maps/contrib/117833214127393794078/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0TzXLgwOay_1ELtGTUUYqm5IA5tAxoALRtj1V6DvAotfU97MK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512704731,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2759672344013837111",
+  "user_ratings_total": 3,
+  "vicinity": "01-19 Food Hub, 15 Jalan Tepong"
+}

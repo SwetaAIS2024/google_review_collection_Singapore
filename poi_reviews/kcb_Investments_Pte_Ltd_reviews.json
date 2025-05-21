@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3022954,
+      "lng": 103.8623877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303642880291502,
+        "lng": 103.8634903802915
+      },
+      "southwest": {
+        "lat": 1.300944919708498,
+        "lng": 103.8607924197085
+      }
+    }
+  },
+  "name": "kcb Investments Pte Ltd",
+  "place_id": "ChIJw5KcWLEZ2jERwoJxa8oqYis",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3126108140222907074",
+  "vicinity": "Singapore"
+}

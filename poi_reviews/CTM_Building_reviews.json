@@ -1,0 +1,61 @@
+{
+  "formatted_address": "14 Tampines Industrial Dr, Singapore 528530",
+  "geometry": {
+    "location": {
+      "lat": 1.3783661,
+      "lng": 103.9216203
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379821280291502,
+        "lng": 103.9228604302915
+      },
+      "southwest": {
+        "lat": 1.377123319708498,
+        "lng": 103.9201624697085
+      }
+    }
+  },
+  "name": "CTM Building",
+  "place_id": "ChIJie-Vfo892jERcDZVSn4ihXY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jamil Hossen",
+      "author_url": "https://www.google.com/maps/contrib/101213289591733924216/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4G6YsqGnovAmEXXHLaRTPNsRAAuhjk5x4XlQ98SeR6LTad_0pfQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713368027,
+      "translated": false
+    },
+    {
+      "author_name": "Chee Aun Lim",
+      "author_url": "https://www.google.com/maps/contrib/117304241237868028166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZH05pL7S7o5TDfqoSKVQp75yziKPyQqrKl8XuTy-PaN_aRQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747390384,
+      "translated": false
+    },
+    {
+      "author_name": "Naeeym Hossain",
+      "author_url": "https://www.google.com/maps/contrib/112121966370834234594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSulQN_mjNC01Wt3HvPCvTFmH6Drpk2bryTc9H7MTAwMCcKaHF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714711129,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8540270194186335856",
+  "user_ratings_total": 3,
+  "vicinity": "14 Tampines Industrial Drive, Singapore"
+}

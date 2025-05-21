@@ -1,0 +1,29 @@
+{
+  "formatted_address": "205 Hougang St 21, Singapore 530205",
+  "geometry": {
+    "location": {
+      "lat": 1.3596592,
+      "lng": 103.885183
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360768930291502,
+        "lng": 103.8865576302915
+      },
+      "southwest": {
+        "lat": 1.358070969708498,
+        "lng": 103.8838596697085
+      }
+    }
+  },
+  "name": "Vivace",
+  "place_id": "ChIJud-5-bMX2jERGC_NSMbMkbw",
+  "types": [
+    "beauty_salon",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13587866702750494488",
+  "vicinity": "205 Hougang Street 21, Singapore"
+}

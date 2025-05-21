@@ -1,0 +1,30 @@
+{
+  "formatted_address": "111 Jalan Bukit Merah, #01-1702, Singapore 160111",
+  "geometry": {
+    "location": {
+      "lat": 1.2803227,
+      "lng": 103.8261458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281553330291502,
+        "lng": 103.8275642802915
+      },
+      "southwest": {
+        "lat": 1.278855369708498,
+        "lng": 103.8248663197085
+      }
+    }
+  },
+  "name": "新发便利商店 Sin Huat Convenience Store",
+  "place_id": "ChIJ4-90t3wZ2jERwR3eg-VpVn8",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9175637725294763457",
+  "vicinity": "111 Jalan Bukit Merah, #01-1702, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 534965",
+  "geometry": {
+    "location": {
+      "lat": 1.3483448,
+      "lng": 103.8808085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349797730291502,
+        "lng": 103.8821368302915
+      },
+      "southwest": {
+        "lat": 1.347099769708498,
+        "lng": 103.8794388697085
+      }
+    }
+  },
+  "name": "Hougang Assembly of God",
+  "place_id": "ChIJw0CeZKUX2jERZzih3dMYjmk",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7606044118910842983",
+  "vicinity": "Singapore"
+}

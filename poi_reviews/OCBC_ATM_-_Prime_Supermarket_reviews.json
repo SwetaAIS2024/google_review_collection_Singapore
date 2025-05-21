@@ -1,0 +1,45 @@
+{
+  "formatted_address": "763 Jurong West Street 75, #01-01, Singapore 640763",
+  "geometry": {
+    "location": {
+      "lat": 1.3485612,
+      "lng": 103.6982517
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349809230291502,
+        "lng": 103.6995924802915
+      },
+      "southwest": {
+        "lat": 1.347111269708498,
+        "lng": 103.6968945197085
+      }
+    }
+  },
+  "name": "OCBC ATM - Prime Supermarket",
+  "place_id": "ChIJPfPDS7wP2jERyJUztzj_VjY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "HS Lim",
+      "author_url": "https://www.google.com/maps/contrib/115535175613259076481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRhd362QRe7jx37NvedguQrnWUW3UmhcH-L2WO3wN7vRmIRwOS=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Is always good to have ATM around and can view from roadside. It would be good if it comes with deposite and passbook update system.\n\nLast update/ review Feb2017",
+      "time": 1509331429,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3915597545102087624",
+  "user_ratings_total": 1,
+  "vicinity": "763 Jurong West Street 75, #01-01"
+}

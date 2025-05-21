@@ -1,0 +1,63 @@
+{
+  "formatted_address": "140 Pasir Ris Street 11, #01-171, Singapore 510140",
+  "geometry": {
+    "location": {
+      "lat": 1.363864,
+      "lng": 103.9591538
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365254480291502,
+        "lng": 103.9604591802915
+      },
+      "southwest": {
+        "lat": 1.362556519708498,
+        "lng": 103.9577612197085
+      }
+    }
+  },
+  "name": "Pasir Ris Zone 11 Residents' Network",
+  "place_id": "ChIJgfXMwf882jERxydYfP7uaEQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Raymond Puah",
+      "author_url": "https://www.google.com/maps/contrib/106724839808540706361/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5d4EyWCYJmgYPj31NCJ_pypxn4-vWvPr8BbOY6dflyRnftNU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "30dec 2017 year end event",
+      "time": 1510973630,
+      "translated": false
+    },
+    {
+      "author_name": "Koh Chan Lye",
+      "author_url": "https://www.google.com/maps/contrib/101499496986747949857/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9UfptmhqGEX05gKQ1IDOQtVBxRrSh7VrAhrKWCSw5bxkgYw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714088491,
+      "translated": false
+    },
+    {
+      "author_name": "Saini Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/114776344447651972707/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzmFTyrLHFEai8b3iPpi4WZoJAfMwNHWSNQdCY_2wG31j2CpY8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505600516,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4929452568932263879",
+  "user_ratings_total": 3,
+  "vicinity": "140 Pasir Ris Street 11, #01-171, Singapore"
+}

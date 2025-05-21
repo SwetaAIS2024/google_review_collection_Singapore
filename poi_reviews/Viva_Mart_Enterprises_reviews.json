@@ -1,0 +1,76 @@
+{
+  "formatted_address": "01-02 23 kakibukit road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3372282,
+      "lng": 103.9038937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338614830291502,
+        "lng": 103.9052743802915
+      },
+      "southwest": {
+        "lat": 1.335916869708498,
+        "lng": 103.9025764197085
+      }
+    }
+  },
+  "name": "Viva Mart Enterprises",
+  "place_id": "ChIJfRd-RfcX2jER9TIDVSWxV0s",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "kawsar sheak",
+      "author_url": "https://www.google.com/maps/contrib/114062027230659157101/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl9i1EzwgWYn-F56gib0TTZaXkGDaJ6vIdVfBsYdLvfW1pKfhk=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "good place to buy vegetables",
+      "time": 1680966840,
+      "translated": false
+    },
+    {
+      "author_name": "Abbas khan Gc",
+      "author_url": "https://www.google.com/maps/contrib/116711136699067817337/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdBlnKjrStpcazNJ-aV_-HNIc-t-DdoRlw4Utz55_tiFJHfjexkg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "Normal",
+      "time": 1726371534,
+      "translated": false
+    },
+    {
+      "author_name": "Kader Mohaideen",
+      "author_url": "https://www.google.com/maps/contrib/101349070587320661473/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVLnEROlxYVGn7uirBgCH1BbIPr0jOOl1NDz7huYVIcFlGMwv=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689746844,
+      "translated": false
+    },
+    {
+      "author_name": "Ramachandran Balaji",
+      "author_url": "https://www.google.com/maps/contrib/102187423081436569761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjuKztxb-ZKr4zzRJ-hE2rmPMXz2aaRH9oPLDpnTPLI8HJSA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527055187,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5429002649716601589",
+  "user_ratings_total": 4,
+  "vicinity": "01-02 23 kakibukit road"
+}

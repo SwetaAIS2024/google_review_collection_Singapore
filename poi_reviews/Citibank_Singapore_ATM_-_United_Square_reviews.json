@@ -1,0 +1,65 @@
+{
+  "formatted_address": "101 Thomson Rd, #01-K15 United Square, Singapore 307591",
+  "geometry": {
+    "location": {
+      "lat": 1.3171474,
+      "lng": 103.8435716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318498030291502,
+        "lng": 103.8451155302915
+      },
+      "southwest": {
+        "lat": 1.315800069708498,
+        "lng": 103.8424175697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - United Square",
+  "place_id": "ChIJL-QtCOgZ2jERxKaorms1ZZQ",
+  "rating": 1.7,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Citibank has a very bad practice here in Singapore. Their ATMs are extremely tough to find, always located at some random spots in the middle of nowhere, and it's as if they don't care enough about their user's well-being to lease proper spots.\n\nThis ATM is right by the United Square office tower lobby, right next to Wee Nam Kee Chicken Rice. While the rest of the other banks' ATMs are located indoors where there's actual human traffic flow.",
+      "time": 1627153313,
+      "translated": false
+    },
+    {
+      "author_name": "David Packwood",
+      "author_url": "https://www.google.com/maps/contrib/116213945860337483943/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAXU3g10yMpTmjgTrxzM5hwL_Vkn11uQ8lwFR0NO3bZdXyWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519272726,
+      "translated": false
+    },
+    {
+      "author_name": "Wayne Goh",
+      "author_url": "https://www.google.com/maps/contrib/110059578514545126397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUApv0QU7nG6aMv6SbbqMUsEAec1K9QTg-dTdk1hXg_oDcHkJSG=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517400382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10693011626869171908",
+  "user_ratings_total": 3,
+  "vicinity": "101 Thomson Road, #01-K15 United Square"
+}

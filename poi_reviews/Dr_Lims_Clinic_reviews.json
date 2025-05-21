@@ -1,0 +1,29 @@
+{
+  "formatted_address": "7 Jln Batu, Block 7, Singapore 431007",
+  "geometry": {
+    "location": {
+      "lat": 1.3027302,
+      "lng": 103.8833316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304053130291502,
+        "lng": 103.8847976302915
+      },
+      "southwest": {
+        "lat": 1.301355169708498,
+        "lng": 103.8820996697085
+      }
+    }
+  },
+  "name": "Dr Lim's Clinic",
+  "place_id": "ChIJeScUJ0QY2jERFTkrHJllDKI",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11676819642141849877",
+  "vicinity": "7 Jalan Batu, Block 7, Singapore"
+}

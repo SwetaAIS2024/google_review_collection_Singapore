@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.275109,
+      "lng": 103.624222
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276414330291502,
+        "lng": 103.6255663302915
+      },
+      "southwest": {
+        "lat": 1.273716369708498,
+        "lng": 103.6228683697085
+      }
+    }
+  },
+  "name": "Opp Rec S'Pore",
+  "place_id": "ChIJq15hZ5cG2jERqSf7MoMPfiE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Muthurakku Kannan",
+      "author_url": "https://www.google.com/maps/contrib/114493525269615334800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVQi9f8DAekfZTZxi9P0-zZk8R5iNNFI4WrhsUZWEtAsegXAOrRQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613901104,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2413383506487617449",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

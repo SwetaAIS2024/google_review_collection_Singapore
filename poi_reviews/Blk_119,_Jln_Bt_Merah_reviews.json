@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28298,
+      "lng": 103.82162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284286730291502,
+        "lng": 103.8229518302915
+      },
+      "southwest": {
+        "lat": 1.281588769708498,
+        "lng": 103.8202538697085
+      }
+    }
+  },
+  "name": "Blk 119, Jln Bt Merah",
+  "place_id": "ChIJn4xhJ9Yb2jERvBxX9Pl1c4g",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9832332127886580924",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Irving Pl, #08-08 The Commerz@Irving, Singapore 369546",
+  "geometry": {
+    "location": {
+      "lat": 1.3362524,
+      "lng": 103.8864057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337623830291502,
+        "lng": 103.8875149802915
+      },
+      "southwest": {
+        "lat": 1.334925869708498,
+        "lng": 103.8848170197085
+      }
+    }
+  },
+  "name": "DR Systeme",
+  "place_id": "ChIJ609jD5oX2jERHCJ7mU4ykfs",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18127325288306778652",
+  "vicinity": "1 Irving Place, #08-08 The Commerz@Irving, Singapore"
+}

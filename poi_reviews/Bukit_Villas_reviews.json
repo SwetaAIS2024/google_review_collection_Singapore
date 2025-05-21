@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Rasok Dr, Singapore 737944",
+  "geometry": {
+    "location": {
+      "lat": 1.4166317,
+      "lng": 103.7551338
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417905930291502,
+        "lng": 103.7564728302915
+      },
+      "southwest": {
+        "lat": 1.415207969708498,
+        "lng": 103.7537748697085
+      }
+    }
+  },
+  "name": "Bukit Villas",
+  "place_id": "ChIJW1hoxD4S2jERNOXhYMhao0U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jonathan Greenstein",
+      "author_url": "https://www.google.com/maps/contrib/109044087617582003747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4avLYuj0iYFZtAIbKKMR9DJ9Y7XbhFyu_Lf0l7BGXX5Y0cV9g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "A fantastic example of a managed community. A mix of locals and Expats share this quaint neighborhood adjacent to Kranji Turf Club. Features a community pool and privacy. Manager primarily by the Far East Group.\n\nEach unit features an enclosed courtyard, three floors, five bedrooms, three baths and spacious living areas.",
+      "time": 1497003932,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5017954226486240564",
+  "user_ratings_total": 1,
+  "vicinity": "1 Rasok Drive"
+}

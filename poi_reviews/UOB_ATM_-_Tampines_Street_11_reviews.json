@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Blk 139 Tampines St. 11, #01-K2, Singapore 521139",
+  "geometry": {
+    "location": {
+      "lat": 1.346505,
+      "lng": 103.9445516
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347888580291502,
+        "lng": 103.9459399802915
+      },
+      "southwest": {
+        "lat": 1.345190619708498,
+        "lng": 103.9432420197085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines Street 11",
+  "place_id": "ChIJcwT_ntA92jER15mjYtI6Xi4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Louise Otto",
+      "author_url": "https://www.google.com/maps/contrib/111390690549680279432/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-QKKtalaZK6xXX6jKd6PHclwx3vI_kw6b7U9K4RaK5XpuKgvS=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "No cash point at this location",
+      "time": 1745204661,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3341172648827918807",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 139 Tampines Street 11, #01-K2"
+}

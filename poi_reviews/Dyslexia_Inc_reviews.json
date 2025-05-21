@@ -1,0 +1,42 @@
+{
+  "formatted_address": "160 Jln Teck Whye, #03-250 Block 160, Singapore 680160",
+  "geometry": {
+    "location": {
+      "lat": 1.3807787,
+      "lng": 103.7563879
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382024280291502,
+        "lng": 103.7576953302915
+      },
+      "southwest": {
+        "lat": 1.379326319708498,
+        "lng": 103.7549973697085
+      }
+    }
+  },
+  "name": "Dyslexia Inc",
+  "place_id": "ChIJY2C6rZ0R2jERlGf-CO1QF4w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chee Wei Ching",
+      "author_url": "https://www.google.com/maps/contrib/107154616652513335426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmV_hWVIJ1jQEnw1GDzZewC9_2v4qANi6V8RZhguvJwqkmjhUa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693876437,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10094626068762617748",
+  "user_ratings_total": 1,
+  "vicinity": "160 Jalan Teck Whye, #03-250 Block 160, Singapore"
+}

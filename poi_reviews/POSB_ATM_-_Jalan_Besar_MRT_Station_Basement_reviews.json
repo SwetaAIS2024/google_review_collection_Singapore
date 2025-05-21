@@ -1,0 +1,69 @@
+{
+  "formatted_address": "Jln Besar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3049594,
+      "lng": 103.8552869
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306365130291502,
+        "lng": 103.8565471302915
+      },
+      "southwest": {
+        "lat": 1.303667169708498,
+        "lng": 103.8538491697085
+      }
+    }
+  },
+  "name": "POSB ATM - Jalan Besar MRT Station (Basement)",
+  "place_id": "ChIJj-jbeFMZ2jERNrzRF7zHHiQ",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Basil Baby",
+      "author_url": "https://www.google.com/maps/contrib/117161790232030371910/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU92d9TkkFc46aAfaxYcumu7zCALWtRbdmSVVj_wmuyMNjn1z-S=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Near passenger service , hand to find the way from the street . Located near passenger service counter / Photo Booth",
+      "time": 1709198848,
+      "translated": false
+    },
+    {
+      "author_name": "Tirupathi Ramana Sabapathy",
+      "author_url": "https://www.google.com/maps/contrib/112723675888154014907/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlZNYlDPTGJfObEiOIP7zKBemZzpGwiymTXp0L0oNXH1L6Qf4kjQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Ok",
+      "time": 1693280218,
+      "translated": false
+    },
+    {
+      "author_name": "Simo",
+      "author_url": "https://www.google.com/maps/contrib/105290837279960635484/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcIO2Fs3KfbKJdkIHlGV8g12ekD_vOjlvhYsUc6jMUvoZOow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Danger. ATM costs $5 bank fee from Singapore Bank. Bank advertises withdrawal of money without fees.",
+      "time": 1738935535,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2602737245334125622",
+  "user_ratings_total": 3,
+  "vicinity": "Jalan Besar"
+}

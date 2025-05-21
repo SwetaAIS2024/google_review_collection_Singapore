@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.286763,
+      "lng": 103.784843
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288147780291502,
+        "lng": 103.7861796302915
+      },
+      "southwest": {
+        "lat": 1.285449819708498,
+        "lng": 103.7834816697085
+      }
+    }
+  },
+  "name": "Sci Pk 2/The Galen",
+  "place_id": "ChIJCfHTpa0b2jERRaiAWBduR1U",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6145001263118460997",
+  "vicinity": "Singapore"
+}

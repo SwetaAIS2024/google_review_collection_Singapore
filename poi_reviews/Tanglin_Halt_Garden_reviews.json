@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Commonwealth Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2962835,
+      "lng": 103.7987171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297540030291502,
+        "lng": 103.8000432802915
+      },
+      "southwest": {
+        "lat": 1.294842069708498,
+        "lng": 103.7973453197085
+      }
+    }
+  },
+  "name": "Tanglin Halt Garden",
+  "place_id": "ChIJv-hA1Uka2jER4EBr8dyQ-1c",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lim Soon Hock",
+      "author_url": "https://www.google.com/maps/contrib/117594012103914222773/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbo5nZ8AvVkees12e0Q7MoJWMjrf35Lt4fV_h_kmMzf7h47qgizA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Exercise equipment for public use",
+      "time": 1671028728,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6339820179071647968",
+  "user_ratings_total": 1,
+  "vicinity": "Commonwealth Drive"
+}

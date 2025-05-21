@@ -1,0 +1,44 @@
+{
+  "formatted_address": "90 Bencoolen St, Singapore 189655",
+  "geometry": {
+    "location": {
+      "lat": 1.300098,
+      "lng": 103.8516553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301479680291502,
+        "lng": 103.8529134802915
+      },
+      "southwest": {
+        "lat": 1.298781719708498,
+        "lng": 103.8502155197085
+      }
+    }
+  },
+  "name": "Lim Hak Tai Gallery",
+  "place_id": "ChIJhzeqWWQZ2jERo5prHH16Po0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Bongshi Bipul Raj bp (Raj Bipul)",
+      "author_url": "https://www.google.com/maps/contrib/111841480462353509179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxUXQoNpAOROk0L83bTTpmMec1yuSe_wFANYu4EPzvToZn6FoF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Nice place",
+      "time": 1717644878,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10177706885670214307",
+  "user_ratings_total": 1,
+  "vicinity": "90 Bencoolen Street, Singapore"
+}

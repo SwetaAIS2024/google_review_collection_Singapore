@@ -1,0 +1,29 @@
+{
+  "formatted_address": "73 Upper Paya Lebar Rd, #05-01, Singapore 534818",
+  "geometry": {
+    "location": {
+      "lat": 1.3367985,
+      "lng": 103.887077
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338081080291502,
+        "lng": 103.8884371802915
+      },
+      "southwest": {
+        "lat": 1.335383119708498,
+        "lng": 103.8857392197085
+      }
+    }
+  },
+  "name": "MDC Church",
+  "place_id": "ChIJrY7LAiAY2jERztnghOuyWEs",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5429286075411519950",
+  "vicinity": "73 Upper Paya Lebar Road, #05-01"
+}

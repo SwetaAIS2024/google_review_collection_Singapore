@@ -1,0 +1,65 @@
+{
+  "formatted_address": "90 Yishun Central, Tower A, Level B1, Singapore 768828",
+  "geometry": {
+    "location": {
+      "lat": 1.4236176,
+      "lng": 103.8380584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424963030291502,
+        "lng": 103.8394953302915
+      },
+      "southwest": {
+        "lat": 1.422265069708498,
+        "lng": 103.8367973697085
+      }
+    }
+  },
+  "name": "DBS ATM - Khoo Teck Puat Hospital",
+  "place_id": "ChIJowPAefcV2jERXkamcNDjCco",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "C A",
+      "author_url": "https://www.google.com/maps/contrib/108231180602368353195/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxwEbawBgTYd15pIUSJJeuzaoRKlM00LEWow4k2Dv_hxnKNeg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "This hospital can be better. Need to be improve.",
+      "time": 1536506644,
+      "translated": false
+    },
+    {
+      "author_name": "Md khamis Ahmat",
+      "author_url": "https://www.google.com/maps/contrib/100414448587384571441/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXFz9lB3-Lw5mTc32fSOPm-_y9kBhvpsMvHoWVhAIU8s3WMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707376915,
+      "translated": false
+    },
+    {
+      "author_name": "calvin ku",
+      "author_url": "https://www.google.com/maps/contrib/100374271366213044134/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCbA1Ue7awmDL_w_NyFH8XzkczQUi-9KOj1eOvziZFVLruC0n9mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530229712,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14558417754834486878",
+  "user_ratings_total": 3,
+  "vicinity": "90 Yishun Central, Tower A, Level B1"
+}

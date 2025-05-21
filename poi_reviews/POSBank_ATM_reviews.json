@@ -1,0 +1,53 @@
+{
+  "formatted_address": "32 New Market Rd, Singapore 050032",
+  "geometry": {
+    "location": {
+      "lat": 1.2849209,
+      "lng": 103.8426336
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286302530291502,
+        "lng": 103.8439492802915
+      },
+      "southwest": {
+        "lat": 1.283604569708498,
+        "lng": 103.8412513197085
+      }
+    }
+  },
+  "name": "POSBank ATM",
+  "place_id": "ChIJwzftj3QZ2jER58ZVlUMq75w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Thirawat Rahannok",
+      "author_url": "https://www.google.com/maps/contrib/109833445743739934282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnjr8hqFmofKc8v8WkB7yhG0b-ND4zBY-uU1WcIpjwc8Leag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589772303,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502025909,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11308303659107206887",
+  "user_ratings_total": 2,
+  "vicinity": "32 New Market Road"
+}

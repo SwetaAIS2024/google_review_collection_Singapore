@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 575757",
+  "geometry": {
+    "location": {
+      "lat": 1.378201,
+      "lng": 103.835255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379454580291502,
+        "lng": 103.8366395802915
+      },
+      "southwest": {
+        "lat": 1.376756619708498,
+        "lng": 103.8339416197085
+      }
+    }
+  },
+  "name": "Anu nayaka",
+  "place_id": "ChIJR9G6SgAX2jERGbILKRsEIww",
+  "types": [
+    "campground",
+    "park",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=874547267339268633",
+  "vicinity": "Singapore"
+}

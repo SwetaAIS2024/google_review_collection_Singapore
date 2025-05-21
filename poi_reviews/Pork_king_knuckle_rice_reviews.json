@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Bukit Panjang Ring Rd, #01-16, Singapore 679947",
+  "geometry": {
+    "location": {
+      "lat": 1.3774528,
+      "lng": 103.7724027
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378942980291502,
+        "lng": 103.7736502802915
+      },
+      "southwest": {
+        "lat": 1.376245019708498,
+        "lng": 103.7709523197085
+      }
+    }
+  },
+  "name": "Pork king knuckle rice",
+  "place_id": "ChIJ305gZAAR2jERMPDdMh2y54U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mark njy",
+      "author_url": "https://www.google.com/maps/contrib/108846647121998112035/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtEiau_zyA8OejeLHjgeU8C_ASqMrAAlG2WLe2E1NwBrCFLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747805206,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9648876565141778480",
+  "user_ratings_total": 1,
+  "vicinity": "2 Bukit Panjang Ring Road, #01-16, Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3367079,
+      "lng": 103.9040309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338063380291502,
+        "lng": 103.9054132802915
+      },
+      "southwest": {
+        "lat": 1.335365419708498,
+        "lng": 103.9027153197085
+      }
+    }
+  },
+  "name": "Empire Technocentre",
+  "place_id": "ChIJaZhwauUX2jER9xoS7T0ybuE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "junshi wang",
+      "author_url": "https://www.google.com/maps/contrib/110661348423702757234/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1BULCysoQ16wx5EnJ1RqFn7nSlBVeUIVr0hfwfUfCfp75Rjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564580896,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16243976147523738359",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

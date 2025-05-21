@@ -1,0 +1,52 @@
+{
+  "formatted_address": "300 Bishan Rd, Singapore 579828",
+  "geometry": {
+    "location": {
+      "lat": 1.359262,
+      "lng": 103.852445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360713180291502,
+        "lng": 103.8538993302915
+      },
+      "southwest": {
+        "lat": 1.358015219708498,
+        "lng": 103.8512013697085
+      }
+    }
+  },
+  "name": "SMRT Buses Ltd",
+  "place_id": "ChIJRfX5iRsX2jERpbdhAtEBNyg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Margaret Yong",
+      "author_url": "https://www.google.com/maps/contrib/101546262953792748925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNdHdWEw9KfDMYQlTDzM0lnDPfcK_yirVvit-w1tOsN8EQdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706865665,
+      "translated": false
+    },
+    {
+      "author_name": "Syam Ismail",
+      "author_url": "https://www.google.com/maps/contrib/117350869858019650387/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuqGWEaAuoUXH-TME6qWoODEEdIV4YrhnOnXHsWd_kbYFTjQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1466738743,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2897786882435954597",
+  "user_ratings_total": 2,
+  "vicinity": "300 Bishan Road"
+}

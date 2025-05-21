@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 Punggol E, Singapore 828826",
+  "geometry": {
+    "location": {
+      "lat": 1.3944627,
+      "lng": 103.916914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395969530291502,
+        "lng": 103.9180207802915
+      },
+      "southwest": {
+        "lat": 1.393271569708498,
+        "lng": 103.9153228197085
+      }
+    }
+  },
+  "name": "SprusUp with Greens",
+  "place_id": "ChIJT4uWIR892jERBuZCFy09PM0",
+  "types": [
+    "park",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14788762540250949126",
+  "vicinity": "50 Punggol East"
+}

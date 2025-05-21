@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Napier Rd, #01-31, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3070584,
+      "lng": 103.8199687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308439880291502,
+        "lng": 103.8212468802915
+      },
+      "southwest": {
+        "lat": 1.305741919708498,
+        "lng": 103.8185489197085
+      }
+    }
+  },
+  "name": "Oncology Centre",
+  "place_id": "ChIJ6cuDPiAa2jER4CxX-XyJR0s",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5424455446043241696",
+  "vicinity": "6A Napier Road, #01-31"
+}

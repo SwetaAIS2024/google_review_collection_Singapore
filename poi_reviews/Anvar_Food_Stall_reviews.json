@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3161111,
+      "lng": 103.8055428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317245430291502,
+        "lng": 103.8068565802915
+      },
+      "southwest": {
+        "lat": 1.314547469708498,
+        "lng": 103.8041586197085
+      }
+    }
+  },
+  "name": "Anvar Food Stall",
+  "place_id": "ChIJx5HXJy8b2jERwJnwXUr4z1Y",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6255491405728225728",
+  "vicinity": ""
+}

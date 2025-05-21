@@ -1,0 +1,54 @@
+{
+  "formatted_address": "12 Pari Dedap Walk, Singapore 486063",
+  "geometry": {
+    "location": {
+      "lat": 1.3315465,
+      "lng": 103.9418856
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333002580291502,
+        "lng": 103.9432454302915
+      },
+      "southwest": {
+        "lat": 1.330304619708498,
+        "lng": 103.9405474697085
+      }
+    }
+  },
+  "name": "Anglican High School Backgate",
+  "place_id": "ChIJAwohlTY92jERydQH87DOKbE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Gregory Athanasius",
+      "author_url": "https://www.google.com/maps/contrib/101240389824842882822/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ1S71i5tG3M2LeuMrmDao8IOBC-y287tYxI59HVgc9eYcoOPg6w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Backgate from Anglican High School. Accessible for students to exit",
+      "time": 1492274009,
+      "translated": false
+    },
+    {
+      "author_name": "kok seng tee",
+      "author_url": "https://www.google.com/maps/contrib/106187917559420464988/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVECqf1vLTDMFQNqJNDQXXgpEIthQl-8fQ8-MkS2aYKLvGKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658036111,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12765961878145324233",
+  "user_ratings_total": 2,
+  "vicinity": "12 Pari Dedap Walk"
+}

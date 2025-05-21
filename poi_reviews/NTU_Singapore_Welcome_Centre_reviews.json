@@ -1,0 +1,44 @@
+{
+  "formatted_address": "11 Faculty Ave, Singapore 639977",
+  "geometry": {
+    "location": {
+      "lat": 1.3475223,
+      "lng": 103.6832963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348900030291502,
+        "lng": 103.6847731302915
+      },
+      "southwest": {
+        "lat": 1.346202069708498,
+        "lng": 103.6820751697085
+      }
+    }
+  },
+  "name": "NTU Singapore Welcome Centre",
+  "place_id": "ChIJcYLvBq0P2jERTnbGivrZ-ug",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "foxfoxesfox",
+      "author_url": "https://www.google.com/maps/contrib/102774677208360197980/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgh2HXWBNTtV2JOKPNOhFlfD-y8u3DzjaQavRWlZqs-SnjtYC0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Very chill place",
+      "time": 1724137403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16787970231070258766",
+  "user_ratings_total": 1,
+  "vicinity": "11 Faculty Avenue"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Jln Anak Bukit, Bukit Timah Rd, #01-19, Singapore 588996",
+  "geometry": {
+    "location": {
+      "lat": 1.3386667,
+      "lng": 103.7787234
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340056330291502,
+        "lng": 103.7800955802915
+      },
+      "southwest": {
+        "lat": 1.337358369708498,
+        "lng": 103.7773976197085
+      }
+    }
+  },
+  "name": "DBS CDM (Coin Deposit Machine) - DBS BUKIT TIMAH BRANCH",
+  "place_id": "ChIJNX23OBIR2jERKppRggK8W_g",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Veni Kumar",
+      "author_url": "https://www.google.com/maps/contrib/101650976251945150614/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNx3fxt6_Sj8Z7A16hXoNfcNqCiiPp88e-kN6JDXJFJkg_CdSLTQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "12 months ago",
+      "text": "No coin deposit machine here. Wasted my time driving all the way here.",
+      "time": 1716362900,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17896104263249140266",
+  "user_ratings_total": 1,
+  "vicinity": "1 Jln Anak Bukit, Bukit Timah Road, #01-19"
+}

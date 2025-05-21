@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Fulton Ave, Singapore 578996",
+  "geometry": {
+    "location": {
+      "lat": 1.3621153,
+      "lng": 103.833491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363462140674062,
+        "lng": 103.8348996684774
+      },
+      "southwest": {
+        "lat": 1.360764180091058,
+        "lng": 103.8322017078944
+      }
+    }
+  },
+  "name": "Fulton Avenue Playground",
+  "place_id": "ChIJuzMj0ScX2jERTL2lhI09V7E",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Fulton+Ave,+Singapore+578996&ftid=0x31da1727d12333bb:0xb1573d8d84a5bd4c",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "209 Hougang St 21, #01-22, Singapore 530209",
+  "geometry": {
+    "location": {
+      "lat": 1.3592629,
+      "lng": 103.8857139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360125030291502,
+        "lng": 103.8873811302915
+      },
+      "southwest": {
+        "lat": 1.357427069708498,
+        "lng": 103.8846831697085
+      }
+    }
+  },
+  "name": "Tian Cheng",
+  "place_id": "ChIJvU53AbQX2jERWtBZAIKKTks",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Jason Wong",
+      "author_url": "https://www.google.com/maps/contrib/117760508835896261303/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1erh52bKqFtbKy5iFV2KKaTeR5yXmiAViW6CnHjVyD5h8lbU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Been buying from the same gentleman since 20y now. Always keeps the place very clean. Fresh juice is delicious.",
+      "time": 1744042292,
+      "translated": false
+    },
+    {
+      "author_name": "Desmond",
+      "author_url": "https://www.google.com/maps/contrib/104127654215340417685/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU1IL2hG7Z4ti01N6G_5joX85zE4qU3WS6U4DC7yjRBmIG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "Overpriced and diluted. Mixed apple juice into our dragonfruit juice order. Suggest you buy from the other store at the other end of the food centre.",
+      "time": 1586007155,
+      "translated": false
+    },
+    {
+      "author_name": "sharon wong",
+      "author_url": "https://www.google.com/maps/contrib/108196146874206091679/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw_9Zi8BidFXSoRXczWU5MMaj-N6rZqXaW6wI-ywlvtG-5fQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662643299,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5426426891984293978",
+  "user_ratings_total": 3,
+  "vicinity": "209 Hougang Street 21, #01-22, Singapore"
+}

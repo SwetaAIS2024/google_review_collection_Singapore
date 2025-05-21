@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337152,
+      "lng": 103.752266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338487130291502,
+        "lng": 103.7536394802915
+      },
+      "southwest": {
+        "lat": 1.335789169708498,
+        "lng": 103.7509415197085
+      }
+    }
+  },
+  "name": "Alliance Bldg",
+  "place_id": "ChIJZUoSTW0Q2jERf7DO_MMhP8o",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "3 bus service",
+      "time": 1629777962,
+      "translated": false
+    },
+    {
+      "author_name": "Sel Vin",
+      "author_url": "https://www.google.com/maps/contrib/111828497949427153885/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkFXi1lKUXKeYWVjuBlBuBfYAtd-6O3JVx_BeA-VD2q-XJ_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507388994,
+      "translated": false
+    },
+    {
+      "author_name": "Suresh Se",
+      "author_url": "https://www.google.com/maps/contrib/114449809395832211700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg9FBHTuJvtgz1imHChi4NWkT03dolu9NqrS4PATp40MmxiQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490886331,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14573404044837957759",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

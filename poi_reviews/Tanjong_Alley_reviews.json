@@ -1,0 +1,66 @@
+{
+  "formatted_address": "21 Tg Pagar Rd, Singapore 088444",
+  "geometry": {
+    "location": {
+      "lat": 1.2794614,
+      "lng": 103.8440827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280751630291502,
+        "lng": 103.8453355802915
+      },
+      "southwest": {
+        "lat": 1.278053669708498,
+        "lng": 103.8426376197085
+      }
+    }
+  },
+  "name": "Tanjong Alley",
+  "place_id": "ChIJOY_WUnUZ2jER1bs9EAqRB-k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Beautiful heritage building.",
+      "time": 1732970364,
+      "translated": false
+    },
+    {
+      "author_name": "Cem Baser",
+      "author_url": "https://www.google.com/maps/contrib/102782683605024542671/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9AF3Qau1qKoAm9uA33t83yaqzcPsOGC79uVjfgOKt7eTbsjlH=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613794346,
+      "translated": false
+    },
+    {
+      "author_name": "EN SABBIR",
+      "author_url": "https://www.google.com/maps/contrib/115122477472366850171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiuAwY2h0r2iGurMc_0HfAzK-32qNVNzWuS2Tn8FeFgUvrl-nz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609746819,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16791549208082365397",
+  "user_ratings_total": 3,
+  "vicinity": "21 Tanjong Pagar Road"
+}

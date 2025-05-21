@@ -1,0 +1,86 @@
+{
+  "formatted_address": "10 Jurong West Street 65, Singapore 648135",
+  "geometry": {
+    "location": {
+      "lat": 1.341877,
+      "lng": 103.7002932
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343294430291502,
+        "lng": 103.7018698802915
+      },
+      "southwest": {
+        "lat": 1.340596469708498,
+        "lng": 103.6991719197085
+      }
+    }
+  },
+  "name": "My First School at 10 Jurong West",
+  "place_id": "ChIJrd0LwpMP2jERfZPVEFnH4yM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "M S",
+      "author_url": "https://www.google.com/maps/contrib/116876568789013867218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfH5NlaJLOrcwG_2OMwc9HnOvxkcVirKHRbDrPqlwgPgTlSg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent centre. Teachers, principal and staff are very caring. Highly recommended",
+      "time": 1697520181,
+      "translated": false
+    },
+    {
+      "author_name": "BOON TIANG KOH",
+      "author_url": "https://www.google.com/maps/contrib/104047150267659802463/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQyTrTBqJ0cHgMoAOGMPVYCoJOiaF2xZgFHlfBf9du8LQIWnE-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Excelent childcare centre",
+      "time": 1490979100,
+      "translated": false
+    },
+    {
+      "author_name": "Germain Tan",
+      "author_url": "https://www.google.com/maps/contrib/102317682731136125887/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM94mK1FzrQeGKJdNqi4aG4IRSO_ru6FoBcEIVkrVBJuULY-r8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740328054,
+      "translated": false
+    },
+    {
+      "author_name": "Maggie Lim",
+      "author_url": "https://www.google.com/maps/contrib/117022653514636633770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQIBPMNIFtbJLK6p6iwUBhVV9GJv2YjlpTd_mn8JKAGJ8WEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511342753,
+      "translated": false
+    },
+    {
+      "author_name": "Belinda Chng",
+      "author_url": "https://www.google.com/maps/contrib/116280032946341098569/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe8Bjdxo1RRmqyo2H9l2UMKqj6BVciNofl01c-ZpuGf8CXqKec=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491316572,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2586129796389245821",
+  "user_ratings_total": 5,
+  "vicinity": "10 Jurong West Street 65"
+}

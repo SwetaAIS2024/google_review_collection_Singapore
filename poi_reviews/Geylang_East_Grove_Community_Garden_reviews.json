@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3178767,
+      "lng": 103.8875998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319250980291502,
+        "lng": 103.8889054302915
+      },
+      "southwest": {
+        "lat": 1.316553019708498,
+        "lng": 103.8862074697085
+      }
+    }
+  },
+  "name": "Geylang East Grove Community Garden",
+  "place_id": "ChIJQzgMhyEZ2jER9tkLY0QbD8A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Anderson Lee",
+      "author_url": "https://www.google.com/maps/contrib/106641007624650475962/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu_LbYT9WKmJp4ZH_WZKTNISTSVCPEW4xJYVwrGp4A63FbrIY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Full of enthusiasm and fun activities",
+      "time": 1691833867,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Muzaffar Rudy Iskandar (Gmss)",
+      "author_url": "https://www.google.com/maps/contrib/102581395820545022255/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfwNTelA4u9XEZLnJlwDcoNpv-6QDJH2FAJBmFda8JFVBzIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "very peaceful vibe",
+      "time": 1700459339,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13839310160466270710",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

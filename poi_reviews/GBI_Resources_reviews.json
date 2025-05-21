@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Marine Ter, Block 8, Singapore 440008",
+  "geometry": {
+    "location": {
+      "lat": 1.3044386,
+      "lng": 103.9160044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305805080291502,
+        "lng": 103.9173151302915
+      },
+      "southwest": {
+        "lat": 1.303107119708498,
+        "lng": 103.9146171697085
+      }
+    }
+  },
+  "name": "GBI Resources",
+  "place_id": "ChIJp23OR54i2jEREV8V1h2pzH4",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9136863689638764305",
+  "vicinity": "8 Marine Terrace, Block 8, Singapore"
+}

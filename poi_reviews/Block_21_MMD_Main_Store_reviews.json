@@ -1,0 +1,29 @@
+{
+  "formatted_address": "378 Alexandra Rd, Singapore 159964",
+  "geometry": {
+    "location": {
+      "lat": 1.2866082,
+      "lng": 103.7995842
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287985330291502,
+        "lng": 103.8010704302915
+      },
+      "southwest": {
+        "lat": 1.285287369708498,
+        "lng": 103.7983724697085
+      }
+    }
+  },
+  "name": "Block 21 MMD Main Store",
+  "place_id": "ChIJi0-cw8wb2jERcbePbuj3Apc",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10881532227339925361",
+  "vicinity": "378 Alexandra Road, Singapore"
+}

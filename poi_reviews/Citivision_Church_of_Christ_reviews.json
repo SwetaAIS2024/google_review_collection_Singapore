@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Bras Basah Complex, Blk 231 Bain St, #02-23, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2965659,
+      "lng": 103.8537814
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298172280291502,
+        "lng": 103.8552982302915
+      },
+      "southwest": {
+        "lat": 1.295474319708498,
+        "lng": 103.8526002697085
+      }
+    }
+  },
+  "name": "Citivision Church of Christ",
+  "place_id": "ChIJh3Vsf7MZ2jERjiIrghnUlP8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dick Ong",
+      "author_url": "https://www.google.com/maps/contrib/104184820598401188399/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6qNV0lQsoCSy7539rwyoRF3SotQ1R_2o_jiE83m-iRNKA6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Good.",
+      "time": 1552551824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18416577982247936654",
+  "user_ratings_total": 1,
+  "vicinity": "Bras Basah Complex, Blk 231 Bain Street, #02-23, Singapore"
+}

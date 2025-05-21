@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2606428,
+      "lng": 103.7129937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.261987330291502,
+        "lng": 103.7143402302915
+      },
+      "southwest": {
+        "lat": 1.259289369708498,
+        "lng": 103.7116422697085
+      }
+    }
+  },
+  "name": "Tanjong Perpat Mati",
+  "place_id": "ChIJVdujq0wF2jERSg6fvHX8bmY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7381114421912735306",
+  "vicinity": "Jurong Island"
+}

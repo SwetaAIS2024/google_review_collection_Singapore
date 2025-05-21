@@ -1,0 +1,30 @@
+{
+  "formatted_address": "26 Jalan Berseh, Singapura 200026",
+  "geometry": {
+    "location": {
+      "lat": 1.3058952,
+      "lng": 103.8579195
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307490130291502,
+        "lng": 103.8594624802915
+      },
+      "southwest": {
+        "lat": 1.304792169708498,
+        "lng": 103.8567645197085
+      }
+    }
+  },
+  "name": "Jars Minimart",
+  "place_id": "ChIJ3T3R5bcZ2jERAdgx84Vj3Jo",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11158903403679176705",
+  "vicinity": "26 Jalan Berseh, Singapura"
+}

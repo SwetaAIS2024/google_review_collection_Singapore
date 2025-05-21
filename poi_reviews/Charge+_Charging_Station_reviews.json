@@ -1,0 +1,27 @@
+{
+  "formatted_address": "408 Jurong West Street 42, Singapore 604408",
+  "geometry": {
+    "location": {
+      "lat": 1.3545284,
+      "lng": 103.7227124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355874780291502,
+        "lng": 103.7240602302915
+      },
+      "southwest": {
+        "lat": 1.353176819708498,
+        "lng": 103.7213622697085
+      }
+    }
+  },
+  "name": "Charge+ Charging Station",
+  "place_id": "ChIJm7fvG9oP2jEROQ-XsGu4IoM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9449317740840423225",
+  "vicinity": "408 Jurong West Street 42, Singapore"
+}

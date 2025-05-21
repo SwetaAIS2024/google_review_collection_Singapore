@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.25641,
+      "lng": 103.821523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257607180291502,
+        "lng": 103.8229593802915
+      },
+      "southwest": {
+        "lat": 1.254909219708498,
+        "lng": 103.8202614197085
+      }
+    }
+  },
+  "name": "Resorts World Sentosa (Basement 1)",
+  "place_id": "ChIJ24BrAP4b2jER4A1ZR8SA_1U",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "DragoonsaN Lee",
+      "author_url": "https://www.google.com/maps/contrib/100376698185486316895/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKI7fOpGjC25_ciS0mv9Mv8qmLcxloiLhi9VNCdO4paRlI5-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Transfer hub from internal bus route is convenient.",
+      "time": 1657374936,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Shin",
+      "author_url": "https://www.google.com/maps/contrib/109615876141101884441/reviews",
+      "language": "en-US",
+      "original_language": "ko",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwOyafGBqzkYGfw2ty4LGl7UEmFWFS-VwvexgCZFQi1oNcNQTqvw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "There are many souvenir shops and shops selling candies, chocolates, jellies, etc. within Universal Studios.",
+      "time": 1677633526,
+      "translated": true
+    },
+    {
+      "author_name": "soyal khan",
+      "author_url": "https://www.google.com/maps/contrib/108356729700607010915/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4Lmaxoa6VthWGFBcnV_wl5weq-JeWBOqW0DPJ8XEYY6u7iLGUfQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745320724,
+      "translated": false
+    },
+    {
+      "author_name": "Parthipan Parthipan",
+      "author_url": "https://www.google.com/maps/contrib/101465906697781748437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURcSRhWSqX1i4vZiKbijejD--M_Vl-8nj6kn3FkT3TYtgRAh8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743872596,
+      "translated": false
+    },
+    {
+      "author_name": "Sanjay Shrestha",
+      "author_url": "https://www.google.com/maps/contrib/106985916997060366935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1F5NtI1qLfV4Hy7DfoIxkf-z-_WUNMpdyEpnbvj49bQecEgs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726557425,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6196813192784055776",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

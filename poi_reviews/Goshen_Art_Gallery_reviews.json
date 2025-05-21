@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Blk 1 Beach Rd, UNIT 01-4767, Singapore 190001",
+  "geometry": {
+    "location": {
+      "lat": 1.3035543,
+      "lng": 103.8646977
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304673780291502,
+        "lng": 103.8659296302915
+      },
+      "southwest": {
+        "lat": 1.301975819708498,
+        "lng": 103.8632316697085
+      }
+    }
+  },
+  "name": "Goshen Art Gallery",
+  "place_id": "ChIJj8ZB45YZ2jEREtAUHHhsXr4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Aina Mariam",
+      "author_url": "https://www.google.com/maps/contrib/116601248487688625624/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyCSWUqYDRtxnI3ZrNGr9T8ctnmpW-MFv4QuHDmKYOVSIkIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Awesome gallery",
+      "time": 1606800103,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13717520778140110866",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 1 Beach Road, UNIT 01-4767, Singapore"
+}

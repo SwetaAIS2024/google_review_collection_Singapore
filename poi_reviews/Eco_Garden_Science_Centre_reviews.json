@@ -1,0 +1,68 @@
+{
+  "formatted_address": "15 Science Centre Rd, Singapore 609081",
+  "geometry": {
+    "location": {
+      "lat": 1.3336427,
+      "lng": 103.7354091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335323630291502,
+        "lng": 103.7366518802915
+      },
+      "southwest": {
+        "lat": 1.332625669708498,
+        "lng": 103.7339539197085
+      }
+    }
+  },
+  "name": "Eco Garden Science Centre",
+  "place_id": "ChIJZQQazH8R2jER8QlD4ZG61jU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Simple Life",
+      "author_url": "https://www.google.com/maps/contrib/108648917713191446336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYea9EUIISfkgWx_BstGGyCyhsh769k-R4HZe8BoJyPH9bKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good place for kids to be in a mini park after learning about science in science centre",
+      "time": 1644309049,
+      "translated": false
+    },
+    {
+      "author_name": "Wendy. Wendy",
+      "author_url": "https://www.google.com/maps/contrib/100389282124212839968/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuJrDwJ5Io3261aRvgWDBZlw2F2Fr2-iZtN4c-wNyEDXTbCPtevQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good place to learn more about various gardenplants, herb and fruit trees.",
+      "time": 1708240942,
+      "translated": false
+    },
+    {
+      "author_name": "Reader King",
+      "author_url": "https://www.google.com/maps/contrib/108994972786094950798/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh3UO0kNjmbDn86yMptAvX0qqKMEB04BxxyxLI1ViZqDIc95c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "not my place but nice.",
+      "time": 1542363417,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3879493264738552305",
+  "user_ratings_total": 3,
+  "vicinity": "15 Science Centre Road"
+}

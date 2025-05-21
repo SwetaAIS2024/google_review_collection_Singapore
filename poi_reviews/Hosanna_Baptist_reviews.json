@@ -1,0 +1,29 @@
+{
+  "formatted_address": "192 Waterloo St, Singapore 187966",
+  "geometry": {
+    "location": {
+      "lat": 1.3012383,
+      "lng": 103.8531772
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302584930291502,
+        "lng": 103.8546523302915
+      },
+      "southwest": {
+        "lat": 1.299886969708498,
+        "lng": 103.8519543697085
+      }
+    }
+  },
+  "name": "Hosanna Baptist",
+  "place_id": "ChIJIdbbrbsZ2jERiZCIYe0Pk6U",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11930897350052581513",
+  "vicinity": "192 Waterloo Street"
+}

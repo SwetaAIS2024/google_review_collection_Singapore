@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Maritime Square, #01-ATM-3 Harbourfront Passenger Terminal, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2640983,
+      "lng": 103.8202796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265322780291502,
+        "lng": 103.8216571802915
+      },
+      "southwest": {
+        "lat": 1.262624819708498,
+        "lng": 103.8189592197085
+      }
+    }
+  },
+  "name": "UOB ATM - Harbourfront Passenger Terminal",
+  "place_id": "ChIJj9mCql0b2jERSk0rcoQn24Q",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9573288882710728010",
+  "vicinity": "1 Maritime Square, #01-ATM-3 Harbourfront Passenger Terminal"
+}

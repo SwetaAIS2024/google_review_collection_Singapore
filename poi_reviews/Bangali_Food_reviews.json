@@ -1,0 +1,89 @@
+{
+  "formatted_address": "18 Kaki Bukit Rd 3, Singapore 415978",
+  "geometry": {
+    "location": {
+      "lat": 1.3372364,
+      "lng": 103.9031258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338660330291502,
+        "lng": 103.9045367302915
+      },
+      "southwest": {
+        "lat": 1.335962369708498,
+        "lng": 103.9018387697085
+      }
+    }
+  },
+  "name": "Bangali Food",
+  "place_id": "ChIJEdZlY-UX2jER1_8hamnxmjg",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "Superb Lim",
+      "author_url": "https://www.google.com/maps/contrib/104288481888263625218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR4J4TJNCGgN8_8f9jzv7eXkzX51cVx16kyKN8ZRrCYfl17CvA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Curry sometimes served cold. Better if warm the curry. Room for improvement.",
+      "time": 1531735948,
+      "translated": false
+    },
+    {
+      "author_name": "samiul islam",
+      "author_url": "https://www.google.com/maps/contrib/101923454686148817011/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-ks9iVlVxo4IuYtF7KBJnmOJ2vSE_12a_yWivWlT8Hq6E9ET9=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Good",
+      "time": 1520034396,
+      "translated": false
+    },
+    {
+      "author_name": "salim abdullah",
+      "author_url": "https://www.google.com/maps/contrib/110899053102809183327/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi-QwGPmujisrT_KDLSAGAzhmGdm7qN1zg0RWkRpbp_k-7gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Best for capati",
+      "time": 1514593837,
+      "translated": true
+    },
+    {
+      "author_name": "Jagan Karra",
+      "author_url": "https://www.google.com/maps/contrib/103968617860622574153/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURk8BCMKhVL967H2fuolySj8YUr_aDXk-hyzqCEM-D4rxaJn4jKg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565367180,
+      "translated": false
+    },
+    {
+      "author_name": "Radzaly M N",
+      "author_url": "https://www.google.com/maps/contrib/108730115592740233057/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUm2tgk-wsHl1mYxLI7vFpBYEo8IM1roxOpqru9IyUJY9qHh8k=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557793972,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4078837847591878615",
+  "user_ratings_total": 10,
+  "vicinity": "18 Kaki Bukit Road 3"
+}

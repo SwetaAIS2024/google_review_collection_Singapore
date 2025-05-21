@@ -1,0 +1,29 @@
+{
+  "formatted_address": "80 Marine Parade Rd, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3011289,
+      "lng": 103.9057684
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302560080291502,
+        "lng": 103.9072335802915
+      },
+      "southwest": {
+        "lat": 1.299862119708498,
+        "lng": 103.9045356197085
+      }
+    }
+  },
+  "name": "Dr Khoo Boo Chai",
+  "place_id": "ChIJDWQ6CHEY2jERuCuxkY-3UAE",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=94777419427294136",
+  "vicinity": "80 Marine Parade Road, Singapore"
+}

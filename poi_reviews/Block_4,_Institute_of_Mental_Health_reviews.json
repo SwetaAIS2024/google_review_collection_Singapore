@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Buangkok View, Singapore 539747",
+  "geometry": {
+    "location": {
+      "lat": 1.382919,
+      "lng": 103.8833963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384280230291502,
+        "lng": 103.8847635302915
+      },
+      "southwest": {
+        "lat": 1.381582269708498,
+        "lng": 103.8820655697085
+      }
+    }
+  },
+  "name": "Block 4, Institute of Mental Health",
+  "place_id": "ChIJVdGI22kW2jERH9_IxVZL-Gg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sweetsmile306",
+      "author_url": "https://www.google.com/maps/contrib/108644965367539523167/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx5T3Wu-aXlYu8lMlDrPIc3TM3WljKPD5qLdlZlTd9AtVyxPSf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745292123,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7563878410226294559",
+  "user_ratings_total": 1,
+  "vicinity": "10 Buangkok View"
+}

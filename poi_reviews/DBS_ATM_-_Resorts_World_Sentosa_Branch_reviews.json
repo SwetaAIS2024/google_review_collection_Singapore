@@ -1,0 +1,43 @@
+{
+  "formatted_address": "26 Sentosa Gateway, #01-205/206 Resorts World Sentosa, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2575639,
+      "lng": 103.8225089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258941430291502,
+        "lng": 103.8244356302915
+      },
+      "southwest": {
+        "lat": 1.256243469708498,
+        "lng": 103.8217376697085
+      }
+    }
+  },
+  "name": "DBS ATM - Resorts World Sentosa Branch",
+  "place_id": "ChIJCZAGNQYZ2jERLrzcgkLglRM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Joel Lin",
+      "author_url": "https://www.google.com/maps/contrib/114512980272532768624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh6uCmGWGD9qabGLrcez5aw6RWaCH96N3-11Q4LhkHbn6HvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1549543891,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1411280634518486062",
+  "user_ratings_total": 1,
+  "vicinity": "26 Sentosa Gateway, #01-205/206 Resorts World Sentosa"
+}

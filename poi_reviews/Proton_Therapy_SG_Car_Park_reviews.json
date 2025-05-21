@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Biopolis Dr, Singapore 138622",
+  "geometry": {
+    "location": {
+      "lat": 1.3012916,
+      "lng": 103.7931872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302640580291502,
+        "lng": 103.7945361802915
+      },
+      "southwest": {
+        "lat": 1.299942619708498,
+        "lng": 103.7918382197085
+      }
+    }
+  },
+  "name": "Proton Therapy SG Car Park",
+  "place_id": "ChIJB4CSPgAb2jERRZquuX4vqiU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2714033946771757637",
+  "vicinity": "1 Biopolis Drive, Singapore"
+}

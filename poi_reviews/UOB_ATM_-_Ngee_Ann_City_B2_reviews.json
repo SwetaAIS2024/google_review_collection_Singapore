@@ -1,0 +1,57 @@
+{
+  "formatted_address": "391 Orchard Road, Basement 2 (near unit, B2-35 Ngee Ann City, Singapore 238872",
+  "geometry": {
+    "location": {
+      "lat": 1.3026716,
+      "lng": 103.8343967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303792430291502,
+        "lng": 103.8357430802915
+      },
+      "southwest": {
+        "lat": 1.301094469708498,
+        "lng": 103.8330451197085
+      }
+    }
+  },
+  "name": "UOB ATM - Ngee Ann City B2",
+  "place_id": "ChIJmzxPwIEZ2jERkaWxMK2NNco",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "You can't possibly miss this stack of ATM machines. It's located right by the basement fountain, next to the large event space that normally holds events. The UOB ATM and the Citibank ATM are next to each other. Quite straightforward that way.",
+      "time": 1696756616,
+      "translated": false
+    },
+    {
+      "author_name": "aacerick",
+      "author_url": "https://www.google.com/maps/contrib/116596839894661907781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZGrrg5bviEGjRkj2ftDx8J12aqQT8fPcQC9mqJsj7JkQKggpW=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "This got uob atm but dont have cash deposit",
+      "time": 1696266132,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14570707944412915089",
+  "user_ratings_total": 2,
+  "vicinity": "391 Orchard Road, Basement 2 (near unit, B2-35 Ngee Ann City"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34179,
+      "lng": 103.68121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343132230291502,
+        "lng": 103.6825528302915
+      },
+      "southwest": {
+        "lat": 1.340434269708498,
+        "lng": 103.6798548697085
+      }
+    }
+  },
+  "name": "Opp SPMS",
+  "place_id": "ChIJhUa34HUP2jERxa-QfbnbH4w",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10097030479310008261",
+  "vicinity": "Singapore"
+}

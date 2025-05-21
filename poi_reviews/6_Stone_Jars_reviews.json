@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Napier Rd, Singapore 258509",
+  "geometry": {
+    "location": {
+      "lat": 1.3051392,
+      "lng": 103.8213332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306528730291502,
+        "lng": 103.8226892302915
+      },
+      "southwest": {
+        "lat": 1.303830769708498,
+        "lng": 103.8199912697085
+      }
+    }
+  },
+  "name": "6 Stone Jars",
+  "place_id": "ChIJpc15-jIb2jERSQGMoVrAoJ0",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11358289755718287689",
+  "vicinity": "30 Napier Road"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2785203,
+      "lng": 103.8015968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279873580291502,
+        "lng": 103.8029112302915
+      },
+      "southwest": {
+        "lat": 1.277175619708498,
+        "lng": 103.8002132697085
+      }
+    }
+  },
+  "name": "Water Garden",
+  "place_id": "ChIJKX-LS8Yb2jERdNNCrbU5VZI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nan Nan",
+      "author_url": "https://www.google.com/maps/contrib/103691360452767825568/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvSwaBJ1Bjkbxb_Tfi_H9BTtowh80AzuCSyzoExHFtOSMDpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Lovely, well grown water plants and very green foliage . clean water and a lot tortles and small fishes .",
+      "time": 1705818421,
+      "translated": false
+    },
+    {
+      "author_name": "Ni ko",
+      "author_url": "https://www.google.com/maps/contrib/105129883496546000558/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZvZnCNeSas4FvhNLxWJOHR-0VkZy5bngBgKndsGYXbJG2Qeza=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Nice clean and well-kept park. Clear recommendation.",
+      "time": 1740239761,
+      "translated": true
+    },
+    {
+      "author_name": "Ziqi Li",
+      "author_url": "https://www.google.com/maps/contrib/102691645686895789231/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuOCfHFSGEzqRgaSctzUq0Md4HM6Ud-wZg20YHDuPbVKCNaOMh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707564204,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10544397555016586100",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

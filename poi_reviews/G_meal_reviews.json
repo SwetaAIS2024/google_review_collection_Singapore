@@ -1,0 +1,46 @@
+{
+  "formatted_address": "New Market Rd, #01-1090, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2853098,
+      "lng": 103.8429724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286771730291502,
+        "lng": 103.8444096302915
+      },
+      "southwest": {
+        "lat": 1.284073769708498,
+        "lng": 103.8417116697085
+      }
+    }
+  },
+  "name": "G meal",
+  "place_id": "ChIJsQ4DHAAZ2jERB_QzHQzd9NQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Benedict Correya",
+      "author_url": "https://www.google.com/maps/contrib/113292377967743781974/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGGK89xGI0xzaALnRSueP9q_XEKHVc_VzRg-FwAWXsA37LqP5y7A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Serves solid fried chicken at an affordable price. The chicken is crispy on the outside, juicy on the inside, and well-seasoned—great value for the price. No frills, just good, satisfying fried chicken that hits the spot. If you're in the area and craving something simple but tasty, this is a place worth checking out.",
+      "time": 1740102175,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15345132874457412615",
+  "user_ratings_total": 1,
+  "vicinity": "New Market Road, #01-1090"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 HarbourFront Ave, #16-05, Singapore 098632",
+  "geometry": {
+    "location": {
+      "lat": 1.264845,
+      "lng": 103.8182947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266216630291502,
+        "lng": 103.8195255302915
+      },
+      "southwest": {
+        "lat": 1.263518669708498,
+        "lng": 103.8168275697085
+      }
+    }
+  },
+  "name": "K+S",
+  "place_id": "ChIJvbMTyeMb2jERULsLT91AQ9g",
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15583370454890167120",
+  "vicinity": "1 HarbourFront Avenue, #16-05"
+}

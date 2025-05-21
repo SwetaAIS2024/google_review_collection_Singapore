@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Hougang Avenue 1, 530170, Singapore 530170",
+  "geometry": {
+    "location": {
+      "lat": 1.3641651,
+      "lng": 103.8929442
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365402430291502,
+        "lng": 103.8940880802915
+      },
+      "southwest": {
+        "lat": 1.362704469708498,
+        "lng": 103.8913901197085
+      }
+    }
+  },
+  "name": "Sea Marshall Singapore",
+  "place_id": "ChIJAQDcNjUW2jERQFJUagJZ74s",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10083375957614547520",
+  "vicinity": "Hougang Avenue 1, 530170"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30824,
+      "lng": 103.92147
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309526930291502,
+        "lng": 103.9228330302915
+      },
+      "southwest": {
+        "lat": 1.306828969708498,
+        "lng": 103.9201350697085
+      }
+    }
+  },
+  "name": "Opp Neptune Ct, Marine Parade Rd",
+  "place_id": "ChIJZ2R_E6Ii2jERFH8VGKmf4n4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9143045742117879572",
+  "vicinity": "Singapore"
+}

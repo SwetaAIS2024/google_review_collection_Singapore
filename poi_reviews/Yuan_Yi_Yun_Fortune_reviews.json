@@ -1,0 +1,45 @@
+{
+  "formatted_address": "261 Waterloo St, Singapore 180261",
+  "geometry": {
+    "location": {
+      "lat": 1.2987598,
+      "lng": 103.8520449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300350980291502,
+        "lng": 103.8533961302915
+      },
+      "southwest": {
+        "lat": 1.297653019708498,
+        "lng": 103.8506981697085
+      }
+    }
+  },
+  "name": "Yuan Yi Yun Fortune",
+  "place_id": "ChIJSy66TLsZ2jERcTPHFx-mAIU",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Miranda cassa",
+      "author_url": "https://www.google.com/maps/contrib/105726470926371002268/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHBthGweVW5qZ1CBFBkysIwJP_XpXvR154m4d7GAchflXm_no=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "Visit for entertainment only.",
+      "time": 1613986816,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9583842659517543281",
+  "user_ratings_total": 1,
+  "vicinity": "261 Waterloo Street"
+}

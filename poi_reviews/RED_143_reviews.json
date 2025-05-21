@@ -1,0 +1,29 @@
+{
+  "formatted_address": "143 Cecil St, #01-01 GB Building, Singapore 069542",
+  "geometry": {
+    "location": {
+      "lat": 1.2787957,
+      "lng": 103.8481161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280218930291502,
+        "lng": 103.8494436802915
+      },
+      "southwest": {
+        "lat": 1.277520969708498,
+        "lng": 103.8467457197085
+      }
+    }
+  },
+  "name": "RED 143",
+  "place_id": "ChIJUT0fuEwZ2jER6GElsKkVjDk",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4146713175450280424",
+  "vicinity": "143 Cecil Street, #01-01 GB Building"
+}

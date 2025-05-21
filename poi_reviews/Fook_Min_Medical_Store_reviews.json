@@ -1,0 +1,30 @@
+{
+  "formatted_address": "629 Ang Mo Kio Ave 4, Singapore 560629",
+  "geometry": {
+    "location": {
+      "lat": 1.3805702,
+      "lng": 103.8406549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381954480291502,
+        "lng": 103.8420643302915
+      },
+      "southwest": {
+        "lat": 1.379256519708498,
+        "lng": 103.8393663697085
+      }
+    }
+  },
+  "name": "Fook Min Medical Store",
+  "place_id": "ChIJlw6C38AW2jERG9z0O3cHj7E",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12794453275071274011",
+  "vicinity": "629 Ang Mo Kio Avenue 4, Singapore"
+}

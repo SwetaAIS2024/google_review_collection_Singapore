@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore, Jellicoe Rd, 70号, V Hotel Lavender, #01-15 邮政编码: 208767",
+  "geometry": {
+    "location": {
+      "lat": 1.3080123,
+      "lng": 103.862551
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309376780291502,
+        "lng": 103.8638029802915
+      },
+      "southwest": {
+        "lat": 1.306678819708498,
+        "lng": 103.8611050197085
+      }
+    }
+  },
+  "name": "口口香 Kou Kou Xiang(鸡爪卤货香肠小吃店）",
+  "place_id": "ChIJKTp7NM4Z2jERMWnCFDbrRcM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "甘丽",
+      "author_url": "https://www.google.com/maps/contrib/100957771747758247379/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi1efvqvyJ5wMomrl97Uaw60Hsm7-id37THwwM5WUlqfRXaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Tastes good, fresh ingredients, beautiful prices",
+      "time": 1731051064,
+      "translated": true
+    },
+    {
+      "author_name": "楼勇",
+      "author_url": "https://www.google.com/maps/contrib/108434524926563801436/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnrGTpuUWohmZBzvy0OhMR8c5DJeCSo2YLVspGiT3iOXubPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731488459,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14070911228298029361",
+  "user_ratings_total": 2,
+  "vicinity": "70 Jellicoe Road, #01-15 V Hotel Lavender"
+}

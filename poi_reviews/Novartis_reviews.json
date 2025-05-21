@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.299345,
+      "lng": 103.635529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300766630291502,
+        "lng": 103.6369057302915
+      },
+      "southwest": {
+        "lat": 1.298068669708498,
+        "lng": 103.6342077697085
+      }
+    }
+  },
+  "name": "Novartis",
+  "place_id": "ChIJSeytHHgG2jERwh46c-2HJ48",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "arjunraaj sengupta",
+      "author_url": "https://www.google.com/maps/contrib/113393585722149041083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRALZnMC1ztK6F5LeetxU5p0ZMzRoezLyuoBliHO2vpBWnzVTl=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532752723,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10315362925425598146",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

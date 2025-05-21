@@ -1,0 +1,52 @@
+{
+  "formatted_address": "96A Henderson Rd, Singapore 150078",
+  "geometry": {
+    "location": {
+      "lat": 1.2884121,
+      "lng": 103.8212349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289844980291502,
+        "lng": 103.8225860302915
+      },
+      "southwest": {
+        "lat": 1.287147019708498,
+        "lng": 103.8198880697085
+      }
+    }
+  },
+  "name": "Skygarden@CityVue",
+  "place_id": "ChIJoaIArd0b2jERVgm2SacZvZ8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "feng hou",
+      "author_url": "https://www.google.com/maps/contrib/104618302769175308226/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1xwtjX5s_SbV8dTDhVkaPKAXaOPiEH8BtpXrI9SY2JVGkCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718987269,
+      "translated": false
+    },
+    {
+      "author_name": "Surbhi Prashar",
+      "author_url": "https://www.google.com/maps/contrib/103907062442009856961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJz7FkRDz9DFZ-hTYIJl1kVH3BvtsdrsKzQ8ZGjmSUqoecN77D=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1670079042,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11510384428915755350",
+  "user_ratings_total": 2,
+  "vicinity": "96A Henderson Road, Singapore"
+}

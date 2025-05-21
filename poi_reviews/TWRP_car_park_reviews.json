@@ -1,0 +1,42 @@
+{
+  "formatted_address": "90 Tuas South Ave 9, Singapore 637397",
+  "geometry": {
+    "location": {
+      "lat": 1.2791914,
+      "lng": 103.6384441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280540380291502,
+        "lng": 103.6397930802915
+      },
+      "southwest": {
+        "lat": 1.277842419708498,
+        "lng": 103.6370951197085
+      }
+    }
+  },
+  "name": "TWRP car park",
+  "place_id": "ChIJ3SjTfQAF2jERIsORJq1Y8l4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sahara sasi",
+      "author_url": "https://www.google.com/maps/contrib/102061375125111199113/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyeikxFI7mwMDardHTzBV2hkR8l32xcYhwBfoy81qaVsms-4v16A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731685729,
+      "translated": false
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6841628284628878114",
+  "user_ratings_total": 1,
+  "vicinity": "90 Tuas South Avenue 9, Singapore"
+}

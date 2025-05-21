@@ -1,0 +1,80 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3177967,
+      "lng": 103.807716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319104680291502,
+        "lng": 103.8091012302915
+      },
+      "southwest": {
+        "lat": 1.316406719708498,
+        "lng": 103.8064032697085
+      }
+    }
+  },
+  "name": "Farrer Rd Stn Exit B",
+  "place_id": "ChIJNSD60A8a2jERt9PgWDVqy58",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Zachary Tang 郑诚鋆",
+      "author_url": "https://www.google.com/maps/contrib/102663815857693575389/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYTPEED7g54ddaFwMgN8SwBTEeigDR-VxFxEa2SYkdDp9VSxt1=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Bus 961 rarely arrives unfortunately. Not sure if its because of the big street ahead or the COVID. Probably the COVID though, so i'll rate it 4/5 stars.",
+      "time": 1646564151,
+      "translated": false
+    },
+    {
+      "author_name": "Vicxx",
+      "author_url": "https://www.google.com/maps/contrib/105448666675107746251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlF_CgDFWEQfafyGSVDlL_vp3OeOz6PdpY2sKqtbeIVbsUJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "who tf reviews a bus station",
+      "time": 1690445450,
+      "translated": false
+    },
+    {
+      "author_name": "Franky Yokohama",
+      "author_url": "https://www.google.com/maps/contrib/102605207411509096495/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCDyy15hxgLd9vrPem5xEYTw5Z9S6omEuRe_ncwt_pKpwqzxiL=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Cloudy",
+      "time": 1542258115,
+      "translated": false
+    },
+    {
+      "author_name": "Werner Senft",
+      "author_url": "https://www.google.com/maps/contrib/111124779981021157655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqgmZ6IDx35kePzx0xcDCv6s_Yu02S9JEjTBauA4nnKZ3VvxyA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Ok",
+      "time": 1519430824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11514413649659745207",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

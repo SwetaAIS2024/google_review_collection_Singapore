@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3053987,
+      "lng": 103.8217592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306816480291502,
+        "lng": 103.8231433802915
+      },
+      "southwest": {
+        "lat": 1.304118519708498,
+        "lng": 103.8204454197085
+      }
+    }
+  },
+  "name": "British Council",
+  "place_id": "ChIJ25IGf4oZ2jERzM8E-YI7Erg",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Thaddeus Belvin",
+      "author_url": "https://www.google.com/maps/contrib/114211202799608931690/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2mQxfeXIa8VAxQHq0CFNvzou6YfyFUE0FiRwBU0Cmb1AxovTf=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489026654,
+      "translated": false
+    },
+    {
+      "author_name": "Anwar Hosain",
+      "author_url": "https://www.google.com/maps/contrib/109540133097096796189/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaf91QilKZ0zHThw1KYqcWrULBi_BxGXwBGF7LiNFzos9wh3fw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479713403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13263729286269161420",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

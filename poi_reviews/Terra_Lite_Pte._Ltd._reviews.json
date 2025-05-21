@@ -1,0 +1,51 @@
+{
+  "formatted_address": "11 Tuas South Street 6, Singapore 636914",
+  "geometry": {
+    "location": {
+      "lat": 1.278879,
+      "lng": 103.6350708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280071130291502,
+        "lng": 103.6364799802915
+      },
+      "southwest": {
+        "lat": 1.277373169708498,
+        "lng": 103.6337820197085
+      }
+    }
+  },
+  "name": "Terra Lite Pte. Ltd.",
+  "place_id": "ChIJ7ywc6s8H2jERzPkT2Uv2sk4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hamid Ali",
+      "author_url": "https://www.google.com/maps/contrib/117126226284437152317/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjvRh70veUx8_lPZPlxYHNj-Imt_tcnz52PpqIi3XybwQ39A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1640789866,
+      "translated": false
+    },
+    {
+      "author_name": "Raju Ahamad",
+      "author_url": "https://www.google.com/maps/contrib/117639845530032706808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUjuhsYO14muo6abcBVHovfajPWRNBXlsl32DG1il8A4_4Hfgl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1628301732,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5670865686437820876",
+  "user_ratings_total": 2,
+  "vicinity": "11 Tuas South Street 6"
+}

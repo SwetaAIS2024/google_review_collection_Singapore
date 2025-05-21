@@ -1,0 +1,77 @@
+{
+  "formatted_address": "304 Orchard Rd, #01-86/88 Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3043337,
+      "lng": 103.8337177
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305618930291502,
+        "lng": 103.8350447302915
+      },
+      "southwest": {
+        "lat": 1.302920969708498,
+        "lng": 103.8323467697085
+      }
+    }
+  },
+  "name": "Metro",
+  "place_id": "ChIJpSnBcpIZ2jERu_Mcch4htF0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "BryAnne Torisco",
+      "author_url": "https://www.google.com/maps/contrib/107808946934660517540/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfwZMinFJ6fI0d8neS968XIXccMgfeDbWeP-9eR9VooG_pLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "All workers are very slow, no sense of urgency, they are just chit chatting. Never think of how to make the que short.\nAll got different way and not standard.",
+      "time": 1543563781,
+      "translated": false
+    },
+    {
+      "author_name": "Venus Saltarin",
+      "author_url": "https://www.google.com/maps/contrib/107339535287773206139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbmbBh-P2ElyK857FQOBgl0zRxp-nSOmoSOvuBTMLKChmouNgQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Very troublesome and slow. Never again",
+      "time": 1515554603,
+      "translated": false
+    },
+    {
+      "author_name": "Mervin Gonzales",
+      "author_url": "https://www.google.com/maps/contrib/116003420981730992201/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqVqod5ZQwtdeB35Qz81-FrJoVZs5JT00Lf0xh36QoqKUgPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1541635649,
+      "translated": false
+    },
+    {
+      "author_name": "James Encallado",
+      "author_url": "https://www.google.com/maps/contrib/108968112703202966950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4G2z5vpJzJZMQRb4DH-1iAP7oWVemv8OMpZxd8sAa-DtgnA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510015873,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6752058155982451643",
+  "user_ratings_total": 4,
+  "vicinity": "304 Orchard Road, #01-86/88 Lucky Plaza"
+}

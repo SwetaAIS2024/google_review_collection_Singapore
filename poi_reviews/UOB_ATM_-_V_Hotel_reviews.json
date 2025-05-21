@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 70 Jellicoe Road, V Hotel, Singapore 208767",
+  "geometry": {
+    "location": {
+      "lat": 1.3072983,
+      "lng": 103.8617959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308711380291502,
+        "lng": 103.8630880302915
+      },
+      "southwest": {
+        "lat": 1.306013419708498,
+        "lng": 103.8603900697085
+      }
+    }
+  },
+  "name": "UOB ATM - V Hotel",
+  "place_id": "ChIJ-2sYWikZ2jERhZM1zVzl598",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16134116376820683653",
+  "vicinity": "No. 70 Jellicoe Road, V Hotel"
+}

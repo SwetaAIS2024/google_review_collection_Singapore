@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Lor Malukut, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.405284,
+      "lng": 103.6993341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406632230291502,
+        "lng": 103.7006513802915
+      },
+      "southwest": {
+        "lat": 1.403934269708498,
+        "lng": 103.6979534197085
+      }
+    }
+  },
+  "name": "North zone",
+  "place_id": "ChIJBRCId74N2jEROBhdOWm7CIc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9730233055542319160",
+  "vicinity": "Lorong Malukut"
+}

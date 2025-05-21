@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2829787,
+      "lng": 103.8189249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284321330291502,
+        "lng": 103.8202996802915
+      },
+      "southwest": {
+        "lat": 1.281623369708498,
+        "lng": 103.8176017197085
+      }
+    }
+  },
+  "name": "Portman Institute of Technology",
+  "place_id": "ChIJ689_9tYb2jERFgBIxIKM6Ik",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9937347071059689494",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "532 Ang Mo Kio Ave 10, Singapore 560532",
+  "geometry": {
+    "location": {
+      "lat": 1.3738564,
+      "lng": 103.8545514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375268530291502,
+        "lng": 103.8561486802915
+      },
+      "southwest": {
+        "lat": 1.372570569708498,
+        "lng": 103.8534507197085
+      }
+    }
+  },
+  "name": "Lai Kee Dim Sum",
+  "place_id": "ChIJjRcnHwAX2jERnVCG0csGvjM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "G Lim",
+      "author_url": "https://www.google.com/maps/contrib/109887127868720767656/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4hOqFaHRXKfPl1Z9mFDKcCTlncMPqFaM2jb43Pk82QtSE9gY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "Staff are friendly and there's quite a lot of steamed dim sum to choose from. Unfortunately, many of the dishes taste similar and quality is average compared to other coffee shops. Each basket is about $3.50.",
+      "time": 1724585922,
+      "translated": false
+    },
+    {
+      "author_name": "Jerald Lim",
+      "author_url": "https://www.google.com/maps/contrib/101913444524439383194/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTeRQZsgM2k1Moc4LdsDrHoIKDh5lKd0MSJ7b26K1YD5dqpff8bA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Dim sum taste good at this price point. The dabao is filled with ingredients, lor mai kai is well seasoned, and fried items were warm and crispy.",
+      "time": 1725589760,
+      "translated": false
+    },
+    {
+      "author_name": "Chen Wan Ting",
+      "author_url": "https://www.google.com/maps/contrib/104695222678202776376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuwtwq5p-zkhrwQbv_LjVBN2_Rn6rwRJ5_eCScXkjD--OXUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736969000,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3728425013972717725",
+  "user_ratings_total": 3,
+  "vicinity": "532 Ang Mo Kio Avenue 10, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "991 Buangkok Link, #01-K2 Buangkok Square Mall, Singapore 530991",
+  "geometry": {
+    "location": {
+      "lat": 1.3844011,
+      "lng": 103.8818249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385764380291502,
+        "lng": 103.8832855802915
+      },
+      "southwest": {
+        "lat": 1.383066419708498,
+        "lng": 103.8805876197085
+      }
+    }
+  },
+  "name": "DBS ATM - Buangkok Sq",
+  "place_id": "ChIJZZUXbnUX2jERi2wi2pk2RWU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7297298805641342091",
+  "vicinity": "991 Buangkok Link, #01-K2 Buangkok Square Mall"
+}

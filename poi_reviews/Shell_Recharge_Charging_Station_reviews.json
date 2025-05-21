@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Mandai Rd, #15, Singapore 677721",
+  "geometry": {
+    "location": {
+      "lat": 1.4073389,
+      "lng": 103.7795942
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.408814780291502,
+        "lng": 103.7809957302915
+      },
+      "southwest": {
+        "lat": 1.406116819708498,
+        "lng": 103.7782977697085
+      }
+    }
+  },
+  "name": "Shell Recharge Charging Station",
+  "place_id": "ChIJEQ7MktMT2jER4AKn1EIqpXA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sean Eng",
+      "author_url": "https://www.google.com/maps/contrib/104971667023288473087/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH9COmutrTZhjWFqrnj7TH37ThuQtUVJcvhmFA2nRr70bVrtk3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Relatively good charger, split between both floors of the carpark. Near the entrance but is more costly.",
+      "time": 1711875245,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8116940369929110240",
+  "user_ratings_total": 1,
+  "vicinity": "Mandai Road, #15"
+}

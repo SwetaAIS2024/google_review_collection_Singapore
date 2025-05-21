@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4206915,
+      "lng": 103.8436774
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422039530291502,
+        "lng": 103.8449722802915
+      },
+      "southwest": {
+        "lat": 1.419341569708498,
+        "lng": 103.8422743197085
+      }
+    }
+  },
+  "name": "Opp Northbrooks Sec Sch",
+  "place_id": "ChIJwSdPumoU2jERRnWB0ML3ZCc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Purblue",
+      "author_url": "https://www.google.com/maps/contrib/116497011447343192319/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuQxxJ9zWKfbtJpNMkaUlkoZxX4fvQ-XC8CzCH3TrgKqxOBGXE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "We seriously need more 807 buses. It's been 30mins waiting for the damn bus.",
+      "time": 1692890083,
+      "translated": false
+    },
+    {
+      "author_name": "Bobby Elfian",
+      "author_url": "https://www.google.com/maps/contrib/114210542979071389617/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8FocfeKfOY-GeihuwJaBs5ZIyNkBaCrQExfalbftx1ugDXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482380312,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2838666081244116294",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

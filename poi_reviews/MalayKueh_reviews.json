@@ -1,0 +1,70 @@
+{
+  "formatted_address": "257 Bangkit Rd, Singapore 670257",
+  "geometry": {
+    "location": {
+      "lat": 1.3787225,
+      "lng": 103.7734723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380142630291502,
+        "lng": 103.7748281302915
+      },
+      "southwest": {
+        "lat": 1.377444669708498,
+        "lng": 103.7721301697085
+      }
+    }
+  },
+  "name": "MalayKueh",
+  "place_id": "ChIJwdn64XAR2jER51eoO-76Ubs",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "bearythots",
+      "author_url": "https://www.google.com/maps/contrib/108454681619644276739/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6tyjDcTmycfC5FQlP7b7jYiT8GM1tD27z6PnBxTjRVk4MEgSs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Kuih and goreng are not bad with a wide variety hardly find.",
+      "time": 1745205984,
+      "translated": false
+    },
+    {
+      "author_name": "Zeeshan Afzal",
+      "author_url": "https://www.google.com/maps/contrib/116654784495138269985/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAermy1Hrih7PTMlqhiRg4EwqSrZ0I5Z0NDPiCQm4AP3J0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Loved the curry puffs (fresh and tasty) and kueh.\nSuper affordable 👍",
+      "time": 1638539252,
+      "translated": false
+    },
+    {
+      "author_name": "Chappali (Beanie)",
+      "author_url": "https://www.google.com/maps/contrib/104912592265302442456/reviews",
+      "language": "en-US",
+      "original_language": "hr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOa5yFZH7fiILBbIeFQUqgtOh2Sh_o00XmUbuuYWJ16GsMwwU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "The guy. give me leftover epoch epoch",
+      "time": 1710488595,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13497845459316135911",
+  "user_ratings_total": 3,
+  "vicinity": "257 Bangkit Road"
+}

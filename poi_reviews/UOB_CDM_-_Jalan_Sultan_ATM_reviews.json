@@ -1,0 +1,46 @@
+{
+  "formatted_address": "200 Jln Sultan, Singapore 199018",
+  "geometry": {
+    "location": {
+      "lat": 1.3040986,
+      "lng": 103.8612312
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305360880291502,
+        "lng": 103.8624391802915
+      },
+      "southwest": {
+        "lat": 1.302662919708498,
+        "lng": 103.8597412197085
+      }
+    }
+  },
+  "name": "UOB CDM - Jalan Sultan ATM",
+  "place_id": "ChIJtf5ru7YZ2jERu_S7HIc4B6I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Charles Poiron",
+      "author_url": "https://www.google.com/maps/contrib/107277345878369642371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD0rvY0XBoWj0xFQpvy6VDVYRo1MQFfvDczNb0OM2cHqUu0aa7Cw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Was open and it works, surprisingly busy",
+      "time": 1699525120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11675362711935120571",
+  "user_ratings_total": 1,
+  "vicinity": "200 Jalan Sultan"
+}

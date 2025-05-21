@@ -1,0 +1,43 @@
+{
+  "formatted_address": "27 Airport Blvd., Singapore 819643",
+  "geometry": {
+    "location": {
+      "lat": 1.342815,
+      "lng": 103.9822409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344159930291502,
+        "lng": 103.9835994802915
+      },
+      "southwest": {
+        "lat": 1.341461969708498,
+        "lng": 103.9809015197085
+      }
+    }
+  },
+  "name": "M & M Shops (s) Pte Ltd",
+  "place_id": "ChIJFdVlQ8A82jERWJ41OkjOz00",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "steven christine",
+      "author_url": "https://www.google.com/maps/contrib/116801477930979212745/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPTpvJVVmh1Vza3TZPZtnMel2oxZ1Q6JcS1yDAXZWzaG9SQwpd=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "Mindful . Be safe near drive slow here.",
+      "time": 1719973492,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5606926870709116504",
+  "user_ratings_total": 1,
+  "vicinity": "27 Airport Boulevard"
+}

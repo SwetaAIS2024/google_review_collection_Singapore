@@ -1,0 +1,53 @@
+{
+  "formatted_address": "7 Benoi Sector, Singapore 629842",
+  "geometry": {
+    "location": {
+      "lat": 1.3205062,
+      "lng": 103.6818831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321386680291502,
+        "lng": 103.6829944302915
+      },
+      "southwest": {
+        "lat": 1.318688719708498,
+        "lng": 103.6802964697085
+      }
+    }
+  },
+  "name": "Superior Multi-Packaging Limited",
+  "place_id": "ChIJiQk78g0Z2jERvBfAvtZyh24",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Shohel",
+      "author_url": "https://www.google.com/maps/contrib/111439153278844925221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX57wzQWg1vBTtL9ZLUIwhiWcannEUFFojtdzqFasURGIR9V0DS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Ok",
+      "time": 1652588273,
+      "translated": false
+    },
+    {
+      "author_name": "Lily Jepun",
+      "author_url": "https://www.google.com/maps/contrib/115947425757714465935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJaFZr2ih_BA9GIuErESqb5nP_xZ26OLardAwTqZHbR4o6xw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1421652632,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7964460732676839356",
+  "user_ratings_total": 2,
+  "vicinity": "7 Benoi Sector"
+}

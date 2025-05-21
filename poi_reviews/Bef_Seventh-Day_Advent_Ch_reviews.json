@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3364127,
+      "lng": 103.7396596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337804080291502,
+        "lng": 103.7410111302915
+      },
+      "southwest": {
+        "lat": 1.335106119708498,
+        "lng": 103.7383131697085
+      }
+    }
+  },
+  "name": "Bef Seventh-Day Advent Ch",
+  "place_id": "ChIJZyGuTgUQ2jEREc9ZAhmqz6k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kamaraj Pandian Veerakkumar",
+      "author_url": "https://www.google.com/maps/contrib/118349051025338988387/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvQ7D8a-uVAwdLN84XbkyCxi3A5Jc-vFKp6-78DbOaTCEMvPwG-A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503807980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12236185736979271441",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "4 Dairy Farm Ln, #01-12, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3654648,
+      "lng": 103.774358
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366972380291503,
+        "lng": 103.7759675302915
+      },
+      "southwest": {
+        "lat": 1.364274419708498,
+        "lng": 103.7732695697085
+      }
+    }
+  },
+  "name": "Tokyo Taste",
+  "place_id": "ChIJgf6ZNQAR2jER-Of7iZRlELY",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jason Ng Boon Ping",
+      "author_url": "https://www.google.com/maps/contrib/115659470927906507704/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPl-zCJl6Xs9NmIZVua5ONVEzaETaB-yL2H3T7y5sk_L_0yg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "First time trying, but last time probably. 12.90 for frozen, badly cut and not fresh salmon belly sashimi. Even 6.90 sashimi from sushi express exceed the standard.",
+      "time": 1746852358,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Chong",
+      "author_url": "https://www.google.com/maps/contrib/110557902082797003585/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK2ubXtiyupVuDFkz_ZlxQwWXQqTBjd8Jyyh6QVqMSq_1_NQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1746961051,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13119097403174807544",
+  "user_ratings_total": 2,
+  "vicinity": "4 Dairy Farm Lane, #01-12"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "475 Tampines Street 44, Singapore 520475",
+  "geometry": {
+    "location": {
+      "lat": 1.360322,
+      "lng": 103.953147
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361702680291502,
+        "lng": 103.9548552802915
+      },
+      "southwest": {
+        "lat": 1.359004719708498,
+        "lng": 103.9521573197085
+      }
+    }
+  },
+  "name": "Ban Chuan Heng Vegetarian",
+  "place_id": "ChIJ-9Mn7wY92jERbblToHZsM7Q",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "40 tiang",
+      "author_url": "https://www.google.com/maps/contrib/110088697622390266062/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5Ff1fuIqg7e_j_Ocq0FuNJU0s9hhGjHhz037w7dIguUowMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "This place no more don't fall for it",
+      "time": 1727955813,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12984841407391054189",
+  "user_ratings_total": 1,
+  "vicinity": "475 Tampines Street 44"
+}

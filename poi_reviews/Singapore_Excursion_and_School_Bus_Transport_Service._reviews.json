@@ -1,0 +1,41 @@
+{
+  "formatted_address": "414 A Race Course Rd, Singapore 218661",
+  "geometry": {
+    "location": {
+      "lat": 1.3156581,
+      "lng": 103.8576735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317031380291502,
+        "lng": 103.8589969802915
+      },
+      "southwest": {
+        "lat": 1.314333419708498,
+        "lng": 103.8562990197085
+      }
+    }
+  },
+  "name": "Singapore Excursion & School Bus Transport Service.",
+  "place_id": "ChIJGXkQl88Z2jERbdM13AccCL0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Philip Rai",
+      "author_url": "https://www.google.com/maps/contrib/110310943459842623812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVNFPassXtdMx7aTJVZHBURuOibvYaxvMNXeJRF0wlbXZyw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542115430,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13621167893066929005",
+  "user_ratings_total": 1,
+  "vicinity": "414 A Race Course Road"
+}

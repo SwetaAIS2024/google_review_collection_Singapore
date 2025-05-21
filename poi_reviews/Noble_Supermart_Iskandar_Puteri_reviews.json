@@ -1,0 +1,57 @@
+{
+  "formatted_address": "81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4423734,
+      "lng": 103.5982471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.443712580291502,
+        "lng": 103.5996365302915
+      },
+      "southwest": {
+        "lat": 1.441014619708498,
+        "lng": 103.5969385697085
+      }
+    }
+  },
+  "name": "Noble Supermart Iskandar Puteri",
+  "place_id": "ChIJMQVyrrYL2jERkG-7No6K03g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aliali Aliali",
+      "author_url": "https://www.google.com/maps/contrib/115555353372785525053/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw9UhXoSrwiptxcUMsAc62Kyv-59M3zfd26Oaqhslp0JEsAK4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "CHRX+W7 Broken Bracelet, Johor",
+      "time": 1680168819,
+      "translated": true
+    },
+    {
+      "author_name": "Anusuya Akhilesh",
+      "author_url": "https://www.google.com/maps/contrib/106828527872506644323/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaA1ZCwlBytJ1ivCz5sMkmEShUEBTg3waF2TDfNuugaGlTd7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648096757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8706454848045543312",
+  "user_ratings_total": 2,
+  "vicinity": "Gelang Patah"
+}

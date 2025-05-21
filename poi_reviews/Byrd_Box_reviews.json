@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Lam Soon Industrial Building, 63 Hillview Avenue #06-00, Unit, #7, Singapore 669569",
+  "geometry": {
+    "location": {
+      "lat": 1.3570307,
+      "lng": 103.763132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358502280291502,
+        "lng": 103.7644145802915
+      },
+      "southwest": {
+        "lat": 1.355804319708498,
+        "lng": 103.7617166197085
+      }
+    }
+  },
+  "name": "Byrd Box",
+  "place_id": "ChIJBzxyFDQR2jERT5MXlXl2POk",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Arun Ratnaa",
+      "author_url": "https://www.google.com/maps/contrib/107737409357603967906/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoIaAlT3Jt2UpycDVq8F9WMSfqEoAYbzWPS_2rittHp5Iqzy1A6Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Extremely salty. You have been warned.",
+      "time": 1665304212,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16806438174004319055",
+  "user_ratings_total": 1,
+  "vicinity": "Lam Soon Industrial Building, 63 Hillview Avenue #06-00, Unit, #7"
+}

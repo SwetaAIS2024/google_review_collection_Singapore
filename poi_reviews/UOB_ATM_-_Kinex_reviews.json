@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Tanjong Katong Rd, #01-K2, Kinex 437157",
+  "geometry": {
+    "location": {
+      "lat": 1.3149231,
+      "lng": 103.8945866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316282280291502,
+        "lng": 103.8957251302915
+      },
+      "southwest": {
+        "lat": 1.313584319708498,
+        "lng": 103.8930271697085
+      }
+    }
+  },
+  "name": "UOB ATM - Kinex",
+  "place_id": "ChIJvw4ChjUZ2jERJUMNFRQEmfU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17697180695028122405",
+  "vicinity": "11 Tanjong Katong Road, #01-K2, Kinex"
+}

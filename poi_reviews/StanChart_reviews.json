@@ -1,0 +1,57 @@
+{
+  "formatted_address": "67 Serangoon Garden Way, Singapore 555963",
+  "geometry": {
+    "location": {
+      "lat": 1.363602,
+      "lng": 103.8653981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364976730291502,
+        "lng": 103.8667114302915
+      },
+      "southwest": {
+        "lat": 1.362278769708498,
+        "lng": 103.8640134697085
+      }
+    }
+  },
+  "name": "StanChart",
+  "place_id": "ChIJtUwnKgAX2jER1lWT-jjGW8k",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Shaun Foo",
+      "author_url": "https://www.google.com/maps/contrib/103285995349235488096/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZQr4BlMT_tMGErGHp6R2a5Vr8MzVuM8_LtzAx_owASO81AA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "talkative staff eith no sense of customer service and time urgency",
+      "time": 1737094794,
+      "translated": false
+    },
+    {
+      "author_name": "Tahir Ayoub",
+      "author_url": "https://www.google.com/maps/contrib/110799329039602674626/reviews",
+      "language": "en-US",
+      "original_language": "gd",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJXzPOyS8XKsAUzRTgAUkyr4EzLj4c13cBPgpjEZmUUrchCQtvAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "Galla",
+      "time": 1366736036,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14509408572528612822",
+  "user_ratings_total": 2,
+  "vicinity": "67 Serangoon Garden Way"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33468,
+      "lng": 103.7227
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336026980291502,
+        "lng": 103.7240179302915
+      },
+      "southwest": {
+        "lat": 1.333329019708498,
+        "lng": 103.7213199697085
+      }
+    }
+  },
+  "name": "Blk 117, Corporation Dr",
+  "place_id": "ChIJxeybe_sP2jERyGZDXrfM-p0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11383636096064906952",
+  "vicinity": "Singapore"
+}

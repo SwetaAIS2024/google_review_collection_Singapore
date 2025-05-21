@@ -1,0 +1,43 @@
+{
+  "formatted_address": "3 Kian Teck Ln, Singapore 627844",
+  "geometry": {
+    "location": {
+      "lat": 1.3331017,
+      "lng": 103.6952935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334452180291502,
+        "lng": 103.6967592802915
+      },
+      "southwest": {
+        "lat": 1.331754219708498,
+        "lng": 103.6940613197085
+      }
+    }
+  },
+  "name": "DBS ATM - Blue Star Dormitory",
+  "place_id": "ChIJ-WxljdYP2jER1xaeOrQDkRM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "goddinti mary",
+      "author_url": "https://www.google.com/maps/contrib/114438985684837535223/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS2t6Kv_zPTeBWcxXxS1e2fyuwgS_Zfktdag9gMcyo98Lp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500988892,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1409912230956111575",
+  "user_ratings_total": 1,
+  "vicinity": "3 Kian Teck Lane, Singapore"
+}

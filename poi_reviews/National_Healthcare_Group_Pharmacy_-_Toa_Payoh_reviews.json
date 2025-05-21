@@ -1,0 +1,66 @@
+{
+  "formatted_address": "2003 Lor 8 Toa Payoh, Singapore 319260",
+  "geometry": {
+    "location": {
+      "lat": 1.3345499,
+      "lng": 103.858986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336040380291502,
+        "lng": 103.8602530302915
+      },
+      "southwest": {
+        "lat": 1.333342419708498,
+        "lng": 103.8575550697085
+      }
+    }
+  },
+  "name": "National Healthcare Group Pharmacy - Toa Payoh",
+  "place_id": "ChIJ05Wa9HoX2jERy-aVV9CMIuA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "EM Choo",
+      "author_url": "https://www.google.com/maps/contrib/101193954316715015947/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBBzPP6jfiYYukfkysD2sjDUEu57nD74ZSSpbrn6PeTNrK-ttF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The ladies are all helpful, thoughtful and a sunshine smile always make my visit worth going.",
+      "time": 1679928202,
+      "translated": false
+    },
+    {
+      "author_name": "Jill Kwok",
+      "author_url": "https://www.google.com/maps/contrib/109404090449214818099/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXkmJ5eGmhCyglos0rvjZhUVSri96tdPIljMiFkhEffU4p4PA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584002931,
+      "translated": false
+    },
+    {
+      "author_name": "Poonganesan Subrahmanyan",
+      "author_url": "https://www.google.com/maps/contrib/115151807813872813190/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgiBLQ5GPr-xP_rAq65cYVRt8SRyRVxDZXKB4P_GKgi7ET6WuGtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548076995,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16150626040154547915",
+  "user_ratings_total": 3,
+  "vicinity": "2003 Lorong 8 Toa Payoh"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3213014,
+      "lng": 103.7666273
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322606330291502,
+        "lng": 103.7680323802915
+      },
+      "southwest": {
+        "lat": 1.319908369708498,
+        "lng": 103.7653344197085
+      }
+    }
+  },
+  "name": "樂園美食",
+  "place_id": "ChIJ-cCIYYQa2jER0ySQr8egqyQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2642382385887323347",
+  "vicinity": "Singapore"
+}

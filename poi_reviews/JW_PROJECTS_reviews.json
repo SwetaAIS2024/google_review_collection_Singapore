@@ -1,0 +1,44 @@
+{
+  "formatted_address": "3 Kim Yam Rd, #01-01, Singapore 239321",
+  "geometry": {
+    "location": {
+      "lat": 1.2953218,
+      "lng": 103.8389823
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296687330291502,
+        "lng": 103.8402283302915
+      },
+      "southwest": {
+        "lat": 1.293989369708498,
+        "lng": 103.8375303697085
+      }
+    }
+  },
+  "name": "JW PROJECTS",
+  "place_id": "ChIJXz6GL8IZ2jERbt-gU0rbbnE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "py104",
+      "author_url": "https://www.google.com/maps/contrib/110812665806361085863/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj52oBh3iFqMC6P4tS5VYjHyrjaIqod_oyCoG_lRNDtJrXBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702117848,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "museum",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8173711486001143662",
+  "user_ratings_total": 1,
+  "vicinity": "3 Kim Yam Road, #01-01, Singapore"
+}

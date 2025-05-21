@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Clementi Ave 3, Blk 449 01-245, Singapore 120449",
+  "geometry": {
+    "location": {
+      "lat": 1.3134143,
+      "lng": 103.7648974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314782980291502,
+        "lng": 103.7662905302915
+      },
+      "southwest": {
+        "lat": 1.312085019708498,
+        "lng": 103.7635925697085
+      }
+    }
+  },
+  "name": "DBS CDM (Coin Deposit Machine) - DBS/POSB CLEMENTI CENTRAL BRANCH",
+  "place_id": "ChIJEfYCC5Ub2jERBO2xPKDVN98",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16084559478366792964",
+  "vicinity": "Clementi Avenue 3, Blk 449 01-245"
+}

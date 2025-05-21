@@ -1,0 +1,45 @@
+{
+  "formatted_address": "68 Kaki Bukit Ave 6, #01-01 Ark@KB, Singapore 417896",
+  "geometry": {
+    "location": {
+      "lat": 1.3409535,
+      "lng": 103.9142205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342330880291502,
+        "lng": 103.9155324302915
+      },
+      "southwest": {
+        "lat": 1.339632919708498,
+        "lng": 103.9128344697085
+      }
+    }
+  },
+  "name": "Lemak",
+  "place_id": "ChIJSeViiCEX2jERNJjJ69_hMeA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Umar Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/117945329029828422975/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNOqS7T28Y56mHQHGFUEE-uK05WWNEnDKD21vF4SYJ8q2IcA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Superb, Fantastic old school Nasi Lemak at $4 with generous portions and cooked with passion!! The energy can both be felt visually and tastefully!\n\nAwesome.\n6/5",
+      "time": 1713272833,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16154941690204493876",
+  "user_ratings_total": 1,
+  "vicinity": "68 Kaki Bukit Avenue 6, #01-01 Ark@KB, Singapore"
+}

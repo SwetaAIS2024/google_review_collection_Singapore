@@ -1,0 +1,53 @@
+{
+  "formatted_address": "41 Tampines Street 92, Singapore 528881",
+  "geometry": {
+    "location": {
+      "lat": 1.338138,
+      "lng": 103.9417159
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339717830291502,
+        "lng": 103.9427169302915
+      },
+      "southwest": {
+        "lat": 1.337019869708498,
+        "lng": 103.9400189697085
+      }
+    }
+  },
+  "name": "All Best Foods Pte. Ltd.",
+  "place_id": "ChIJSfEFETk92jERSFRxIshqac4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Randy Ching",
+      "author_url": "https://www.google.com/maps/contrib/102632485069090984645/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeRh4SYz8B4Tt-fDxqQtYpew5f5D1cmcwnMA5hcckEAEV5-Lal=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1598612203,
+      "translated": false
+    },
+    {
+      "author_name": "Reynold N-Khoo",
+      "author_url": "https://www.google.com/maps/contrib/116433528974051361335/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCNPOMIeAKDZlxpY03TXJ-h8Z0KHr3DSpsudIrzN9RpWtuWHKC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558570602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14873536652171629640",
+  "user_ratings_total": 2,
+  "vicinity": "41 Tampines Street 92"
+}

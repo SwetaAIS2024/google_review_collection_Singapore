@@ -1,0 +1,29 @@
+{
+  "formatted_address": "34 Boon Leat Terrace, Singapore 119866",
+  "geometry": {
+    "location": {
+      "lat": 1.2761164,
+      "lng": 103.7972822
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277229630291502,
+        "lng": 103.7985514302915
+      },
+      "southwest": {
+        "lat": 1.274531669708498,
+        "lng": 103.7958534697085
+      }
+    }
+  },
+  "name": "Mun Cheng Foodcourt",
+  "place_id": "ChIJ1VwVdAAb2jERNVHHnrovUhg",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1752515683574829365",
+  "vicinity": "34 Boon Leat Terrace, Singapore"
+}

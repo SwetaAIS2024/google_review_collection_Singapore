@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3209936,
+      "lng": 103.8066395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322192030291502,
+        "lng": 103.8081724802915
+      },
+      "southwest": {
+        "lat": 1.319494069708498,
+        "lng": 103.8054745197085
+      }
+    }
+  },
+  "name": "Learning Bliss",
+  "place_id": "ChIJ85pQJg8a2jERTMLGcXFSZGs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7738400706922988108",
+  "vicinity": "Singapore"
+}

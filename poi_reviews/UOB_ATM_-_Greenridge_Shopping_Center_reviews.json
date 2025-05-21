@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 524A Jelapang Rd, #01-K4 Greenridge Shopping Center, Singapore 671524",
+  "geometry": {
+    "location": {
+      "lat": 1.3849813,
+      "lng": 103.7663119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386216980291502,
+        "lng": 103.7677042302915
+      },
+      "southwest": {
+        "lat": 1.383519019708498,
+        "lng": 103.7650062697085
+      }
+    }
+  },
+  "name": "UOB ATM - Greenridge Shopping Center",
+  "place_id": "ChIJw5Y7TmAR2jERCCPZL-pzs30",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9057710725234500360",
+  "vicinity": "Blk 524A Jelapang Road, #01-K4 Greenridge Shopping Center"
+}

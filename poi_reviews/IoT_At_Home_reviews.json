@@ -1,0 +1,27 @@
+{
+  "formatted_address": "15 Pandan Cres, #02 - Zone D, Singapore 128470",
+  "geometry": {
+    "location": {
+      "lat": 1.304006,
+      "lng": 103.7572711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305242780291502,
+        "lng": 103.7587151302915
+      },
+      "southwest": {
+        "lat": 1.302544819708498,
+        "lng": 103.7560171697085
+      }
+    }
+  },
+  "name": "IoT At Home",
+  "place_id": "ChIJvTZyn3MW2jERE9XheZlrP6Q",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11835296652671964435",
+  "vicinity": "15 Pandan Crescent, #02 - Zone D"
+}

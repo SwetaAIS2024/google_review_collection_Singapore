@@ -1,0 +1,28 @@
+{
+  "formatted_address": "123 Bukit Merah Vw, Singapore 151123",
+  "geometry": {
+    "location": {
+      "lat": 1.2841259,
+      "lng": 103.8232178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285657380291502,
+        "lng": 103.8244283302915
+      },
+      "southwest": {
+        "lat": 1.282959419708498,
+        "lng": 103.8217303697085
+      }
+    }
+  },
+  "name": "PCF Sparkletots Preschool Office",
+  "place_id": "ChIJd0JAmu8Z2jERVt5scmiHZPg",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17898579701743279702",
+  "vicinity": "123 Bukit Merah View"
+}

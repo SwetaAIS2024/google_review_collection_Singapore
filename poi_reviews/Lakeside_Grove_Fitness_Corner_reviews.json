@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Corporation Rise, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3397692,
+      "lng": 103.7170867
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341191430291502,
+        "lng": 103.7185833802915
+      },
+      "southwest": {
+        "lat": 1.338493469708498,
+        "lng": 103.7158854197085
+      }
+    }
+  },
+  "name": "Lakeside Grove Fitness Corner",
+  "place_id": "ChIJ7VDAY-8P2jERUcNaauPr_9Q",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "A Chua",
+      "author_url": "https://www.google.com/maps/contrib/113801295577622059872/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ3OU1qRdZBM-2VX3ofzeHwAkmROw3v6Xyt8tZVlyyPXkx9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1595286085,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15348245417076376401",
+  "user_ratings_total": 1,
+  "vicinity": "Corporation Rise"
+}

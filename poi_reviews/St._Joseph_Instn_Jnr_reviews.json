@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3182843,
+      "lng": 103.8458087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319683880291502,
+        "lng": 103.8471504302915
+      },
+      "southwest": {
+        "lat": 1.316985919708498,
+        "lng": 103.8444524697085
+      }
+    }
+  },
+  "name": "St. Joseph Instn Jnr",
+  "place_id": "ChIJpZ3lad0Z2jERMc1cMhDQbXw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8966051201147522353",
+  "vicinity": "Singapore"
+}

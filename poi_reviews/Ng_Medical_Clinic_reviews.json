@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2841977,
+      "lng": 103.8425488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285394230291502,
+        "lng": 103.8440770802915
+      },
+      "southwest": {
+        "lat": 1.282696269708498,
+        "lng": 103.8413791197085
+      }
+    }
+  },
+  "name": "Ng Medical Clinic",
+  "place_id": "ChIJl9hae3MZ2jERZSUpKZVsTxc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1679680573928973669",
+  "vicinity": "1 Park Road"
+}

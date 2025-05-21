@@ -1,0 +1,29 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.423168,
+      "lng": 103.63238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424492980291502,
+        "lng": 103.6337531302915
+      },
+      "southwest": {
+        "lat": 1.421795019708498,
+        "lng": 103.6310551697085
+      }
+    }
+  },
+  "name": "1 Residence Medini",
+  "place_id": "ChIJS09rEYsL2jERwGVzj_bVI9A",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14998066439019259328",
+  "vicinity": "Malaysia"
+}

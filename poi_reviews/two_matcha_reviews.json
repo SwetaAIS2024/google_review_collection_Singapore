@@ -1,0 +1,29 @@
+{
+  "formatted_address": "41A Margaret Dr, Singapore 143041",
+  "geometry": {
+    "location": {
+      "lat": 1.2968439,
+      "lng": 103.8071587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298275130291502,
+        "lng": 103.8085337802915
+      },
+      "southwest": {
+        "lat": 1.295577169708498,
+        "lng": 103.8058358197085
+      }
+    }
+  },
+  "name": "two matcha",
+  "place_id": "ChIJTX4gcrUb2jER_M18lq6iC9k",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15639773001706950140",
+  "vicinity": "41A Margaret Drive"
+}

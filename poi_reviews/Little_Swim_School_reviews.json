@@ -1,0 +1,45 @@
+{
+  "formatted_address": "473 Stirling Rd, Singapore 148948",
+  "geometry": {
+    "location": {
+      "lat": 1.2969923,
+      "lng": 103.8028175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298382630291502,
+        "lng": 103.8042537302915
+      },
+      "southwest": {
+        "lat": 1.295684669708498,
+        "lng": 103.8015557697085
+      }
+    }
+  },
+  "name": "Little Swim School",
+  "place_id": "ChIJo9JoFzca2jERPQ4Rm58_hB4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Marcus Chow",
+      "author_url": "https://www.google.com/maps/contrib/105399218354093173183/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKSkFFONXm7vC4DTx-e49atXiOfAvU7_zHhuAbzZnovxCRqnn0nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Rustic environment with great teachers! Thanks Little Swim School!",
+      "time": 1491203441,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2198952472797580861",
+  "user_ratings_total": 1,
+  "vicinity": "473 Stirling Road"
+}

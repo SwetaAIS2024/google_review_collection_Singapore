@@ -1,0 +1,28 @@
+{
+  "formatted_address": "60 Airport Boulevard, B16-025 Passenger Terminal Building 2 Singapore Changi Airport, Singapore 819643",
+  "geometry": {
+    "location": {
+      "lat": 1.342948,
+      "lng": 103.982266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344283330291502,
+        "lng": 103.9836474302915
+      },
+      "southwest": {
+        "lat": 1.341585369708498,
+        "lng": 103.9809494697085
+      }
+    }
+  },
+  "name": "Raffles Medical Changi Airport Terminal 2",
+  "place_id": "ChIJSRP8Mow82jERbmabgmq1U0g",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5211708662860179054",
+  "vicinity": "60 Airport Boulevard, B16-025 Passenger Terminal Building 2 Singapore Changi Airport"
+}

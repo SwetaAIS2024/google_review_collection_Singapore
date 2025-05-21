@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362079,
+      "lng": 103.942429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363410780291502,
+        "lng": 103.9437956302915
+      },
+      "southwest": {
+        "lat": 1.360712819708498,
+        "lng": 103.9410976697085
+      }
+    }
+  },
+  "name": "Bef Blk 631b",
+  "place_id": "ChIJY1VBPAo92jERDPV44kpGmOs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16976396082814186764",
+  "vicinity": "Singapore"
+}

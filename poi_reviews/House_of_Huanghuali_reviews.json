@@ -1,0 +1,31 @@
+{
+  "formatted_address": "1001 Jalan Bukit Merah, Singapore 159455",
+  "geometry": {
+    "location": {
+      "lat": 1.2849466,
+      "lng": 103.8128413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286274130291502,
+        "lng": 103.8142725302915
+      },
+      "southwest": {
+        "lat": 1.283576169708498,
+        "lng": 103.8115745697085
+      }
+    }
+  },
+  "name": "House of Huanghuali",
+  "place_id": "ChIJ1aL30dMb2jERVc1tM-vlbwI",
+  "types": [
+    "art_gallery",
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=175611708833647957",
+  "vicinity": "1001 Jalan Bukit Merah"
+}

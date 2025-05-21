@@ -1,0 +1,30 @@
+{
+  "formatted_address": "222 Tanjong Katong Rd, Singapore 437013",
+  "geometry": {
+    "location": {
+      "lat": 1.3070927,
+      "lng": 103.8953116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308483180291502,
+        "lng": 103.8967641802915
+      },
+      "southwest": {
+        "lat": 1.305785219708498,
+        "lng": 103.8940662197085
+      }
+    }
+  },
+  "name": "uMart@Katong | uBooze@Katong",
+  "place_id": "ChIJJ5PAwoMX2jEROnang4talII",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9409245076739552826",
+  "vicinity": "222 Tanjong Katong Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 3 Outram Rd, Basement 1 Singapore General Hospital, Singapore 169608",
+  "geometry": {
+    "location": {
+      "lat": 1.2784996,
+      "lng": 103.8338293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.2804599,
+        "lng": 103.8354689302915
+      },
+      "southwest": {
+        "lat": 1.277610699999999,
+        "lng": 103.8327709697085
+      }
+    }
+  },
+  "name": "SGH ENT Centre",
+  "place_id": "ChIJx5ZrbwAZ2jERf_6eagzRoto",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15754384297754033791",
+  "vicinity": "Blk 3 Outram Road, Basement 1 Singapore General Hospital, Singapore"
+}

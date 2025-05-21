@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Fusionopolis Wy, B2-02, Singapore 138632",
+  "geometry": {
+    "location": {
+      "lat": 1.2990334,
+      "lng": 103.7876105
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300661030291502,
+        "lng": 103.7890098302915
+      },
+      "southwest": {
+        "lat": 1.297963069708498,
+        "lng": 103.7863118697085
+      }
+    }
+  },
+  "name": "Popular Food Japanese & Korean Cuisine",
+  "place_id": "ChIJpRwPPgAb2jERSNxA_uu3tPM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "the",
+      "author_url": "https://www.google.com/maps/contrib/112669425725903722710/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBu3BxDuh1153uAyJ5cOQAIJ2mCMlDBhPFMABfhQLWONNwqcY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747655952,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17560863071235267656",
+  "user_ratings_total": 1,
+  "vicinity": "1 Fusionopolis Way, B2-02, Singapore"
+}

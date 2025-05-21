@@ -1,0 +1,30 @@
+{
+  "formatted_address": "271 Bukit Batok East Ave 6, Singapore 650271",
+  "geometry": {
+    "location": {
+      "lat": 1.3482006,
+      "lng": 103.7586808
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349692230291502,
+        "lng": 103.7600979302915
+      },
+      "southwest": {
+        "lat": 1.346994269708498,
+        "lng": 103.7573999697085
+      }
+    }
+  },
+  "name": "271咖啡店",
+  "place_id": "ChIJDbeecgAR2jERD0K9rQJ0Scg",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14432194035739083279",
+  "vicinity": "271 Bukit Batok East Avenue 6, Singapore"
+}

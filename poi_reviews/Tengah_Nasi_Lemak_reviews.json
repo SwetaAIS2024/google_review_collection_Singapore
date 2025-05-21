@@ -1,0 +1,29 @@
+{
+  "formatted_address": "65 Sungei Tengah Rd, Singapore 699000",
+  "geometry": {
+    "location": {
+      "lat": 1.3837674,
+      "lng": 103.726688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385128130291502,
+        "lng": 103.7280037302915
+      },
+      "southwest": {
+        "lat": 1.382430169708498,
+        "lng": 103.7253057697085
+      }
+    }
+  },
+  "name": "Tengah Nasi Lemak",
+  "place_id": "ChIJsWHryQUP2jERSudXWSZRd-c",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16678888970139461450",
+  "vicinity": "65 Sungei Tengah Road"
+}

@@ -1,0 +1,79 @@
+{
+  "formatted_address": "56, Jalan Tanjung Kupang, Pendas, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3787001,
+      "lng": 103.6348911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380042480291502,
+        "lng": 103.6362048802915
+      },
+      "southwest": {
+        "lat": 1.377344519708498,
+        "lng": 103.6335069197085
+      }
+    }
+  },
+  "name": "Burger Tanjong 2005",
+  "place_id": "ChIJ7QieoaoJ2jERJa1mTmfrfg0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ismail Hayazi",
+      "author_url": "https://www.google.com/maps/contrib/111465622799587807042/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQavfLwLph35RecfkicsThMI1qKS3zn39D-IXP2NJDs5haKiKX=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Nice.",
+      "time": 1685100738,
+      "translated": false
+    },
+    {
+      "author_name": "Ds Mobile",
+      "author_url": "https://www.google.com/maps/contrib/116341118247094097393/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9TIUuJBGgLzgITZxjuitQ16w1rBmcB4uJxWz66cl6HLflgca2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice",
+      "time": 1693366839,
+      "translated": false
+    },
+    {
+      "author_name": "Yazi “hayazi” 8095",
+      "author_url": "https://www.google.com/maps/contrib/107059150025685575503/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_M-vMpZzQym3r1cmgboFXhKG2Exef81kafvE8FNkDr8zmVvYI=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "It's good to eat just like that...",
+      "time": 1655045159,
+      "translated": true
+    },
+    {
+      "author_name": "Soonhoe Teo",
+      "author_url": "https://www.google.com/maps/contrib/114605364511182662685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJ7VzszLuQsTV-V0ceyO6-tEpKKjQ66Smnx97NjACCg5J3Cg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669100162,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=972473398488116517",
+  "user_ratings_total": 4,
+  "vicinity": "56, Jalan Tanjung Kupang, Pendas, Gelang Patah"
+}

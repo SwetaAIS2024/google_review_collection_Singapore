@@ -1,0 +1,42 @@
+{
+  "formatted_address": "2 Jurong East Street 21, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.334832,
+      "lng": 103.746959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336217780291502,
+        "lng": 103.7485491802915
+      },
+      "southwest": {
+        "lat": 1.333519819708498,
+        "lng": 103.7458512197085
+      }
+    }
+  },
+  "name": "Shinko Technologies Pte. Ltd.",
+  "place_id": "ChIJa2nb2g0Q2jER80FiAIuorvQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sunny Xia",
+      "author_url": "https://www.google.com/maps/contrib/111848886383833956073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNeyCmqzlUZ2TPMF14JIkVmcGwyIO37mFQjezalSrT-BLijA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1650623670,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17631214906162430451",
+  "user_ratings_total": 1,
+  "vicinity": "2 Jurong East Street 21, Singapore"
+}

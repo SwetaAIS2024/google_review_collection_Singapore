@@ -1,0 +1,30 @@
+{
+  "formatted_address": "808A Chai Chee Rd, #14-118, Singapore 461808",
+  "geometry": {
+    "location": {
+      "lat": 1.3270006,
+      "lng": 103.9238701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328216280291502,
+        "lng": 103.9252737802915
+      },
+      "southwest": {
+        "lat": 1.325518319708498,
+        "lng": 103.9225758197085
+      }
+    }
+  },
+  "name": "TMDL",
+  "place_id": "ChIJw_NVO3492jERSiNxe-vDazw",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4353788880939459402",
+  "vicinity": "808A Chai Chee Road, #14-118"
+}

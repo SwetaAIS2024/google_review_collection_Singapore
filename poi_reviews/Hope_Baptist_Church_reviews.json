@@ -1,0 +1,43 @@
+{
+  "formatted_address": "201 Balestier, Robinson International Hotel, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3201133,
+      "lng": 103.852523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321470680291502,
+        "lng": 103.8539670302915
+      },
+      "southwest": {
+        "lat": 1.318772719708498,
+        "lng": 103.8512690697085
+      }
+    }
+  },
+  "name": "Hope Baptist Church",
+  "place_id": "ChIJjy-7utsZ2jER8oLUDSNEDok",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Habibur Rahman",
+      "author_url": "https://www.google.com/maps/contrib/112331321445571353991/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlpODELnZoblvjn_5ph1qON3Wpo107xPjpj1louNNZrTmLOcZv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732789309,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9875905950216651506",
+  "user_ratings_total": 1,
+  "vicinity": "201 Balestier, Robinson International Hotel"
+}

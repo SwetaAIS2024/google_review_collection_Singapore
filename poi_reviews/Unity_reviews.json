@@ -1,0 +1,30 @@
+{
+  "formatted_address": "131 Killiney Rd, #01-01/02/03 Grand Court, CGH Building, Singapore 239571",
+  "geometry": {
+    "location": {
+      "lat": 1.2972985,
+      "lng": 103.8383967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298647480291502,
+        "lng": 103.8397456802915
+      },
+      "southwest": {
+        "lat": 1.295949519708498,
+        "lng": 103.8370477197085
+      }
+    }
+  },
+  "name": "Unity",
+  "place_id": "ChIJ3--eIpoZ2jERm6CRTOIyhFc",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6306221325754146971",
+  "vicinity": "131 Killiney Road, #01-01/02/03 Grand Court, CGH Building"
+}

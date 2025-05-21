@@ -1,0 +1,43 @@
+{
+  "formatted_address": "409 Ang Mo Kio Ave 10, #01-38, 409 Market & Food Centre, Singapore 560409",
+  "geometry": {
+    "location": {
+      "lat": 1.3627194,
+      "lng": 103.8554121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363875780291502,
+        "lng": 103.8566892802915
+      },
+      "southwest": {
+        "lat": 1.361177819708498,
+        "lng": 103.8539913197085
+      }
+    }
+  },
+  "name": "Rui Feng Coffee Stall",
+  "place_id": "ChIJm2z2OB0X2jERJ9NhXMr9NXU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shane Astar",
+      "author_url": "https://www.google.com/maps/contrib/107880449591480719836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9z2YRMVCdXRvphLWF1NP2m8U7nnF7ii7sX-cQUfx18GmLng=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732780866,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8445935721778369319",
+  "user_ratings_total": 1,
+  "vicinity": "409 Ang Mo Kio Avenue 10, #01-38, 409 Market & Food Centre"
+}

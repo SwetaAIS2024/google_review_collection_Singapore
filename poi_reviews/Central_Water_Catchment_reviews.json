@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Central Water Catchment, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3551526,
+      "lng": 103.7972022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416171873364297,
+        "lng": 103.8367990667659
+      },
+      "southwest": {
+        "lat": 1.335729869903887,
+        "lng": 103.7716728424235
+      }
+    }
+  },
+  "name": "Central Water Catchment",
+  "place_id": "ChIJv59jeDsR2jERAKfarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Central+Water+Catchment,+Singapore&ftid=0x31da113b78639fbf:0x500f7acaedaa700",
+  "vicinity": "Singapore"
+}

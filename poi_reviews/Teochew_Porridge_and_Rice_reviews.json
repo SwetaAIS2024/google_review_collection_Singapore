@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Yuan Ching Rd, #01-01, Singapore 618642",
+  "geometry": {
+    "location": {
+      "lat": 1.3256428,
+      "lng": 103.7254459
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327084230291502,
+        "lng": 103.7267626302915
+      },
+      "southwest": {
+        "lat": 1.324386269708498,
+        "lng": 103.7240646697085
+      }
+    }
+  },
+  "name": "Teochew Porridge & Rice",
+  "place_id": "ChIJz470TgAF2jERAg451xiqrIw",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10136663884970921474",
+  "vicinity": "3 Yuan Ching Road, #01-01, Singapore"
+}

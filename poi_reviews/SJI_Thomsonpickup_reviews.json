@@ -1,0 +1,29 @@
+{
+  "formatted_address": "512A Thomson Rd, Singapore 298137",
+  "geometry": {
+    "location": {
+      "lat": 1.333502,
+      "lng": 103.839769
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334743530291502,
+        "lng": 103.8410350802915
+      },
+      "southwest": {
+        "lat": 1.332045569708498,
+        "lng": 103.8383371197085
+      }
+    }
+  },
+  "name": "SJI Thomsonpickup",
+  "place_id": "ChIJ4WWcUwAX2jERQvEkHRWwLvg",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17883424775064580418",
+  "vicinity": "512A Thomson Road, Singapore"
+}

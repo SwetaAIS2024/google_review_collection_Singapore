@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4055795,
+      "lng": 103.9043384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406910080291502,
+        "lng": 103.9057208302915
+      },
+      "southwest": {
+        "lat": 1.404212119708498,
+        "lng": 103.9030228697085
+      }
+    }
+  },
+  "name": "Punggol PL - Opp Punggol View Pr Sch",
+  "place_id": "ChIJK6nBmPwV2jERrnp4wAhFOA0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=952587225080036014",
+  "vicinity": "Singapore"
+}

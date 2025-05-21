@@ -1,0 +1,45 @@
+{
+  "formatted_address": "101 Upper Cross St, People's Park Centre, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.285697,
+      "lng": 103.843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286911030291502,
+        "lng": 103.8454818802915
+      },
+      "southwest": {
+        "lat": 1.284213069708498,
+        "lng": 103.8427839197085
+      }
+    }
+  },
+  "name": "AXS",
+  "place_id": "ChIJqzqlx3QZ2jERZ3SIFlGZHt4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "X XX",
+      "author_url": "https://www.google.com/maps/contrib/114471509052507068942/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZYF2h4ACaVxBCQ-J9aqsk_oJEcrQYcfqP9I-hHPvG7lvNP3wo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "It’s at the basement.",
+      "time": 1512043548,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16005398699270763623",
+  "user_ratings_total": 1,
+  "vicinity": "101 Upper Cross Street, People's Park Centre"
+}

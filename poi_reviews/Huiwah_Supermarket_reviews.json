@@ -1,0 +1,45 @@
+{
+  "formatted_address": "406 Jurong West Street 42, Block 406, Singapore 640406",
+  "geometry": {
+    "location": {
+      "lat": 1.3543178,
+      "lng": 103.7223628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355586930291502,
+        "lng": 103.7237018802915
+      },
+      "southwest": {
+        "lat": 1.352888969708498,
+        "lng": 103.7210039197085
+      }
+    }
+  },
+  "name": "Huiwah Supermarket",
+  "place_id": "ChIJTwwrGtoP2jERotDRZ9Pootk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "YC Ong",
+      "author_url": "https://www.google.com/maps/contrib/110915460936351023263/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnaV40feKvYO_DVrwslB4B88Oegu6a4rjvOaABNXgggMmQ2YG7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520259265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15682352847135035554",
+  "user_ratings_total": 1,
+  "vicinity": "406 Jurong West Street 42, Block 406, Singapore"
+}

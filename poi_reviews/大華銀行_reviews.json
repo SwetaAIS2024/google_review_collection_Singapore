@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Eu Tong Sen St, Singapore 059811",
+  "geometry": {
+    "location": {
+      "lat": 1.283675,
+      "lng": 103.8426208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284986130291502,
+        "lng": 103.8439842302915
+      },
+      "southwest": {
+        "lat": 1.282288169708498,
+        "lng": 103.8412862697085
+      }
+    }
+  },
+  "name": "大華銀行",
+  "place_id": "ChIJw-TYcXMZ2jER-ieDyJ-Z-i8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Qi Meng",
+      "author_url": "https://www.google.com/maps/contrib/110702030164444235229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_oo1lijdnug77rSzuO6hqITlCQYC6-utzIpkTvFkcSTE8PA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "too busy",
+      "time": 1694060969,
+      "translated": false
+    },
+    {
+      "author_name": "ER NK",
+      "author_url": "https://www.google.com/maps/contrib/100784054338930926246/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYHdOPL3H_ZEghFIVlL_WzUsRoUqtd06MisDLlOjk8Mki59sim7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Poor service",
+      "time": 1669196585,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3457244575503165434",
+  "user_ratings_total": 2,
+  "vicinity": "Eu Tong Sen Street"
+}

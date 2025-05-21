@@ -1,0 +1,68 @@
+{
+  "formatted_address": "38 Telok Blangah Rise, #01-327, Singapore 090038",
+  "geometry": {
+    "location": {
+      "lat": 1.2724008,
+      "lng": 103.8221725
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273646980291502,
+        "lng": 103.8235668802915
+      },
+      "southwest": {
+        "lat": 1.270949019708498,
+        "lng": 103.8208689197085
+      }
+    }
+  },
+  "name": "Newrise Minimart",
+  "place_id": "ChIJ6a8bJWAZ2jER1SnXlOI4SXU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jasper Tan",
+      "author_url": "https://www.google.com/maps/contrib/109467384883591114939/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvm2bCE6pWjPZ_l04UfYoL97iZ3ybmAaKuv-iqGUB8Mmux_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Friendly service recommend to people who love cheap things like me",
+      "time": 1713872948,
+      "translated": false
+    },
+    {
+      "author_name": "Siddharth Jaswal",
+      "author_url": "https://www.google.com/maps/contrib/111967921678097990314/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZfArbHtitH_fxtthLMCNFXttgA4qTXWQhaOoDALt8vnUI0mgH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583387138,
+      "translated": false
+    },
+    {
+      "author_name": "Sheikh Saad Madar",
+      "author_url": "https://www.google.com/maps/contrib/110102985819680804679/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL9Io2c6ZIcCo2qDt49Pv1tP2jBNf3dMpJZlnbQFc81ZDIYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1535678850,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8451348721548339669",
+  "user_ratings_total": 3,
+  "vicinity": "38 Telok Blangah Rise, #01-327, Singapore"
+}

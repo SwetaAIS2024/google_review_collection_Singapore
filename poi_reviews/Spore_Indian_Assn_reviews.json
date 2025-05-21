@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3182959,
+      "lng": 103.8551689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319671930291502,
+        "lng": 103.8565203802915
+      },
+      "southwest": {
+        "lat": 1.316973969708498,
+        "lng": 103.8538224197085
+      }
+    }
+  },
+  "name": "S'pore Indian Assn",
+  "place_id": "ChIJ_8oPldoZ2jER6sBXAJ_mBT4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "betty yu",
+      "author_url": "https://www.google.com/maps/contrib/114804566752508951907/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1s16KYAPbNIRqkq3hJ7vdI9nlZC3cWZnoZ_l1SCDWCHoPjkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "Good",
+      "time": 1433861676,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandre Kotha",
+      "author_url": "https://www.google.com/maps/contrib/116024885715087313582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbpkmrPwlMsRMzMPUooHj4DK8U4BI35vmilI1iX_b8aNbpSeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725691689,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4469231775815024874",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

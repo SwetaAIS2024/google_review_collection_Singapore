@@ -1,0 +1,42 @@
+{
+  "formatted_address": "320 Clementi Ave 4, Block 320, Singapore 120320",
+  "geometry": {
+    "location": {
+      "lat": 1.3170232,
+      "lng": 103.7654654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318298830291502,
+        "lng": 103.7669619802915
+      },
+      "southwest": {
+        "lat": 1.315600869708498,
+        "lng": 103.7642640197085
+      }
+    }
+  },
+  "name": "Advanced Montessori",
+  "place_id": "ChIJ44Pkjo8a2jEReUX2WLOfoJ4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Natashi Perera",
+      "author_url": "https://www.google.com/maps/contrib/116210651551053382155/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLHhRTRlk3E46uiV8kbcu4Q2NRXgWhWXRofGCiMuubTO4qdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730542249,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11430311446906815865",
+  "user_ratings_total": 1,
+  "vicinity": "320 Clementi Avenue 4, Block 320"
+}

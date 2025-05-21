@@ -1,0 +1,27 @@
+{
+  "formatted_address": "11, Jln Medini Timur 5/4, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3959315,
+      "lng": 103.635587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397337780291502,
+        "lng": 103.6369822802915
+      },
+      "southwest": {
+        "lat": 1.394639819708498,
+        "lng": 103.6342843197085
+      }
+    }
+  },
+  "name": "MCWK place",
+  "place_id": "ChIJs9enNwAJ2jERNdKVBRhv2VA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5825809741944050229",
+  "vicinity": "11, Jalan Medini Timur 5/4, Iskandar Puteri"
+}

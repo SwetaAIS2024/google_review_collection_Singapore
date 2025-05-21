@@ -1,0 +1,28 @@
+{
+  "formatted_address": "80 Redhill Ln, Singapore 150080",
+  "geometry": {
+    "location": {
+      "lat": 1.2878337,
+      "lng": 103.8187886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289315030291502,
+        "lng": 103.8201114802915
+      },
+      "southwest": {
+        "lat": 1.286617069708498,
+        "lng": 103.8174135197085
+      }
+    }
+  },
+  "name": "Redhill Mall",
+  "place_id": "ChIJ4735CAAb2jER-6u8qcpDjNc",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15531863752604167163",
+  "vicinity": "80 Redhill Lane, Singapore"
+}

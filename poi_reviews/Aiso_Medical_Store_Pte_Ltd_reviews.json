@@ -1,0 +1,30 @@
+{
+  "formatted_address": "10 Napier Rd, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3067988,
+      "lng": 103.8206082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307972080291502,
+        "lng": 103.8218749802915
+      },
+      "southwest": {
+        "lat": 1.305274119708498,
+        "lng": 103.8191770197085
+      }
+    }
+  },
+  "name": "Aiso Medical Store Pte Ltd",
+  "place_id": "ChIJlX7nayAa2jERx5UJhcJAI8k",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14493499230008219079",
+  "vicinity": "10 Napier Road"
+}

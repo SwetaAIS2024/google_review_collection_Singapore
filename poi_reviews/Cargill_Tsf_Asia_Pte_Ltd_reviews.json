@@ -1,0 +1,29 @@
+{
+  "formatted_address": "23-01 Beach Rd, Singapore 199555",
+  "geometry": {
+    "location": {
+      "lat": 1.2959321,
+      "lng": 103.855585
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297209080291502,
+        "lng": 103.8570409302915
+      },
+      "southwest": {
+        "lat": 1.294511119708498,
+        "lng": 103.8543429697085
+      }
+    }
+  },
+  "name": "Cargill Tsf Asia Pte Ltd",
+  "place_id": "ChIJFeaJeLQZ2jERQNzsYOuBckA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4643917013715835968",
+  "vicinity": "23-01 Beach Road, Singapore"
+}

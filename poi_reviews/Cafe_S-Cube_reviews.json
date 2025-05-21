@@ -1,0 +1,55 @@
+{
+  "formatted_address": "150 Kampong Ampat, Singapore 368324",
+  "geometry": {
+    "location": {
+      "lat": 1.3350074,
+      "lng": 103.8837291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336408080291502,
+        "lng": 103.8849021302915
+      },
+      "southwest": {
+        "lat": 1.333710119708498,
+        "lng": 103.8822041697085
+      }
+    }
+  },
+  "name": "Cafe S-Cube",
+  "place_id": "ChIJAXHvPI4X2jERxEvpAKLi5KY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "sharon tan",
+      "author_url": "https://www.google.com/maps/contrib/113307982039676782977/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgT61JAF6kytMCouOtg2QVxV_XkyImPxLPsLl7IH8DMpJ5DQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "It served very good coffee. Food is good esp the Aglio Olio",
+      "time": 1533374100,
+      "translated": false
+    },
+    {
+      "author_name": "Rajesh Dhumansure",
+      "author_url": "https://www.google.com/maps/contrib/115511478956247668071/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzJCQGrmUA6qDbiqhjMjvRd2Q4DsH-XQr8XFZ6srgY53moqyI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700546063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12025986090413935556",
+  "user_ratings_total": 2,
+  "vicinity": "150 Kampong Ampat"
+}

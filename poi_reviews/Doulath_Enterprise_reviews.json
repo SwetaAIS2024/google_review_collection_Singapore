@@ -1,0 +1,66 @@
+{
+  "formatted_address": "200 Jln Sultan, #01-K1, Singapore 199018",
+  "geometry": {
+    "location": {
+      "lat": 1.303828,
+      "lng": 103.8614791
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305073680291502,
+        "lng": 103.8626551802915
+      },
+      "southwest": {
+        "lat": 1.302375719708498,
+        "lng": 103.8599572197085
+      }
+    }
+  },
+  "name": "Doulath Enterprise",
+  "place_id": "ChIJyW6vvLYZ2jER091e8hBIzhQ",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "One of the last few mama shops in Singapore. Small but quite comprehensive.",
+      "time": 1704968570,
+      "translated": false
+    },
+    {
+      "author_name": "Habeeb Mohamed",
+      "author_url": "https://www.google.com/maps/contrib/102427250842562347690/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUSzIgvGGrOwxV3y4SiZlQhSGVlmum-tKBpXq1zIFFuwwgPBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1647873752,
+      "translated": false
+    },
+    {
+      "author_name": "BUDY WIDIYANTO",
+      "author_url": "https://www.google.com/maps/contrib/108188141453450427156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIDhPJ5rTTlVeBkz7M_jbbbsx-XZPaB9ByQSN80qJIprofg9YWHg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548924393,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1499214963583933907",
+  "user_ratings_total": 3,
+  "vicinity": "200 Jalan Sultan, #01-K1, Singapore"
+}

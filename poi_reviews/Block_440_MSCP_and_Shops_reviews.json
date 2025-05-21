@@ -1,0 +1,31 @@
+{
+  "formatted_address": "440 Bukit Batok West Ave. 8, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35579,
+      "lng": 103.7393704
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357208080291502,
+        "lng": 103.7406358302915
+      },
+      "southwest": {
+        "lat": 1.354510119708498,
+        "lng": 103.7379378697085
+      }
+    }
+  },
+  "name": "Block 440 MSCP & Shops",
+  "place_id": "ChIJ3-IALwAR2jER_7BLlo4qDQg",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=580166718895927551",
+  "vicinity": "440 Bukit Batok West Avenue 8"
+}

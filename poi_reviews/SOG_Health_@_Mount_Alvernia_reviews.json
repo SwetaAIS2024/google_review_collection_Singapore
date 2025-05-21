@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Rd, #08-64 Medical Centre D, Mount Alvernia Hospital, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3416368,
+      "lng": 103.8372638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342935380291502,
+        "lng": 103.8386234802915
+      },
+      "southwest": {
+        "lat": 1.340237419708498,
+        "lng": 103.8359255197085
+      }
+    }
+  },
+  "name": "SOG Health @ Mount Alvernia",
+  "place_id": "ChIJ51FFSpIX2jERxqAKqJOqavk",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17972364814131568838",
+  "vicinity": "820 Thomson Road, #08-64 Medical Centre D, Mount Alvernia Hospital"
+}

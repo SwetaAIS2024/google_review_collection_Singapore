@@ -1,0 +1,73 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2811316,
+      "lng": 103.8514427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282631730291502,
+        "lng": 103.8528140802915
+      },
+      "southwest": {
+        "lat": 1.279933769708498,
+        "lng": 103.8501161197085
+      }
+    }
+  },
+  "name": "Myos Health",
+  "place_id": "ChIJAf-tSGsY2jERnzCCEbAP4a0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chandra Wijaya",
+      "author_url": "https://www.google.com/maps/contrib/104256070902109077975/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPZfOINuMqZXATHf-FU4qC_Omu4EIk75kmU2PYUJfWJ0WRuuwB=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562683219,
+      "translated": false
+    },
+    {
+      "author_name": "Ling The cat who loves cats",
+      "author_url": "https://www.google.com/maps/contrib/107316272367804749647/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeqVwYbPrtzHJdVzN2cZlLxdM-8fvVVPXH6VB89HWHjBlbkbSogQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558928632,
+      "translated": false
+    },
+    {
+      "author_name": "IZ",
+      "author_url": "https://www.google.com/maps/contrib/105692438640552307836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcR0omqNmBuycysiPHBU6m21mWQoA2TPY_n3l7ZXPuvNYclUzP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515373428,
+      "translated": false
+    },
+    {
+      "author_name": "Kelvin Yap",
+      "author_url": "https://www.google.com/maps/contrib/102108957383013851209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3Dj0-Dpyl7Cbbz4vzgUU91Ps6vGNEZmE45S05yP5uhElS7A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508403519,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12529312887203836063",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

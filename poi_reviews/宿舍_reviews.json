@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore, Tampines Central55号#7",
+  "geometry": {
+    "location": {
+      "lat": 1.3554208,
+      "lng": 103.9243249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356673580291502,
+        "lng": 103.9255038302915
+      },
+      "southwest": {
+        "lat": 1.353975619708498,
+        "lng": 103.9228058697085
+      }
+    }
+  },
+  "name": "宿舍",
+  "place_id": "ChIJZXSsfAA92jERBq1Ey6IxoNs",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15825703665844661510",
+  "vicinity": "55 Tampines Central, #7"
+}

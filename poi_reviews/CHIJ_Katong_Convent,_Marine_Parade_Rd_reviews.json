@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307192,
+      "lng": 103.917648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308595880291502,
+        "lng": 103.9189876802915
+      },
+      "southwest": {
+        "lat": 1.305897919708498,
+        "lng": 103.9162897197085
+      }
+    }
+  },
+  "name": "CHIJ Katong Convent, Marine Parade Rd",
+  "place_id": "ChIJi5Gefp8i2jERPkwQQ_QZ71I",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5976023767431793726",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9 Toa Payoh Industrial Park, Singapore 319061",
+  "geometry": {
+    "location": {
+      "lat": 1.3367779,
+      "lng": 103.8601228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338027130291502,
+        "lng": 103.8615099302915
+      },
+      "southwest": {
+        "lat": 1.335329169708498,
+        "lng": 103.8588119697085
+      }
+    }
+  },
+  "name": "Lok Lok",
+  "place_id": "ChIJp3qTVLQX2jERGAuA9_S2Xrc",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13213199519992253208",
+  "vicinity": "9 Toa Payoh Industrial Park"
+}

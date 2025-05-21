@@ -1,0 +1,29 @@
+{
+  "formatted_address": "32 Harbour Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2847663,
+      "lng": 103.774298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286073980291502,
+        "lng": 103.7757081802915
+      },
+      "southwest": {
+        "lat": 1.283376019708498,
+        "lng": 103.7730102197085
+      }
+    }
+  },
+  "name": "Chinese Economy Rice",
+  "place_id": "ChIJYWv8JwAb2jERR6MoPL3RqKk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12225251799185531719",
+  "vicinity": "32 Harbour Drive"
+}

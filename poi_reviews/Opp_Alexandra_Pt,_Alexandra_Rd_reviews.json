@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27701,
+      "lng": 103.80226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278331830291502,
+        "lng": 103.8036880802915
+      },
+      "southwest": {
+        "lat": 1.275633869708498,
+        "lng": 103.8009901197085
+      }
+    }
+  },
+  "name": "Opp Alexandra Pt, Alexandra Rd",
+  "place_id": "ChIJr1os7sYb2jERxeMgKYK7J6M",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jason C",
+      "author_url": "https://www.google.com/maps/contrib/110779927294807384678/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6P8fBq1gSMRvCi5XbqE0qM__iVivxtfanoNe3t7eLSHkWjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Put this in a different colour away from the ACTUAL  PUBLIC TRANSPORT pls. 0 star if i could",
+      "time": 1728902350,
+      "translated": false
+    },
+    {
+      "author_name": "ᴍʀ ᴘᴀᴠɪɴ",
+      "author_url": "https://www.google.com/maps/contrib/115961014643328402070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa1xMNAP3_Ttcn4o0VfmjOOrN40_FTgetylORYBAYjqUJQPuc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703121894,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11756571519984133061",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

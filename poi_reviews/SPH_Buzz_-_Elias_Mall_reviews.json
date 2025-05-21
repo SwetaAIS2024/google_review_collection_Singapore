@@ -1,0 +1,46 @@
+{
+  "formatted_address": "625 Elias Rd, #01-K2, Singapore 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.3777277,
+      "lng": 103.9428158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379089730291502,
+        "lng": 103.9441468802915
+      },
+      "southwest": {
+        "lat": 1.376391769708498,
+        "lng": 103.9414489197085
+      }
+    }
+  },
+  "name": "SPH Buzz - Elias Mall",
+  "place_id": "ChIJZdXwlb492jERDpj_DNdfTfg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Javier Tan",
+      "author_url": "https://www.google.com/maps/contrib/106617631020704357051/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPffm7jSYwFJeu7aY0FTrp8o0RGqoslIL-6-4489dW3RCUpLmltQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Near a supermarket so not alot of business but staff was friendly and had credit card payment so pretty convenient!",
+      "time": 1675583810,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17892062271853533198",
+  "user_ratings_total": 1,
+  "vicinity": "625 Elias Road, #01-K2, Singapore"
+}

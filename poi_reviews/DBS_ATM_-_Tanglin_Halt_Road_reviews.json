@@ -1,0 +1,29 @@
+{
+  "formatted_address": "88 Tanglin Halt Rd, Singapore 141088",
+  "geometry": {
+    "location": {
+      "lat": 1.3014357,
+      "lng": 103.7983856
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302765680291502,
+        "lng": 103.7996897802915
+      },
+      "southwest": {
+        "lat": 1.300067719708498,
+        "lng": 103.7969918197085
+      }
+    }
+  },
+  "name": "DBS ATM - Tanglin Halt Road",
+  "place_id": "ChIJNw2LjQ0b2jERepulC4auDzk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4111696875556805498",
+  "vicinity": "88 Tanglin Halt Road, Singapore"
+}

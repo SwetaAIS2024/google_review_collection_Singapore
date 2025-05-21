@@ -1,0 +1,55 @@
+{
+  "formatted_address": "215C Bidadari Park Dr, Singapore 363215",
+  "geometry": {
+    "location": {
+      "lat": 1.3423624,
+      "lng": 103.8755276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343691880291502,
+        "lng": 103.8767647302915
+      },
+      "southwest": {
+        "lat": 1.340993919708498,
+        "lng": 103.8740667697085
+      }
+    }
+  },
+  "name": "11th Street Teochew Fish Soup 第十一街潮州魚湯",
+  "place_id": "ChIJNzDnQgAX2jER00U8P_r_tQ8",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Fairy",
+      "author_url": "https://www.google.com/maps/contrib/110707374703256523409/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEi0dDZkdHrz1a50eJxXpfzmlQC5Ivayi_y2PRepQS58WfQ0GJ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Sliced fish soup is nice. The fish tasted fresh and there are tofu, bitter melon and lettuce in it.",
+      "time": 1746834910,
+      "translated": false
+    },
+    {
+      "author_name": "Sophie",
+      "author_url": "https://www.google.com/maps/contrib/115627449826742602116/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlvVWtm1YXLImhwmID4QN3BQAwMVhsKoAeiTCybJBUtdLWUQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747047120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1132092331621369299",
+  "user_ratings_total": 2,
+  "vicinity": "215C Bidadari Park Drive, Singapore"
+}

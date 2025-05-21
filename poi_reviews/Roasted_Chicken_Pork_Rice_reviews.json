@@ -1,0 +1,29 @@
+{
+  "formatted_address": "32 Harbour Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2846219,
+      "lng": 103.7742189
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285933830291502,
+        "lng": 103.7756227302915
+      },
+      "southwest": {
+        "lat": 1.283235869708498,
+        "lng": 103.7729247697085
+      }
+    }
+  },
+  "name": "Roasted Chicken/Pork Rice",
+  "place_id": "ChIJX5I0egAb2jERF7OiCB2_q0c",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5164431529130242839",
+  "vicinity": "32 Harbour Drive"
+}

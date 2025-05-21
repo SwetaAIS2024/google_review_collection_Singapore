@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Seletar West Farmway 9, Singapore 797977",
+  "geometry": {
+    "location": {
+      "lat": 1.3979078,
+      "lng": 103.8618386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399178530291502,
+        "lng": 103.8631805802915
+      },
+      "southwest": {
+        "lat": 1.396480569708498,
+        "lng": 103.8604826197085
+      }
+    }
+  },
+  "name": "Seletar Plants",
+  "place_id": "ChIJ5eGdNAAX2jERimfX50-Iisk",
+  "types": [
+    "florist",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14522569825183033226",
+  "vicinity": "1 Seletar West Farmway 9, Singapore"
+}

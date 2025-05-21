@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Yishun Central 1, Yishun Pond Park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4279278,
+      "lng": 103.8399388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.429440730291502,
+        "lng": 103.8415996802915
+      },
+      "southwest": {
+        "lat": 1.426742769708498,
+        "lng": 103.8389017197085
+      }
+    }
+  },
+  "name": "Therapeutic Garden @ Yishun Pond Park",
+  "place_id": "ChIJm0r-T68V2jERQ6xZd3J8OIw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lani Alana",
+      "author_url": "https://www.google.com/maps/contrib/101378067856571917795/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqAKaV02BmdQJLj3sptJyw40cMxnz4bXRoFMqhITvtN7oxCBcO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It's one of my spot places for jogging 🏃‍♀️\nUsually I come in the evening after a long day 😊😇",
+      "time": 1705071196,
+      "translated": false
+    },
+    {
+      "author_name": "Bon Vivant",
+      "author_url": "https://www.google.com/maps/contrib/101832767658612270433/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9GYjs9pS7wmOQSDeS8tsXi6wJYVJvZtcfgZaVPvFd5v46LMs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Quiet and healing. But beware of riders and dog strollers.",
+      "time": 1710124490,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10103962595076189251",
+  "user_ratings_total": 2,
+  "vicinity": "Yishun Central 1, Yishun Pond Park"
+}

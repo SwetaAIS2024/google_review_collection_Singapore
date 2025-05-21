@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1207 Dover Rd, Singapore 139654",
+  "geometry": {
+    "location": {
+      "lat": 1.303254,
+      "lng": 103.776985
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304745930291502,
+        "lng": 103.7783306302915
+      },
+      "southwest": {
+        "lat": 1.302047969708498,
+        "lng": 103.7756326697085
+      }
+    }
+  },
+  "name": "College Clinic",
+  "place_id": "ChIJVyHoy1ga2jER-Mtv7kGhXXE",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8168862603665198072",
+  "vicinity": "1207 Dover Road"
+}

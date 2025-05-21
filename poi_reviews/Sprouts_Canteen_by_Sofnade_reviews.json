@@ -1,0 +1,43 @@
+{
+  "formatted_address": "15 Yishun Street 61, Rainbow Centre Park School, Singapore 768548",
+  "geometry": {
+    "location": {
+      "lat": 1.4202582,
+      "lng": 103.8375412
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421626680291502,
+        "lng": 103.8389277802915
+      },
+      "southwest": {
+        "lat": 1.418928719708498,
+        "lng": 103.8362298197085
+      }
+    }
+  },
+  "name": "Sprouts Canteen by Sofnade",
+  "place_id": "ChIJK6f6nGoV2jERCplvhRjllkw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Noor Aqqim Dor Rahman",
+      "author_url": "https://www.google.com/maps/contrib/108792812570247795603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmasRaPlb4WfDEL9Y1LSrjZ0yiVvRCnLHX9ZRw-8wVO3xzJlhHxg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725352553,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5518850286869780746",
+  "user_ratings_total": 1,
+  "vicinity": "15 Yishun Street 61, Rainbow Centre Park School"
+}

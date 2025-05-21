@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2991528,
+      "lng": 103.8855391
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300501630291502,
+        "lng": 103.8868561302915
+      },
+      "southwest": {
+        "lat": 1.297803669708498,
+        "lng": 103.8841581697085
+      }
+    }
+  },
+  "name": "Opp Katong Pk Stn",
+  "place_id": "ChIJ26pJX0MY2jERUTVjLh2Zpdk",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Jacky Ngai",
+      "author_url": "https://www.google.com/maps/contrib/108727373354871398771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk1xD6Itxkrnu8KxyvP0ktVUEo6rn2A0aM6jBV0FqWkpp4jo6h=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Bus 401 was temporarily terminated. Not updated on google finding.",
+      "time": 1618049212,
+      "translated": false
+    },
+    {
+      "author_name": "Tanvi Mittra",
+      "author_url": "https://www.google.com/maps/contrib/107697944967359117959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQzgfxNjClzNF0_FItRXvUXev4hdWJAwRHs_IS_vUgs7BsDuYc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Not sure.",
+      "time": 1672295372,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690546839,
+      "translated": false
+    },
+    {
+      "author_name": "Jefri Abu Bakar",
+      "author_url": "https://www.google.com/maps/contrib/117213725776483530190/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqHqrnB4NYXl44Rhg2rdETZArFrXmi-sHijRCAqEHxvhiUYlg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1671501134,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15683109627998975313",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

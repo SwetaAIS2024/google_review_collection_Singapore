@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37812,
+      "lng": 103.94128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379463230291502,
+        "lng": 103.9426810802915
+      },
+      "southwest": {
+        "lat": 1.376765269708498,
+        "lng": 103.9399831197085
+      }
+    }
+  },
+  "name": "Opp Blk 633, Elias Road",
+  "place_id": "ChIJ38EIkL492jER2cd2WyLbMe4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17163740595495552985",
+  "vicinity": "Singapore"
+}

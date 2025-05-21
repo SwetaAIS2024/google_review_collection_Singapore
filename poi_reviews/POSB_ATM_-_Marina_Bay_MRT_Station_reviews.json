@@ -1,0 +1,53 @@
+{
+  "formatted_address": "21 Marina Station Road, Singapore 018990",
+  "geometry": {
+    "location": {
+      "lat": 1.2761381,
+      "lng": 103.8547732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277375230291502,
+        "lng": 103.8562868302915
+      },
+      "southwest": {
+        "lat": 1.274677269708498,
+        "lng": 103.8535888697085
+      }
+    }
+  },
+  "name": "POSB ATM - Marina Bay MRT Station",
+  "place_id": "ChIJ7Xsv6hAZ2jERXF_428Cyc9o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "CHANDRU C",
+      "author_url": "https://www.google.com/maps/contrib/103802065692008797707/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHARvLZF1zMUtdJiA1UPbnKVWEaFKRTlgFCcsStAgHgcQ8BTIYhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710732997,
+      "translated": false
+    },
+    {
+      "author_name": "Jon Tay",
+      "author_url": "https://www.google.com/maps/contrib/108677224044373674731/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW23pXQrYMGFMWYljixwHZrhWU5Krkzt1i499zo2TTTt4r9_QFF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1448459646,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15741121663983968092",
+  "user_ratings_total": 2,
+  "vicinity": "21 Marina Station Road, Singapore"
+}

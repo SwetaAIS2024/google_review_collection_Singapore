@@ -1,0 +1,69 @@
+{
+  "formatted_address": "201 Yishun Ave 2, Singapore 769092",
+  "geometry": {
+    "location": {
+      "lat": 1.4173417,
+      "lng": 103.8329558
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418510780291502,
+        "lng": 103.8343454302915
+      },
+      "southwest": {
+        "lat": 1.415812819708498,
+        "lng": 103.8316474697085
+      }
+    }
+  },
+  "name": "DBS ATM - Khatib MRT Station",
+  "place_id": "ChIJe6V5Jh8V2jERo631AcICRE8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Boon Keong Ting",
+      "author_url": "https://www.google.com/maps/contrib/102745093335087698836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKr_fIprkKIRQeTzRD9ovnG9lU_ESEPmp9JAoGmHvxXajCYkg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It is very easy to access, as it is just outside the mrt station in front of the toilet",
+      "time": 1713325428,
+      "translated": false
+    },
+    {
+      "author_name": "J",
+      "author_url": "https://www.google.com/maps/contrib/116779740417137420892/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-_7b0BEvJiiOPX42uVb-OisOU5PvQvkP27BqfPj8Uf_7fvrs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "It's there, just opposite the toilets",
+      "time": 1651039461,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Ong",
+      "author_url": "https://www.google.com/maps/contrib/103420915591627732670/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3rbQ1A-J90_egBbYxVQWmsRTNN4sZgNq6jhy5JSE-hxpc18Xm=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "No DBS ATM",
+      "time": 1619059234,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5711693259692420515",
+  "user_ratings_total": 3,
+  "vicinity": "201 Yishun Avenue 2, Singapore"
+}

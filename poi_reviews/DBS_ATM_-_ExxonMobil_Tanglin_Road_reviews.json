@@ -1,0 +1,29 @@
+{
+  "formatted_address": "353 Tanglin Rd, Singapore 247959",
+  "geometry": {
+    "location": {
+      "lat": 1.29482,
+      "lng": 103.81635
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296220480291502,
+        "lng": 103.8176913802915
+      },
+      "southwest": {
+        "lat": 1.293522519708498,
+        "lng": 103.8149934197085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Tanglin Road",
+  "place_id": "ChIJMce_Vx0b2jERKfN1k0z0jCs",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3138151650099065641",
+  "vicinity": "353 Tanglin Road, Singapore"
+}

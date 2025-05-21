@@ -1,0 +1,56 @@
+{
+  "formatted_address": "136 Potong Pasir Ave 3, Singapore 350136",
+  "geometry": {
+    "location": {
+      "lat": 1.3340743,
+      "lng": 103.8666042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335409730291502,
+        "lng": 103.8679078302915
+      },
+      "southwest": {
+        "lat": 1.332711769708498,
+        "lng": 103.8652098697085
+      }
+    }
+  },
+  "name": "Fresh Produce Specialist",
+  "place_id": "ChIJJ17GZ3gX2jERDXdCz-D6W3k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ban Guan Gea",
+      "author_url": "https://www.google.com/maps/contrib/107994774694068927671/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0SNWqCXxAHzNnXRexD9lYpDXOQSqtGpFYrL3f-QEaCD-NIRY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Mid-sized provision shop. Opens 24 hours. Wet market section opens from about 6.30 or 7 am till noon. Located on ground floor of HDB block 136. Well-stocked and lots of parking space. Popular among locals...especially the fresh pork, fish and prawn.",
+      "time": 1518364308,
+      "translated": false
+    },
+    {
+      "author_name": "Aloysius L",
+      "author_url": "https://www.google.com/maps/contrib/109116338207654158938/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0GYskJupYgcoMayqp_OLN_M1t1rkfLnn-AsC_UIb_-BJIfqBgJA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643443677,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8744858944926807821",
+  "user_ratings_total": 2,
+  "vicinity": "136 Potong Pasir Avenue 3, Singapore"
+}

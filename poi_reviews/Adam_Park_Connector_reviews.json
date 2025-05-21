@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Tanglin, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3227825,
+      "lng": 103.8135065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324126880291502,
+        "lng": 103.8147893802915
+      },
+      "southwest": {
+        "lat": 1.321428919708498,
+        "lng": 103.8120914197085
+      }
+    }
+  },
+  "name": "Adam Park Connector",
+  "place_id": "ChIJAWryKwAb2jEREk4Py6FXlcg",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14453554931523603986",
+  "vicinity": ""
+}

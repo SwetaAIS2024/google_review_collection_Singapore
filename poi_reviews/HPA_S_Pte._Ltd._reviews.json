@@ -1,0 +1,63 @@
+{
+  "formatted_address": "1 Tuas South Ave 6, Unit 01-20, Singapore 637021",
+  "geometry": {
+    "location": {
+      "lat": 1.3035749,
+      "lng": 103.625995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304728880291502,
+        "lng": 103.6272725302915
+      },
+      "southwest": {
+        "lat": 1.302030919708498,
+        "lng": 103.6245745697085
+      }
+    }
+  },
+  "name": "HPA (S) Pte. Ltd.",
+  "place_id": "ChIJ9Z0VA_kP2jERNa4RQBzORFA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Marcelo Pereira",
+      "author_url": "https://www.google.com/maps/contrib/101763842318031459069/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAy6b06tGczwz6qPTyGXg0K2eMI-VnTa-29e1KYGzAhr1Ydrku=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Muito bom....",
+      "time": 1693168458,
+      "translated": false
+    },
+    {
+      "author_name": "Rizal Salim",
+      "author_url": "https://www.google.com/maps/contrib/116518539638547767532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2GFeRP8PWHje9XpqknVsJ2zKKCUOIWycg7AwtF_kwE9iDKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1550038523,
+      "translated": false
+    },
+    {
+      "author_name": "sukirno 576",
+      "author_url": "https://www.google.com/maps/contrib/112735963093515481231/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvxV4MiASaKT5VAlR1HkOIEI7oRQPJCUj98VhzEJ-Ehzd4Gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501734328,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5783974442179866165",
+  "user_ratings_total": 3,
+  "vicinity": "1 Tuas South Avenue 6, Unit 01-20, Singapore"
+}

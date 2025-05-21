@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3142274,
+      "lng": 103.7149429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315624330291502,
+        "lng": 103.7162873302915
+      },
+      "southwest": {
+        "lat": 1.312926369708498,
+        "lng": 103.7135893697085
+      }
+    }
+  },
+  "name": "Opp SPC Svc Stn",
+  "place_id": "ChIJ07t7yUUF2jER6-oZ-Bsmp-Y",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Maysaroh Nabila",
+      "author_url": "https://www.google.com/maps/contrib/115280998576754988522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPiGAagFNCxl6up45pbeZMVGc_MxyDTV_qFkeJ5NlLMoRH8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492764474,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16620294851402525419",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

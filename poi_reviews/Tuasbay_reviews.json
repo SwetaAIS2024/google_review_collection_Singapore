@@ -1,0 +1,30 @@
+{
+  "formatted_address": "30 Tuas Bay Dr, Singapore 637548",
+  "geometry": {
+    "location": {
+      "lat": 1.3152166,
+      "lng": 103.6326619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316161530291502,
+        "lng": 103.6338524302915
+      },
+      "southwest": {
+        "lat": 1.313463569708498,
+        "lng": 103.6311544697085
+      }
+    }
+  },
+  "name": "Tuasbay",
+  "place_id": "ChIJQy2hdQAH2jER2Ku6YNpI4aE",
+  "types": [
+    "campground",
+    "lodging",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11664684612629212120",
+  "vicinity": "30 Tuas Bay Drive"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 744 Bedok Reservoir Rd, #01-3063, Singapore 470744",
+  "geometry": {
+    "location": {
+      "lat": 1.337769,
+      "lng": 103.9217855
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339139680291502,
+        "lng": 103.9230921802915
+      },
+      "southwest": {
+        "lat": 1.336441719708498,
+        "lng": 103.9203942197085
+      }
+    }
+  },
+  "name": "UOB ATM - Bedok Reservoir Road",
+  "place_id": "ChIJMQnLP_E92jERIVev9Ky-XiQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2620741683224991521",
+  "vicinity": "Blk 744 Bedok Reservoir Road, #01-3063"
+}

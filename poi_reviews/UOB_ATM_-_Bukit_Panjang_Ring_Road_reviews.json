@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 259 Bukit Panjang Ring Rd, #01-20, Singapore 671259",
+  "geometry": {
+    "location": {
+      "lat": 1.3772052,
+      "lng": 103.7729793
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378733980291502,
+        "lng": 103.7743605302915
+      },
+      "southwest": {
+        "lat": 1.376036019708498,
+        "lng": 103.7716625697085
+      }
+    }
+  },
+  "name": "UOB ATM - Bukit Panjang Ring Road",
+  "place_id": "ChIJf7UwX2MR2jERI9PNjlmZjzA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3499184045417157411",
+  "vicinity": "Blk 259 Bukit Panjang Ring Road, #01-20"
+}

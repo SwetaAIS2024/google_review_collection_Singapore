@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.331704,
+      "lng": 103.79657
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333005930291502,
+        "lng": 103.7979028302915
+      },
+      "southwest": {
+        "lat": 1.330307969708498,
+        "lng": 103.7952048697085
+      }
+    }
+  },
+  "name": "Opp Sixth Ave Stn",
+  "place_id": "ChIJDT9szJgQ2jER4vla_pmDyC8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yuri James Dapul",
+      "author_url": "https://www.google.com/maps/contrib/118242850592790594857/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZy9p_x7TV59DwbFVxQV9qjCEFPAJU9MeeyMDaMJ3rgqNY_ZY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good station lol",
+      "time": 1710488683,
+      "translated": false
+    },
+    {
+      "author_name": "Eddie Tay",
+      "author_url": "https://www.google.com/maps/contrib/105842434729735934801/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt_R5-XIx4Bmmuy6Bv7B2_8QmWDu-VtAT47Xg4evQbWhdr9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1467356331,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3443146612545354210",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

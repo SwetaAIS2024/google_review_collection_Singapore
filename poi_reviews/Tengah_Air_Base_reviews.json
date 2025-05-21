@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.373678,
+      "lng": 103.714226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374978980291502,
+        "lng": 103.7155851802915
+      },
+      "southwest": {
+        "lat": 1.372281019708498,
+        "lng": 103.7128872197085
+      }
+    }
+  },
+  "name": "Tengah Air Base",
+  "place_id": "ChIJg5sjhjAO2jERkLhqU8535tg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jun 82",
+      "author_url": "https://www.google.com/maps/contrib/107643228699592122302/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPr3vz44ghRc79opZq-yqqybv8fK31jAuPOqE3GXfEGucE2ifQAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Place of happiness.",
+      "time": 1711038598,
+      "translated": false
+    },
+    {
+      "author_name": "Tay Lim Heng",
+      "author_url": "https://www.google.com/maps/contrib/110565977253215035961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbVyTnSsiucNXQSNhjlupEUZEMMZ5_8YG08dHNsf5PootF1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636427198,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15629311284882356368",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

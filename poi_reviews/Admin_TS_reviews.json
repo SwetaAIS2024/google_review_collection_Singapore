@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Stephen Lee Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4260111,
+      "lng": 103.7826035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427374580291502,
+        "lng": 103.7840344302915
+      },
+      "southwest": {
+        "lat": 1.424676619708498,
+        "lng": 103.7813364697085
+      }
+    }
+  },
+  "name": "Admin TS",
+  "place_id": "ChIJK0MiOLET2jERBAdT_G7yEl4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Desmond Ang",
+      "author_url": "https://www.google.com/maps/contrib/117627720275881915525/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgN7dqyQfo1dnQt9OTCMhgzQT9OkFxWuznytRb81ttn8wzN3JYng=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Best place to reflect on your life, while digging and crawling",
+      "time": 1558497982,
+      "translated": false
+    },
+    {
+      "author_name": "Wh",
+      "author_url": "https://www.google.com/maps/contrib/100920077199411608632/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxTb1n8H9tQdR9bVg906KRA7Aw8sxzv6R2MzvAsFjSA1qQ0QqbJA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Nice weather, excellent reception.",
+      "time": 1600834094,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6778746947639641860",
+  "user_ratings_total": 2,
+  "vicinity": "Stephen Lee Road"
+}

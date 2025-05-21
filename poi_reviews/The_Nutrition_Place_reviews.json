@@ -1,0 +1,52 @@
+{
+  "formatted_address": "18 Mohamed Sultan Rd, #03-01, Singapore 238967",
+  "geometry": {
+    "location": {
+      "lat": 1.2934625,
+      "lng": 103.8414732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294766380291502,
+        "lng": 103.8428920802915
+      },
+      "southwest": {
+        "lat": 1.292068419708498,
+        "lng": 103.8401941197085
+      }
+    }
+  },
+  "name": "The Nutrition Place",
+  "place_id": "ChIJMZkK1Z4Z2jERbQV1sLdaO8A",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Valeria Iva",
+      "author_url": "https://www.google.com/maps/contrib/101450360238656427562/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA8OyPU-AEn4n-nr7sHVxwV3TEERuenAUMw65150tJFFtddeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564546892,
+      "translated": false
+    },
+    {
+      "author_name": "Mevyn Teo",
+      "author_url": "https://www.google.com/maps/contrib/103090718707290771682/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm3QQl58FsqniFjU3WlcKR7Lo6IQ2Gw04hLj2X8JW57axn5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1447637234,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13851764823894066541",
+  "user_ratings_total": 2,
+  "vicinity": "18 Mohamed Sultan Road, #03-01, Singapore"
+}

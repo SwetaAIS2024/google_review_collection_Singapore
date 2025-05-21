@@ -1,0 +1,31 @@
+{
+  "formatted_address": "625 Elias Rd, Singapore 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.378441,
+      "lng": 103.94193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379793680291502,
+        "lng": 103.9431953802915
+      },
+      "southwest": {
+        "lat": 1.377095719708498,
+        "lng": 103.9404974197085
+      }
+    }
+  },
+  "name": "Chestnut Pastry & Cake Shop",
+  "place_id": "ChIJpZuslr492jERHQdQsrLfF5Q",
+  "types": [
+    "bakery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10671243800666441501",
+  "vicinity": "625 Elias Road, Singapore"
+}

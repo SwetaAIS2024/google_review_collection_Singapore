@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374472,
+      "lng": 103.837563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375837480291502,
+        "lng": 103.8388884802915
+      },
+      "southwest": {
+        "lat": 1.373139519708498,
+        "lng": 103.8361905197085
+      }
+    }
+  },
+  "name": "Mayflower Stn Exit 2",
+  "place_id": "ChIJof1JxsQW2jERX2CyC0PmGvE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Edwin Chua",
+      "author_url": "https://www.google.com/maps/contrib/105732820982938195163/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtHHX7RrWN9oFDdCmvRMXuSdREpOcyUyLIm62a8AWF1P2UEdbbNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738240294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17373451688168546399",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336087,
+      "lng": 103.778175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337421480291502,
+        "lng": 103.7795727302915
+      },
+      "southwest": {
+        "lat": 1.334723519708498,
+        "lng": 103.7768747697085
+      }
+    }
+  },
+  "name": "Bef Dunearn Rd",
+  "place_id": "ChIJDSpKK4YQ2jER6K--dk3ika0",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Russell Lim",
+      "author_url": "https://www.google.com/maps/contrib/111209933177281907012/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzfl-CtpwDpAlgGWOw5Wcx2CqNrk42bjf9TQIGu4PWUI-i_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Ah sweeeet. The ever wonderful one-stop-after ngee ann stop. Guess what this is? The Ultimate Transit Stop! Yes baby. This is literally where many people do the quick-change technique. Variety nearby is limitless so do make use of this small but value stop! Last bus here is bus 61 which runs till about 1 am daily. So for the late night chuggers. Theres the local tip for ya. Tip no. 2. The slope down hill to here is steeeep. So be sure to open ur eyes watch for ur bus and flag way in advance! All in all, decent.",
+      "time": 1616326008,
+      "translated": false
+    },
+    {
+      "author_name": "FishyFrog",
+      "author_url": "https://www.google.com/maps/contrib/102830234542850704524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC7aOC4r93sC7JpB7fDZV_Eufk_IcQeJh-ZHmSwsXZC6gQgLq2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "very remote from other places but well connected by bus",
+      "time": 1727320610,
+      "translated": false
+    },
+    {
+      "author_name": "Bryan Wong",
+      "author_url": "https://www.google.com/maps/contrib/106927115223599988944/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvSXDuo26zXE4DoihgrBP1J0XbALWoGBytIXTdLzDnWAeMKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682487161,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12507026462517145576",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

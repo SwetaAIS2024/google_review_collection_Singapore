@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3193973,
+      "lng": 103.7720922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320700080291502,
+        "lng": 103.7734514802915
+      },
+      "southwest": {
+        "lat": 1.318002119708498,
+        "lng": 103.7707535197085
+      }
+    }
+  },
+  "name": "Police KINS Trg Camp",
+  "place_id": "ChIJ4xfuUoYa2jER8AHin5BKZ4g",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "david sook",
+      "author_url": "https://www.google.com/maps/contrib/114834400961211294783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvij0M_vor_EYUz2bJTNEMuYT6wSzcDvPsYtbCtqphpnOSsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532659491,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Eu",
+      "author_url": "https://www.google.com/maps/contrib/103041774814859599792/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRJQ6XP-berWT7gxpoeeBNu6SLXquLHyOr_-lDPgty0VduV_4n=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512953937,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamed Sani Mohamed",
+      "author_url": "https://www.google.com/maps/contrib/111594248469631612394/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHtw6nePfNzCoO6POG2IYGcU8E5vcjU9X4nH3WqtQ_1P3iMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505004893,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9828906696777531888",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

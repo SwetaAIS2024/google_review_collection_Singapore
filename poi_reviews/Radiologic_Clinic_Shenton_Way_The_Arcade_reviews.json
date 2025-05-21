@@ -1,0 +1,43 @@
+{
+  "formatted_address": "11 Collyer Quay, The Arcade, Singapore 049317",
+  "geometry": {
+    "location": {
+      "lat": 1.2835277,
+      "lng": 103.8522906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284818530291502,
+        "lng": 103.8537931802915
+      },
+      "southwest": {
+        "lat": 1.282120569708498,
+        "lng": 103.8510952197085
+      }
+    }
+  },
+  "name": "Radiologic Clinic Shenton Way The Arcade",
+  "place_id": "ChIJcWZsxg4Z2jER7byh6mWT9vs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ret Nimer",
+      "author_url": "https://www.google.com/maps/contrib/110227427158473551045/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoVbUxLasp5ClnRlu-pDSAza2PxhgYxbWC8_tVxjQqtEVnAqJ_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702456016,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18155861013728181485",
+  "user_ratings_total": 1,
+  "vicinity": "11 Collyer Quay, The Arcade"
+}

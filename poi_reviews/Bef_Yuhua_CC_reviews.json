@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340164,
+      "lng": 103.736343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341479780291502,
+        "lng": 103.7376854302915
+      },
+      "southwest": {
+        "lat": 1.338781819708498,
+        "lng": 103.7349874697085
+      }
+    }
+  },
+  "name": "Bef Yuhua CC",
+  "place_id": "ChIJ67r3wBsQ2jERRwsurjYUeGk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Soh San Bang",
+      "author_url": "https://www.google.com/maps/contrib/116847441288368295445/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICK_5zS8kIxNqyXLZmLW3AhZuiDqDMWHxQCjzNgUOdOyoYTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "\"*😊🤗😀  Yuhua 🏩💗👍 🌿🌱☘️🍀🌺💐🏵️🌾👍💖 and beautiful place 😊🤗😀 thanks you 😊🤗😀SG",
+      "time": 1582382863,
+      "translated": false
+    },
+    {
+      "author_name": "Hypot",
+      "author_url": "https://www.google.com/maps/contrib/101960018099038992965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNP0mgmUWZDlLWbEQo1fV1oLxQ-eVpZeNDOET8u7qfavoxLHANOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Eee",
+      "time": 1607654246,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7599846596270754631",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "300 Whampoa Dr, #02-06, Singapore 327737",
+  "geometry": {
+    "location": {
+      "lat": 1.324816,
+      "lng": 103.856995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326039130291502,
+        "lng": 103.8585004802915
+      },
+      "southwest": {
+        "lat": 1.323341169708498,
+        "lng": 103.8558025197085
+      }
+    }
+  },
+  "name": "Hua Mei Clinic (Whampoa)",
+  "place_id": "ChIJjduj0a0Z2jERZKvCM51Oyuc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "GILBERT OON",
+      "author_url": "https://www.google.com/maps/contrib/105736330422856935902/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdd2UAe_QU-PV2OR6duN4keHo2yRU7JscryStnSRgaw0KWPUS9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Genuine care from the Dr Angela...Thank you for your time and attention.",
+      "time": 1746607606,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16702248605142133604",
+  "user_ratings_total": 1,
+  "vicinity": "300 Whampoa Drive, #02-06"
+}

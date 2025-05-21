@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Opp Countryside Est, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.391334,
+      "lng": 103.838976
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.392691980291502,
+        "lng": 103.8403089302915
+      },
+      "southwest": {
+        "lat": 1.389994019708498,
+        "lng": 103.8376109697085
+      }
+    }
+  },
+  "name": "LKO Site",
+  "place_id": "ChIJqfDTZXcX2jERjPoP80QZSR4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2182303278364097164",
+  "vicinity": "Opp Countryside Est"
+}

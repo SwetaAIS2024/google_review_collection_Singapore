@@ -1,0 +1,41 @@
+{
+  "formatted_address": "7 Benoi Rd, Singapore 629882",
+  "geometry": {
+    "location": {
+      "lat": 1.3023592,
+      "lng": 103.6799341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303677680291502,
+        "lng": 103.6810313302915
+      },
+      "southwest": {
+        "lat": 1.300979719708498,
+        "lng": 103.6783333697085
+      }
+    }
+  },
+  "name": "B T Ng Engrg Services",
+  "place_id": "ChIJbb0hDacF2jERX_w_zSPQEmQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Edy Sant",
+      "author_url": "https://www.google.com/maps/contrib/113741570667142772558/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoq4PyMUhiLOe6QIR-toVTwBC2vuPpca4aWIYCRWdo9hpn=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1370265299,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7211054805559540831",
+  "user_ratings_total": 1,
+  "vicinity": "7 Benoi Road"
+}

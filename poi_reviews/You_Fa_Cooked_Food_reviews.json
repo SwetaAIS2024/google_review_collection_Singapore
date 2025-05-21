@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50A Marine Ter, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.305705,
+      "lng": 103.915746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307026430291502,
+        "lng": 103.9172934802915
+      },
+      "southwest": {
+        "lat": 1.304328469708498,
+        "lng": 103.9145955197085
+      }
+    }
+  },
+  "name": "You Fa Cooked Food",
+  "place_id": "ChIJl-V2x58i2jERaKZ1WCOmEcY",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14272371364851983976",
+  "vicinity": "50A Marine Terrace"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "22 Sin Ming Ln, #04-81 Midview City, Singapore 573969",
+  "geometry": {
+    "location": {
+      "lat": 1.3584343,
+      "lng": 103.8336158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359670280291502,
+        "lng": 103.8346873802915
+      },
+      "southwest": {
+        "lat": 1.356972319708498,
+        "lng": 103.8319894197085
+      }
+    }
+  },
+  "name": "Gameday Asia Pte Ltd",
+  "place_id": "ChIJ3yml9iUX2jERThaClj0EyA0",
+  "types": [
+    "doctor",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=993048380399818318",
+  "vicinity": "22 Sin Ming Lane, #04-81 Midview City"
+}

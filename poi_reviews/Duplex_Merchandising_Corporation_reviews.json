@@ -1,0 +1,44 @@
+{
+  "formatted_address": "35 Tannery Rd, Singapore 347740",
+  "geometry": {
+    "location": {
+      "lat": 1.3261101,
+      "lng": 103.8749356
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327400930291502,
+        "lng": 103.8763511302915
+      },
+      "southwest": {
+        "lat": 1.324702969708498,
+        "lng": 103.8736531697085
+      }
+    }
+  },
+  "name": "Duplex Merchandising Corporation",
+  "place_id": "ChIJXXrx4ykY2jERHnDqFJw36jc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Salam Salmah",
+      "author_url": "https://www.google.com/maps/contrib/107070392323832141126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfuOXb5DCos-SDvXaXOGll3CHCsQRdWJ943SHpxImmQ4mo1RHX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1719235961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4029093960141664286",
+  "user_ratings_total": 1,
+  "vicinity": "35 Tannery Road, Singapore"
+}

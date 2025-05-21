@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Medical Dr, Singapore 117597",
+  "geometry": {
+    "location": {
+      "lat": 1.2963801,
+      "lng": 103.7818136
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297706880291502,
+        "lng": 103.7831557302915
+      },
+      "southwest": {
+        "lat": 1.295008919708498,
+        "lng": 103.7804577697085
+      }
+    }
+  },
+  "name": "Alice Lee Centre for Nursing Studies",
+  "place_id": "ChIJT8PQL1Ea2jERT76rnuZwYYI",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9394914433478409807",
+  "vicinity": "10 Medical Drive"
+}

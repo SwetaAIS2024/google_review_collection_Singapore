@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Hospital Blvd, Level 6, Singapore 168582",
+  "geometry": {
+    "location": {
+      "lat": 1.277657,
+      "lng": 103.8354837
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279153330291502,
+        "lng": 103.8367807802915
+      },
+      "southwest": {
+        "lat": 1.276455369708498,
+        "lng": 103.8340828197085
+      }
+    }
+  },
+  "name": "SGH Health Development Fund",
+  "place_id": "ChIJV9yYHJwZ2jER-eZ3nnZ-Qrk",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13349371293409470201",
+  "vicinity": "10 Hospital Boulevard, Level 6, Singapore"
+}

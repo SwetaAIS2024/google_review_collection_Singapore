@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 4, Singapore 560158",
+  "geometry": {
+    "location": {
+      "lat": 1.374781,
+      "lng": 103.8390189
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376191430291502,
+        "lng": 103.8403317802915
+      },
+      "southwest": {
+        "lat": 1.373493469708498,
+        "lng": 103.8376338197085
+      }
+    }
+  },
+  "name": "Yong Sheng Cafe Pte Ltd",
+  "place_id": "ChIJLyPWYcMW2jERG4hiSXXbmuM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "lwin myo aung",
+      "author_url": "https://www.google.com/maps/contrib/102376207616828047088/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_V0lMsXlj-aaFVlMYvWj4htt8gbKh2FQH8vMS7zV8mkfLdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560632110,
+      "translated": false
+    },
+    {
+      "author_name": "Say Huat LIM",
+      "author_url": "https://www.google.com/maps/contrib/105568049288577507221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkiql2jYM8ov5-rAHdiHKZfGbms7NgLh69bK74qe3qs0XPnw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556551054,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16400662289811933211",
+  "user_ratings_total": 2,
+  "vicinity": "Ang Mo Kio Avenue 4"
+}

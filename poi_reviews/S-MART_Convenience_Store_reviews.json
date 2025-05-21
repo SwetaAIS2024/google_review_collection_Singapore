@@ -1,0 +1,30 @@
+{
+  "formatted_address": "33 Jln Buroh, Singapore 619487",
+  "geometry": {
+    "location": {
+      "lat": 1.314813,
+      "lng": 103.714896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316146330291502,
+        "lng": 103.7162471802915
+      },
+      "southwest": {
+        "lat": 1.313448369708498,
+        "lng": 103.7135492197085
+      }
+    }
+  },
+  "name": "S-MART Convenience Store",
+  "place_id": "ChIJn_pKeAAF2jER_qePUNL_yfs",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18143313852598560766",
+  "vicinity": "33 Jalan Buroh, Singapore"
+}

@@ -1,0 +1,69 @@
+{
+  "formatted_address": "2 Bukit Panjang Ring Rd, #01-28 Hawker Centre and Market, Singapore 679947",
+  "geometry": {
+    "location": {
+      "lat": 1.3774114,
+      "lng": 103.7724235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378865530291502,
+        "lng": 103.7736502802915
+      },
+      "southwest": {
+        "lat": 1.376167569708498,
+        "lng": 103.7709523197085
+      }
+    }
+  },
+  "name": "Kopi Teh Food Fare",
+  "place_id": "ChIJ96wTIKcR2jERKivZtPbySEU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Theivendiram Pranavan",
+      "author_url": "https://www.google.com/maps/contrib/108077114189306532785/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_UPc9m3DCFqcr6pYX_3ppZ5yMyEQy10sGkfZN-HKbKk_C6L4Y=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Best place for coffee or tea. You can see Humble people who run the shop. I always stop here for a teh oh or for a honey lemon.",
+      "time": 1640690631,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Wong",
+      "author_url": "https://www.google.com/maps/contrib/115694236480258826587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfPGY5Wy3PEKYDD-b5-Pnnt4UGw1Xp5LFHJdk03WnvqSvalg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Their coffee with tea($1.10) is slightly big cup, thick in coffee, smooth and less sweet. 8/10",
+      "time": 1712107972,
+      "translated": false
+    },
+    {
+      "author_name": "philip nadesan",
+      "author_url": "https://www.google.com/maps/contrib/113458665270762205681/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUQkUzrF5cJqV20sD_WLFUeML08wnPf--Zg07Hq1TvvipYOExp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Best coffee shop in bangkit",
+      "time": 1628813850,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4992507328350202666",
+  "user_ratings_total": 3,
+  "vicinity": "2 Bukit Panjang Ring Road, #01-28 Hawker Centre and Market"
+}

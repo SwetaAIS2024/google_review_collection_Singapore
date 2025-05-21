@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 824684",
+  "geometry": {
+    "location": {
+      "lat": 1.4037528,
+      "lng": 103.9141252
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404997480291502,
+        "lng": 103.9150249302915
+      },
+      "southwest": {
+        "lat": 1.402299519708498,
+        "lng": 103.9123269697085
+      }
+    }
+  },
+  "name": "Rooftop Cuppa",
+  "place_id": "ChIJCQPFHQAV2jER1ABRqLt5Ubg",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13281530622982029524",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "252 Jurong East St 24, Singapore 600253",
+  "geometry": {
+    "location": {
+      "lat": 1.3431017,
+      "lng": 103.7381873
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344332080291502,
+        "lng": 103.7398060802915
+      },
+      "southwest": {
+        "lat": 1.341634119708498,
+        "lng": 103.7371081197085
+      }
+    }
+  },
+  "name": "Marry Clinic",
+  "place_id": "ChIJI1Id4xgQ2jERqGjDvlhnlgc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=546738035627354280",
+  "vicinity": "252 Jurong East Street 24, Singapore"
+}

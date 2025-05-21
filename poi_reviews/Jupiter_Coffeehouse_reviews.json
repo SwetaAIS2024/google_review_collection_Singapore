@@ -1,0 +1,27 @@
+{
+  "formatted_address": "61 Jupiter Rd, Singapore 576544",
+  "geometry": {
+    "location": {
+      "lat": 1.3579433,
+      "lng": 103.8248691
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359399630291502,
+        "lng": 103.8262781802915
+      },
+      "southwest": {
+        "lat": 1.356701669708498,
+        "lng": 103.8235802197085
+      }
+    }
+  },
+  "name": "Jupiter Coffeehouse",
+  "place_id": "ChIJSz3oMI8X2jERyzzTZezZXRo",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1899914227164069067",
+  "vicinity": "61 Jupiter Road"
+}

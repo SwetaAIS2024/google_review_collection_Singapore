@@ -1,0 +1,54 @@
+{
+  "formatted_address": "2 Clementi West Street 2, #01-02B West Coast Community Centre, Singapore 129605",
+  "geometry": {
+    "location": {
+      "lat": 1.3027662,
+      "lng": 103.7650332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304209680291502,
+        "lng": 103.7665103802915
+      },
+      "southwest": {
+        "lat": 1.301511719708498,
+        "lng": 103.7638124197085
+      }
+    }
+  },
+  "name": "Comics Library at West Coast Community Centre",
+  "place_id": "ChIJmYVTSugb2jERP-l57ZRd5sI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "喜酒Kish",
+      "author_url": "https://www.google.com/maps/contrib/116961632491800039307/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTIqseIGmfWEf2lG7xJN1toLbWUru5K8oQz7Lx5Pss_ZPM_GOHDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "To use this library you need to register your passion card or ez link first. Talk to the community center guy for more help.\nIt looks like they brought all of the books from Anchor point",
+      "time": 1740455153,
+      "translated": false
+    },
+    {
+      "author_name": "Nogué Alex",
+      "author_url": "https://www.google.com/maps/contrib/114822403050571252702/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyFhpnlVsX6Wh-K5Uv9qPx-rvQVFIJZudyNzfnksV2xqLD3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731386735,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14044015382222203199",
+  "user_ratings_total": 2,
+  "vicinity": "2 Clementi West Street 2, #01-02B West Coast Community Centre"
+}

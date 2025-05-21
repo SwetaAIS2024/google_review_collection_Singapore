@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Tampines Street 32, Tampines Mart, Singapore 529287",
+  "geometry": {
+    "location": {
+      "lat": 1.3547041,
+      "lng": 103.9604255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356055180291502,
+        "lng": 103.9619415302915
+      },
+      "southwest": {
+        "lat": 1.353357219708498,
+        "lng": 103.9592435697085
+      }
+    }
+  },
+  "name": "Selesa sedap chicken rice",
+  "place_id": "ChIJfyhwpIY92jERVJeES8ZZKUg",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Ai King Lim",
+      "author_url": "https://www.google.com/maps/contrib/103966242406493978449/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7WevfjqfIexD3YBS_jjeWJ3dZkzyziQWscW6D2kLDuUrZkQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "The roasted chicken rice is very nice, the rice is tasty and fragrant! The wanton noodles is so so only! Staller should give free soup for customer who purchased 2 or more dishes instead of charging $0.90 per serving!",
+      "time": 1690196568,
+      "translated": false
+    },
+    {
+      "author_name": "Davis Lim",
+      "author_url": "https://www.google.com/maps/contrib/102214176789367194063/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5yVzkWDUbMqfYLtHGZ8sr_--fsQhCOBB9fUkIvpohUuUS-w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Ordered macaroni. Came with lots of \"black spot\" veg.\nWhat is the problem with vegetable nowadays.",
+      "time": 1701763782,
+      "translated": false
+    },
+    {
+      "author_name": "Lam DX",
+      "author_url": "https://www.google.com/maps/contrib/114618237664556247992/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWiIsIAXNmhWu30xWc6lje6uF0NrgavqPdTJXLXyAd5iQG642Z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689519434,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5199785952981325652",
+  "user_ratings_total": 3,
+  "vicinity": "Tampines Street 32, Tampines Mart"
+}

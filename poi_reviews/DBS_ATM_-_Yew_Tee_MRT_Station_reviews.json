@@ -1,0 +1,29 @@
+{
+  "formatted_address": "61 Choa Chu Kang Dr, Singapore 689715",
+  "geometry": {
+    "location": {
+      "lat": 1.39731,
+      "lng": 103.74739
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398291130291502,
+        "lng": 103.7488757302915
+      },
+      "southwest": {
+        "lat": 1.395593169708498,
+        "lng": 103.7461777697085
+      }
+    }
+  },
+  "name": "DBS ATM - Yew Tee MRT Station",
+  "place_id": "ChIJH2vbREgR2jERU_Vdteed4NI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15195318761253893459",
+  "vicinity": "61 Choa Chu Kang Drive, Singapore"
+}

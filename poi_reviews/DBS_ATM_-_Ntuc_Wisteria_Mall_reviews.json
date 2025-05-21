@@ -1,0 +1,29 @@
+{
+  "formatted_address": "598 Yishun Ring Rd, #01-01 Wisteria Mall, Singapore 768698",
+  "geometry": {
+    "location": {
+      "lat": 1.4183399,
+      "lng": 103.8408663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419829080291502,
+        "lng": 103.8421547302915
+      },
+      "southwest": {
+        "lat": 1.417131119708498,
+        "lng": 103.8394567697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Wisteria Mall",
+  "place_id": "ChIJxQ4Q-hQU2jERz8iAckKNuhI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1349546354879285455",
+  "vicinity": "598 Yishun Ring Road, #01-01 Wisteria Mall"
+}

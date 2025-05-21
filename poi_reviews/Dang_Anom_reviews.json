@@ -1,0 +1,30 @@
+{
+  "formatted_address": "301A Corporation Dr, Singapore 619773",
+  "geometry": {
+    "location": {
+      "lat": 1.3350697,
+      "lng": 103.7219175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336262630291502,
+        "lng": 103.7231803802915
+      },
+      "southwest": {
+        "lat": 1.333564669708498,
+        "lng": 103.7204824197085
+      }
+    }
+  },
+  "name": "Dang Anom",
+  "place_id": "ChIJQxweJAAP2jEREyUKbuJ9vZ0",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11366379446015239443",
+  "vicinity": "301A Corporation Drive, Singapore"
+}

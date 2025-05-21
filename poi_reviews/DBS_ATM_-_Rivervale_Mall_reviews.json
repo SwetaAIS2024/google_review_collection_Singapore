@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Rivervale Cres, Level 1, Singapore 545082",
+  "geometry": {
+    "location": {
+      "lat": 1.3925041,
+      "lng": 103.9044628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393841830291502,
+        "lng": 103.9058450302915
+      },
+      "southwest": {
+        "lat": 1.391143869708498,
+        "lng": 103.9031470697085
+      }
+    }
+  },
+  "name": "DBS ATM - Rivervale Mall",
+  "place_id": "ChIJpZ4wRWAX2jERgEqRkq0MFTw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4329380556414470784",
+  "vicinity": "11 Rivervale Crescent, Level 1"
+}

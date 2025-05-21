@@ -1,0 +1,66 @@
+{
+  "formatted_address": "19A Dover Cres, Singapore 131019",
+  "geometry": {
+    "location": {
+      "lat": 1.3075788,
+      "lng": 103.7843853
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308909480291502,
+        "lng": 103.7856202302915
+      },
+      "southwest": {
+        "lat": 1.306211519708498,
+        "lng": 103.7829222697085
+      }
+    }
+  },
+  "name": "Chuan Hao",
+  "place_id": "ChIJEZD3eV0a2jERE8ny_SqYa2E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Liyana Lim",
+      "author_url": "https://www.google.com/maps/contrib/112396424989274368121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_xJRqhpnbmJ41Ju8yTl2K6H22ye8-G710xPqxFyHsA3XZvQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Best convenient shop is Singapore. Shop is family run, owners are cheerful and nice ppl. Rare side of Singapore.",
+      "time": 1667695109,
+      "translated": false
+    },
+    {
+      "author_name": "Yang Guan",
+      "author_url": "https://www.google.com/maps/contrib/106908573943889303984/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsBKHu4wWYT9fYrLo017DVYQ8ch7gd_kG1lBhuRwEilPrdOnrKbQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739853697,
+      "translated": false
+    },
+    {
+      "author_name": "Ter C",
+      "author_url": "https://www.google.com/maps/contrib/112902722770655529036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyIs4lcwBfuA6mLhTKBNFa5NyclhMeU9HA7OdIx-YTOGJyjTje=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699185460,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7019871754603645203",
+  "user_ratings_total": 3,
+  "vicinity": "19A Dover Crescent"
+}

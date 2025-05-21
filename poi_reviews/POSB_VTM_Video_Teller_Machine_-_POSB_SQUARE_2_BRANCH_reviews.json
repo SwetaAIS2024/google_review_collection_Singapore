@@ -1,0 +1,53 @@
+{
+  "formatted_address": "10 Sinaran Dr, #02 - 19 / 20, Singapore 307506",
+  "geometry": {
+    "location": {
+      "lat": 1.3211072,
+      "lng": 103.8443378
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322496880291502,
+        "lng": 103.8457472802915
+      },
+      "southwest": {
+        "lat": 1.319798919708498,
+        "lng": 103.8430493197085
+      }
+    }
+  },
+  "name": "POSB VTM (Video Teller Machine) - POSB SQUARE 2 BRANCH",
+  "place_id": "ChIJpWtfXLsZ2jERiqhmrVIPjsw",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "L SH",
+      "author_url": "https://www.google.com/maps/contrib/111023509476059595196/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWVDLw8cBGhgY5dh-z6wJX884BqszdClESnqbxspZboaVOvg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714350703,
+      "translated": false
+    },
+    {
+      "author_name": "Alam Zahangir",
+      "author_url": "https://www.google.com/maps/contrib/105515063909987572846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSunAMITlgjsP7XPeBhXbI67Ww2OjBOGvGxbNADDNVBleRfGvb=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1651599653,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14739735478201133194",
+  "user_ratings_total": 2,
+  "vicinity": "10 Sinaran Drive, #02 - 19 / 20, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357369,
+      "lng": 103.761444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358703580291502,
+        "lng": 103.7627869802915
+      },
+      "southwest": {
+        "lat": 1.356005619708498,
+        "lng": 103.7600890197085
+      }
+    }
+  },
+  "name": "Mont Botanik Residence",
+  "place_id": "ChIJN9xxrU8Q2jERwnCpN-79EYw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10093127439491887298",
+  "vicinity": "Singapore"
+}

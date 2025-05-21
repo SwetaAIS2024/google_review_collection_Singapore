@@ -1,0 +1,65 @@
+{
+  "formatted_address": "391 Orchard Rd, Basement 1, Singapore 238872",
+  "geometry": {
+    "location": {
+      "lat": 1.3026337,
+      "lng": 103.8344451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303785830291502,
+        "lng": 103.8357400802915
+      },
+      "southwest": {
+        "lat": 1.301087869708498,
+        "lng": 103.8330421197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Takashimaya",
+  "place_id": "ChIJuf_64o0Z2jERNfDKaAQIIlI",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Mark Laudi",
+      "author_url": "https://www.google.com/maps/contrib/114891429375263841801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyrJRreUUwhmog0jvKHEZke_HUYI6sDRploXkGFsjxhvuvJYr1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Searched on Google for ATM5 ... was referred here ... but this particular ATM is not part of the network.",
+      "time": 1693650108,
+      "translated": false
+    },
+    {
+      "author_name": "Low Chong Seng",
+      "author_url": "https://www.google.com/maps/contrib/112172086595819817746/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm7vsNoREyzNmYYgrG1tGeUvvSr7CT899nPduVnzVNcuGwFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735487524,
+      "translated": false
+    },
+    {
+      "author_name": "Lim See Kong",
+      "author_url": "https://www.google.com/maps/contrib/108800152115739609804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrckZVbQk7EHqeFF6G85442vBNL0-DANwm7rmuIZP5mXwFqJMO=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697884359,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5918301675349274677",
+  "user_ratings_total": 3,
+  "vicinity": "391 Orchard Road, Basement 1"
+}

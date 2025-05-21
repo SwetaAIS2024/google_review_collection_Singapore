@@ -1,0 +1,55 @@
+{
+  "formatted_address": "309 Hougang Ave 5, Singapore 530309",
+  "geometry": {
+    "location": {
+      "lat": 1.3661697,
+      "lng": 103.8954128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367431780291502,
+        "lng": 103.8966919802915
+      },
+      "southwest": {
+        "lat": 1.364733819708498,
+        "lng": 103.8939940197085
+      }
+    }
+  },
+  "name": "Ah Mei's Satay",
+  "place_id": "ChIJOaToHAAX2jER1G8lhfieuXo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Desmond Lim",
+      "author_url": "https://www.google.com/maps/contrib/103922539992075225915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8waSfWnpHOMk24csaLOJVbIyHjsaTNP5w0wa1B5Zuqzkvaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The satay is nice, meat likely self prepared cos the every stick is of different sizes. Quite worth it.",
+      "time": 1705747511,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Firdauz",
+      "author_url": "https://www.google.com/maps/contrib/106673862621009560061/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqeIvtxolSrD2DDLsa57mnEt-ZYEc-YRCu-0GMEQRlGNDYQ_9H=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706938034,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8843274133541580756",
+  "user_ratings_total": 2,
+  "vicinity": "309 Hougang Avenue 5, Singapore"
+}

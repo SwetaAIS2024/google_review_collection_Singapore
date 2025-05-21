@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Ang Mo Kio Drive, #01-14/29, ITE, College Central, Block A - Campus Centre, Singapore 567720",
+  "geometry": {
+    "location": {
+      "lat": 1.3766706,
+      "lng": 103.8567672
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377894330291502,
+        "lng": 103.8581525802915
+      },
+      "southwest": {
+        "lat": 1.375196369708498,
+        "lng": 103.8554546197085
+      }
+    }
+  },
+  "name": "Express Western",
+  "place_id": "ChIJZ8yfeAAX2jERSpbINKmk63w",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9001469326872057418",
+  "vicinity": "2 Ang Mo Kio Drive, #01-14/29, ITE, College Central, Block A - Campus Centre, Singapore"
+}

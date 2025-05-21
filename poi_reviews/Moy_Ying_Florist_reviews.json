@@ -1,0 +1,45 @@
+{
+  "formatted_address": "50A Marine Ter, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.3059901,
+      "lng": 103.9156575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307168980291502,
+        "lng": 103.9172492302915
+      },
+      "southwest": {
+        "lat": 1.304471019708498,
+        "lng": 103.9145512697085
+      }
+    }
+  },
+  "name": "Moy Ying Florist",
+  "place_id": "ChIJDyInwZ8i2jERCmG98x3zXr8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dom Wee",
+      "author_url": "https://www.google.com/maps/contrib/100816623631168791184/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUAMW-xQwHSk8oce47KdHZe2LUWqeAGSpmObQjcRNiVuRNIRvIUw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "The auntie that runs this florist is a very special lady. She does one of the best bouquets",
+      "time": 1605681011,
+      "translated": false
+    }
+  ],
+  "types": [
+    "florist",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13789726419023913226",
+  "user_ratings_total": 1,
+  "vicinity": "50A Marine Terrace"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2984406,
+      "lng": 103.7976449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299789630291502,
+        "lng": 103.7989619802915
+      },
+      "southwest": {
+        "lat": 1.297091669708498,
+        "lng": 103.7962640197085
+      }
+    }
+  },
+  "name": "Blk 37b",
+  "place_id": "ChIJSYIzD0ga2jER9b8iKRivanI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8244594586159333365",
+  "vicinity": "Singapore"
+}

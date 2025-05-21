@@ -1,0 +1,44 @@
+{
+  "formatted_address": "25 Smith St, Singapore 058939",
+  "geometry": {
+    "location": {
+      "lat": 1.2816606,
+      "lng": 103.8450102
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283014330291502,
+        "lng": 103.8463619802915
+      },
+      "southwest": {
+        "lat": 1.280316369708498,
+        "lng": 103.8436640197085
+      }
+    }
+  },
+  "name": "Gb Store",
+  "place_id": "ChIJd6tqNooZ2jERNVBcUtdX6Dk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lis Vira",
+      "author_url": "https://www.google.com/maps/contrib/100785464696094529221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDi5A-jFZyXMmXveS5b5yTZL3jwKtfuwc23YtMSlaBVmWwuz1o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good store",
+      "time": 1688813697,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4172681637070131253",
+  "user_ratings_total": 1,
+  "vicinity": "25 Smith Street, Singapore"
+}

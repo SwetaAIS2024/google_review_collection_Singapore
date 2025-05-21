@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Eng Neo Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3381612,
+      "lng": 103.8051132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339501330291502,
+        "lng": 103.8064627802915
+      },
+      "southwest": {
+        "lat": 1.336803369708498,
+        "lng": 103.8037648197085
+      }
+    }
+  },
+  "name": "Eng Neo Flyover",
+  "place_id": "ChIJCdXiWwAR2jERLLMqAJJJdrY",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13147777053571593004",
+  "vicinity": "Eng Neo Avenue"
+}

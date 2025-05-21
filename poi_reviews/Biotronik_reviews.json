@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322765,
+      "lng": 103.874023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324032180291502,
+        "lng": 103.8749575302915
+      },
+      "southwest": {
+        "lat": 1.321334219708498,
+        "lng": 103.8722595697085
+      }
+    }
+  },
+  "name": "Biotronik",
+  "place_id": "ChIJuzpPXikY2jERsgL57XHPLTI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Richard Tan",
+      "author_url": "https://www.google.com/maps/contrib/105001804339420626712/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsKk4wQEQutEHLWJqAZBIu3ekP_r9rrJ3g9UZHYtGzWhSRKEoE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Last bus stop before the CTE",
+      "time": 1691909872,
+      "translated": false
+    },
+    {
+      "author_name": "Kshitij sahu",
+      "author_url": "https://www.google.com/maps/contrib/112774035954527447822/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSAQaZ6cqB8tvev1l8-jkeX4rxLUxXznX_XRXUqZt4iEoAY3tQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1434030778,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3615774164079149746",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

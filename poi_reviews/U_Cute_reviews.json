@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Gateway Dr, Singapore 608532",
+  "geometry": {
+    "location": {
+      "lat": 1.334389,
+      "lng": 103.7428284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335850830291502,
+        "lng": 103.7440585802915
+      },
+      "southwest": {
+        "lat": 1.333152869708498,
+        "lng": 103.7413606197085
+      }
+    }
+  },
+  "name": "U Cute",
+  "place_id": "ChIJV-nbqA8Q2jER5R3YNzyx-TU",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3889334625404198373",
+  "vicinity": "3 Gateway Drive, Singapore"
+}

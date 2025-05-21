@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6001 Beach Rd, Singapore 199589",
+  "geometry": {
+    "location": {
+      "lat": 1.301947,
+      "lng": 103.864015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303437780291502,
+        "lng": 103.8652686302915
+      },
+      "southwest": {
+        "lat": 1.300739819708498,
+        "lng": 103.8625706697085
+      }
+    }
+  },
+  "name": "Long Yin Credit",
+  "place_id": "ChIJ0YjYlbMZ2jER2To_GKkpXqk",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12204237846453631705",
+  "vicinity": "6001 Beach Road, Singapore"
+}

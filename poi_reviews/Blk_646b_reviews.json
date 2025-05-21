@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.36642,
+      "lng": 103.943192
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367778180291502,
+        "lng": 103.9445533802915
+      },
+      "southwest": {
+        "lat": 1.365080219708498,
+        "lng": 103.9418554197085
+      }
+    }
+  },
+  "name": "Blk 646b",
+  "place_id": "ChIJOe5kMqE92jERfA1gMbgaC7E",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jayden Wu Yuanyun",
+      "author_url": "https://www.google.com/maps/contrib/112615063794437875256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWR2xllsjfWcDcfQi6xQjy4VcdKO-nQ8M1Zal3PhOJOvuLaQghN=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701834428,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12757319747861745020",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

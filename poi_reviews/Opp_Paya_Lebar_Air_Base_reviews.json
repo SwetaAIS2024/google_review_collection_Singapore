@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.343329,
+      "lng": 103.898949
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344670580291502,
+        "lng": 103.9003429802915
+      },
+      "southwest": {
+        "lat": 1.341972619708498,
+        "lng": 103.8976450197085
+      }
+    }
+  },
+  "name": "Opp Paya Lebar Air Base",
+  "place_id": "ChIJXXsPu-kX2jERelQ4MFoA1_4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18363146392982541434",
+  "vicinity": "Singapore"
+}

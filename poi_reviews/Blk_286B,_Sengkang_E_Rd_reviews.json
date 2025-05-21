@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39797,
+      "lng": 103.89543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399333330291502,
+        "lng": 103.8967403802915
+      },
+      "southwest": {
+        "lat": 1.396635369708498,
+        "lng": 103.8940424197085
+      }
+    }
+  },
+  "name": "Blk 286B, Sengkang E Rd",
+  "place_id": "ChIJ97g7vwsW2jERKZBg5di-wIg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9854085823457169449",
+  "vicinity": "Singapore"
+}

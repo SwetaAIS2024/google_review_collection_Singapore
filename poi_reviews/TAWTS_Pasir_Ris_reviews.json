@@ -1,0 +1,28 @@
+{
+  "formatted_address": "473 Pasir Ris Drive 6, B1-498, Singapore 510473",
+  "geometry": {
+    "location": {
+      "lat": 1.374502,
+      "lng": 103.9573461
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375903430291502,
+        "lng": 103.9587768302915
+      },
+      "southwest": {
+        "lat": 1.373205469708498,
+        "lng": 103.9560788697085
+      }
+    }
+  },
+  "name": "TAWTS (Pasir Ris)",
+  "place_id": "ChIJj8zGCK092jERYUJbeu91OEY",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5059923852761186913",
+  "vicinity": "473 Pasir Ris Drive 6, B1-498, Singapore"
+}

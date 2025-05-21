@@ -1,0 +1,56 @@
+{
+  "formatted_address": "03-02 Liang Seah St, #1, Singapore 189022",
+  "geometry": {
+    "location": {
+      "lat": 1.2977071,
+      "lng": 103.856581
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299083380291502,
+        "lng": 103.8579614802915
+      },
+      "southwest": {
+        "lat": 1.296385419708498,
+        "lng": 103.8552635197085
+      }
+    }
+  },
+  "name": "SAM Edutainment",
+  "place_id": "ChIJI_GnDoEZ2jERet1wuOaIX_A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HUAN SAM",
+      "author_url": "https://www.google.com/maps/contrib/108315281937823278453/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxAvbm39XiEtlvQ3bycpgemVcf9UCKFS6t1x54xIs6hw1_Kg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "I really love this classic British style.  Learning environment, lectures are, classmates all good. Definitely will introduce it to my friends.",
+      "time": 1571365268,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Chua",
+      "author_url": "https://www.google.com/maps/contrib/106275950441258396182/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhzJ1-n_7dJFfNF5DIxEiT4C7LnTGw79Jh2x1zcKPh_O2eZxJY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Awesome interior & cozy atmosphere, perfect for private gatherings :)",
+      "time": 1569639834,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17320713216408477050",
+  "user_ratings_total": 2,
+  "vicinity": "03-02 Liang Seah Street, #1"
+}

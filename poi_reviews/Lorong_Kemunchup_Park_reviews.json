@@ -1,0 +1,44 @@
+{
+  "formatted_address": "42 Jln Intan, Singapore 668802",
+  "geometry": {
+    "location": {
+      "lat": 1.3606065,
+      "lng": 103.7604453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362045880291502,
+        "lng": 103.7620071302915
+      },
+      "southwest": {
+        "lat": 1.359347919708498,
+        "lng": 103.7593091697085
+      }
+    }
+  },
+  "name": "Lorong Kemunchup Park",
+  "place_id": "ChIJfUxO-98R2jERsP2x_kjQkyo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Toh Eng Sing",
+      "author_url": "https://www.google.com/maps/contrib/103886148215971992763/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt9Qkb3TR2tB4TxXp_AkII1uJp986V-VArKKhoefOvounGfdk=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "This park is near my home. It is very small. There is a small pavilion in the park with two stone chairs inside. There are also several stone chairs outside for people to rest. There is also a miniature basketball court and several sports equipment for seniors, but nothing else.",
+      "time": 1679155100,
+      "translated": true
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3068024783098740144",
+  "user_ratings_total": 1,
+  "vicinity": "42 Jalan Intan, Singapore"
+}

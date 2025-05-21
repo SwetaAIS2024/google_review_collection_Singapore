@@ -1,0 +1,30 @@
+{
+  "formatted_address": "111 Jalan Bukit Merah, #01-1688, Singapore 160111",
+  "geometry": {
+    "location": {
+      "lat": 1.2802655,
+      "lng": 103.8263755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281525130291502,
+        "lng": 103.8276658802915
+      },
+      "southwest": {
+        "lat": 1.278827169708498,
+        "lng": 103.8249679197085
+      }
+    }
+  },
+  "name": "Hock Hua Eating House",
+  "place_id": "ChIJxcMXsXwZ2jERWN9ld3VigPk",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17978477969116880728",
+  "vicinity": "111 Jalan Bukit Merah, #01-1688"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Canal, Holland Grv Vw, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3129307,
+      "lng": 103.7795974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314312930291502,
+        "lng": 103.7809517802915
+      },
+      "southwest": {
+        "lat": 1.311614969708498,
+        "lng": 103.7782538197085
+      }
+    }
+  },
+  "name": "Holland Grove Connector to Dover MRT",
+  "place_id": "ChIJt7fnUAAb2jERIf-Lucv0ChA",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1156005410202451745",
+  "vicinity": "Canal, Holland Grove View"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "608 Ang Mo Kio Ave 5, Block 608, Singapore 560608",
+  "geometry": {
+    "location": {
+      "lat": 1.3786781,
+      "lng": 103.8369386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380134580291502,
+        "lng": 103.8382064802915
+      },
+      "southwest": {
+        "lat": 1.377436619708498,
+        "lng": 103.8355085197085
+      }
+    }
+  },
+  "name": "Nam Hoe Store",
+  "place_id": "ChIJ83GfmsYW2jERlNS1QdFqKME",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13918492095371662484",
+  "vicinity": "608 Ang Mo Kio Avenue 5, Block 608, Singapore"
+}

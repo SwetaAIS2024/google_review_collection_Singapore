@@ -1,0 +1,43 @@
+{
+  "formatted_address": "151 Ang Mo Kio Ave 5, #01-3040, Singapore 560151",
+  "geometry": {
+    "location": {
+      "lat": 1.3766866,
+      "lng": 103.8411448
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377990180291502,
+        "lng": 103.8424952302915
+      },
+      "southwest": {
+        "lat": 1.375292219708498,
+        "lng": 103.8397972697085
+      }
+    }
+  },
+  "name": "Tan Motor Car Enterprises",
+  "place_id": "ChIJsc5UusMW2jERNwjWlPH3vnU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tan Sonia Jean",
+      "author_url": "https://www.google.com/maps/contrib/117693656683720008431/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUDCfL4Lswe85SsyuhGaftmK4nbGVABuYDlbA-envVVHkl0A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610384527,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8484491364968826935",
+  "user_ratings_total": 1,
+  "vicinity": "151 Ang Mo Kio Avenue 5, #01-3040, Singapore"
+}

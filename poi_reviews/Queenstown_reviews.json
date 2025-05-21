@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Queenstown, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3012507,
+      "lng": 103.7981323
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318728901110966,
+        "lng": 103.8166261276049
+      },
+      "southwest": {
+        "lat": 1.255069597261204,
+        "lng": 103.7509299219933
+      }
+    }
+  },
+  "name": "Queenstown",
+  "place_id": "ChIJFViwNFIa2jERsKTarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Queenstown,+Singapore&ftid=0x31da1a5234b05815:0x500f7acaedaa4b0",
+  "vicinity": "Singapore"
+}

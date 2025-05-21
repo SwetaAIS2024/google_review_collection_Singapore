@@ -1,0 +1,41 @@
+{
+  "formatted_address": "6 Defu Lane 3, Singapore 539440",
+  "geometry": {
+    "location": {
+      "lat": 1.3584382,
+      "lng": 103.8995422
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359600180291502,
+        "lng": 103.9009156802915
+      },
+      "southwest": {
+        "lat": 1.356902219708498,
+        "lng": 103.8982177197085
+      }
+    }
+  },
+  "name": "Yew Eng Trading Co",
+  "place_id": "ChIJmbYbhs4X2jERkRne9QxCcFY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ibrahim Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/104012981013252006458/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGKuPaWwEq4L9vTf0CDt6-2TjhOv3vIEPnYHahNVaIAwXFfQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1566203901,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6228550908085410193",
+  "user_ratings_total": 1,
+  "vicinity": "6 Defu Lane 3, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9008 Tampines Street 93, Singapore 528843",
+  "geometry": {
+    "location": {
+      "lat": 1.341892,
+      "lng": 103.942416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343300030291502,
+        "lng": 103.9437134302915
+      },
+      "southwest": {
+        "lat": 1.340602069708498,
+        "lng": 103.9410154697085
+      }
+    }
+  },
+  "name": "Shang Ya Import Export",
+  "place_id": "ChIJv9BCjj492jERj-KdntiFhJs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11206228938225214095",
+  "vicinity": "9008 Tampines Street 93, Singapore"
+}

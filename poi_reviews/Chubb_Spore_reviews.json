@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3181783,
+      "lng": 103.8665762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319503730291502,
+        "lng": 103.8679508302915
+      },
+      "southwest": {
+        "lat": 1.316805769708498,
+        "lng": 103.8652528697085
+      }
+    }
+  },
+  "name": "Chubb S'pore",
+  "place_id": "ChIJV7xnwNIZ2jER2s6XUvgAAx8",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2234630906643467994",
+  "vicinity": "Singapore"
+}

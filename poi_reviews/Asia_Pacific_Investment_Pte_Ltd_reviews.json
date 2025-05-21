@@ -1,0 +1,53 @@
+{
+  "formatted_address": "438 Alexandra Rd, Singapore 119958",
+  "geometry": {
+    "location": {
+      "lat": 1.277291,
+      "lng": 103.799729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278831480291502,
+        "lng": 103.8010579802915
+      },
+      "southwest": {
+        "lat": 1.276133519708498,
+        "lng": 103.7983600197085
+      }
+    }
+  },
+  "name": "Asia Pacific Investment Pte Ltd",
+  "place_id": "ChIJUcBX98Yb2jERjD9HGXjZ-AI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Greg Tanner",
+      "author_url": "https://www.google.com/maps/contrib/115747169168819917594/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWTXjwPNxMonDsFKjAY5JaFtCqHTmepOqSEGlwjEDlV74_oao=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "JC is wonderful!!!",
+      "time": 1688639998,
+      "translated": false
+    },
+    {
+      "author_name": "PK NG",
+      "author_url": "https://www.google.com/maps/contrib/110890913100956296517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE5yqGDNgyeNtLVUtDACfvFG4csQuogRjmRANIOCSE3WEXInzS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522512478,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=214160092143501196",
+  "user_ratings_total": 2,
+  "vicinity": "438 Alexandra Road, Singapore"
+}

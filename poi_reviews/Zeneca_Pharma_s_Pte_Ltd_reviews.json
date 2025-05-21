@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9 Temasek Blvd, Singapore 038989",
+  "geometry": {
+    "location": {
+      "lat": 1.2956755,
+      "lng": 103.8591564
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296894230291502,
+        "lng": 103.8605703802915
+      },
+      "southwest": {
+        "lat": 1.294196269708498,
+        "lng": 103.8578724197085
+      }
+    }
+  },
+  "name": "Zeneca Pharma (s) Pte Ltd",
+  "place_id": "ChIJuyp5A68Z2jERIySwa5h2sZk",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11074763355694572579",
+  "vicinity": "9 Temasek Boulevard"
+}

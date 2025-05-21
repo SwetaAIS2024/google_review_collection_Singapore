@@ -1,0 +1,41 @@
+{
+  "formatted_address": "5 Tuas South Ave 10, T99, Singapore 637008",
+  "geometry": {
+    "location": {
+      "lat": 1.2873367,
+      "lng": 103.623565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288707030291502,
+        "lng": 103.6248494802915
+      },
+      "southwest": {
+        "lat": 1.286009069708498,
+        "lng": 103.6221515197085
+      }
+    }
+  },
+  "name": "International Tess Singapore Pte Ltd",
+  "place_id": "ChIJWTfXTf8F2jERNuiZRnqZyRA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rizalheyzrie Rashid",
+      "author_url": "https://www.google.com/maps/contrib/117593752116746921271/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsJXpySqG4EY_2jks_c7A0NHnj2GmOxPfHJHE8xcq_iv7AAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726717344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1209666725375240246",
+  "user_ratings_total": 1,
+  "vicinity": "5 Tuas South Avenue 10, T99, Singapore"
+}

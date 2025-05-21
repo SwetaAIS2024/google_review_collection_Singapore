@@ -1,0 +1,29 @@
+{
+  "formatted_address": "140 Corporation Dr, #01-01, Singapore 610140",
+  "geometry": {
+    "location": {
+      "lat": 1.3267179,
+      "lng": 103.7230504
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327979130291502,
+        "lng": 103.7244872302915
+      },
+      "southwest": {
+        "lat": 1.325281169708498,
+        "lng": 103.7217892697085
+      }
+    }
+  },
+  "name": "Kwan Inn Vegetarian",
+  "place_id": "ChIJhZ2z3c8F2jERV-gK9lUkbSA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2336563733293885527",
+  "vicinity": "140 Corporation Drive, #01-01"
+}

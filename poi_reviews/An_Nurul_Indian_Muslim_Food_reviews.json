@@ -1,0 +1,55 @@
+{
+  "formatted_address": "253 Choa Chu Kang Ave 1, #01-24 Keat Hong Shopping Centre, Singapore 680253",
+  "geometry": {
+    "location": {
+      "lat": 1.3767795,
+      "lng": 103.7444729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378122830291502,
+        "lng": 103.7457524802915
+      },
+      "southwest": {
+        "lat": 1.375424869708498,
+        "lng": 103.7430545197085
+      }
+    }
+  },
+  "name": "An Nurul Indian Muslim Food",
+  "place_id": "ChIJlQP3HwAR2jEReDqc5EcjGYA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "bala ji",
+      "author_url": "https://www.google.com/maps/contrib/108516098391875988289/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfxNiBdmaTSfDAcHZHzx5t2Eqr17FMpMbqcUk9xqbwAMds017B=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Very worst taste of biriyani..also 9$ not worth it.. waste of money.. biriyani very hard.. I don't know what time they prepare? Because biriyani no hot..",
+      "time": 1735369847,
+      "translated": false
+    },
+    {
+      "author_name": "syira ismwi",
+      "author_url": "https://www.google.com/maps/contrib/113566488131573810989/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaxY_Ma22Y9sgxvTxjr3qytEB7tGi0JSIxApGk1VfhDm-H3FE4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736046425,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9230447702957636216",
+  "user_ratings_total": 2,
+  "vicinity": "253 Choa Chu Kang Avenue 1, #01-24 Keat Hong Shopping Centre"
+}

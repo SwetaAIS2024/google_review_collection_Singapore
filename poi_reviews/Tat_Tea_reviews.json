@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Banda St, #03-56, Singapore 050005",
+  "geometry": {
+    "location": {
+      "lat": 1.2812721,
+      "lng": 103.843385
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282642780291502,
+        "lng": 103.8447391802915
+      },
+      "southwest": {
+        "lat": 1.279944819708498,
+        "lng": 103.8420412197085
+      }
+    }
+  },
+  "name": "Tat Tea",
+  "place_id": "ChIJUZ6RbmgZ2jERY7wGR2E9ZQo",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=749072401039801443",
+  "vicinity": "5 Banda Street, #03-56"
+}

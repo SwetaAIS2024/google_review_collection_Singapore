@@ -1,0 +1,65 @@
+{
+  "formatted_address": "21A Simon Rd, Singapore 545907",
+  "geometry": {
+    "location": {
+      "lat": 1.3620378,
+      "lng": 103.8857518
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363352680291502,
+        "lng": 103.8870551802915
+      },
+      "southwest": {
+        "lat": 1.360654719708498,
+        "lng": 103.8843572197085
+      }
+    }
+  },
+  "name": "Mrs Sam's Learning Formula",
+  "place_id": "ChIJP8RAg7QX2jERTaZXif5AnrI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "S Y",
+      "author_url": "https://www.google.com/maps/contrib/105873700920815849349/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2Q-4vs03PXYasnMoz5J6z8tAIs9VMNjPo82ZQ_ByB_mJ_5DmXxQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Daughter learned to read in 2 months after struggling with phonics. And her issue was sight words. She is reading so well now, improvement is tremendous! Highly recommend!",
+      "time": 1737118131,
+      "translated": false
+    },
+    {
+      "author_name": "Kharisma Devi",
+      "author_url": "https://www.google.com/maps/contrib/117092726605063339266/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvsnJsZS-2o1F1weGrrlTuqDPC00mXqKjSJyii2uh-yavfrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "My child has improved tremendously just from 2 months of Prep programme. My child's handwriting has improved. Lessons were twice a week but its ok as he looks forward to the lessons there.",
+      "time": 1711689501,
+      "translated": false
+    },
+    {
+      "author_name": "Lina Selina",
+      "author_url": "https://www.google.com/maps/contrib/108666772013945614219/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4x6M0Mxx-RGxGdUb6uC__2Opskisx2Z_LcBImfNcxZto_Jg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710571439,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12870796247041549901",
+  "user_ratings_total": 3,
+  "vicinity": "21A Simon Road"
+}

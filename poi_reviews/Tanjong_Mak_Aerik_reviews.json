@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Western Islands, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2843024,
+      "lng": 103.6997731
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285534030291502,
+        "lng": 103.7010949802915
+      },
+      "southwest": {
+        "lat": 1.282836069708498,
+        "lng": 103.6983970197085
+      }
+    }
+  },
+  "name": "Tanjong Mak Aerik",
+  "place_id": "ChIJ6z8S9moF2jERjdG3r-NEtm0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Han JS",
+      "author_url": "https://www.google.com/maps/contrib/108927922336076645290/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdOspkC9kmM3YC4oPhzceFEDQXsP8-7VwD-oZEcVEcZbEpIQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1737846601,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7905581940591808909",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

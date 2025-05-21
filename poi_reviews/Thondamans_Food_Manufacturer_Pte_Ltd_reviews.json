@@ -1,0 +1,31 @@
+{
+  "formatted_address": "577 Serangoon Rd, Singapore 218191",
+  "geometry": {
+    "location": {
+      "lat": 1.315716,
+      "lng": 103.858273
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317050530291502,
+        "lng": 103.8597104302915
+      },
+      "southwest": {
+        "lat": 1.314352569708498,
+        "lng": 103.8570124697085
+      }
+    }
+  },
+  "name": "Thondamans Food Manufacturer Pte Ltd",
+  "place_id": "ChIJ71tGuc8Z2jERNWviPRhgghY",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1621964473040530229",
+  "vicinity": "577 Serangoon Road"
+}

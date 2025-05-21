@@ -1,0 +1,55 @@
+{
+  "formatted_address": "156 Gul Cir, Singapore 629613",
+  "geometry": {
+    "location": {
+      "lat": 1.3201694,
+      "lng": 103.6747593
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321544580291502,
+        "lng": 103.6761063802915
+      },
+      "southwest": {
+        "lat": 1.318846619708498,
+        "lng": 103.6734084197085
+      }
+    }
+  },
+  "name": "CKW HOUSE",
+  "place_id": "ChIJ53S4dCwF2jERpI1suRSvbPw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Teng Wee Ong",
+      "author_url": "https://www.google.com/maps/contrib/117424135853739075632/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdHPPG1ITTtyR7B07vrnMElkgZQs3eTbU5iMVOKT1TXERBKrx7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good house",
+      "time": 1570531963,
+      "translated": false
+    },
+    {
+      "author_name": "Yizhuo Zhang",
+      "author_url": "https://www.google.com/maps/contrib/110733820442009650552/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXan6eGCFKfhRWz92Y2XozXl7L_wIYWKOdlQv29Vq6hbvn1OV8n=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1554426163,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18189105498587696548",
+  "user_ratings_total": 2,
+  "vicinity": "156 Gul Circle"
+}

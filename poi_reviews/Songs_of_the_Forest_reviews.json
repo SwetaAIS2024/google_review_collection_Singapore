@@ -1,0 +1,56 @@
+{
+  "formatted_address": "20 Mandai Lake Rd, Singapore 729825",
+  "geometry": {
+    "location": {
+      "lat": 1.4047131,
+      "lng": 103.7814249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406212130291502,
+        "lng": 103.7829344802915
+      },
+      "southwest": {
+        "lat": 1.403514169708498,
+        "lng": 103.7802365197085
+      }
+    }
+  },
+  "name": "Songs of the Forest",
+  "place_id": "ChIJ9_RpOAAT2jERkXGTCuNA4XE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Clifton Wong",
+      "author_url": "https://www.google.com/maps/contrib/109505048154150477792/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiwfSmCN8m9sHAYT4Dbe6ZMplYngZuYhVnDBkLs6OCD5wOP1E=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Amazing place, couldnt stop hearing voices in my head. Not sure if it was because of the forest or my alter ego. Will definitely visit again",
+      "time": 1746463479,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Rodrigues",
+      "author_url": "https://www.google.com/maps/contrib/112071771584127830520/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC9ltw-y7Mb0nS0CN4OrMaCEwIHg4PTfYWeHJqz_5s5DaKmO9dSA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "This is a great place to come to hear the different calls of the birds in the wild.",
+      "time": 1726677421,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8205911339924943249",
+  "user_ratings_total": 2,
+  "vicinity": "20 Mandai Lake Road, Singapore"
+}

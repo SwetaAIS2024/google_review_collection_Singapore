@@ -1,0 +1,28 @@
+{
+  "formatted_address": "51 Tampines Street 61, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3628957,
+      "lng": 103.9390411
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364215980291502,
+        "lng": 103.9403896802915
+      },
+      "southwest": {
+        "lat": 1.361518019708498,
+        "lng": 103.9376917197085
+      }
+    }
+  },
+  "name": "MOE Kindergarten @ Angsana",
+  "place_id": "ChIJjVcpT2s92jERNhUzfbXOzmc",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7480143309993874742",
+  "vicinity": "51 Tampines Street 61"
+}

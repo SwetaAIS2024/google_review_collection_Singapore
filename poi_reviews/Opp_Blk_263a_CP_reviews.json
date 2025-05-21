@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357995,
+      "lng": 103.84111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359347280291502,
+        "lng": 103.8424950302915
+      },
+      "southwest": {
+        "lat": 1.356649319708498,
+        "lng": 103.8397970697085
+      }
+    }
+  },
+  "name": "Opp Blk 263a CP",
+  "place_id": "ChIJzwPHuSMX2jERNSeYvVAonOE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16256913082144007989",
+  "vicinity": "Singapore"
+}

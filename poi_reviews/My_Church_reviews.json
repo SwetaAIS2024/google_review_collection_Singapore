@@ -1,0 +1,29 @@
+{
+  "formatted_address": "299 Upper Paya Lebar Rd, Singapore 534932",
+  "geometry": {
+    "location": {
+      "lat": 1.3440008,
+      "lng": 103.8820935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345509580291502,
+        "lng": 103.8836221302915
+      },
+      "southwest": {
+        "lat": 1.342811619708498,
+        "lng": 103.8809241697085
+      }
+    }
+  },
+  "name": "My Church",
+  "place_id": "ChIJg6yYNAAX2jERzoGW4wOka7w",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13577125838248640974",
+  "vicinity": "299 Upper Paya Lebar Road"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.355665,
+      "lng": 103.841324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356988230291502,
+        "lng": 103.8427620802915
+      },
+      "southwest": {
+        "lat": 1.354290269708498,
+        "lng": 103.8400641197085
+      }
+    }
+  },
+  "name": "Opp Whitley Sec Sch",
+  "place_id": "ChIJO8-rIyMX2jEROHXVP32NPO0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Radian Ismail (Dian)",
+      "author_url": "https://www.google.com/maps/contrib/112744090075919246044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtn1Cs3FfbunhC2jq7cs6k4BLGkfdLYLY7T-3bpYB4bvzVj78QdQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486125984,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17094693854672942392",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

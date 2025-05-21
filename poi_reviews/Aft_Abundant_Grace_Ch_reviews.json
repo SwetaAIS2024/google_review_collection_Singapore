@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39653,
+      "lng": 103.873116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397879230291502,
+        "lng": 103.8744621802915
+      },
+      "southwest": {
+        "lat": 1.395181269708498,
+        "lng": 103.8717642197085
+      }
+    }
+  },
+  "name": "Aft Abundant Grace Ch",
+  "place_id": "ChIJnfsoA3wW2jERtKuR0xRBRas",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "luciane tanudjaja",
+      "author_url": "https://www.google.com/maps/contrib/108369015723288832576/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ4c4ePY2Av1hnWk4zTTP7yM0iq8Lcha_FH5uk3L5vOkIjlY0d=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482045674,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12341341911583402932",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

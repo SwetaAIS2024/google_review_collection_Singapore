@@ -1,0 +1,44 @@
+{
+  "formatted_address": "91 Bedok North Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3272099,
+      "lng": 103.9402313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328565180291502,
+        "lng": 103.9416111302915
+      },
+      "southwest": {
+        "lat": 1.325867219708498,
+        "lng": 103.9389131697085
+      }
+    }
+  },
+  "name": "Turtle pond bedok",
+  "place_id": "ChIJH4nbdQA92jER2YwWFxSDK7Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jane",
+      "author_url": "https://www.google.com/maps/contrib/104772853735918173265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU02B_P5af0FnNf2msyKuJuMPbd19Qh0dL0NIAnlXxbe8b1-p3kDA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "URA managed terrapin pond",
+      "time": 1741423650,
+      "translated": false
+    }
+  ],
+  "types": [
+    "zoo",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12982614473135525081",
+  "user_ratings_total": 1,
+  "vicinity": "91 Bedok North Road"
+}

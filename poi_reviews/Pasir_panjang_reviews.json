@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.257862,
+      "lng": 103.7808312
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.259435830291502,
+        "lng": 103.7823056802915
+      },
+      "southwest": {
+        "lat": 1.256737869708498,
+        "lng": 103.7796077197085
+      }
+    }
+  },
+  "name": "Pasir panjang",
+  "place_id": "ChIJq_LdHwAb2jERbRNH7tgMf5g",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Arne Leiv Sören Erdmann",
+      "author_url": "https://www.google.com/maps/contrib/109466859658294106599/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-wtbcgfGH9sKF9v6ol-SclxWVulBiP6XxDEdnBjNu1oeSPsUO=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "The people there are stressed and unfriendly. Too bad. A",
+      "time": 1740424813,
+      "translated": true
+    }
+  ],
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10988515741657404269",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

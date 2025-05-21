@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Tuas, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3163363,
+      "lng": 103.6350524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317622530291502,
+        "lng": 103.6363777302915
+      },
+      "southwest": {
+        "lat": 1.314924569708498,
+        "lng": 103.6336797697085
+      }
+    }
+  },
+  "name": "Foody",
+  "place_id": "ChIJM-wbAVMF2jERGMTfnvG3vG8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8051512482212070424",
+  "vicinity": ""
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Mount Elizabeth, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.305083,
+      "lng": 103.8353626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306036080291502,
+        "lng": 103.8368658802915
+      },
+      "southwest": {
+        "lat": 1.303338119708498,
+        "lng": 103.8341679197085
+      }
+    }
+  },
+  "name": "Clinical Neuroscience Services Pte Ltd",
+  "place_id": "ChIJEW8RUpIZ2jERnZ5cA0g7EpU",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10741713241712139933",
+  "vicinity": "3 Mount Elizabeth"
+}

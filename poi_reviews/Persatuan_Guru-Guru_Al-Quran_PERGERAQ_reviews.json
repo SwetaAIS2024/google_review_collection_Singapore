@@ -1,0 +1,42 @@
+{
+  "formatted_address": "218E, Changi Road 03-10, PKMS Building, Singapore 419737",
+  "geometry": {
+    "location": {
+      "lat": 1.3172155,
+      "lng": 103.9042661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318517580291502,
+        "lng": 103.9057078802915
+      },
+      "southwest": {
+        "lat": 1.315819619708498,
+        "lng": 103.9030099197085
+      }
+    }
+  },
+  "name": "Persatuan Guru-Guru Al-Quran (PERGERAQ)",
+  "place_id": "ChIJJwZ0ZwUY2jERYLlBA7GMJ9k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HALIM KADIR",
+      "author_url": "https://www.google.com/maps/contrib/105447232331090093944/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFmg5y5ha9TlXwLfPuMRpjU_MRwJI575S3DCHqLZ6wSwtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742639611,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15647630122213816672",
+  "user_ratings_total": 1,
+  "vicinity": "218E, Changi Road 03-10, PKMS Building"
+}

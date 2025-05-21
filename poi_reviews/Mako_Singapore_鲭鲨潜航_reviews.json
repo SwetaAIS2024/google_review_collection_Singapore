@@ -1,0 +1,63 @@
+{
+  "formatted_address": "1003 Bukit Merah Central, #04-24 Inno Center, Singapore 159836",
+  "geometry": {
+    "location": {
+      "lat": 1.2833919,
+      "lng": 103.8144416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284814580291502,
+        "lng": 103.8158266302915
+      },
+      "southwest": {
+        "lat": 1.282116619708498,
+        "lng": 103.8131286697085
+      }
+    }
+  },
+  "name": "Mako Singapore 鲭鲨潜航",
+  "place_id": "ChIJszr51FEa2jERFNZ5xwm7ZfU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Edwin Yeo",
+      "author_url": "https://www.google.com/maps/contrib/104187541481940613598/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW0IViHak2fj8O6j3jL0xk43i2C58_9uWoE6cs95iCAEU6e24Pow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643971070,
+      "translated": false
+    },
+    {
+      "author_name": "John Loh",
+      "author_url": "https://www.google.com/maps/contrib/106626025729951804832/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCCdUZZjiKZ8sP6Osebrkx0udyKByXAF_qYjp7P11fl_funA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1456130256,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Steven",
+      "author_url": "https://www.google.com/maps/contrib/101465171828076491348/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr0bgITr0N58AgcdUwZ4fV0620-aC8qujnWtj3Tbz2Vjf6FCnR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1441267053,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17682745162615870996",
+  "user_ratings_total": 3,
+  "vicinity": "1003 Bukit Merah Central, #04-24 Inno Center"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Blk 3 Beach Road #01-4835Singapore 190003, Singapore 190003",
+  "geometry": {
+    "location": {
+      "lat": 1.304415,
+      "lng": 103.865374
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305603530291502,
+        "lng": 103.8668544302915
+      },
+      "southwest": {
+        "lat": 1.302905569708498,
+        "lng": 103.8641564697085
+      }
+    }
+  },
+  "name": "Success Education Place",
+  "place_id": "ChIJ8RA-9LQZ2jERyUmpEwqzdXs",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8896213494801189321",
+  "vicinity": "Blk 3 Beach Road #01-4835Singapore 190003"
+}

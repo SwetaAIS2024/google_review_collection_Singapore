@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Garden Bay, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2815683,
+      "lng": 103.8636132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282317430291502,
+        "lng": 103.8653275302915
+      },
+      "southwest": {
+        "lat": 1.279619469708498,
+        "lng": 103.8626295697085
+      }
+    }
+  },
+  "name": "Dragonfly Bridge",
+  "place_id": "ChIJp7247tcZ2jERzNNTTiy2_eY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "G P Hapitan",
+      "author_url": "https://www.google.com/maps/contrib/114134295520736658664/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_Gf6QJTBz_u1Oeo84-xYOrb1QIF1gOyV6mC8nKur7tmAhOW8=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726677415,
+      "translated": false
+    },
+    {
+      "author_name": "Nathalie YERRO",
+      "author_url": "https://www.google.com/maps/contrib/112494366619862488486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYgfP3Jx2td198oQnDfs0Sv0PzpyXqgu3KTpXPDeMtVV85Zmw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723398591,
+      "translated": false
+    },
+    {
+      "author_name": "Mazia Madon",
+      "author_url": "https://www.google.com/maps/contrib/112669399570348436231/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp8hasDA1OS0CaK8DGaDjIhLwtW3yQRwBo1_sQNWzGBG_HueUT=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706069419,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16644660099240154060",
+  "user_ratings_total": 3,
+  "vicinity": "Garden Bay"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3943993,
+      "lng": 103.9005175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395747330291502,
+        "lng": 103.9018661302915
+      },
+      "southwest": {
+        "lat": 1.393049369708498,
+        "lng": 103.8991681697085
+      }
+    }
+  },
+  "name": "Compassvale",
+  "place_id": "ChIJuW1qBg8W2jERnCcQWKQ3UZU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10759442163756443548",
+  "vicinity": "Singapore"
+}

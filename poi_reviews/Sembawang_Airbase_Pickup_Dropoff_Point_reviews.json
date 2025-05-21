@@ -1,0 +1,42 @@
+{
+  "formatted_address": "313 Sembawang Rd, Singapore 757754",
+  "geometry": {
+    "location": {
+      "lat": 1.4180152,
+      "lng": 103.8180197
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419379330291502,
+        "lng": 103.8193836802915
+      },
+      "southwest": {
+        "lat": 1.416681369708498,
+        "lng": 103.8166857197085
+      }
+    }
+  },
+  "name": "Sembawang Airbase Pickup/Dropoff Point",
+  "place_id": "ChIJKTBhJr8T2jERQ86E1p-aL4Y",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Justin Gwee",
+      "author_url": "https://www.google.com/maps/contrib/111921431880956307962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe7z3euI2jPEgj-L0Fys7Egsohqf0MLwvmL__BK7Fu07lWNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727864873,
+      "translated": false
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9669116936277249603",
+  "user_ratings_total": 1,
+  "vicinity": "313 Sembawang Road, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9 Airline Rd, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384317130291502,
+        "lng": 104.0005482802915
+      },
+      "southwest": {
+        "lat": 1.381619169708498,
+        "lng": 103.9978503197085
+      }
+    }
+  },
+  "name": "Westmead Pharmacy Pte Ltd",
+  "place_id": "ChIJK8nGwww82jER_3uI5qcjH9U",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15357032458390895615",
+  "vicinity": "9 Airline Road, Singapore"
+}

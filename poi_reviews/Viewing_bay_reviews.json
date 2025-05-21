@@ -1,0 +1,54 @@
+{
+  "formatted_address": "8 Marina Gardens Dr, Singapore 018951",
+  "geometry": {
+    "location": {
+      "lat": 1.2801652,
+      "lng": 103.8718233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281222330291502,
+        "lng": 103.8728696802915
+      },
+      "southwest": {
+        "lat": 1.278524369708498,
+        "lng": 103.8701717197085
+      }
+    }
+  },
+  "name": "Viewing bay",
+  "place_id": "ChIJ125PRQAZ2jER_cEmxfkk2cQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "K D",
+      "author_url": "https://www.google.com/maps/contrib/114787961808654457794/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZsMB_aDR1Uu-4nOSIWTe_8Wp9QweCODvt3DLJjLkFcYN4mupI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great view",
+      "time": 1740487578,
+      "translated": false
+    },
+    {
+      "author_name": "M7 HH040",
+      "author_url": "https://www.google.com/maps/contrib/118234682088406891299/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURpYyh8LWT7GegCZE0nm2_fSbbJ_TnYJ69_9qbs28_EEj1WY8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740374012,
+      "translated": false
+    }
+  ],
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14184409156553196029",
+  "user_ratings_total": 2,
+  "vicinity": "8 Marina Gardens Drive, Singapore"
+}

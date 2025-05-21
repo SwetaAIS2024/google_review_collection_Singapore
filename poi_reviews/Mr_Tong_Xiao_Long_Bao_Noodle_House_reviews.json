@@ -1,0 +1,58 @@
+{
+  "formatted_address": "451 Bukit Batok West Ave 6, Singapore 650451",
+  "geometry": {
+    "location": {
+      "lat": 1.3529428,
+      "lng": 103.7433932
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354305830291502,
+        "lng": 103.7446787302915
+      },
+      "southwest": {
+        "lat": 1.351607869708498,
+        "lng": 103.7419807697085
+      }
+    }
+  },
+  "name": "Mr Tong Xiao Long Bao Noodle House",
+  "place_id": "ChIJO2CSbQAR2jERa9i9LUS73Kc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Felix Utama Kosasih",
+      "author_url": "https://www.google.com/maps/contrib/105990971193416191733/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuNrKAcD4zVbJ3kU-apJCZkyAkhHQl00f-VjVpz0iF34dT-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "XLB shows 6 pieces in picture, but only 5 are served. The filling is very bland, no flavors. Don’t bother trying.",
+      "time": 1736657321,
+      "translated": false
+    },
+    {
+      "author_name": "Rick Ng",
+      "author_url": "https://www.google.com/maps/contrib/103499781517934198543/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIW5m8NugFn2EMCDvoBJtRdM8nXa_rhUvxrChP7suLf6VmfQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Love the beef noodle with flavourful broth. The chicken thigh noodle is nice too with big chicken thigh. Both dishes are not too strong-tasting (not too salty).",
+      "time": 1736990796,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12095748600709896299",
+  "user_ratings_total": 2,
+  "vicinity": "451 Bukit Batok West Avenue 6, Singapore"
+}

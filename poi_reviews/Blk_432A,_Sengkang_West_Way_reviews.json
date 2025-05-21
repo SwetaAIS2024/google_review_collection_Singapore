@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39511,
+      "lng": 103.87698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396505630291502,
+        "lng": 103.8783203802915
+      },
+      "southwest": {
+        "lat": 1.393807669708498,
+        "lng": 103.8756224197085
+      }
+    }
+  },
+  "name": "Blk 432A, Sengkang West Way",
+  "place_id": "ChIJpzbLTXoW2jER_ZfmrhSM2W0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7915511840541939709",
+  "vicinity": "Singapore"
+}

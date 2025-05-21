@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Orchard Rd, Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3045795,
+      "lng": 103.8340621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306018680291502,
+        "lng": 103.8355141802915
+      },
+      "southwest": {
+        "lat": 1.303320719708498,
+        "lng": 103.8328162197085
+      }
+    }
+  },
+  "name": "Pink panther Pub",
+  "place_id": "ChIJTb-YWwAZ2jER08nmWx_fpKQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "김효준",
+      "author_url": "https://www.google.com/maps/contrib/117969560728101849930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgIyVofCnfE3bUZiYScwzRKBP85vlcbbJe3WrVwIYWsfdr3BJp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747065952,
+      "translated": false
+    },
+    {
+      "author_name": "Boon Seng Ang",
+      "author_url": "https://www.google.com/maps/contrib/110562125584976514631/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0R2R9z4rzGVihMvLbpdUpxRG4X9VTr-04YMGEIICLwoaJIIs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746018387,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11863852644179560915",
+  "user_ratings_total": 2,
+  "vicinity": "Orchard Road, Lucky Plaza"
+}

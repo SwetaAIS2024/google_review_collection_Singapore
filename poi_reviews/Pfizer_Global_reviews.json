@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301632,
+      "lng": 103.63472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302997080291502,
+        "lng": 103.6360315302915
+      },
+      "southwest": {
+        "lat": 1.300299119708498,
+        "lng": 103.6333335697085
+      }
+    }
+  },
+  "name": "Pfizer Global",
+  "place_id": "ChIJAcpztncG2jERQ6EfUSGnZhI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1325930901843976515",
+  "vicinity": "Singapore"
+}

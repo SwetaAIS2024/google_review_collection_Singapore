@@ -1,0 +1,55 @@
+{
+  "formatted_address": "20 Mandai Lake Rd, Singapore 729825",
+  "geometry": {
+    "location": {
+      "lat": 1.4067425,
+      "lng": 103.7831629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.408303130291502,
+        "lng": 103.7845615802915
+      },
+      "southwest": {
+        "lat": 1.405605169708498,
+        "lng": 103.7818636197085
+      }
+    }
+  },
+  "name": "Tram Kiosk",
+  "place_id": "ChIJ54D-ZAAT2jERwmXq3ALmx8U",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yi Ling",
+      "author_url": "https://www.google.com/maps/contrib/115707001285123682601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlkcK6FpBb-Q_EER2W7ON8uPix2iL97NAPchaAE0TxCULNloBN=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Situated at Shuttle Station 2, the little kiosk sells Ben & Jerry Ice Cream scoops, slushies, and snacks. Some souvenirs are sold here as well as some snacks. I like that the old trams design was used to recreate the table and chairs. It's quite cute , caters only maybe 2 families with its limited seats only.",
+      "time": 1696470773,
+      "translated": false
+    },
+    {
+      "author_name": "Wei Jian To",
+      "author_url": "https://www.google.com/maps/contrib/100270804947131041093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEjZRDicCLn6CwS2Vvcyqg8A2z0kS5Y7oDD0jLG1JhA-kOea-XXQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692604390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14251612445807896002",
+  "user_ratings_total": 2,
+  "vicinity": "20 Mandai Lake Road"
+}

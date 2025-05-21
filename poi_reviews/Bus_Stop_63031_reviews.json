@@ -1,0 +1,28 @@
+{
+  "formatted_address": "900 Upper Serangoon Rd, Singapore 534799",
+  "geometry": {
+    "location": {
+      "lat": 1.359923,
+      "lng": 103.885144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361333230291502,
+        "lng": 103.8864392802915
+      },
+      "southwest": {
+        "lat": 1.358635269708498,
+        "lng": 103.8837413197085
+      }
+    }
+  },
+  "name": "Bus Stop (63031)",
+  "place_id": "ChIJbTmU9rMX2jERdR96_vg6lYg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9841837401783803765",
+  "vicinity": "900 Upper Serangoon Road, Singapore"
+}

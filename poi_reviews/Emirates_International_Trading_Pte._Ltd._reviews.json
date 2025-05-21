@@ -1,0 +1,56 @@
+{
+  "formatted_address": "248 Hougang Ave 3, Block 248, Singapore 530248",
+  "geometry": {
+    "location": {
+      "lat": 1.3594147,
+      "lng": 103.8925366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360733380291502,
+        "lng": 103.8937525302915
+      },
+      "southwest": {
+        "lat": 1.358035419708498,
+        "lng": 103.8910545697085
+      }
+    }
+  },
+  "name": "Emirates International Trading Pte. Ltd.",
+  "place_id": "ChIJyxnqHsoX2jEROQjNZaNGGhg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mujibur Rahman",
+      "author_url": "https://www.google.com/maps/contrib/109164857125966211657/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOt07jT-bty6mmcgi6OmDXHlU0FKY1gAVELU15Cek7FU26xNv1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Very friendly",
+      "time": 1519395699,
+      "translated": false
+    },
+    {
+      "author_name": "SOHEL MOHMUD",
+      "author_url": "https://www.google.com/maps/contrib/111653135962192712511/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX29Vre6MhUhGxHb2ZEDvWGgRBweBWwjAtHmBELeh7TCXex47PE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742412325,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1736778273906296889",
+  "user_ratings_total": 2,
+  "vicinity": "248 Hougang Avenue 3, Block 248"
+}

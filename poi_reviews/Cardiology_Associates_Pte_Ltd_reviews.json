@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #06-08 Medical Centre, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3057681,
+      "lng": 103.8356734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3065193,
+        "lng": 103.8369133302915
+      },
+      "southwest": {
+        "lat": 1.3035485,
+        "lng": 103.8342153697085
+      }
+    }
+  },
+  "name": "Cardiology Associates Pte Ltd",
+  "place_id": "ChIJD1Em4ZIZ2jERmRrAiJw61Go",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7697842107066620569",
+  "vicinity": "3 Mount Elizabeth, #06-08 Medical Centre"
+}

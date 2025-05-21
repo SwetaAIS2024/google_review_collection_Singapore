@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Hougang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3793681,
+      "lng": 103.8811609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380656180291502,
+        "lng": 103.8824800302915
+      },
+      "southwest": {
+        "lat": 1.377958219708498,
+        "lng": 103.8797820697085
+      }
+    }
+  },
+  "name": "Buangkok PCN",
+  "place_id": "ChIJdUkIhD4X2jERPhQSvJvxb80",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chris Chiang",
+      "author_url": "https://www.google.com/maps/contrib/117225652520769064118/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGWx_OkVwQxm5ri14D6OcX7ZtTJ3KxU_oKU_w1jOf6rw0-uA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1716876954,
+      "translated": false
+    },
+    {
+      "author_name": "Caleb Koh",
+      "author_url": "https://www.google.com/maps/contrib/108897228428066720356/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRs36Cv0eA8b62S6o06ZotU-d6ineH7RwdGP7_RIFUD7Takg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745053663,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14803316151367636030",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

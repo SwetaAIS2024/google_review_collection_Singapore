@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3406068,
+      "lng": 103.7440768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341931080291502,
+        "lng": 103.7454123302915
+      },
+      "southwest": {
+        "lat": 1.339233119708498,
+        "lng": 103.7427143697085
+      }
+    }
+  },
+  "name": "Opp Blk 288d",
+  "place_id": "ChIJ5-W7OhEQ2jERlQvyubMkFHo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Muthukumar Murugesan",
+      "author_url": "https://www.google.com/maps/contrib/105442430204495052073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqA5EgWvsoahuj50c15q05qmAaHojSyaWvzHlKXAa0P6rSYTzv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508453771,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8796696326498814869",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

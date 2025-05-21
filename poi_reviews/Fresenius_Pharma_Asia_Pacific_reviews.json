@@ -1,0 +1,30 @@
+{
+  "formatted_address": "12 Sago St, Singapore 059014",
+  "geometry": {
+    "location": {
+      "lat": 1.2817344,
+      "lng": 103.8443721
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282912430291502,
+        "lng": 103.8455176802915
+      },
+      "southwest": {
+        "lat": 1.280214469708498,
+        "lng": 103.8428197197085
+      }
+    }
+  },
+  "name": "Fresenius Pharma Asia Pacific",
+  "place_id": "ChIJIzVG0XIZ2jERSosvplwVmXs",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8906173225771174730",
+  "vicinity": "12 Sago Street"
+}

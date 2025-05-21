@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335644,
+      "lng": 103.918053
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336989730291502,
+        "lng": 103.9194537302915
+      },
+      "southwest": {
+        "lat": 1.334291769708498,
+        "lng": 103.9167557697085
+      }
+    }
+  },
+  "name": "Bedok Nth Stn Exit A",
+  "place_id": "ChIJv0_L2Vk92jERVZlwXZz7Uys",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3122115615699016021",
+  "vicinity": "Singapore"
+}

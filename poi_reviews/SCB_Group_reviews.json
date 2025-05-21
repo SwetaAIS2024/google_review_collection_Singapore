@@ -1,0 +1,57 @@
+{
+  "formatted_address": "83 Clemenceau Ave, Singapore 239920",
+  "geometry": {
+    "location": {
+      "lat": 1.2929332,
+      "lng": 103.8429565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294325530291502,
+        "lng": 103.8442314302915
+      },
+      "southwest": {
+        "lat": 1.291627569708498,
+        "lng": 103.8415334697085
+      }
+    }
+  },
+  "name": "SCB Group",
+  "place_id": "ChIJq6r6O58Z2jER0-KpYV4x4Xg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Irin Lim",
+      "author_url": "https://www.google.com/maps/contrib/115206051611335813517/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO1O2wet3_BcVpWpsKToOG_LKZKzPGGNa3MLkdnWThuZjb9A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "SCB google still show Suntec city have ta branch. The information should is wrong",
+      "time": 1745405476,
+      "translated": false
+    },
+    {
+      "author_name": "Sung Kok Wong",
+      "author_url": "https://www.google.com/maps/contrib/105424325062971554814/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEROjcR6pKXz-FKwmxq7u96XU7YyQ9yJyGSBMYjjZGhONU1k5k=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "SCB is no more located here",
+      "time": 1745812982,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8710297435746460371",
+  "user_ratings_total": 2,
+  "vicinity": "83 Clemenceau Avenue"
+}

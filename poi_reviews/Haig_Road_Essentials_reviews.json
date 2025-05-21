@@ -1,0 +1,30 @@
+{
+  "formatted_address": "12 Haig Rd, #01-333 Haig View, Singapore 430012",
+  "geometry": {
+    "location": {
+      "lat": 1.3155971,
+      "lng": 103.8959811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316829130291502,
+        "lng": 103.8972216802915
+      },
+      "southwest": {
+        "lat": 1.314131169708498,
+        "lng": 103.8945237197085
+      }
+    }
+  },
+  "name": "Haig Road Essentials",
+  "place_id": "ChIJUwoKBgAZ2jER7RlJHiJ9qrI",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12874240070282451437",
+  "vicinity": "12 Haig Road, #01-333 Haig View, Singapore"
+}

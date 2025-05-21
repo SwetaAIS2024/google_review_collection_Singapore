@@ -1,0 +1,31 @@
+{
+  "formatted_address": "7 Kaki Bukit Ave 3, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3373265,
+      "lng": 103.9069168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338688580291502,
+        "lng": 103.9080443302915
+      },
+      "southwest": {
+        "lat": 1.335990619708498,
+        "lng": 103.9053463697085
+      }
+    }
+  },
+  "name": "Matine perede",
+  "place_id": "ChIJGyu9IRUX2jERUR65pwsaLdE",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15072732165239807569",
+  "vicinity": "7 Kaki Bukit Avenue 3"
+}

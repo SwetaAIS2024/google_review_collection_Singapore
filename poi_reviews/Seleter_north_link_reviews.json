@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Seletar North Link, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4251829,
+      "lng": 103.8839893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426347030291502,
+        "lng": 103.8852266302915
+      },
+      "southwest": {
+        "lat": 1.423649069708498,
+        "lng": 103.8825286697085
+      }
+    }
+  },
+  "name": "Seleter north link",
+  "place_id": "ChIJCb7kdwAV2jERTkBndPuKTDI",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3624424612720754766",
+  "vicinity": "Seletar North Link"
+}

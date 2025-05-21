@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340141,
+      "lng": 103.871452
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341496480291502,
+        "lng": 103.8729922802915
+      },
+      "southwest": {
+        "lat": 1.338798519708498,
+        "lng": 103.8702943197085
+      }
+    }
+  },
+  "name": "Woodleigh Interchange",
+  "place_id": "ChIJx5UqL5wX2jERikZfwjOQviY",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "xpy",
+      "author_url": "https://www.google.com/maps/contrib/113136260713819309052/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsZkzFzCIU8EVCiPeLxmKU_Lp5FM3GqEK48fR3pKpLfAxgdgw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "rubbish la.cannot find at all from the mrt stn",
+      "time": 1745133235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2791827370995041930",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "20 Chai Chee Rd, Block 20, Singapore 461020",
+  "geometry": {
+    "location": {
+      "lat": 1.3263519,
+      "lng": 103.9231012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327662080291502,
+        "lng": 103.9245427802915
+      },
+      "southwest": {
+        "lat": 1.324964119708498,
+        "lng": 103.9218448197085
+      }
+    }
+  },
+  "name": "Leong Ann Medical Hall",
+  "place_id": "ChIJneYIkLIi2jERQChRJ8nMyrU",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13099507630480631872",
+  "vicinity": "20 Chai Chee Road, Block 20"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "1 Hougang Street 91, #01-30 Hougang 1, Singapore 538692",
+  "geometry": {
+    "location": {
+      "lat": 1.3758021,
+      "lng": 103.8794307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377161630291502,
+        "lng": 103.8806161802915
+      },
+      "southwest": {
+        "lat": 1.374463669708498,
+        "lng": 103.8779182197085
+      }
+    }
+  },
+  "name": "MiX Store @ Hougang",
+  "place_id": "ChIJmQWlCyQX2jERVTQnJVlHiIM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "i . am . kenny",
+      "author_url": "https://www.google.com/maps/contrib/112751483720403503929/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfJGrw1036nSTj09qimkjcwqK3iZrTaxghJIPF8bG-yZSTIwwi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Newly opened. Wide variety of tibits, drinks, ice cream, cup noodles and snacks from China, Korea, Thai and many more. Wonderland for kids and adults.",
+      "time": 1735116503,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Carl",
+      "author_url": "https://www.google.com/maps/contrib/113822972117367343522/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkyr-A7oOM-NAa-SYFn2rs-m5JkaoRAPMnej3_WOeoJGpp_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very interesting place especially the ice cream, e.g dogs, cats, mermaid, goat etc. Definitely is a must see",
+      "time": 1743607995,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9477903864002196565",
+  "user_ratings_total": 2,
+  "vicinity": "1 Hougang Street 91, #01-30 Hougang 1, Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.298924,
+      "lng": 103.776115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300249180291502,
+        "lng": 103.7774624802915
+      },
+      "southwest": {
+        "lat": 1.297551219708498,
+        "lng": 103.7747645197085
+      }
+    }
+  },
+  "name": "University Health Ctr",
+  "place_id": "ChIJXaQRHVga2jERI7ZDGTx7wgo",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "呂京祐",
+      "author_url": "https://www.google.com/maps/contrib/108799669869769232595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQivZ1hwkuytqBFAR6Z4HIwAhI4KE33Cp0m4tPnkEc00P2KQiN=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529809019,
+      "translated": false
+    },
+    {
+      "author_name": "Chintu Kumar",
+      "author_url": "https://www.google.com/maps/contrib/117841929651055348573/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr8l8-QLNRRoZ_lh_GU6OFjZUoOg4302Dl5TU9Jwmcry69ztA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717919125,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=775317583913268771",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

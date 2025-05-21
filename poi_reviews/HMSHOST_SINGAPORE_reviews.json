@@ -1,0 +1,45 @@
+{
+  "formatted_address": "65 Airport Blvd., #B1-17, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.356716,
+      "lng": 103.98651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357751080291502,
+        "lng": 103.9885896
+      },
+      "southwest": {
+        "lat": 1.355053119708498,
+        "lng": 103.9858168
+      }
+    }
+  },
+  "name": "HMSHOST SINGAPORE",
+  "place_id": "ChIJ____P4082jERX9U1MAIy_rg",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Riey Ray",
+      "author_url": "https://www.google.com/maps/contrib/111463226623554689002/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1jVs5keunG2cX0-MI3kEwuaXh5h0VSsGVb6CvGgvlhXuFQQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "10 months ago",
+      "text": "Waitress not so friendly.",
+      "time": 1721607727,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13330146932043404639",
+  "user_ratings_total": 1,
+  "vicinity": "65 Airport Boulevard, #B1-17"
+}

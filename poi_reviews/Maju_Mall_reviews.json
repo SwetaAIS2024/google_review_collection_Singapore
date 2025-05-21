@@ -1,0 +1,28 @@
+{
+  "formatted_address": "22 Maju Ave, Singapore 556695",
+  "geometry": {
+    "location": {
+      "lat": 1.3652138,
+      "lng": 103.8657789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366569130291502,
+        "lng": 103.8670843302915
+      },
+      "southwest": {
+        "lat": 1.363871169708498,
+        "lng": 103.8643863697085
+      }
+    }
+  },
+  "name": "Maju Mall",
+  "place_id": "ChIJOfXJ7kYX2jERKt3PGu6waRM",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1398843695973784874",
+  "vicinity": "22 Maju Avenue, Singapore"
+}

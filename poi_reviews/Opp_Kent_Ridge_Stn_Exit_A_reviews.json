@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2950195,
+      "lng": 103.7845642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296350080291502,
+        "lng": 103.7858877802915
+      },
+      "southwest": {
+        "lat": 1.293652119708498,
+        "lng": 103.7831898197085
+      }
+    }
+  },
+  "name": "Opp Kent Ridge Stn Exit A",
+  "place_id": "ChIJD-P8I1Ia2jERebWQDZsf8s4",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Pl Pl",
+      "author_url": "https://www.google.com/maps/contrib/104205350164876005447/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpt0XoAhM1ss4RrdRcHDWyplWUWAb5MW5LqD4GkT79qksc1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563104917,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14912016066985112953",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

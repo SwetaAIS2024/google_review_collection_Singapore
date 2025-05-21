@@ -1,0 +1,30 @@
+{
+  "formatted_address": "92 Bedok North Ave 4, Singapore 460092",
+  "geometry": {
+    "location": {
+      "lat": 1.332461,
+      "lng": 103.9412733
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333623930291502,
+        "lng": 103.9426729302915
+      },
+      "southwest": {
+        "lat": 1.330925969708498,
+        "lng": 103.9399749697085
+      }
+    }
+  },
+  "name": "Heavenly Snacks",
+  "place_id": "ChIJfQuksFw92jERe3kmKDL9Fho",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1879968286337563003",
+  "vicinity": "92 Bedok North Avenue 4"
+}

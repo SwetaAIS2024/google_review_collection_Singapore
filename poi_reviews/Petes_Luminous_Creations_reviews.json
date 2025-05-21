@@ -1,0 +1,28 @@
+{
+  "formatted_address": "416 Hougang Ave 10, Block 416, Singapore 530416",
+  "geometry": {
+    "location": {
+      "lat": 1.3756883,
+      "lng": 103.8960699
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377088930291502,
+        "lng": 103.8973379302915
+      },
+      "southwest": {
+        "lat": 1.374390969708498,
+        "lng": 103.8946399697085
+      }
+    }
+  },
+  "name": "Pete's Luminous Creations",
+  "place_id": "ChIJqSZNVPYP2jERGo0WpcCxPuE",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16230605548051402010",
+  "vicinity": "416 Hougang Avenue 10, Block 416"
+}

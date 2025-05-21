@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore Changi Airport, Passenger, Terminal 2, Singapore 918142",
+  "geometry": {
+    "location": {
+      "lat": 1.3379423,
+      "lng": 103.9827956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339326430291502,
+        "lng": 103.9840595302915
+      },
+      "southwest": {
+        "lat": 1.336628469708498,
+        "lng": 103.9813615697085
+      }
+    }
+  },
+  "name": "TAG Heuer",
+  "place_id": "ChIJofLDcsc82jERj9M0Q_FxxNE",
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15115331530390819727",
+  "vicinity": "Singapore Changi Airport, Passenger, Terminal 2"
+}

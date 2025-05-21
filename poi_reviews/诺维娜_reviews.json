@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3197621,
+      "lng": 103.8434376
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321116180291502,
+        "lng": 103.8447674802915
+      },
+      "southwest": {
+        "lat": 1.318418219708498,
+        "lng": 103.8420695197085
+      }
+    }
+  },
+  "name": "诺维娜",
+  "place_id": "ChIJKVMiZ7oZ2jERXtnHiMWDx7U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "丁学斌",
+      "author_url": "https://www.google.com/maps/contrib/103216352899816376210/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgXz9afn7_GuQIWfTmYLlipd-f2w-mkY3sKO6n-uVUA5P8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Are there any couples rooms for rent around here?",
+      "time": 1690300035,
+      "translated": true
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13098582925656971614",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6 Lorong 17 Geylang, Singapore 388537",
+  "geometry": {
+    "location": {
+      "lat": 1.3129874,
+      "lng": 103.8788852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314333380291502,
+        "lng": 103.8802211802915
+      },
+      "southwest": {
+        "lat": 1.311635419708498,
+        "lng": 103.8775232197085
+      }
+    }
+  },
+  "name": "Singapore Chinaware Merchants Association",
+  "place_id": "ChIJla7WujAY2jERGj--bydbq2A",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6965761473595195162",
+  "vicinity": "6 Lorong 17 Geylang"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303652,
+      "lng": 103.919556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304967680291502,
+        "lng": 103.9209214302915
+      },
+      "southwest": {
+        "lat": 1.302269719708498,
+        "lng": 103.9182234697085
+      }
+    }
+  },
+  "name": "Opp Victoria JC",
+  "place_id": "ChIJXcpBt54i2jERF0ukNkZdfwY",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "ERNA Wati",
+      "author_url": "https://www.google.com/maps/contrib/103701015251101234459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzLZ9OMCESRPy5QYkYwqrxHWRunWc-P6nRvPvuj8Vc4uuzmvWj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Camp site D",
+      "time": 1725457057,
+      "translated": false
+    },
+    {
+      "author_name": "CZC",
+      "author_url": "https://www.google.com/maps/contrib/114228349954221708385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgeV0ZnaS3lAx8MBBHwgu8vpsbwpFvUKvCY7hVRmxlNLW9g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Bus stop next to a D1 car park.",
+      "time": 1585475096,
+      "translated": false
+    },
+    {
+      "author_name": "Thet Mon",
+      "author_url": "https://www.google.com/maps/contrib/111409397876181037531/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf6xsMrQeWWac6svFhIn6aEX49iUepIDZYzj2AOvxjHU5jo2Ux=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1535786058,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=468195442415651607",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

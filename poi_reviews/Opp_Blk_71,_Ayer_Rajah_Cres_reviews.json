@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2965,
+      "lng": 103.78753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297864680291502,
+        "lng": 103.7888423302915
+      },
+      "southwest": {
+        "lat": 1.295166719708498,
+        "lng": 103.7861443697085
+      }
+    }
+  },
+  "name": "Opp Blk 71, Ayer Rajah Cres",
+  "place_id": "ChIJafOX0k8a2jERe9gSWklM6NI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15197480820489246843",
+  "vicinity": "Singapore"
+}

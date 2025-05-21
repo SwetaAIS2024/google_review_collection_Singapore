@@ -1,0 +1,30 @@
+{
+  "formatted_address": "70 Shenton Wy, Singapore 079118",
+  "geometry": {
+    "location": {
+      "lat": 1.2739069,
+      "lng": 103.846216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275176830291502,
+        "lng": 103.8476722802915
+      },
+      "southwest": {
+        "lat": 1.272478869708498,
+        "lng": 103.8449743197085
+      }
+    }
+  },
+  "name": "You Education School",
+  "place_id": "ChIJ_f3vvxQZ2jERRwJ4W4bF3rQ",
+  "types": [
+    "university",
+    "secondary_school",
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13033071552507675207",
+  "vicinity": "70 Shenton Way"
+}

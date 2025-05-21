@@ -1,0 +1,57 @@
+{
+  "formatted_address": "704 Bedok Reservoir Rd, Block 704, Singapore 470704",
+  "geometry": {
+    "location": {
+      "lat": 1.3369123,
+      "lng": 103.920595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338358880291502,
+        "lng": 103.9219886302915
+      },
+      "southwest": {
+        "lat": 1.335660919708498,
+        "lng": 103.9192906697085
+      }
+    }
+  },
+  "name": "Up Up MixedVeg Rice and Porridge",
+  "place_id": "ChIJvcv7I1o92jERQLUO3-2hTw4",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Eric Wong",
+      "author_url": "https://www.google.com/maps/contrib/117691308830861443080/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK--TdydG2aLEQWwgD4ANrL_e_qzO8pMbqZfkdl83HoGAPKAJW=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Visited on 13 Sep 2023 for dinner of tofu long bean with meat, sichuan veg with meat, and green vegetables with minced meat for $4.40.. OK lah",
+      "time": 1694617478,
+      "translated": false
+    },
+    {
+      "author_name": "CtwoHsix Ethane",
+      "author_url": "https://www.google.com/maps/contrib/108579560494362607742/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkgUbKsaDO3L8xjAOBvXxOSHsADKYLHq8jFq12jBembSdKOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Ridiculous pricing. 1 meat 2 veg (liver + cabbage + lady's finger) for $4.60. Is this Bedok or Orchard?\n\nRice also lumpy",
+      "time": 1651143755,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1031220882712737088",
+  "user_ratings_total": 2,
+  "vicinity": "704 Bedok Reservoir Road, Block 704"
+}

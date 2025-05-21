@@ -1,0 +1,56 @@
+{
+  "formatted_address": "456 Alexandra Rd, #01-03, Singapore 119962",
+  "geometry": {
+    "location": {
+      "lat": 1.2752154,
+      "lng": 103.801436
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276514080291502,
+        "lng": 103.8028514802915
+      },
+      "southwest": {
+        "lat": 1.273816119708498,
+        "lng": 103.8001535197085
+      }
+    }
+  },
+  "name": "Drink Shack",
+  "place_id": "ChIJ5-W6zl0b2jERBpS6Npz74QM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jun Hong Kang",
+      "author_url": "https://www.google.com/maps/contrib/114391004118123754474/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP82Jl4AUK4GR2cYV9oZhEgBZ3RSa-Z96kuem4OwdexgsSCw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Bought from their Asia Square outlet through Grab. Terrible, disgusting and worst meal I've ever had in my life. No jokes.\n\nHokkien mee was tasteless, as if it's cooked with plain water instead of prawn stock.\n\nPenang fried kuey teow is the saltiest food I've ever tasted. All I can taste is salt and immediately vomited after eating it. The amount of salt is just pure disgust. And it feels nothing like Penang fried kuey teow as they use Pad Thai noodles to fry this and it has gravy? Penang fried kuey teow that is wet? Imagine Pad Thai fried without any sauce, but with overdosed salt gravy.\n\nJust thinking about the meal again makes me nausea",
+      "time": 1639191082,
+      "translated": false
+    },
+    {
+      "author_name": "wong sally",
+      "author_url": "https://www.google.com/maps/contrib/117177054600988941893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAOHr5AjCMrmP_k8YTrRQwNZHTPhCeyezZaxI864mL6rYC-tKy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good and attenrive staff\nVery patient. Eaten char kwai teow.. Wokhey is good",
+      "time": 1616764600,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=279781300225348614",
+  "user_ratings_total": 2,
+  "vicinity": "456 Alexandra Road, #01-03, Singapore"
+}

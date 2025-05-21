@@ -1,0 +1,30 @@
+{
+  "formatted_address": "15 Central Blvd, B1-02 Downtown MRT Station, Singapore 018969",
+  "geometry": {
+    "location": {
+      "lat": 1.2792688,
+      "lng": 103.852875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280619880291502,
+        "lng": 103.8542933802915
+      },
+      "southwest": {
+        "lat": 1.277921919708498,
+        "lng": 103.8515954197085
+      }
+    }
+  },
+  "name": "Cheers Downtown MRT",
+  "place_id": "ChIJsZtq2REZ2jERCGzsjzqLPQo",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=737898997597629448",
+  "vicinity": "15 Central Boulevard, B1-02 Downtown MRT Station, Singapore"
+}

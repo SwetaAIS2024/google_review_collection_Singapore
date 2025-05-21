@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Temasek Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2920804,
+      "lng": 103.8608198
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293429380291502,
+        "lng": 103.8621687802915
+      },
+      "southwest": {
+        "lat": 1.290731419708497,
+        "lng": 103.8594708197085
+      }
+    }
+  },
+  "name": "City Harvest Church",
+  "place_id": "ChIJLz8VSgAZ2jERNvEPej0ldlY",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6230208080484757814",
+  "vicinity": "Temasek Avenue"
+}

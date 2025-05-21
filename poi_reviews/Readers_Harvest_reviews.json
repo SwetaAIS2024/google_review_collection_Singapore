@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2641654,
+      "lng": 103.8203016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265383630291502,
+        "lng": 103.8216188802915
+      },
+      "southwest": {
+        "lat": 1.262685669708498,
+        "lng": 103.8189209197085
+      }
+    }
+  },
+  "name": "Readers Harvest",
+  "place_id": "ChIJA4hEaOIb2jERDhOXC3wpIg4",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1018422078486287118",
+  "vicinity": "1 Maritime Square"
+}

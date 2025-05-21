@@ -1,0 +1,44 @@
+{
+  "formatted_address": "E Coast Park Service Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3068015,
+      "lng": 103.9354471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308327330291502,
+        "lng": 103.9367923302915
+      },
+      "southwest": {
+        "lat": 1.305629369708498,
+        "lng": 103.9340943697085
+      }
+    }
+  },
+  "name": "East Coast Lagoon Food Village BIcycle Parking",
+  "place_id": "ChIJ-dXeMwAj2jER2I2VngCjVWg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "老爺子oldcoconut",
+      "author_url": "https://www.google.com/maps/contrib/111114228141018734786/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL4Wioxi6LyRjzMsNdOt21EC5dheZk4_rCCgYB3_QQcNuQrH7L=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "There is a lot of delicious food here and the environment is beautiful.",
+      "time": 1746246440,
+      "translated": true
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7518094376020839896",
+  "user_ratings_total": 1,
+  "vicinity": "East Coast Park Service Road"
+}

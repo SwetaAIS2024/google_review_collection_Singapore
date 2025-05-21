@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Teck Whye Ln, Block 137, Singapore 680137",
+  "geometry": {
+    "location": {
+      "lat": 1.3800106,
+      "lng": 103.7524625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381234080291502,
+        "lng": 103.7538082802915
+      },
+      "southwest": {
+        "lat": 1.378536119708498,
+        "lng": 103.7511103197085
+      }
+    }
+  },
+  "name": "BLK137 Teck Whye Lane 01-315-1",
+  "place_id": "ChIJJwCzQgAR2jERU-GCJaFBkYA",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9264258068852695379",
+  "vicinity": "Teck Whye Lane, Block 137"
+}

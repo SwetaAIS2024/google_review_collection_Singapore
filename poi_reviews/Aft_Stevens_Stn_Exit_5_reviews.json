@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320538,
+      "lng": 103.8273992
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321844730291502,
+        "lng": 103.8287334302915
+      },
+      "southwest": {
+        "lat": 1.319146769708498,
+        "lng": 103.8260354697085
+      }
+    }
+  },
+  "name": "Aft Stevens Stn Exit 5",
+  "place_id": "ChIJm3z6YfkZ2jERgXgWRH0kUL4",
+  "rating": 2.2,
+  "reviews": [
+    {
+      "author_name": "15ocfUDlXNJOq1Ij3Grhyqm 15ocfUDlXNJO",
+      "author_url": "https://www.google.com/maps/contrib/106204949584404912372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-Mv5npu9CSQDcOQDk1PidZ46xPonbcG7Y-4T1kT_r0ctm47Ut=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "I am so upset with a bus stop",
+      "time": 1602600501,
+      "translated": false
+    },
+    {
+      "author_name": "Peiyi Wang",
+      "author_url": "https://www.google.com/maps/contrib/117266313220284237824/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnVgUoUquVXil443-YlWeDZNdqvt_USf68beN7bpx8_S6nnHiTbw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "Its a bus stop",
+      "time": 1447553150,
+      "translated": false
+    },
+    {
+      "author_name": "Chng Alex",
+      "author_url": "https://www.google.com/maps/contrib/112893585113523196437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3yI-YzfqoXbW-V3CxkUFTjnTR8DOEpNKNmVr2ZWuMep6pKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480509995,
+      "translated": false
+    },
+    {
+      "author_name": "Akash Sugumaran",
+      "author_url": "https://www.google.com/maps/contrib/116813896094765574496/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS64SB-NWtgACgJPpbj8dH1IhH5RHcp2jEo8b0aU3uov6lPbgw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1475915379,
+      "translated": false
+    },
+    {
+      "author_name": "Usama Den",
+      "author_url": "https://www.google.com/maps/contrib/108940074351757001428/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1O77tM898LiHmle-xWQ7vhF82Bs1JnFUUmmlWY2DCk9IdHPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1434037004,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13713500985774995585",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

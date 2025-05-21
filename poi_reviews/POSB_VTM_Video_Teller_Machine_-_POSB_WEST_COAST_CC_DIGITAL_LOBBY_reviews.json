@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Clementi West Street 2, #2 West Coast Community Centre, #01-06, Singapore 129605",
+  "geometry": {
+    "location": {
+      "lat": 1.3028055,
+      "lng": 103.7650277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304265880291502,
+        "lng": 103.7664741802915
+      },
+      "southwest": {
+        "lat": 1.301567919708498,
+        "lng": 103.7637762197085
+      }
+    }
+  },
+  "name": "POSB VTM (Video Teller Machine) - POSB WEST COAST CC DIGITAL LOBBY",
+  "place_id": "ChIJ_5-ISDob2jERtuoXaTr2DCc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Leo",
+      "author_url": "https://www.google.com/maps/contrib/107684667751690936852/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0C_Bsiokux2voAl-3XSBPOY4o_OrLp4Zv9RMItKzY4OqZpDU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 months ago",
+      "text": "It’s not 24/7, apparently only have tellers from 9-6. But if you reach at 5+ you will wait until 6 then the machine tells you no more tellers available.",
+      "time": 1722162185,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2813894597931428534",
+  "user_ratings_total": 1,
+  "vicinity": "Clementi West Street 2, #2 West Coast Community Centre, #01-06, Singapore"
+}

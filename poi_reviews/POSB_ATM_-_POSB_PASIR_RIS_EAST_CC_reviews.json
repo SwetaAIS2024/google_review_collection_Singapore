@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Pasir Ris Drive 4, East CC, Singapore 519457",
+  "geometry": {
+    "location": {
+      "lat": 1.3683185,
+      "lng": 103.9596138
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369887180291502,
+        "lng": 103.9609444302915
+      },
+      "southwest": {
+        "lat": 1.367189219708498,
+        "lng": 103.9582464697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB PASIR RIS EAST CC",
+  "place_id": "ChIJWddMcPk92jERoQQv04sGbdA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Felly O",
+      "author_url": "https://www.google.com/maps/contrib/104043097029612727101/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjDssaZhUktX2B9bxHVa8hY6GZls6wTwdt4_MO84W473BfzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "9 months ago",
+      "text": "Its at the entrance of police station not CC",
+      "time": 1722908262,
+      "translated": false
+    },
+    {
+      "author_name": "Natthawut Nontkaeo",
+      "author_url": "https://www.google.com/maps/contrib/100521687781242397578/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUIWRJsRJaglBHtRZcDNilS79bQcqQsyk8l6r7OiuwTnX8gULSeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1659318794,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15018667529963766945",
+  "user_ratings_total": 2,
+  "vicinity": "1 Pasir Ris Drive 4, East CC"
+}

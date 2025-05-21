@@ -1,0 +1,42 @@
+{
+  "formatted_address": "25 Lor 13 Geylang, Singapore 388688",
+  "geometry": {
+    "location": {
+      "lat": 1.3136738,
+      "lng": 103.8773008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315031530291502,
+        "lng": 103.8786769802915
+      },
+      "southwest": {
+        "lat": 1.312333569708498,
+        "lng": 103.8759790197085
+      }
+    }
+  },
+  "name": "Le Prince",
+  "place_id": "ChIJHeNp5jAY2jERbM8jzr_naFo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vince Heng",
+      "author_url": "https://www.google.com/maps/contrib/118433335386129645016/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZFPN6jGDFpO9G1tysN9TX9PfspoBqYN3v-PMeL9U3HjEKrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735277281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6514711671974645612",
+  "user_ratings_total": 1,
+  "vicinity": "25 Lorong 13 Geylang, Singapore"
+}

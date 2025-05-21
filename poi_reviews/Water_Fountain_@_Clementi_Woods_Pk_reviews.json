@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Clementi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3005887,
+      "lng": 103.7671127
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302139630291502,
+        "lng": 103.7686936302915
+      },
+      "southwest": {
+        "lat": 1.299441669708498,
+        "lng": 103.7659956697085
+      }
+    }
+  },
+  "name": "Water Fountain @ Clementi Woods Pk",
+  "place_id": "ChIJeWZfZQAb2jERWGT0QeNtDys",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "It's always nice to have Drinking Water Fountain around Parks for hydration, rather than to drink from the sink at the toilet :p",
+      "time": 1712382019,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3102819491113100376",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

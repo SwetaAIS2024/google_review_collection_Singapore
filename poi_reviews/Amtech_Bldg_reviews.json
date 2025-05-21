@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356117,
+      "lng": 103.83783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357460680291502,
+        "lng": 103.8391871302915
+      },
+      "southwest": {
+        "lat": 1.354762719708498,
+        "lng": 103.8364891697085
+      }
+    }
+  },
+  "name": "Amtech Bldg",
+  "place_id": "ChIJISUFlCQX2jEROTMUYwUTrDI",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Arman Roki",
+      "author_url": "https://www.google.com/maps/contrib/105997552728755401465/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLx6d9-SG4qP0c3PoEtKCsv6rYfDaXLrtT5zA9PVUB8Z1lufU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Good bus stop\nBus number  30",
+      "time": 1484570316,
+      "translated": false
+    },
+    {
+      "author_name": "Mir Viram",
+      "author_url": "https://www.google.com/maps/contrib/113798593346344783244/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdUmuusJhFpfKxFqPs93iqaPx0-UIxipQO9jNkMD602XnFikv2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582184565,
+      "translated": false
+    },
+    {
+      "author_name": "Merrick Soh",
+      "author_url": "https://www.google.com/maps/contrib/107149175845483578478/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg6cOgxHDn9x_xyIOB7GA3dpXjVA36f2v90mmywOPTOHmOlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564376998,
+      "translated": false
+    },
+    {
+      "author_name": "Ronald Tan",
+      "author_url": "https://www.google.com/maps/contrib/109797886173171262291/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVponHR2hw_fiu4vbvm3NB45uX5xKtdj79R-n9B4UTxpwQ8ciIz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557559271,
+      "translated": false
+    },
+    {
+      "author_name": "Tsamgkajr Alan",
+      "author_url": "https://www.google.com/maps/contrib/106235952757756621699/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKusZtOcFyESJLidh6qTxbmGs3mpxmeFz9qh1Rr2BMgum4tcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501035238,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3651314311748662073",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

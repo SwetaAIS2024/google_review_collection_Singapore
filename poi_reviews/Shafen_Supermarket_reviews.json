@@ -1,0 +1,54 @@
+{
+  "formatted_address": "49 Teban Gardens Rd, Singapore 600049",
+  "geometry": {
+    "location": {
+      "lat": 1.3211752,
+      "lng": 103.7382609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322568380291502,
+        "lng": 103.7396174802915
+      },
+      "southwest": {
+        "lat": 1.319870419708498,
+        "lng": 103.7369195197085
+      }
+    }
+  },
+  "name": "Shafen Supermarket",
+  "place_id": "ChIJmyubEK8a2jERwsWJIQb4onc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mohammad",
+      "author_url": "https://www.google.com/maps/contrib/107764383015251097047/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWjJGqs3NCOrgAXONKyum2jgcfkt9DiVC0dZqZwezyaX9Mhjnu=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1417159563,
+      "translated": false
+    },
+    {
+      "author_name": "Shernice Li Luan Lek",
+      "author_url": "https://www.google.com/maps/contrib/108922405825448435089/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeknD-mPNp4BI26KC82ZAB9JF_jHgC2B5Kpu1bXk79nqwSgsQ2FQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1364791980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8620725341956720066",
+  "user_ratings_total": 2,
+  "vicinity": "49 Teban Gardens Road, Singapore"
+}

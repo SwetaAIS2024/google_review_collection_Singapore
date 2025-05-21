@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3320313,
+      "lng": 103.9599367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333359030291502,
+        "lng": 103.9613099802915
+      },
+      "southwest": {
+        "lat": 1.330661069708498,
+        "lng": 103.9586120197085
+      }
+    }
+  },
+  "name": "Bef Changi Sth St 2",
+  "place_id": "ChIJL8vLKig92jERxYuIVcysrRM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Irene O",
+      "author_url": "https://www.google.com/maps/contrib/112461352431793878222/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsWmby-JcIBzCcp-HYNqS1IpFKWecTvJ6XCZYgtMHq9WbJeS6Y=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "No bus stop here",
+      "time": 1527930168,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1417979451299892165",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

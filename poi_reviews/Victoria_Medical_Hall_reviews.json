@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Raffles Hotel Shopping Arcade #03-02, 328 North Bridge Road (S)188719, Singapore 189673",
+  "geometry": {
+    "location": {
+      "lat": 1.2957,
+      "lng": 103.8541817
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297219430291502,
+        "lng": 103.8555832302915
+      },
+      "southwest": {
+        "lat": 1.294521469708498,
+        "lng": 103.8528852697085
+      }
+    }
+  },
+  "name": "Victoria Medical Hall",
+  "place_id": "ChIJU_fAo6UZ2jERwCRV0YeJKqQ",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11829418587667637440",
+  "vicinity": "Raffles Hotel Shopping Arcade #03-02, 328 North Bridge Road (S)188719"
+}

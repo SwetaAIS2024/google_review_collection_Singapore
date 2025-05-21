@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Changi Business Park Central #B1-08/09/10/11 Changi City Point, Singapore 486038",
+  "geometry": {
+    "location": {
+      "lat": 1.3340451,
+      "lng": 103.9649501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335545880291502,
+        "lng": 103.9663134802915
+      },
+      "southwest": {
+        "lat": 1.332847919708498,
+        "lng": 103.9636155197085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Changi City Point",
+  "place_id": "ChIJhwfw7n892jERkX6FV2WmnGI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7105737266274074257",
+  "vicinity": "5 Changi Business Park Central #B1-08/09/10/11 Changi City Point"
+}

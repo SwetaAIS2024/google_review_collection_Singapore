@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 8, Yio Chu Kang MRT Station, Singapore 569813",
+  "geometry": {
+    "location": {
+      "lat": 1.3819425,
+      "lng": 103.8448649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383317280291502,
+        "lng": 103.8462490302915
+      },
+      "southwest": {
+        "lat": 1.380619319708498,
+        "lng": 103.8435510697085
+      }
+    }
+  },
+  "name": "UOB ATM - Yio Chu Kang MRT Station",
+  "place_id": "ChIJ29mtl3IX2jERXL1nmo9y0p8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11516393158236159324",
+  "vicinity": "Ang Mo Kio Avenue 8, Yio Chu Kang MRT Station"
+}

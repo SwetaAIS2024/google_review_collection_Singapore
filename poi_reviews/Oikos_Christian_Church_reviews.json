@@ -1,0 +1,57 @@
+{
+  "formatted_address": "134 Braddell Rd, Singapore 359919",
+  "geometry": {
+    "location": {
+      "lat": 1.3441793,
+      "lng": 103.8634974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345448730291502,
+        "lng": 103.8648722802915
+      },
+      "southwest": {
+        "lat": 1.342750769708498,
+        "lng": 103.8621743197085
+      }
+    }
+  },
+  "name": "Oikos Christian Church",
+  "place_id": "ChIJP_HjvnQX2jERWIfu17NWx4Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee CS",
+      "author_url": "https://www.google.com/maps/contrib/112165920065012716965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9B2QX1ubG2Gek4MAazgmG8u8leBjVdZoZkOHTTZZcn5tY5QKP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Bus Stop is infront 66061",
+      "time": 1708858719,
+      "translated": false
+    },
+    {
+      "author_name": "Lim",
+      "author_url": "https://www.google.com/maps/contrib/100689788372762548576/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-JeFUbQOE4jStSezK6hGVoUc9UlRD6GPbT_L4bOmnrWiXSQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good. But how to contact",
+      "time": 1637250266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9711826451869632344",
+  "user_ratings_total": 2,
+  "vicinity": "134 Braddell Road, Singapore"
+}

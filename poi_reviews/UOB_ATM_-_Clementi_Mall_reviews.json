@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 3155, Commonwealth Ave W, #03-K12 Clementi Mall, Singapore 129588",
+  "geometry": {
+    "location": {
+      "lat": 1.314918,
+      "lng": 103.7643089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316549930291502,
+        "lng": 103.7659345302915
+      },
+      "southwest": {
+        "lat": 1.313851969708498,
+        "lng": 103.7632365697085
+      }
+    }
+  },
+  "name": "UOB ATM - Clementi Mall",
+  "place_id": "ChIJRfxlRAob2jERUnMzsViKvhc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1710957021982061394",
+  "vicinity": "No. 3155, Commonwealth Avenue West, #03-K12 Clementi Mall"
+}

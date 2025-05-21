@@ -1,0 +1,29 @@
+{
+  "formatted_address": "180 Depot Rd, Singapore 109684",
+  "geometry": {
+    "location": {
+      "lat": 1.2818139,
+      "lng": 103.8031155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282952980291502,
+        "lng": 103.8044432802915
+      },
+      "southwest": {
+        "lat": 1.280255019708498,
+        "lng": 103.8017453197085
+      }
+    }
+  },
+  "name": "instaChef at The Interlace",
+  "place_id": "ChIJCaDo8JAb2jERouqze6dANug",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16732632553620761250",
+  "vicinity": "180 Depot Road"
+}

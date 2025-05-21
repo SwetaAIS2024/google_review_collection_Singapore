@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3182904,
+      "lng": 103.8344017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319593480291502,
+        "lng": 103.8357547302915
+      },
+      "southwest": {
+        "lat": 1.316895519708498,
+        "lng": 103.8330567697085
+      }
+    }
+  },
+  "name": "Anglo-Chinese Sch",
+  "place_id": "ChIJc2LPQOUZ2jERxqXypTPfqAc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ian Wai",
+      "author_url": "https://www.google.com/maps/contrib/114518193249544512272/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVO3o2S0-pTTqb4DYD2Z1IaLLqGv_AohBQMHy-b1bDUKxiygcS9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Convenient Bus Stop right outside Anglo-Chinese School (Primary) for pupils and residents living in condominiums just across the road(accessible by overhead bridge/traffic junction nearby).",
+      "time": 1560594814,
+      "translated": false
+    },
+    {
+      "author_name": "MJL Wong",
+      "author_url": "https://www.google.com/maps/contrib/100928809706947726172/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_2_h23rXq8mUwHpPmTzMDR8vbfSlSqclaowSHXUOxY30Wlw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Thanks to",
+      "time": 1519877328,
+      "translated": true
+    },
+    {
+      "author_name": "Juliana Ong",
+      "author_url": "https://www.google.com/maps/contrib/117701018029331707634/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl7Cy9vicnKlsBC-pnGLnqhCpSD5m-D3gO_ziGUQFz2bVIHF3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722735790,
+      "translated": false
+    },
+    {
+      "author_name": "Kwee Hong ONG",
+      "author_url": "https://www.google.com/maps/contrib/110324831052642056223/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiv9SIQ8FDVi4U7jLQug3li_lSxwmaAUdFhu3bkXy5HsB8pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485908210,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=551936367273354694",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

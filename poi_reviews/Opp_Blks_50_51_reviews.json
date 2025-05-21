@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.328333,
+      "lng": 103.922874
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329717330291502,
+        "lng": 103.9242251802915
+      },
+      "southwest": {
+        "lat": 1.327019369708498,
+        "lng": 103.9215272197085
+      }
+    }
+  },
+  "name": "Opp Blks 50/51",
+  "place_id": "ChIJD6ToAFM92jER7oLFE0wX-zM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Samrat Mukherjee",
+      "author_url": "https://www.google.com/maps/contrib/115003030755162366267/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_nkUOJF9YtqvWOgf0uXtl-IMlarj07Ng8WC2E-Znqq8t6e-kqnQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "New addition of bus number 26 made this place more accessible to nearby residents to paya laber road and bedok mrt.",
+      "time": 1509327349,
+      "translated": false
+    },
+    {
+      "author_name": "Ho Robert",
+      "author_url": "https://www.google.com/maps/contrib/105753813256061140265/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISKNaDJPL4j_tpBJO6JOSXnyS3hypJkFKvIeq0xWImYD17Iw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "This station can be reached by taking bus routes 222 and 26 from Bedok Centre. Bethesda Hall, SATA, and the newly completed NTUC Happy Home (Silver Circle Day Care Centre) are all nearby this station.",
+      "time": 1487298287,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3745613130605363950",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

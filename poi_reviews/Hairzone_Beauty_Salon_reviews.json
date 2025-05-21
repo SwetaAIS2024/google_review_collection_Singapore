@@ -1,0 +1,62 @@
+{
+  "formatted_address": "625 Ang Mo Kio Ave 9, Block 625, Singapore 560625",
+  "geometry": {
+    "location": {
+      "lat": 1.3824122,
+      "lng": 103.8413804
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383816580291502,
+        "lng": 103.8426962302915
+      },
+      "southwest": {
+        "lat": 1.381118619708498,
+        "lng": 103.8399982697085
+      }
+    }
+  },
+  "name": "Hairzone Beauty Salon",
+  "place_id": "ChIJu0_NkcAW2jERsbrVAa3pmjQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jaci Ng",
+      "author_url": "https://www.google.com/maps/contrib/101635314956426665807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMRtS6dfxj3TFBPrEkeZ8fccMg8QMurs4VOtn4CqH7S6hBFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704273686,
+      "translated": false
+    },
+    {
+      "author_name": "CL",
+      "author_url": "https://www.google.com/maps/contrib/116284890901087484943/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGY6uJd8BwDCzTAUohFvNr8Q3ZlPjWNc5tFrBe-0NoFAGmcyVIQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1628667961,
+      "translated": false
+    },
+    {
+      "author_name": "Laykheng Lee",
+      "author_url": "https://www.google.com/maps/contrib/103901969864951969209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF495JwtvVnCKhEm2vdSJJEJinIfD3a38HgROZd6j2w8cLNFU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607150031,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hair_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3790598965655091889",
+  "user_ratings_total": 3,
+  "vicinity": "625 Ang Mo Kio Avenue 9, Block 625, Singapore"
+}

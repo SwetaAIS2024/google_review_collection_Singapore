@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.278515,
+      "lng": 103.840324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279852380291502,
+        "lng": 103.8416513302915
+      },
+      "southwest": {
+        "lat": 1.277154419708498,
+        "lng": 103.8389533697085
+      }
+    }
+  },
+  "name": "Opp Police Cantonment Cplx",
+  "place_id": "ChIJeZg3wG0Z2jERQZNXdXC6JU8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5703169495302378305",
+  "vicinity": "Singapore"
+}

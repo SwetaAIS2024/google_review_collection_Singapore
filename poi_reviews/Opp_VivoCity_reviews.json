@@ -1,0 +1,92 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2659557,
+      "lng": 103.8222641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267275680291502,
+        "lng": 103.8236019802915
+      },
+      "southwest": {
+        "lat": 1.264577719708498,
+        "lng": 103.8209040197085
+      }
+    }
+  },
+  "name": "Opp VivoCity",
+  "place_id": "ChIJk1BfUl8Z2jERGFfUlRu_E2E",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "Alex SP (Alex)",
+      "author_url": "https://www.google.com/maps/contrib/103331270735393175501/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLqg2D0q7mULmAdHihCaPjU4mwUPDNZpjQDuUrQQ9AMIEyAqR75g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Not convenient stop,  long walk for pedestrians and limited mobility users.\n\nCould have been right outside the MRT exit D",
+      "time": 1686881982,
+      "translated": false
+    },
+    {
+      "author_name": "Ray Hoo",
+      "author_url": "https://www.google.com/maps/contrib/101527871636125182367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXgCnn72RU4C7qTAGW2zc4Bl62xRSJrQe7MdXhdXUhTHpxfsY=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "4 months ago",
+      "text": "Why removed bus stop ID number?",
+      "time": 1735197481,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Lam",
+      "author_url": "https://www.google.com/maps/contrib/112403987693678430009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtkEYVZPu4dhGqMGbabgRFCzZgaASCDsKUoEL_3DEqFmBNzw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "A busy bus stop with bus services heading to Central area of Singapore.",
+      "time": 1520779721,
+      "translated": false
+    },
+    {
+      "author_name": "Leonard Teo",
+      "author_url": "https://www.google.com/maps/contrib/108378507127098537837/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEEMvBOr1xAunkVtgseoRNeDWpB64N-M9b0Ov_nK4HKKXkCmMvxw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Superb place to wait for a bus. Excellent views of the road and no shortage of traffic zipping by. Highly recommended.",
+      "time": 1516787010,
+      "translated": false
+    },
+    {
+      "author_name": "Devin Tai",
+      "author_url": "https://www.google.com/maps/contrib/113874302526634426422/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIU5fazIIkg5sWw-JqJMQ-_5B1fdYMSowkKvV8H8hRG4Nfv3FQeA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "bus RWS8 to Sentosa RWS at VivoCity side only, cost $1, does not stop at this bus stop.",
+      "time": 1532340903,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6995144771435255576",
+  "user_ratings_total": 17,
+  "vicinity": "Singapore"
+}

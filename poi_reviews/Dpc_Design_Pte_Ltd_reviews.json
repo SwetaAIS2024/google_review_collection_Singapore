@@ -1,0 +1,41 @@
+{
+  "formatted_address": "208 W Coast Wy, Singapore 127070",
+  "geometry": {
+    "location": {
+      "lat": 1.315865,
+      "lng": 103.757364
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317222730291502,
+        "lng": 103.7587247302915
+      },
+      "southwest": {
+        "lat": 1.314524769708498,
+        "lng": 103.7560267697085
+      }
+    }
+  },
+  "name": "Dpc Design Pte Ltd",
+  "place_id": "ChIJaZ9II5Ea2jER57d78brWYpk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Evelyn Oentoro",
+      "author_url": "https://www.google.com/maps/contrib/108475084566280949262/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB8NdVZEzqZ6QhTAmzhISz-cEtnEHNeXkR7JSgXws_EALe7vmG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604578214,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11052632533924296679",
+  "user_ratings_total": 1,
+  "vicinity": "208 West Coast Way"
+}

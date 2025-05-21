@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334023,
+      "lng": 103.941849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335396830291502,
+        "lng": 103.9431932802915
+      },
+      "southwest": {
+        "lat": 1.332698869708498,
+        "lng": 103.9404953197085
+      }
+    }
+  },
+  "name": "Blk 95",
+  "place_id": "ChIJB_mgFTc92jER7xElimr2xEY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Samuel Edyson",
+      "author_url": "https://www.google.com/maps/contrib/108333055052140661429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxsUaT7qzrf70ctBfkhKcR_Gilo3HPdNCm0ZbHznEEb_ZmzMYh=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Great bus stop to reach Bedok Bus Interchange. Its just opposite the St. Anthony's Canossian Secondary School",
+      "time": 1522883321,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5099471615534895599",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

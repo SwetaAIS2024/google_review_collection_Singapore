@@ -1,0 +1,28 @@
+{
+  "formatted_address": "322 Clementi Ave 5, Block 322, Singapore 120322",
+  "geometry": {
+    "location": {
+      "lat": 1.3161142,
+      "lng": 103.7663458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317826780291502,
+        "lng": 103.7677884302915
+      },
+      "southwest": {
+        "lat": 1.315128819708498,
+        "lng": 103.7650904697085
+      }
+    }
+  },
+  "name": "Ngee Ann Poly Shuttle Bus",
+  "place_id": "ChIJVVXFpo8a2jERg-mhFDir3e4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17212101608232577411",
+  "vicinity": "322 Clementi Avenue 5, Block 322, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2847644,
+      "lng": 103.6770031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285832880291502,
+        "lng": 103.6785646302915
+      },
+      "southwest": {
+        "lat": 1.283134919708498,
+        "lng": 103.6758666697085
+      }
+    }
+  },
+  "name": "Project Location",
+  "place_id": "ChIJUW1uLjwF2jER2ur3LFFy3gE",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=134670731840056026",
+  "vicinity": "Singapore"
+}

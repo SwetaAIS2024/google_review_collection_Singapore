@@ -1,0 +1,53 @@
+{
+  "formatted_address": "396 Alexandra Rd, #01-02, Singapore 119954",
+  "geometry": {
+    "location": {
+      "lat": 1.2783336,
+      "lng": 103.8024276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279746880291502,
+        "lng": 103.8038241302915
+      },
+      "southwest": {
+        "lat": 1.277048919708498,
+        "lng": 103.8011261697085
+      }
+    }
+  },
+  "name": "Continental Delight Catering",
+  "place_id": "ChIJd3o6FQAb2jERNQZfnXOhWes",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Jackson Lim",
+      "author_url": "https://www.google.com/maps/contrib/106257057141270941504/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMmlo1AfixYbKy671a0RA50MxOHgsxoM-KckFLbNpbgAyPzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705567645,
+      "translated": false
+    },
+    {
+      "author_name": "Remi Zouk",
+      "author_url": "https://www.google.com/maps/contrib/108472436996721016093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3lTsuejhz1-FZld0voK5CxIGBtjlUeqKlMXTkvg6m8Ik6tSHU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703490565,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16958763389773874741",
+  "user_ratings_total": 2,
+  "vicinity": "396 Alexandra Road, #01-02"
+}

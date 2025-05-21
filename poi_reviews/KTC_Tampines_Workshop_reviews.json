@@ -1,0 +1,44 @@
+{
+  "formatted_address": "4 Tampines Industrial Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3764946,
+      "lng": 103.9206497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377834730291502,
+        "lng": 103.9220319302915
+      },
+      "southwest": {
+        "lat": 1.375136769708498,
+        "lng": 103.9193339697085
+      }
+    }
+  },
+  "name": "KTC Tampines Workshop",
+  "place_id": "ChIJeSsxJgA92jERdvFCCv4JvjY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "aktaruzzaman ashik",
+      "author_url": "https://www.google.com/maps/contrib/115574914533078088853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULwRP8s2KUxUlSdzynXqtiYMWNs8M6_K-pt_HnHLa53pdGE2gu2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "KTC is very big company 😲",
+      "time": 1743083773,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3944601310321635702",
+  "user_ratings_total": 1,
+  "vicinity": "4 Tampines Industrial Drive"
+}

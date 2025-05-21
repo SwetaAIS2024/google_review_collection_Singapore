@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 3 Temasek Boulevard #02-735 / 736 Suntec City Mall, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2948954,
+      "lng": 103.859804
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296255530291502,
+        "lng": 103.8610210802915
+      },
+      "southwest": {
+        "lat": 1.293557569708498,
+        "lng": 103.8583231197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Suntec City Branch",
+  "place_id": "ChIJfdrk09kZ2jERWIl9oNl1RwY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=452459865134958936",
+  "vicinity": "No. 3 Temasek Boulevard #02-735 / 736 Suntec City Mall"
+}

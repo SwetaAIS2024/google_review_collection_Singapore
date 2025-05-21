@@ -1,0 +1,29 @@
+{
+  "formatted_address": "120 Lower Delta Rd, Singapore 169208",
+  "geometry": {
+    "location": {
+      "lat": 1.2803709,
+      "lng": 103.8225326
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281720380291502,
+        "lng": 103.8238974802915
+      },
+      "southwest": {
+        "lat": 1.279022419708498,
+        "lng": 103.8211995197085
+      }
+    }
+  },
+  "name": "AXS Pte Ltd",
+  "place_id": "ChIJVfZ1T30Z2jERkHbt83xPL8E",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13920432371312457360",
+  "vicinity": "120 Lower Delta Road"
+}

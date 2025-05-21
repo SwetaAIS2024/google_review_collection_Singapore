@@ -1,0 +1,56 @@
+{
+  "formatted_address": "11 Mandai Estate, Singapore 729908",
+  "geometry": {
+    "location": {
+      "lat": 1.408505,
+      "lng": 103.7596434
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.409729330291502,
+        "lng": 103.7609623802915
+      },
+      "southwest": {
+        "lat": 1.407031369708498,
+        "lng": 103.7582644197085
+      }
+    }
+  },
+  "name": "Club Eldix",
+  "place_id": "ChIJcftKRMcT2jER1ipK16C7q4M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Monochrome",
+      "author_url": "https://www.google.com/maps/contrib/104221554686545541053/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMBbFeOLK-DgMjPFtGGfQzSQs0SQh_mJpapx3chyCCzsJHMHfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "My go to place to chillax with friends. Good vibes & good atmosphere.\n\nExcellent karaoke system with big screen tv.",
+      "time": 1691418233,
+      "translated": false
+    },
+    {
+      "author_name": "Symeon Ang",
+      "author_url": "https://www.google.com/maps/contrib/106964237230380849310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSK0ctkKTLv6fp-0XcUBiZRsRvCmxT1LYlZ0FGuKAd9nrjted6og=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good vibes (only slightly degenerate)",
+      "time": 1699624936,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9487883339467205334",
+  "user_ratings_total": 2,
+  "vicinity": "11 Mandai Estate, Singapore"
+}

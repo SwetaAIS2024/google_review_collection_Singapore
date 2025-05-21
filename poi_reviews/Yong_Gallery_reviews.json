@@ -1,0 +1,28 @@
+{
+  "formatted_address": "260 South Bridge Rd, Singapore 058809",
+  "geometry": {
+    "location": {
+      "lat": 1.2820645,
+      "lng": 103.8450412
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283386830291502,
+        "lng": 103.8464353302915
+      },
+      "southwest": {
+        "lat": 1.280688869708498,
+        "lng": 103.8437373697085
+      }
+    }
+  },
+  "name": "Yong Gallery",
+  "place_id": "ChIJewGI1QwZ2jERmUeVMVZCP7k",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13348460758515926937",
+  "vicinity": "260 South Bridge Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Dover Dr, Singapore 198683",
+  "geometry": {
+    "location": {
+      "lat": 1.2999397,
+      "lng": 103.7798638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301197880291502,
+        "lng": 103.7813553302915
+      },
+      "southwest": {
+        "lat": 1.298499919708498,
+        "lng": 103.7786573697085
+      }
+    }
+  },
+  "name": "Allweek",
+  "place_id": "ChIJt5GWvGYb2jERPy5SSWpuP0A",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4629540344735870527",
+  "vicinity": "10 Dover Drive"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.323113,
+      "lng": 103.91954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324456380291502,
+        "lng": 103.9208570302915
+      },
+      "southwest": {
+        "lat": 1.321758419708498,
+        "lng": 103.9181590697085
+      }
+    }
+  },
+  "name": "Bef New Upp Changi Rd",
+  "place_id": "ChIJmy3dj6si2jERQDzCztdUhAs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ho Robert",
+      "author_url": "https://www.google.com/maps/contrib/105753813256061140265/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISKNaDJPL4j_tpBJO6JOSXnyS3hypJkFKvIeq0xWImYD17Iw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Convenient bus stop.",
+      "time": 1496723593,
+      "translated": true
+    },
+    {
+      "author_name": "Alvin Koh",
+      "author_url": "https://www.google.com/maps/contrib/113948918067395691591/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNZNwtGwwKrze0eGhssctUWqUkqA0d0ikxbQCxq3Q-c83ICP6N=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527570856,
+      "translated": false
+    },
+    {
+      "author_name": "Nguyễn Văn Công",
+      "author_url": "https://www.google.com/maps/contrib/105656384583202764894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrA4VfWz4bfqQ2Ww5-h6PUxJyKiUpo7Es0kqrlcmFBDD39qivB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524483493,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=829881517206551616",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

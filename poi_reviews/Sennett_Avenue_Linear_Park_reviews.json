@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Sennett Ave., Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3168778,
+      "lng": 103.9352244
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318161380291502,
+        "lng": 103.9366326802915
+      },
+      "southwest": {
+        "lat": 1.315463419708498,
+        "lng": 103.9339347197085
+      }
+    }
+  },
+  "name": "Sennett Avenue Linear Park",
+  "place_id": "ChIJnVOLhrci2jERGhYU_Fj8hdY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Dr Nisha Rani Sharma",
+      "author_url": "https://www.google.com/maps/contrib/105762653833699672795/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU-Dv5zj3bB_QKCJqA4WW_JuAWzuAmSgJjO775QEJBAwowc_f4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Quiet, green and friendly estate.",
+      "time": 1547281480,
+      "translated": false
+    },
+    {
+      "author_name": "Devin McLachlan",
+      "author_url": "https://www.google.com/maps/contrib/106327222021229625208/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0FPwD84XNP-eQehehgqUBFucvtyaC9MF7MM_tpQMyl5L-EGdN=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1639728691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15458038755135591962",
+  "user_ratings_total": 2,
+  "vicinity": "Sennett Avenue"
+}

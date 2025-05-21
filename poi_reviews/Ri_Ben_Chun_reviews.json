@@ -1,0 +1,41 @@
+{
+  "formatted_address": "1 Pasir Ris Cl, Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3757778,
+      "lng": 103.9556317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377116930291502,
+        "lng": 103.9571982802915
+      },
+      "southwest": {
+        "lat": 1.374418969708498,
+        "lng": 103.9545003197085
+      }
+    }
+  },
+  "name": "Ri Ben Chun",
+  "place_id": "ChIJHeeu2LU92jERK1rK70DBY1g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ZaiNi Yahya",
+      "author_url": "https://www.google.com/maps/contrib/106461488425711453395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfofK5mbqFEhTYjMlteyh90NYFtuXbl6nBQFt81TmTIT3mRMVEcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693605925,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6369146782677097003",
+  "user_ratings_total": 1,
+  "vicinity": "1 Pasir Ris Close"
+}

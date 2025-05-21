@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 5 Tampines Street 32, Tampines Mart, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.354279,
+      "lng": 103.9599466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355444030291502,
+        "lng": 103.9613187802915
+      },
+      "southwest": {
+        "lat": 1.352746069708498,
+        "lng": 103.9586208197085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines Mart",
+  "place_id": "ChIJFeEBZyU92jERTbPDZoABMTA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3472558438670906189",
+  "vicinity": "No. 5 Tampines Street 32, Tampines Mart"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2990415,
+      "lng": 103.8266893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300434430291502,
+        "lng": 103.8280505302915
+      },
+      "southwest": {
+        "lat": 1.297736469708498,
+        "lng": 103.8253525697085
+      }
+    }
+  },
+  "name": "Gramercy Pk",
+  "place_id": "ChIJLwffpIgZ2jERXRHvDoPAWtA",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15013523976916767069",
+  "vicinity": "Singapore"
+}

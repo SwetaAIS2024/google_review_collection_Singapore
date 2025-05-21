@@ -1,0 +1,28 @@
+{
+  "formatted_address": "809 French Rd, Singapore 200809",
+  "geometry": {
+    "location": {
+      "lat": 1.3084168,
+      "lng": 103.8621982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309645580291502,
+        "lng": 103.8634201802915
+      },
+      "southwest": {
+        "lat": 1.306947619708498,
+        "lng": 103.8607222197085
+      }
+    }
+  },
+  "name": "Avac Pte Ltd",
+  "place_id": "ChIJD2Y098kZ2jERBYtjLJ90fL0",
+  "types": [
+    "movie_theater",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13653916397273844485",
+  "vicinity": "809 French Road"
+}

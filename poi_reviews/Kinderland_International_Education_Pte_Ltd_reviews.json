@@ -1,0 +1,42 @@
+{
+  "formatted_address": "87 Marine Parade Central, #03-202, Singapore 440087",
+  "geometry": {
+    "location": {
+      "lat": 1.3024579,
+      "lng": 103.9055237
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303756780291502,
+        "lng": 103.9067959302915
+      },
+      "southwest": {
+        "lat": 1.301058819708498,
+        "lng": 103.9040979697085
+      }
+    }
+  },
+  "name": "Kinderland International Education Pte Ltd",
+  "place_id": "ChIJNzVNgHEY2jERXgUQaEEUjng",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ai Suan",
+      "author_url": "https://www.google.com/maps/contrib/106680973971553374192/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILaAJTUPWpnwRXnRHeISM8fYtpQyI9i6jcQMRAxRaCk3rodw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1694140044,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8686903002395575646",
+  "user_ratings_total": 1,
+  "vicinity": "87 Marine Parade Central, #03-202"
+}

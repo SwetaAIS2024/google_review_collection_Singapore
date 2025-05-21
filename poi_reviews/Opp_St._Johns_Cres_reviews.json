@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.368106,
+      "lng": 103.977585
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369481780291502,
+        "lng": 103.9789123302915
+      },
+      "southwest": {
+        "lat": 1.366783819708498,
+        "lng": 103.9762143697085
+      }
+    }
+  },
+  "name": "Opp St. John's Cres",
+  "place_id": "ChIJsxW9_Fs82jERiSVJVxn-ncY",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "sasi kumar",
+      "author_url": "https://www.google.com/maps/contrib/115422860197290936400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUMGIVNe22V-Hugt6w8j5gG2PxEyTKD21IAvKsSybDuISDr2E=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1594288504,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14311874575645353353",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

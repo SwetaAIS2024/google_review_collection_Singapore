@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Bayfront Ave, #01-J2 The Shoppes at Marina Bay Sands, Singapore 018972",
+  "geometry": {
+    "location": {
+      "lat": 1.2836602,
+      "lng": 103.8592707
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285198080291502,
+        "lng": 103.8611050302915
+      },
+      "southwest": {
+        "lat": 1.282500119708498,
+        "lng": 103.8584070697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Marina Bay Sands",
+  "place_id": "ChIJY-ETeKcZ2jERgCcRH14cgh8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2270408352721872768",
+  "vicinity": "2 Bayfront Avenue, #01-J2 The Shoppes at Marina Bay Sands"
+}

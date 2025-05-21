@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.274888,
+      "lng": 103.821274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276253480291502,
+        "lng": 103.8226192302915
+      },
+      "southwest": {
+        "lat": 1.273555519708498,
+        "lng": 103.8199212697085
+      }
+    }
+  },
+  "name": "Opp Blk 27",
+  "place_id": "ChIJ6zgAVN8b2jER3EOA_uq2AX4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vanna W",
+      "author_url": "https://www.google.com/maps/contrib/116197406079142924851/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZGftM-6yipVE6aPaCcKiRa2K-wFnH3epk7ncFas74mWjhSi6e=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Here are the buses available at this stop! Has a good view and the buses come by every 10-15 mins. Able to head down to Outram Park/Clarke Quay/Chinatown/Somerset MRT form this bus stop.",
+      "time": 1639643030,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9079739444164051932",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

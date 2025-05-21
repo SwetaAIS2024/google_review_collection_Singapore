@@ -1,0 +1,45 @@
+{
+  "formatted_address": "585 N Bridge Rd, Singapore 188770",
+  "geometry": {
+    "location": {
+      "lat": 1.3011894,
+      "lng": 103.8572771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302402130291502,
+        "lng": 103.8587791302915
+      },
+      "southwest": {
+        "lat": 1.299704169708498,
+        "lng": 103.8560811697085
+      }
+    }
+  },
+  "name": "Dr. Manish Taneja",
+  "place_id": "ChIJm9mvj7AZ2jERiWPP-OF1g-A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Swati Chopra",
+      "author_url": "https://www.google.com/maps/contrib/100778904270333400689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ7Z_KNcluTK1G95mDacP8L1GafRvrkFCjAP9hMSVRaqZEKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Best neurologist in Singapore, good diagnosis and treatment.",
+      "time": 1653723466,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16177903899847385993",
+  "user_ratings_total": 1,
+  "vicinity": "585 North Bridge Road"
+}

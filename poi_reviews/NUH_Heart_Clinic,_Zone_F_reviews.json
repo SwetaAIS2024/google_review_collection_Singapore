@@ -1,0 +1,75 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2937427,
+      "lng": 103.7834188
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294815230291502,
+        "lng": 103.7850274802915
+      },
+      "southwest": {
+        "lat": 1.292117269708498,
+        "lng": 103.7823295197085
+      }
+    }
+  },
+  "name": "NUH Heart Clinic, Zone F",
+  "place_id": "ChIJ46BIrYwb2jERpTUIMTvT7ig",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lian Seng",
+      "author_url": "https://www.google.com/maps/contrib/116157040908596904737/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_7RvNS2FHUWHkgerNNIzQMKb_MTYr2fOamWhL6MoBkOlbdCBS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Had AF and PVC fixed by Dr Kevin Leong. Great doctor and great experience all round even though I was slightly apprehensive at first. Had 2 friends who spent like 30k going private and I spent like a tiny fraction of that after subsidies etc. But I had to wait 3 months since it wasn’t life threatening or anything",
+      "time": 1746501826,
+      "translated": false
+    },
+    {
+      "author_name": "William Kong",
+      "author_url": "https://www.google.com/maps/contrib/107798226324393262574/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKU1p6wptUhh303F0Ud2_A7y6Gd421cn7VvfzO8ProNuKagMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735437335,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Ronnie",
+      "author_url": "https://www.google.com/maps/contrib/115557282713529214605/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUshaXlAxHg1ECaENhmX0KUTe0Jq6mS9m_zQULauBgN9fkdQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687593753,
+      "translated": false
+    },
+    {
+      "author_name": "JAYASHREE RAO",
+      "author_url": "https://www.google.com/maps/contrib/100265934855165677010/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrr8TLqOzeZtCz0jHXIjirmvS3WdzeSWUQqpXdOK3HfYlPZDFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662610609,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2949527057153406373",
+  "user_ratings_total": 4,
+  "vicinity": "5 Lower Kent Ridge Road"
+}

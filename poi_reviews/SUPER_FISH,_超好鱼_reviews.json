@@ -1,0 +1,46 @@
+{
+  "formatted_address": "130 Jurong Gateway Rd, Singapore 600130",
+  "geometry": {
+    "location": {
+      "lat": 1.3347515,
+      "lng": 103.739295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336302130291502,
+        "lng": 103.7407393802915
+      },
+      "southwest": {
+        "lat": 1.333604169708498,
+        "lng": 103.7380414197085
+      }
+    }
+  },
+  "name": "SUPER FISH, 超好鱼",
+  "place_id": "ChIJ-d_FjDoR2jER2ovY2w2nU2M",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Lee Cheng Wei",
+      "author_url": "https://www.google.com/maps/contrib/114975470723758988726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyoLBUoWFPPY0IWwIWOItOGbasrVfn0QACw3jCNdJ5Ig5qxLe2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Horrible food, I threw up after eating. Ordered Fish soup with rice. Very unfresh fish and using old rice and old vegetables. Traumatic experience.",
+      "time": 1673067228,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7157247910786665434",
+  "user_ratings_total": 1,
+  "vicinity": "130 Jurong Gateway Road"
+}

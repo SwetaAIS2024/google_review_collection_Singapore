@@ -1,0 +1,29 @@
+{
+  "formatted_address": "300 Tiong Bahru Rd, Singapore 168731",
+  "geometry": {
+    "location": {
+      "lat": 1.2857171,
+      "lng": 103.8268782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287204730291502,
+        "lng": 103.8281057302915
+      },
+      "southwest": {
+        "lat": 1.284506769708498,
+        "lng": 103.8254077697085
+      }
+    }
+  },
+  "name": "DBS ATM - Tiong Bahru MRT Station",
+  "place_id": "ChIJ06Fs40oZ2jER9BJqFO3FV0Q",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4924622339593343732",
+  "vicinity": "300 Tiong Bahru Road, Singapore"
+}

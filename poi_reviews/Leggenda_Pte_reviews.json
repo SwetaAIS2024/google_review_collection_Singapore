@@ -1,0 +1,44 @@
+{
+  "formatted_address": "217 New Bridge Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2835806,
+      "lng": 103.8431588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285051480291502,
+        "lng": 103.8445681802915
+      },
+      "southwest": {
+        "lat": 1.282353519708498,
+        "lng": 103.8418702197085
+      }
+    }
+  },
+  "name": "Leggenda Pte",
+  "place_id": "ChIJ16ubaHMZ2jERPOnd4EUXFjU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Frank Dave",
+      "author_url": "https://www.google.com/maps/contrib/105897282998715861691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEQBK0ajNwXaRtx9SYpLYKkq1yWZMv6Y-fLAHe5J3HtNChDctjjw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "old deprecated no business inside.\n\nThe McDonald on the first floor is a cruising place for old gay people. Should be demolished or renovated right away",
+      "time": 1463133081,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3825270522390636860",
+  "user_ratings_total": 1,
+  "vicinity": "217 New Bridge Road"
+}

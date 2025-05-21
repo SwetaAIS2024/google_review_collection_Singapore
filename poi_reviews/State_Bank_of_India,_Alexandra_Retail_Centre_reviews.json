@@ -1,0 +1,29 @@
+{
+  "formatted_address": "460 Alexandra Rd, #02-29 Alexandra Retail Centre (ARC), Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.2736761,
+      "lng": 103.8015216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274980980291502,
+        "lng": 103.8029840302915
+      },
+      "southwest": {
+        "lat": 1.272283019708498,
+        "lng": 103.8002860697085
+      }
+    }
+  },
+  "name": "State Bank of India, Alexandra Retail Centre",
+  "place_id": "ChIJVVVVHMEb2jERMWtc-5z1Hg8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1089578214451079985",
+  "vicinity": "460 Alexandra Road, #02-29 Alexandra Retail Centre (ARC)"
+}

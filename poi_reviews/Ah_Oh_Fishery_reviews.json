@@ -1,0 +1,27 @@
+{
+  "formatted_address": "35B Fishery Port Rd, Singapore 619744",
+  "geometry": {
+    "location": {
+      "lat": 1.308106,
+      "lng": 103.722927
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309373180291502,
+        "lng": 103.7244520302915
+      },
+      "southwest": {
+        "lat": 1.306675219708498,
+        "lng": 103.7217540697085
+      }
+    }
+  },
+  "name": "Ah Oh Fishery",
+  "place_id": "ChIJHXtZATYF2jERBIKVakc79_c",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17867815224532632068",
+  "vicinity": "35B Fishery Port Road"
+}

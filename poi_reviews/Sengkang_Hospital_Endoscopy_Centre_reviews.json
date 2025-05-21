@@ -1,0 +1,57 @@
+{
+  "formatted_address": "5 Anchorvale St, Singapore 545047",
+  "geometry": {
+    "location": {
+      "lat": 1.3962493,
+      "lng": 103.8921221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397640880291502,
+        "lng": 103.8934833802915
+      },
+      "southwest": {
+        "lat": 1.394942919708498,
+        "lng": 103.8907854197085
+      }
+    }
+  },
+  "name": "Sengkang Hospital Endoscopy Centre",
+  "place_id": "ChIJZ3UYj1IX2jERvUtSfQxsDiY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "EG Brothers in Singapore",
+      "author_url": "https://www.google.com/maps/contrib/106106471613940521224/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEN3SVBR4wn3_8c0tw7y1_heuR_JD39gM2YjSoFAv-K-6cByAt=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The area is clean.\nNot many people during the visit.\n♿ Accessible ♿\nNear the bus stop.\nBy appointment.",
+      "time": 1727760414,
+      "translated": false
+    },
+    {
+      "author_name": "mako jade",
+      "author_url": "https://www.google.com/maps/contrib/110311815340388371787/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0A20lwwGPGv1JoFa29v7aFDE3yQXsBFlbWsliIDOB7uEg1A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "12 months ago",
+      "text": "the hospital canteen is more like a hawker center, Aircon very low, hot sticky and very uncomfortable.",
+      "time": 1716698083,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2742248024013163453",
+  "user_ratings_total": 2,
+  "vicinity": "5 Anchorvale Street, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Clementi Ave 6, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3219938,
+      "lng": 103.7621727
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323343580291502,
+        "lng": 103.7634796302915
+      },
+      "southwest": {
+        "lat": 1.320645619708498,
+        "lng": 103.7607816697085
+      }
+    }
+  },
+  "name": "Tiang Seng Seafood",
+  "place_id": "ChIJIe5dPgAb2jERMNggwcyVLFo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yong Hui, Ronny Tan",
+      "author_url": "https://www.google.com/maps/contrib/112103854866816776797/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW-EUd0OO-lV8C0jo1OAnng5oZQVGOxCS6CHSN4Lgss1sgkA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "+ The stall seems to also own the entire coffeeshop previously.\n\n+ Located in quiet hidden corner of the estate. Less hot and expensive compared to the other nearby coffeeshop at 209B Clementi Ave 6.\n\n+ Ample sheltered MSCP parking next door.\n\n- Few other stall options in this coffeeshop if your companions want to try something else.",
+      "time": 1737081751,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6497733069034805296",
+  "user_ratings_total": 1,
+  "vicinity": "Clementi Avenue 6"
+}

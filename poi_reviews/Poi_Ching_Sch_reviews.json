@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357755,
+      "lng": 103.936272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359104130291502,
+        "lng": 103.9376374802915
+      },
+      "southwest": {
+        "lat": 1.356406169708498,
+        "lng": 103.9349395197085
+      }
+    }
+  },
+  "name": "Poi Ching Sch",
+  "place_id": "ChIJ3-9ZQHM92jERg8xo7dyLxZQ",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Eric Liau",
+      "author_url": "https://www.google.com/maps/contrib/101032222401889708052/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEovCD3bi6ri60wwl7DSZ1OpUdUlAa7ZRZdXBk1RbIKKQ5l-w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Go one big round in a 2 lane road. Slow frequency and drive slowly.",
+      "time": 1480478162,
+      "translated": false
+    },
+    {
+      "author_name": "GoAheadGroupFan",
+      "author_url": "https://www.google.com/maps/contrib/105877449322822053371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm3AkzrmFf7YEOM0hySeT8b1ju9l9ObcKvCd9XdBSJyrbHrZHX=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "This is the first stop for Premium Bus 743",
+      "time": 1543536630,
+      "translated": false
+    },
+    {
+      "author_name": "zhiqiang tan",
+      "author_url": "https://www.google.com/maps/contrib/114885850789185737280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYuNQ1fqTTRDXMP6BHY3fMLJ40DHSFrek1wEyis5J4Dbtm6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492696170,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10720128269017468035",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

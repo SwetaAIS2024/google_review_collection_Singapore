@@ -1,0 +1,41 @@
+{
+  "formatted_address": "6 Gul Link, Singapore 629376",
+  "geometry": {
+    "location": {
+      "lat": 1.314838,
+      "lng": 103.6619708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316276780291502,
+        "lng": 103.6632249302915
+      },
+      "southwest": {
+        "lat": 1.313578819708498,
+        "lng": 103.6605269697085
+      }
+    }
+  },
+  "name": "McGean-Rohco Singapore Pte Ltd",
+  "place_id": "ChIJNwppDJMF2jERT4oJaAjGfJo",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Felix Yeo",
+      "author_url": "https://www.google.com/maps/contrib/102148569689170796791/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOj8SJYYQzt3FZXyfAttHjJ5X86M8fM03tf_hKJatNHuImEnU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498106493,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11131990118360517199",
+  "user_ratings_total": 1,
+  "vicinity": "6 Gul Link"
+}

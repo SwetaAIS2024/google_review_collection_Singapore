@@ -1,0 +1,46 @@
+{
+  "formatted_address": "51 Bukit Batok Cres, Singapore 658077",
+  "geometry": {
+    "location": {
+      "lat": 1.3374333,
+      "lng": 103.7573384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339071280291502,
+        "lng": 103.7587360802915
+      },
+      "southwest": {
+        "lat": 1.336373319708498,
+        "lng": 103.7560381197085
+      }
+    }
+  },
+  "name": "Beng Lock Eating House",
+  "place_id": "ChIJN-3xagAR2jERDhdqPy6_LO0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Darryl Lee",
+      "author_url": "https://www.google.com/maps/contrib/116553758014752185009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfaJYGoJguZxD4rtW8Wl2fxQibB-Odgo3_4O1k1qym9Ili8ec=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Coffee shop in an industrial estate, and have varieties of food. Tried the Clay pot Asam fish in one of the stores that cost me $6. What I found in the clay pot is just ONE piece of fish with some lady fingers, tomato and onion. Indeed, day light robbery. I will never go to that store again.",
+      "time": 1744774355,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17090244891317507854",
+  "user_ratings_total": 1,
+  "vicinity": "51 Bukit Batok Crescent, Singapore"
+}

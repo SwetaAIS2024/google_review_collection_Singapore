@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Changi Coast Walk, Singapore 499739",
+  "geometry": {
+    "location": {
+      "lat": 1.316859,
+      "lng": 103.975321
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318220680291502,
+        "lng": 103.9766897302915
+      },
+      "southwest": {
+        "lat": 1.315522719708498,
+        "lng": 103.9739917697085
+      }
+    }
+  },
+  "name": "East Coast Park Area H - Water Point",
+  "place_id": "ChIJ7dDMfgAj2jERCfTqQTwh47k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Samuel Wong",
+      "author_url": "https://www.google.com/maps/contrib/113448915693601333186/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdtQcsSrgFz7c17kFHs0NQF90Fk_QuNQXTfyubyLHqMvPzSm9S=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "More seats will be appreciated",
+      "time": 1742703394,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13394586259417658377",
+  "user_ratings_total": 1,
+  "vicinity": "10 Changi Coast Walk"
+}

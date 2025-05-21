@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375579,
+      "lng": 103.901115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376978480291502,
+        "lng": 103.9024054302915
+      },
+      "southwest": {
+        "lat": 1.374280519708498,
+        "lng": 103.8997074697085
+      }
+    }
+  },
+  "name": "Opp Serangoon Sec Sch",
+  "place_id": "ChIJ8Qr4HjsW2jERqPpiVd3T9g0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Belinda Chin",
+      "author_url": "https://www.google.com/maps/contrib/110705326442310017749/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHDD6yoDz1gr5jT1fspgiJ9wXP6hGSALnDsOcuWQkEiz44m-8xaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1647597008,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1006224514337667752",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

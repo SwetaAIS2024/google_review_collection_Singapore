@@ -1,0 +1,30 @@
+{
+  "formatted_address": "105 Sims Ave, Singapore 387429",
+  "geometry": {
+    "location": {
+      "lat": 1.3145937,
+      "lng": 103.8773498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315861480291502,
+        "lng": 103.8787249302915
+      },
+      "southwest": {
+        "lat": 1.313163519708498,
+        "lng": 103.8760269697085
+      }
+    }
+  },
+  "name": "WellRing",
+  "place_id": "ChIJnVUF-DAY2jERZmOlUpV_zLk",
+  "types": [
+    "store",
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13388216071579067238",
+  "vicinity": "105 Sims Avenue"
+}

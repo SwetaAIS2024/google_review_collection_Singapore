@@ -1,0 +1,30 @@
+{
+  "formatted_address": "212 Hougang St 21, #01-349, Singapore 530212",
+  "geometry": {
+    "location": {
+      "lat": 1.3594666,
+      "lng": 103.8882488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360725580291502,
+        "lng": 103.8896447302915
+      },
+      "southwest": {
+        "lat": 1.358027619708498,
+        "lng": 103.8869467697085
+      }
+    }
+  },
+  "name": "德星海南鸡饭",
+  "place_id": "ChIJSW-TCAAX2jERlFrnRrc9A_s",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18087368385827920532",
+  "vicinity": "212 Hougang Street 21, #01-349, Singapore"
+}

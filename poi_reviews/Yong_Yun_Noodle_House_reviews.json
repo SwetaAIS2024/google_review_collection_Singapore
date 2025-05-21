@@ -1,0 +1,30 @@
+{
+  "formatted_address": "121 Geylang East Central, Singapore 380121",
+  "geometry": {
+    "location": {
+      "lat": 1.3179018,
+      "lng": 103.8852918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319246430291502,
+        "lng": 103.8865759802915
+      },
+      "southwest": {
+        "lat": 1.316548469708498,
+        "lng": 103.8838780197085
+      }
+    }
+  },
+  "name": "Yong Yun Noodle House",
+  "place_id": "ChIJUQGibuIZ2jERZSieDlbiJDc",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3973549630487930981",
+  "vicinity": "121 Geylang East Central"
+}

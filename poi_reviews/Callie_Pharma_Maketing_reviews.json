@@ -1,0 +1,30 @@
+{
+  "formatted_address": "810 Geylang Rd, Singapore 409286",
+  "geometry": {
+    "location": {
+      "lat": 1.3149951,
+      "lng": 103.8935606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316525730291502,
+        "lng": 103.8947188302915
+      },
+      "southwest": {
+        "lat": 1.313827769708498,
+        "lng": 103.8920208697085
+      }
+    }
+  },
+  "name": "Callie Pharma Maketing",
+  "place_id": "ChIJv2fgrRcY2jER0CIbaH7Z9Mg",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14480437838838702800",
+  "vicinity": "810 Geylang Road"
+}

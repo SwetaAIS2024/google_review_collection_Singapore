@@ -1,0 +1,52 @@
+{
+  "formatted_address": "11 E Coast Rd, Singapore 428722",
+  "geometry": {
+    "location": {
+      "lat": 1.3048046,
+      "lng": 103.9016781
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306231080291502,
+        "lng": 103.9031281802915
+      },
+      "southwest": {
+        "lat": 1.303533119708498,
+        "lng": 103.9004302197085
+      }
+    }
+  },
+  "name": "Xanadu by Paddles",
+  "place_id": "ChIJw1-PAAAZ2jERZSJjnEwtN9k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bonn Derrick",
+      "author_url": "https://www.google.com/maps/contrib/112153401405367786011/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0Vjl7GtDvRtW6pt4EH_qXPAAAMoD7Kv0ESMCnAntcbTs9OMcf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711637587,
+      "translated": false
+    },
+    {
+      "author_name": "Venessa Ho",
+      "author_url": "https://www.google.com/maps/contrib/110492174983228216836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsU7Q8aGBJL7inI7-ONML4jzGLMsAR1YqVEDqAsc1hSMvZjz8=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721555981,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15652028837013955173",
+  "user_ratings_total": 2,
+  "vicinity": "11 East Coast Road, Singapore"
+}

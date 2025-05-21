@@ -1,0 +1,55 @@
+{
+  "formatted_address": "2, Jalan Nusa Puncak 2, Taman Nusa Puncak Iskandar Puteri, 79200 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.442644,
+      "lng": 103.5978628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.444002730291502,
+        "lng": 103.5991749802915
+      },
+      "southwest": {
+        "lat": 1.441304769708498,
+        "lng": 103.5964770197085
+      }
+    }
+  },
+  "name": "AKRD Restaurant Nusa Puncak",
+  "place_id": "ChIJAaUkYAAL2jERjy2KFx_2m7g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Miza Zul",
+      "author_url": "https://www.google.com/maps/contrib/102555668749222354740/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvJnKW5EEyub-Hez-9SHsS6KjNSsDhZV2qzpk0q-8_ktBxAsHv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Superb like Malay cuisine...kampung fried rice.",
+      "time": 1740903702,
+      "translated": true
+    },
+    {
+      "author_name": "sujen bullet",
+      "author_url": "https://www.google.com/maps/contrib/107944810298937331401/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2Xkt_hAG5oZ4V1f50pfTCgUFrwvOyI9rYtKezYid1Jczo7WXCEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729081685,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13302496537768242575",
+  "user_ratings_total": 2,
+  "vicinity": "2, Jalan Nusa Puncak 2, Taman Nusa Puncak Iskandar Puteri, Gelang Patah"
+}

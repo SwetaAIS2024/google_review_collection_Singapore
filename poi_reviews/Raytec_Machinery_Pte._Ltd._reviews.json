@@ -1,0 +1,53 @@
+{
+  "formatted_address": "68 Kaki Bukit Ave 6, #01-18, Singapore 417896",
+  "geometry": {
+    "location": {
+      "lat": 1.340811,
+      "lng": 103.914247
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342221130291502,
+        "lng": 103.9155161802915
+      },
+      "southwest": {
+        "lat": 1.339523169708498,
+        "lng": 103.9128182197085
+      }
+    }
+  },
+  "name": "Raytec Machinery Pte. Ltd.",
+  "place_id": "ChIJ3RlN8PUX2jERYaDqv7iCW6w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "zk x",
+      "author_url": "https://www.google.com/maps/contrib/113315487324878763697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFwgOcZkcm_oqCry7L-mH9Tpu7q69PZ8gU2BCFLC1md-6LHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "awesome service",
+      "time": 1606983381,
+      "translated": false
+    },
+    {
+      "author_name": "Mickey More",
+      "author_url": "https://www.google.com/maps/contrib/104596899930771047006/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVemQMeN6fjoi6flLd89n4UCfKOTD3sqYM5mNQaGrv3cOFNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515068377,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12419664127409692769",
+  "user_ratings_total": 2,
+  "vicinity": "68 Kaki Bukit Avenue 6, #01-18"
+}

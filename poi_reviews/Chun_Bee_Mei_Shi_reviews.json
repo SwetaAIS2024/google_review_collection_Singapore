@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Blk 61 Teban Gardens Rd, #02-11, Singapore 600061",
+  "geometry": {
+    "location": {
+      "lat": 1.3220967,
+      "lng": 103.7384605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323340330291502,
+        "lng": 103.7397872302915
+      },
+      "southwest": {
+        "lat": 1.320642369708498,
+        "lng": 103.7370892697085
+      }
+    }
+  },
+  "name": "Chun Bee Mei Shi",
+  "place_id": "ChIJeaZ1f5Yb2jERFPP6OIhwkww",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Avy Goh",
+      "author_url": "https://www.google.com/maps/contrib/112226331862324103616/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF3TKhNGJqFq9XJgV9_j83YcfPBrPUejTXX3X1cCQRQ0-kJX1n=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The service is good.\nGreat to habe more chouce here.",
+      "time": 1665469269,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=906191680405435156",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 61 Teban Gardens Road, #02-11"
+}

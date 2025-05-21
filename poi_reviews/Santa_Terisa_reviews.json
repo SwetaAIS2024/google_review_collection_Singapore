@@ -1,0 +1,29 @@
+{
+  "formatted_address": "510, Kallang Bahru, Singapore 339341",
+  "geometry": {
+    "location": {
+      "lat": 1.3179742,
+      "lng": 103.8665875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319339330291502,
+        "lng": 103.8679210802915
+      },
+      "southwest": {
+        "lat": 1.316641369708498,
+        "lng": 103.8652231197085
+      }
+    }
+  },
+  "name": "Santa Terisa",
+  "place_id": "ChIJ8bEbvtIZ2jERkNHUXPoOrao",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12298502625880756624",
+  "vicinity": "510, Kallang Bahru, Singapore"
+}

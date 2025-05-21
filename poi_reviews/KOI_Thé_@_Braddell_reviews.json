@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Lor 1 Toa Payoh, #01-302 Block 109, Singapore 310109",
+  "geometry": {
+    "location": {
+      "lat": 1.3412033,
+      "lng": 103.8466221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342417280291502,
+        "lng": 103.8479633302915
+      },
+      "southwest": {
+        "lat": 1.339719319708498,
+        "lng": 103.8452653697085
+      }
+    }
+  },
+  "name": "KOI Thé @ Braddell",
+  "place_id": "ChIJj6E2w8wX2jER3oIdShHDXcI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "N",
+      "author_url": "https://www.google.com/maps/contrib/115434620142423330583/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnQieN1P1-W_GU0_0k74Cd2AgF1gOUgNlE9IFSeInMREDIxLFpAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "staff are always very friendly n cheerful",
+      "time": 1712305846,
+      "translated": false
+    },
+    {
+      "author_name": "amanda aa",
+      "author_url": "https://www.google.com/maps/contrib/101042218396847758328/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUod_7MABKN_i9sAPtasMGqZ0udwS2DG-ealIJ3UOGb-7OFXsUppA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729130335,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14005564895217418974",
+  "user_ratings_total": 2,
+  "vicinity": "Lorong 1 Toa Payoh, #01-302 Block 109"
+}

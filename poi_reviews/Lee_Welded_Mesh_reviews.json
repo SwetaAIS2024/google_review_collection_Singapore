@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325651,
+      "lng": 103.645882
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326976480291502,
+        "lng": 103.6472558802915
+      },
+      "southwest": {
+        "lat": 1.324278519708498,
+        "lng": 103.6445579197085
+      }
+    }
+  },
+  "name": "Lee Welded Mesh",
+  "place_id": "ChIJR6iITvgF2jERy1qTOUijj28",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8038823390478555851",
+  "vicinity": "Singapore"
+}

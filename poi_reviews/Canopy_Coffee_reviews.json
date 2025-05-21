@@ -1,0 +1,30 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3409566,
+      "lng": 103.962967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341977380291502,
+        "lng": 103.9644382802915
+      },
+      "southwest": {
+        "lat": 1.339279419708498,
+        "lng": 103.9617403197085
+      }
+    }
+  },
+  "name": "Canopy Coffee",
+  "place_id": "ChIJVeJRJwA92jERSSz0o0vizcQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14181239616160672841",
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318758,
+      "lng": 103.931587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320065080291502,
+        "lng": 103.9329447302915
+      },
+      "southwest": {
+        "lat": 1.317367119708498,
+        "lng": 103.9302467697085
+      }
+    }
+  },
+  "name": "Fujitec S'pore Ltd",
+  "place_id": "ChIJ4R571LAi2jERp_RqsXoJIcM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gaston Teo",
+      "author_url": "https://www.google.com/maps/contrib/108644413743970695490/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX94pBYBKY8slO51rv3ehA7o8OYzPXacI8yiigxaT8Nf0lOy_jQhg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Affordable lunch available here.",
+      "time": 1490244648,
+      "translated": false
+    },
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "It's well organized place...nice...",
+      "time": 1501070964,
+      "translated": false
+    },
+    {
+      "author_name": "Than Win Aung",
+      "author_url": "https://www.google.com/maps/contrib/103819999854193715872/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZHCiaVywqZ3fiYQZiKJMyo3aoNxXvwn-Y_HbJibGG5xDadg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568792904,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14060529934194635943",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3441529,
+      "lng": 103.8756288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345457130291502,
+        "lng": 103.8769960302915
+      },
+      "southwest": {
+        "lat": 1.342759169708498,
+        "lng": 103.8742980697085
+      }
+    }
+  },
+  "name": "Gambir Ridge",
+  "place_id": "ChIJoZKJk5gX2jER3CCNkqtTXZY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10834908274886516956",
+  "vicinity": "Singapore"
+}

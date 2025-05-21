@@ -1,0 +1,57 @@
+{
+  "formatted_address": "65 Airport Blvd., Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.354371,
+      "lng": 103.98517
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355787830291502,
+        "lng": 103.9870463802915
+      },
+      "southwest": {
+        "lat": 1.353089869708498,
+        "lng": 103.9843484197085
+      }
+    }
+  },
+  "name": "Chocolat Factory",
+  "place_id": "ChIJkUm6XI082jERuHKyy0lsS8M",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Geo Leo",
+      "author_url": "https://www.google.com/maps/contrib/110505782669254611274/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdTOaS7ILuX2ikktNj_vhTW6bJsjmEAIY1ZGhkIBTVe6x2zg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Double the rates plus few had fungus on them...this we realized after back to India.",
+      "time": 1501433409,
+      "translated": false
+    },
+    {
+      "author_name": "jomar reschreiter",
+      "author_url": "https://www.google.com/maps/contrib/103522276510046122700/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7ZtCaXqzTlG3yYiEOMIN7yDMFULo8LP5vrXrVB1ZPXYSefQ0p=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Epic",
+      "time": 1562654494,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14072460524855128760",
+  "user_ratings_total": 2,
+  "vicinity": "65 Airport Boulevard"
+}

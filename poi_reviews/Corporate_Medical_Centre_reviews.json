@@ -1,0 +1,45 @@
+{
+  "formatted_address": "190 Middle Rd, Singapore 188979",
+  "geometry": {
+    "location": {
+      "lat": 1.3002174,
+      "lng": 103.8521299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301554530291502,
+        "lng": 103.8534697802915
+      },
+      "southwest": {
+        "lat": 1.298856569708498,
+        "lng": 103.8507718197085
+      }
+    }
+  },
+  "name": "Corporate Medical Centre",
+  "place_id": "ChIJNd6qDbsZ2jERngepFtea_gg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Janet Chong",
+      "author_url": "https://www.google.com/maps/contrib/116720018935379612368/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV6GZYhNKeEf-hBlFRpchBw26FdsAHVvRffvi5EjoSzqPNsvAj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Dr Nair very patient and kind .\nTakes time to explain your problems. Very reasonable rates too\ns",
+      "time": 1525742450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=648125644976752542",
+  "user_ratings_total": 1,
+  "vicinity": "190 Middle Road, Singapore"
+}

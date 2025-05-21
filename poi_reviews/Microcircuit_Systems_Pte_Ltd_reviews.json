@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3240541,
+      "lng": 103.8786168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325489230291502,
+        "lng": 103.8799340302915
+      },
+      "southwest": {
+        "lat": 1.322791269708498,
+        "lng": 103.8772360697085
+      }
+    }
+  },
+  "name": "Microcircuit Systems Pte Ltd",
+  "place_id": "ChIJ534kiigY2jERCJqCDbGm6y0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3308921630599846408",
+  "vicinity": "Singapore"
+}

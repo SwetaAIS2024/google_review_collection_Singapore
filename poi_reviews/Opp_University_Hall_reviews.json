@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297526,
+      "lng": 103.77813
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298842930291502,
+        "lng": 103.7794665302915
+      },
+      "southwest": {
+        "lat": 1.296144969708498,
+        "lng": 103.7767685697085
+      }
+    }
+  },
+  "name": "Opp University Hall",
+  "place_id": "ChIJTUt6oFca2jERTTIf4FH4qJ0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "呂京祐",
+      "author_url": "https://www.google.com/maps/contrib/108799669869769232595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQivZ1hwkuytqBFAR6Z4HIwAhI4KE33Cp0m4tPnkEc00P2KQiN=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529809067,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11360603090578256461",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

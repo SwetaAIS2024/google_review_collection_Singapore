@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3963196,
+      "lng": 103.8938296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397699030291502,
+        "lng": 103.8951892302915
+      },
+      "southwest": {
+        "lat": 1.395001069708498,
+        "lng": 103.8924912697085
+      }
+    }
+  },
+  "name": "Cheng Lim",
+  "place_id": "ChIJd6I4gQwW2jER7uo9H-575so",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14620509502961478382",
+  "vicinity": "Singapore"
+}

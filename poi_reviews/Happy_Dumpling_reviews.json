@@ -1,0 +1,44 @@
+{
+  "formatted_address": "7500a Beach Rd, b1-305, Singapore 199591",
+  "geometry": {
+    "location": {
+      "lat": 1.299739,
+      "lng": 103.860815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300941480291502,
+        "lng": 103.8621642802915
+      },
+      "southwest": {
+        "lat": 1.298243519708498,
+        "lng": 103.8594663197085
+      }
+    }
+  },
+  "name": "Happy Dumpling",
+  "place_id": "ChIJJQRhFYUZ2jERxMPSfxCwI7w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Atika rahayu 13",
+      "author_url": "https://www.google.com/maps/contrib/103237949774080905262/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc9vLnffPsfRylXqUGZLF0G8lsta5ulfwCXnMnrc7Doc0V=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712970153,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13556872888225809348",
+  "user_ratings_total": 1,
+  "vicinity": "7500a Beach Road, b1-305"
+}

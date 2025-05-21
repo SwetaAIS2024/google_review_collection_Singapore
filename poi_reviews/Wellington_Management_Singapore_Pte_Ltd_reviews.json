@@ -1,0 +1,62 @@
+{
+  "formatted_address": "8 Marina Boulevard, #03-01, Tower 1, Marina Bay Financial Centre, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.279637,
+      "lng": 103.854149
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281434430291502,
+        "lng": 103.8554384302915
+      },
+      "southwest": {
+        "lat": 1.278736469708498,
+        "lng": 103.8527404697085
+      }
+    }
+  },
+  "name": "Wellington Management Singapore Pte Ltd",
+  "place_id": "ChIJ4WSiUwkZ2jER_WKpYoSp36s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "yoseop lee",
+      "author_url": "https://www.google.com/maps/contrib/102824787333128242300/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzQkbyFv0gpPL6m4IfnXdE1XOqKneWU3By7I9omk1x-fadAhja=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713757879,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Goh",
+      "author_url": "https://www.google.com/maps/contrib/113858353095873761873/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIWB0wzkEQzQyXps4GX0tr2qcIQBjt1VBUpACLzW1sOZjFvA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666701291,
+      "translated": false
+    },
+    {
+      "author_name": "LD Mix video",
+      "author_url": "https://www.google.com/maps/contrib/103542058569040895631/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx9kja0ZAvxh-rPo20lIhecofpa_b0rZni-HUhpNN4hiA76Bs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589436048,
+      "translated": false
+    }
+  ],
+  "types": [
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12384803886348198653",
+  "user_ratings_total": 3,
+  "vicinity": "8 Marina Boulevard, #03-01, Tower 1, Marina Bay Financial Centre"
+}

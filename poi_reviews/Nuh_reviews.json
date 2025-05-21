@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2958556,
+      "lng": 103.7839441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297206180291502,
+        "lng": 103.7852955302915
+      },
+      "southwest": {
+        "lat": 1.294508219708498,
+        "lng": 103.7825975697085
+      }
+    }
+  },
+  "name": "Nuh",
+  "place_id": "ChIJd30ACFEa2jERwJIlouzTlxw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2060348367831405248",
+  "vicinity": "Singapore"
+}

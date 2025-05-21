@@ -1,0 +1,75 @@
+{
+  "formatted_address": "304 Orchard Rd, #04-80 Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3045649,
+      "lng": 103.8339296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306046430291502,
+        "lng": 103.8354215302915
+      },
+      "southwest": {
+        "lat": 1.303348469708498,
+        "lng": 103.8327235697085
+      }
+    }
+  },
+  "name": "Kate's Mart",
+  "place_id": "ChIJo1p0cpIZ2jERKDufvIBsYpg",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Ellora Mae Young",
+      "author_url": "https://www.google.com/maps/contrib/109560817637914065724/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGFOmW634gI1V5sN9toqplr61QhMiCNvUd1Xk9j3Ah5MgXdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738425166,
+      "translated": false
+    },
+    {
+      "author_name": "J R",
+      "author_url": "https://www.google.com/maps/contrib/102567277193014878710/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc2Rek0e6DUibwch45PM0eHNmio1lqwpxWGfO0W38xYu5oZR6n=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592041908,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Deluria",
+      "author_url": "https://www.google.com/maps/contrib/116684122730946162826/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtJKpotNpYveAUrcJVBTBcf1uMaWqWeAzkwHvHTr3l667Efg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561611062,
+      "translated": false
+    },
+    {
+      "author_name": "ahyan de jesus",
+      "author_url": "https://www.google.com/maps/contrib/101601351175073606827/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXnNNR6cjrRJxnW4S5h3fOgeHkl8qkxEiJir-rJdkLbKXL8DI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1538961851,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10980458141658856232",
+  "user_ratings_total": 4,
+  "vicinity": "304 Orchard Road, #04-80 Lucky Plaza, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "635 Ang Mo Kio Ave 6, Singapore 560635",
+  "geometry": {
+    "location": {
+      "lat": 1.3805373,
+      "lng": 103.8421358
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381860480291502,
+        "lng": 103.8434975802915
+      },
+      "southwest": {
+        "lat": 1.379162519708498,
+        "lng": 103.8407996197085
+      }
+    }
+  },
+  "name": "Lolipop",
+  "place_id": "ChIJRTXmVMAW2jERMK9o1WEvuCk",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3006204848508546864",
+  "vicinity": "635 Ang Mo Kio Avenue 6, Singapore"
+}

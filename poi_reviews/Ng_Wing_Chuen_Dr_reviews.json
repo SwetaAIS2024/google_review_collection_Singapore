@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Rd, #04-13 059108, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2841977,
+      "lng": 103.8425488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285471130291502,
+        "lng": 103.8439748302915
+      },
+      "southwest": {
+        "lat": 1.282773169708498,
+        "lng": 103.8412768697085
+      }
+    }
+  },
+  "name": "Ng Wing Chuen Dr",
+  "place_id": "ChIJl9hae3MZ2jER0TDRlAdywQ0",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=991198769885294801",
+  "vicinity": "1 Park Road, #04-13 059108"
+}

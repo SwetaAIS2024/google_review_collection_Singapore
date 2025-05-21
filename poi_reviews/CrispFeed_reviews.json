@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Bedok S Rd, Singapore 460172",
+  "geometry": {
+    "location": {
+      "lat": 1.3207058,
+      "lng": 103.9447463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322224580291502,
+        "lng": 103.9460595802915
+      },
+      "southwest": {
+        "lat": 1.319526619708498,
+        "lng": 103.9433616197085
+      }
+    }
+  },
+  "name": "CrispFeed",
+  "place_id": "ChIJEZMl2FEj2jERyevwlAVaIiY",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2747857702669577161",
+  "vicinity": "Bedok South Road"
+}

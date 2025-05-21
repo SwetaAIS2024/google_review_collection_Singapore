@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362659,
+      "lng": 103.973701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363967180291502,
+        "lng": 103.9750755802915
+      },
+      "southwest": {
+        "lat": 1.361269219708498,
+        "lng": 103.9723776197085
+      }
+    }
+  },
+  "name": "Opp Changi Chapel Museum",
+  "place_id": "ChIJxRJ86Pc82jER9ysGpOC1BNY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jerry QUEK Cheng Pang",
+      "author_url": "https://www.google.com/maps/contrib/113936979720282607189/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOzTe1EpIQC3RThl66FAtjx_suMlvO8z6i8cycuzG9wEN1sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "The area is quiet and with lots of serenity. There are private housing estates here.There is a public bus stop just opposite the\nmuseum.It is the bus stop to alight if you are\nvisiting the museum, of course there are taxis passing by once in a while.\n\nDated : 06/06/2018 ( Wednesday ).",
+      "time": 1528735147,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15421651000452590583",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

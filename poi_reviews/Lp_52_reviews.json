@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.341304,
+      "lng": 103.827065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342607580291502,
+        "lng": 103.8284120802915
+      },
+      "southwest": {
+        "lat": 1.339909619708498,
+        "lng": 103.8257141197085
+      }
+    }
+  },
+  "name": "Lp 52",
+  "place_id": "ChIJWUBW40sX2jERKBvBg7FJMb8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "R Santoso",
+      "author_url": "https://www.google.com/maps/contrib/101974672172156580546/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwp_mVkGWq-4pVkRQKG6OXXZgUsSa2f40AKmjnk69ppgfFHfU1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "In this location nearby Mac Ritchie Reservoir, I found a lot of unique flowering plant type blooming along this Lornie highway. The pictures shown here before start blooming, top blooming, and after blooming.",
+      "time": 1671319101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13776873761871567656",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

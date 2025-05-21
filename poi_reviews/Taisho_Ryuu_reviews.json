@@ -1,0 +1,30 @@
+{
+  "formatted_address": "229 Lavender St., Singapore 338778",
+  "geometry": {
+    "location": {
+      "lat": 1.314819,
+      "lng": 103.859513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316198930291502,
+        "lng": 103.8609043802915
+      },
+      "southwest": {
+        "lat": 1.313500969708498,
+        "lng": 103.8582064197085
+      }
+    }
+  },
+  "name": "Taisho Ryuu",
+  "place_id": "ChIJD4xIHX8Z2jERaQvSfjeFVdI",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15156166594382662505",
+  "vicinity": "229 Lavender Street"
+}

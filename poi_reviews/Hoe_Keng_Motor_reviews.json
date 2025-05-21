@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.32468,
+      "lng": 103.695618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325997780291502,
+        "lng": 103.6969675302915
+      },
+      "southwest": {
+        "lat": 1.323299819708498,
+        "lng": 103.6942695697085
+      }
+    }
+  },
+  "name": "Hoe Keng Motor",
+  "place_id": "ChIJu61_GGMF2jERZXUXWzsR6cw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14765351799939888485",
+  "vicinity": "Singapore"
+}

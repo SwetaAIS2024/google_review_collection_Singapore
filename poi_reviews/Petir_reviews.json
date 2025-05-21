@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3777661,
+      "lng": 103.7665789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379083130291502,
+        "lng": 103.7679075802915
+      },
+      "southwest": {
+        "lat": 1.376385169708498,
+        "lng": 103.7652096197085
+      }
+    }
+  },
+  "name": "Petir",
+  "place_id": "ChIJldx1YqQR2jERiQYclF8716o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12310373388133336713",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "631 Bedok Reservoir Rd, Singapore 470631",
+  "geometry": {
+    "location": {
+      "lat": 1.3332324,
+      "lng": 103.9148241
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334588430291502,
+        "lng": 103.9161317302915
+      },
+      "southwest": {
+        "lat": 1.331890469708498,
+        "lng": 103.9134337697085
+      }
+    }
+  },
+  "name": "鑫旺什菜饭",
+  "place_id": "ChIJ4SvpYQA92jERSocohdsMJIw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tsin W61",
+      "author_url": "https://www.google.com/maps/contrib/112246979209348273781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5fBvH1U0jQqk8eYJGcmDFRZR1lB_UlepRQGporkxzpFNDw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Local cook foods stall, many choices of local food. I like the curry chicken.",
+      "time": 1745017795,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10098210401442891594",
+  "user_ratings_total": 1,
+  "vicinity": "631 Bedok Reservoir Road, Singapore"
+}

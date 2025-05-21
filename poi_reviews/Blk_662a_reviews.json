@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3376815,
+      "lng": 103.7030238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339039680291502,
+        "lng": 103.7043969802915
+      },
+      "southwest": {
+        "lat": 1.336341719708498,
+        "lng": 103.7016990197085
+      }
+    }
+  },
+  "name": "Blk 662a",
+  "place_id": "ChIJwalHipIP2jERfIc9Rzyb9fE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Thiru Vasagam",
+      "author_url": "https://www.google.com/maps/contrib/108769232005501637588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzMk8iNr1rgb5s7Oq6ommLk_CUOodnfmEyg_KbH9IVuUzqtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739872277,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17435012215630301052",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

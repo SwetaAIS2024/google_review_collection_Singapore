@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.338128,
+      "lng": 103.963997
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339463380291502,
+        "lng": 103.9653679302915
+      },
+      "southwest": {
+        "lat": 1.336765419708498,
+        "lng": 103.9626699697085
+      }
+    }
+  },
+  "name": "Opp Eightrium",
+  "place_id": "ChIJSS_HAdk82jERgNAtIqDEHKM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "noel aye",
+      "author_url": "https://www.google.com/maps/contrib/100571587233890832342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOTDg9WrJy_KpSGwP7b35r0LDj5efM0XGE1SZUbOXrbzuk24wi0g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736767168,
+      "translated": false
+    },
+    {
+      "author_name": "iZam SG",
+      "author_url": "https://www.google.com/maps/contrib/114616723767550954632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBNHoH6YJ7xi996gmEGIiCFfPVsNLPsuJq5em3Dtm7WesYquNp=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571130377,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11753485319577391232",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

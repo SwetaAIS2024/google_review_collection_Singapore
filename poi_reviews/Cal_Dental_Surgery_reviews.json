@@ -1,0 +1,29 @@
+{
+  "formatted_address": "537 Bedok North Street 3, #01-509, Singapore 460537",
+  "geometry": {
+    "location": {
+      "lat": 1.3319495,
+      "lng": 103.9236971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333275380291502,
+        "lng": 103.9249313302915
+      },
+      "southwest": {
+        "lat": 1.330577419708498,
+        "lng": 103.9222333697085
+      }
+    }
+  },
+  "name": "Cal Dental Surgery",
+  "place_id": "ChIJAS6gvVE92jERVfbjWPaWl7Q",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13013035633107793493",
+  "vicinity": "537 Bedok North Street 3, #01-509, Singapore"
+}

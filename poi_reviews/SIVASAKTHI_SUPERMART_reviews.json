@@ -1,0 +1,31 @@
+{
+  "formatted_address": "BLK 501 W Coast Dr, #01-254B, Singapore 120501",
+  "geometry": {
+    "location": {
+      "lat": 1.3120756,
+      "lng": 103.7588906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313498980291502,
+        "lng": 103.7601322302915
+      },
+      "southwest": {
+        "lat": 1.310801019708498,
+        "lng": 103.7574342697085
+      }
+    }
+  },
+  "name": "SIVASAKTHI SUPERMART",
+  "place_id": "ChIJv1wI1hUb2jERaPFsLKhXYgM",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=243853709642887528",
+  "vicinity": "BLK 501 West Coast Drive, #01-254B"
+}

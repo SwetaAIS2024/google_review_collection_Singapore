@@ -1,0 +1,43 @@
+{
+  "formatted_address": "30 Airline Road, SATS Airfreight Terminal 5, Core J, 5th Level, 30 Airline Rd, Singapore 819830",
+  "geometry": {
+    "location": {
+      "lat": 1.377238,
+      "lng": 103.995261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378495580291502,
+        "lng": 103.9968148802915
+      },
+      "southwest": {
+        "lat": 1.375797619708498,
+        "lng": 103.9941169197085
+      }
+    }
+  },
+  "name": "Lufthansa Cargo AG",
+  "place_id": "ChIJOdXk5XE82jER7hhZa6QVPUg",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Mohamed Yusof Mohamed Yus",
+      "author_url": "https://www.google.com/maps/contrib/103381154826107393915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSaookUyMqLxthXiLZoU2be9Lwa_Oe5Dxn6m_p9nS-3SyHTg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "On business matters only",
+      "time": 1542908637,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5205340540229982446",
+  "user_ratings_total": 1,
+  "vicinity": "30 Airline Road, SATS Airfreight Terminal 5, Core J, 5th Level, 30 Airline Road"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "21 Toh Guan Rd E, #03-05, Singapore 608609",
+  "geometry": {
+    "location": {
+      "lat": 1.3375288,
+      "lng": 103.7547128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338960180291502,
+        "lng": 103.7562186802915
+      },
+      "southwest": {
+        "lat": 1.336262219708498,
+        "lng": 103.7535207197085
+      }
+    }
+  },
+  "name": "Song Yang Beer Garden",
+  "place_id": "ChIJsSyEVgcR2jEROcjMkOq-KrA",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12694168414358128697",
+  "vicinity": "21 Toh Guan Road East, #03-05"
+}

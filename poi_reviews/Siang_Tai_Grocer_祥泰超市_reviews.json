@@ -1,0 +1,71 @@
+{
+  "formatted_address": "F-02-07, Mahkota Selatan Jalan Forest City 1 Pulau Satu Forest City Gelang Patah, 81550 Johor, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3346421,
+      "lng": 103.5929518
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336096730291502,
+        "lng": 103.5942224802915
+      },
+      "southwest": {
+        "lat": 1.333398769708498,
+        "lng": 103.5915245197085
+      }
+    }
+  },
+  "name": "Siang Tai Grocer 祥泰超市",
+  "place_id": "ChIJS1EpduwJ2jERAzoMh8SmZPc",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Song Hau Fung",
+      "author_url": "https://www.google.com/maps/contrib/115577383293816401367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTMgZfvxrh7iIN8I2qdhih2L6byim5QOOzshwZJZvAznry_aTG=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Five Star Grocery Shop\nLet us Enjoy at Forest City",
+      "time": 1703125906,
+      "translated": false
+    },
+    {
+      "author_name": "Infinity Z",
+      "author_url": "https://www.google.com/maps/contrib/110808200548786968167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbXGf6A6Bjy7RHbmWJoJVN_cfTFGHhYlhJVoiwijnDAKP_IOA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "Items are quite pricey, not much variety",
+      "time": 1724637337,
+      "translated": false
+    },
+    {
+      "author_name": "Tau Wai Lim",
+      "author_url": "https://www.google.com/maps/contrib/111573055184241490372/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyLYOY05J9TehSDtEYA3CkXnGIEEKRfRObxluH0LKdIL3ZFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "What it’s like to shop in China.",
+      "time": 1703833512,
+      "translated": true
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17826556588048792067",
+  "user_ratings_total": 3,
+  "vicinity": "F-02-07, Mahkota Selatan Jalan Forest City 1 Pulau Satu Forest City Gelang Patah, Johor"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Blk #01-73 Bras Basah Complex, 231 Bain St, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2967909,
+      "lng": 103.8541645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298284780291502,
+        "lng": 103.8553697802915
+      },
+      "southwest": {
+        "lat": 1.295586819708498,
+        "lng": 103.8526718197085
+      }
+    }
+  },
+  "name": "Paint Gallery",
+  "place_id": "ChIJodQY4qQZ2jERuQhv20cGTOg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Colin Hong",
+      "author_url": "https://www.google.com/maps/contrib/108522089452538457928/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIcdIbo1wtxEQxu7Qvc-rcn_hwo6VNDKfFNQZVXwUSi9HlxCN1Xw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "This is an art gallery which does framing services too. The staff here are very friendly and approachable. :) The prices of things are fairly reasonable here.",
+      "time": 1450596668,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16738760820723222713",
+  "user_ratings_total": 1,
+  "vicinity": "Blk #01-73 Bras Basah Complex, 231 Bain Street"
+}

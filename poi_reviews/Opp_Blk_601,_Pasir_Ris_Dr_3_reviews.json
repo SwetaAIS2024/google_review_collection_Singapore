@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37906,
+      "lng": 103.94271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380358830291502,
+        "lng": 103.9440210302915
+      },
+      "southwest": {
+        "lat": 1.377660869708498,
+        "lng": 103.9413230697085
+      }
+    }
+  },
+  "name": "Opp Blk 601, Pasir Ris Dr 3",
+  "place_id": "ChIJk_xmz7492jER40SyW4gVg-g",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16754258714146522339",
+  "vicinity": "Singapore"
+}

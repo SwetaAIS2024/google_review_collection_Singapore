@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3866089,
+      "lng": 103.9795656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387994180291502,
+        "lng": 103.9808877302915
+      },
+      "southwest": {
+        "lat": 1.385296219708498,
+        "lng": 103.9781897697085
+      }
+    }
+  },
+  "name": "Aft Cranwell Rd",
+  "place_id": "ChIJ40gMoD482jERtmapd0GyIis",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3108242687089272502",
+  "vicinity": "Singapore"
+}

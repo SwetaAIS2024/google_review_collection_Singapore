@@ -1,0 +1,45 @@
+{
+  "formatted_address": "2 Tampines Avenue 4 Tampines West Mrt Station, Singapore 529683",
+  "geometry": {
+    "location": {
+      "lat": 1.3454606,
+      "lng": 103.938236
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346589880291502,
+        "lng": 103.9395210302915
+      },
+      "southwest": {
+        "lat": 1.343891919708498,
+        "lng": 103.9368230697085
+      }
+    }
+  },
+  "name": "DBS ATM - Tampines West Mrt Station (DTL)",
+  "place_id": "ChIJ8-SUnrI92jER45XXKYPbg2M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pecinta “Im” Travelling",
+      "author_url": "https://www.google.com/maps/contrib/104679158547754921963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNCCLDK-ELAGaGg-MnflNX6mNrJemud2DCdxsB_pFU8iIK6vdfDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "you must read the map if you eant use MRT, wherever you are",
+      "time": 1704438589,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7170816388093154787",
+  "user_ratings_total": 1,
+  "vicinity": "2 Tampines Avenue 4 Tampines West Mrt Station"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "65 Airport Boulevard Arrival Hall South, Terminal 3 Singapore Changi Airport, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555805,
+      "lng": 103.9861962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356526380291502,
+        "lng": 103.9876359802915
+      },
+      "southwest": {
+        "lat": 1.353828419708498,
+        "lng": 103.9849380197085
+      }
+    }
+  },
+  "name": "Bank of China ATM T3 Arrival Hall",
+  "place_id": "ChIJBV8Wqo082jERbzYawmyelqg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "PYT YT",
+      "author_url": "https://www.google.com/maps/contrib/106095465881475231934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvLB28k6kVWYuwujQJobmofHE4XvO4oOHhXGW4WFUnx_n4f4nL5Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Travelex",
+      "time": 1552723703,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12148071234828645999",
+  "user_ratings_total": 1,
+  "vicinity": "65 Airport Boulevard Arrival Hall South, Terminal 3 Singapore Changi Airport"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "8 Shenton Wy, Singapore 068811",
+  "geometry": {
+    "location": {
+      "lat": 1.2758149,
+      "lng": 103.847272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277185080291502,
+        "lng": 103.8485148802915
+      },
+      "southwest": {
+        "lat": 1.274487119708498,
+        "lng": 103.8458169197085
+      }
+    }
+  },
+  "name": "Nanyang Institute of Management",
+  "place_id": "ChIJ4WpxdxMZ2jERyou6EccePSs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Saloni Narayan",
+      "author_url": "https://www.google.com/maps/contrib/105005556652725711372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLnMdq2qmd91zCJulVd6RIb1tmafmBV6Bwds9ZgtpMNRGG2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1614952648,
+      "translated": false
+    },
+    {
+      "author_name": "Suva Nayek",
+      "author_url": "https://www.google.com/maps/contrib/100201342468119014384/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_1lWWsJRVVMWUjBR7tIKBPccFqXr2wyRHeq2A1e335lth2w1JBA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564985262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3115680357555014602",
+  "user_ratings_total": 2,
+  "vicinity": "8 Shenton Way, Singapore"
+}

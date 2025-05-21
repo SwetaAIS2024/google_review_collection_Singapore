@@ -1,0 +1,56 @@
+{
+  "formatted_address": "11 Kaki Bukit Rd 4, Singapore 417806",
+  "geometry": {
+    "location": {
+      "lat": 1.3393621,
+      "lng": 103.912088
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340752030291502,
+        "lng": 103.9135185802915
+      },
+      "southwest": {
+        "lat": 1.338054069708498,
+        "lng": 103.9108206197085
+      }
+    }
+  },
+  "name": "Uncle Dough",
+  "place_id": "ChIJPRY30bYX2jERVaDDDLdf4XM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "YM",
+      "author_url": "https://www.google.com/maps/contrib/113113655798880983766/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmHq-SaB1orcFvoOve65hb5G1A01F_SJdrXVPy7Y_iskvj1aC5=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "They have a 100%+ markup on food delivery apps like Foodpanda. Literally 99% of other restaurants have at most a 25% markup on food delivery apps.\n\nNot sure why they have to be so special but I don’t recommend ordering from them as the quality of the food you will receive is not justified by the insane price.\n\nDo not buy from them.",
+      "time": 1660523524,
+      "translated": false
+    },
+    {
+      "author_name": "Putri Lyshanty",
+      "author_url": "https://www.google.com/maps/contrib/112431368670584880519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhjC3pYWNIkuSo9XHgQ4Ol7oW7TsnN2GwLPzYeHmovyoWJypXFZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739255899,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8350060423919411285",
+  "user_ratings_total": 2,
+  "vicinity": "11 Kaki Bukit Road 4"
+}

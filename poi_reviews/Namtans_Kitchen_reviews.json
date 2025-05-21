@@ -1,0 +1,46 @@
+{
+  "formatted_address": "5 Soon Lee St, Singapore 627607",
+  "geometry": {
+    "location": {
+      "lat": 1.3342486,
+      "lng": 103.6991658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335584680291502,
+        "lng": 103.7005144302915
+      },
+      "southwest": {
+        "lat": 1.332886719708498,
+        "lng": 103.6978164697085
+      }
+    }
+  },
+  "name": "Namtan's Kitchen",
+  "place_id": "ChIJPZ8pW38P2jERJMGfadVrMKk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yong Jian Rong",
+      "author_url": "https://www.google.com/maps/contrib/104663836323476662669/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXyZTY8BsRmE-R4FfNa6gQI39XeMgaWURrEQzOUl-3BfMUJA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Really delicious pad Thai, come try this if you're working in the Jurong industrial estate.\n\nNote: It is at number 5 Soon Lee Street's Kim San Leng coffee shop. Don't mix it up with the other coffee shop at number 3 Soon Lee Street.",
+      "time": 1663599242,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12191362755636216100",
+  "user_ratings_total": 1,
+  "vicinity": "5 Soon Lee Street"
+}

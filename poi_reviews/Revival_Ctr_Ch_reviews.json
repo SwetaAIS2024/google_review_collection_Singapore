@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3187881,
+      "lng": 103.8465574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320076230291502,
+        "lng": 103.8479264302915
+      },
+      "southwest": {
+        "lat": 1.317378269708498,
+        "lng": 103.8452284697085
+      }
+    }
+  },
+  "name": "Revival Ctr Ch",
+  "place_id": "ChIJzeh9Ed0Z2jER7Qi1yHWUSXQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Not a bus stop that was easiest to get to, and no shelter at all. It's the closest to Novena Square area that goes down the road, thus why I had to come here. I missed my bus because it came much faster than I could walk over, but it is what it is, nothing I could have controlled.",
+      "time": 1596987924,
+      "translated": false
+    },
+    {
+      "author_name": "Ethan",
+      "author_url": "https://www.google.com/maps/contrib/106615322550065666946/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbvJGrgjTnfPOyb-Yaq3wOdqdHJp-coFvXgrqnGGc-4yf_nA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568786490,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8379391815298910445",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

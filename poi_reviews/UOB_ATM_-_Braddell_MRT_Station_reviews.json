@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Lor 1 Toa Payoh, Braddell MRT Station, No. 379, Singapore 319757",
+  "geometry": {
+    "location": {
+      "lat": 1.3407081,
+      "lng": 103.8465185
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342026130291502,
+        "lng": 103.8478114802915
+      },
+      "southwest": {
+        "lat": 1.339328169708498,
+        "lng": 103.8451135197085
+      }
+    }
+  },
+  "name": "UOB ATM - Braddell MRT Station",
+  "place_id": "ChIJXa6S7Q4X2jERRX7NgIY0icc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Leon Low",
+      "author_url": "https://www.google.com/maps/contrib/109622445733582436209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfb91dzD14cysLeLk3xIbPvoC6nELseTF_A9tFuEI5kOffTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716446063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14378081037648232005",
+  "user_ratings_total": 1,
+  "vicinity": "Lorong 1 Toa Payoh, Braddell MRT Station, No. 379"
+}

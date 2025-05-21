@@ -1,0 +1,28 @@
+{
+  "formatted_address": "27 W Coast Hwy, Singapore 117867",
+  "geometry": {
+    "location": {
+      "lat": 1.283221,
+      "lng": 103.780681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284607330291502,
+        "lng": 103.7820756802915
+      },
+      "southwest": {
+        "lat": 1.281909369708498,
+        "lng": 103.7793777197085
+      }
+    }
+  },
+  "name": "AKA Car Rental LLP",
+  "place_id": "ChIJe5tgMakb2jERCaIqgVVz77Y",
+  "types": [
+    "car_rental",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13181881445413200393",
+  "vicinity": "27 West Coast Highway"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "159 Ang Mo Kio Ave 4, Singapore 560159",
+  "geometry": {
+    "location": {
+      "lat": 1.374789,
+      "lng": 103.8398767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375968880291502,
+        "lng": 103.8411440802915
+      },
+      "southwest": {
+        "lat": 1.373270919708498,
+        "lng": 103.8384461197085
+      }
+    }
+  },
+  "name": "159 AMK Economy Rice and Porridge",
+  "place_id": "ChIJvU0WwgUX2jERxGZV3ie-lu0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kon Yew Tan",
+      "author_url": "https://www.google.com/maps/contrib/104614478271892323739/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPwlPxHorp6UmeRwhOD0FX6I0knR9TnUCJYjf1IRnxMloO7g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very delicious and reasonable price",
+      "time": 1629771986,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17120080111938660036",
+  "user_ratings_total": 1,
+  "vicinity": "159 Ang Mo Kio Avenue 4, Singapore"
+}

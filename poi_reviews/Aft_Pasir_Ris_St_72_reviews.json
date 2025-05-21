@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38059,
+      "lng": 103.934959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381959580291502,
+        "lng": 103.9362670802915
+      },
+      "southwest": {
+        "lat": 1.379261619708498,
+        "lng": 103.9335691197085
+      }
+    }
+  },
+  "name": "Aft Pasir Ris St 72",
+  "place_id": "ChIJwRLdHJU92jERfgiqYfD_JbE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jay Kwek",
+      "author_url": "https://www.google.com/maps/contrib/105447490478090736883/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx70_gmZRfj-Zlixu9RvPUzt0cWV2tJ3-ooWlF5YvvSIWJ2zvk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569657938,
+      "translated": false
+    },
+    {
+      "author_name": "TJ Ma",
+      "author_url": "https://www.google.com/maps/contrib/105045265250023552863/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIR9UdrDEliIJ0147ZmSwrZeeURpQUKh-nf4uaJCV-f9iCDhjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1344442836,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12764890126747306110",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

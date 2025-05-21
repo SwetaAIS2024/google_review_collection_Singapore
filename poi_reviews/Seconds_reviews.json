@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Pandan Valley, #01-213, Singapore 597626",
+  "geometry": {
+    "location": {
+      "lat": 1.3204349,
+      "lng": 103.7789302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321892630291502,
+        "lng": 103.7802601302915
+      },
+      "southwest": {
+        "lat": 1.319194669708498,
+        "lng": 103.7775621697085
+      }
+    }
+  },
+  "name": "Seconds",
+  "place_id": "ChIJnXlaEG8b2jERVvyV4soIY4A",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9251247727027027030",
+  "vicinity": "2 Pandan Valley, #01-213"
+}

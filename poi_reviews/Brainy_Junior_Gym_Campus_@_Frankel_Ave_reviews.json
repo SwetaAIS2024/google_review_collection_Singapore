@@ -1,0 +1,72 @@
+{
+  "formatted_address": "69 Frankel Ave, Singapore 458197",
+  "geometry": {
+    "location": {
+      "lat": 1.3156586,
+      "lng": 103.9188682
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316984030291502,
+        "lng": 103.9201571302915
+      },
+      "southwest": {
+        "lat": 1.314286069708498,
+        "lng": 103.9174591697085
+      }
+    }
+  },
+  "name": "Brainy Junior Gym Campus @ Frankel Ave",
+  "place_id": "ChIJgUKdqKIX2jER_U2_0xrnrwY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Nichol Yeo",
+      "author_url": "https://www.google.com/maps/contrib/114774963012298853601/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBKWUFLq0HZ5qBygqQGO1CmYJst_3wmBLZ4BkExEYH7MIvIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601802132,
+      "translated": false
+    },
+    {
+      "author_name": "Joan Lee",
+      "author_url": "https://www.google.com/maps/contrib/107068412122827630203/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1OuQ4u4144qyXISgPPtiiftompDJQd0QdX32Q9-U7rZOiLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601802000,
+      "translated": false
+    },
+    {
+      "author_name": "Shambhavi Chetan",
+      "author_url": "https://www.google.com/maps/contrib/108901631079064343685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK4x_ypLuiaHUD80sW_CgZWXZc6V3bSWQ7SKCfXVQZysrHlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1595083642,
+      "translated": false
+    },
+    {
+      "author_name": "Vijay Kolli",
+      "author_url": "https://www.google.com/maps/contrib/111852461551781600125/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmbLP9w3IivVXgvb9btkFZzTfo7q8c3TjXZujb3TzGPzdrxp0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730263534,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=481857787559628285",
+  "user_ratings_total": 4,
+  "vicinity": "69 Frankel Avenue"
+}

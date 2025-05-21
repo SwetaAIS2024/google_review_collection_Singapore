@@ -1,0 +1,64 @@
+{
+  "formatted_address": "10 Buangkok View, Singapore 539747",
+  "geometry": {
+    "location": {
+      "lat": 1.3819603,
+      "lng": 103.8846758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383100180291502,
+        "lng": 103.8860428802915
+      },
+      "southwest": {
+        "lat": 1.380402219708498,
+        "lng": 103.8833449197085
+      }
+    }
+  },
+  "name": "Clinic B Pharmacy",
+  "place_id": "ChIJ6dntBUIW2jER4qNxHqmXLys",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Chiko Chika",
+      "author_url": "https://www.google.com/maps/contrib/112185582499309130980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1exSXaGZIxqPn-a7DdevO_j3pZSS1bGVqB55ykbII3tFCyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648016699,
+      "translated": false
+    },
+    {
+      "author_name": "jere chong",
+      "author_url": "https://www.google.com/maps/contrib/100470398128059872407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWORiMGTUWX-uB3knal7E2RyPCwvU9jd8DkvPwLp3xsrli8OU4j=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1626999745,
+      "translated": false
+    },
+    {
+      "author_name": "Tony Ng Hong Xiang",
+      "author_url": "https://www.google.com/maps/contrib/108670901986567547201/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsVZm1fVFVvJOdwirXaVassqnSJzdx4FaGA-e8D_kHCCcXOgiyCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607396203,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3111872620152333282",
+  "user_ratings_total": 3,
+  "vicinity": "10 Buangkok View"
+}

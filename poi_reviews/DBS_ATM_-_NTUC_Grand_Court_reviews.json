@@ -1,0 +1,65 @@
+{
+  "formatted_address": "131 Killiney Rd, Singapore 239571",
+  "geometry": {
+    "location": {
+      "lat": 1.2973375,
+      "lng": 103.8385362
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298646980291502,
+        "lng": 103.8399627302915
+      },
+      "southwest": {
+        "lat": 1.295949019708498,
+        "lng": 103.8372647697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Grand Court",
+  "place_id": "ChIJk0P_9xEZ2jERyoQAv2nnkqc",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Hooke Wando",
+      "author_url": "https://www.google.com/maps/contrib/105981886206949760154/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4AYp9SKodUSm8eRP9ts6ulDcvguJM8r7KAa56kbkfkyMseRWV=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "An ATM conveniently located right where you need it! Located within he NTUC Supermarket no less!",
+      "time": 1550318084,
+      "translated": false
+    },
+    {
+      "author_name": "Yoon",
+      "author_url": "https://www.google.com/maps/contrib/116021508851561680967/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8m1opIf5i5_nerP4ib2nx1w5rWJAt6jOMEGFi7S7KajGjRz3Z=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676375983,
+      "translated": false
+    },
+    {
+      "author_name": "NG JEREMY",
+      "author_url": "https://www.google.com/maps/contrib/113499544132594677971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJynJlKnUruvK7Nh4Wvd6J34tDTT8lCkoVWvJAuQMjIeEiHnTk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668412978,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12074967992295785674",
+  "user_ratings_total": 3,
+  "vicinity": "131 Killiney Road, Singapore"
+}

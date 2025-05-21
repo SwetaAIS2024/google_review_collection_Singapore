@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Science Park Rd, #01-15 CSIT Building, Singapore 117512",
+  "geometry": {
+    "location": {
+      "lat": 1.2861342,
+      "lng": 103.7825997
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287538180291502,
+        "lng": 103.7838569802915
+      },
+      "southwest": {
+        "lat": 1.284840219708498,
+        "lng": 103.7811590197085
+      }
+    }
+  },
+  "name": "365 Quick Bites @ mCube",
+  "place_id": "ChIJt3oqDAQb2jER7So-E_H_V7s",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13499539818941393645",
+  "vicinity": "30 Science Park Road, #01-15 CSIT Building"
+}

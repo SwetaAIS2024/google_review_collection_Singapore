@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5 Dover Cres, Singapore 130005",
+  "geometry": {
+    "location": {
+      "lat": 1.3040211,
+      "lng": 103.7827329
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305380380291502,
+        "lng": 103.7842518802915
+      },
+      "southwest": {
+        "lat": 1.302682419708498,
+        "lng": 103.7815539197085
+      }
+    }
+  },
+  "name": "Telok Blangah Dover Road RC",
+  "place_id": "ChIJIUgAEFwa2jER4Lul0kkIBKQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11818580435286735840",
+  "vicinity": "5 Dover Crescent, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3380254,
+      "lng": 103.9027537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339427730291502,
+        "lng": 103.9041401802915
+      },
+      "southwest": {
+        "lat": 1.336729769708498,
+        "lng": 103.9014422197085
+      }
+    }
+  },
+  "name": "Millipore Singapore Pte Ltd",
+  "place_id": "ChIJKcgZgOUX2jERuuR9OFbNV64",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12562735455771944122",
+  "vicinity": "Singapore"
+}

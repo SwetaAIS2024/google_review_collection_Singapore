@@ -1,0 +1,30 @@
+{
+  "formatted_address": "832 Jurong West Street 81, Singapore 640832",
+  "geometry": {
+    "location": {
+      "lat": 1.3441955,
+      "lng": 103.6949998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345549130291502,
+        "lng": 103.6963549302915
+      },
+      "southwest": {
+        "lat": 1.342851169708498,
+        "lng": 103.6936569697085
+      }
+    }
+  },
+  "name": "Matcha O’Clock",
+  "place_id": "ChIJrwD8wfwP2jERFvLTfY7mpMc",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14385876609398993430",
+  "vicinity": "832 Jurong West Street 81"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "20 Harbour Dr, Singapore 117612",
+  "geometry": {
+    "location": {
+      "lat": 1.2830834,
+      "lng": 103.7793376
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284350530291502,
+        "lng": 103.7806380302915
+      },
+      "southwest": {
+        "lat": 1.281652569708498,
+        "lng": 103.7779400697085
+      }
+    }
+  },
+  "name": "Marine Harvest Singapore Pte Ltd",
+  "place_id": "ChIJ1xK8Pqkb2jERcEmtzRwC934",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ob",
+      "author_url": "https://www.google.com/maps/contrib/105950063719171620251/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMHXRJ4Q9RfdiHaw9H1GSaimJaHJF0acOMzkXLIhvfvP8ep0Ub=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497342235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9148783490759477616",
+  "user_ratings_total": 1,
+  "vicinity": "20 Harbour Drive, Singapore"
+}

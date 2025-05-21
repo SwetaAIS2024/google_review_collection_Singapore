@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.411463,
+      "lng": 103.700058
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.412829730291502,
+        "lng": 103.7014433302915
+      },
+      "southwest": {
+        "lat": 1.410131769708498,
+        "lng": 103.6987453697085
+      }
+    }
+  },
+  "name": "Opp LP 173",
+  "place_id": "ChIJqa7yqdwN2jERKGJF3RZFhSU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Marshall123111",
+      "author_url": "https://www.google.com/maps/contrib/106704825619725808491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdLTH3oL6DOXGuJKkVptwBlPLPDDlREICQjdn7ci44mFr8XnFD=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "World famous Lamp post 173",
+      "time": 1708506633,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Chia",
+      "author_url": "https://www.google.com/maps/contrib/105744172257980026913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtgVaX3AejT0HKZJlGb5psg5jgIQ0XXVjke_CEQ2TeKoyqu7CG=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "This place is so ulu",
+      "time": 1661995500,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2703643115809759784",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

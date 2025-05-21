@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Marina Blvd, One Raffles Quay, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.2811761,
+      "lng": 103.8519494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282872830291502,
+        "lng": 103.8532611802915
+      },
+      "southwest": {
+        "lat": 1.280174869708498,
+        "lng": 103.8505632197085
+      }
+    }
+  },
+  "name": "ChemOne",
+  "place_id": "ChIJxdKNaQ4Z2jEREsyixjuBPUw",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5493689214197484562",
+  "vicinity": "8 Marina Boulevard, One Raffles Quay"
+}

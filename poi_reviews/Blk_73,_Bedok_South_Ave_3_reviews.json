@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31995,
+      "lng": 103.94417
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321311780291502,
+        "lng": 103.9455652802915
+      },
+      "southwest": {
+        "lat": 1.318613819708498,
+        "lng": 103.9428673197085
+      }
+    }
+  },
+  "name": "Blk 73, Bedok South Ave 3",
+  "place_id": "ChIJcREuxs4i2jER_edapHpOYyQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Joe Kerk",
+      "author_url": "https://www.google.com/maps/contrib/100692702623431280441/reviews",
+      "language": "en-US",
+      "original_language": "hi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVusfCJnk05a2soFe90TtFBZrwPcf-T0uoJ1hRYY8ojN9EwzZIk-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Tasty prata!",
+      "time": 1689856054,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2622025696710158333",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

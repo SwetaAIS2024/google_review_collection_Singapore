@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3420828,
+      "lng": 103.852701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343477580291502,
+        "lng": 103.8540530802915
+      },
+      "southwest": {
+        "lat": 1.340779619708498,
+        "lng": 103.8513551197085
+      }
+    }
+  },
+  "name": "Beatty Design and Technology Innovation Centre",
+  "place_id": "ChIJtSLFIwAX2jER0PMNVYErxWk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "SHIBU THOMAS",
+      "author_url": "https://www.google.com/maps/contrib/100183190430945398071/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeebg5GdIXvY27crKCAtSvjxfihZ-2hHeGtb7JNCrcqCbPuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722063479,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7621545778872185808",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

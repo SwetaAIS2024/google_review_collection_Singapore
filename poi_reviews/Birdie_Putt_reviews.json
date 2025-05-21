@@ -1,0 +1,52 @@
+{
+  "formatted_address": "9 Bukit Pasoh Rd, Singapore 089823",
+  "geometry": {
+    "location": {
+      "lat": 1.2787924,
+      "lng": 103.8407624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280152580291502,
+        "lng": 103.8421388302915
+      },
+      "southwest": {
+        "lat": 1.277454619708498,
+        "lng": 103.8394408697085
+      }
+    }
+  },
+  "name": "Birdie Putt",
+  "place_id": "ChIJNWxplG0Z2jER5uOFcshrwXY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lim Sai Khim",
+      "author_url": "https://www.google.com/maps/contrib/101950899903752793182/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWCdTdyaUIwRzHXigEFhDwe-aBQoSE0NvpdZNsMP3V9XEMMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1535953347,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Chan",
+      "author_url": "https://www.google.com/maps/contrib/108405194326271225648/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOJPQzv9UTItOhqhhgfxDDCVjmNy9gHac2ALTSgSfpN0-1Fw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502671407,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8557239275639661542",
+  "user_ratings_total": 2,
+  "vicinity": "9 Bukit Pasoh Road"
+}

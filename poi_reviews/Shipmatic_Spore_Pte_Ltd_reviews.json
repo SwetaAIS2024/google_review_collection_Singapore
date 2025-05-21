@@ -1,0 +1,41 @@
+{
+  "formatted_address": "581A Upper Changi Rd, Singapore 486993",
+  "geometry": {
+    "location": {
+      "lat": 1.3379223,
+      "lng": 103.9581595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339265330291502,
+        "lng": 103.9595117802915
+      },
+      "southwest": {
+        "lat": 1.336567369708498,
+        "lng": 103.9568138197085
+      }
+    }
+  },
+  "name": "Shipmatic S'pore Pte Ltd",
+  "place_id": "ChIJT6k5Aic92jERNxyIi8yltKI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Phước Hà",
+      "author_url": "https://www.google.com/maps/contrib/116352952554502898268/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVweICjKL7nStoRXmEjhhaiKaOT0ExHIA5g0Liy_TBRwLj0nQpnUQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1464340385,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11724178027885108279",
+  "user_ratings_total": 1,
+  "vicinity": "581A Upper Changi Road"
+}

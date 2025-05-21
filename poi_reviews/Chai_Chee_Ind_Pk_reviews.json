@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3225677,
+      "lng": 103.9223372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323947530291502,
+        "lng": 103.9237279802915
+      },
+      "southwest": {
+        "lat": 1.321249569708498,
+        "lng": 103.9210300197085
+      }
+    }
+  },
+  "name": "Chai Chee Ind Pk",
+  "place_id": "ChIJv80ROKwi2jER6PJX8_7BcGw",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Abang Rock",
+      "author_url": "https://www.google.com/maps/contrib/113611939405588901215/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9DxLGdicDJWaVQhZZqTOgmVEy0OqoST-n6F4XtG0SgIe3rw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Ok",
+      "time": 1607607215,
+      "translated": false
+    },
+    {
+      "author_name": "Ho Robert",
+      "author_url": "https://www.google.com/maps/contrib/105753813256061140265/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISKNaDJPL4j_tpBJO6JOSXnyS3hypJkFKvIeq0xWImYD17Iw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "This stop is in front of the vegetable market VIVA Industrial Park. Decathion Store is right here, next to Cai Shi Road, Cai Shi Neighborhood Store, NTUC Supermarket, and Baimei Supermarket are all nearby. A quite busy station, especially during commuting hours (including the opposite station)!",
+      "time": 1487298100,
+      "translated": true
+    },
+    {
+      "author_name": "Robert Marpaung",
+      "author_url": "https://www.google.com/maps/contrib/100444947833549601766/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUovk-miNQuuLR2CmXvWe1fKUKsB2VFbj4syYHO6_jVcD-w2Ug=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695643213,
+      "translated": false
+    },
+    {
+      "author_name": "Beng An Chan",
+      "author_url": "https://www.google.com/maps/contrib/101979347861720765727/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVyVE6CerXfXIfPqqod-y98QDKfaoQk77Ci75lcvUN-TG8fw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1465536722,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7813958654236291816",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

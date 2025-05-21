@@ -1,0 +1,56 @@
+{
+  "formatted_address": "10 Tampines Industrial Dr, #02-01, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3768804,
+      "lng": 103.9210942
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378403030291502,
+        "lng": 103.9223399802915
+      },
+      "southwest": {
+        "lat": 1.375705069708498,
+        "lng": 103.9196420197085
+      }
+    }
+  },
+  "name": "Pentex Pte Ltd",
+  "place_id": "ChIJJbcxkY0X2jERKSQzcn21Pyk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "wesley peter Muthukumaran",
+      "author_url": "https://www.google.com/maps/contrib/100961911532607079524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCvUtkIcYfjFML0z3Ih4BIT-TP_KhKcRiJPdYbshg1MB6llIw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The best and cheap wholesale and retail stationery items available here.",
+      "time": 1677935420,
+      "translated": false
+    },
+    {
+      "author_name": "Vijay Vijay",
+      "author_url": "https://www.google.com/maps/contrib/103572227036588227105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXErDW7zlcn_6BFuWE4uVFENZkgQa9bSee6EhbiH-gh_fmXHr5e=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very good",
+      "time": 1671754811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2972293829479310377",
+  "user_ratings_total": 2,
+  "vicinity": "10 Tampines Industrial Drive, #02-01"
+}

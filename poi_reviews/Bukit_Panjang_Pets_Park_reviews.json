@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Bukit Panjang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3727955,
+      "lng": 103.7764223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374045430291502,
+        "lng": 103.7775001802915
+      },
+      "southwest": {
+        "lat": 1.371347469708498,
+        "lng": 103.7748022197085
+      }
+    }
+  },
+  "name": "Bukit Panjang Pets Park",
+  "place_id": "ChIJ45gfTwAR2jERGLgHOXqPyn4",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Aw Jun Ming",
+      "author_url": "https://www.google.com/maps/contrib/106616329433028381955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNhgIa6GGcgohomjkGnvcihEK68t5dHLcotHFJxBTSaVgUxg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "New dog run with relatively taller grass with the occasional curious monkeys. Pretty quiet place for me and my dog.",
+      "time": 1742190612,
+      "translated": false
+    },
+    {
+      "author_name": "1grainofsand",
+      "author_url": "https://www.google.com/maps/contrib/114158755340781827163/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJaAxz2jF9s0H0gYw63KO1OcmywAQyFElJa5DVaWz1RvmKk8x3=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743425799,
+      "translated": false
+    },
+    {
+      "author_name": "Erwin Bolwidt",
+      "author_url": "https://www.google.com/maps/contrib/102498583501489528987/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY-Z57fhMYd9XWeGrbMfTOZj1imUpVvHhBOQmH6wbwcqr012kE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731812306,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9136272549180061720",
+  "user_ratings_total": 3,
+  "vicinity": ""
+}

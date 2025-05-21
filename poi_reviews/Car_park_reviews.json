@@ -1,0 +1,44 @@
+{
+  "formatted_address": "CM85+HC, 79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4163884,
+      "lng": 103.6585934
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417763730291502,
+        "lng": 103.6599183802915
+      },
+      "southwest": {
+        "lat": 1.415065769708498,
+        "lng": 103.6572204197085
+      }
+    }
+  },
+  "name": "Car park",
+  "place_id": "ChIJAYVbEgAN2jERgpKHArjSWO8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "nuur syeerah",
+      "author_url": "https://www.google.com/maps/contrib/115836119322127263644/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRBwVdmi1HWEAAMfVD_Srd4Cn2EUiX2KE0TdnpzW5-Zfvn23FwFQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "parking is expensive, it costs RM8 for 1 hour and 20 minutes, it's not interesting",
+      "time": 1731245865,
+      "translated": true
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17246766460773569154",
+  "user_ratings_total": 1,
+  "vicinity": "CM85+HC, Iskandar Puteri"
+}

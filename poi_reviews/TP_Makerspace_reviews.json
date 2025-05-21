@@ -1,0 +1,44 @@
+{
+  "formatted_address": "21 Tampines Ave 1, block 30, level 1, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.3441479,
+      "lng": 103.9323126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346169380291502,
+        "lng": 103.9335161302915
+      },
+      "southwest": {
+        "lat": 1.343471419708498,
+        "lng": 103.9308181697085
+      }
+    }
+  },
+  "name": "TP Makerspace",
+  "place_id": "ChIJJfnrGWo92jERkOZbTJ8HfG8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "John Martin",
+      "author_url": "https://www.google.com/maps/contrib/117076662221674333934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB0gRCzE4RMjw4V4z60aUKlwndyDEz6EOvcgtNX0TE-tSW8GvN=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "good place to turn ideas into reality, especially towards startup creation",
+      "time": 1517701899,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8033304216084407952",
+  "user_ratings_total": 1,
+  "vicinity": "21 Tampines Avenue 1, block 30, level 1"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "West Coast Drive Block 503 Food Centre #01-324, 503 West Coast Drive (S)120503, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3118335,
+      "lng": 103.7597094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313121980291502,
+        "lng": 103.7610760802915
+      },
+      "southwest": {
+        "lat": 1.310424019708498,
+        "lng": 103.7583781197085
+      }
+    }
+  },
+  "name": "Teo Seng Heng Sundry Goods Kiosk",
+  "place_id": "ChIJB0EbyZMa2jEROtUlM-XcSxs",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1966908539241092410",
+  "vicinity": "West Coast Drive Block 503 Food Centre #01-324, 503 West Coast Drive (S)120503"
+}

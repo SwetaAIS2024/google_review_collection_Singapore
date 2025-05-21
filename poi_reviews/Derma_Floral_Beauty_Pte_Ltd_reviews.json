@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Jurong Gateway Rd, #04-247 Blk 131, Singapore 600131",
+  "geometry": {
+    "location": {
+      "lat": 1.3345797,
+      "lng": 103.7401135
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335907730291502,
+        "lng": 103.7414441802915
+      },
+      "southwest": {
+        "lat": 1.333209769708498,
+        "lng": 103.7387462197085
+      }
+    }
+  },
+  "name": "Derma Floral Beauty Pte Ltd",
+  "place_id": "ChIJf-MYegUQ2jERDcuyqPSjiPg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tracey Chew",
+      "author_url": "https://www.google.com/maps/contrib/112663314953382261626/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0rueQjDmNuoZ2PX9CVQUFnZK2wsXvI6rqI3HCaENbJR4IF7s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648645785,
+      "translated": false
+    }
+  ],
+  "types": [
+    "beauty_salon",
+    "spa",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17908744189436414733",
+  "user_ratings_total": 1,
+  "vicinity": "Jurong Gateway Road, #04-247 Blk 131"
+}

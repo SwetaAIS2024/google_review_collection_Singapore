@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37603,
+      "lng": 103.880089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377377330291502,
+        "lng": 103.8814336302915
+      },
+      "southwest": {
+        "lat": 1.374679369708498,
+        "lng": 103.8787356697085
+      }
+    }
+  },
+  "name": "Hougang 1/Opp Blk 931a",
+  "place_id": "ChIJF0q60UQW2jERMDwWTIhqzrw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mohamed Fauzie Hj Asroff",
+      "author_url": "https://www.google.com/maps/contrib/102461191448480137501/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvumcFZySWGHR5b9dBdfqN7YlOFMsiQHznKl3k2qn4UhrTfGc=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546037675,
+      "translated": false
+    },
+    {
+      "author_name": "Iman Danial",
+      "author_url": "https://www.google.com/maps/contrib/117055044399638699018/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlA9BpgQtpz8Wbf-AKED0PsD5q3TZbBlneoX7U1dorcG-tIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530880824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13604928657957469232",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

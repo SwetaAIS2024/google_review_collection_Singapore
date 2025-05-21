@@ -1,0 +1,67 @@
+{
+  "formatted_address": "10 Airport Boulevard, #01-K9, Arrival Hall, Singapore Changi Airport, Terminal 4, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3384416,
+      "lng": 103.9836789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339945130291502,
+        "lng": 103.9846536802915
+      },
+      "southwest": {
+        "lat": 1.337247169708498,
+        "lng": 103.9819557197085
+      }
+    }
+  },
+  "name": "UOB ATM - Changi Airport T4 Arrival Hall",
+  "place_id": "ChIJASVbV4A92jERlfVIIUzIM0k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nuttapong S.",
+      "author_url": "https://www.google.com/maps/contrib/112154793911023531427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI08Y-KAlX6hSxZaDGzt3ZRd2wr4Z6wz9RI0vr8Qq4FiwBY-GM=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Always pleasure to be here, Singapore",
+      "time": 1694829244,
+      "translated": false
+    },
+    {
+      "author_name": "Ken Woodlands",
+      "author_url": "https://www.google.com/maps/contrib/113611267426468840247/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTiv8vUq3t336z17_mCx7E9-85RKeCWbpsbZS_MAlSQ4uKHTE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good location.",
+      "time": 1695228205,
+      "translated": false
+    },
+    {
+      "author_name": "KIM YIN YAPP",
+      "author_url": "https://www.google.com/maps/contrib/102659850870284931276/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEF-rRw6sdZhQ_XYKf3PAZYbq4TY1mMG1r0Vpwy78SnH1QsgJl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742283330,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5274779817882482069",
+  "user_ratings_total": 3,
+  "vicinity": "10 Airport Boulevard, #01-K9, Arrival Hall, Singapore Changi Airport, Terminal 4"
+}

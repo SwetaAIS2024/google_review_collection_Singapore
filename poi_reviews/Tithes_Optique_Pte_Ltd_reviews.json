@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326571,
+      "lng": 103.8775179
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327856930291502,
+        "lng": 103.8789581302915
+      },
+      "southwest": {
+        "lat": 1.325158969708498,
+        "lng": 103.8762601697085
+      }
+    }
+  },
+  "name": "Tithes Optique Pte Ltd",
+  "place_id": "ChIJQRZVLigY2jERN08WCiFNmUw",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5519527622617747255",
+  "vicinity": "Singapore"
+}

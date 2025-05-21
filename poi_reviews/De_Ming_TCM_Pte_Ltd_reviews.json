@@ -1,0 +1,31 @@
+{
+  "formatted_address": "235 New Bridge Rd, Singapore 059436",
+  "geometry": {
+    "location": {
+      "lat": 1.283302,
+      "lng": 103.842955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284711180291502,
+        "lng": 103.8442330302915
+      },
+      "southwest": {
+        "lat": 1.282013219708498,
+        "lng": 103.8415350697085
+      }
+    }
+  },
+  "name": "De Ming TCM Pte Ltd",
+  "place_id": "ChIJgw_AbHMZ2jER2FhL101cR_0",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18250657504336500952",
+  "vicinity": "235 New Bridge Road, Singapore"
+}

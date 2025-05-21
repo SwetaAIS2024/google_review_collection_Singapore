@@ -1,0 +1,52 @@
+{
+  "formatted_address": "38, Jln Melor, Ledang Heights, 79250 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4210457,
+      "lng": 103.6054322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422357680291502,
+        "lng": 103.6067427302915
+      },
+      "southwest": {
+        "lat": 1.419659719708498,
+        "lng": 103.6040447697085
+      }
+    }
+  },
+  "name": "Tanah Puteh",
+  "place_id": "ChIJ5f949jUL2jEREBBUDUOeZhQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Rozelinda Kemas",
+      "author_url": "https://www.google.com/maps/contrib/113596473627425197327/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7R1E4aOsZEYEWTlaauSU7p_i-hK5tsDZ86NMIBNWvDOsnNnEung=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1566715111,
+      "translated": false
+    },
+    {
+      "author_name": "Neffos Samsung",
+      "author_url": "https://www.google.com/maps/contrib/116017390183833566626/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK34imifaG5pwEmlIiZ_2dj0tawGD_2wpGcwTq8grwxBN5RTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564569431,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1470036339206656016",
+  "user_ratings_total": 2,
+  "vicinity": "38, Jalan Melor, Ledang Heights, Iskandar Puteri"
+}

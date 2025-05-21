@@ -1,0 +1,64 @@
+{
+  "formatted_address": "10 Lor 27A Geylang, Singapore 388107",
+  "geometry": {
+    "location": {
+      "lat": 1.3146803,
+      "lng": 103.8849005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316039680291502,
+        "lng": 103.8861952302915
+      },
+      "southwest": {
+        "lat": 1.313341719708498,
+        "lng": 103.8834972697085
+      }
+    }
+  },
+  "name": "Emmanuel House",
+  "place_id": "ChIJubhLfzsY2jERaAEImYDcpQE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Alvin Ng",
+      "author_url": "https://www.google.com/maps/contrib/107790349470382200872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcnKVCDoN91fR3FmM1uYOeQRUL7FUUMh9j0WLtjxDSQt1Q5g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Looking for Emmanuel",
+      "time": 1663044161,
+      "translated": false
+    },
+    {
+      "author_name": "Titus Wong",
+      "author_url": "https://www.google.com/maps/contrib/105068822234325981121/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz6MzCJtMwYvfM7-xkXdA4ou_2s_mCqETJGGAKPpYv4r1y_o5xWA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729477239,
+      "translated": false
+    },
+    {
+      "author_name": "judy tan",
+      "author_url": "https://www.google.com/maps/contrib/110115922728296229290/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDLj-AOSq5BXruKiFnxXSunUOtndmHTKIvP674n6hIJIwx=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508718106,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=118743410076549480",
+  "user_ratings_total": 3,
+  "vicinity": "10 Lorong 27A Geylang"
+}

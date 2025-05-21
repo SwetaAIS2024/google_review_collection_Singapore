@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2846667,
+      "lng": 103.8646418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285806750000001,
+        "lng": 103.8663217802915
+      },
+      "southwest": {
+        "lat": 1.28135415,
+        "lng": 103.8636238197085
+      }
+    }
+  },
+  "name": "Flower Field",
+  "place_id": "ChIJrRX4ewEZ2jERG9nxZhouuLk",
+  "types": [
+    "park",
+    "subpremise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da19017bf815ad:0xb9b82e1a66f1d91b",
+  "vicinity": "Singapore"
+}

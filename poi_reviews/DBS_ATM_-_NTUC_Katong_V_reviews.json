@@ -1,0 +1,57 @@
+{
+  "formatted_address": "30 E Coast Rd, Singapore 428751",
+  "geometry": {
+    "location": {
+      "lat": 1.30377,
+      "lng": 103.90291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305154630291502,
+        "lng": 103.9043332802915
+      },
+      "southwest": {
+        "lat": 1.302456669708498,
+        "lng": 103.9016353197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Katong V",
+  "place_id": "ChIJiZ_GzAEZ2jERyGTcC_IUKZ4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "* Kat *",
+      "author_url": "https://www.google.com/maps/contrib/111958477706304374583/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5JQonTwWKY9FShGukvPUGGPM9J4IJ6aj0dR-PtBH06PfmmwY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Super-convenient towards the back exit of FairPrice",
+      "time": 1631003892,
+      "translated": false
+    },
+    {
+      "author_name": "maRYANet",
+      "author_url": "https://www.google.com/maps/contrib/108084976571491333099/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN9KrPIV8hDF_Br0fFnDaaiTAeWBzxEVz-O43Q0Q2-LARUg6VP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "inside NTUC checkout counters",
+      "time": 1536369364,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11396663361851385032",
+  "user_ratings_total": 2,
+  "vicinity": "30 East Coast Road, Singapore"
+}

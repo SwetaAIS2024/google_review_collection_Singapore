@@ -1,0 +1,30 @@
+{
+  "formatted_address": "25 Pandan Cres, Singapore 128477",
+  "geometry": {
+    "location": {
+      "lat": 1.307191,
+      "lng": 103.757497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308377930291502,
+        "lng": 103.7589734302915
+      },
+      "southwest": {
+        "lat": 1.305679969708498,
+        "lng": 103.7562754697085
+      }
+    }
+  },
+  "name": "港香兰tcm",
+  "place_id": "ChIJO9PgXesa2jERGUZZf6Q1vO4",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17202683657275917849",
+  "vicinity": "25 Pandan Crescent, Singapore"
+}

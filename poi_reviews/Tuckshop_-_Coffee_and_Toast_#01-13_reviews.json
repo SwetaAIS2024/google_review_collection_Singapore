@@ -1,0 +1,44 @@
+{
+  "formatted_address": "73A Ayer Rajah Crescent, #01-13 Timbre+ One North, Singapore 139957",
+  "geometry": {
+    "location": {
+      "lat": 1.2974527,
+      "lng": 103.7876333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298731480291502,
+        "lng": 103.7890199802915
+      },
+      "southwest": {
+        "lat": 1.296033519708498,
+        "lng": 103.7863220197085
+      }
+    }
+  },
+  "name": "Tuckshop - Coffee & Toast (#01-13)",
+  "place_id": "ChIJofIJCAAb2jERj8YOVvUBDC8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tam Pham",
+      "author_url": "https://www.google.com/maps/contrib/108720904975740182228/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa4I334c-4mhbi9flw5JGMqVfkRMhUWLvZ3xZoXYyUqdZpYyvg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747782098,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3390086772725565071",
+  "user_ratings_total": 1,
+  "vicinity": "73A Ayer Rajah Crescent, #01-13 Timbre+ One North"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore, Unnamed Road",
+  "geometry": {
+    "location": {
+      "lat": 1.3411453,
+      "lng": 103.9961069
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342394530291502,
+        "lng": 103.9974256302915
+      },
+      "southwest": {
+        "lat": 1.339696569708498,
+        "lng": 103.9947276697085
+      }
+    }
+  },
+  "name": "T5",
+  "place_id": "ChIJLbJX-uw92jERt5HX_a7jBWw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ETHAN NATHANAEL WIDJAJA",
+      "author_url": "https://www.google.com/maps/contrib/105129622142240771275/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWeBWzB5XyFJPlu4mooblqr7Q-aJq6JDMTNxRBZVjdiZu5-l0o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Why is this a grocery store",
+      "time": 1740406293,
+      "translated": false
+    },
+    {
+      "author_name": "charin pantang",
+      "author_url": "https://www.google.com/maps/contrib/104975654449978303245/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_g3_G4TY0K-yzXy8A9d6p5Z5fNL_5zhtNGZecSS0soyBTCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740982462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7783877871702348215",
+  "user_ratings_total": 2,
+  "vicinity": "Unnamed Road"
+}

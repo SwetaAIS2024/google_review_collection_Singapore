@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Bukit Pasoh Rd, Majestic Hotel, Singapore 089845",
+  "geometry": {
+    "location": {
+      "lat": 1.279179,
+      "lng": 103.840465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280561080291502,
+        "lng": 103.8419091802915
+      },
+      "southwest": {
+        "lat": 1.277863119708498,
+        "lng": 103.8392112197085
+      }
+    }
+  },
+  "name": "Kmc Holdings",
+  "place_id": "ChIJ5Uqr8m0Z2jERENBetaoJEdc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15497178421550567440",
+  "vicinity": "31 Bukit Pasoh Road, Majestic Hotel"
+}

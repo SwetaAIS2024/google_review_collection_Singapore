@@ -1,0 +1,46 @@
+{
+  "formatted_address": "2 Adam Rd, Stall no 15, Singapore 289876",
+  "geometry": {
+    "location": {
+      "lat": 1.3241404,
+      "lng": 103.8141104
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325560580291502,
+        "lng": 103.8153626302915
+      },
+      "southwest": {
+        "lat": 1.322862619708498,
+        "lng": 103.8126646697085
+      }
+    }
+  },
+  "name": "Sin Chuan Huat Coffee Stall",
+  "place_id": "ChIJOddgeAAb2jERxY_SAvCquaY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Marcel T.F",
+      "author_url": "https://www.google.com/maps/contrib/110155471655373964749/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVp2ir4JBnX2rlSTIuqcnlk1LnO998C_pY2RzH9M3lGcFDkcCqoXw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Good coffee. Low prices. Very friendly staff.",
+      "time": 1725967863,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12013821428803735493",
+  "user_ratings_total": 1,
+  "vicinity": "2 Adam Road, Stall no 15, Singapore"
+}

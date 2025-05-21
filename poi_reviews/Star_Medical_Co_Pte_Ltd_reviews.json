@@ -1,0 +1,44 @@
+{
+  "formatted_address": "3 Upper Aljunied Link, Singapore 367902",
+  "geometry": {
+    "location": {
+      "lat": 1.335248,
+      "lng": 103.881764
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336653030291502,
+        "lng": 103.8830380802915
+      },
+      "southwest": {
+        "lat": 1.333955069708498,
+        "lng": 103.8803401197085
+      }
+    }
+  },
+  "name": "Star Medical Co Pte Ltd",
+  "place_id": "ChIJJzr0xI8X2jERtVpJqpnjxi0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Paul Myburgh",
+      "author_url": "https://www.google.com/maps/contrib/108600129910455165273/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHR_LzOGNI-YAjGfYZVWx4nC90mJ7Ie-MKhBUvbOBI5AOSAV1n=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Daniel of Star Medical always goes above and beyond to help his clients. Knowledgeable, practical, ethical and helpful! Always a great pleasure to do business with Star Medical!",
+      "time": 1624286267,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3298574026221902517",
+  "user_ratings_total": 1,
+  "vicinity": "3 Upper Aljunied Link, Singapore"
+}

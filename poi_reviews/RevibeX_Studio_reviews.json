@@ -1,0 +1,28 @@
+{
+  "formatted_address": "66 E Coast Rd, #07-03 The Flow, Singapore 428778",
+  "geometry": {
+    "location": {
+      "lat": 1.3049601,
+      "lng": 103.9039607
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306309080291502,
+        "lng": 103.9053096802915
+      },
+      "southwest": {
+        "lat": 1.303611119708498,
+        "lng": 103.9026117197085
+      }
+    }
+  },
+  "name": "RevibeX Studio",
+  "place_id": "ChIJLTWbXcsZ2jER5AWMKur1WNE",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15085077337962448356",
+  "vicinity": "66 East Coast Road, #07-03 The Flow"
+}

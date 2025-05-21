@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3205725,
+      "lng": 103.7428141
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321797330291502,
+        "lng": 103.7441351302915
+      },
+      "southwest": {
+        "lat": 1.319099369708498,
+        "lng": 103.7414371697085
+      }
+    }
+  },
+  "name": "Long Yuan Healthy Fish Meat Soup",
+  "place_id": "ChIJ5WWwr6Ua2jER6Ljh9BgevXQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Krysta Chan",
+      "author_url": "https://www.google.com/maps/contrib/110101119288754015727/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWePiv60XzOmx9UMNhiyN_8eu0iYU2785rRE2bDO6fjvu0MDLY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Fresh and fleshy slices of batang (mackerel) fish and tasty soup. Uncle is pleasant and quite fast. Although this is a hawker centre, it’s generally well maintained and the tables are nicely spaced out.",
+      "time": 1744971307,
+      "translated": false
+    },
+    {
+      "author_name": "Jesper Chan",
+      "author_url": "https://www.google.com/maps/contrib/102325967908341290936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpm5wavgRTXbWqJ-JJzg_8GEAtaONlVcZiG2w7VYEzUBb2DAM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Fantastic fish soup! I'm a regular over here. Umami bomb.",
+      "time": 1732420624,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8411912771534436584",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

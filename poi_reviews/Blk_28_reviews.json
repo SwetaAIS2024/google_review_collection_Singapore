@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2734871,
+      "lng": 103.8206463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274812130291502,
+        "lng": 103.8219711802915
+      },
+      "southwest": {
+        "lat": 1.272114169708498,
+        "lng": 103.8192732197085
+      }
+    }
+  },
+  "name": "Blk 28",
+  "place_id": "ChIJk7rccd8b2jERAXh46lqN2mE",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Sri Yati",
+      "author_url": "https://www.google.com/maps/contrib/117065241421422191079/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtddgF5XaDIfJd3PcoaPv2li-uZ6-KMtFJR7oRXX8XAZISXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746077497,
+      "translated": false
+    },
+    {
+      "author_name": "See Sok Lee",
+      "author_url": "https://www.google.com/maps/contrib/108719212383571438432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUOqTMR4sxH6fhEcSrVEaeEOAD0gBGZvyssglukp23T_wJJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547363735,
+      "translated": false
+    },
+    {
+      "author_name": "Ronald Lee",
+      "author_url": "https://www.google.com/maps/contrib/110058981611654862730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFYZuKXj0cHMMZElhPWjaO_8_6FRJFAUWtilgnXAPm5vPkf5QLZw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518771341,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7051103588222269441",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28533,
+      "lng": 103.8137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286631230291502,
+        "lng": 103.8150358302915
+      },
+      "southwest": {
+        "lat": 1.283933269708498,
+        "lng": 103.8123378697085
+      }
+    }
+  },
+  "name": "Opp Spring S'pore Bldg, Jln Bt Merah",
+  "place_id": "ChIJE7aExdMb2jER9AU0Rc77dck",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14516785837241533940",
+  "vicinity": "Singapore"
+}

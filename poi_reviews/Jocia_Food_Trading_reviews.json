@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Defu Lane 10, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3549668,
+      "lng": 103.892982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356323980291502,
+        "lng": 103.8943128802915
+      },
+      "southwest": {
+        "lat": 1.353626019708498,
+        "lng": 103.8916149197085
+      }
+    }
+  },
+  "name": "Jocia Food Trading",
+  "place_id": "ChIJvRv5bcgX2jERV7MUg3re0q8",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12669433319513174871",
+  "vicinity": "Defu Lane 10"
+}

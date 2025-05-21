@@ -1,0 +1,54 @@
+{
+  "formatted_address": "420A Northshore Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4182076,
+      "lng": 103.9008808
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419139780291502,
+        "lng": 103.9025833802915
+      },
+      "southwest": {
+        "lat": 1.416441819708498,
+        "lng": 103.8998854197085
+      }
+    }
+  },
+  "name": "Sea View",
+  "place_id": "ChIJvbKtZwAV2jERAChATPlZiOU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lia Istifaroh",
+      "author_url": "https://www.google.com/maps/contrib/107621003060906740374/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtDG-jYlnYTNgt17UVtfUv5aPoYWqPw_qjTgTdIt34rSnBPyR2GA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Very beautiful",
+      "time": 1745590817,
+      "translated": true
+    },
+    {
+      "author_name": "Eranga Sapumal",
+      "author_url": "https://www.google.com/maps/contrib/115866780107398865927/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCEUFxKQYxV46pEOvUB8ieSBQ8OewEKN03CPMv-w9TCoWUFYf6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720262487,
+      "translated": false
+    }
+  ],
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16539568558779148288",
+  "user_ratings_total": 2,
+  "vicinity": "420A Northshore Drive"
+}

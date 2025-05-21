@@ -1,0 +1,45 @@
+{
+  "formatted_address": "10 Anson Rd, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.275848,
+      "lng": 103.845971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277106280291502,
+        "lng": 103.8474360802915
+      },
+      "southwest": {
+        "lat": 1.274408319708498,
+        "lng": 103.8447381197085
+      }
+    }
+  },
+  "name": "Jmicron Llp",
+  "place_id": "ChIJJ1vrQxMZ2jERlFzx0l7dqvw",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Kris León",
+      "author_url": "https://www.google.com/maps/contrib/104437340781728136173/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCW4rFnbwZHMN1SNJr6ah2NIMvz_8giaWJqI8QU6jmPn0xRg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "This company is a fake job scammer company and doesn't exist in any of physical location. I personally veried this address.",
+      "time": 1491464286,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18206607842934348948",
+  "user_ratings_total": 1,
+  "vicinity": "10 Anson Road"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.363327,
+      "lng": 103.8739046
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364709430291502,
+        "lng": 103.8752265302915
+      },
+      "southwest": {
+        "lat": 1.362011469708498,
+        "lng": 103.8725285697085
+      }
+    }
+  },
+  "name": "Aft Phillips Ave",
+  "place_id": "ChIJyVQGqKwX2jERIzEnfu16_5Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "yang wenting",
+      "author_url": "https://www.google.com/maps/contrib/105050339589624401102/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAkmzr5E0hkmQZhWEj0szW2StSj6bj3_gbJVPri_QQ5QYsUc4JZQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "lesser cars",
+      "time": 1678154304,
+      "translated": false
+    },
+    {
+      "author_name": "Srinivasan Lakshminarayanan",
+      "author_url": "https://www.google.com/maps/contrib/105896983124210587500/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSMw8L5YO5uUHC8VwzoIyXayIwwRcP7Jl4ev2ZAxCPEVuCifha=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526645246,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10880550385192743203",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

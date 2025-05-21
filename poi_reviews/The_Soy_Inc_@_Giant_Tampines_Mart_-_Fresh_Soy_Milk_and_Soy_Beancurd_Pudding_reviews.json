@@ -1,0 +1,31 @@
+{
+  "formatted_address": "9 Tampines Street 32, #01-30, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.3541243,
+      "lng": 103.9604523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355768080291502,
+        "lng": 103.9619595802915
+      },
+      "southwest": {
+        "lat": 1.353070119708498,
+        "lng": 103.9592616197085
+      }
+    }
+  },
+  "name": "The Soy Inc @ Giant Tampines Mart - Fresh Soy Milk & Soy Beancurd Pudding",
+  "place_id": "ChIJ_UeIL3892jERAimMUQPP5fc",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17862911110194931970",
+  "vicinity": "9 Tampines Street 32, #01-30"
+}

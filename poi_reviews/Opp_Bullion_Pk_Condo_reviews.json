@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3925517,
+      "lng": 103.8370174
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393844780291502,
+        "lng": 103.8383164302915
+      },
+      "southwest": {
+        "lat": 1.391146819708498,
+        "lng": 103.8356184697085
+      }
+    }
+  },
+  "name": "Opp Bullion Pk Condo",
+  "place_id": "ChIJjzPizaQW2jERkizQbsLxgA0",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "ashima malik",
+      "author_url": "https://www.google.com/maps/contrib/100371287469957446589/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvaep0AJiokny53UJFhFcyMRm4XnXk40JJ6MFEL5EWnylUnYY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702710888,
+      "translated": false
+    },
+    {
+      "author_name": "Shermann Neo",
+      "author_url": "https://www.google.com/maps/contrib/110600184833885495888/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqJG9XHoyfijKE8uKEE9ms79fRdp3lRMH3CVQc7RQ5iM2VfK_T=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1649900199,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Lay Hoon",
+      "author_url": "https://www.google.com/maps/contrib/117338778201183347361/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLAN9ZewPhOPNeHtL_IYdhYM-k7XjvdZsX9ywW8_4erTyidA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607175924,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=973043336897113234",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

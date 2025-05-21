@@ -1,0 +1,30 @@
+{
+  "formatted_address": "123 Bukit Merah Vw, Singapore 151123",
+  "geometry": {
+    "location": {
+      "lat": 1.285527,
+      "lng": 103.822038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286613380291502,
+        "lng": 103.8236276802915
+      },
+      "southwest": {
+        "lat": 1.283915419708498,
+        "lng": 103.8209297197085
+      }
+    }
+  },
+  "name": "Koh Geok Choo @ Tan Geok Choo",
+  "place_id": "ChIJ7SABGX4Z2jER7D0qWPSLhPk",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17979649493937307116",
+  "vicinity": "123 Bukit Merah View"
+}

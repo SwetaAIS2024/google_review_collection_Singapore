@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314657,
+      "lng": 103.918983
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316016180291502,
+        "lng": 103.9203557302915
+      },
+      "southwest": {
+        "lat": 1.313318219708498,
+        "lng": 103.9176577697085
+      }
+    }
+  },
+  "name": "Bef Roseburn Ave",
+  "place_id": "ChIJX5fIZqYi2jERm2TjIZ9gL7A",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Wong Heekun",
+      "author_url": "https://www.google.com/maps/contrib/117695345601579798592/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtYpYnJp1zJPMoym8KLuYC_dPalMFw6HPa7wKF0Hu80geN9bQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740629234,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512326709,
+      "translated": false
+    },
+    {
+      "author_name": "Abidah Sean",
+      "author_url": "https://www.google.com/maps/contrib/107147507892389690193/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq1UBFCGlYqkW7mdflI05fepOtMq2Eldes_K5MjAS6UElPVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1426317293,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12695472111165334683",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

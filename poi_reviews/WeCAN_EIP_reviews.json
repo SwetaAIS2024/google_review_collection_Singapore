@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5 Ang Mo Kio Ave 10, Singapore 569739",
+  "geometry": {
+    "location": {
+      "lat": 1.3591349,
+      "lng": 103.8541539
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360340180291502,
+        "lng": 103.8556660302915
+      },
+      "southwest": {
+        "lat": 1.357642219708498,
+        "lng": 103.8529680697085
+      }
+    }
+  },
+  "name": "WeCAN EIP",
+  "place_id": "ChIJm-2LYhsX2jERTxclWQ9mRkY",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5063847047130847055",
+  "vicinity": "5 Ang Mo Kio Avenue 10"
+}

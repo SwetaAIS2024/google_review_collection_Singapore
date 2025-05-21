@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Upper Bukit Timah Rd, 500, Singapore 678106",
+  "geometry": {
+    "location": {
+      "lat": 1.3624248,
+      "lng": 103.7676386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363784980291502,
+        "lng": 103.7690472802915
+      },
+      "southwest": {
+        "lat": 1.361087019708498,
+        "lng": 103.7663493197085
+      }
+    }
+  },
+  "name": "Christian Fellowship Church",
+  "place_id": "ChIJmSDQOJ0R2jER1sxIrCRy8W4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dawt Mi",
+      "author_url": "https://www.google.com/maps/contrib/110413722947962911351/reviews",
+      "language": "en-US",
+      "original_language": "mi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX71ETyyBLdQfkZR33QahUrSqDAFPLv7Q3-yBrM-7rQsQPJgtDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Hello kei zg rat Ka duh ve",
+      "time": 1693029574,
+      "translated": true
+    },
+    {
+      "author_name": "Jason Michael",
+      "author_url": "https://www.google.com/maps/contrib/115681696811545832209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnz4D1olEWw3o1-ZuKk8mzCil-MGrtFI_6xb-DzSoCJRQJKtzIxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1719222561,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7994296315394182358",
+  "user_ratings_total": 2,
+  "vicinity": "Upper Bukit Timah Road, 500"
+}

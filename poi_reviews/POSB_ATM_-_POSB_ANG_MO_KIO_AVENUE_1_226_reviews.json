@@ -1,0 +1,65 @@
+{
+  "formatted_address": "226G Ang Mo Kio Ave 1, #01-687, Singapore 567226",
+  "geometry": {
+    "location": {
+      "lat": 1.366851,
+      "lng": 103.839876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368544380291502,
+        "lng": 103.8410111302915
+      },
+      "southwest": {
+        "lat": 1.365846419708498,
+        "lng": 103.8383131697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB ANG MO KIO AVENUE 1/226",
+  "place_id": "ChIJYQ98lcsX2jERHVGpaNr4lGk",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Lai Junhao",
+      "author_url": "https://www.google.com/maps/contrib/101858970390305574361/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmlH4OXXwHE-bzJfuw60Aj2XHYkXVaYfQQDqVuJakpW17NoAsv=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "ATM",
+      "time": 1510211337,
+      "translated": false
+    },
+    {
+      "author_name": "Sathishkumar Palanivelu",
+      "author_url": "https://www.google.com/maps/contrib/104976239299312092675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsSciFalgkBKYKSA570J29InrSEPdTFEz9vgvJg9KwTDynIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605085829,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Shine",
+      "author_url": "https://www.google.com/maps/contrib/101897068898465635453/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVO6kLCCEvUZ6EyEj-W6j_qvxapUw-Jgkw-YRdQm9nJDiPg6z9=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1594525118,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7607979287478096157",
+  "user_ratings_total": 3,
+  "vicinity": "226G Ang Mo Kio Avenue 1, #01-687"
+}

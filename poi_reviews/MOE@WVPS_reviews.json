@@ -1,0 +1,28 @@
+{
+  "formatted_address": "31 Senja Rd, Singapore 677742",
+  "geometry": {
+    "location": {
+      "lat": 1.3832029,
+      "lng": 103.7602673
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384699680291502,
+        "lng": 103.7618063302915
+      },
+      "southwest": {
+        "lat": 1.382001719708498,
+        "lng": 103.7591083697085
+      }
+    }
+  },
+  "name": "MOE@WVPS",
+  "place_id": "ChIJf5VcKtYR2jERKM7qrBJH1NQ",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15335960776639434280",
+  "vicinity": "31 Senja Road, Singapore"
+}

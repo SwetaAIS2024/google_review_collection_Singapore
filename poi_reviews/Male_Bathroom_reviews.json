@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4219824,
+      "lng": 103.7622041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423498930291502,
+        "lng": 103.7635298802915
+      },
+      "southwest": {
+        "lat": 1.420800969708498,
+        "lng": 103.7608319197085
+      }
+    }
+  },
+  "name": "Male Bathroom",
+  "place_id": "ChIJVVVRlUcS2jEReyN0az_dHmE",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6998274135435780987",
+  "vicinity": "Singapore"
+}

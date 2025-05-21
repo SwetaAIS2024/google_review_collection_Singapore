@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Mohamed Ali Ln, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2827387,
+      "lng": 103.8458368
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284092630291502,
+        "lng": 103.8471886802915
+      },
+      "southwest": {
+        "lat": 1.281394669708498,
+        "lng": 103.8444907197085
+      }
+    }
+  },
+  "name": "Strada",
+  "place_id": "ChIJt_0KRxsZ2jEROh3HCTlf2_A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Giony",
+      "author_url": "https://www.google.com/maps/contrib/108252308686057250524/reviews",
+      "language": "en-US",
+      "original_language": "is",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi4G-zOkHgk6nrZNKabDnJzobd6sMhWvAc11CR2JcXCMiaN7YU-A=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "FATASTICS",
+      "time": 1549730695,
+      "translated": true
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17355570287584156986",
+  "user_ratings_total": 1,
+  "vicinity": "Mohamed Ali Lane"
+}

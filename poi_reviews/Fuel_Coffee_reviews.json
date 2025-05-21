@@ -1,0 +1,30 @@
+{
+  "formatted_address": "213 Henderson Rd, #01-05, Singapore 159553",
+  "geometry": {
+    "location": {
+      "lat": 1.281107,
+      "lng": 103.8187986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282399580291502,
+        "lng": 103.8199572302915
+      },
+      "southwest": {
+        "lat": 1.279701619708498,
+        "lng": 103.8172592697085
+      }
+    }
+  },
+  "name": "Fuel Coffee",
+  "place_id": "ChIJq_JvoNcb2jER0JXuory7Tnc",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8597015157558646224",
+  "vicinity": "213 Henderson Road, #01-05, Singapore"
+}

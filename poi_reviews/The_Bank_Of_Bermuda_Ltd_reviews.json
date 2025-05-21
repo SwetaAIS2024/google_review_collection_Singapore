@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2838533,
+      "lng": 103.8519697
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285170530291502,
+        "lng": 103.8535781302915
+      },
+      "southwest": {
+        "lat": 1.282472569708498,
+        "lng": 103.8508801697085
+      }
+    }
+  },
+  "name": "The Bank Of Bermuda Ltd",
+  "place_id": "ChIJZ-Pntg4Z2jERvpd_8_Ue494",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16060714737834366910",
+  "vicinity": "Singapore"
+}

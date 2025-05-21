@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Flora Rd, Azalea Park, Singapore 509727",
+  "geometry": {
+    "location": {
+      "lat": 1.36052,
+      "lng": 103.9627509
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362124430291502,
+        "lng": 103.9640106302915
+      },
+      "southwest": {
+        "lat": 1.359426469708498,
+        "lng": 103.9613126697085
+      }
+    }
+  },
+  "name": "B coffee",
+  "place_id": "ChIJsxuPwAU92jER7ryif7EJBk4",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5622191842773875950",
+  "vicinity": "Flora Road, Azalea Park"
+}

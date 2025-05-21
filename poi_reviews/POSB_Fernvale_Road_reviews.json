@@ -1,0 +1,29 @@
+{
+  "formatted_address": "437 Fernvale Rd, #01-K2, Singapore 790437",
+  "geometry": {
+    "location": {
+      "lat": 1.392341,
+      "lng": 103.876248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393717880291502,
+        "lng": 103.8776053802915
+      },
+      "southwest": {
+        "lat": 1.391019919708498,
+        "lng": 103.8749074197085
+      }
+    }
+  },
+  "name": "POSB Fernvale Road",
+  "place_id": "ChIJn8kNJXsW2jERkiOoDrlLSSE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2398531534738432914",
+  "vicinity": "437 Fernvale Road, #01-K2"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Senja Rd, Singapore 677742",
+  "geometry": {
+    "location": {
+      "lat": 1.383117,
+      "lng": 103.7602123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384599780291502,
+        "lng": 103.7618933302915
+      },
+      "southwest": {
+        "lat": 1.381901819708498,
+        "lng": 103.7591953697085
+      }
+    }
+  },
+  "name": "孩子疫苗接种地址",
+  "place_id": "ChIJZ0e-JQAR2jERyHXU6x2fhvc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17836118325106865608",
+  "vicinity": "31 Senja Road, Singapore"
+}

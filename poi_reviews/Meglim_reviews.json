@@ -1,0 +1,30 @@
+{
+  "formatted_address": "8 Temasek Blvd, Singapore 038988",
+  "geometry": {
+    "location": {
+      "lat": 1.2951927,
+      "lng": 103.8595185
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296437030291502,
+        "lng": 103.8608385302915
+      },
+      "southwest": {
+        "lat": 1.293739069708498,
+        "lng": 103.8581405697085
+      }
+    }
+  },
+  "name": "Meglim",
+  "place_id": "ChIJk97FAq8Z2jERzDmk7FaUn3U",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8475656124792846796",
+  "vicinity": "8 Temasek Boulevard"
+}

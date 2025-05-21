@@ -1,0 +1,67 @@
+{
+  "formatted_address": "1 Garden Ave, Singapore 099621",
+  "geometry": {
+    "location": {
+      "lat": 1.2569498,
+      "lng": 103.820641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257845930291502,
+        "lng": 103.8224196802915
+      },
+      "southwest": {
+        "lat": 1.255147969708498,
+        "lng": 103.8197217197085
+      }
+    }
+  },
+  "name": "DBS ATM - Sentosa Ferry Terminal Station",
+  "place_id": "ChIJq8-JwGMb2jERcpXVCR0a4Z8",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Hen pham van",
+      "author_url": "https://www.google.com/maps/contrib/115651642079157526260/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSEalbemBcGL3f7tFEFaA_BW5-sGVMbIKJzCjnVnsZ1_sUU-8A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Can not find the Atm.",
+      "time": 1604988422,
+      "translated": false
+    },
+    {
+      "author_name": "Sonny Alferdo",
+      "author_url": "https://www.google.com/maps/contrib/106618786103186375095/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTPlGVU-xf6UeTL5jdHgFBd_LklErntIMzeuHJ_n9UHcw1xCF3qQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The food place is the best of all",
+      "time": 1701745865,
+      "translated": true
+    },
+    {
+      "author_name": "sharique akhter",
+      "author_url": "https://www.google.com/maps/contrib/109295700570540747998/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKEaDsF0vi5JIP6XKDB7LzvQsUnalDPXICKsw2Ms6ln1nI62CN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674395792,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11520518033811805554",
+  "user_ratings_total": 3,
+  "vicinity": "1 Garden Avenue"
+}

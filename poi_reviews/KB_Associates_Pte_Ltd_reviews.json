@@ -1,0 +1,73 @@
+{
+  "formatted_address": "9 Tampines Grande, #02-00 Asia Green, Singapore 528735",
+  "geometry": {
+    "location": {
+      "lat": 1.3557701,
+      "lng": 103.9414999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356989580291502,
+        "lng": 103.9429266302915
+      },
+      "southwest": {
+        "lat": 1.354291619708498,
+        "lng": 103.9402286697085
+      }
+    }
+  },
+  "name": "KB Associates Pte Ltd",
+  "place_id": "ChIJ57Sa-OM82jERYx362TYrZx4",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Rajiv Pandey",
+      "author_url": "https://www.google.com/maps/contrib/116559914957060982592/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFgw6oPZXCSoKoc4tK6QTmZQrUrnkdYC5h9pNrHngEP1TGuQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Training is good",
+      "time": 1541614231,
+      "translated": false
+    },
+    {
+      "author_name": "Oswald Viana",
+      "author_url": "https://www.google.com/maps/contrib/115155130779676191634/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH5albDX8Oj5eCpVxRCyOGMVFqcCWDpx3H-EmCZWOJ8LSx5HA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582645043,
+      "translated": false
+    },
+    {
+      "author_name": "Diana Aprilia Official",
+      "author_url": "https://www.google.com/maps/contrib/100492887981844196569/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRUtpwy0i_gpQUwa6HncBFMMyzzizhF3TMDLk_GfL3qN5OPi8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513906226,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Emmanuel",
+      "author_url": "https://www.google.com/maps/contrib/111439840508127734423/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeMqTeL47X1gLrX9Y9TErzb_52GNQ_q870YsKBpT9kTox4250=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1474604874,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2190767258324311395",
+  "user_ratings_total": 4,
+  "vicinity": "9 Tampines Grande, #02-00 Asia Green"
+}

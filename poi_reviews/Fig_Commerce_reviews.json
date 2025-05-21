@@ -1,0 +1,29 @@
+{
+  "formatted_address": "118 Aljunied Ave 2, Singapore 380118",
+  "geometry": {
+    "location": {
+      "lat": 1.3201264,
+      "lng": 103.8872513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321366130291502,
+        "lng": 103.8886744802915
+      },
+      "southwest": {
+        "lat": 1.318668169708498,
+        "lng": 103.8859765197085
+      }
+    }
+  },
+  "name": "Fig Commerce",
+  "place_id": "ChIJyRX7uyMY2jERKBnRAZpGhXg",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8684425083723258152",
+  "vicinity": "118 Aljunied Avenue 2"
+}

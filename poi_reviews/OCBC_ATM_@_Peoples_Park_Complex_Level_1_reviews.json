@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Road,, 151 new bridge road, People's Park Complex, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2838027,
+      "lng": 103.842751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285124330291502,
+        "lng": 103.8441365802915
+      },
+      "southwest": {
+        "lat": 1.282426369708498,
+        "lng": 103.8414386197085
+      }
+    }
+  },
+  "name": "OCBC ATM @ People's Park Complex (Level 1)",
+  "place_id": "ChIJO1N8ZXMZ2jERPT-c4k79gS0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3279180518953598781",
+  "vicinity": "1 Park Road,, 151 new bridge road, People's Park Complex"
+}

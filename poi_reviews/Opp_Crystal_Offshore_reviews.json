@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.300793,
+      "lng": 103.657478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302163030291502,
+        "lng": 103.6588472302915
+      },
+      "southwest": {
+        "lat": 1.299465069708498,
+        "lng": 103.6561492697085
+      }
+    }
+  },
+  "name": "Opp Crystal Offshore",
+  "place_id": "ChIJwy79uMcF2jERQ1zoB1KoaHA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8099909000099290179",
+  "vicinity": "Singapore"
+}

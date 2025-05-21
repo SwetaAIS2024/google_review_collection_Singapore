@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303528,
+      "lng": 103.823586
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304876280291502,
+        "lng": 103.8249608802915
+      },
+      "southwest": {
+        "lat": 1.302178319708498,
+        "lng": 103.8222629197085
+      }
+    }
+  },
+  "name": "Orchard Blvd Stn Exit 1",
+  "place_id": "ChIJzdMAJYoZ2jERiPqigbfsT6Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alex SP (Alex)",
+      "author_url": "https://www.google.com/maps/contrib/103331270735393175501/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLqg2D0q7mULmAdHihCaPjU4mwUPDNZpjQDuUrQQ9AMIEyAqR75g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Should have been permanent installed next to Hotel Jen instead,  more convenient to pedestrians",
+      "time": 1566372578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11984057406354291336",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

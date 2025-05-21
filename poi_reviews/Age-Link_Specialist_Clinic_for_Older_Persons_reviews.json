@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #17 Medical Centre, 16, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3051039,
+      "lng": 103.8354295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306046530291502,
+        "lng": 103.8366430802915
+      },
+      "southwest": {
+        "lat": 1.303348569708498,
+        "lng": 103.8339451197085
+      }
+    }
+  },
+  "name": "Age-Link Specialist Clinic for Older Persons",
+  "place_id": "ChIJEW8RUpIZ2jERN25-PNc84qw",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12457586414390767159",
+  "vicinity": "3 Mount Elizabeth, #17 Medical Centre, 16"
+}

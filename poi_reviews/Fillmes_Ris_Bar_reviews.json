@@ -1,0 +1,30 @@
+{
+  "formatted_address": "51 Pioneer Sector 1, Singapore 628437",
+  "geometry": {
+    "location": {
+      "lat": 1.3003729,
+      "lng": 103.6554466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301660030291502,
+        "lng": 103.6567227802915
+      },
+      "southwest": {
+        "lat": 1.298962069708498,
+        "lng": 103.6540248197085
+      }
+    }
+  },
+  "name": "Fillmes Ris Bar",
+  "place_id": "ChIJdxO0PcQF2jERSDao4-lC758",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11524503543778653768",
+  "vicinity": "51 Pioneer Sector 1"
+}

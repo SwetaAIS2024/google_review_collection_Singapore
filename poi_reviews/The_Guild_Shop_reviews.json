@@ -1,0 +1,30 @@
+{
+  "formatted_address": "252 Jurong East St 24, #01-111, Singapore 600252",
+  "geometry": {
+    "location": {
+      "lat": 1.3435811,
+      "lng": 103.7383569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344751230291502,
+        "lng": 103.7399435302915
+      },
+      "southwest": {
+        "lat": 1.342053269708498,
+        "lng": 103.7372455697085
+      }
+    }
+  },
+  "name": "The Guild Shop",
+  "place_id": "ChIJ8z-PWm8R2jERLMuGoXxa6vY",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17792132769212975916",
+  "vicinity": "252 Jurong East Street 24, #01-111"
+}

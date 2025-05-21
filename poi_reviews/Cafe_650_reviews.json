@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore 510650",
+  "geometry": {
+    "location": {
+      "lat": 1.3786767,
+      "lng": 103.9380749
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379965330291502,
+        "lng": 103.9393755802915
+      },
+      "southwest": {
+        "lat": 1.377267369708498,
+        "lng": 103.9366776197085
+      }
+    }
+  },
+  "name": "Cafe 650",
+  "place_id": "ChIJX-gaMAA92jERhzcTLoKMDVM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sam -",
+      "author_url": "https://www.google.com/maps/contrib/103661760051470019913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrqFN-CKN0vs7TZzKly3NkRQPPp5AXOhxP7V4nuPuXy1IfpHhl=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Great cocktails in a very down-to-earth setting",
+      "time": 1745816265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5984593970591905671",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "391A Orchard Rd, Ngee Ann City, Singapore 238873",
+  "geometry": {
+    "location": {
+      "lat": 1.3026716,
+      "lng": 103.8343967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303838930291502,
+        "lng": 103.8357138302915
+      },
+      "southwest": {
+        "lat": 1.301140969708498,
+        "lng": 103.8330158697085
+      }
+    }
+  },
+  "name": "Satellite Paris",
+  "place_id": "ChIJAShCtCsZ2jERqBTKWTI7_rY",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13186041846428210344",
+  "vicinity": "391A Orchard Road, Ngee Ann City"
+}

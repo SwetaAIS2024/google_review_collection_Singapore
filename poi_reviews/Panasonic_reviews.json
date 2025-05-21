@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3214101,
+      "lng": 103.9278418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322710930291502,
+        "lng": 103.9291535302915
+      },
+      "southwest": {
+        "lat": 1.320012969708498,
+        "lng": 103.9264555697085
+      }
+    }
+  },
+  "name": "Panasonic",
+  "place_id": "ChIJaWkfirEi2jERhAn9Hcl3_I0",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Dinosaur刻鍊（恐龙）",
+      "author_url": "https://www.google.com/maps/contrib/114816112825512118340/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZuCFegFj2_igtiSpj_BdBapFdZZYgKSs0dJvaUZFn1Bd0bkCs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "factory",
+      "time": 1535875640,
+      "translated": true
+    },
+    {
+      "author_name": "Suhana Basal",
+      "author_url": "https://www.google.com/maps/contrib/111193078970503262162/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEzimyd7SjFHygjhv-ck-v-O_xKb2CK5wK_ZBcQJFpZnMQAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521442961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10231184159154178436",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

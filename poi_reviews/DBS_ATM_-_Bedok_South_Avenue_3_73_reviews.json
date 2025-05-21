@@ -1,0 +1,29 @@
+{
+  "formatted_address": "72 Bedok South Ave 3, #01-452a, Singapore 460072",
+  "geometry": {
+    "location": {
+      "lat": 1.3203432,
+      "lng": 103.9436754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321563380291502,
+        "lng": 103.9450282802915
+      },
+      "southwest": {
+        "lat": 1.318865419708498,
+        "lng": 103.9423303197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bedok South Avenue 3/73",
+  "place_id": "ChIJSVj3bqwj2jERJMllWbAVdrU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13075662415275084068",
+  "vicinity": "72 Bedok South Avenue 3, #01-452a"
+}

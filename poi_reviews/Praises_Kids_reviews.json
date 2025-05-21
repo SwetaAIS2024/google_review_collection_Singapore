@@ -1,0 +1,28 @@
+{
+  "formatted_address": "42 Joo Chiat Ln, Singapore 428102",
+  "geometry": {
+    "location": {
+      "lat": 1.31234,
+      "lng": 103.9034786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313801580291502,
+        "lng": 103.9048130802915
+      },
+      "southwest": {
+        "lat": 1.311103619708498,
+        "lng": 103.9021151197085
+      }
+    }
+  },
+  "name": "Praises Kids",
+  "place_id": "ChIJVRoGBA4Y2jERoZsOM6HmwMs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14681988365248535457",
+  "vicinity": "42 Joo Chiat Lane, Singapore"
+}

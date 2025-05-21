@@ -1,0 +1,31 @@
+{
+  "formatted_address": "8 Burn Rd, #10-16, Singapore 369977",
+  "geometry": {
+    "location": {
+      "lat": 1.3358564,
+      "lng": 103.885446
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336988380291502,
+        "lng": 103.8866119302915
+      },
+      "southwest": {
+        "lat": 1.334290419708498,
+        "lng": 103.8839139697085
+      }
+    }
+  },
+  "name": "RAINBOW CHING",
+  "place_id": "ChIJ93byqMAX2jERYfuwtHZjD2U",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7282148483970169697",
+  "vicinity": "8 Burn Road, #10-16, Singapore"
+}

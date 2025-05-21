@@ -1,0 +1,45 @@
+{
+  "formatted_address": "124 Lor 1 Toa Payoh, Singapore 310124",
+  "geometry": {
+    "location": {
+      "lat": 1.3386513,
+      "lng": 103.8446042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339930030291502,
+        "lng": 103.8459450802915
+      },
+      "southwest": {
+        "lat": 1.337232069708498,
+        "lng": 103.8432471197085
+      }
+    }
+  },
+  "name": "Poh Fok Jewellery Pte Ltd",
+  "place_id": "ChIJaSHMeEIX2jERpr2RroGLXHY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kate Chen",
+      "author_url": "https://www.google.com/maps/contrib/110374417271152731015/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiDUITRQ1vfX0g4CpqSKQDcrSLhE2tvufUl12VHJU5358eZg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Neighbourhood jewellery shop. Located next to a wet market and food centre. Take note they close rather early at 5pm.",
+      "time": 1732622622,
+      "translated": false
+    }
+  ],
+  "types": [
+    "department_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8528845183428705702",
+  "user_ratings_total": 1,
+  "vicinity": "124 Lorong 1 Toa Payoh, Singapore"
+}

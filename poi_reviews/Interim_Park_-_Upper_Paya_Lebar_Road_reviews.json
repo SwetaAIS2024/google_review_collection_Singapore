@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3435447,
+      "lng": 103.8824743
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345035180291502,
+        "lng": 103.8838649802915
+      },
+      "southwest": {
+        "lat": 1.342337219708498,
+        "lng": 103.8811670197085
+      }
+    }
+  },
+  "name": "Interim Park - Upper Paya Lebar Road",
+  "place_id": "ChIJ92ZXs5cX2jERr5G79EbqDXQ",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8362597673571422639",
+  "vicinity": "Singapore"
+}

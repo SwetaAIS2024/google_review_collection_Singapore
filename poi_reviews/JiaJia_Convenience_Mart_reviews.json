@@ -1,0 +1,58 @@
+{
+  "formatted_address": "443 Clementi Ave 3, #01-77, Singapore 120443",
+  "geometry": {
+    "location": {
+      "lat": 1.3143676,
+      "lng": 103.7642132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315681980291502,
+        "lng": 103.7656472802915
+      },
+      "southwest": {
+        "lat": 1.312984019708498,
+        "lng": 103.7629493197085
+      }
+    }
+  },
+  "name": "JiaJia Convenience Mart",
+  "place_id": "ChIJdQflfIUb2jERDMEeIEWXggw",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Alen Wong",
+      "author_url": "https://www.google.com/maps/contrib/109054029062559750435/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjC0XwBt2J4N_Guk0Kl6aU2h51h6CeB1lFneqIoTjFFtxK8QJE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "9 months ago",
+      "text": "Fraudulent mart, marked the price of Coke at 1.5, but asked me to pay 1.7",
+      "time": 1723855425,
+      "translated": false
+    },
+    {
+      "author_name": "make up",
+      "author_url": "https://www.google.com/maps/contrib/103933653253783674590/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYpktqxmF4a37A203mMJnqhGXHIba1xVSojXRXESpkwwIRnA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The owner of this shop will sell expired wine and snacks. Please be careful.",
+      "time": 1704070346,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=901449198574944524",
+  "user_ratings_total": 2,
+  "vicinity": "443 Clementi Avenue 3, #01-77"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.376285,
+      "lng": 103.844986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377631930291502,
+        "lng": 103.8463493802915
+      },
+      "southwest": {
+        "lat": 1.374933969708498,
+        "lng": 103.8436514197085
+      }
+    }
+  },
+  "name": "Bef Ang Mo Kio Lib",
+  "place_id": "ChIJdYy91-kW2jERMxIqU82lp5Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Won Soon Lau",
+      "author_url": "https://www.google.com/maps/contrib/109947957326052400570/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUWfR8Je8-yg7N2rvUbEkZALqRTOHBeJ32C8h4tN9AQXzPKJidBQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631660634,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10855827728082014771",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

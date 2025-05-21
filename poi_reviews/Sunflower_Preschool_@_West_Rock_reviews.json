@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Bukit Batok West Ave. 8, Blk 461, Singapore 652440",
+  "geometry": {
+    "location": {
+      "lat": 1.3546021,
+      "lng": 103.7396872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356087530291502,
+        "lng": 103.7408362302915
+      },
+      "southwest": {
+        "lat": 1.353389569708498,
+        "lng": 103.7381382697085
+      }
+    }
+  },
+  "name": "Sunflower Preschool @ West Rock",
+  "place_id": "ChIJ__8_RSUQ2jERm_Dau3Y9XCg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Abir Khan",
+      "author_url": "https://www.google.com/maps/contrib/117056127649630187176/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhYvPYJnYJj4BxYYqljkJoMtb2VQFrZLEx78VgDQiYsfy9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711159319,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2908267039541620891",
+  "user_ratings_total": 1,
+  "vicinity": "Bukit Batok West Avenue 8, Blk 461"
+}

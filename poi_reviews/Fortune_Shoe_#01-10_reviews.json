@@ -1,0 +1,66 @@
+{
+  "formatted_address": "845, 01-10 Geylang Rd, Singapore 400845",
+  "geometry": {
+    "location": {
+      "lat": 1.3166377,
+      "lng": 103.8943708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317918480291502,
+        "lng": 103.8959612302915
+      },
+      "southwest": {
+        "lat": 1.315220519708498,
+        "lng": 103.8932632697085
+      }
+    }
+  },
+  "name": "Fortune Shoe #01-10",
+  "place_id": "ChIJ0fxOinQZ2jER6esV-zEzxEI",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "gamblitz",
+      "author_url": "https://www.google.com/maps/contrib/112796429701814263954/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgio3T7anVaSq-tC0Uc0IkX8ZwDX7FRioU5YJY77yaQ0FwdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The uncle is very helpful. I had been getting my shoes from them since a long time. Highly recommended!",
+      "time": 1670402928,
+      "translated": false
+    },
+    {
+      "author_name": "Peter 文强 Lim",
+      "author_url": "https://www.google.com/maps/contrib/105588204999808011055/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXucPyLLfcmCkU5VxFgaGpkywtHLoGkPMhTa2PhhsS31Ye3X3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Cheap and good quality.",
+      "time": 1669740159,
+      "translated": true
+    },
+    {
+      "author_name": "Hanif Tiger",
+      "author_url": "https://www.google.com/maps/contrib/118381369647370642028/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsxbhDawCpJWhfh0kwG3coT-jOIlsTBFSuXKw4CzU8k956sQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666494906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4811026591697464297",
+  "user_ratings_total": 3,
+  "vicinity": "845, 01-10 Geylang Road"
+}

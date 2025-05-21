@@ -1,0 +1,42 @@
+{
+  "formatted_address": "24 Banyan Dr, Singapore 627757",
+  "geometry": {
+    "location": {
+      "lat": 1.2609773,
+      "lng": 103.6733746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.262407580291502,
+        "lng": 103.6748209802915
+      },
+      "southwest": {
+        "lat": 1.259709619708498,
+        "lng": 103.6721230197085
+      }
+    }
+  },
+  "name": "Panunited",
+  "place_id": "ChIJ1SJcSvgF2jERXvZ_Jo6YsFM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sakumar Sakumar",
+      "author_url": "https://www.google.com/maps/contrib/108318091571163910996/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc7DB9Oh7HZ0Jk8brMLsTjSDlGamWAYagz8GtRwIBS8a0Cn9fh=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733396174,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "general_contractor",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6030487637347792478",
+  "user_ratings_total": 1,
+  "vicinity": "24 Banyan Drive, Singapore"
+}

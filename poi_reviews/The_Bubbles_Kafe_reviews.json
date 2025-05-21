@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303533,
+      "lng": 103.9007634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305006430291502,
+        "lng": 103.9023469802915
+      },
+      "southwest": {
+        "lat": 1.302308469708498,
+        "lng": 103.8996490197085
+      }
+    }
+  },
+  "name": "The Bubble's Kafe",
+  "place_id": "ChIJ5zIGxW0Y2jERhFfmcY_skNU",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15389060027560384388",
+  "vicinity": "Singapore"
+}

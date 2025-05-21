@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.414219,
+      "lng": 103.755234
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415543580291502,
+        "lng": 103.7566313802915
+      },
+      "southwest": {
+        "lat": 1.412845619708498,
+        "lng": 103.7539334197085
+      }
+    }
+  },
+  "name": "Opp Jln Bumbong",
+  "place_id": "ChIJf_HLUzwS2jERZJjRebZ45Q8",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "RayMond PHAU",
+      "author_url": "https://www.google.com/maps/contrib/112670211177685039636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAaNLdQOR97PfVU7Tsm038GZxI-rS1AwszDbaSK0Xjj6TFFICL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Super hot, no shelter along the North Rail Corridor (28 Feb 2023)",
+      "time": 1677644023,
+      "translated": false
+    },
+    {
+      "author_name": "ANG H W",
+      "author_url": "https://www.google.com/maps/contrib/115987919992415551485/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdNb5W12nsUQRlWoRiQ8zXMbc2Mo8FX_drSaSodIjsxXUSrv9h=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692525358,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1145454405358819428",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

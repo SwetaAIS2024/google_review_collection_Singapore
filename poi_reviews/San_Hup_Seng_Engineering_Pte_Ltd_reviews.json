@@ -1,0 +1,43 @@
+{
+  "formatted_address": "31 Pioneer Sector 1, Singapore 628435",
+  "geometry": {
+    "location": {
+      "lat": 1.301647,
+      "lng": 103.658045
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302545730291502,
+        "lng": 103.6593395302915
+      },
+      "southwest": {
+        "lat": 1.299847769708498,
+        "lng": 103.6566415697085
+      }
+    }
+  },
+  "name": "San Hup Seng Engineering Pte Ltd",
+  "place_id": "ChIJ-4Rxn8cF2jERR8Esz3E-fUI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "The Lion City",
+      "author_url": "https://www.google.com/maps/contrib/118307119543769570165/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQOzX-r0dyKRMtkD7FpMWEEVPTxKp3kD0bHv49IxmXIa3JEL1h=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Non of the contact details such as office lines & email accounts are not in use.",
+      "time": 1682133912,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4791054237120119111",
+  "user_ratings_total": 1,
+  "vicinity": "31 Pioneer Sector 1"
+}

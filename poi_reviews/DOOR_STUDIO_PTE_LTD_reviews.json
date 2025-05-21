@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "DOOR STUDIO PTE LTD",
+  "place_id": "ChIJ80mjsjIY2jERZKQaM5zVAQU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=360804312015348836",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Jurong Port Rd, Singapore 619099",
+  "geometry": {
+    "location": {
+      "lat": 1.3169973,
+      "lng": 103.7192473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318162930291502,
+        "lng": 103.7205595802915
+      },
+      "southwest": {
+        "lat": 1.315464969708498,
+        "lng": 103.7178616197085
+      }
+    }
+  },
+  "name": "Cambridge Industrial Trust",
+  "place_id": "ChIJwzmexk8F2jERfR_JVlT2boM",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9470777908500438909",
+  "vicinity": "Jurong Port Road"
+}

@@ -1,0 +1,72 @@
+{
+  "formatted_address": "40 Tuas South Ave 6, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2974439,
+      "lng": 103.6363094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.29977655,
+        "lng": 103.6379368302915
+      },
+      "southwest": {
+        "lat": 1.29666635,
+        "lng": 103.6352388697085
+      }
+    }
+  },
+  "name": "Novartis BioPharmOps",
+  "place_id": "ChIJseQwudcF2jER8aurSNDVEBI",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Jonathan Khoo",
+      "author_url": "https://www.google.com/maps/contrib/111322047858582874738/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzLL-Fho002w5TuV2P7MSllc2oDPGUu8jHZW1g-4XfZHuypuUZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607339087,
+      "translated": false
+    },
+    {
+      "author_name": "Parimala Dewi",
+      "author_url": "https://www.google.com/maps/contrib/102286479349784779733/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzpFt5QcAbT-e8WtmXBzbgO4jq7Alx9W-FtAaqp7-OMWUPuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582681867,
+      "translated": false
+    },
+    {
+      "author_name": "yogesh pophalkar",
+      "author_url": "https://www.google.com/maps/contrib/117470697498587734536/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHIbTG23vK7XQ2cyAoJmg4KmP65qFtoz3B5TvIzUl2nehq=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529138691,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammad Faris",
+      "author_url": "https://www.google.com/maps/contrib/106375709838802472340/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3GfGHGyU1-PALPLx2UUBUs-VQMccmtHRSY6AFfZXPzQeU7jU=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504163776,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1301775382859197425",
+  "user_ratings_total": 4,
+  "vicinity": "40 Tuas South Avenue 6"
+}

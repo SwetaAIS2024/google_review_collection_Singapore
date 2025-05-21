@@ -1,0 +1,30 @@
+{
+  "formatted_address": "80 Playfair Rd, Singapore 367998",
+  "geometry": {
+    "location": {
+      "lat": 1.3369143,
+      "lng": 103.886035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338189430291502,
+        "lng": 103.8873981302915
+      },
+      "southwest": {
+        "lat": 1.335491469708498,
+        "lng": 103.8847001697085
+      }
+    }
+  },
+  "name": "Barakath Lifestyle",
+  "place_id": "ChIJSfg6PJIX2jERPKKe7ecIVi0",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3266808371920937532",
+  "vicinity": "80 Playfair Road"
+}

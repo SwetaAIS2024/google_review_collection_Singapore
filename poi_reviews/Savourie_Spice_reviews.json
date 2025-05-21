@@ -1,0 +1,30 @@
+{
+  "formatted_address": "119 Aljunied Ave 2, Singapore 380119",
+  "geometry": {
+    "location": {
+      "lat": 1.3199565,
+      "lng": 103.8858601
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321475680291502,
+        "lng": 103.8871975802915
+      },
+      "southwest": {
+        "lat": 1.318777719708498,
+        "lng": 103.8844996197085
+      }
+    }
+  },
+  "name": "Savourie Spice",
+  "place_id": "ChIJzzVhI0YZ2jERuzflIbbIoew",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17051130348779681723",
+  "vicinity": "119 Aljunied Avenue 2, Singapore"
+}

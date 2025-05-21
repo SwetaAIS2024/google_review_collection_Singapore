@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317037,
+      "lng": 103.826057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318376030291502,
+        "lng": 103.8273631302915
+      },
+      "southwest": {
+        "lat": 1.315678069708498,
+        "lng": 103.8246651697085
+      }
+    }
+  },
+  "name": "Bef Met YMCA",
+  "place_id": "ChIJVYUrXvcZ2jERYlwtxWw8wvc",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Anna Dong",
+      "author_url": "https://www.google.com/maps/contrib/116352318947687328347/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJVgSdSusbyJA-o8ghr1Dh_X3WO-VQtuui-O1QojZRYW4ANA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Small bus stop",
+      "time": 1664362483,
+      "translated": false
+    },
+    {
+      "author_name": "Chuột Thúi iphuyn (Phan Nguyên)",
+      "author_url": "https://www.google.com/maps/contrib/117389000230543048988/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXz7fSrxX1eavBGz1GDB3nDs87O9RtuJyZMYaxhfpklMmFkaE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The country has developed differently :D",
+      "time": 1698121869,
+      "translated": true
+    },
+    {
+      "author_name": "abhinav sharma",
+      "author_url": "https://www.google.com/maps/contrib/112418323098560610388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoyRco5tSzNl8zsBOEUPuljK9SdLHBHRa_QEenpFPgWimutodM=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560511883,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17852898310712286306",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

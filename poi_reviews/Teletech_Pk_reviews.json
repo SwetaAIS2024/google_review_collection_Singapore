@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.286976,
+      "lng": 103.782608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288362630291502,
+        "lng": 103.7839906802915
+      },
+      "southwest": {
+        "lat": 1.285664669708498,
+        "lng": 103.7812927197085
+      }
+    }
+  },
+  "name": "Teletech Pk",
+  "place_id": "ChIJX4-3X6wb2jERRKTOpcMIZjU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Noor Iskandar",
+      "author_url": "https://www.google.com/maps/contrib/105641150322834656083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnW47_9Y2tZmMrV_NAOZYWbXyhBAxgbuKMIdu-KEosXAErug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478027323,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3847772568028095556",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

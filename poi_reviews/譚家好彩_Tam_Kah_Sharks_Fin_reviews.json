@@ -1,0 +1,79 @@
+{
+  "formatted_address": "28 Jln Kelulut, Singapore 809045",
+  "geometry": {
+    "location": {
+      "lat": 1.3834237,
+      "lng": 103.8754864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384708280291502,
+        "lng": 103.8768720802915
+      },
+      "southwest": {
+        "lat": 1.382010319708498,
+        "lng": 103.8741741197085
+      }
+    }
+  },
+  "name": "譚家好彩 Tam Kah Shark's Fin",
+  "place_id": "ChIJq1HREJEX2jERiSIcoOGA2oE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Jing Yee Lim",
+      "author_url": "https://www.google.com/maps/contrib/117695052560099792868/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVX2Kn4dxMyqmsMc1inoXwlu75MXDAocrVEkOyF9v9ecnh-ik2x=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "The frozen CNY food is really disappointing.",
+      "time": 1738337408,
+      "translated": false
+    },
+    {
+      "author_name": "Zhen Wei Ang",
+      "author_url": "https://www.google.com/maps/contrib/103823911807712842200/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQTnfeNT2zrXoFN8NlIKRNzypl5RfoE45h3XFf8H_HWQBMqq6pAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737016537,
+      "translated": false
+    },
+    {
+      "author_name": "LingKokAnn",
+      "author_url": "https://www.google.com/maps/contrib/116838720993011944150/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJDwQUHceVNQ9x8cOWAucp0WR7yR1GUVIVmB8eJJvLmxRaoQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723614932,
+      "translated": false
+    },
+    {
+      "author_name": "Jolene Law",
+      "author_url": "https://www.google.com/maps/contrib/105802736905861349500/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjWTsAuRuJAwYdslJSaMkCqag2XVy4ax-FmRayn-SnKRSRaekJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723541361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9356932882357822089",
+  "user_ratings_total": 4,
+  "vicinity": "28 Jalan Kelulut"
+}

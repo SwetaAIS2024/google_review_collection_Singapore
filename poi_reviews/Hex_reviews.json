@@ -1,0 +1,27 @@
+{
+  "formatted_address": "725 Clementi West Street 2, Singapore 120725",
+  "geometry": {
+    "location": {
+      "lat": 1.303542,
+      "lng": 103.763715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304937330291502,
+        "lng": 103.7651613302915
+      },
+      "southwest": {
+        "lat": 1.302239369708498,
+        "lng": 103.7624633697085
+      }
+    }
+  },
+  "name": "Hex",
+  "place_id": "ChIJSTEeG-4a2jERVjX9A-TLoTU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3864594135440504150",
+  "vicinity": "725 Clementi West Street 2"
+}

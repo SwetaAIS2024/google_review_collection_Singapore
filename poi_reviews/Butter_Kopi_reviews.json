@@ -1,0 +1,43 @@
+{
+  "formatted_address": "35 Keong Saik Rd., Singapore 089142",
+  "geometry": {
+    "location": {
+      "lat": 1.280133,
+      "lng": 103.841426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281475630291502,
+        "lng": 103.8428471302915
+      },
+      "southwest": {
+        "lat": 1.278777669708498,
+        "lng": 103.8401491697085
+      }
+    }
+  },
+  "name": "Butter Kopi",
+  "place_id": "ChIJsYq3e3IZ2jEREF0CDaDFZlY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Derek Hughes",
+      "author_url": "https://www.google.com/maps/contrib/116685259373964084656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcIo_iTPs1G26H1KkqChdatCAltH6CBft1ITliCwwKrcc-QA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1675000298,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6225880826089987344",
+  "user_ratings_total": 1,
+  "vicinity": "35 Keong Saik Road, Singapore"
+}

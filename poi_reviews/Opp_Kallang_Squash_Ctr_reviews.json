@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3048995,
+      "lng": 103.8800912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306286730291502,
+        "lng": 103.8814220302915
+      },
+      "southwest": {
+        "lat": 1.303588769708498,
+        "lng": 103.8787240697085
+      }
+    }
+  },
+  "name": "Opp Kallang Squash Ctr",
+  "place_id": "ChIJzcbzNUYY2jERoAjWO_x5Fp4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Chris Sewards",
+      "author_url": "https://www.google.com/maps/contrib/113604653648764919246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQlXi7iH65WWuZenewz8tiMfBrLJt7aHOeJ5sjsYWWRcIuCEGf=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Wrong location on map",
+      "time": 1525228689,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Haidhir Mohd Nasir",
+      "author_url": "https://www.google.com/maps/contrib/110117110737621644137/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrzu_amy4yKeGknywVHFPLabPdHYm0lEYZLCCyGDqmZ30ykqCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1442215260,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11391426431722850464",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

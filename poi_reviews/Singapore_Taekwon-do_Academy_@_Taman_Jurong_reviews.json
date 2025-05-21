@@ -1,0 +1,54 @@
+{
+  "formatted_address": "354 Kang Ching Rd, Singapore 610354",
+  "geometry": {
+    "location": {
+      "lat": 1.3395445,
+      "lng": 103.7204681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340633230291502,
+        "lng": 103.7219874302915
+      },
+      "southwest": {
+        "lat": 1.337935269708498,
+        "lng": 103.7192894697085
+      }
+    }
+  },
+  "name": "Singapore Taekwon-do Academy @ Taman Jurong",
+  "place_id": "ChIJvwuvUeQP2jERH6yvVWG81NU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yan Peng Lee",
+      "author_url": "https://www.google.com/maps/contrib/104193364087410316278/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN-mt5LE7dLwKeGgParKk8JH8nlfoyhs8HkduzI49bVDlH83i6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "A nice outdoor place to learn taekwon do.",
+      "time": 1509465670,
+      "translated": false
+    },
+    {
+      "author_name": "Asyraf Zikry",
+      "author_url": "https://www.google.com/maps/contrib/103333351792376735092/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfaXw-KJSBsaqu-qJGjrVpl4cjiNJadYgbtf1FAor3R8SC4dY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508516635,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15408147351376735263",
+  "user_ratings_total": 2,
+  "vicinity": "354 Kang Ching Road"
+}

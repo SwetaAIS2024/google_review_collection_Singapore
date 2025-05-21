@@ -1,0 +1,30 @@
+{
+  "formatted_address": "558 Ang Mo Kio Ave 10, Block 558, Singapore 560558",
+  "geometry": {
+    "location": {
+      "lat": 1.3712627,
+      "lng": 103.8591788
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.372504330291502,
+        "lng": 103.8605576802915
+      },
+      "southwest": {
+        "lat": 1.369806369708498,
+        "lng": 103.8578597197085
+      }
+    }
+  },
+  "name": "Sip N Sonder",
+  "place_id": "ChIJ86nvj8oX2jERfoUm0d7EkfI",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17478968090072352126",
+  "vicinity": "558 Ang Mo Kio Avenue 10, Block 558"
+}

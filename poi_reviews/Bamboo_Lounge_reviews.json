@@ -1,0 +1,86 @@
+{
+  "formatted_address": "128 Sims Ave, Singapore 387451",
+  "geometry": {
+    "location": {
+      "lat": 1.3140915,
+      "lng": 103.8783786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315533330291502,
+        "lng": 103.8797084302915
+      },
+      "southwest": {
+        "lat": 1.312835369708498,
+        "lng": 103.8770104697085
+      }
+    }
+  },
+  "name": "Bamboo Lounge",
+  "place_id": "ChIJmYdMjDAY2jEROk-aau4tpBs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Royston Lee",
+      "author_url": "https://www.google.com/maps/contrib/104270201204062704542/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxc1ozNKCzn-g4O8cYoWHMkDS1R-aC7A-29KVqzTAM0-X9e2rAYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Expensive",
+      "time": 1520223461,
+      "translated": false
+    },
+    {
+      "author_name": "Lee Kim Soon",
+      "author_url": "https://www.google.com/maps/contrib/117087408848953762166/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURgcKfcdIARn7Hnn9n9_q-T12bWWDIOS5vYLpxNCOVSFXfpNM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "very good",
+      "time": 1514298467,
+      "translated": true
+    },
+    {
+      "author_name": "Dennis Lim",
+      "author_url": "https://www.google.com/maps/contrib/117316064764587241397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM_7iNXFQTsw5fjq23aQwXAUoCWEFdNWPGfOdpaumqMy9Dxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695817145,
+      "translated": false
+    },
+    {
+      "author_name": "Jeffrey Ng",
+      "author_url": "https://www.google.com/maps/contrib/108809881754940124809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJLTcyvHB1P40vomb9R8milxUMysl5UV_KdRDOwtvQO5EoMkm90A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1660791491,
+      "translated": false
+    },
+    {
+      "author_name": "Chris J.",
+      "author_url": "https://www.google.com/maps/contrib/100057718070601765740/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKce8bPjdTiFIlKeZ6vo-UyZIFvk_REPZEJTgm4PKA9977noA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1652106749,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1991767437218565946",
+  "user_ratings_total": 5,
+  "vicinity": "128 Sims Avenue, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "151 Boon Lay Wy, Singapore 609959",
+  "geometry": {
+    "location": {
+      "lat": 1.3424643,
+      "lng": 103.732426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343928230291502,
+        "lng": 103.7338513302915
+      },
+      "southwest": {
+        "lat": 1.341230269708498,
+        "lng": 103.7311533697085
+      }
+    }
+  },
+  "name": "DBS ATM - Chinese Garden MRT Station",
+  "place_id": "ChIJyUWgUEwR2jER9qJFt326azc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3993490543702549238",
+  "vicinity": "151 Boon Lay Way, Singapore"
+}

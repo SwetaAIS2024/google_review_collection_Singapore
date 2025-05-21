@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Kampung Baharu, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.43277,
+      "lng": 103.59523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.434153480291502,
+        "lng": 103.5965423302915
+      },
+      "southwest": {
+        "lat": 1.431455519708498,
+        "lng": 103.5938443697085
+      }
+    }
+  },
+  "name": "Nusajaya Tech Park",
+  "place_id": "ChIJ5QWf260L2jERK3I4mKIfHbw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "MD AMANULLAH",
+      "author_url": "https://www.google.com/maps/contrib/112686291629929036986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYsU-4rZbcepjl6cn7H5xu1R3WVf1n_9-yk4kvdH9SzfKoWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683679458,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13555025236654060075",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

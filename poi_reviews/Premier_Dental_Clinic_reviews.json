@@ -1,0 +1,29 @@
+{
+  "formatted_address": "HDB Clementi #01-338, 431 Clementi Avenue 3 (S)120431, Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.3137256,
+      "lng": 103.7624988
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314998580291502,
+        "lng": 103.7637746302915
+      },
+      "southwest": {
+        "lat": 1.312300619708498,
+        "lng": 103.7610766697085
+      }
+    }
+  },
+  "name": "Premier Dental Clinic",
+  "place_id": "ChIJgdYS7JEa2jERuduWNp4d0g0",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=995891032960195513",
+  "vicinity": "HDB Clementi #01-338, 431 Clementi Avenue 3 (S)120431"
+}

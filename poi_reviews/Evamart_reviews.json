@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Petir Rd, Singapore 670141",
+  "geometry": {
+    "location": {
+      "lat": 1.3761481,
+      "lng": 103.768099
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377502130291502,
+        "lng": 103.7694616802915
+      },
+      "southwest": {
+        "lat": 1.374804169708498,
+        "lng": 103.7667637197085
+      }
+    }
+  },
+  "name": "Evamart",
+  "place_id": "ChIJDQPgj2gR2jERkAMtMno5abY",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13144100184448107408",
+  "vicinity": "Petir Road"
+}

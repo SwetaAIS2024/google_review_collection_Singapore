@@ -1,0 +1,63 @@
+{
+  "formatted_address": "132 Jurong Gateway Rd, Singapore 600132",
+  "geometry": {
+    "location": {
+      "lat": 1.3344098,
+      "lng": 103.7396023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335781280291502,
+        "lng": 103.7410915302915
+      },
+      "southwest": {
+        "lat": 1.333083319708498,
+        "lng": 103.7383935697085
+      }
+    }
+  },
+  "name": "马光资料门诊中心",
+  "place_id": "ChIJkTQycQUQ2jER9PVa6ze7gEI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Manigowri Mani",
+      "author_url": "https://www.google.com/maps/contrib/107519312462050241369/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNBAnJ83EwG3lZHCKnvXZtqXU8v08rnTHJrcKOmluPw_M6rXE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740378528,
+      "translated": false
+    },
+    {
+      "author_name": "Goh Kian Seng",
+      "author_url": "https://www.google.com/maps/contrib/108478164453446993565/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMtK_toVwwQMWSiBv3q-lUXMtCtIGY3CA4RWpQxr9yIma1Vik=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717102330,
+      "translated": false
+    },
+    {
+      "author_name": "gang deng",
+      "author_url": "https://www.google.com/maps/contrib/116084296965781524505/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCsVxwUCTFXJZgou0jaVzvJ2eecoo5bNN6KMayOJmDe1tefg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534088804,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4792035852368410100",
+  "user_ratings_total": 3,
+  "vicinity": "132 Jurong Gateway Road"
+}

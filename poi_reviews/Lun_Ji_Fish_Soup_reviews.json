@@ -1,0 +1,57 @@
+{
+  "formatted_address": "380 Clementi Ave 5, Singapore 120380",
+  "geometry": {
+    "location": {
+      "lat": 1.3184123,
+      "lng": 103.7674539
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319874380291502,
+        "lng": 103.7688314802915
+      },
+      "southwest": {
+        "lat": 1.317176419708498,
+        "lng": 103.7661335197085
+      }
+    }
+  },
+  "name": "Lun Ji Fish Soup",
+  "place_id": "ChIJr6WWAM8b2jERSyppGVboA0Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "R V",
+      "author_url": "https://www.google.com/maps/contrib/116632539404049555067/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGDDKaL60otneBzXSO85fOuy1QOzAfmYGgWzi-_-uJGY0ExQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Homemade dumplings. Ban mian. Fish Soup.",
+      "time": 1551021564,
+      "translated": false
+    },
+    {
+      "author_name": "林国豪",
+      "author_url": "https://www.google.com/maps/contrib/105087250497753591386/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXqqEMo25cL6XsMj2xlEe0nyHIc-k27IFTxtu7-PU0wQm_M2KT=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "The manager is very kind.",
+      "time": 1573905448,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5045131464076241483",
+  "user_ratings_total": 2,
+  "vicinity": "380 Clementi Avenue 5, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3437564,
+      "lng": 103.980161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345294080291502,
+        "lng": 103.9815952302915
+      },
+      "southwest": {
+        "lat": 1.342596119708498,
+        "lng": 103.9788972697085
+      }
+    }
+  },
+  "name": "Aloha Bistro",
+  "place_id": "ChIJXxNYxME82jERBE08T-l9RrU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13062266210244906244",
+  "vicinity": "Singapore"
+}

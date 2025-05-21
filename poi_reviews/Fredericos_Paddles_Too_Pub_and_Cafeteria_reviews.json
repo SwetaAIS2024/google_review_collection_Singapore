@@ -1,0 +1,54 @@
+{
+  "formatted_address": "11 E Coast Rd, Odeon Katong Shopping Complex, Singapore 428722",
+  "geometry": {
+    "location": {
+      "lat": 1.3047744,
+      "lng": 103.9016941
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306195580291502,
+        "lng": 103.9031649802915
+      },
+      "southwest": {
+        "lat": 1.303497619708498,
+        "lng": 103.9004670197085
+      }
+    }
+  },
+  "name": "Frederico's Paddles Too Pub & Cafeteria",
+  "place_id": "ChIJ27SwkG0Y2jERVvYK0-bika8",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "johnny gordeep",
+      "author_url": "https://www.google.com/maps/contrib/113774845514291566344/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJxU1V2wj0f52pN9MWytrt6YCEMuo_0NtHEKe_qEv3YRTKnt3I_Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Be careful of the girls. It's okay if you are a big spender",
+      "time": 1565055828,
+      "translated": false
+    },
+    {
+      "author_name": "Ben Tay",
+      "author_url": "https://www.google.com/maps/contrib/106565515071370447591/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOzW4PYlSVyJsWFPl0qPo9VukzkdSZrNSS1oMiL4RoE8QUsA6nzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1551465234,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12651142309271500374",
+  "user_ratings_total": 2,
+  "vicinity": "11 East Coast Road, Odeon Katong Shopping Complex"
+}

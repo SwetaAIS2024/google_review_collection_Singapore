@@ -1,0 +1,54 @@
+{
+  "formatted_address": "500 Upper Jurong Rd, Singapore 638364",
+  "geometry": {
+    "location": {
+      "lat": 1.3365707,
+      "lng": 103.6829141
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3405862,
+        "lng": 103.68824555
+      },
+      "southwest": {
+        "lat": 1.3352322,
+        "lng": 103.68113695
+      }
+    }
+  },
+  "name": "OCS Charlie Wing",
+  "place_id": "ChIJhXuahooP2jERRedIwuocr1E",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Muhammad Zuhairie",
+      "author_url": "https://www.google.com/maps/contrib/118131466306845281183/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkjVUjchjEseywBi9C4Z2_GSzrSlUwNxyB-Av3MXVT6y8DZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "one of the best experiences, proud to commission with this wing SET THE PACE",
+      "time": 1729130590,
+      "translated": false
+    },
+    {
+      "author_name": "James Mcdonnell",
+      "author_url": "https://www.google.com/maps/contrib/116333764017852942831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ9DnunBA2o_aqmBhA3-m7kAmGRfQtNHqm2Ayl1A4EUsRaEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712124582,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5885955032604010309",
+  "user_ratings_total": 2,
+  "vicinity": "500 Upper Jurong Road, Singapore"
+}

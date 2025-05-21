@@ -1,0 +1,67 @@
+{
+  "formatted_address": "399 Yung Sheng Rd, #01-45/46 Taman Jurong Shopping Centre, Singapore 610399",
+  "geometry": {
+    "location": {
+      "lat": 1.3352155,
+      "lng": 103.7201166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336307030291502,
+        "lng": 103.7220411302915
+      },
+      "southwest": {
+        "lat": 1.333609069708498,
+        "lng": 103.7193431697085
+      }
+    }
+  },
+  "name": "Alahdin Western Food",
+  "place_id": "ChIJzxhNAfsP2jER2rFAZglr_Ik",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Wye YO",
+      "author_url": "https://www.google.com/maps/contrib/111661282363959756970/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU76tqgpekJUvfM9rQ5ab8mrAjpPxRE7cXqwlaK3Emj1C3TmQ1j=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Rather big serving .taste good.",
+      "time": 1705731609,
+      "translated": false
+    },
+    {
+      "author_name": "Leonard Chong",
+      "author_url": "https://www.google.com/maps/contrib/113730622479404116128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAMx84xKusm2iTkKHflA50ij2CT-KfNqn14KO3gSGAXwjcLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Can't find it",
+      "time": 1703135475,
+      "translated": false
+    },
+    {
+      "author_name": "Isyuldi Yusmar",
+      "author_url": "https://www.google.com/maps/contrib/106377370862901830177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrzqxXJagGfXUuR8rGdurpywVHN47sehjkYiTmVlYU0OZ4r4di=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700777120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9942939765441606106",
+  "user_ratings_total": 3,
+  "vicinity": "399 Yung Sheng Road, #01-45/46 Taman Jurong Shopping Centre, Singapore"
+}

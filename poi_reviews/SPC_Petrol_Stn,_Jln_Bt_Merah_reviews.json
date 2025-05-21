@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28403,
+      "lng": 103.81844
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285389130291502,
+        "lng": 103.8197618802915
+      },
+      "southwest": {
+        "lat": 1.282691169708498,
+        "lng": 103.8170639197085
+      }
+    }
+  },
+  "name": "SPC Petrol Stn, Jln Bt Merah",
+  "place_id": "ChIJYfQUhtYb2jERuPu1MXIJAY8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Inui",
+      "author_url": "https://www.google.com/maps/contrib/104201828204680934226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdw_eAzaLwfvxAgNrmAeiQalTCo8tTS1wFxFZgfQWnMKtu2fJNXQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "Bus stop doesnt exist btw",
+      "time": 1731484407,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10304527808465337272",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

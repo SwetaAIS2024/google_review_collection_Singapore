@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Changi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3447512,
+      "lng": 103.996028
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346133380291502,
+        "lng": 103.9973003302915
+      },
+      "southwest": {
+        "lat": 1.343435419708498,
+        "lng": 103.9946023697085
+      }
+    }
+  },
+  "name": "AES Fire Station 2 (New)",
+  "place_id": "ChIJBYWSCAA92jERirK3tvwmPZE",
+  "types": [
+    "fire_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10465563975918006922",
+  "vicinity": ""
+}

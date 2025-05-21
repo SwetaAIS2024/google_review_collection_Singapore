@@ -1,0 +1,30 @@
+{
+  "formatted_address": "304 Orchard Rd, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3042934,
+      "lng": 103.8340165
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305545730291502,
+        "lng": 103.8353169302915
+      },
+      "southwest": {
+        "lat": 1.302847769708498,
+        "lng": 103.8326189697085
+      }
+    }
+  },
+  "name": "City Hearing Centre Pte Ltd",
+  "place_id": "ChIJHXFAbZIZ2jERIxrFRLqcZlw",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6658181422945475107",
+  "vicinity": "304 Orchard Road"
+}

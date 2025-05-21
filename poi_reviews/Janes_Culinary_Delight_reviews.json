@@ -1,0 +1,29 @@
+{
+  "formatted_address": "68 Kaki Bukit Ave 6, Singapore 417896",
+  "geometry": {
+    "location": {
+      "lat": 1.3409535,
+      "lng": 103.9142205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342330880291502,
+        "lng": 103.9155324302915
+      },
+      "southwest": {
+        "lat": 1.339632919708498,
+        "lng": 103.9128344697085
+      }
+    }
+  },
+  "name": "Jane's Culinary Delight",
+  "place_id": "ChIJn6wHIQAX2jERFZfGCX68dIs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10048863918086330133",
+  "vicinity": "68 Kaki Bukit Avenue 6, Singapore"
+}

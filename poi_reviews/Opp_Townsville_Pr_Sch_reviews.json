@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359358,
+      "lng": 103.855293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360727880291502,
+        "lng": 103.8566183802915
+      },
+      "southwest": {
+        "lat": 1.358029919708498,
+        "lng": 103.8539204197085
+      }
+    }
+  },
+  "name": "Opp Townsville Pr Sch",
+  "place_id": "ChIJ16LJoBwX2jEReYG_7qBMQMk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yang Bo",
+      "author_url": "https://www.google.com/maps/contrib/113138409361475423412/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLek7lnGNXdp2_2mU9C-em5w8gubavj4yHlf-HdpljyUm65Zw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1628067899,
+      "translated": false
+    },
+    {
+      "author_name": "Chitra Duraisamy",
+      "author_url": "https://www.google.com/maps/contrib/115654487017027168081/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkmjyxQ6yMu3unvX5jzVoVIIBMrQrVoz9HmeZLj1QE9jezNTi_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601335878,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14501675054217003385",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "4 Engineering Drive 3, National University of Singapore, Singapore 117583",
+  "geometry": {
+    "location": {
+      "lat": 1.2985453,
+      "lng": 103.7721162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299996180291502,
+        "lng": 103.7735524302915
+      },
+      "southwest": {
+        "lat": 1.297298219708498,
+        "lng": 103.7708544697085
+      }
+    }
+  },
+  "name": "Engineering 4",
+  "place_id": "ChIJQ9eL0_ka2jER0olODm-PE3w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Adem Derinel",
+      "author_url": "https://www.google.com/maps/contrib/108569453536904860702/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQmgSdJE0SPaEA8msrtljqU3ys9lnGDPWAClQhTWJPR223feMN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547767505,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8940647392404736466",
+  "user_ratings_total": 1,
+  "vicinity": "4 Engineering Drive 3, National University of Singapore"
+}

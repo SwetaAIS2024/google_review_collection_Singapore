@@ -1,0 +1,42 @@
+{
+  "formatted_address": "2 Ava Rd, Singapore 329951",
+  "geometry": {
+    "location": {
+      "lat": 1.3224569,
+      "lng": 103.852574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323739480291502,
+        "lng": 103.8539473802915
+      },
+      "southwest": {
+        "lat": 1.321041519708498,
+        "lng": 103.8512494197085
+      }
+    }
+  },
+  "name": "Ace Manor",
+  "place_id": "ChIJI8qjb9kZ2jERl0aZD9uiq7Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nigel Ng",
+      "author_url": "https://www.google.com/maps/contrib/113630437665401534901/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5po-d8Zd_TdmghgYDxWD93EWVwow757Ulh6UWsFLQNGfZLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604388933,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13162793397663647383",
+  "user_ratings_total": 1,
+  "vicinity": "2 Ava Road, Singapore"
+}

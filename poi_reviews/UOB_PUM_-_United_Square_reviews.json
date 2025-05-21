@@ -1,0 +1,44 @@
+{
+  "formatted_address": "101 Thomson Rd, Singapore 307591",
+  "geometry": {
+    "location": {
+      "lat": 1.3176318,
+      "lng": 103.8439705
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319020330291502,
+        "lng": 103.8454488302915
+      },
+      "southwest": {
+        "lat": 1.316322369708498,
+        "lng": 103.8427508697085
+      }
+    }
+  },
+  "name": "UOB PUM - United Square",
+  "place_id": "ChIJH8OH4ecZ2jER_Ns0f-x7ihI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Petersongss Yeo sin song ps",
+      "author_url": "https://www.google.com/maps/contrib/102402785810682697262/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9mv5vyh6eFSqOPyKhD_AX4kZFkDpAh270a0i1hfzD5s2lGcY=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717820781,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1336016495145442300",
+  "user_ratings_total": 1,
+  "vicinity": "101 Thomson Road, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "31 W Coast Hwy, Singapore 117864",
+  "geometry": {
+    "location": {
+      "lat": 1.2842856,
+      "lng": 103.780097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285696780291502,
+        "lng": 103.7815279802915
+      },
+      "southwest": {
+        "lat": 1.282998819708498,
+        "lng": 103.7788300197085
+      }
+    }
+  },
+  "name": "Prime Leasing Alexandra",
+  "place_id": "ChIJYXnDXKkb2jERP1tKJ1pwkKk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lew Zev",
+      "author_url": "https://www.google.com/maps/contrib/100839440728503717424/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuL2-oP5zsOr_adaTYoBnkXQoRErm1Pvp78Dmj8PtUMIn_3g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1471105311,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_rental",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12218389321564707647",
+  "user_ratings_total": 1,
+  "vicinity": "31 West Coast Highway"
+}

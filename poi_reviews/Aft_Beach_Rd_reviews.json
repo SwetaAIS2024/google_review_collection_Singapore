@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore 189768",
+  "geometry": {
+    "location": {
+      "lat": 1.2969156,
+      "lng": 103.8558375
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298292430291502,
+        "lng": 103.8572089302915
+      },
+      "southwest": {
+        "lat": 1.295594469708498,
+        "lng": 103.8545109697085
+      }
+    }
+  },
+  "name": "Aft Beach Rd",
+  "place_id": "ChIJ4VFEZqUZ2jER2c2b3DVz9G0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "amit jattu",
+      "author_url": "https://www.google.com/maps/contrib/106154946831720449161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVO4oLft86jnomYyuR2HACO0v4GKJ_UgyL2pW2xzN1hyd-YCeo9NA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516505953,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7923084319623204313",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

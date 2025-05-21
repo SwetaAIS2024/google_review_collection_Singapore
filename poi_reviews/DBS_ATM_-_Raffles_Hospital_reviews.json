@@ -1,0 +1,55 @@
+{
+  "formatted_address": "585 N Bridge Rd, Singapore 188770",
+  "geometry": {
+    "location": {
+      "lat": 1.3011909,
+      "lng": 103.8572758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302402980291502,
+        "lng": 103.8587785802915
+      },
+      "southwest": {
+        "lat": 1.299705019708498,
+        "lng": 103.8560806197085
+      }
+    }
+  },
+  "name": "DBS ATM - Raffles Hospital",
+  "place_id": "ChIJX5F9XNoZ2jERglLWz-X9L8A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "R",
+      "author_url": "https://www.google.com/maps/contrib/114981165922608614654/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFLPsKbxY8xK0NkXZnf82LGQBeg3yYbQcNyAp6O7kOr1f07Q-HIA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Located on the 1st floor of Raffles Hospital, on the Victoria Street side.\nYou can use POSB ATMs.",
+      "time": 1549980958,
+      "translated": true
+    },
+    {
+      "author_name": "Yaj",
+      "author_url": "https://www.google.com/maps/contrib/112766366014543337568/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWpeaHigXSOx6iNC2yvCQFj54pqFwVPzw7Zk3SHr-k9w8gBcc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708410118,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13848566542663832194",
+  "user_ratings_total": 2,
+  "vicinity": "585 North Bridge Road"
+}

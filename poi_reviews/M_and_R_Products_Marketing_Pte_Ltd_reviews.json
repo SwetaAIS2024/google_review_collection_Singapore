@@ -1,0 +1,42 @@
+{
+  "formatted_address": "63 Hillview Ave, Singapore 669569",
+  "geometry": {
+    "location": {
+      "lat": 1.3570483,
+      "lng": 103.7630617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358623330291502,
+        "lng": 103.7642224802915
+      },
+      "southwest": {
+        "lat": 1.355925369708498,
+        "lng": 103.7615245197085
+      }
+    }
+  },
+  "name": "M & R Products Marketing Pte Ltd",
+  "place_id": "ChIJ8yZ80U8Q2jERSflXTjVhG-E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jacqueen Tan",
+      "author_url": "https://www.google.com/maps/contrib/114960022006854543203/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbRqxUyGLG1a-64H69ei6Md0G7QQgouOP2p0bNk47lhlAGHFOe=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648424606,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16220665364480522569",
+  "user_ratings_total": 1,
+  "vicinity": "63 Hillview Avenue, Singapore"
+}

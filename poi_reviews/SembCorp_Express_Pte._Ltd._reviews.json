@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Clementi Loop, Singapore 129816",
+  "geometry": {
+    "location": {
+      "lat": 1.3254424,
+      "lng": 103.7614333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326790980291502,
+        "lng": 103.7629488302915
+      },
+      "southwest": {
+        "lat": 1.324093019708498,
+        "lng": 103.7602508697085
+      }
+    }
+  },
+  "name": "SembCorp Express Pte. Ltd.",
+  "place_id": "ChIJ2Wk0Dp0a2jERYWRENyMWd9M",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15237672204738258017",
+  "vicinity": "5 Clementi Loop"
+}

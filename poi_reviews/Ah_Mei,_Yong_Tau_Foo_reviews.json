@@ -1,0 +1,57 @@
+{
+  "formatted_address": "628 Ang Mo Kio Ave 4, #01 88, Singapore 560628",
+  "geometry": {
+    "location": {
+      "lat": 1.380976,
+      "lng": 103.8407372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382201480291502,
+        "lng": 103.8420769302915
+      },
+      "southwest": {
+        "lat": 1.379503519708498,
+        "lng": 103.8393789697085
+      }
+    }
+  },
+  "name": "Ah Mei, Yong Tau Foo",
+  "place_id": "ChIJ90gaIDQX2jERDSenxIDWOWA",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Jason Eng",
+      "author_url": "https://www.google.com/maps/contrib/112244911290965003801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmnL29ybYUXvUDEUR2pIZwV8YhFLadoaE-CTDx8kb0JW48S7Mv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Laksa with avocado\nShiok 👍",
+      "time": 1739456343,
+      "translated": false
+    },
+    {
+      "author_name": "Hwee Shan",
+      "author_url": "https://www.google.com/maps/contrib/110376487406981533758/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRKaZDn-GA7iujq9k3HrecFEczT8_syMYK7xjSujRs3B7W76onTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 months ago",
+      "text": "Found a cockroach leg in the soup..",
+      "time": 1734328224,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6933808949857036045",
+  "user_ratings_total": 2,
+  "vicinity": "628 Ang Mo Kio Avenue 4, #01 88"
+}

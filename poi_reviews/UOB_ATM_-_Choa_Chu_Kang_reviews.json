@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Blk 810 Choa Chu Kang Ave 7, #01-K1, Singapore 681810",
+  "geometry": {
+    "location": {
+      "lat": 1.3740404,
+      "lng": 103.7466072
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375463780291502,
+        "lng": 103.7480762802915
+      },
+      "southwest": {
+        "lat": 1.372765819708498,
+        "lng": 103.7453783197085
+      }
+    }
+  },
+  "name": "UOB ATM - Choa Chu Kang",
+  "place_id": "ChIJzaQsuBYR2jERIg88t1Q7-TE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Roy",
+      "author_url": "https://www.google.com/maps/contrib/114982295558671715978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQeS3tDRpA6av5YoVgfhhGN1i7BMDTL0kZzUAOIOgKwQ0iFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701584636,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3600974612096880418",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 810 Choa Chu Kang Avenue 7, #01-K1"
+}

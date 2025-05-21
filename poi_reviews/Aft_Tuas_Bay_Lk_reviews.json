@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.293396,
+      "lng": 103.639526
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294764130291502,
+        "lng": 103.6408821802915
+      },
+      "southwest": {
+        "lat": 1.292066169708498,
+        "lng": 103.6381842197085
+      }
+    }
+  },
+  "name": "Aft Tuas Bay Lk",
+  "place_id": "ChIJWUkdTNQF2jER8U_PMKDnKDI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3614393376164499441",
+  "vicinity": "Singapore"
+}

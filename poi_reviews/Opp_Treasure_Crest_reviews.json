@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore 544651",
+  "geometry": {
+    "location": {
+      "lat": 1.397861,
+      "lng": 103.893387
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399215230291502,
+        "lng": 103.8947179302915
+      },
+      "southwest": {
+        "lat": 1.396517269708498,
+        "lng": 103.8920199697085
+      }
+    }
+  },
+  "name": "Opp Treasure Crest",
+  "place_id": "ChIJCWcJDgsW2jERMRZT-gDkAEc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sriram Sravan",
+      "author_url": "https://www.google.com/maps/contrib/117834883277952660521/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUtIOEYb_awpB8aJSxB_MAAZZNHZUq3pPL7gXzfPTPRbtkWCW-Hw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Nice",
+      "time": 1598405022,
+      "translated": false
+    },
+    {
+      "author_name": "Edwin Tan (edvventurer)",
+      "author_url": "https://www.google.com/maps/contrib/106545052650844854730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwLlwIpg5v2aimNmWSFjgqy-Ka0gVLWzI2ZHVouDfhKPfXVs_E=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704198469,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5116339869543765553",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

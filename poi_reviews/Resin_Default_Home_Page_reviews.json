@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Temasek Ave, Singapore 039190",
+  "geometry": {
+    "location": {
+      "lat": 1.2933784,
+      "lng": 103.8603543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294968680291502,
+        "lng": 103.8616391302915
+      },
+      "southwest": {
+        "lat": 1.292270719708498,
+        "lng": 103.8589411697085
+      }
+    }
+  },
+  "name": "Resin Default Home Page",
+  "place_id": "ChIJp5dXMakZ2jERYRXHh-_E8rI",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12894585216169350497",
+  "vicinity": "3 Temasek Avenue"
+}

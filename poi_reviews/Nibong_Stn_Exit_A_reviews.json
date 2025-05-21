@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 821313",
+  "geometry": {
+    "location": {
+      "lat": 1.411538,
+      "lng": 103.900002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.412865230291502,
+        "lng": 103.9013942302915
+      },
+      "southwest": {
+        "lat": 1.410167269708498,
+        "lng": 103.8986962697085
+      }
+    }
+  },
+  "name": "Nibong Stn Exit A",
+  "place_id": "ChIJR5xrnu8V2jER6U488bor0OE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16271553535600774889",
+  "vicinity": "Singapore"
+}

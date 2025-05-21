@@ -1,0 +1,45 @@
+{
+  "formatted_address": "36 Newton Rd, Singapore 307964",
+  "geometry": {
+    "location": {
+      "lat": 1.3167862,
+      "lng": 103.8417789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318049330291502,
+        "lng": 103.8431042802915
+      },
+      "southwest": {
+        "lat": 1.315351369708498,
+        "lng": 103.8404063197085
+      }
+    }
+  },
+  "name": "Popular Songs (vip) Lounge Pte Ltd",
+  "place_id": "ChIJHR8LfugZ2jERXglJ9ZZDdVA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amy Neo",
+      "author_url": "https://www.google.com/maps/contrib/103360135102710197784/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO-LMc5RkVJQFK6TEjy7JUi9xBQJgGeEG3QifaqLXJeH968w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very good",
+      "time": 1664427350,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5797614410948741470",
+  "user_ratings_total": 1,
+  "vicinity": "36 Newton Road"
+}

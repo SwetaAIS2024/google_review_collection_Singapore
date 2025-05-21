@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3258707,
+      "lng": 103.9421847
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327249480291502,
+        "lng": 103.9435252302915
+      },
+      "southwest": {
+        "lat": 1.324551519708498,
+        "lng": 103.9408272697085
+      }
+    }
+  },
+  "name": "The Tanamera Condo",
+  "place_id": "ChIJ2-p0S8si2jERCmh4UiKqKiQ",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Ridzuan Md Nazir",
+      "author_url": "https://www.google.com/maps/contrib/108433423139141447926/reviews",
+      "language": "en-US",
+      "original_language": "es",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTQViDTPD4hGZlVw8MyaLeuF4eB0U6qjL9OqT4XjgT3BPQnA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "no idea",
+      "time": 1696394243,
+      "translated": true
+    },
+    {
+      "author_name": "Chaitanya Kumar",
+      "author_url": "https://www.google.com/maps/contrib/114283353392548738168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEhQdw5-d8HdHMWfuL6saEVTlLUxnJmU7O0P7ZqGWiImB06q0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707799946,
+      "translated": false
+    },
+    {
+      "author_name": "Thong Siang Lee",
+      "author_url": "https://www.google.com/maps/contrib/106848620551057047914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_pTzp4rQoIjwJt0fpwXolq6RMYVcvlXf-NRFD1Cem6ZenFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605273174,
+      "translated": false
+    },
+    {
+      "author_name": "Nagaraja Palla",
+      "author_url": "https://www.google.com/maps/contrib/111929583480691092256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxcOaVBTI45x7yKebyNwCTt50XvpZHP_HP3wTn-BdeG83pl0kO=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508113385,
+      "translated": false
+    },
+    {
+      "author_name": "Sumedhaa Sathiyanarayanan",
+      "author_url": "https://www.google.com/maps/contrib/109722780369517485892/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKxCO6Zk-2MdzC_6IDcsknhh7XV88S26Jcyl2cwEPbMkje9DU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479181553,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2606082398776485898",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

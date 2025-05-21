@@ -1,0 +1,55 @@
+{
+  "formatted_address": "No. 3 Gateway Dr, #01-K5 Westgate, Singapore 608532",
+  "geometry": {
+    "location": {
+      "lat": 1.3343784,
+      "lng": 103.7427835
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335836430291502,
+        "lng": 103.7440748302915
+      },
+      "southwest": {
+        "lat": 1.333138469708498,
+        "lng": 103.7413768697085
+      }
+    }
+  },
+  "name": "UOB ATM - Westgate",
+  "place_id": "ChIJu9abCNoR2jER-WrW9OTDolM",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "WhatTheFact vLog",
+      "author_url": "https://www.google.com/maps/contrib/107613068647798957049/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7pEqEL5Tdok8hWJaCoox3xaFfzygPKd5gZtGiotpjMmGHKs8_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Located L1 Westgate Lobby A, opposite Tim Ho Wan and next to elevator.",
+      "time": 1677908585,
+      "translated": false
+    },
+    {
+      "author_name": "Jean Wong",
+      "author_url": "https://www.google.com/maps/contrib/116663213552686406079/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIwPaB6RJdgxO4EULnmpaxZqTXlAo303cSNbnzeSdbZia8zg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667977590,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6026594639502797561",
+  "user_ratings_total": 2,
+  "vicinity": "No. 3 Gateway Drive, #01-K5 Westgate"
+}

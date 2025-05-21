@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Airport Blvd., Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3392368,
+      "lng": 103.9835636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340662030291502,
+        "lng": 103.9847279802915
+      },
+      "southwest": {
+        "lat": 1.337964069708498,
+        "lng": 103.9820300197085
+      }
+    }
+  },
+  "name": "Estée Lauder",
+  "place_id": "ChIJGcMBzZ492jERIJ5NzuUvnvI",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17482463467554053664",
+  "vicinity": "10 Airport Boulevard, Singapore"
+}

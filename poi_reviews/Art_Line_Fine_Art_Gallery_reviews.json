@@ -1,0 +1,76 @@
+{
+  "formatted_address": "6A Shenton Wy, #03-09 DownTown Gallery, Singapore 068807",
+  "geometry": {
+    "location": {
+      "lat": 1.2771321,
+      "lng": 103.8484534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278517430291502,
+        "lng": 103.8497427302915
+      },
+      "southwest": {
+        "lat": 1.275819469708498,
+        "lng": 103.8470447697085
+      }
+    }
+  },
+  "name": "Art Line Fine Art Gallery",
+  "place_id": "ChIJUZ8cpagZ2jERVzRsFVxThKY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Shawn",
+      "author_url": "https://www.google.com/maps/contrib/114589446388896302764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4fIP5VOZoO1a_yN93ZDEvQR7NVBUf6roFCKTME11ZePOmKm4JxQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Nice gallery and art piece!",
+      "time": 1512981532,
+      "translated": false
+    },
+    {
+      "author_name": "Oppo A37",
+      "author_url": "https://www.google.com/maps/contrib/108234350294628301775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6nfJ8uHWYgwc4G96QGAlaZDEaoQ-KmtMrhYWikKsd_y_LLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Beautiful",
+      "time": 1560164160,
+      "translated": false
+    },
+    {
+      "author_name": "mannan ali",
+      "author_url": "https://www.google.com/maps/contrib/104211711249573789412/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrJ6J3AUIpodEmMt8ktFfnFHbJmoOhqFmVbwZ_KaJCUzz8OVY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539852487,
+      "translated": false
+    },
+    {
+      "author_name": "chen hanwei",
+      "author_url": "https://www.google.com/maps/contrib/109111561070613788239/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzc0pL0Mz1ow8jY-gQUwJAzcBd_0_bul6w4cj1zsxARTXbgJEV=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515563896,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11998806962183353431",
+  "user_ratings_total": 4,
+  "vicinity": "6A Shenton Way, #03-09 DownTown Gallery"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "300 Marine Parade Rd, Singapore 449296",
+  "geometry": {
+    "location": {
+      "lat": 1.3063262,
+      "lng": 103.914555
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307701680291502,
+        "lng": 103.9158532802915
+      },
+      "southwest": {
+        "lat": 1.305003719708498,
+        "lng": 103.9131553197085
+      }
+    }
+  },
+  "name": "Marine Parade Neighbourhood Police Centre",
+  "place_id": "ChIJwX4W4J8i2jERildguMCslhw",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2060023823295600522",
+  "vicinity": "300 Marine Parade Road"
+}

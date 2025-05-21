@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314803,
+      "lng": 103.676743
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316151730291502,
+        "lng": 103.6781330302915
+      },
+      "southwest": {
+        "lat": 1.313453769708498,
+        "lng": 103.6754350697085
+      }
+    }
+  },
+  "name": "Cameron Iron Works",
+  "place_id": "ChIJdfyJdZwF2jERHrKj_bO-v9U",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "J K",
+      "author_url": "https://www.google.com/maps/contrib/104841286750693299775/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfCcEHqwL9EhFxzJVb75uMDlcoDz9IyKJ8jB1rF4MxL4TwQ4gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489453484,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15402238930894172702",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

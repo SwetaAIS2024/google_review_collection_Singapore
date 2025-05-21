@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Elias Rd, Elias Mall, Singapura 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.377772,
+      "lng": 103.94268
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379096980291502,
+        "lng": 103.9441012802915
+      },
+      "southwest": {
+        "lat": 1.376399019708498,
+        "lng": 103.9414033197085
+      }
+    }
+  },
+  "name": "Drinks Stall",
+  "place_id": "ChIJxx__WuM92jERfZy9DcCdMgo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Steve Ong",
+      "author_url": "https://www.google.com/maps/contrib/117463103172623748991/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZmHmSrrfa7ggNvMyqC6zxAPbgzQ58Jup-gK29lhr4SGgcX8dQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730936649,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=734823137404623997",
+  "user_ratings_total": 1,
+  "vicinity": "Elias Road, Elias Mall, Singapura"
+}

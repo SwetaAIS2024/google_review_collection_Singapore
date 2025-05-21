@@ -1,0 +1,45 @@
+{
+  "formatted_address": "127 Lor 1 Toa Payoh, #02-06, Singapore 310127",
+  "geometry": {
+    "location": {
+      "lat": 1.338036,
+      "lng": 103.8447233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339482730291502,
+        "lng": 103.8459443302915
+      },
+      "southwest": {
+        "lat": 1.336784769708498,
+        "lng": 103.8432463697085
+      }
+    }
+  },
+  "name": "Bak Chang & Chwee Kueh",
+  "place_id": "ChIJw-gVCQAX2jERlIVshH7R6Ik",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Stanley Pang",
+      "author_url": "https://www.google.com/maps/contrib/101763161466007280569/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwa9QO4dUEVOlbhB32K38ffFZ6AP9BgAaDvObOM1I973E4Xd4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "Chwee kway was moist and dense. Not the factory made kind.\n\nBut i didn't like the chai poh. Too bland and one dimensional. Almost like hospital food.",
+      "time": 1741419112,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9937422919110788500",
+  "user_ratings_total": 1,
+  "vicinity": "127 Lorong 1 Toa Payoh, #02-06, Singapore"
+}

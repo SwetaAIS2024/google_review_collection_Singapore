@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Tampines Central 5, Singapore 529509",
+  "geometry": {
+    "location": {
+      "lat": 1.3523695,
+      "lng": 103.9434877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353654930291502,
+        "lng": 103.9447809302915
+      },
+      "southwest": {
+        "lat": 1.350956969708498,
+        "lng": 103.9420829697085
+      }
+    }
+  },
+  "name": "Phoenix Kitchen",
+  "place_id": "ChIJgVphjBE92jERXQg0r6BuDaQ",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11821226233330665565",
+  "vicinity": "2 Tampines Central 5"
+}

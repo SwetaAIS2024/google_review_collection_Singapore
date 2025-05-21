@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Convention Centre, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.311605,
+      "lng": 103.7778616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312986980291502,
+        "lng": 103.7792333302915
+      },
+      "southwest": {
+        "lat": 1.310289019708498,
+        "lng": 103.7765353697085
+      }
+    }
+  },
+  "name": "Singapore Poly pick up pt",
+  "place_id": "ChIJD9i1wOkb2jER8yXekMpTN-Q",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16444704693845632499",
+  "vicinity": "Convention Centre"
+}

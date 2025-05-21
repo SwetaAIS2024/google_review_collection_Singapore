@@ -1,0 +1,46 @@
+{
+  "formatted_address": "965 Upper Serangoon Rd, Singapore 534721",
+  "geometry": {
+    "location": {
+      "lat": 1.3619056,
+      "lng": 103.8866664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363196830291502,
+        "lng": 103.8880690802915
+      },
+      "southwest": {
+        "lat": 1.360498869708498,
+        "lng": 103.8853711197085
+      }
+    }
+  },
+  "name": "AMK Bak Chor Mee",
+  "place_id": "ChIJhYnq-F8X2jERTlb4S9DyR5s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jimmy Kniap Kin Lim",
+      "author_url": "https://www.google.com/maps/contrib/116297203326338478609/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwk2p21WLTSlICLC2bN9fXWfukp3t3km-u9ddrK3osrGkiVujKIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Forgotten gem. Good old traditional noodle",
+      "time": 1640649450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11189178775666972238",
+  "user_ratings_total": 1,
+  "vicinity": "965 Upper Serangoon Road, Singapore"
+}

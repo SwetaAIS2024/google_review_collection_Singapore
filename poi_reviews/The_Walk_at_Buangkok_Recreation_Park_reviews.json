@@ -1,0 +1,44 @@
+{
+  "formatted_address": "987A Buangkok Green, Singapore 531987",
+  "geometry": {
+    "location": {
+      "lat": 1.3804239,
+      "lng": 103.8784639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381604430291502,
+        "lng": 103.8798658302915
+      },
+      "southwest": {
+        "lat": 1.378906469708498,
+        "lng": 103.8771678697085
+      }
+    }
+  },
+  "name": "The Walk at Buangkok Recreation Park",
+  "place_id": "ChIJv-oYL1IX2jERS4HEVHik3S0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Crypto ExDee",
+      "author_url": "https://www.google.com/maps/contrib/110697649280498996686/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3UT-jMLHT3P50qWwjHJ6MXF73pEx9r2EavkRpVdNyRYpiW1Yh=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "A nice small recreation park with many facilities such as a 200 metres running track, basketball court, fitness corner, futsal court, playground and a badminton court.",
+      "time": 1669092257,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3304978538285007179",
+  "user_ratings_total": 1,
+  "vicinity": "987A Buangkok Green, Singapore"
+}

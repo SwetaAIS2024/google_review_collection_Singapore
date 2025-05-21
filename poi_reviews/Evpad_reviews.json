@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Rochor Canal Rd, Singapore 188504",
+  "geometry": {
+    "location": {
+      "lat": 1.3030433,
+      "lng": 103.8529208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304177980291502,
+        "lng": 103.8542643802915
+      },
+      "southwest": {
+        "lat": 1.301480019708498,
+        "lng": 103.8515664197085
+      }
+    }
+  },
+  "name": "Evpad",
+  "place_id": "ChIJq6ra17sZ2jER7xWzXGIaCXk",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8721531163144033775",
+  "vicinity": "1 Rochor Canal Road"
+}

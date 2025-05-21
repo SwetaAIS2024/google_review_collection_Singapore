@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Napier Rd, Lvl 3 Gleneagles Hospital, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3070486,
+      "lng": 103.8200142
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308476280291502,
+        "lng": 103.8213081802915
+      },
+      "southwest": {
+        "lat": 1.305778319708498,
+        "lng": 103.8186102197085
+      }
+    }
+  },
+  "name": "CanHOPE",
+  "place_id": "ChIJW3TRJCAa2jER_-43sMS99yg",
+  "types": [
+    "hospital",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2952036733232344831",
+  "vicinity": "6A Napier Road, Lvl 3 Gleneagles Hospital"
+}

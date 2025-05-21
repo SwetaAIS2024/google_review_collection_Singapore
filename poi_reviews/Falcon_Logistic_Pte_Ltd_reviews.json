@@ -1,0 +1,45 @@
+{
+  "formatted_address": "10 Penjuru Rd, Singapore 609124",
+  "geometry": {
+    "location": {
+      "lat": 1.321471,
+      "lng": 103.734827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322816180291502,
+        "lng": 103.7362056302915
+      },
+      "southwest": {
+        "lat": 1.320118219708498,
+        "lng": 103.7335076697085
+      }
+    }
+  },
+  "name": "Falcon Logistic Pte Ltd",
+  "place_id": "ChIJF0vxoK4a2jERAZqAHGNh3Jw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohit Padaliya",
+      "author_url": "https://www.google.com/maps/contrib/110732771273089551303/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6Lz7-fBXKiBwK3nFdqxm2uTA-2SX_qbg7CbWlJKeEagzFDmiy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Please tell me more about your company ?",
+      "time": 1671901878,
+      "translated": false
+    }
+  ],
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11303016243100948993",
+  "user_ratings_total": 1,
+  "vicinity": "10 Penjuru Road"
+}

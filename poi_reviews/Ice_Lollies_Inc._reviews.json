@@ -1,0 +1,29 @@
+{
+  "formatted_address": "47 Woodgrove Walk, Singapore 738190",
+  "geometry": {
+    "location": {
+      "lat": 1.4272771,
+      "lng": 103.7759482
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428674530291502,
+        "lng": 103.7772975302915
+      },
+      "southwest": {
+        "lat": 1.425976569708498,
+        "lng": 103.7745995697085
+      }
+    }
+  },
+  "name": "Ice Lollies Inc.",
+  "place_id": "ChIJxy0SagAT2jERWc9IPtJhuGw",
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7834119107426963289",
+  "vicinity": "47 Woodgrove Walk"
+}

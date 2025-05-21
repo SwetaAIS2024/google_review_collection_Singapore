@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Jalan Anak Bukit, Singapore 588996",
+  "geometry": {
+    "location": {
+      "lat": 1.339001,
+      "lng": 103.778958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340340580291502,
+        "lng": 103.7803577802915
+      },
+      "southwest": {
+        "lat": 1.337642619708498,
+        "lng": 103.7776598197085
+      }
+    }
+  },
+  "name": "Cellmax Pte. Ltd.",
+  "place_id": "ChIJxSI_G4kQ2jERCt5ez435tWo",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7689326326269795850",
+  "vicinity": "1 Jalan Anak Bukit"
+}

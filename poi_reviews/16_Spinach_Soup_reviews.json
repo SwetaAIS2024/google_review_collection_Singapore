@@ -1,0 +1,46 @@
+{
+  "formatted_address": "16 Teck Whye Ln, Block 16, Singapore 680016",
+  "geometry": {
+    "location": {
+      "lat": 1.3784148,
+      "lng": 103.7547326
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379902830291502,
+        "lng": 103.7562116802915
+      },
+      "southwest": {
+        "lat": 1.377204869708498,
+        "lng": 103.7535137197085
+      }
+    }
+  },
+  "name": "16 Spinach Soup",
+  "place_id": "ChIJu1QCBAAR2jERQOt2V-ACnIE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rong Hui Neo",
+      "author_url": "https://www.google.com/maps/contrib/114458676474838758014/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlh07hI6bw2MvQ41VvqmtT1FeZNmbK63bkN-cYkHDN7SXq4tm9PQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Comfort food, the soup was soul warming (I finished everything). Service was pleasant and on the ball. Coffeeshop newly renovated, everything looks new so far.",
+      "time": 1744776026,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9339342889822907200",
+  "user_ratings_total": 1,
+  "vicinity": "16 Teck Whye Lane, Block 16, Singapore"
+}

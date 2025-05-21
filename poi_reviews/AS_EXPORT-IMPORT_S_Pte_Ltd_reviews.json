@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Jalan Papan, #01-35/36 Terusan Recreation Centre, Singapore 619392",
+  "geometry": {
+    "location": {
+      "lat": 1.3205103,
+      "lng": 103.7271486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321779130291502,
+        "lng": 103.7286227302915
+      },
+      "southwest": {
+        "lat": 1.319081169708498,
+        "lng": 103.7259247697085
+      }
+    }
+  },
+  "name": "AS EXPORT-IMPORT (S) Pte Ltd",
+  "place_id": "ChIJY1TYVwsT2jERRw0BiFSESsI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Charles",
+      "author_url": "https://www.google.com/maps/contrib/103876156353654509256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5jGPy1XBaNQpgZYeuXiHu8dcCMq85D3AR5VNT_15hTao8vkeW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708830120,
+      "translated": false
+    },
+    {
+      "author_name": "Srirup Das",
+      "author_url": "https://www.google.com/maps/contrib/116770213293983437232/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWNO2GfUYTuZ03sjv0XPyn5RLUzW-a6lCjHRb2xYgSCM2Squq6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1664766016,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14000147890228497735",
+  "user_ratings_total": 2,
+  "vicinity": "1 Jalan Papan, #01-35/36 Terusan Recreation Centre"
+}

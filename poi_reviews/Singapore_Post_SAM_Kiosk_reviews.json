@@ -1,0 +1,57 @@
+{
+  "formatted_address": "1 Hospital Dr, Block 4 General Hospital, Singapore 169608",
+  "geometry": {
+    "location": {
+      "lat": 1.2788612,
+      "lng": 103.8343221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.28043705,
+        "lng": 103.8358304802915
+      },
+      "southwest": {
+        "lat": 1.27767925,
+        "lng": 103.8331325197085
+      }
+    }
+  },
+  "name": "Singapore Post (SAM Kiosk)",
+  "place_id": "ChIJ_TP4628Z2jERkVCr712NW48",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Hari Shantosh",
+      "author_url": "https://www.google.com/maps/contrib/110375074503049021508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbXdI7pXFCQqCC99NFQJfujcEN4KzwFIPbF28lldehvk90KyDr=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I bought stamp from this SAM machine, for local postage.",
+      "time": 1609838249,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Gan",
+      "author_url": "https://www.google.com/maps/contrib/102208668045681897838/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUyMCxGNKKI1ruq8djNkAQHzAJk2EUA3iHH6GpXJ8sSsrQFew=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Conveniently located for you to pay your bills.",
+      "time": 1479953233,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10330005604896821393",
+  "user_ratings_total": 2,
+  "vicinity": "1 Hospital Drive, Block 4 General Hospital"
+}

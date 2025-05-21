@@ -1,0 +1,45 @@
+{
+  "formatted_address": "50 Collyer Quay, Singapore 049321",
+  "geometry": {
+    "location": {
+      "lat": 1.2828544,
+      "lng": 103.8531367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284251080291502,
+        "lng": 103.8542279302915
+      },
+      "southwest": {
+        "lat": 1.281553119708498,
+        "lng": 103.8515299697085
+      }
+    }
+  },
+  "name": "Merrill Lynch International Bank Limited",
+  "place_id": "ChIJHVNh5g4Z2jERm-eDfc3y0Tk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "pttdm. com",
+      "author_url": "https://www.google.com/maps/contrib/110953553580373964322/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpEHIkDwUZUnmUQAZMBGc9eojwTTYgovhkmQ6fXQvFm6cj-jn_hA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Thawing",
+      "time": 1573451946,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4166378094682433435",
+  "user_ratings_total": 1,
+  "vicinity": "50 Collyer Quay"
+}

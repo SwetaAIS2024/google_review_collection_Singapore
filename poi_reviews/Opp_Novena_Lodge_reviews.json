@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3234149,
+      "lng": 103.8418798
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324768380291502,
+        "lng": 103.8432459802915
+      },
+      "southwest": {
+        "lat": 1.322070419708498,
+        "lng": 103.8405480197085
+      }
+    }
+  },
+  "name": "Opp Novena Lodge",
+  "place_id": "ChIJx_B1HeEZ2jERxL_ucahUkbs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "Really sad that there's so much roadworks in the area. Roads are crowded as hell, especially on the weekends. Extremely dusty too, if you're waiting for your bus or transiting buses here. Try to find another stop that you can grab your bus from, if possible.",
+      "time": 1632556142,
+      "translated": false
+    },
+    {
+      "author_name": "WANG",
+      "author_url": "https://www.google.com/maps/contrib/112060982896943211204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_4ikKj7DBge5r5qj1gcnHDJlOvQUjvFEluwtKvxyPWfpccb0Dw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Bus stop is small but located at a convenient location for nearby residents and church goers",
+      "time": 1598531192,
+      "translated": false
+    },
+    {
+      "author_name": "Jeff Goh",
+      "author_url": "https://www.google.com/maps/contrib/117513999505762946238/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDV-s8OX54mlNGkFOe_zZi4oWE6pqWp3hgzi2VzHiVRtFxJqE3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Good and convenient bus stop for church goers.",
+      "time": 1550432257,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13515677039158280132",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3800 Jalan Bukit Merah, Singapore 159464",
+  "geometry": {
+    "location": {
+      "lat": 1.284184,
+      "lng": 103.8186288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285483280291502,
+        "lng": 103.8199615802915
+      },
+      "southwest": {
+        "lat": 1.282785319708498,
+        "lng": 103.8172636197085
+      }
+    }
+  },
+  "name": "Choices",
+  "place_id": "ChIJnzY-ggAb2jER-LB07AfhPhc",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1675023535576494328",
+  "vicinity": "3800 Jalan Bukit Merah, Singapore"
+}

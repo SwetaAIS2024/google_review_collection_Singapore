@@ -1,0 +1,30 @@
+{
+  "formatted_address": "People's Park Complex, Singapore 059108, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.284095,
+      "lng": 103.8425309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285308330291502,
+        "lng": 103.8440387302915
+      },
+      "southwest": {
+        "lat": 1.282610369708498,
+        "lng": 103.8413407697085
+      }
+    }
+  },
+  "name": "Singapore Health Equipment Suppliers",
+  "place_id": "ChIJnWhme3MZ2jERUAComhI_jYo",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9983705298086920272",
+  "vicinity": "People's Park Complex, Singapore 059108"
+}

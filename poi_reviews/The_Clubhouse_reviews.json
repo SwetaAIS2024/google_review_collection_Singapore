@@ -1,0 +1,29 @@
+{
+  "formatted_address": "198 South Bridge Rd, Level 2, Singapore 058747",
+  "geometry": {
+    "location": {
+      "lat": 1.2835828,
+      "lng": 103.845949
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284768530291502,
+        "lng": 103.8472479302915
+      },
+      "southwest": {
+        "lat": 1.282070569708498,
+        "lng": 103.8445499697085
+      }
+    }
+  },
+  "name": "The Clubhouse",
+  "place_id": "ChIJzy4PmwIZ2jERRg_3nTGhjqQ",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11857592103388778310",
+  "vicinity": "198 South Bridge Road, Level 2"
+}

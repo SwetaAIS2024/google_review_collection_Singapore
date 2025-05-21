@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Lot 10 Neo Tiew Lane 1, Singapore 719095",
+  "geometry": {
+    "location": {
+      "lat": 1.4138535,
+      "lng": 103.7200024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415203930291502,
+        "lng": 103.7213512302915
+      },
+      "southwest": {
+        "lat": 1.412505969708498,
+        "lng": 103.7186532697085
+      }
+    }
+  },
+  "name": "Oasis Living Lab",
+  "place_id": "ChIJN-kZU_AN2jERFBfU9ciha5g",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Vinodh Menon",
+      "author_url": "https://www.google.com/maps/contrib/113320650595904054607/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4BiIxqLKh0Esvspxo78_CyVmGK6bovjVsoBGNX-RKAnaTp58=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Space, fresh air, great place to learn and explore this little island",
+      "time": 1629273738,
+      "translated": false
+    },
+    {
+      "author_name": "Victor Loo",
+      "author_url": "https://www.google.com/maps/contrib/100698908858390087032/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY5JI05PmLLQwZVopoLu87kYAWpyGfdrQeFDuNw3z1ASQ69g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice landscape; good learning experience.",
+      "time": 1689654358,
+      "translated": false
+    },
+    {
+      "author_name": "muthukkumar nallayan",
+      "author_url": "https://www.google.com/maps/contrib/105094931858672118918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2K_xRMtqi4VrmM66uycV5Y8zv_6yqg2AyXbxw0ylk9iwKnzy7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1630123730,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10983050000762935060",
+  "user_ratings_total": 3,
+  "vicinity": "Lot 10 Neo Tiew Lane 1, Singapore"
+}

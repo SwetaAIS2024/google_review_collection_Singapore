@@ -1,0 +1,57 @@
+{
+  "formatted_address": "2 Tah Ching Rd, #03-02, Singapore 618744",
+  "geometry": {
+    "location": {
+      "lat": 1.3363153,
+      "lng": 103.7220491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337619930291502,
+        "lng": 103.7233277302915
+      },
+      "southwest": {
+        "lat": 1.334921969708498,
+        "lng": 103.7206297697085
+      }
+    }
+  },
+  "name": "Jurong Tamil Methodist Church",
+  "place_id": "ChIJTaGrgv4P2jERC30KztA4hgo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Joyce R",
+      "author_url": "https://www.google.com/maps/contrib/101782797561967093745/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUasznJDN9fIpJ3SO0IST_BcflDa32RCa4JkkAJfdRPIshdwA_t=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Dynamic worship experience, warm and welcoming congregation. Come and be blessed.",
+      "time": 1664176317,
+      "translated": false
+    },
+    {
+      "author_name": "Nixon Graham",
+      "author_url": "https://www.google.com/maps/contrib/111557869051803438458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtj7D7OE8nF0aeVI8-kPP39S_0KZ8keiRRiF2WO2iJ7H9QGjg6=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Feel like family",
+      "time": 1709791846,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=758356056719654155",
+  "user_ratings_total": 2,
+  "vicinity": "2 Tah Ching Road, #03-02"
+}

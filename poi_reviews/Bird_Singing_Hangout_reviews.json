@@ -1,0 +1,54 @@
+{
+  "formatted_address": "430 Clementi Ave 3, Block 430, Singapore 120430",
+  "geometry": {
+    "location": {
+      "lat": 1.3133218,
+      "lng": 103.7626408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314743380291502,
+        "lng": 103.7639896302915
+      },
+      "southwest": {
+        "lat": 1.312045419708498,
+        "lng": 103.7612916697085
+      }
+    }
+  },
+  "name": "Bird Singing Hangout",
+  "place_id": "ChIJ76wX31kb2jERfvB3xs0qkZs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lynn Koh",
+      "author_url": "https://www.google.com/maps/contrib/102092620362388800223/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII2_QGj1iuCdITJNVCgputu-ReLcoZ0rxa1hZ8FC2POtl6Hw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "Health violation",
+      "time": 1718107158,
+      "translated": false
+    },
+    {
+      "author_name": "Krzysztof Madejski",
+      "author_url": "https://www.google.com/maps/contrib/103026296244186161606/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_OrOQr-sazDvBIgzE7eot2fXtHM6ef3bM8eWdjlgdkWuSUALO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608353007,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11209788010788286590",
+  "user_ratings_total": 2,
+  "vicinity": "430 Clementi Avenue 3, Block 430"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.344189,
+      "lng": 103.727486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345591130291502,
+        "lng": 103.7288367802915
+      },
+      "southwest": {
+        "lat": 1.342893169708498,
+        "lng": 103.7261388197085
+      }
+    }
+  },
+  "name": "Jurong Lake",
+  "place_id": "ChIJGSX_N-AP2jERizFUGozPS28",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Wilson Chang",
+      "author_url": "https://www.google.com/maps/contrib/102589058598808274925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-vSXjFi0PgWtWv9WneTaljLWq2hldwR7n8loebb8nf3h2GWAe=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1623398054,
+      "translated": false
+    },
+    {
+      "author_name": "Josh Ng",
+      "author_url": "https://www.google.com/maps/contrib/113572060660641060531/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFK2fPDz-K75XFFGunfnCuV50Bo99Lqawg7Iuc9F0-JeyYng=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556579566,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Chow",
+      "author_url": "https://www.google.com/maps/contrib/113151843454980545267/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo1CyPdDBDJVMCsVL4HxCgXjZ_1kfMHQPfg4i2XUyZwvwwjg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1349790170,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8019731762107396491",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

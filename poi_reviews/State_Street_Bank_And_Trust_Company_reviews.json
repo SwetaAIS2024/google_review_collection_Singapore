@@ -1,0 +1,29 @@
+{
+  "formatted_address": "168 Robinson Rd, #33 01, Singapore 068912",
+  "geometry": {
+    "location": {
+      "lat": 1.2777366,
+      "lng": 103.8476215
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278915980291502,
+        "lng": 103.8488821302915
+      },
+      "southwest": {
+        "lat": 1.276218019708498,
+        "lng": 103.8461841697085
+      }
+    }
+  },
+  "name": "State Street Bank And Trust Company",
+  "place_id": "ChIJQ8Em_BIZ2jERA1rtq3GmEpE",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10453600692226316803",
+  "vicinity": "168 Robinson Road, #33 01, Singapore"
+}

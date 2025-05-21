@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 Collyer Quay, Singapore 049321",
+  "geometry": {
+    "location": {
+      "lat": 1.2826633,
+      "lng": 103.8528142
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284028630291502,
+        "lng": 103.8540731802915
+      },
+      "southwest": {
+        "lat": 1.281330669708498,
+        "lng": 103.8513752197085
+      }
+    }
+  },
+  "name": "CMS Finance",
+  "place_id": "ChIJVVXl5Q4Z2jER2un6XZD_Rlk",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6433110113262430682",
+  "vicinity": "50 Collyer Quay"
+}

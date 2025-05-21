@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Tampines, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3528918,
+      "lng": 103.9604807
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354311630291502,
+        "lng": 103.9617496802915
+      },
+      "southwest": {
+        "lat": 1.351613669708498,
+        "lng": 103.9590517197085
+      }
+    }
+  },
+  "name": "Mini Park Playground",
+  "place_id": "ChIJz8tFYJk92jERF09RCMgyXZ4",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11411332865541099287",
+  "vicinity": ""
+}

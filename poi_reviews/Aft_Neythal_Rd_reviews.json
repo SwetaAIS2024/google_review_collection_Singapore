@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.327646,
+      "lng": 103.702606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329027730291502,
+        "lng": 103.7039549802915
+      },
+      "southwest": {
+        "lat": 1.326329769708498,
+        "lng": 103.7012570197085
+      }
+    }
+  },
+  "name": "Aft Neythal Rd",
+  "place_id": "ChIJ9T8XfIoP2jERX8YnTpA-JHs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8873285955334162015",
+  "vicinity": "Singapore"
+}

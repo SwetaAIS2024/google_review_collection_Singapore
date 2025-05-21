@@ -1,0 +1,31 @@
+{
+  "formatted_address": "202 Kallang Bahru, Singapore 339339",
+  "geometry": {
+    "location": {
+      "lat": 1.315847,
+      "lng": 103.8655132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317346980291502,
+        "lng": 103.8666695302915
+      },
+      "southwest": {
+        "lat": 1.314649019708498,
+        "lng": 103.8639715697085
+      }
+    }
+  },
+  "name": "Alfamedic Asia Pacific Pte Ltd",
+  "place_id": "ChIJl_lCKqQZ2jERgBP1xVlreoA",
+  "types": [
+    "veterinary_care",
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9257830017330910080",
+  "vicinity": "202 Kallang Bahru"
+}

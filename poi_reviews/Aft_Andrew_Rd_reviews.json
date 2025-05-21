@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3362977,
+      "lng": 103.8370016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337639530291502,
+        "lng": 103.8383964802915
+      },
+      "southwest": {
+        "lat": 1.334941569708498,
+        "lng": 103.8356985197085
+      }
+    }
+  },
+  "name": "Aft Andrew Rd",
+  "place_id": "ChIJ52LlzkQX2jERS7rlz70HRVc",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Ran Mac",
+      "author_url": "https://www.google.com/maps/contrib/103850319659084774961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5x0jN6Cmhpfh_4tG21qyXznY4qolITQ0M8uhioEdrjdUZRNvP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Take 141 from here if you need to travel to Toa Payoh",
+      "time": 1552405497,
+      "translated": false
+    },
+    {
+      "author_name": "Siew Chan Chee",
+      "author_url": "https://www.google.com/maps/contrib/101955283709063793155/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW8Q1omZafw8vlF_f7e9BNA5DA8RIdh7AD9FRo-AZjGFDg_w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514566293,
+      "translated": false
+    },
+    {
+      "author_name": "Washah mateen shah",
+      "author_url": "https://www.google.com/maps/contrib/113600655012997235313/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWZ4TWp_EyOCWo9IjalUFbj31TughgKKjhkXFLNZ4uynNTap4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504774100,
+      "translated": false
+    },
+    {
+      "author_name": "Giselle Yeo",
+      "author_url": "https://www.google.com/maps/contrib/108327884452776377140/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY1uN9A7C2t4AMgSPayaBdMw9kAkUQfbULKotXEKCHu7Ofmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496577040,
+      "translated": false
+    },
+    {
+      "author_name": "Sree Raj",
+      "author_url": "https://www.google.com/maps/contrib/104750747855314553523/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoG_tbDXjkFuyPsSMUwX7VC9X8C6gILlXxPvH4NAVFBpyj5h88KQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488596524,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6288440966510918219",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

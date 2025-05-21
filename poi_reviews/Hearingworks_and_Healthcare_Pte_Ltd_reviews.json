@@ -1,0 +1,30 @@
+{
+  "formatted_address": "123 McNair Rd, Block 123 Block 124, Singapore 320123",
+  "geometry": {
+    "location": {
+      "lat": 1.3180529,
+      "lng": 103.8565288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319352830291502,
+        "lng": 103.8578473302915
+      },
+      "southwest": {
+        "lat": 1.316654869708498,
+        "lng": 103.8551493697085
+      }
+    }
+  },
+  "name": "Hearingworks & Healthcare Pte Ltd",
+  "place_id": "ChIJVemhaNAZ2jER0_akhQwQ9AU",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=428985510474872531",
+  "vicinity": "123 McNair Road, Block 123 Block 124, Singapore"
+}

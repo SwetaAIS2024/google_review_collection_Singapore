@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Bedok Reservoir Rd, Block 720, Singapore 470720",
+  "geometry": {
+    "location": {
+      "lat": 1.3355722,
+      "lng": 103.924527
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337306080291502,
+        "lng": 103.9257320802915
+      },
+      "southwest": {
+        "lat": 1.334608119708498,
+        "lng": 103.9230341197085
+      }
+    }
+  },
+  "name": "Play Corridor - Bedok Reservoir Road",
+  "place_id": "ChIJDYi2aAk92jERVq8hvik38sw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14767926780524343126",
+  "vicinity": "Bedok Reservoir Road, Block 720"
+}

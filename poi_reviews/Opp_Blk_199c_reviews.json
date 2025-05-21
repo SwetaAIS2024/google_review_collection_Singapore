@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.400922,
+      "lng": 103.905312
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402254830291502,
+        "lng": 103.9066999802915
+      },
+      "southwest": {
+        "lat": 1.399556869708498,
+        "lng": 103.9040020197085
+      }
+    }
+  },
+  "name": "Opp Blk 199c",
+  "place_id": "ChIJQ5NOgQcW2jERL0hp6bAlKGY",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Heng You Chan",
+      "author_url": "https://www.google.com/maps/contrib/103207671117328127109/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1kZ2zFPNeS_fstizcqY45Pxgi3jNgqvSlDiT2tlhiIfQmZgg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "only bus 34 here, many buses actually go past it",
+      "time": 1743052390,
+      "translated": false
+    },
+    {
+      "author_name": "Pang Pang",
+      "author_url": "https://www.google.com/maps/contrib/105259260940654820500/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5k3pN4E32Z346e1Upq1g0OE1M2Gfhe6eymb9EjQ8XhZy5VfR4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "How come only one bus come to this place......",
+      "time": 1524305400,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7361175032697538607",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

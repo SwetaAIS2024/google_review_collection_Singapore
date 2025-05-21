@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Lifestylemart, 91 Hillview Link, CMPB Block 1, Singapore 669723",
+  "geometry": {
+    "location": {
+      "lat": 1.3676546,
+      "lng": 103.7641871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368557130291502,
+        "lng": 103.7656630302915
+      },
+      "southwest": {
+        "lat": 1.365859169708498,
+        "lng": 103.7629650697085
+      }
+    }
+  },
+  "name": "Lifestylemart",
+  "place_id": "ChIJz9gj-LER2jERhyy3h0wcB68",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12612080396494384263",
+  "vicinity": "Lifestylemart, 91 Hillview Link, CMPB Block 1, Singapore"
+}

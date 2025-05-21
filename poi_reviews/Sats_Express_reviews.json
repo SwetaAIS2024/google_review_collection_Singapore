@@ -1,0 +1,29 @@
+{
+  "formatted_address": "81 Airport Cargo Rd, Singapore 819459",
+  "geometry": {
+    "location": {
+      "lat": 1.374536,
+      "lng": 103.994016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375724980291502,
+        "lng": 103.9957478802915
+      },
+      "southwest": {
+        "lat": 1.373027019708498,
+        "lng": 103.9930499197085
+      }
+    }
+  },
+  "name": "Sats Express",
+  "place_id": "ChIJZaF8tm882jERaYtJGG_-cFc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6300815631793621865",
+  "vicinity": "81 Airport Cargo Road, Singapore"
+}

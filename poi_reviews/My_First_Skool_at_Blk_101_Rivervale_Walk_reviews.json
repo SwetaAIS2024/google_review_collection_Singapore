@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Blk 101 Rivervale Walk, #01-40, Singapore 540101",
+  "geometry": {
+    "location": {
+      "lat": 1.382678,
+      "lng": 103.899465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384085830291502,
+        "lng": 103.9008565802915
+      },
+      "southwest": {
+        "lat": 1.381387869708498,
+        "lng": 103.8981586197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 101 Rivervale Walk",
+  "place_id": "ChIJ0QlqKRYW2jERLoMqGb6jFME",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lukas LimCheeHao",
+      "author_url": "https://www.google.com/maps/contrib/111490473045279623284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm5I7Z4iVRg-6Mkz6I3iJmbZ_g6G6hB5Mw_csnSkO3NcLB_5tHtA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "It's heartwarming to see kids being taught here by enthusiastic teachers",
+      "time": 1600321320,
+      "translated": false
+    },
+    {
+      "author_name": "Rina Aravin",
+      "author_url": "https://www.google.com/maps/contrib/106889308190419802476/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV--eJbXJkBU29eVV2sAdoQe7fds1_FJtCoTI7r1nxB5TSACscU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1671839314,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13912925185715634990",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 101 Rivervale Walk, #01-40"
+}

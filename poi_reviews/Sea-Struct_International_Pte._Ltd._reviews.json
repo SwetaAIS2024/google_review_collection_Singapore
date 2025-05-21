@@ -1,0 +1,27 @@
+{
+  "formatted_address": "50 Changi South Street 1, Singapore 486126",
+  "geometry": {
+    "location": {
+      "lat": 1.338236,
+      "lng": 103.972652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339655930291502,
+        "lng": 103.9740511302915
+      },
+      "southwest": {
+        "lat": 1.336957969708498,
+        "lng": 103.9713531697085
+      }
+    }
+  },
+  "name": "Sea-Struct International Pte. Ltd.",
+  "place_id": "ChIJneKyzcQ82jERiuwW6ak6PH0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9024152254778109066",
+  "vicinity": "50 Changi South Street 1"
+}

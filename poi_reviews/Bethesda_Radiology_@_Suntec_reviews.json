@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Temasek Blvd, #03-330 (Tower 1-2 Suntec City, North Wing, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2961165,
+      "lng": 103.8589678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297535330291502,
+        "lng": 103.8603892802915
+      },
+      "southwest": {
+        "lat": 1.294837369708498,
+        "lng": 103.8576913197085
+      }
+    }
+  },
+  "name": "Bethesda Radiology @ Suntec",
+  "place_id": "ChIJjVaRSycZ2jERN226fzxNHSw",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3178781834229738807",
+  "vicinity": "3 Temasek Boulevard, #03-330 (Tower 1-2 Suntec City, North Wing"
+}

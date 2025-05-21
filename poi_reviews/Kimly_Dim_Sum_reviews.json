@@ -1,0 +1,58 @@
+{
+  "formatted_address": "138 Tampines St. 11, Block 138, Singapore 521138",
+  "geometry": {
+    "location": {
+      "lat": 1.3456858,
+      "lng": 103.9456634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347165880291502,
+        "lng": 103.9468932802915
+      },
+      "southwest": {
+        "lat": 1.344467919708498,
+        "lng": 103.9441953197085
+      }
+    }
+  },
+  "name": "Kimly Dim Sum",
+  "place_id": "ChIJGbYfWQA92jER0XGUYbyFuh0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jaime Phua",
+      "author_url": "https://www.google.com/maps/contrib/112223496890883053127/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6EtkxKnKJb7HoTbS2Nr4FQBDMIvVQK7TJpiNyTcfr5nRG5w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Went there to have breakfast w my family. Love their new menu — The Nanyang Curry Chee Cheong Fun was delicious, smooth rice rolls with rich, spicy curry and crispy toppings. And I like the Pork Ribs Curry Chee Cheong Fun, the Steamed Pork Ribs is super tender and hearty.\nAnother new dish is the Nanyang Otak Siew Mai — spicy otak filling in a black charcoal skin, so unique and flavour-packed! Price is very reasonable also, $3.20 for 3 pcs. Great dining option for anytime of the day since it’s open 24/7!",
+      "time": 1744858298,
+      "translated": false
+    },
+    {
+      "author_name": "Ivy Loh",
+      "author_url": "https://www.google.com/maps/contrib/114013046824423484490/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe1KDcPAqAvT4NbMYh__kzca8FdVoItk_67BG7BXFQgz81F9M=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I always love their dim sum as it's affordable and pretty decent. They recently launched a new nanyang flavour menu and that includes my fav ccf in curry~ currently 2 types to choose from n remember to try their otah Siew Mai too!",
+      "time": 1744902922,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2142171616905556433",
+  "user_ratings_total": 2,
+  "vicinity": "138 Tampines Street 11, Block 138, Singapore"
+}

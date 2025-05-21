@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Simei Street 6, Singapore 528833",
+  "geometry": {
+    "location": {
+      "lat": 1.342806,
+      "lng": 103.952974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343871380291502,
+        "lng": 103.9545504802915
+      },
+      "southwest": {
+        "lat": 1.341173419708498,
+        "lng": 103.9518525197085
+      }
+    }
+  },
+  "name": "i12Learn Centre",
+  "place_id": "ChIJ62ujTyI92jERpjKPrnO25E8",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5756926831652450982",
+  "vicinity": "3 Simei Street 6"
+}

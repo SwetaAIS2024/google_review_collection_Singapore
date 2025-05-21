@@ -1,0 +1,44 @@
+{
+  "formatted_address": "31 Lorong Chuan, Singapura 556820",
+  "geometry": {
+    "location": {
+      "lat": 1.3510242,
+      "lng": 103.8600274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.352204030291502,
+        "lng": 103.8610554802915
+      },
+      "southwest": {
+        "lat": 1.349506069708498,
+        "lng": 103.8583575197085
+      }
+    }
+  },
+  "name": "Chuan Grove Open Field",
+  "place_id": "ChIJTWCDRwAX2jERSxzfq2qXeIo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "babul Aktar",
+      "author_url": "https://www.google.com/maps/contrib/108707657904295710472/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlbaStmTxjRGE8sxqkLs-gV2XmHGBd-m8FG5vblhxfE32dAyw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Awesome.",
+      "time": 1734053991,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9977891458845187147",
+  "user_ratings_total": 1,
+  "vicinity": "31 Lorong Chuan, Singapura"
+}

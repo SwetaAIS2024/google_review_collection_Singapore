@@ -1,0 +1,30 @@
+{
+  "formatted_address": "727e E Coast Rd, Singapore 459073",
+  "geometry": {
+    "location": {
+      "lat": 1.3125125,
+      "lng": 103.9229467
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313719480291502,
+        "lng": 103.9243457802915
+      },
+      "southwest": {
+        "lat": 1.311021519708498,
+        "lng": 103.9216478197085
+      }
+    }
+  },
+  "name": "Tasty Chef",
+  "place_id": "ChIJF59KdAAj2jERUz_F5Kzfsso",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14605982475181440851",
+  "vicinity": "727e East Coast Road"
+}

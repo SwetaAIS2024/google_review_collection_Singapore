@@ -1,0 +1,45 @@
+{
+  "formatted_address": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.3543846,
+      "lng": 103.9601216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355482980291502,
+        "lng": 103.9614010802915
+      },
+      "southwest": {
+        "lat": 1.352785019708498,
+        "lng": 103.9587031197085
+      }
+    }
+  },
+  "name": "Meet Noodles",
+  "place_id": "ChIJY2KuPQA92jERHh3fJMuBb1U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nunki Ang",
+      "author_url": "https://www.google.com/maps/contrib/115049581451574514827/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVE6rpI7h8Ts_EB4JEXvYMjK_PoikIOlxTXTA6tIPitdoDlJQB-=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The food stall is at Koufo Hawker Center. The place now is much better vibe after renovation. I'm so happy. I love the staffs, they are so friendly and helpful. The fish soup, fried or steam wether with rice or bee hoon are our favorite dish. Oh and also chicken porridge. The portion is huge. They're open quite early in the morning. So its really convinience for my needs. Will come back again for sure!",
+      "time": 1727695015,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6156281925135703326",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore"
+}

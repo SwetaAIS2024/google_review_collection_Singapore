@@ -1,0 +1,57 @@
+{
+  "formatted_address": "11 Carmichael Rd, Singapore 359795",
+  "geometry": {
+    "location": {
+      "lat": 1.3434045,
+      "lng": 103.8640354
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344784930291502,
+        "lng": 103.8653214802915
+      },
+      "southwest": {
+        "lat": 1.342086969708498,
+        "lng": 103.8626235197085
+      }
+    }
+  },
+  "name": "Sonali Khandelwal @ Hanggy Food ( Home Cooked Food )",
+  "place_id": "ChIJJ786ijIX2jERvlKeafFR0yc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "rama shankar swarnkar",
+      "author_url": "https://www.google.com/maps/contrib/114434843711021370577/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuknP7lx-xyxTEC3DnEa2Xf_SZ87aZe63XOxXYPHvZQV5iAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Thanks for the delicious food all this possible because of hanggy food app. Order from hanggy app",
+      "time": 1652696526,
+      "translated": false
+    },
+    {
+      "author_name": "Hari Narayanan",
+      "author_url": "https://www.google.com/maps/contrib/116741156278976453652/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu91Kb1D2G4KZXkg92dtgTFSVk1MW_502Xc5N5KBnbqpLwEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nothing beats home   cooked with love ❤️ :)",
+      "time": 1689608899,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2869727484866089662",
+  "user_ratings_total": 2,
+  "vicinity": "11 Carmichael Road, Singapore"
+}

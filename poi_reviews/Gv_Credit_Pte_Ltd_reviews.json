@@ -1,0 +1,53 @@
+{
+  "formatted_address": "101 Joo Chiat Rd, #01-01 GV Building, Singapore 427395",
+  "geometry": {
+    "location": {
+      "lat": 1.3139815,
+      "lng": 103.8993443
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315287580291502,
+        "lng": 103.9006296302915
+      },
+      "southwest": {
+        "lat": 1.312589619708498,
+        "lng": 103.8979316697085
+      }
+    }
+  },
+  "name": "Gv Credit Pte Ltd",
+  "place_id": "ChIJYwjlDxEY2jERP_cXFewbBHY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Chow Lee Jean",
+      "author_url": "https://www.google.com/maps/contrib/113673475263981004435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEKjDvSxzl_yNl7ZbHMfr77y1xeIC8vMzL34UUI-tS0-wuroxT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735271233,
+      "translated": false
+    },
+    {
+      "author_name": "Julieana Simen",
+      "author_url": "https://www.google.com/maps/contrib/112497943673471897924/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB_XrEygyN8t1OEZiG92lcmubwtirEeVy0JQZaDiuUFS264shy=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638857452,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8503952697162463039",
+  "user_ratings_total": 2,
+  "vicinity": "101 Joo Chiat Road, #01-01 GV Building"
+}

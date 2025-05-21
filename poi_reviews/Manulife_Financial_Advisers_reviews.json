@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Commonwealth Ave, Singapore 142007",
+  "geometry": {
+    "location": {
+      "lat": 1.3040862,
+      "lng": 103.7970055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305573330291502,
+        "lng": 103.7981826802915
+      },
+      "southwest": {
+        "lat": 1.302875369708498,
+        "lng": 103.7954847197085
+      }
+    }
+  },
+  "name": "Manulife Financial Advisers",
+  "place_id": "ChIJywR1uEAa2jERXS9IfqVP_j4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4539153046642896733",
+  "vicinity": "Commonwealth Avenue"
+}

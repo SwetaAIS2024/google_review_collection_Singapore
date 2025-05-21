@@ -1,0 +1,46 @@
+{
+  "formatted_address": "09-07 Sinaran Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320758,
+      "lng": 103.8431449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322127680291502,
+        "lng": 103.8445009802915
+      },
+      "southwest": {
+        "lat": 1.319429719708498,
+        "lng": 103.8418030197085
+      }
+    }
+  },
+  "name": "La Pharma",
+  "place_id": "ChIJ8YrTWOcZ2jER8NSRV6WQw-I",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Coco O",
+      "author_url": "https://www.google.com/maps/contrib/101461615639083957237/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCVC274nf8ex9uULDrBvfI_dq8wy_Qm265ilmKVo2IhjCC0I4=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "This is only a pharmacy for the patients of Sunway clinic",
+      "time": 1667806761,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16340062912843470064",
+  "user_ratings_total": 1,
+  "vicinity": "09-07 Sinaran Drive"
+}

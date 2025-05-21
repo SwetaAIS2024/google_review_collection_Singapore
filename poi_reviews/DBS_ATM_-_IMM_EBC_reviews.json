@@ -1,0 +1,45 @@
+{
+  "formatted_address": "2 Jurong East Street 21, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.33494,
+      "lng": 103.74687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336324830291502,
+        "lng": 103.7485407302915
+      },
+      "southwest": {
+        "lat": 1.333626869708498,
+        "lng": 103.7458427697085
+      }
+    }
+  },
+  "name": "DBS ATM - IMM EBC",
+  "place_id": "ChIJh_Uoj1YR2jER2wGsi7R7kZE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sky Paperie",
+      "author_url": "https://www.google.com/maps/contrib/104910323719790101958/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg4iah2nUuNzC8Dt4iX5ED-WZm_rKe9HoxTPQRatEtL9N51Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "IMM level one undergoing renovations. They shifted the DBS ATM to infront of Burger King.",
+      "time": 1718093601,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10489301022490231259",
+  "user_ratings_total": 1,
+  "vicinity": "2 Jurong East Street 21, Singapore"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "31 Temple St, Singapore 058576",
+  "geometry": {
+    "location": {
+      "lat": 1.2827311,
+      "lng": 103.8442962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283931730291502,
+        "lng": 103.8455884302915
+      },
+      "southwest": {
+        "lat": 1.281233769708498,
+        "lng": 103.8428904697085
+      }
+    }
+  },
+  "name": "國醫中醫師",
+  "place_id": "ChIJRXjCMXMZ2jERCsF48aMElzw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zakir Malek",
+      "author_url": "https://www.google.com/maps/contrib/105665339098690094776/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcTu7qqU-YDpgSZKDTZaff6Sx1YIle4m8ZpZuGe8fRO9mRUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Good service",
+      "time": 1720798149,
+      "translated": false
+    },
+    {
+      "author_name": "Han",
+      "author_url": "https://www.google.com/maps/contrib/104452789723093409958/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBCM05JiJKh6j8G90tGvm7yzLSsjVpgLGiBbML05zf7M3i9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I recommend the Winson physiotherapist here. He will patiently listen to your physical condition and then tell you how to solve it🥰",
+      "time": 1652002606,
+      "translated": true
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4365963465936388362",
+  "user_ratings_total": 2,
+  "vicinity": "31 Temple Street, Singapore"
+}

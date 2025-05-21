@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3057009,
+      "lng": 103.9155709
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307024380291502,
+        "lng": 103.9172059302915
+      },
+      "southwest": {
+        "lat": 1.304326419708498,
+        "lng": 103.9145079697085
+      }
+    }
+  },
+  "name": "A.M Chin Seng Kee Chicken Rice Noodle",
+  "place_id": "ChIJ00cWxp8i2jERCvc8LaaUhr4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13728823955529987850",
+  "vicinity": "Singapore"
+}

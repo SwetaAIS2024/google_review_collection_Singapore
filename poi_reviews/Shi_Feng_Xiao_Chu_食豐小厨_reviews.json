@@ -1,0 +1,69 @@
+{
+  "formatted_address": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.354432,
+      "lng": 103.9601596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355506680291502,
+        "lng": 103.9614200802915
+      },
+      "southwest": {
+        "lat": 1.352808719708498,
+        "lng": 103.9587221197085
+      }
+    }
+  },
+  "name": "Shi Feng Xiao Chu 食豐小厨",
+  "place_id": "ChIJByGiRgA92jERjjxEKdJdrhY",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "C. P. Justin",
+      "author_url": "https://www.google.com/maps/contrib/106926631428780714500/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCXRoDIRANmPB5ePwZDPpqR5vNCq7w2urz6eXkQw35x9r5uQIByA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "Pork chops are damn thin like paper. Fried rice okay.",
+      "time": 1738751909,
+      "translated": false
+    },
+    {
+      "author_name": "Yingjun Fang",
+      "author_url": "https://www.google.com/maps/contrib/103012458006746494720/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuO9jTqTqAkZosPqt9-hEn-Xgx5DqgNuvy3FDSxD8veKkJ2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Highly recommended! Pork chop egg fried rice or shrimp egg fried rice is only $7.5.  Their fried rice is really good! The waiting time is short. Definitely will come again.",
+      "time": 1727771465,
+      "translated": false
+    },
+    {
+      "author_name": "Jie Hong",
+      "author_url": "https://www.google.com/maps/contrib/107917542928564207361/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe64Fv1Hqdn1bsCI1USiYrTEw8fA4o0mUfMtKdHU6Uz7M6rbEx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Delicious. Will come again next time👍👍👍",
+      "time": 1727766509,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1634346871998921870",
+  "user_ratings_total": 3,
+  "vicinity": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart"
+}

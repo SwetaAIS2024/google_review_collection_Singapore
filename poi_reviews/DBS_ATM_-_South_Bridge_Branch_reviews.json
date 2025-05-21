@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Blk 531 Upper Cross Street #01-51 Hong Lim Complex, Singapore 050531",
+  "geometry": {
+    "location": {
+      "lat": 1.28443,
+      "lng": 103.84622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285535030291502,
+        "lng": 103.8474635802915
+      },
+      "southwest": {
+        "lat": 1.282837069708498,
+        "lng": 103.8447656197085
+      }
+    }
+  },
+  "name": "DBS ATM - South Bridge Branch",
+  "place_id": "ChIJlYNxXQsZ2jER2x-iNfu6gxQ",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Joaco Fogel",
+      "author_url": "https://www.google.com/maps/contrib/102532783902214629997/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFKT-mMoKaEVb9N2m-ptQJKd778693YQnj_8oUriamQc4KKg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "ATM located on the pedestrian side street. Works fine with foreign cards. 3.85% commission tho",
+      "time": 1707742122,
+      "translated": false
+    },
+    {
+      "author_name": "mingdorr",
+      "author_url": "https://www.google.com/maps/contrib/109209453354278077819/reviews",
+      "language": "en-US",
+      "original_language": "ko",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifKiyh_ihcQA6I38LKAJG_mbWw1s__PP9PyFM9Tpy_EGi2DGb=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "There is a 5 singdal fee when withdrawing from Travellog.",
+      "time": 1707913983,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1478230690807029723",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 531 Upper Cross Street #01-51 Hong Lim Complex, Singapore"
+}

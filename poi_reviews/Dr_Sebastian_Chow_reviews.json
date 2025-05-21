@@ -1,0 +1,45 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #04-05, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3048385,
+      "lng": 103.8360498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306211430291502,
+        "lng": 103.8373200302915
+      },
+      "southwest": {
+        "lat": 1.303513469708498,
+        "lng": 103.8346220697085
+      }
+    }
+  },
+  "name": "Dr Sebastian Chow",
+  "place_id": "ChIJHacSR5IZ2jER_TJofqao_iM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gregory Tan",
+      "author_url": "https://www.google.com/maps/contrib/110231348145843250013/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZ3kC5j4HqCACOfF-Bz4DFvcRCPjJd9k-EamWVl5i-zp17DLNH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I have gotten braces from Dr Chow. My experience has been very positive. Dr Chow explains what he's doing very clearly at every step of the process, and makes it as comfortable and painless as possible. The staff are all very friendly and professional.",
+      "time": 1622258960,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2593695868450779901",
+  "user_ratings_total": 1,
+  "vicinity": "3 Mount Elizabeth, #04-05, Singapore"
+}

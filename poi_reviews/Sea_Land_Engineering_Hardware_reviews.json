@@ -1,0 +1,53 @@
+{
+  "formatted_address": "1 Pioneer Rd N, Singapore 628455",
+  "geometry": {
+    "location": {
+      "lat": 1.3252696,
+      "lng": 103.6961712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326617330291502,
+        "lng": 103.6974214802915
+      },
+      "southwest": {
+        "lat": 1.323919369708498,
+        "lng": 103.6947235197085
+      }
+    }
+  },
+  "name": "Sea Land Engineering Hardware",
+  "place_id": "ChIJQVOC5GIF2jERaAj72KRmS30",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Michael Phua",
+      "author_url": "https://www.google.com/maps/contrib/101286751841475816535/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIJcZ97h6R-Tv43FGVRSckiNIEL_Kpir2XAoJ3WpK_0tKomQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741769044,
+      "translated": false
+    },
+    {
+      "author_name": "Bill Bradnick",
+      "author_url": "https://www.google.com/maps/contrib/111137531753028194073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXhRH_K5AMHqaM1xbNchgBVGjilu6kUQz9TjwpQgzB6oNwtkQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501299011,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hardware_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9028422736195291240",
+  "user_ratings_total": 2,
+  "vicinity": "1 Pioneer Road North, Singapore"
+}

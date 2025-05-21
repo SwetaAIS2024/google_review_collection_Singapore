@@ -1,0 +1,61 @@
+{
+  "formatted_address": "101 Sakra Ave, Singapore 627888",
+  "geometry": {
+    "location": {
+      "lat": 1.263143,
+      "lng": 103.6969612
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.264646080291502,
+        "lng": 103.6981239802915
+      },
+      "southwest": {
+        "lat": 1.261948119708498,
+        "lng": 103.6954260197085
+      }
+    }
+  },
+  "name": "INEOS Phenol Singapore",
+  "place_id": "ChIJLyNDo5oE2jERPPCUH7w5dM0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bala murugan",
+      "author_url": "https://www.google.com/maps/contrib/103258281670933496318/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITlOCVW_2yTDjx_Tv50UecLnTFbggUldeniQ3i0kXi_gGg7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1625447152,
+      "translated": false
+    },
+    {
+      "author_name": "Kai",
+      "author_url": "https://www.google.com/maps/contrib/118386975090213218829/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLxidnSBISstFg25aUFpphlYf9CYH6vTeQOCDXa3TJ-yrcog=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514200863,
+      "translated": false
+    },
+    {
+      "author_name": "Azman A",
+      "author_url": "https://www.google.com/maps/contrib/101923597223779868044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHePJl92PaJZMR3NJaV7V_HjuQx-Nfse_XsubrkaElxfmuf4Q0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508385228,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14804521355220152380",
+  "user_ratings_total": 3,
+  "vicinity": "101 Sakra Avenue"
+}

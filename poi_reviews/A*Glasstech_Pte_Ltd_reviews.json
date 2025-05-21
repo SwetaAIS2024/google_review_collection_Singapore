@@ -1,0 +1,41 @@
+{
+  "formatted_address": "81 Tuas View Walk 1, Singapore 637620",
+  "geometry": {
+    "location": {
+      "lat": 1.300995,
+      "lng": 103.6263602
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302026280291502,
+        "lng": 103.6276219802915
+      },
+      "southwest": {
+        "lat": 1.299328319708498,
+        "lng": 103.6249240197085
+      }
+    }
+  },
+  "name": "A*Glasstech Pte Ltd",
+  "place_id": "ChIJWctxQ3AG2jERKkDKTpWTM3s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jayasenthil G",
+      "author_url": "https://www.google.com/maps/contrib/113392127281913445129/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtLY0RrNwv2IrUPwph9qpu3dj1vH6tOJP_ZA86fw0TQOyhbBnw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1468663691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8877601559958667306",
+  "user_ratings_total": 1,
+  "vicinity": "81 Tuas View Walk 1"
+}

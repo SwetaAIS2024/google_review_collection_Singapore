@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Hougang St 21, Blk 208, Singapore 530208",
+  "geometry": {
+    "location": {
+      "lat": 1.3586913,
+      "lng": 103.886624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359944930291502,
+        "lng": 103.8880597802915
+      },
+      "southwest": {
+        "lat": 1.357246969708498,
+        "lng": 103.8853618197085
+      }
+    }
+  },
+  "name": "Kovan Piano & Music",
+  "place_id": "ChIJm9GnCmEX2jERmXUAoD26mHU",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8473727472737744281",
+  "vicinity": "Hougang Street 21, Blk 208"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "50 Collyer Quay, Singapore 049321",
+  "geometry": {
+    "location": {
+      "lat": 1.283151,
+      "lng": 103.8530372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284563380291502,
+        "lng": 103.8542807302915
+      },
+      "southwest": {
+        "lat": 1.281865419708498,
+        "lng": 103.8515827697085
+      }
+    }
+  },
+  "name": "Skandinaviska Enskilda Banken",
+  "place_id": "ChIJ9-yBSAkZ2jERcBGhpnUgzWU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "SJ Tan",
+      "author_url": "https://www.google.com/maps/contrib/109695727983209969750/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsb2yHZsUzSEKARbdzhWjH8sVdU5repIoecKrMlIN61fIaNkW1DA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503737920,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7335555057735242096",
+  "user_ratings_total": 1,
+  "vicinity": "50 Collyer Quay"
+}

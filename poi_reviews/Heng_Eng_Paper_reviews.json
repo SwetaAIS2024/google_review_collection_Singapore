@@ -1,0 +1,57 @@
+{
+  "formatted_address": "6 Eunos Cres, #01-2637, Singapore 400006",
+  "geometry": {
+    "location": {
+      "lat": 1.3213436,
+      "lng": 103.9042301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322709230291502,
+        "lng": 103.9055202302915
+      },
+      "southwest": {
+        "lat": 1.320011269708498,
+        "lng": 103.9028222697085
+      }
+    }
+  },
+  "name": "Heng Eng Paper",
+  "place_id": "ChIJkbS7mAQY2jERBgCb5cadEXg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "kris kwang",
+      "author_url": "https://www.google.com/maps/contrib/100106796940773490122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRc-ssq6rAcjOkzELRGv9UNyNWJA-w2yNgBHk8VptWaJcdf3tS=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Stuck up service",
+      "time": 1742027985,
+      "translated": false
+    },
+    {
+      "author_name": "Adam R",
+      "author_url": "https://www.google.com/maps/contrib/108418592221673476757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVd49-CsHqAoS7ljf6ehQ8QZyL75biU-KWbIUCDO2rA_x075yFS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720626930,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8651869836736659462",
+  "user_ratings_total": 2,
+  "vicinity": "6 Eunos Crescent, #01-2637"
+}

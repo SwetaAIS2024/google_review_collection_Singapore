@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Bukit Timah Rd, Singapore 269734",
+  "geometry": {
+    "location": {
+      "lat": 1.3256097,
+      "lng": 103.805796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326860230291502,
+        "lng": 103.8070465802915
+      },
+      "southwest": {
+        "lat": 1.324162269708498,
+        "lng": 103.8043486197085
+      }
+    }
+  },
+  "name": "Jing Xian library (敬贤图书馆)",
+  "place_id": "ChIJD6AFBwAb2jERwIkzlp8b7SY",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2804928515155397056",
+  "vicinity": "Bukit Timah Road, Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.373594,
+      "lng": 103.994431
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374926730291502,
+        "lng": 103.9958191302915
+      },
+      "southwest": {
+        "lat": 1.372228769708498,
+        "lng": 103.9931211697085
+      }
+    }
+  },
+  "name": "SATS Cargo Ter",
+  "place_id": "ChIJydFG6m882jERYrWB9oFVyKo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ahmad Samsuri",
+      "author_url": "https://www.google.com/maps/contrib/100340708502808768193/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN9BLOwhV6QRQh3IqEt5FuHXr4yR47nuWZ1kFRTenBxGc2pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605615468,
+      "translated": false
+    },
+    {
+      "author_name": "Halim Chen",
+      "author_url": "https://www.google.com/maps/contrib/112219002091051667437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLbsx6970FjKPW0XBvY0F3_DVUHo_iuykkhoTSL2HPtOHnPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496575127,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12306179998464718178",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

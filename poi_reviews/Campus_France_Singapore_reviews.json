@@ -1,0 +1,61 @@
+{
+  "formatted_address": "103 Cluny Park Rd, #101 Embassy of France in Singapore, Singapore 259595",
+  "geometry": {
+    "location": {
+      "lat": 1.32232,
+      "lng": 103.814162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323582330291502,
+        "lng": 103.8155815302915
+      },
+      "southwest": {
+        "lat": 1.320884369708498,
+        "lng": 103.8128835697085
+      }
+    }
+  },
+  "name": "Campus France Singapore",
+  "place_id": "ChIJk87SngYa2jERY2bFUkqhi8I",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Arthur B",
+      "author_url": "https://www.google.com/maps/contrib/115823485355762417003/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBU3uLSbcauiVSBrOTS_54oHZTjz7J7gowiRdtWsAaDczrjyPh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611733966,
+      "translated": false
+    },
+    {
+      "author_name": "Héléna Visquis",
+      "author_url": "https://www.google.com/maps/contrib/110187297973296282287/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKItx0TE7ELCXCpEAGXrVtcsmjSTiCez06aTjYr78PIrVtfAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726126654,
+      "translated": false
+    },
+    {
+      "author_name": "Abdurrauf Yusuf",
+      "author_url": "https://www.google.com/maps/contrib/116868618875270963901/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOA2gZM8rYM0bITNcQrE15OwLN7VNC-h6VNDCZUs9FoKBbY7Wg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506334595,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14018475605709121123",
+  "user_ratings_total": 3,
+  "vicinity": "103 Cluny Park Road, #101 Embassy of France in Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "2 Jurong Gateway Rd, Singapore 608512",
+  "geometry": {
+    "location": {
+      "lat": 1.3370497,
+      "lng": 103.7471071
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338319380291502,
+        "lng": 103.7486512802915
+      },
+      "southwest": {
+        "lat": 1.335621419708498,
+        "lng": 103.7459533197085
+      }
+    }
+  },
+  "name": "Community Gardens @ JPG",
+  "place_id": "ChIJYU413SYR2jERU5oYiQSs7gw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Luqmanul Hakim Bin Shamsir Ali",
+      "author_url": "https://www.google.com/maps/contrib/109034470669549006836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6RD7CCU0eEJu1-a9Xg_Z8SBOi8AHp2Vh_B_nTYN7opS3RW7qt=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "I don't know why this vending machine is dispensing hot as hell drinks. Is it broken or? It's not funny.",
+      "time": 1747390406,
+      "translated": false
+    },
+    {
+      "author_name": "J Chua",
+      "author_url": "https://www.google.com/maps/contrib/109478616645487880917/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2t0y0caAd3e9F3feqbui7sj2U4ZI9ki8hvwkFndi20UWb9t0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665906109,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=931871308392208979",
+  "user_ratings_total": 2,
+  "vicinity": "2 Jurong Gateway Road"
+}

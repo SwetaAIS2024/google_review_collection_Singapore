@@ -1,0 +1,30 @@
+{
+  "formatted_address": "259 Lavender St., Singapore 338793",
+  "geometry": {
+    "location": {
+      "lat": 1.315414,
+      "lng": 103.8590728
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316797330291502,
+        "lng": 103.8604741302915
+      },
+      "southwest": {
+        "lat": 1.314099369708498,
+        "lng": 103.8577761697085
+      }
+    }
+  },
+  "name": "Curarto",
+  "place_id": "ChIJGyYa_AIZ2jERCjwrVtr81Zc",
+  "types": [
+    "art_gallery",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10940928884445232138",
+  "vicinity": "259 Lavender Street"
+}

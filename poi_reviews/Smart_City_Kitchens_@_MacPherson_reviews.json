@@ -1,0 +1,45 @@
+{
+  "formatted_address": "56 Kallang Pudding Rd, #02-01 HH@Kallang, Singapore 349328",
+  "geometry": {
+    "location": {
+      "lat": 1.3281716,
+      "lng": 103.878971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329430780291502,
+        "lng": 103.8804417802915
+      },
+      "southwest": {
+        "lat": 1.326732819708498,
+        "lng": 103.8777438197085
+      }
+    }
+  },
+  "name": "Smart City Kitchens @ MacPherson",
+  "place_id": "ChIJf-2dM6kX2jERus7Af1J2GVk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Y E",
+      "author_url": "https://www.google.com/maps/contrib/108819938538897639773/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCaeCzFIr7IYvDHxOPA9IQGHy5ArEhDwkEu0nflrArMIVHVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700229848,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6420292840496090810",
+  "user_ratings_total": 1,
+  "vicinity": "56 Kallang Pudding Road, #02-01 HH@Kallang"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.427373,
+      "lng": 103.636329
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428756230291502,
+        "lng": 103.6376806802915
+      },
+      "southwest": {
+        "lat": 1.426058269708498,
+        "lng": 103.6349827197085
+      }
+    }
+  },
+  "name": "Gleanegeous Medini Medical Centre,Lebuh Medini Utama",
+  "place_id": "ChIJnZ7DH3YM2jERG6p5BmtTW68",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sumbang Sumbang",
+      "author_url": "https://www.google.com/maps/contrib/115828444065800322193/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSm4yEe1iNFgqgvg-UvT0iftKOetcS4Ut8LZYpFkmUMrDBfQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Beautiful, clean, , best service",
+      "time": 1665199211,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12635784898653301275",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

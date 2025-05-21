@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2774793,
+      "lng": 103.6773153
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278901180291502,
+        "lng": 103.6786040302915
+      },
+      "southwest": {
+        "lat": 1.276203219708498,
+        "lng": 103.6759060697085
+      }
+    }
+  },
+  "name": "ACR Engineering Warehouse",
+  "place_id": "ChIJ1SUR4lsF2jER9KnCyOmafl8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Veer Reddy Pulagam",
+      "author_url": "https://www.google.com/maps/contrib/102886326673372758751/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXAcpaaqRevW5HAObzoSFo5ijSbeyVARRS5RTbek4WYc0gZa_yWA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715144895,
+      "translated": false
+    },
+    {
+      "author_name": "Periasamy Munusamy",
+      "author_url": "https://www.google.com/maps/contrib/113408823220756824831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW54GrnuUdsYAtezvsVd-3H0AqQ9htY0O_B8XzwXr9yjIDfQ-L0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689160371,
+      "translated": false
+    }
+  ],
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6881107609554954740",
+  "user_ratings_total": 2,
+  "vicinity": "Jurong Island"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "2 Adam Rd, #01-17, Singapore 289876",
+  "geometry": {
+    "location": {
+      "lat": 1.324088,
+      "lng": 103.814086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325617630291502,
+        "lng": 103.8154861802915
+      },
+      "southwest": {
+        "lat": 1.322919669708498,
+        "lng": 103.8127882197085
+      }
+    }
+  },
+  "name": "You Ji",
+  "place_id": "ChIJv4Mk4QYa2jERvooRgG5ALAM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Johnson Ng",
+      "author_url": "https://www.google.com/maps/contrib/118415566447418177269/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVddmc6nvfXMii_eXHh5pLpWYIVElEaAhgYPMQidHySECmbldGv=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "The vendor use plain white rice and she told me is chicken rice’s Rice",
+      "time": 1510201361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=228628524428266174",
+  "user_ratings_total": 1,
+  "vicinity": "2 Adam Road, #01-17, Singapore"
+}

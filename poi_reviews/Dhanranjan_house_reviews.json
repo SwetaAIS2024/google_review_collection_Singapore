@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3539956,
+      "lng": 103.819624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3589112,
+        "lng": 103.8205783802915
+      },
+      "southwest": {
+        "lat": 1.3519512,
+        "lng": 103.8178804197085
+      }
+    }
+  },
+  "name": "Dhanranjan house",
+  "place_id": "ChIJ0xWgTGMR2jER353xv5D76b4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13756803135894035935",
+  "vicinity": "Singapore"
+}

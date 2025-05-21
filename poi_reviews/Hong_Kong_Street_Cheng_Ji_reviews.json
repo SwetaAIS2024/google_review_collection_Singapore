@@ -1,0 +1,68 @@
+{
+  "formatted_address": "323 Bukit Batok Street 33, #01-114, Singapore 650323",
+  "geometry": {
+    "location": {
+      "lat": 1.3611836,
+      "lng": 103.748241
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362525580291502,
+        "lng": 103.7496901302915
+      },
+      "southwest": {
+        "lat": 1.359827619708498,
+        "lng": 103.7469921697085
+      }
+    }
+  },
+  "name": "Hong Kong Street Cheng Ji",
+  "place_id": "ChIJTdAGSAAR2jERFNMjQDMANac",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Adrian Lau Kok Shong",
+      "author_url": "https://www.google.com/maps/contrib/103152743425176648299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8asgKBgo3RlObfuM4rDMFclTfG-g8RU3h5MzsXr6XJOI2-g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "The worst lemon chicken meat i ever eat and taste. Meat is hard and hard to chew. No standard and will never buy again. Better the close shop.",
+      "time": 1736678436,
+      "translated": false
+    },
+    {
+      "author_name": "Yeo Kai He",
+      "author_url": "https://www.google.com/maps/contrib/117142361494172287443/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0c_yfOeBj-mX1Wp6N9rGm4cM88TUfGGBOZgeO93Wmn3WU1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "Random pricing, poor service",
+      "time": 1733746692,
+      "translated": true
+    },
+    {
+      "author_name": "Chan Yong",
+      "author_url": "https://www.google.com/maps/contrib/109860792140988167217/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1NVrrWxjNiy2th35lZfhG2Tmrlf5xi3Mr2zEPoBY2AbU-AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745323166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12048536598219051796",
+  "user_ratings_total": 3,
+  "vicinity": "323 Bukit Batok Street 33, #01-114"
+}

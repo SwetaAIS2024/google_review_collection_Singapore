@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Lor Tanggam, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3990161,
+      "lng": 103.8737998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400360980291502,
+        "lng": 103.8749715302915
+      },
+      "southwest": {
+        "lat": 1.397663019708498,
+        "lng": 103.8722735697085
+      }
+    }
+  },
+  "name": "Lorong Tanggam Park",
+  "place_id": "ChIJd8ZU1X4W2jERNbIDHFbZtK8",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Hazel Ng",
+      "author_url": "https://www.google.com/maps/contrib/117846735484163490175/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViXruI9l10TDTXAB6Fl7OHAXvLWopF4s619S8AzYEaYDpiTGTjXA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "is a small park in private estate with interesting see-saw and swing but it seemed not well maintained. btw, there should be a pathway and stairway leading to fernvale road?",
+      "time": 1716127346,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12660983416305726005",
+  "user_ratings_total": 1,
+  "vicinity": "Lorong Tanggam"
+}

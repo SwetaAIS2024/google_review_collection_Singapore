@@ -1,0 +1,69 @@
+{
+  "formatted_address": "333A Orchard Rd, #03 - 21 Mandarin Gallery, Singapore 238897",
+  "geometry": {
+    "location": {
+      "lat": 1.302012,
+      "lng": 103.8362711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303304680291502,
+        "lng": 103.8376223302915
+      },
+      "southwest": {
+        "lat": 1.300606719708498,
+        "lng": 103.8349243697085
+      }
+    }
+  },
+  "name": "excluniqueeee",
+  "place_id": "ChIJnYVe14wX2jERrbvxsCw2Z2I",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Mashy Mellow",
+      "author_url": "https://www.google.com/maps/contrib/116120209754083627099/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi6Epl4jqQj44XslVX_wPmCaILl2dCrSXBeWneft-sFMeJBrPqKg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Nice unique pieces of earrings. Situated in Mandrin Gallery. Some pcs are buy 1 get 1 free.",
+      "time": 1545662299,
+      "translated": false
+    },
+    {
+      "author_name": "Cath Auge",
+      "author_url": "https://www.google.com/maps/contrib/112711926329680743467/reviews",
+      "language": "en-US",
+      "original_language": "fr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQJs3kjTeLk1K53PlpmCTr-z-uVL3FHXvdZCj8joW0ycThRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Nice",
+      "time": 1576597763,
+      "translated": true
+    },
+    {
+      "author_name": "Nur Hayati",
+      "author_url": "https://www.google.com/maps/contrib/101312311673720509805/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDckdl9cpiZCgkZkKdCAn_wpxfm-5iZQK1gXbUiipTOD_9CQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599127516,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "art_gallery",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7090695703893228461",
+  "user_ratings_total": 3,
+  "vicinity": "333A Orchard Road, #03 - 21 Mandarin Gallery"
+}

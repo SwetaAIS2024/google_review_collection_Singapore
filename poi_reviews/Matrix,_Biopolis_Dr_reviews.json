@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30322,
+      "lng": 103.79274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304568830291502,
+        "lng": 103.7941066802915
+      },
+      "southwest": {
+        "lat": 1.301870869708498,
+        "lng": 103.7914087197085
+      }
+    }
+  },
+  "name": "Matrix, Biopolis Dr",
+  "place_id": "ChIJM3NCqkYa2jEREfWxGxRmolQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6098549081963099409",
+  "vicinity": "Singapore"
+}

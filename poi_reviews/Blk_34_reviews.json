@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304255,
+      "lng": 103.912323
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305619330291502,
+        "lng": 103.9136739302915
+      },
+      "southwest": {
+        "lat": 1.302921369708498,
+        "lng": 103.9109759697085
+      }
+    }
+  },
+  "name": "Blk 34",
+  "place_id": "ChIJ36s7unUY2jERpdOyhQWf1Tk",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Mage Lim",
+      "author_url": "https://www.google.com/maps/contrib/117679891876903192537/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwFqeBSDjxVIFJELIw4XXrpqZe6YSjz2CInXFvKDXxG1pJ_8SW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good",
+      "time": 1655028104,
+      "translated": false
+    },
+    {
+      "author_name": "Fun.say.thong范瑞堂",
+      "author_url": "https://www.google.com/maps/contrib/102692142236647760475/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJze5Ks964Ep4OBD6_88Usx0vYDr9csjbX1VrOzP-ql0ZYzvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1606544461,
+      "translated": false
+    },
+    {
+      "author_name": "Ang Yixi",
+      "author_url": "https://www.google.com/maps/contrib/110048107714194147346/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKCLJi-SXhUmjE1b2Wg4Qy-QrvQaZlsrHYZNDN--S1KeMe1mEufQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564281161,
+      "translated": false
+    },
+    {
+      "author_name": "Yeo Yong siang",
+      "author_url": "https://www.google.com/maps/contrib/111824359419229602041/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0eS3dltxnLJ6s2rp8fjgGemHcVZyl63IqG1TVZj2wKKf8-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496316385,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4167411876268004261",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

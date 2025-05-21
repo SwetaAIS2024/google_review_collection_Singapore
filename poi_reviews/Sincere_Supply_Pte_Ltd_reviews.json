@@ -1,0 +1,43 @@
+{
+  "formatted_address": "3 Swan Lake Ave, Singapore 455702",
+  "geometry": {
+    "location": {
+      "lat": 1.3210352,
+      "lng": 103.924271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322352530291502,
+        "lng": 103.9256386802915
+      },
+      "southwest": {
+        "lat": 1.319654569708498,
+        "lng": 103.9229407197085
+      }
+    }
+  },
+  "name": "Sincere Supply Pte Ltd",
+  "place_id": "ChIJqx-Uc64i2jERX-Cf2dz4k54",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "bugis tengara",
+      "author_url": "https://www.google.com/maps/contrib/100245282933225788747/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8Z0hQaEMu15RXIDxDrMxBPn9DtojeDHamRSJ9_elxjEnxLro=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686799661,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11426750306996707423",
+  "user_ratings_total": 1,
+  "vicinity": "3 Swan Lake Avenue, Singapore"
+}

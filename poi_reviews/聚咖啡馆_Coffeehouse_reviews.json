@@ -1,0 +1,80 @@
+{
+  "formatted_address": "179 Ubi Ave 4, Singapore 408793",
+  "geometry": {
+    "location": {
+      "lat": 1.3351767,
+      "lng": 103.8961755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336433530291502,
+        "lng": 103.8975633302915
+      },
+      "southwest": {
+        "lat": 1.333735569708498,
+        "lng": 103.8948653697085
+      }
+    }
+  },
+  "name": "聚咖啡馆 Coffeehouse",
+  "place_id": "ChIJEy6JKfwX2jERfG5j-tzlIwo",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Hazel Nut",
+      "author_url": "https://www.google.com/maps/contrib/115549414853802753594/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgLIOx0AGU3v2JpJNJ3iRMXWgx3HfSn5Cc-Zhj1xP9Rl6iubb7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Chance upon this coffee shop on a Sunday afternoon as there wasn’t much options nearby. Surprised that only one stall was opened which was the bar Chor mee. Had to settle for this stall, as there was no other choices. The coffee shop was quite badly maintained, bar Chor mee was below average and priced at a higher end considering this is a coffee shop.",
+      "time": 1699360415,
+      "translated": false
+    },
+    {
+      "author_name": "Zhi Chiaw Lim",
+      "author_url": "https://www.google.com/maps/contrib/115668389919758989481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLM-6EAokqf9aU04m_SIggwQJHdGqX-ganqXQY8NmNcws8HgYkXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "$2.50 for Teh o ice, what a rip off!",
+      "time": 1746166230,
+      "translated": false
+    },
+    {
+      "author_name": "Vinson Chua",
+      "author_url": "https://www.google.com/maps/contrib/101945342079433595254/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXur1zRTnOR3MJcoXIRzpAbwreiJlwUe7oU9L3VkWzPZVLA6Viw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Great soup base. Good price for the food quality.",
+      "time": 1726231910,
+      "translated": false
+    },
+    {
+      "author_name": "Justin Yeap",
+      "author_url": "https://www.google.com/maps/contrib/107872981687175286062/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCpPyCWVK5xcSfHI7jxvOQDS1kDp3Fa4jSxpkmFAyPO_fWT5p0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729429037,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=730680301820538492",
+  "user_ratings_total": 4,
+  "vicinity": "179 Ubi Avenue 4"
+}

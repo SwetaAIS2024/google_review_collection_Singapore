@@ -1,0 +1,44 @@
+{
+  "formatted_address": "76, Jalan Kacang Panjang, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4137324,
+      "lng": 103.6011383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415282380291502,
+        "lng": 103.6025034302915
+      },
+      "southwest": {
+        "lat": 1.412584419708498,
+        "lng": 103.5998054697085
+      }
+    }
+  },
+  "name": "Chinese Temple",
+  "place_id": "ChIJVVVVVcUL2jER4sCS9WL7LE8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Yong Chin Leong",
+      "author_url": "https://www.google.com/maps/contrib/117520877115701773046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-gZ7RzdaqFj4JiraylYbaAUgeFTk09-CcQtMGc8H2vULNLGc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "There are colorful and embellished sculptures though a Taoist temple. One can head to makeshift stall at Jalan Nusa Perintis 4 for lunch.",
+      "time": 1487080549,
+      "translated": false
+    }
+  ],
+  "types": [
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5705211230416978146",
+  "user_ratings_total": 1,
+  "vicinity": "76, Jalan Kacang Panjang, Gelang Patah"
+}

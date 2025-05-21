@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3049534,
+      "lng": 103.9159587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306304530291502,
+        "lng": 103.9173078802915
+      },
+      "southwest": {
+        "lat": 1.303606569708498,
+        "lng": 103.9146099197085
+      }
+    }
+  },
+  "name": "Blk 53",
+  "place_id": "ChIJQSyBtJ8i2jEREANIqLAfA_Y",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jiabao Chng",
+      "author_url": "https://www.google.com/maps/contrib/115701765615633491532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTBvqe-A9LaMtlbGZc084cZxWZkWUi8yyHnzAHH1spCB4dUg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Clean area.",
+      "time": 1654833924,
+      "translated": false
+    },
+    {
+      "author_name": "Yeo Chai Hoon",
+      "author_url": "https://www.google.com/maps/contrib/114689580149461323403/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw5prGUiBa9x_RtpMOkNHjMa2zLJ3rPenX1vJydzP2aZ6SjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "Why does 76 bus change road",
+      "time": 1458638042,
+      "translated": true
+    },
+    {
+      "author_name": "Chen J L",
+      "author_url": "https://www.google.com/maps/contrib/109016443915048086279/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRgphc1tAbywTFj9pty0DlWFmSC3G1QnUk9xDho31LLCqBlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477808273,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17727047401858401040",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

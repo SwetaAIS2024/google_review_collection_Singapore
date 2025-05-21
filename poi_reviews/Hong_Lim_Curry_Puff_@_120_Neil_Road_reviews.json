@@ -1,0 +1,30 @@
+{
+  "formatted_address": "120 Neil Rd, Singapore 088855",
+  "geometry": {
+    "location": {
+      "lat": 1.2790213,
+      "lng": 103.8417185
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280332130291502,
+        "lng": 103.8431099302915
+      },
+      "southwest": {
+        "lat": 1.277634169708498,
+        "lng": 103.8404119697085
+      }
+    }
+  },
+  "name": "Hong Lim Curry Puff @ 120 Neil Road",
+  "place_id": "ChIJ6djjoEYZ2jERPTnT9J8Zn0E",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4728526308560288061",
+  "vicinity": "120 Neil Road"
+}

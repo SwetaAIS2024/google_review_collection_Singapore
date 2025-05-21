@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340848,
+      "lng": 103.913017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342152680291502,
+        "lng": 103.9143936302915
+      },
+      "southwest": {
+        "lat": 1.339454719708498,
+        "lng": 103.9116956697085
+      }
+    }
+  },
+  "name": "Autobay @ Kaki Bt",
+  "place_id": "ChIJyS1B7eEX2jERUrwgOY7xoLc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13231841298360613970",
+  "vicinity": "Singapore"
+}

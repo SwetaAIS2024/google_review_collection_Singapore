@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Marina Blvd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2806877,
+      "lng": 103.8542979
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282027980291502,
+        "lng": 103.8556412302915
+      },
+      "southwest": {
+        "lat": 1.279330019708498,
+        "lng": 103.8529432697085
+      }
+    }
+  },
+  "name": "Actualyse School Directory Singapore",
+  "place_id": "ChIJx0ol5MsZ2jEREIjUL0fV3bI",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12888692210326079504",
+  "vicinity": "Marina Boulevard"
+}

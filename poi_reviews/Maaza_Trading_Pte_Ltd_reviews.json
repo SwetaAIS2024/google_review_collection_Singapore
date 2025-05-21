@@ -1,0 +1,46 @@
+{
+  "formatted_address": "6001 Beach Rd, #01-69A GOLDEN MILE TOWER, Singapore 199589",
+  "geometry": {
+    "location": {
+      "lat": 1.3019921,
+      "lng": 103.8642024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303575480291502,
+        "lng": 103.8653964802915
+      },
+      "southwest": {
+        "lat": 1.300877519708498,
+        "lng": 103.8626985197085
+      }
+    }
+  },
+  "name": "Maaza Trading Pte Ltd",
+  "place_id": "ChIJpUqudzsZ2jERGvqOcsZhkfM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Andrew nah",
+      "author_url": "https://www.google.com/maps/contrib/110366001910007408738/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILPcVNq0pblGnUbQ1dKgpkC43_EuPOJ9zlsAzrnMihnn7fbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Shop suppose to open from 10.30am.\nUpon arrival at 11.30am it is still close.",
+      "time": 1727236643,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17550916727792925210",
+  "user_ratings_total": 1,
+  "vicinity": "6001 Beach Road, #01-69A GOLDEN MILE TOWER"
+}

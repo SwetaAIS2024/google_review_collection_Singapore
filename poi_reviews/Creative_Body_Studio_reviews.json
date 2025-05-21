@@ -1,0 +1,30 @@
+{
+  "formatted_address": "15 Bukit Pasoh Rd, Singapore 089829",
+  "geometry": {
+    "location": {
+      "lat": 1.278892,
+      "lng": 103.840594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280276280291502,
+        "lng": 103.8420244802915
+      },
+      "southwest": {
+        "lat": 1.277578319708498,
+        "lng": 103.8393265197085
+      }
+    }
+  },
+  "name": "Creative Body Studio",
+  "place_id": "ChIJFZpkk20Z2jERBclf5EODuhg",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1781880930195982597",
+  "vicinity": "15 Bukit Pasoh Road, Singapore"
+}

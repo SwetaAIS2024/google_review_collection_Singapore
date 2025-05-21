@@ -1,0 +1,32 @@
+{
+  "formatted_address": "The Central District, Singapore 282930",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "Pixel Plaza Digital Store",
+  "place_id": "ChIJ5yn736cR2jERbT3w-Qbivok",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "finance",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9925619148362104173",
+  "vicinity": "The Central District"
+}

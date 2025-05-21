@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.383963,
+      "lng": 103.943748
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385292730291502,
+        "lng": 103.9450812802915
+      },
+      "southwest": {
+        "lat": 1.382594769708498,
+        "lng": 103.9423833197085
+      }
+    }
+  },
+  "name": "Pasir Ris Pk",
+  "place_id": "ChIJa6MHMsc92jERInc3hopcpho",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Edwin Swami Doss",
+      "author_url": "https://www.google.com/maps/contrib/105384912454371437270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8ELCjZiAKNHOto0a8WGioNNoDWCB2SyOpaHhuAPSvubsvHiG8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "It's a nice park for nature lovers and have playing areas for kids too. Park, Beach and Mangrove forest.",
+      "time": 1617949492,
+      "translated": false
+    },
+    {
+      "author_name": "Vani",
+      "author_url": "https://www.google.com/maps/contrib/107002391456105900001/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf2JHpoi3TjTHeV-lYRhewZ2PpdqRgLt9qnc8I378o9ynQEdbWPg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1621310464,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1920324041147119394",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

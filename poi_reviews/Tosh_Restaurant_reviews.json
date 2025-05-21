@@ -1,0 +1,29 @@
+{
+  "formatted_address": "349 Beach Rd, Singapore 199570",
+  "geometry": {
+    "location": {
+      "lat": 1.3015774,
+      "lng": 103.861677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302830930291502,
+        "lng": 103.8630734302915
+      },
+      "southwest": {
+        "lat": 1.300132969708498,
+        "lng": 103.8603754697085
+      }
+    }
+  },
+  "name": "Tosh Restaurant",
+  "place_id": "ChIJYSFFZLEZ2jER0FB3RCdFuxs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1998266894623658192",
+  "vicinity": "349 Beach Road"
+}

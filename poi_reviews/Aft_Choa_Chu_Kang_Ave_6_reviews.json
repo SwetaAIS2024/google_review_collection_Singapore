@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.372887,
+      "lng": 103.740402
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374238830291502,
+        "lng": 103.7417519302915
+      },
+      "southwest": {
+        "lat": 1.371540869708498,
+        "lng": 103.7390539697085
+      }
+    }
+  },
+  "name": "Aft Choa Chu Kang Ave 6",
+  "place_id": "ChIJLfOSH9AR2jERA5_ZVWvEPl0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6719023659364228867",
+  "vicinity": "Singapore"
+}

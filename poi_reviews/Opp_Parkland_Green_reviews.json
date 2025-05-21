@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3000478,
+      "lng": 103.9061911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301369880291502,
+        "lng": 103.9075853302915
+      },
+      "southwest": {
+        "lat": 1.298671919708498,
+        "lng": 103.9048873697085
+      }
+    }
+  },
+  "name": "Opp Parkland Green",
+  "place_id": "ChIJF9MH-3AY2jER22dYSKFdt8o",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "MYO SWE",
+      "author_url": "https://www.google.com/maps/contrib/104871671003334429325/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJL-xWmkfX3ANAZo9drMABrvuIqLOoribYnh6nTVP9OzyERIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565419920,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14607246863684364251",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

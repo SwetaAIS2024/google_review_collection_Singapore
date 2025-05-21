@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Blk 233, Toa payoh Lorong 8, Unit #11-266, Singapore 310233",
+  "geometry": {
+    "location": {
+      "lat": 1.3382394,
+      "lng": 103.8584851
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339582880291502,
+        "lng": 103.8599343302915
+      },
+      "southwest": {
+        "lat": 1.336884919708498,
+        "lng": 103.8572363697085
+      }
+    }
+  },
+  "name": "Alternate Resources",
+  "place_id": "ChIJX1FqsnEX2jER9iCcHRtbMP0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "keanC",
+      "author_url": "https://www.google.com/maps/contrib/100813588137459633253/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoREwS3QHhAyP3IKmKiNFoXOYH-9Cgrb2HrClCYjrSmZqa3g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552386577,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18244182262496895222",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 233, Toa payoh Lorong 8, Unit #11-266"
+}

@@ -1,0 +1,69 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3475985,
+      "lng": 103.9385071
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348911630291502,
+        "lng": 103.9398080802915
+      },
+      "southwest": {
+        "lat": 1.346213669708498,
+        "lng": 103.9371101197085
+      }
+    }
+  },
+  "name": "East View Pr Sch, Tampines Ave 4",
+  "place_id": "ChIJFcvg2hQ92jERL1oHqzSvckM",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "c c",
+      "author_url": "https://www.google.com/maps/contrib/100345646559409704839/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHAWXDDAkWGPVv9WLgzntpTTE-GyF8c9cvBS6qotyp8jIXTLWo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Childhood school!",
+      "time": 1730807294,
+      "translated": false
+    },
+    {
+      "author_name": "Peace",
+      "author_url": "https://www.google.com/maps/contrib/101593009906406053746/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1nnH8lNjL6FOlTtogGI47__O_07DAiRpYrZ3dS4yzP8znfMv3-A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Wonderful school",
+      "time": 1720179847,
+      "translated": false
+    },
+    {
+      "author_name": "JEFFERIS",
+      "author_url": "https://www.google.com/maps/contrib/106304313505042721471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxIeo4N78kisO1hacnp-2ANLrjf9zQU9ElR9oyjBtdsCAQnl4h=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "School holidays",
+      "time": 1686021248,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4860139588628732463",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

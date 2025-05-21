@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 10, Teck Ghee Neighbourhood 4 Park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3678324,
+      "lng": 103.8596833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369243930291502,
+        "lng": 103.8605425802915
+      },
+      "southwest": {
+        "lat": 1.366545969708498,
+        "lng": 103.8578446197085
+      }
+    }
+  },
+  "name": "Dog run at Teck Ghee Neighbourhood 4 Park",
+  "place_id": "ChIJXx5uiKMX2jERJSzjOcjD3ys",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3161460728169442341",
+  "vicinity": "Ang Mo Kio Avenue 10, Teck Ghee Neighbourhood 4 Park"
+}

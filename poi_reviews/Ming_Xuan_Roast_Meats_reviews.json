@@ -1,0 +1,46 @@
+{
+  "formatted_address": "151 Bishan St.11, #01- 195 Block 151, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.345329,
+      "lng": 103.8557384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346589530291502,
+        "lng": 103.8571566802915
+      },
+      "southwest": {
+        "lat": 1.343891569708498,
+        "lng": 103.8544587197085
+      }
+    }
+  },
+  "name": "Ming Xuan Roast Meats",
+  "place_id": "ChIJnVbxdAAX2jERvdoBcwTRdc0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "JY T",
+      "author_url": "https://www.google.com/maps/contrib/112747525945764408663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCwKV85mQwSffX4AVlkPa5NImE7VkC4hEfMo8k3BBvH5Nk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Just very average wanton noodles",
+      "time": 1740151368,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14804969167089949373",
+  "user_ratings_total": 1,
+  "vicinity": "151 Bishan Street 11, #01- 195 Block 151, Singapore"
+}

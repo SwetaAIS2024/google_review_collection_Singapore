@@ -1,0 +1,45 @@
+{
+  "formatted_address": "68 Orchard Rd, #03-42/43/44/45, Plaza 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3007111,
+      "lng": 103.844904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301961930291502,
+        "lng": 103.8464860802915
+      },
+      "southwest": {
+        "lat": 1.299263969708498,
+        "lng": 103.8437881197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Orchard Branch",
+  "place_id": "ChIJI1SAdrIZ2jERGXNza-3fvso",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "J O",
+      "author_url": "https://www.google.com/maps/contrib/109164162831382883663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJZyisQnzyJRSDJyuK4wDHbt4uc8FfAZec0EBPaSxfpx_-rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Came to this outlet, hoping to open an account with them, waited from 1455 to 1525hrs, with others coming later than me being served first. Waste of time. Outlet had decent number of stuffs, not much queue. Ridiculous",
+      "time": 1694849390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14609360452039439129",
+  "user_ratings_total": 1,
+  "vicinity": "68 Orchard Road, #03-42/43/44/45, Plaza"
+}

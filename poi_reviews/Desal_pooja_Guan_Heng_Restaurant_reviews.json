@@ -1,0 +1,45 @@
+{
+  "formatted_address": "60 Benoi Rd, Singapore 629906",
+  "geometry": {
+    "location": {
+      "lat": 1.326343,
+      "lng": 103.681076
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328201830291502,
+        "lng": 103.6818805802915
+      },
+      "southwest": {
+        "lat": 1.325503869708498,
+        "lng": 103.6791826197085
+      }
+    }
+  },
+  "name": "Desal pooja Guan Heng Restaurant",
+  "place_id": "ChIJG5i7aoAF2jERz2Y0u1T7g6E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hero of Space",
+      "author_url": "https://www.google.com/maps/contrib/103209805948176619220/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXI07VGLKzwpemQkbJj8-_ZTc-v7SAP-1zArFEJ-XqegwMTA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Cheap and delicious fresh chinese food.\nBeverage like teh bing are unique and tasty. Air conditioned during lunch hours.\nOpened for breakfast and tea break too with snacks like curry puff, spring roll and other tasty snacks.",
+      "time": 1725766999,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11638422203392091855",
+  "user_ratings_total": 1,
+  "vicinity": "60 Benoi Road"
+}

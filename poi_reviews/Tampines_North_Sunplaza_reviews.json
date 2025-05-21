@@ -1,0 +1,42 @@
+{
+  "formatted_address": "414 Tampines Street 41, Singapore 520414",
+  "geometry": {
+    "location": {
+      "lat": 1.3598054,
+      "lng": 103.946259
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361063680291502,
+        "lng": 103.9474322302915
+      },
+      "southwest": {
+        "lat": 1.358365719708498,
+        "lng": 103.9447342697085
+      }
+    }
+  },
+  "name": "Tampines North Sunplaza",
+  "place_id": "ChIJV-9T3wg92jERxJKI387Yaeg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chye Eng Ng",
+      "author_url": "https://www.google.com/maps/contrib/100423115188445938563/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpzavZ6MFnYwLho0vVTJGY4y1sVB1vo_6TBdmr7pBA2EfG6_A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534734762,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16747155072379032260",
+  "user_ratings_total": 1,
+  "vicinity": "414 Tampines Street 41"
+}

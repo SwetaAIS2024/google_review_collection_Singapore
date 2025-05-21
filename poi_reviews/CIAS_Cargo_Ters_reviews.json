@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.372655,
+      "lng": 103.995697
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374022280291502,
+        "lng": 103.9970010802915
+      },
+      "southwest": {
+        "lat": 1.371324319708498,
+        "lng": 103.9943031197085
+      }
+    }
+  },
+  "name": "CIAS Cargo Ters",
+  "place_id": "ChIJb7U0AHA82jERD4hBhS5uIBg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1738510602248226831",
+  "vicinity": "Singapore"
+}

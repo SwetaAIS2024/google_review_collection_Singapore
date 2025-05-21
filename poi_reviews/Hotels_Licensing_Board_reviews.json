@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1 Orchard Spring Ln, Singapore 247729",
+  "geometry": {
+    "location": {
+      "lat": 1.303711,
+      "lng": 103.8242161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305065730291502,
+        "lng": 103.8256436802915
+      },
+      "southwest": {
+        "lat": 1.302367769708498,
+        "lng": 103.8229457197085
+      }
+    }
+  },
+  "name": "Hotels Licensing Board",
+  "place_id": "ChIJedc4KYoZ2jEREgVWFwfBmTE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mohamad Sazali",
+      "author_url": "https://www.google.com/maps/contrib/111540657366727633169/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0EGD847mWgZDk3lLRQQcRw2n5uOC1q3ZMmdF2kz9hl80j-w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1442108983,
+      "translated": false
+    }
+  ],
+  "types": [
+    "travel_agency",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3574100015495644434",
+  "user_ratings_total": 1,
+  "vicinity": "1 Orchard Spring Lane, Singapore"
+}

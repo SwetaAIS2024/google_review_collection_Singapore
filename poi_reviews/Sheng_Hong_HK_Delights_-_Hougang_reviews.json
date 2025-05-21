@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Block 322 Hougang Ave 5, #01-86, Singapore 530322",
+  "geometry": {
+    "location": {
+      "lat": 1.3670512,
+      "lng": 103.8972259
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368447280291502,
+        "lng": 103.8985767302915
+      },
+      "southwest": {
+        "lat": 1.365749319708498,
+        "lng": 103.8958787697085
+      }
+    }
+  },
+  "name": "Sheng Hong HK Delights - Hougang",
+  "place_id": "ChIJ3QeosWoX2jERi_MFJssDkGk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Wayne",
+      "author_url": "https://www.google.com/maps/contrib/105283218406393165300/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb1_iWs60RLKLjZUXtOePQJgjRAaEfjpADlMZ5Qkp195alUg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Roasted meats are good, but what stands out for me are the soups. The soups are thicker and thus more flavourful than others.",
+      "time": 1670384182,
+      "translated": false
+    },
+    {
+      "author_name": "Jiajun Tan",
+      "author_url": "https://www.google.com/maps/contrib/100122265376774848872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwBcfLq1OBg_Xh_bfa4z-OO2bUffZ_Va5Lrkb7fM_fXEQi65c=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Very rude service by a Vietnamese woman.",
+      "time": 1683774290,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7606583941679936395",
+  "user_ratings_total": 2,
+  "vicinity": "Block 322 Hougang Avenue 5, #01-86, Singapore"
+}

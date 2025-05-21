@@ -1,0 +1,57 @@
+{
+  "formatted_address": "50A Marine Terrace, #01-305, 50A, Marine Ter, Market, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.3057714,
+      "lng": 103.9157338
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307059630291502,
+        "lng": 103.9172873802915
+      },
+      "southwest": {
+        "lat": 1.304361669708498,
+        "lng": 103.9145894197085
+      }
+    }
+  },
+  "name": "Nur Rezki",
+  "place_id": "ChIJK9CITwAj2jER1ENa9ooLoBI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "T greensake",
+      "author_url": "https://www.google.com/maps/contrib/102107525471936198024/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZnv83PGhDQQ8QIfnt_ARJLi3OI_jhuI8AaxZ0AVYFHu9tcQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Had nasi campur ($6.50) for breakfast, was good especially the sambal sotong. I'll be back for more.",
+      "time": 1719360732,
+      "translated": false
+    },
+    {
+      "author_name": "Ken Woodlands",
+      "author_url": "https://www.google.com/maps/contrib/113611267426468840247/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTiv8vUq3t336z17_mCx7E9-85RKeCWbpsbZS_MAlSQ4uKHTE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice lontong.",
+      "time": 1715245739,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1342085380422910932",
+  "user_ratings_total": 2,
+  "vicinity": "50A Marine Terrace, #01-305, 50A, Marine Terrace, Market, Singapore"
+}

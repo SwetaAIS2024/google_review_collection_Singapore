@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2976402,
+      "lng": 103.8801969
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299023080291502,
+        "lng": 103.8815443802915
+      },
+      "southwest": {
+        "lat": 1.296325119708498,
+        "lng": 103.8788464197085
+      }
+    }
+  },
+  "name": "S'pore Swim Club",
+  "place_id": "ChIJLw8SD1AY2jER7dt8XlTHby8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3418169807373917165",
+  "vicinity": "Singapore"
+}

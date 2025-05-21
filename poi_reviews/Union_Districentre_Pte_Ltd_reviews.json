@@ -1,0 +1,41 @@
+{
+  "formatted_address": "2 Penjuru Ln, Singapore 609183",
+  "geometry": {
+    "location": {
+      "lat": 1.3072009,
+      "lng": 103.7398298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308640930291502,
+        "lng": 103.7412914302915
+      },
+      "southwest": {
+        "lat": 1.305942969708498,
+        "lng": 103.7385934697085
+      }
+    }
+  },
+  "name": "Union Districentre Pte Ltd",
+  "place_id": "ChIJCzD6bMga2jEROr4lG5Ht8qI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Zul Iam",
+      "author_url": "https://www.google.com/maps/contrib/113197928822630614848/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpax1j-wSzo5yqOFolF8kHx77pg8UfdXVPkYoEACE34UywDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526542540,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11741708385989803578",
+  "user_ratings_total": 1,
+  "vicinity": "2 Penjuru Lane"
+}

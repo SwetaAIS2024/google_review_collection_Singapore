@@ -1,0 +1,75 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.344998,
+      "lng": 103.936768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346386030291502,
+        "lng": 103.9381363302915
+      },
+      "southwest": {
+        "lat": 1.343688069708498,
+        "lng": 103.9354383697085
+      }
+    }
+  },
+  "name": "Temasek Poly East G",
+  "place_id": "ChIJhWhspmo92jERSoG21_6LmOs",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Alvin Lam",
+      "author_url": "https://www.google.com/maps/contrib/110309316424101010637/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWix0bhyifrCHq1zQbduHmLk4KJ5ufUuEPtzijUT-LvDvl1qEU3VA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The spot given isn't correct. The actual gate is about 100 metres down the road. The spot is given is the bus-stop.  Hence it's inaccurate. Google should correct and update info.",
+      "time": 1659615536,
+      "translated": false
+    },
+    {
+      "author_name": "ASHOK KUMAR.R",
+      "author_url": "https://www.google.com/maps/contrib/106964878762150650936/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwmQbek3MSjpLuDl4PLs23zb1ivSvtcoeCurJcMUY1rvSCOQ4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1684280467,
+      "translated": false
+    },
+    {
+      "author_name": "이서영",
+      "author_url": "https://www.google.com/maps/contrib/101437648927558197633/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhH24nE0Y9fP55KA48InOtW2Vo_I0IMRLwnNnGZFeX5evV9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486967602,
+      "translated": false
+    },
+    {
+      "author_name": "MADHU SUDHANAN",
+      "author_url": "https://www.google.com/maps/contrib/103452453104678859836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu7zR3V-R4ierVAjFkmh9ab26linSPdK3yxEnEPTppDeMm5qukiA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480127235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16976472722030100810",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

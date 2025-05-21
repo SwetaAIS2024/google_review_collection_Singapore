@@ -1,0 +1,56 @@
+{
+  "formatted_address": "80 Marine Parade Road #03-28 Parkway Parade, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302993880291502,
+        "lng": 103.9067486302915
+      },
+      "southwest": {
+        "lat": 1.300295919708498,
+        "lng": 103.9040506697085
+      }
+    }
+  },
+  "name": "Unity Parkway Parade",
+  "place_id": "ChIJQ_XrG-kZ2jERel2uwf82reA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HuyenLy Nguyễn",
+      "author_url": "https://www.google.com/maps/contrib/112662903049952941403/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV62SQfteFtJq_xsD-m8wE9gBRmTkWzUvN3vK-_KpKOvn0oatM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Located inside Fair Price Xtra on level 3, Parkway Parade, this is a convenient option for pharmacy shopping. This Unity outlet is quite large, well stocked and well manned with 3 young staff to help you find the things you need.",
+      "time": 1656640670,
+      "translated": false
+    },
+    {
+      "author_name": "Dylan D'Costa",
+      "author_url": "https://www.google.com/maps/contrib/114239693765116215627/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLga09vs_7Po8MJZYQ7rY5qrs0KuN5IJeUSKJzj_03LCXCh0G2t=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697975053,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16189656707560791418",
+  "user_ratings_total": 2,
+  "vicinity": "80 Marine Parade Road #03-28 Parkway Parade"
+}

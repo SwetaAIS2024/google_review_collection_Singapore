@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 000000",
+  "geometry": {
+    "location": {
+      "lat": 1.2678622,
+      "lng": 103.8228401
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.269244480291502,
+        "lng": 103.8242519302915
+      },
+      "southwest": {
+        "lat": 1.266546519708498,
+        "lng": 103.8215539697085
+      }
+    }
+  },
+  "name": "Nomad Voice Coach",
+  "place_id": "ChIJ6bI-5dUZ2jERtnTlKNP-ggw",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=901563058305201334",
+  "vicinity": "Singapore"
+}

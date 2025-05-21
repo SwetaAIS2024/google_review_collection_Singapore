@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Block 112, Bukit Purmei Road, #01-217, Singapore 099815",
+  "geometry": {
+    "location": {
+      "lat": 1.2745476,
+      "lng": 103.8257813
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275973580291502,
+        "lng": 103.8271337302915
+      },
+      "southwest": {
+        "lat": 1.273275619708498,
+        "lng": 103.8244357697085
+      }
+    }
+  },
+  "name": "Seng Hoe Mini Fresh Market",
+  "place_id": "ChIJVz99vGMZ2jERhQGJ3Mv_4N0",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15988059928208671109",
+  "vicinity": "Block 112, Bukit Purmei Road, #01-217"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "40 Imbiah Rd, Singapore 099700",
+  "geometry": {
+    "location": {
+      "lat": 1.2540373,
+      "lng": 103.8176215
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.255560980291502,
+        "lng": 103.8188148802915
+      },
+      "southwest": {
+        "lat": 1.252863019708498,
+        "lng": 103.8161169197085
+      }
+    }
+  },
+  "name": "Merlin Entertainments Singapore Pte. Ltd.",
+  "place_id": "ChIJr-R5Hv8b2jERqTqZ3QTgoCM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Michael Kao",
+      "author_url": "https://www.google.com/maps/contrib/108451139046945559693/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUHza47P7zerPZ6cRcEBq5NVxyFGFP4EKlI65dyjMAcFfxi3_t=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722499603,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2567298099103480489",
+  "user_ratings_total": 1,
+  "vicinity": "40 Imbiah Road"
+}

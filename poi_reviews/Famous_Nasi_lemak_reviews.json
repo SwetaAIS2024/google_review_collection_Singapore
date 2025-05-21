@@ -1,0 +1,90 @@
+{
+  "formatted_address": "6 Tuas South Street 15, Singapore 636906",
+  "geometry": {
+    "location": {
+      "lat": 1.2725479,
+      "lng": 103.6374262
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273900330291502,
+        "lng": 103.6387092802915
+      },
+      "southwest": {
+        "lat": 1.271202369708498,
+        "lng": 103.6360113197085
+      }
+    }
+  },
+  "name": "Famous Nasi lemak",
+  "place_id": "ChIJETWhuMUF2jEReZwqIjzhUY4",
+  "rating": 3.9,
+  "reviews": [
+    {
+      "author_name": "YTshushu",
+      "author_url": "https://www.google.com/maps/contrib/110724816359958960711/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9DShXG5pCfAPPYmwc5A_44wp8JMxd4zxBHhVfVt_uNmBQLTwk=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Welcome",
+      "time": 1651016433,
+      "translated": false
+    },
+    {
+      "author_name": "haohai gedi",
+      "author_url": "https://www.google.com/maps/contrib/103485282668713968192/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqRpzIN91sD8tMurxSgwR_1PJououxvoYwsHjury6EqvR8cg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Not bad (⊙o⊙)",
+      "time": 1651015596,
+      "translated": true
+    },
+    {
+      "author_name": "வேல் தமிழ்",
+      "author_url": "https://www.google.com/maps/contrib/105649187128500781513/reviews",
+      "language": "ta",
+      "original_language": "ta",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmS3sBu_KTvz_yq314rVrwPeX5bq2OW6q895be7-BCRfm8gke7=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "மிக சிறந்த உணவகம்",
+      "time": 1656499886,
+      "translated": false
+    },
+    {
+      "author_name": "Ajith kumar",
+      "author_url": "https://www.google.com/maps/contrib/105262273579787732633/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUonb8GdAJIwp1olRZ5h4eT3NqlBxTzqqnDYffcBIkMYaMKhky9hQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703866278,
+      "translated": false
+    },
+    {
+      "author_name": "Meherab Hossain (Rahat)",
+      "author_url": "https://www.google.com/maps/contrib/102339217662544148486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLtyysmJOrwMZurW1d3A-5pRQMhp_59jZbFg8GzC14sBCWVMSEQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702805016,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10255225474886835321",
+  "user_ratings_total": 31,
+  "vicinity": "6 Tuas South Street 15"
+}

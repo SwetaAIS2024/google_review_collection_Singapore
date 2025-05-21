@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2941445,
+      "lng": 103.7829492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295973730291502,
+        "lng": 103.7841725302915
+      },
+      "southwest": {
+        "lat": 1.293275769708498,
+        "lng": 103.7814745697085
+      }
+    }
+  },
+  "name": "NUS Dept Of Obstetrics & Gynaecology",
+  "place_id": "ChIJJUMgWlEa2jERZ-bVjWXcE7E",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12759784498000160359",
+  "vicinity": "5 Lower Kent Ridge Road, Singapore"
+}

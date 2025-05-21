@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3283539,
+      "lng": 103.9025686
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329721730291502,
+        "lng": 103.9039463802915
+      },
+      "southwest": {
+        "lat": 1.327023769708498,
+        "lng": 103.9012484197085
+      }
+    }
+  },
+  "name": "Maha Bodhi Sch",
+  "place_id": "ChIJw4o3gfcX2jEREZjSrIa2Dfc",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17802085591606794257",
+  "vicinity": "Singapore"
+}

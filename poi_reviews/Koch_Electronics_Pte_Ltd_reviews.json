@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Eastwood Rd, Singapore 486365",
+  "geometry": {
+    "location": {
+      "lat": 1.3210213,
+      "lng": 103.9561116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322426430291502,
+        "lng": 103.9575309302915
+      },
+      "southwest": {
+        "lat": 1.319728469708498,
+        "lng": 103.9548329697085
+      }
+    }
+  },
+  "name": "Koch Electronics Pte Ltd",
+  "place_id": "ChIJodLloNYi2jERw1Is1EgVN20",
+  "types": [
+    "electronics_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7869782276394734275",
+  "vicinity": "30 Eastwood Road"
+}

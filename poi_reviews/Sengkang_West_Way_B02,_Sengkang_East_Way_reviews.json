@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39547,
+      "lng": 103.88088
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396814730291502,
+        "lng": 103.8822282302915
+      },
+      "southwest": {
+        "lat": 1.394116769708498,
+        "lng": 103.8795302697085
+      }
+    }
+  },
+  "name": "Sengkang West Way B02, Sengkang East Way",
+  "place_id": "ChIJpXDVv3AW2jERK-3HafRJhL4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13728178878227672363",
+  "vicinity": "Singapore"
+}

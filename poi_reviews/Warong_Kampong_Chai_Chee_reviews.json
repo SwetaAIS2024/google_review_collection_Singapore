@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3452127,
+      "lng": 103.9450534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346649580291502,
+        "lng": 103.9464996802915
+      },
+      "southwest": {
+        "lat": 1.343951619708498,
+        "lng": 103.9438017197085
+      }
+    }
+  },
+  "name": "Warong Kampong Chai Chee",
+  "place_id": "ChIJB4wlIxY92jERgxqM3OC3qMU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hock Lye, Khaleel, CHAN",
+      "author_url": "https://www.google.com/maps/contrib/109901583439985965302/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8-pWektzgh-cWzctwQACyqgRQ_ooI5S--aqAASjLqHypdPuyM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1593699112,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14242835997959920259",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

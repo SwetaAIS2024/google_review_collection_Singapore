@@ -1,0 +1,44 @@
+{
+  "formatted_address": "The Chinese High School Clock Tower Building, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3273008,
+      "lng": 103.8025698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328721730291502,
+        "lng": 103.8040974302915
+      },
+      "southwest": {
+        "lat": 1.326023769708498,
+        "lng": 103.8013994697085
+      }
+    }
+  },
+  "name": "Aphelion Room (ABox)",
+  "place_id": "ChIJc3WrKwAR2jERMQh4-y3E8pM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kie Ren Siew",
+      "author_url": "https://www.google.com/maps/contrib/113536003793182806084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbn_D7fso4XuhOwBRC03mv63wByaudI9XmpNIUcwPI78Mnjt_k=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "not a scam",
+      "time": 1739075967,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10660798969710905393",
+  "user_ratings_total": 1,
+  "vicinity": "The Chinese High School Clock Tower Building"
+}

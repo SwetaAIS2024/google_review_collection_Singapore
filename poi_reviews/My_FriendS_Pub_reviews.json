@@ -1,0 +1,28 @@
+{
+  "formatted_address": "131 E Coast Rd, Singapore 428816",
+  "geometry": {
+    "location": {
+      "lat": 1.3062059,
+      "lng": 103.9050419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307501980291502,
+        "lng": 103.9064257802915
+      },
+      "southwest": {
+        "lat": 1.304804019708498,
+        "lng": 103.9037278197085
+      }
+    }
+  },
+  "name": "My Friend'S Pub",
+  "place_id": "ChIJ0xAK6HIY2jERknMMPKJm2QI",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=205308105000252306",
+  "vicinity": "131 East Coast Road"
+}

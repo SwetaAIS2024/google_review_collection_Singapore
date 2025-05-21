@@ -1,0 +1,52 @@
+{
+  "formatted_address": "3 Kaki Bukit Rd 2, Singapore 417841",
+  "geometry": {
+    "location": {
+      "lat": 1.336096,
+      "lng": 103.89909
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337597780291502,
+        "lng": 103.9002924302915
+      },
+      "southwest": {
+        "lat": 1.334899819708498,
+        "lng": 103.8975944697085
+      }
+    }
+  },
+  "name": "Remmers Far East Pte. Ltd.",
+  "place_id": "ChIJ80p5X-4X2jER0d8T3F2ftxQ",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "mohammad ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/110740872747338595642/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyYfRgh-WwWnnD3a1IDmaKaQtK7mcxOjjwVCfhJQ90gjxO0MA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1535726167,
+      "translated": false
+    },
+    {
+      "author_name": "Leena Heng",
+      "author_url": "https://www.google.com/maps/contrib/115665113289463181203/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdcFEDr6KRe-nOafEEsUdWtXnmSMJRHtyqPSjLry4AZRsqKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1466257401,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1492837026969673681",
+  "user_ratings_total": 2,
+  "vicinity": "3 Kaki Bukit Road 2, Singapore"
+}

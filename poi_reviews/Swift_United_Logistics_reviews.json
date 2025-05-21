@@ -1,0 +1,29 @@
+{
+  "formatted_address": "164 Kallang Wy, Singapore 349248",
+  "geometry": {
+    "location": {
+      "lat": 1.3239939,
+      "lng": 103.8757387
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325285830291502,
+        "lng": 103.8769745302915
+      },
+      "southwest": {
+        "lat": 1.322587869708498,
+        "lng": 103.8742765697085
+      }
+    }
+  },
+  "name": "Swift United Logistics",
+  "place_id": "ChIJe4-gCikY2jER-OdwzhgAwIU",
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9637703309115582456",
+  "vicinity": "164 Kallang Way"
+}

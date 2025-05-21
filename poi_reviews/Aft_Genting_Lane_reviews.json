@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.323304,
+      "lng": 103.8788675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324622580291502,
+        "lng": 103.8802399802915
+      },
+      "southwest": {
+        "lat": 1.321924619708498,
+        "lng": 103.8775420197085
+      }
+    }
+  },
+  "name": "Aft Genting Lane",
+  "place_id": "ChIJ4cvcmigY2jERNciKP42EqJs",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11216360614157535285",
+  "vicinity": "Singapore"
+}

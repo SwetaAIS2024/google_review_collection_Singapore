@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 441 Commonwealth Avenue West, Clementi Bus Interchange, Singapore 120441",
+  "geometry": {
+    "location": {
+      "lat": 1.315027,
+      "lng": 103.763991
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316426680291502,
+        "lng": 103.7652847302915
+      },
+      "southwest": {
+        "lat": 1.313728719708498,
+        "lng": 103.7625867697085
+      }
+    }
+  },
+  "name": "UOB ATM - Clementi Bus Interchange",
+  "place_id": "ChIJU4Jds6Mb2jERGNhZZSN8OJU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10752480601813145624",
+  "vicinity": "No. 441 Commonwealth Avenue West, Clementi Bus Interchange"
+}

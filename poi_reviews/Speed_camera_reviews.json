@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Kranji Expressway towards Bukit Timah Expressway.388056, #103, Singapore 743196",
+  "geometry": {
+    "location": {
+      "lat": 1.3823828,
+      "lng": 103.7754597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383731780291502,
+        "lng": 103.7768086802915
+      },
+      "southwest": {
+        "lat": 1.381033819708498,
+        "lng": 103.7741107197085
+      }
+    }
+  },
+  "name": "Speed camera",
+  "place_id": "ChIJdViQHQAR2jERF1jhlvWluM4",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14895838241744836631",
+  "vicinity": "Kranji Expressway towards Bukit Timah Expressway.388056, #103"
+}

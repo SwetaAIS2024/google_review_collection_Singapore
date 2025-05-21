@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Choa Chu Kang Street 52, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3949254,
+      "lng": 103.7439314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396251980291502,
+        "lng": 103.7452995302915
+      },
+      "southwest": {
+        "lat": 1.393554019708498,
+        "lng": 103.7426015697085
+      }
+    }
+  },
+  "name": "Smlee yong tau foo",
+  "place_id": "ChIJD7fjdgAR2jERGSAvsWacdpk",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11058197899928084505",
+  "vicinity": "Choa Chu Kang Street 52"
+}

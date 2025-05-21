@@ -1,0 +1,66 @@
+{
+  "formatted_address": "181 Orchard Rd, #04-29, Singapore 238896",
+  "geometry": {
+    "location": {
+      "lat": 1.3007325,
+      "lng": 103.8394351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302246730291502,
+        "lng": 103.8408265302915
+      },
+      "southwest": {
+        "lat": 1.299548769708498,
+        "lng": 103.8381285697085
+      }
+    }
+  },
+  "name": "Sabana Coffeehouse",
+  "place_id": "ChIJw8eWbwAZ2jER_yW4-2hGofY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Fang Fang",
+      "author_url": "https://www.google.com/maps/contrib/117191879767598309479/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILSaHVDuu_TQa_Rq1Yb7RyE0WuQeHKDCqJ4CcuB_IuU-NrzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "great coffee!",
+      "time": 1742360385,
+      "translated": false
+    },
+    {
+      "author_name": "Walden Ng",
+      "author_url": "https://www.google.com/maps/contrib/104823816484961106790/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdiW6W7bQo1lfaZaY-4iBiNpi3aN1ZAHdZ0j_-DdqMkkGrXwk5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741858516,
+      "translated": false
+    },
+    {
+      "author_name": "cpaghetti",
+      "author_url": "https://www.google.com/maps/contrib/103567135776706175386/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMShE9QWayA3wHl55wW-I1bXg6mAtN73FjpI4UBstBn6G72612=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738250511,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17771563021294380543",
+  "user_ratings_total": 3,
+  "vicinity": "181 Orchard Road, #04-29"
+}

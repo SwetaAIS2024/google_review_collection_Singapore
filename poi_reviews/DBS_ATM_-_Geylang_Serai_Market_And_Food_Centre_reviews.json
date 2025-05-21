@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Geylang Serai, Singapore 402001",
+  "geometry": {
+    "location": {
+      "lat": 1.3166568,
+      "lng": 103.8981808
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317899430291502,
+        "lng": 103.8995799802915
+      },
+      "southwest": {
+        "lat": 1.315201469708498,
+        "lng": 103.8968820197085
+      }
+    }
+  },
+  "name": "DBS ATM - Geylang Serai Market And Food Centre",
+  "place_id": "ChIJ4wjb9AAZ2jER8FbL2uc3YLk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sebastin Mangalan",
+      "author_url": "https://www.google.com/maps/contrib/107499178386179523852/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOXsPi2N71w9VNbDU7J6SH0UCBww1nWfL47Xl0OpChXCrtkiedpQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Located behind the stairs. Very crowded",
+      "time": 1709956897,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13357737963728623344",
+  "user_ratings_total": 1,
+  "vicinity": "1 Geylang Serai"
+}

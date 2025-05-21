@@ -1,0 +1,30 @@
+{
+  "formatted_address": "133 Jurong E St 13, Singapore 600133",
+  "geometry": {
+    "location": {
+      "lat": 1.333984,
+      "lng": 103.7393704
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335288530291502,
+        "lng": 103.7407269802915
+      },
+      "southwest": {
+        "lat": 1.332590569708498,
+        "lng": 103.7380290197085
+      }
+    }
+  },
+  "name": "Elitz Marketing",
+  "place_id": "ChIJNf_inAUQ2jERbt775k95C-0",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17080879395817381486",
+  "vicinity": "133 Jurong East Street 13, Singapore"
+}

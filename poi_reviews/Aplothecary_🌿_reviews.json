@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1 Seletar West Farmway 9, Singapore 797977",
+  "geometry": {
+    "location": {
+      "lat": 1.3979129,
+      "lng": 103.8619491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399176230291502,
+        "lng": 103.8632904302915
+      },
+      "southwest": {
+        "lat": 1.396478269708498,
+        "lng": 103.8605924697085
+      }
+    }
+  },
+  "name": "Aplothecary 🌿",
+  "place_id": "ChIJY0RIKgAX2jERIzcvVBlNIOY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "javier lai",
+      "author_url": "https://www.google.com/maps/contrib/117199176642912554509/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm6qkNvPRJ29o5hy6woM-AGC6NtTZ2JMcxI7mPYNmNuHfHrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "friendly owners and nice plants, worth a visit",
+      "time": 1717405055,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Chew",
+      "author_url": "https://www.google.com/maps/contrib/117451811394507976007/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0qck3p3RtlE7IZ6F9Ak14xugfg-MFjy6-o8yB-iwH_FESRQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Nice plants, friendly owners.",
+      "time": 1717463954,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16582338599160067875",
+  "user_ratings_total": 2,
+  "vicinity": "1 Seletar West Farmway 9"
+}

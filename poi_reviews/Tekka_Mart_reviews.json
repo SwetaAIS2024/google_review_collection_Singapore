@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Lor 15 Geylang, Singapore 388616",
+  "geometry": {
+    "location": {
+      "lat": 1.3126693,
+      "lng": 103.8790221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313971330291502,
+        "lng": 103.8803803302915
+      },
+      "southwest": {
+        "lat": 1.311273369708498,
+        "lng": 103.8776823697085
+      }
+    }
+  },
+  "name": "Tekka Mart",
+  "place_id": "ChIJdzp3tzAY2jERh4NYZp9Wggg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "ALAL Amin",
+      "author_url": "https://www.google.com/maps/contrib/116070085080496298878/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVworn_b7fkvml1g4jXXhSZr2yX6SfRvG0yaN1Gtx-yVNQ9ec7D=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589221337,
+      "translated": false
+    },
+    {
+      "author_name": "md. uzzu",
+      "author_url": "https://www.google.com/maps/contrib/109143380967811798391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBgaQcgSs0b8ee4C_DqcB8Gg8CBIMDqohMxoj8pWwSBWABXkjC=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546670330,
+      "translated": false
+    },
+    {
+      "author_name": "Baskaralinkam Nagalingam Maheswaran",
+      "author_url": "https://www.google.com/maps/contrib/105784625294016865165/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVycE1dIyrIwEOBnq2iAVxtkyoih3ouZg8_B5PF4D9bpAKbFwjrBA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518608693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=613147741892674439",
+  "user_ratings_total": 3,
+  "vicinity": "Lorong 15 Geylang, Singapore"
+}

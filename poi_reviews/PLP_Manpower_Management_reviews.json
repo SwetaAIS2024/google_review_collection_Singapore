@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Tampines Street 32, #02-15, Singapore 529284",
+  "geometry": {
+    "location": {
+      "lat": 1.354279,
+      "lng": 103.9599466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355430180291502,
+        "lng": 103.9611740302915
+      },
+      "southwest": {
+        "lat": 1.352732219708498,
+        "lng": 103.9584760697085
+      }
+    }
+  },
+  "name": "PLP Manpower Management",
+  "place_id": "ChIJD2X0sQI92jERDzOQZ4rZXow",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Anita Can Do Chanel",
+      "author_url": "https://www.google.com/maps/contrib/103783568048843198061/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIDQKX06YAVhqcMPOxA_TC51BOut1xcDJb2rrS0ND6iLncc0s=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "My story is so bad...like stupid people in countrys...",
+      "time": 1615443508,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10114761001586930447",
+  "user_ratings_total": 1,
+  "vicinity": "5 Tampines Street 32, #02-15, Singapore"
+}

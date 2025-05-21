@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Orchard Turn, B1-K4 ION Orchard, Singapore 238801",
+  "geometry": {
+    "location": {
+      "lat": 1.3034488,
+      "lng": 103.83228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304807680291502,
+        "lng": 103.8335680302915
+      },
+      "southwest": {
+        "lat": 1.302109719708498,
+        "lng": 103.8308700697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - ION Orchard",
+  "place_id": "ChIJVTJHAsEZ2jER0YEfT9ScVNM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15227968675720954321",
+  "vicinity": "2 Orchard Turn, B1-K4 ION Orchard"
+}

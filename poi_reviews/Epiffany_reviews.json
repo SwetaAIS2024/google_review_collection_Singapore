@@ -1,0 +1,29 @@
+{
+  "formatted_address": "41 Namly Ave, Singapore 267616",
+  "geometry": {
+    "location": {
+      "lat": 1.325965,
+      "lng": 103.7999605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327172380291502,
+        "lng": 103.8013671802915
+      },
+      "southwest": {
+        "lat": 1.324474419708498,
+        "lng": 103.7986692197085
+      }
+    }
+  },
+  "name": "Epiffany",
+  "place_id": "ChIJ9d4Tlgoa2jERqL1tVofEDOs",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16937128384183254440",
+  "vicinity": "41 Namly Avenue"
+}

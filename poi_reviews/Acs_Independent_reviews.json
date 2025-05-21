@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3036,
+      "lng": 103.7818357
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305124480291502,
+        "lng": 103.7831990302915
+      },
+      "southwest": {
+        "lat": 1.302426519708498,
+        "lng": 103.7805010697085
+      }
+    }
+  },
+  "name": "Acs Independent",
+  "place_id": "ChIJ-7i9CFwa2jER-fyZxbhdqak",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Phượng -Myngheviet JSC",
+      "author_url": "https://www.google.com/maps/contrib/101953833238238178560/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVb1Cm5TQIoidkLo2xNQ00jZSzY1EnV1QhyCaungOM0OcXbEX0E=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very beautiful",
+      "time": 1699452636,
+      "translated": false
+    },
+    {
+      "author_name": "Albert Sim",
+      "author_url": "https://www.google.com/maps/contrib/113527109998333244600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb65ZD_jSigFHO8m460a0r4n7iipKaQEcSAUf057WuM9jrUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669773379,
+      "translated": false
+    },
+    {
+      "author_name": "Kaiyi Liew",
+      "author_url": "https://www.google.com/maps/contrib/106193720360207093048/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO7BTIFpUkbs50wyJaznAsbyzkwmvE6VLuTFYpSUUiroRjm1yb=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611738482,
+      "translated": false
+    },
+    {
+      "author_name": "Tabitha Tan",
+      "author_url": "https://www.google.com/maps/contrib/109593827680359582601/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3sggldblVjLTTS0ljfZAOfyFlzFi9xijxFh6NaIP0srkUkH00=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558479147,
+      "translated": false
+    },
+    {
+      "author_name": "Ng Boon Kong",
+      "author_url": "https://www.google.com/maps/contrib/112740304148748808868/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK42-ru6f1ON2Vke3rbLkECZaAG9k69OIW1JjG8bhCo21UEMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542105602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12225405711644491001",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

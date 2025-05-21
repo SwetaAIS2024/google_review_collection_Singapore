@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39143,
+      "lng": 103.838608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.392746530291502,
+        "lng": 103.8399296802915
+      },
+      "southwest": {
+        "lat": 1.390048569708498,
+        "lng": 103.8372317197085
+      }
+    }
+  },
+  "name": "Opp Countryside Est",
+  "place_id": "ChIJYYo4WbsW2jERsmBKQrUKyg4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jyi Lai Long",
+      "author_url": "https://www.google.com/maps/contrib/105066699087623800334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNuyV6q3DX_1E3kkzy6ovLdmnnGQVMS_WmM26bU7qP-IDB_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542003490,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1065676035444072626",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

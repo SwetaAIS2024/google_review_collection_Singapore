@@ -1,0 +1,43 @@
+{
+  "formatted_address": "61 Pasir Ris Dr 1, Singapore 519525",
+  "geometry": {
+    "location": {
+      "lat": 1.3750013,
+      "lng": 103.9405956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376376130291502,
+        "lng": 103.9419678302915
+      },
+      "southwest": {
+        "lat": 1.373678169708498,
+        "lng": 103.9392698697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Pasir Ris Drive 1",
+  "place_id": "ChIJHWPyGgA92jER0LeRWKrE9IA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Xiao Hao",
+      "author_url": "https://www.google.com/maps/contrib/101176036303158211620/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5zvAYSZwcU9dPk4gIPEgIr6lmyKlqAsYI-ILCuzy89MoUgQrY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1579889627,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9292268167081605072",
+  "user_ratings_total": 1,
+  "vicinity": "61 Pasir Ris Drive 1, Singapore"
+}

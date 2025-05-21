@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Tagore Ln, Singapore 787472",
+  "geometry": {
+    "location": {
+      "lat": 1.3837895,
+      "lng": 103.8260703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385012130291502,
+        "lng": 103.8274668302915
+      },
+      "southwest": {
+        "lat": 1.382314169708498,
+        "lng": 103.8247688697085
+      }
+    }
+  },
+  "name": "Sung Kitchen Hotplate Yong Tau Foo",
+  "place_id": "ChIJeYhB67UW2jEROp0mUnUwivE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17404776990374272314",
+  "vicinity": "9 Tagore Lane, Singapore"
+}

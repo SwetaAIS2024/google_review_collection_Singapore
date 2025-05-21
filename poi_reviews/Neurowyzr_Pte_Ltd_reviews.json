@@ -1,0 +1,43 @@
+{
+  "formatted_address": "7500A Beach Rd, Unit 15-301 The Plaza, Singapore 199591",
+  "geometry": {
+    "location": {
+      "lat": 1.2997312,
+      "lng": 103.8608413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300937580291502,
+        "lng": 103.8621642802915
+      },
+      "southwest": {
+        "lat": 1.298239619708498,
+        "lng": 103.8594663197085
+      }
+    }
+  },
+  "name": "Neurowyzr Pte Ltd",
+  "place_id": "ChIJe4_H8AoZ2jERPmx1IBI4T4A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "F. Iwan Linariyadi (Cika)",
+      "author_url": "https://www.google.com/maps/contrib/116107826618786701103/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgILElXLACMat4Qo1ZyxNAQoC_rNHf2YNBWtAM3IU-4qjBZmOq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599279963,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9245670210520050750",
+  "user_ratings_total": 1,
+  "vicinity": "7500A Beach Road, Unit 15-301 The Plaza"
+}

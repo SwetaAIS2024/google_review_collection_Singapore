@@ -1,0 +1,44 @@
+{
+  "formatted_address": "60 Yuan Ching Rd, Singapore 619672",
+  "geometry": {
+    "location": {
+      "lat": 1.3355939,
+      "lng": 103.732515
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337587080291502,
+        "lng": 103.7355831
+      },
+      "southwest": {
+        "lat": 1.334889119708498,
+        "lng": 103.7314923
+      }
+    }
+  },
+  "name": "Floral Ridge",
+  "place_id": "ChIJw0rTDQAR2jERfDlx-pLtPZU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "Located on a mound next to Resthouse Pond, Floral Ridge is landscaped with a varieties of floral and shrubs.",
+      "time": 1726205254,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10754012700753344892",
+  "user_ratings_total": 1,
+  "vicinity": "60 Yuan Ching Road, Singapore"
+}

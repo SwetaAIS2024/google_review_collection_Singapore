@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Lor 8 Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.341028,
+      "lng": 103.8585334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342366930291502,
+        "lng": 103.8598574802915
+      },
+      "southwest": {
+        "lat": 1.339668969708498,
+        "lng": 103.8571595197085
+      }
+    }
+  },
+  "name": "ABC Waters @Lor 8 Toa Payoh",
+  "place_id": "ChIJwXRFcgAX2jERB7EfJi109zI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Meng Fai Yip",
+      "author_url": "https://www.google.com/maps/contrib/109238839349859158213/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAJlTRwJZWWJ0lBps7InR2wXKLAnLDZ9Gej54zU9bDVpBjhFe6=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "The Park Connector on the Toa Payoh side is more shady than that on the Bishan-Braddell side. But you won't find planting islands, naturalised slopes, and community decks here, like those that we see on the Bishan-Braddell side. The Kallang River also does not look as impressive.",
+      "time": 1736067508,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3672531758405890311",
+  "user_ratings_total": 1,
+  "vicinity": "Lorong 8 Toa Payoh"
+}

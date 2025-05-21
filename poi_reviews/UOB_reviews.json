@@ -1,0 +1,45 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2567749,
+      "lng": 103.8198707
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258146030291502,
+        "lng": 103.8206922802915
+      },
+      "southwest": {
+        "lat": 1.255448069708498,
+        "lng": 103.8179943197085
+      }
+    }
+  },
+  "name": "UOB",
+  "place_id": "ChIJU7br2_0b2jERegEnyDWz0GQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "海狼王",
+      "author_url": "https://www.google.com/maps/contrib/103565575787442994140/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXlZVBAOQfBzsWiDR4aNMsUIm3AfrJVBbCEPC87FqSaHhzn3-e7g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Singapore's United Overseas Bank (United Overseas Bank) was founded in 1935. UOB is the second largest bank in Singapore. Its founders are Huang Qingchang, who was born in Sarawak, and six businessmen from Fujian. Its business is mainly concentrated in Southeast Asia.",
+      "time": 1482634657,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7264503242521248122",
+  "user_ratings_total": 1,
+  "vicinity": "8 Sentosa Gateway"
+}

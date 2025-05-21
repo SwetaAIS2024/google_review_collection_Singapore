@@ -1,0 +1,27 @@
+{
+  "formatted_address": "10 Lakepoint Dr, Singapore 648927",
+  "geometry": {
+    "location": {
+      "lat": 1.341862,
+      "lng": 103.718377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343130080291502,
+        "lng": 103.7196913802915
+      },
+      "southwest": {
+        "lat": 1.340432119708498,
+        "lng": 103.7169934197085
+      }
+    }
+  },
+  "name": "Singapore Mannequins",
+  "place_id": "ChIJvcMPDuYP2jERSz78uLswMZI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10534254586216857163",
+  "vicinity": "10 Lakepoint Drive"
+}

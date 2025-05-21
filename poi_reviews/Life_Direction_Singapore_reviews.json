@@ -1,0 +1,29 @@
+{
+  "formatted_address": "55 Waterloo St, Singapore 187954",
+  "geometry": {
+    "location": {
+      "lat": 1.2983702,
+      "lng": 103.8513664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299755880291502,
+        "lng": 103.8526714302915
+      },
+      "southwest": {
+        "lat": 1.297057919708498,
+        "lng": 103.8499734697085
+      }
+    }
+  },
+  "name": "Life Direction Singapore",
+  "place_id": "ChIJyzOtUrsZ2jERQKqLHWKoHfk",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17950688829124618816",
+  "vicinity": "55 Waterloo Street"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309068730291502,
+        "lng": 103.8211892302915
+      },
+      "southwest": {
+        "lat": 1.306370769708498,
+        "lng": 103.8184912697085
+      }
+    }
+  },
+  "name": "Fong Ks Pte. Ltd.",
+  "place_id": "ChIJW3TRJCAa2jERfpVkG198DB0",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2093184674743752062",
+  "vicinity": "6 Napier Road"
+}

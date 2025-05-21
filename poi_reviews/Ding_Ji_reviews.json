@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Wholesale Centre, #01-02, Singapore 110011",
+  "geometry": {
+    "location": {
+      "lat": 1.2853884,
+      "lng": 103.778933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286657680291502,
+        "lng": 103.7802204802915
+      },
+      "southwest": {
+        "lat": 1.283959719708498,
+        "lng": 103.7775225197085
+      }
+    }
+  },
+  "name": "Ding Ji",
+  "place_id": "ChIJDVtFxasb2jERC5v91LTtLro",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13415921700906572555",
+  "vicinity": "1 Wholesale Centre, #01-02, Singapore"
+}

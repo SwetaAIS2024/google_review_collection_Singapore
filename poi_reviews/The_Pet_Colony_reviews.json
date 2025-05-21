@@ -1,0 +1,29 @@
+{
+  "formatted_address": "418 Northshore Dr, #02-10/11/12/13 Northshore Plaza II, Singapore 820418",
+  "geometry": {
+    "location": {
+      "lat": 1.4178031,
+      "lng": 103.901075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418907280291502,
+        "lng": 103.9026457802915
+      },
+      "southwest": {
+        "lat": 1.416209319708498,
+        "lng": 103.8999478197085
+      }
+    }
+  },
+  "name": "The Pet Colony",
+  "place_id": "ChIJC4F9YK8V2jERaSndyy_5ifs",
+  "types": [
+    "pet_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18125292159008319849",
+  "vicinity": "418 Northshore Drive, #02-10/11/12/13 Northshore Plaza II"
+}

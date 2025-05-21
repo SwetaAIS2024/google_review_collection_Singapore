@@ -1,0 +1,28 @@
+{
+  "formatted_address": "23 Nim Rise, Singapore 804431",
+  "geometry": {
+    "location": {
+      "lat": 1.3801495,
+      "lng": 103.8628995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381528130291502,
+        "lng": 103.8642632302915
+      },
+      "southwest": {
+        "lat": 1.378830169708498,
+        "lng": 103.8615652697085
+      }
+    }
+  },
+  "name": "Artview Gallery Singapore",
+  "place_id": "ChIJ887wDLgX2jERsHY89BF2nJo",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11140909397691889328",
+  "vicinity": "23 Nim Rise"
+}

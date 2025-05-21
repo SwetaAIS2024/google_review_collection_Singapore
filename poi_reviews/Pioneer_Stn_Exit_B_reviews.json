@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33781,
+      "lng": 103.69739
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339180180291502,
+        "lng": 103.6987427802915
+      },
+      "southwest": {
+        "lat": 1.336482219708498,
+        "lng": 103.6960448197085
+      }
+    }
+  },
+  "name": "Pioneer Stn Exit B",
+  "place_id": "ChIJ_4IvypEP2jERMXSDJIg1fro",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "sea mylife",
+      "author_url": "https://www.google.com/maps/contrib/102937795784915251311/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqvxc5QikTuBbv72TG5wmuYGYuoCoFJy4qIzirLi9O_Zkp9dZk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734049304,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13438237196964557873",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

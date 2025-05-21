@@ -1,0 +1,28 @@
+{
+  "formatted_address": "21 Lower Kent Ridge Rd, Singapore 119077",
+  "geometry": {
+    "location": {
+      "lat": 1.2972429,
+      "lng": 103.7778377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298561730291502,
+        "lng": 103.7792045302915
+      },
+      "southwest": {
+        "lat": 1.295863769708498,
+        "lng": 103.7765065697085
+      }
+    }
+  },
+  "name": "NUS",
+  "place_id": "ChIJT8p857sb2jERDHOBcELurHM",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8335298979478729484",
+  "vicinity": "21 Lower Kent Ridge Road"
+}

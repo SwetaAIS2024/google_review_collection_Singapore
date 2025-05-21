@@ -1,0 +1,30 @@
+{
+  "formatted_address": "92 Punggol Dr., Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3980842,
+      "lng": 103.9176852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399621580291502,
+        "lng": 103.9191723302915
+      },
+      "southwest": {
+        "lat": 1.396923619708498,
+        "lng": 103.9164743697085
+      }
+    }
+  },
+  "name": "92 Cafe",
+  "place_id": "ChIJ1dhMTAA92jERUWee-ctfjQU",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=400081271576749905",
+  "vicinity": "92 Punggol Drive"
+}

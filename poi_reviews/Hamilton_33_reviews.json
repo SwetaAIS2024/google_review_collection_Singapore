@@ -1,0 +1,64 @@
+{
+  "formatted_address": "23A Hamilton Rd, Singapore 209193",
+  "geometry": {
+    "location": {
+      "lat": 1.3116294,
+      "lng": 103.8609835
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312891130291502,
+        "lng": 103.8623932302915
+      },
+      "southwest": {
+        "lat": 1.310193169708498,
+        "lng": 103.8596952697085
+      }
+    }
+  },
+  "name": "Hamilton 33",
+  "place_id": "ChIJ___vRskZ2jERktF4r4fapzY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Gwendolyn Stocktonan",
+      "author_url": "https://www.google.com/maps/contrib/105119668539546315294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsOTN63NyDhda82eBBgrR6DtbqYsWmRIOxGw_qNGGfak5xzIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Accessible to public transport and hawker center. Tiny yet clean rooms good for bagpackers and people on the go.",
+      "time": 1575257395,
+      "translated": false
+    },
+    {
+      "author_name": "Mahe Ndran",
+      "author_url": "https://www.google.com/maps/contrib/109638356251096366336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5qeI5kYT_Mrdxe33plk5BJHHWaSlOGTpTXmBk7YcdNIcYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743603779,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Hing Jong",
+      "author_url": "https://www.google.com/maps/contrib/104141699740327017168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiQy29KDZw8rYslo1hqJHgGqykdMg6nh-4iV-x7gAKe_hD7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718179772,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3938356675458158994",
+  "user_ratings_total": 3,
+  "vicinity": "23A Hamilton Road"
+}

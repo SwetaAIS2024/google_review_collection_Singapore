@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Adam Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3325009,
+      "lng": 103.8165089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333833930291502,
+        "lng": 103.8178824302915
+      },
+      "southwest": {
+        "lat": 1.331135969708498,
+        "lng": 103.8151844697085
+      }
+    }
+  },
+  "name": "Adam Flyover",
+  "place_id": "ChIJvS71PU0R2jERrU4cR-i1lm4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7968756599908748973",
+  "vicinity": "Adam Road"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3752045,
+      "lng": 103.880873
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376551280291502,
+        "lng": 103.8822104802915
+      },
+      "southwest": {
+        "lat": 1.373853319708498,
+        "lng": 103.8795125197085
+      }
+    }
+  },
+  "name": "Bet Blks 930/931",
+  "place_id": "ChIJlby9I0UW2jER308dfDt4WyU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Chiang Meng",
+      "author_url": "https://www.google.com/maps/contrib/110151772678271503739/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5M_-YFo-q4_FHu6TzK1IKAntFPijTvBWaWoKZLA6N4YyLuA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477186564,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2691877399164702687",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

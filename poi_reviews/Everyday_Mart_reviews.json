@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Sago St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.281541,
+      "lng": 103.8446819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282797780291502,
+        "lng": 103.8460578302915
+      },
+      "southwest": {
+        "lat": 1.280099819708498,
+        "lng": 103.8433598697085
+      }
+    }
+  },
+  "name": "Everyday Mart",
+  "place_id": "ChIJiXeB0nIZ2jERpGQQ0j9hqSA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "After going to the temple. Get your alcohol here! (I do not drink, btw)",
+      "time": 1698242390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2353519207012918436",
+  "user_ratings_total": 1,
+  "vicinity": "Sago Street"
+}

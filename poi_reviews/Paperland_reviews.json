@@ -1,0 +1,28 @@
+{
+  "formatted_address": "8 Somapah Rd, Building 1, Level 6, Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.340321,
+      "lng": 103.962002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341360530291502,
+        "lng": 103.9633033302915
+      },
+      "southwest": {
+        "lat": 1.338662569708498,
+        "lng": 103.9606053697085
+      }
+    }
+  },
+  "name": "Paperland",
+  "place_id": "ChIJl8xJYnc92jERW5m3BPQnlqE",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11643537815617640795",
+  "vicinity": "8 Somapah Road, Building 1, Level 6"
+}

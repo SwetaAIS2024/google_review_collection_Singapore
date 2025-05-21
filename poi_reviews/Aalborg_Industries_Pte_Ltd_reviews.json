@@ -1,0 +1,41 @@
+{
+  "formatted_address": "14 Tuas Ave 18A, Singapore 638862",
+  "geometry": {
+    "location": {
+      "lat": 1.3227987,
+      "lng": 103.6371741
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324109130291502,
+        "lng": 103.6385649302915
+      },
+      "southwest": {
+        "lat": 1.321411169708498,
+        "lng": 103.6358669697085
+      }
+    }
+  },
+  "name": "Aalborg Industries Pte Ltd",
+  "place_id": "ChIJN88t5f0F2jERAeu6gxMkdko",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gavaskar Baskar",
+      "author_url": "https://www.google.com/maps/contrib/116655422770354475883/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXP7uxy3NpHTvEVHOlvfoiHzFltlr4A1oJRaB9VnO5MAF2Dg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483082914,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5365515672291568385",
+  "user_ratings_total": 1,
+  "vicinity": "14 Tuas Avenue 18A"
+}

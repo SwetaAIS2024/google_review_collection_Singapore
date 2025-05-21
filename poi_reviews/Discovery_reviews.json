@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2802455,
+      "lng": 103.8632483
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281524841083298,
+        "lng": 103.8648222586231
+      },
+      "southwest": {
+        "lat": 1.278826880500294,
+        "lng": 103.8621242980401
+      }
+    }
+  },
+  "name": "Discovery",
+  "place_id": "ChIJAyj4RQMZ2jERyNmXCzd_zho",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da190345f82803:0x1ace7f370b97d9c8",
+  "vicinity": "Singapore"
+}

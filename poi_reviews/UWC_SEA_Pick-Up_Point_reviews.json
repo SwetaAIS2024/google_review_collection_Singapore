@@ -1,0 +1,76 @@
+{
+  "formatted_address": "1 Tampines St. 73, Singapore 528704",
+  "geometry": {
+    "location": {
+      "lat": 1.358428,
+      "lng": 103.9318271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359589380291502,
+        "lng": 103.9332327302915
+      },
+      "southwest": {
+        "lat": 1.356891419708498,
+        "lng": 103.9305347697085
+      }
+    }
+  },
+  "name": "UWC SEA Pick-Up Point",
+  "place_id": "ChIJ31qP_XM92jERRu1TMzx5JlQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Lan Yao",
+      "author_url": "https://www.google.com/maps/contrib/111690309352291143249/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqjZupd831lwcnWAEEmAhD8j6q3bCSZsyIZ18LWZ7tJkaSnQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Beautiful, modern campus. Cool teachers and staff.",
+      "time": 1740055277,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Ling",
+      "author_url": "https://www.google.com/maps/contrib/118214361676184101344/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaSHZlOdlIItX69nQmftk-o65SIn0Zckzl0IJbvn0UToSvnA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Nice campus",
+      "time": 1502805956,
+      "translated": false
+    },
+    {
+      "author_name": "Anders Slaga Larsen",
+      "author_url": "https://www.google.com/maps/contrib/102105976126395365693/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd_k8q_QK_bfiyE14znaELpl68omp97Twv8jAsSCMDPSRLuu44MQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496922127,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Riduan B M S",
+      "author_url": "https://www.google.com/maps/contrib/105796723473863559633/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiR72BmZbDbKBZaC02JuOYTnpvdCk-veXbCXM0bJaInOyykQYl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478112316,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6063667247767088454",
+  "user_ratings_total": 4,
+  "vicinity": "1 Tampines Street 73, Singapore"
+}

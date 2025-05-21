@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 1 Tampines Central 1 #01-01, UOB Tampines Centre, Singapore 529539",
+  "geometry": {
+    "location": {
+      "lat": 1.3520334,
+      "lng": 103.9427075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353268830291502,
+        "lng": 103.9443019802915
+      },
+      "southwest": {
+        "lat": 1.350570869708498,
+        "lng": 103.9416040197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Tampines Branch",
+  "place_id": "ChIJqxyLQ5c92jER0we3IAxRTdg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15586202997929478099",
+  "vicinity": "No. 1 Tampines Central 1 #01-01, UOB Tampines Centre"
+}

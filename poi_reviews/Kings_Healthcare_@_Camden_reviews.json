@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Orchard Blvd, #10-04A/05/06/07 Camden Medical Centre, Singapore 248649",
+  "geometry": {
+    "location": {
+      "lat": 1.3033039,
+      "lng": 103.8239218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304617780291502,
+        "lng": 103.8253990302915
+      },
+      "southwest": {
+        "lat": 1.301919819708498,
+        "lng": 103.8227010697085
+      }
+    }
+  },
+  "name": "King's Healthcare @ Camden",
+  "place_id": "ChIJE5VKh4kZ2jER49QpsVhxh1A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Caitlynn Lim",
+      "author_url": "https://www.google.com/maps/contrib/106819665933609372322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCvMBsQeJvzuFqizgp-4Ryb4Awz9XOpdIK4fFHg_hDf3yvzuK7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Dr Mahen is excellent. Attentive, professional,trustworthy and was able to articulate everything so I could understand. Importantly he was able to treat me and help me heal.",
+      "time": 1646390219,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5802731270633542883",
+  "user_ratings_total": 1,
+  "vicinity": "1 Orchard Boulevard, #10-04A/05/06/07 Camden Medical Centre"
+}

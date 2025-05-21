@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Maju Ave, #B1-15, Singapore 556679",
+  "geometry": {
+    "location": {
+      "lat": 1.3650812,
+      "lng": 103.8653635
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366507880291502,
+        "lng": 103.8666594302915
+      },
+      "southwest": {
+        "lat": 1.363809919708498,
+        "lng": 103.8639614697085
+      }
+    }
+  },
+  "name": "POSB ATM myVillage",
+  "place_id": "ChIJ8-V1j20X2jER-kI04OcaVOw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17029265674195976954",
+  "vicinity": "1 Maju Avenue, #B1-15, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore, SG",
+  "geometry": {
+    "location": {
+      "lat": 1.2782462,
+      "lng": 103.6679243
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279576930291502,
+        "lng": 103.6692854302915
+      },
+      "southwest": {
+        "lat": 1.276878969708498,
+        "lng": 103.6665874697085
+      }
+    }
+  },
+  "name": "小码头",
+  "place_id": "ChIJmTaBHGMF2jERqCT6paExDMI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13982605513422677160",
+  "vicinity": "SG"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "631 Bedok Reservoir Rd, #01-918 Reservoir Shopping Centre@Eunos, Singapore 470631",
+  "geometry": {
+    "location": {
+      "lat": 1.3329969,
+      "lng": 103.9149956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334395580291502,
+        "lng": 103.9163538802915
+      },
+      "southwest": {
+        "lat": 1.331697619708498,
+        "lng": 103.9136559197085
+      }
+    }
+  },
+  "name": "Abdulla Supermart",
+  "place_id": "ChIJXfVYUwA92jERwauZJLtIUws",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jannatul Ferdaus Saima",
+      "author_url": "https://www.google.com/maps/contrib/106408278693737177112/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbHCxxMADiJmhoC7FZ-kWc5DLn3xmxJzJPmLUb0jjYhAc-uA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Reasonable prices and polite staffs!",
+      "time": 1706528633,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=816075926094326721",
+  "user_ratings_total": 1,
+  "vicinity": "631 Bedok Reservoir Road, #01-918 Reservoir Shopping Centre@Eunos"
+}

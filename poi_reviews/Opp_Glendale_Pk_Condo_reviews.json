@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.363636,
+      "lng": 103.764893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364980380291502,
+        "lng": 103.7662810802915
+      },
+      "southwest": {
+        "lat": 1.362282419708498,
+        "lng": 103.7635831197085
+      }
+    }
+  },
+  "name": "Opp Glendale Pk Condo",
+  "place_id": "ChIJAZMxuVIQ2jER-5b8X7f3p20",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ivan Lam",
+      "author_url": "https://www.google.com/maps/contrib/112403987693678430009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtkEYVZPu4dhGqMGbabgRFCzZgaASCDsKUoEL_3DEqFmBNzw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "No bus service on public holiday and weekend.",
+      "time": 1522474175,
+      "translated": false
+    },
+    {
+      "author_name": "黄文鸿",
+      "author_url": "https://www.google.com/maps/contrib/116117499977828550801/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKapDAhUtWbVccyBvK_WLg8Rvwv5x7G-MfwIjaA0nM900hO9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589876423,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7901556438206289659",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "45A Pandan Rd, Singapore 609287",
+  "geometry": {
+    "location": {
+      "lat": 1.301404,
+      "lng": 103.7469639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302759530291502,
+        "lng": 103.7484313302915
+      },
+      "southwest": {
+        "lat": 1.300061569708498,
+        "lng": 103.7457333697085
+      }
+    }
+  },
+  "name": "Alpha Pioneer Enterprises Pte Ltd",
+  "place_id": "ChIJactYgcMa2jERxjoTBgbwLeM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mohdhusain Husain",
+      "author_url": "https://www.google.com/maps/contrib/111926602365823348446/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzU8UA--rXhGOHlx0oiERhEpEx0WGPZgAbTbF_rp-uONk0SQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "steady",
+      "time": 1674042126,
+      "translated": true
+    },
+    {
+      "author_name": "Jason Luw",
+      "author_url": "https://www.google.com/maps/contrib/110512680357457694704/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRd5TvvcxKK-4uBEMfcBGMYiSmxHmiYK3o4NybX_RT5vb3Tg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666107296,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16370004129224014534",
+  "user_ratings_total": 2,
+  "vicinity": "45A Pandan Road"
+}

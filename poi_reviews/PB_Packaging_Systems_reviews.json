@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334074,
+      "lng": 103.714554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335417280291502,
+        "lng": 103.7159047302915
+      },
+      "southwest": {
+        "lat": 1.332719319708498,
+        "lng": 103.7132067697085
+      }
+    }
+  },
+  "name": "PB Packaging Systems",
+  "place_id": "ChIJQ3NR_vAP2jERl__33U4SRRg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1748824160244072343",
+  "vicinity": "Singapore"
+}

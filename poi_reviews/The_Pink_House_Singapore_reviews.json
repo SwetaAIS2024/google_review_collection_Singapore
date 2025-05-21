@@ -1,0 +1,30 @@
+{
+  "formatted_address": "695 N Bridge Rd, Singapore 198674",
+  "geometry": {
+    "location": {
+      "lat": 1.3021636,
+      "lng": 103.8584839
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303489130291502,
+        "lng": 103.8598851802915
+      },
+      "southwest": {
+        "lat": 1.300791169708498,
+        "lng": 103.8571872197085
+      }
+    }
+  },
+  "name": "The Pink House Singapore",
+  "place_id": "ChIJO5ohBVsZ2jERwNATVfp52yY",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2799965709417042112",
+  "vicinity": "695 North Bridge Road"
+}

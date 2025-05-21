@@ -1,0 +1,58 @@
+{
+  "formatted_address": "6 Tanjong Pagar Plz, #01-10 Market, Singapore 081006",
+  "geometry": {
+    "location": {
+      "lat": 1.2764563,
+      "lng": 103.8432253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277977480291502,
+        "lng": 103.8444915802915
+      },
+      "southwest": {
+        "lat": 1.275279519708498,
+        "lng": 103.8417936197085
+      }
+    }
+  },
+  "name": "Mui Yee",
+  "place_id": "ChIJ0RM_6mwZ2jERTjRBV_BSgfM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chris Young",
+      "author_url": "https://www.google.com/maps/contrib/110175378039021791893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmxvCtss3xnqIMHjosgW-7OWijyvWB6HruHyFG2QM06s4_bA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good little tobacconist. Sells rolling papers, filters and tobacco as well as cigarettes you can't find at normal convenience store",
+      "time": 1697105807,
+      "translated": false
+    },
+    {
+      "author_name": "Calvin Teo",
+      "author_url": "https://www.google.com/maps/contrib/100733055130389130015/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-an8x5dbmOZnLjPDqKTQBEsHjcM1TsWZBlmBVkQ-hDefO4jY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best of the best",
+      "time": 1743136739,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17546396815421682766",
+  "user_ratings_total": 2,
+  "vicinity": "6 Tanjong Pagar Plaza, #01-10 Market, Singapore"
+}

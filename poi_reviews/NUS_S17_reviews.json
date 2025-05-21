@@ -1,0 +1,88 @@
+{
+  "formatted_address": "10 Lower Kent Ridge Rd, National University of Singapore, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2977004,
+      "lng": 103.7806083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299041980291502,
+        "lng": 103.7820677802915
+      },
+      "southwest": {
+        "lat": 1.296344019708498,
+        "lng": 103.7793698197085
+      }
+    }
+  },
+  "name": "NUS S17",
+  "place_id": "ChIJc9Y2SFca2jERUd33B_8nY6s",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Cyrus Xu",
+      "author_url": "https://www.google.com/maps/contrib/117235640781265906219/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdr9cMDPfgX45h_mf090k5xX2F2PqErE_-4yZZDzOKL3h86m-p=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Building is getting old, probably needs some maintenance done on the exterior",
+      "time": 1695219934,
+      "translated": false
+    },
+    {
+      "author_name": "Joel Quek",
+      "author_url": "https://www.google.com/maps/contrib/115748416703611420095/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjk_ZM3Q6IgmdIp2B7st3Z3iPAhqIds3DBPF2EDMbKYMt80DDC=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "You can nap at level 5",
+      "time": 1629767754,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Tan",
+      "author_url": "https://www.google.com/maps/contrib/116315853954232917392/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Hmx_1qeJNcMW2dt4gRPNCpfy-KMfdW53UNgoU3oIUeaPqHTe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "My A B vibes",
+      "time": 1652463173,
+      "translated": false
+    },
+    {
+      "author_name": "Min Xin Pua",
+      "author_url": "https://www.google.com/maps/contrib/103213845177113332513/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9PBr_VXkHB9EzXGglHRZHvYNwdRWEZ3QiP_bQnK1Cd9Zi3a8i=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1644911139,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Tay",
+      "author_url": "https://www.google.com/maps/contrib/109075551901585097319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWcFBIMLxZzNLdivWu7S2GH55yFCnhEqQ9lggFkJSedwpRaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1538791965,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12349758579483860305",
+  "user_ratings_total": 7,
+  "vicinity": "10 Lower Kent Ridge Road, National University of Singapore"
+}

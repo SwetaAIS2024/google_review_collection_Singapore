@@ -1,0 +1,29 @@
+{
+  "formatted_address": "132 Killiney Rd, Singapore 239562",
+  "geometry": {
+    "location": {
+      "lat": 1.2976292,
+      "lng": 103.8380829
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298923030291502,
+        "lng": 103.8395008302915
+      },
+      "southwest": {
+        "lat": 1.296225069708498,
+        "lng": 103.8368028697085
+      }
+    }
+  },
+  "name": "AXS Machine",
+  "place_id": "ChIJf2hKF5oZ2jERXLj3Zgz1xdQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15331929940068644956",
+  "vicinity": "132 Killiney Road"
+}

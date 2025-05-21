@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.346634,
+      "lng": 103.759201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347950980291502,
+        "lng": 103.7605599802915
+      },
+      "southwest": {
+        "lat": 1.345253019708498,
+        "lng": 103.7578620197085
+      }
+    }
+  },
+  "name": "Ch Of St. Mary",
+  "place_id": "ChIJexRtE0IQ2jERDk1DbO071mw",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Capture Asia Photography",
+      "author_url": "https://www.google.com/maps/contrib/113796572659279486041/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh9b_x2ZYg217W7lw-uvtg49r7-rrdu5S7Algb5fnRx9dt47RMRw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "The bus stop serves numerous routes to destinations such as Orchard Road, Toa Payoh, and the Woodlands Train Checkpoint, making it highly convenient for nearby residents. However, visibility can be limited as buses approach from a slope and certain areas are obstructed by bushes. It's important to stay vigilant as some drivers may be displeased if signaled too late. On weekends, the bus stop can become crowded due to the large number of people attending the nearby church.",
+      "time": 1741179585,
+      "translated": false
+    },
+    {
+      "author_name": "Luke Soh",
+      "author_url": "https://www.google.com/maps/contrib/113212637770922306022/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRczIFcKC-ZZdKzeztHafmCPzjWK23OYZjiU9_AAe-C8X1zdS3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "good buses",
+      "time": 1492262073,
+      "translated": false
+    },
+    {
+      "author_name": "Guan Chin",
+      "author_url": "https://www.google.com/maps/contrib/113865401093632993940/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-mTgunBxiPMJs19YJhU6Ps77kID2ZWynI8f6-PQ-P-mIPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487498068,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7842521692021935374",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

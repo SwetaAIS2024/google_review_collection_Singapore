@@ -1,0 +1,29 @@
+{
+  "formatted_address": "27 Pioneer Rd N, Singapore 628470",
+  "geometry": {
+    "location": {
+      "lat": 1.3264046,
+      "lng": 103.6961976
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327753630291502,
+        "lng": 103.6974415802915
+      },
+      "southwest": {
+        "lat": 1.325055669708498,
+        "lng": 103.6947436197085
+      }
+    }
+  },
+  "name": "Kedai Makan Siti Corner",
+  "place_id": "ChIJk4X3kmIF2jERgCaEgmpmPfk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17959623496665671296",
+  "vicinity": "27 Pioneer Road North, Singapore"
+}

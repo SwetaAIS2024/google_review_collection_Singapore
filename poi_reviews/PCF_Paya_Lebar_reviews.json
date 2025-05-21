@@ -1,0 +1,28 @@
+{
+  "formatted_address": "929 Hougang Street 91, #01-127, Singapore 530929",
+  "geometry": {
+    "location": {
+      "lat": 1.3760638,
+      "lng": 103.8814548
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377400380291502,
+        "lng": 103.8828860302915
+      },
+      "southwest": {
+        "lat": 1.374702419708498,
+        "lng": 103.8801880697085
+      }
+    }
+  },
+  "name": "PCF Paya Lebar",
+  "place_id": "ChIJ9bMt5EQW2jEReWYFCWUWatI",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15161955718695052921",
+  "vicinity": "929 Hougang Street 91, #01-127"
+}

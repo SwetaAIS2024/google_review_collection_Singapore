@@ -1,0 +1,29 @@
+{
+  "formatted_address": "400 Paya Lebar Way, #01-05 MacPherson Community Club, Singapore 379131",
+  "geometry": {
+    "location": {
+      "lat": 1.3235614,
+      "lng": 103.8845743
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324781580291502,
+        "lng": 103.8859496802915
+      },
+      "southwest": {
+        "lat": 1.322083619708498,
+        "lng": 103.8832517197085
+      }
+    }
+  },
+  "name": "DBS ATM - Macpherson Community Club",
+  "place_id": "ChIJXa6vcJAZ2jERtK_P_9y4x7Y",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13170698894592421812",
+  "vicinity": "400 Paya Lebar Way, #01-05 MacPherson Community Club"
+}

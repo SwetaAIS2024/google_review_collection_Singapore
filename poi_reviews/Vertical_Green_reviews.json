@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2784414,
+      "lng": 103.800708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279729380291502,
+        "lng": 103.8024046302915
+      },
+      "southwest": {
+        "lat": 1.277031419708498,
+        "lng": 103.7997066697085
+      }
+    }
+  },
+  "name": "Vertical Green",
+  "place_id": "ChIJ2X3AsMcb2jERBpXykWMYVPA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hector Niam",
+      "author_url": "https://www.google.com/maps/contrib/108905835049375950798/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICJJrKRCM-VoEWc9lyO_d7na8JCVkc-cPctcrCuA4IKMELw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Great place have a walk. Lots of gardens and greeneries to immerse in. Carpark is just nearby.",
+      "time": 1663466972,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17317493283075822854",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

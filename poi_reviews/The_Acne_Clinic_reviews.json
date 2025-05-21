@@ -1,0 +1,77 @@
+{
+  "formatted_address": "112 E Coast Rd, #03-08, Singapore 428802",
+  "geometry": {
+    "location": {
+      "lat": 1.3052002,
+      "lng": 103.9050645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306644380291502,
+        "lng": 103.9065360302915
+      },
+      "southwest": {
+        "lat": 1.303946419708498,
+        "lng": 103.9038380697085
+      }
+    }
+  },
+  "name": "The Acne Clinic",
+  "place_id": "ChIJearGetUZ2jERSxUEoN97zL8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amarjit Kour",
+      "author_url": "https://www.google.com/maps/contrib/104972058581676196741/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0lh86rLLyHmh6X5hxzXDONPXbULn1b5H_5cvyvwHKbYsriw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Dr Ramita who did my treatment had a steady hand and was very meticulous and professional. Her assistants were friendly and helpful. The clinic was neat.",
+      "time": 1741002403,
+      "translated": false
+    },
+    {
+      "author_name": "Jr Praveen",
+      "author_url": "https://www.google.com/maps/contrib/105651769025587047990/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-_55NncMWP5MTelwxK2989FHv49xH6SbbhDFrbiHRt26vM6-h=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Friendly staff.",
+      "time": 1741003238,
+      "translated": false
+    },
+    {
+      "author_name": "Rashi Mittal",
+      "author_url": "https://www.google.com/maps/contrib/105553810181770553874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvHXjZGWtrd2A2JDUyrnjET9St_h5jS69wp0lWhsUJb8ls7R8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747496211,
+      "translated": false
+    },
+    {
+      "author_name": "Wen Chun Liu",
+      "author_url": "https://www.google.com/maps/contrib/106532234797122696901/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTiZVxZHjSZ1zdjglVqzuXldz3tnOHRKB8UQvaQpXTWsDmyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740995562,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13820557556885755211",
+  "user_ratings_total": 4,
+  "vicinity": "112 East Coast Road, #03-08"
+}

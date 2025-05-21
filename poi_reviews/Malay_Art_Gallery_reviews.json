@@ -1,0 +1,52 @@
+{
+  "formatted_address": "162 Simei Rd, #02-304, Singapore 520162",
+  "geometry": {
+    "location": {
+      "lat": 1.3457439,
+      "lng": 103.9599479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347186080291502,
+        "lng": 103.9611811302915
+      },
+      "southwest": {
+        "lat": 1.344488119708498,
+        "lng": 103.9584831697085
+      }
+    }
+  },
+  "name": "Malay Art Gallery",
+  "place_id": "ChIJNWDLHM492jERSWjo0UstFoo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Indra",
+      "author_url": "https://www.google.com/maps/contrib/117931319134866543459/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICzv4J6KuByL-cINP6rJSLHqRR97gTX8AK0wxOlnXt7bcspg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747109321,
+      "translated": false
+    },
+    {
+      "author_name": "Zahra Aljunied",
+      "author_url": "https://www.google.com/maps/contrib/116685400051641884308/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMZOtnjfNY4QwaWpZBbPnDhLRG4gJ70m3K6PSJNxJPzTIsDa39=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733816875,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9950190230389155913",
+  "user_ratings_total": 2,
+  "vicinity": "162 Simei Road, #02-304"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "1 Cuscaden Rd, Level 2 Conrad Singapore, Singapore 249715",
+  "geometry": {
+    "location": {
+      "lat": 1.3046452,
+      "lng": 103.8248639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305868180291502,
+        "lng": 103.8262920302915
+      },
+      "southwest": {
+        "lat": 1.303170219708498,
+        "lng": 103.8235940697085
+      }
+    }
+  },
+  "name": "East47",
+  "place_id": "ChIJDQVHB0cZ2jERgh3YLa2q5uw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Besh Vaezin",
+      "author_url": "https://www.google.com/maps/contrib/110811370105100145265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfa8sSsHQvQgOcA4Nfb18KnxsCR-44CJ8D7isnxXbPDmo0t9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Feel like home to be here with this lovey people and their fantastic drinks!",
+      "time": 1732963271,
+      "translated": false
+    },
+    {
+      "author_name": "Alyssa Uy",
+      "author_url": "https://www.google.com/maps/contrib/104687599445957476537/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBwIIeQ1M3QBJP1YfCoNnhS7vxaroLn86rJpTBN9hdNGaBIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728807275,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17070519098369645954",
+  "user_ratings_total": 2,
+  "vicinity": "1 Cuscaden Road, Level 2 Conrad Singapore"
+}

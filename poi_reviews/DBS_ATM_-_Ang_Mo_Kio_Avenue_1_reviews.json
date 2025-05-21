@@ -1,0 +1,29 @@
+{
+  "formatted_address": "226G Ang Mo Kio Ave 1, Singapore 567226",
+  "geometry": {
+    "location": {
+      "lat": 1.3670221,
+      "lng": 103.8396501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368491330291502,
+        "lng": 103.8408793302915
+      },
+      "southwest": {
+        "lat": 1.365793369708498,
+        "lng": 103.8381813697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ang Mo Kio Avenue 1",
+  "place_id": "ChIJIbGtCWMX2jER09U_qTh1_F0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6772416825876534739",
+  "vicinity": "226G Ang Mo Kio Avenue 1, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "40 Punggol E, #02-K1 Riviera LRT Station, Singapore 828852",
+  "geometry": {
+    "location": {
+      "lat": 1.3945391,
+      "lng": 103.9161227
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395911930291502,
+        "lng": 103.9174365302915
+      },
+      "southwest": {
+        "lat": 1.393213969708498,
+        "lng": 103.9147385697085
+      }
+    }
+  },
+  "name": "Kiosk Box",
+  "place_id": "ChIJQTD9CwA92jER0h7B972ynRE",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1269367198963539666",
+  "vicinity": "40 Punggol East, #02-K1 Riviera LRT Station, Singapore"
+}

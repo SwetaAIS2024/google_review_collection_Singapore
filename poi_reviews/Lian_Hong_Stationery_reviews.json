@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3371684,
+      "lng": 103.797608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338540930291502,
+        "lng": 103.7990039802915
+      },
+      "southwest": {
+        "lat": 1.335842969708498,
+        "lng": 103.7963060197085
+      }
+    }
+  },
+  "name": "Lian Hong Stationery",
+  "place_id": "ChIJXwXy6JcQ2jERbpfWJ1iJ_B8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2304868121025353582",
+  "vicinity": "Singapore"
+}

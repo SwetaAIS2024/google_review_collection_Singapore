@@ -1,0 +1,46 @@
+{
+  "formatted_address": "10 Haig Rd, #01-369 Block 10, Singapore 430010",
+  "geometry": {
+    "location": {
+      "lat": 1.3147677,
+      "lng": 103.8958302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316139480291502,
+        "lng": 103.8973294302915
+      },
+      "southwest": {
+        "lat": 1.313441519708498,
+        "lng": 103.8946314697085
+      }
+    }
+  },
+  "name": "Martways Pte Ltd",
+  "place_id": "ChIJbZGh3OUZ2jERBYR5hEAZhIU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "lloyd sebastian",
+      "author_url": "https://www.google.com/maps/contrib/114724493411178998629/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_d6sdelaYS0h43gid1x5WQ4r28z2RYmWUcZ3SaDCNfhSOOOE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Owner very friendly\nThings are sold cheap\nHighly recommend going there to buy daily needs👍🏻",
+      "time": 1560473426,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9620842468861379589",
+  "user_ratings_total": 1,
+  "vicinity": "10 Haig Road, #01-369 Block 10"
+}

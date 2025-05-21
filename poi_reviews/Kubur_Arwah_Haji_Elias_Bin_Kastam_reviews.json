@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Cemetery North St 15, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3842822,
+      "lng": 103.6872433
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385575880291502,
+        "lng": 103.6887880302915
+      },
+      "southwest": {
+        "lat": 1.382877919708498,
+        "lng": 103.6860900697085
+      }
+    }
+  },
+  "name": "Kubur Arwah Haji Elias Bin Kastam",
+  "place_id": "ChIJV8U3cQAP2jERAZ9lcHji7mc",
+  "types": [
+    "cemetery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7489172237273374465",
+  "vicinity": "Cemetery North St 15"
+}

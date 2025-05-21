@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3994707,
+      "lng": 103.906511
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400729030291502,
+        "lng": 103.9078154302915
+      },
+      "southwest": {
+        "lat": 1.398031069708498,
+        "lng": 103.9051174697085
+      }
+    }
+  },
+  "name": "AXS and SAM machines",
+  "place_id": "ChIJBY0jEgcW2jERN_6Oekq9UnU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Nirmala Damith Jayawardena",
+      "author_url": "https://www.google.com/maps/contrib/118144818109147977690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPhwJcsAyrMq0r09-cIZEwmCzJgAmN64fbDXPi9vjTkWCrVpS-=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Located between the food court and Ang Mo Super market",
+      "time": 1524753531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8454027578109263415",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

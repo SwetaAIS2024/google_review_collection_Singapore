@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.380091,
+      "lng": 104.000923
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381459580291502,
+        "lng": 104.0023414802915
+      },
+      "southwest": {
+        "lat": 1.378761619708498,
+        "lng": 103.9996435197085
+      }
+    }
+  },
+  "name": "Opp DB Schenker",
+  "place_id": "ChIJ00kte3M82jEReXQDNo5q9Ik",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9940687436537623673",
+  "vicinity": "Singapore"
+}

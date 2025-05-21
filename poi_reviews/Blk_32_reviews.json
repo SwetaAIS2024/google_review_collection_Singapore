@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3233549,
+      "lng": 103.9250924
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324647680291502,
+        "lng": 103.9264860302915
+      },
+      "southwest": {
+        "lat": 1.321949719708498,
+        "lng": 103.9237880697085
+      }
+    }
+  },
+  "name": "Blk 32",
+  "place_id": "ChIJ-0iem60i2jER1hWX7yCA1X8",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Lee CS",
+      "author_url": "https://www.google.com/maps/contrib/112165920065012716965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9B2QX1ubG2Gek4MAazgmG8u8leBjVdZoZkOHTTZZcn5tY5QKP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Newly renovated bus stop with bicycle share path behind.",
+      "time": 1682162064,
+      "translated": false
+    },
+    {
+      "author_name": "Ho Robert",
+      "author_url": "https://www.google.com/maps/contrib/105753813256061140265/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISKNaDJPL4j_tpBJO6JOSXnyS3hypJkFKvIeq0xWImYD17Iw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "The busy station is very crowded during commuting hours. The shared pedestrian and bicycle paths in front and behind the station have been widened, bringing a lot of convenience to the public, including electric wheelchair users and the elderly!",
+      "time": 1489383097,
+      "translated": true
+    },
+    {
+      "author_name": "Isaac Leong",
+      "author_url": "https://www.google.com/maps/contrib/114342170990044311358/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPzLYyXf5ZHYxb2Iq1YfRlxsDijdXmCa_mxotHCNX4-7tRs9fs=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706831473,
+      "translated": false
+    },
+    {
+      "author_name": "Tahir Hussain Mir",
+      "author_url": "https://www.google.com/maps/contrib/104424369886659134410/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb4r3uE2c4DPojO4CsJNQQx9RCTod7LKNovl-xljFSvWFpC8_l=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592457793,
+      "translated": false
+    },
+    {
+      "author_name": "Hong Wang",
+      "author_url": "https://www.google.com/maps/contrib/104495790793515408322/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPp03UIK3o_O3bWFLGaBCHNW9fMzLIeKdvZgtqSjyO79QMLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563187866,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9211409491803182550",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

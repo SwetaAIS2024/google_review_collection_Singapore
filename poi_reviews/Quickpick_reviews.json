@@ -1,0 +1,30 @@
+{
+  "formatted_address": "67 Ayer Rajah Crescent, #01-10, Singapore 139967",
+  "geometry": {
+    "location": {
+      "lat": 1.2959158,
+      "lng": 103.7865809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297291530291502,
+        "lng": 103.7880095802915
+      },
+      "southwest": {
+        "lat": 1.294593569708498,
+        "lng": 103.7853116197085
+      }
+    }
+  },
+  "name": "Quickpick",
+  "place_id": "ChIJKZYq1U8a2jERtGyj1K-MM80",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14786316688402115764",
+  "vicinity": "67 Ayer Rajah Crescent, #01-10, Singapore"
+}

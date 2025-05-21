@@ -1,0 +1,41 @@
+{
+  "formatted_address": "9003 Tampines Street 93, #01-182, Singapore 528837",
+  "geometry": {
+    "location": {
+      "lat": 1.3395307,
+      "lng": 103.9411302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340847030291502,
+        "lng": 103.9425068302915
+      },
+      "southwest": {
+        "lat": 1.338149069708498,
+        "lng": 103.9398088697085
+      }
+    }
+  },
+  "name": "Leo Furniture & Construction",
+  "place_id": "ChIJ1UM8LTk92jERKkLVvQ7rm2g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pris",
+      "author_url": "https://www.google.com/maps/contrib/107634090843713855504/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKeBO4wBWiLjQkY74xG6QLQ50A2C4NctHTr6DFlFJ9EXgYfKw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707742979,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7537876849881596458",
+  "user_ratings_total": 1,
+  "vicinity": "9003 Tampines Street 93, #01-182"
+}

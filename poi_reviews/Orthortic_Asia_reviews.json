@@ -1,0 +1,30 @@
+{
+  "formatted_address": "35 Tannery Rd, Singapore 347740",
+  "geometry": {
+    "location": {
+      "lat": 1.3265433,
+      "lng": 103.8751007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327732130291502,
+        "lng": 103.8763420302915
+      },
+      "southwest": {
+        "lat": 1.325034169708498,
+        "lng": 103.8736440697085
+      }
+    }
+  },
+  "name": "Orthortic (Asia)",
+  "place_id": "ChIJp_VYXocX2jER6GIrSnVVIts",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15790277205758272232",
+  "vicinity": "35 Tannery Road"
+}

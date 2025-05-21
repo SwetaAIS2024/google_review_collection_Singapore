@@ -1,0 +1,44 @@
+{
+  "formatted_address": "2 Bukit Batok Street 24, Singapore 659480",
+  "geometry": {
+    "location": {
+      "lat": 1.3416761,
+      "lng": 103.7544612
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342840630291502,
+        "lng": 103.7558975802915
+      },
+      "southwest": {
+        "lat": 1.340142669708498,
+        "lng": 103.7531996197085
+      }
+    }
+  },
+  "name": "Anglo M & E System Pte Ltd",
+  "place_id": "ChIJv7l-emsQ2jERjNGbVvKFU60",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Thiben Thila",
+      "author_url": "https://www.google.com/maps/contrib/104946185331314898708/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZot6mD7f3tEGSszXnj6AK6p6A1DwXyZcM20h68KQ59HVRDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568781836,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12489473467510149516",
+  "user_ratings_total": 1,
+  "vicinity": "2 Bukit Batok Street 24"
+}

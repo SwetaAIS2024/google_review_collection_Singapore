@@ -1,0 +1,28 @@
+{
+  "formatted_address": "865 Mountbatten Rd, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.3037611,
+      "lng": 103.9008959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305103930291502,
+        "lng": 103.9024132302915
+      },
+      "southwest": {
+        "lat": 1.302405969708498,
+        "lng": 103.8997152697085
+      }
+    }
+  },
+  "name": "ThePoetryHive",
+  "place_id": "ChIJX-lwbjoZ2jER4meVr8iJPPw",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18175553691192748002",
+  "vicinity": "865 Mountbatten Road"
+}

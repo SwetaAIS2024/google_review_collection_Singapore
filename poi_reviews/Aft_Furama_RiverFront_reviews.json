@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2863066,
+      "lng": 103.8349818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287663580291502,
+        "lng": 103.8362908802915
+      },
+      "southwest": {
+        "lat": 1.284965619708498,
+        "lng": 103.8335929197085
+      }
+    }
+  },
+  "name": "Aft Furama RiverFront",
+  "place_id": "ChIJ2wD0DXcZ2jERRjSlWmLQ9NQ",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Toby Keen",
+      "author_url": "https://www.google.com/maps/contrib/101626095739842728229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD5okJTrJaSg8PIw-sX_tSjfOVsq4MgxxDLO7tiOkGWFZchtW-=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Not often crowded, the stop to get off for Tan Tock Sen’s grave. You can also get off here to access Tiong Bahru",
+      "time": 1514853959,
+      "translated": false
+    },
+    {
+      "author_name": "梁展逢",
+      "author_url": "https://www.google.com/maps/contrib/105208968516498616026/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAfWi-q5H3SQZnIkD637jN8tWMIGGhqyzYHzh-W1u3SZZQQMa8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "The bus is gone without picking up people.",
+      "time": 1532349343,
+      "translated": false
+    },
+    {
+      "author_name": "CAPS LOCK",
+      "author_url": "https://www.google.com/maps/contrib/104197187763215626449/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWznWBXVn-HKrbsvOxnbbSYsN5lu_lz_Geuq5DU_Ow6xyt-ZYH8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Alot of bus services!",
+      "time": 1559526546,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15345118951204271174",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

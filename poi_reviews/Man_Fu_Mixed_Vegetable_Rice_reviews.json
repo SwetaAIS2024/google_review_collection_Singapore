@@ -1,0 +1,56 @@
+{
+  "formatted_address": "929 Tampines Street 91, Block 929, Singapore 520929",
+  "geometry": {
+    "location": {
+      "lat": 1.3463071,
+      "lng": 103.9393356
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347708380291502,
+        "lng": 103.9406781802915
+      },
+      "southwest": {
+        "lat": 1.345010419708498,
+        "lng": 103.9379802197085
+      }
+    }
+  },
+  "name": "Man Fu Mixed Vegetable Rice",
+  "place_id": "ChIJYc4HcQA92jERErotGpsFfkE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ayu De Chuan",
+      "author_url": "https://www.google.com/maps/contrib/114281358422263624436/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXSE70KPVGAjWlNDzg2IFZueuxpwTCex16k36jhsdpisftPw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Good portion for the price. Decent food. Good service and polite. Calls me shuai ge. What's not to like?",
+      "time": 1733313406,
+      "translated": false
+    },
+    {
+      "author_name": "Y.A. Y.A",
+      "author_url": "https://www.google.com/maps/contrib/117211469214934830285/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoTVycEyS1FRCTFlbQu5EJxBG2L96C2QgLu1pyEXym9-74WO92=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741663266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4719215623248132626",
+  "user_ratings_total": 2,
+  "vicinity": "929 Tampines Street 91, Block 929, Singapore"
+}

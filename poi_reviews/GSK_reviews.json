@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307425,
+      "lng": 103.660599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308755880291502,
+        "lng": 103.6619312802915
+      },
+      "southwest": {
+        "lat": 1.306057919708498,
+        "lng": 103.6592333197085
+      }
+    }
+  },
+  "name": "GSK",
+  "place_id": "ChIJaUQ_vb8F2jERiJFoTmvLN0c",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5131793962149384584",
+  "vicinity": "Singapore"
+}

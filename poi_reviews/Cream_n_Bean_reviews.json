@@ -1,0 +1,29 @@
+{
+  "formatted_address": "432 Race Course Rd, Singapore 218678",
+  "geometry": {
+    "location": {
+      "lat": 1.315743,
+      "lng": 103.857899
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317152380291502,
+        "lng": 103.8591845802915
+      },
+      "southwest": {
+        "lat": 1.314454419708498,
+        "lng": 103.8564866197085
+      }
+    }
+  },
+  "name": "Cream 'n' Bean",
+  "place_id": "ChIJZyUT1oEZ2jERumXA-pJ9MWI",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7075574559801370042",
+  "vicinity": "432 Race Course Road"
+}

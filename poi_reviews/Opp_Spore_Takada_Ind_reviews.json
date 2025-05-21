@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.298118,
+      "lng": 103.668388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299489180291502,
+        "lng": 103.6697628302915
+      },
+      "southwest": {
+        "lat": 1.296791219708498,
+        "lng": 103.6670648697085
+      }
+    }
+  },
+  "name": "Opp S'pore Takada Ind",
+  "place_id": "ChIJOfCRXrAF2jERpB0Ienlb5R0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "sohel ahmed",
+      "author_url": "https://www.google.com/maps/contrib/109203492694370171332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT0LGe53UKELwHS4Q3VUWP1CJzzR-ARZkKYh6zGoJlzRP2VSae1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "Good, clame",
+      "time": 1730053750,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2154228574063173028",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

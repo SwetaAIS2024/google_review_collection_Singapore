@@ -1,0 +1,52 @@
+{
+  "formatted_address": "20 Mandai Lake Rd, Singapore 729825",
+  "geometry": {
+    "location": {
+      "lat": 1.4036778,
+      "lng": 103.7806987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404690430291502,
+        "lng": 103.7815341302915
+      },
+      "southwest": {
+        "lat": 1.401992469708498,
+        "lng": 103.7788361697085
+      }
+    }
+  },
+  "name": "Macaw Keeper Talk",
+  "place_id": "ChIJJSekv_cT2jERXLRD2cu9PGA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Wei Jian To",
+      "author_url": "https://www.google.com/maps/contrib/100270804947131041093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEjZRDicCLn6CwS2Vvcyqg8A2z0kS5Y7oDD0jLG1JhA-kOea-XXQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692604327,
+      "translated": false
+    },
+    {
+      "author_name": "Sathyam",
+      "author_url": "https://www.google.com/maps/contrib/112612639470579855276/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvxCMDWQbpbQq-jZCdfkBeUu6YRYhlvK5DgxpQD2QrPV8VoA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683565462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6934626209464824924",
+  "user_ratings_total": 2,
+  "vicinity": "20 Mandai Lake Road"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.302969,
+      "lng": 103.746071
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304375780291502,
+        "lng": 103.7474175302915
+      },
+      "southwest": {
+        "lat": 1.301677819708498,
+        "lng": 103.7447195697085
+      }
+    }
+  },
+  "name": "Aft Pandan Rd",
+  "place_id": "ChIJP6-9CMQa2jERjf89ea0fq6k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Christopher Chew",
+      "author_url": "https://www.google.com/maps/contrib/103216085418751728836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoepjrMyvHQQbA0OUgg6NmTyOecTLL1irMltk8yMpwqJDNIkFl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good view of reservoir from Logistics Hub",
+      "time": 1562642646,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12225900443351252877",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

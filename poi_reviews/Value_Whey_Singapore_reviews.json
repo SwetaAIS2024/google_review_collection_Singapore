@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Block 4 Queen's Rd, #02-111, Singapore 260004",
+  "geometry": {
+    "location": {
+      "lat": 1.3179142,
+      "lng": 103.8074954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319361030291502,
+        "lng": 103.8087325302915
+      },
+      "southwest": {
+        "lat": 1.316663069708498,
+        "lng": 103.8060345697085
+      }
+    }
+  },
+  "name": "Value Whey Singapore",
+  "place_id": "ChIJ-9x1yw8a2jERRsbUFwVoS9I",
+  "types": [
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15153319742302111302",
+  "vicinity": "Block 4 Queen's Road, #02-111"
+}

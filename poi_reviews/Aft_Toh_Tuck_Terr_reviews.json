@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339432,
+      "lng": 103.768272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340826530291502,
+        "lng": 103.7696141802915
+      },
+      "southwest": {
+        "lat": 1.338128569708498,
+        "lng": 103.7669162197085
+      }
+    }
+  },
+  "name": "Aft Toh Tuck Terr",
+  "place_id": "ChIJ1Y0eaWQQ2jEREbn4d8B7tOw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Daryl Goh",
+      "author_url": "https://www.google.com/maps/contrib/100293345554821184792/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnGJB6D-wVqkhTbtWRyFV6jqogNK3zFKXA_WiIBV2nHI6iQqom=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I love this bus stop",
+      "time": 1674968620,
+      "translated": false
+    },
+    {
+      "author_name": "Zhao",
+      "author_url": "https://www.google.com/maps/contrib/110642637837080526982/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv5VGVF_7-Xxz-2OzHstyFvaBDECQoKCT25gnabtj9kHGZ-6A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Bus stop 🚏",
+      "time": 1714045472,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17056393755335637265",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

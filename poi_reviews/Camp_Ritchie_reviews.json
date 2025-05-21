@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Central Water Catchment, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3465428,
+      "lng": 103.8162534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.34770105,
+        "lng": 103.8169325302915
+      },
+      "southwest": {
+        "lat": 1.34306805,
+        "lng": 103.8142345697085
+      }
+    }
+  },
+  "name": "Camp Ritchie",
+  "place_id": "ChIJZwtN24UR2jER4Qzm95q420U",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5033819984240184545",
+  "vicinity": ""
+}

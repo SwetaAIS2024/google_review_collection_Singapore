@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334433,
+      "lng": 103.645203
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335765530291502,
+        "lng": 103.6465695802915
+      },
+      "southwest": {
+        "lat": 1.333067569708498,
+        "lng": 103.6438716197085
+      }
+    }
+  },
+  "name": "Aft Tuas Ave 7",
+  "place_id": "ChIJ52SZ_lAP2jERzvNsieVy7zQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Iz Sfive",
+      "author_url": "https://www.google.com/maps/contrib/105187218436446373372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKad_hUG69wSs3T_wBpkYvnxOP_8LnBL-sEu6LJmmoxQwDJ6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480659691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3814393739584795598",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

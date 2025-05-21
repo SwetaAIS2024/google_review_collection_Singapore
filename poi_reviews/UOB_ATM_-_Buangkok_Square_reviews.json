@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 991 Buangkok Link, #01-K3 Buangkok Square Mall, Singapore 530991",
+  "geometry": {
+    "location": {
+      "lat": 1.3845032,
+      "lng": 103.8817397
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385830530291502,
+        "lng": 103.8832323302915
+      },
+      "southwest": {
+        "lat": 1.383132569708498,
+        "lng": 103.8805343697085
+      }
+    }
+  },
+  "name": "UOB ATM - Buangkok Square",
+  "place_id": "ChIJsdjTi8MX2jERV4kWMTfaoHg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8692187211406674263",
+  "vicinity": "Blk 991 Buangkok Link, #01-K3 Buangkok Square Mall"
+}

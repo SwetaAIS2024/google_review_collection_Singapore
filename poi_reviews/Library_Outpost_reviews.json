@@ -1,0 +1,86 @@
+{
+  "formatted_address": "52 Nanyang Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3431789,
+      "lng": 103.6825584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344421930291502,
+        "lng": 103.6838312802915
+      },
+      "southwest": {
+        "lat": 1.341723969708498,
+        "lng": 103.6811333197085
+      }
+    }
+  },
+  "name": "Library Outpost",
+  "place_id": "ChIJK8oliHUP2jERffTMhakKRlU",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Audrey",
+      "author_url": "https://www.google.com/maps/contrib/108219693165714549419/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5KYxX5_ol4XEPPfTr9X6-5lk1qAfGIR2Zg61q0V5tleZR=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Weird policy where you can only borrow a book for a maximum of two hours before 7pm - there’s an overdue charge of $0.50 per hour beyond that. I wasn’t aware of this and was charged for it. Otherwise a conducive place for studying without the funky library smell that most libraries have.",
+      "time": 1583061731,
+      "translated": false
+    },
+    {
+      "author_name": "Sriram V",
+      "author_url": "https://www.google.com/maps/contrib/116293312504509025830/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzN42-hyoOBTw0k0ouo3uXItWm3N8Li2ayb_HZB8FkzOG8Urlm=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Excellent place for audio visuals",
+      "time": 1499132086,
+      "translated": false
+    },
+    {
+      "author_name": "Techno",
+      "author_url": "https://www.google.com/maps/contrib/111828125842494891071/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqhkj9_ruQrwIiu75vy5AK909zD0m6EyfsqG0-bUv4RB7ibziwPg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690714413,
+      "translated": false
+    },
+    {
+      "author_name": "Khanasran Ma'lee",
+      "author_url": "https://www.google.com/maps/contrib/116746660675346197924/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTVJvj2fQlT2K7m68OxJsCYAlWLWn9dshjJjyeY6OZokHVGNofFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531271377,
+      "translated": false
+    },
+    {
+      "author_name": "Rahul S.",
+      "author_url": "https://www.google.com/maps/contrib/112169160938929175533/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUqo5FghJntn5O7a-ZUtS20iwJ4pmCa_g5RUIHqoWd3-dBjbZA2Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524040641,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6144610464804172925",
+  "user_ratings_total": 7,
+  "vicinity": "52 Nanyang Avenue"
+}

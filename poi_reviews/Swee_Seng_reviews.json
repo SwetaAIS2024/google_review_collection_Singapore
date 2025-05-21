@@ -1,0 +1,30 @@
+{
+  "formatted_address": "HDB Beach #01-4705, 17 Beach Road (S)190017, Singapore 190017",
+  "geometry": {
+    "location": {
+      "lat": 1.303714,
+      "lng": 103.8634473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305040430291502,
+        "lng": 103.8649425302915
+      },
+      "southwest": {
+        "lat": 1.302342469708498,
+        "lng": 103.8622445697085
+      }
+    }
+  },
+  "name": "Swee Seng",
+  "place_id": "ChIJnTkdE7QZ2jERr3MalnTztfM",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17561210004061189039",
+  "vicinity": "HDB Beach #01-4705, 17 Beach Road (S)190017"
+}

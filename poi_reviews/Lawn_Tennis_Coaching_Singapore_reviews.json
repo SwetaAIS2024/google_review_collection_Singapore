@@ -1,0 +1,30 @@
+{
+  "formatted_address": "987 Bukit Timah Rd, Singapore 589628",
+  "geometry": {
+    "location": {
+      "lat": 1.333898,
+      "lng": 103.785163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335433780291502,
+        "lng": 103.7865027802915
+      },
+      "southwest": {
+        "lat": 1.332735819708498,
+        "lng": 103.7838048197085
+      }
+    }
+  },
+  "name": "Lawn Tennis Coaching Singapore",
+  "place_id": "ChIJ3RvNH4UQ2jERIVrd-We5XHY",
+  "types": [
+    "school",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8528895650557680161",
+  "vicinity": "987 Bukit Timah Road"
+}

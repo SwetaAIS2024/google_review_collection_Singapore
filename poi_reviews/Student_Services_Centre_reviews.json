@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Nanyang Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3456676,
+      "lng": 103.682832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347054630291502,
+        "lng": 103.6841607302915
+      },
+      "southwest": {
+        "lat": 1.344356669708498,
+        "lng": 103.6814627697085
+      }
+    }
+  },
+  "name": "Student Services Centre",
+  "place_id": "ChIJC4wtqxAP2jERZXu-bhHTcQo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=752614684573465445",
+  "vicinity": "Nanyang Avenue"
+}

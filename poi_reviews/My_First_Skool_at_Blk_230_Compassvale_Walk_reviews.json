@@ -1,0 +1,42 @@
+{
+  "formatted_address": "230 Compassvale Walk, #01-416 Blk 230, Singapore 540230",
+  "geometry": {
+    "location": {
+      "lat": 1.3888188,
+      "lng": 103.9013957
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.390167880291502,
+        "lng": 103.9028777302915
+      },
+      "southwest": {
+        "lat": 1.387469919708498,
+        "lng": 103.9001797697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 230 Compassvale Walk",
+  "place_id": "ChIJvVHZ6BAW2jERLx1ZLJXVsXo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Hannah T",
+      "author_url": "https://www.google.com/maps/contrib/117209106668792058410/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcE5XvclDkayFT3_INKV4iUn2jF2jXsmdFQ9j_FYhXhTOBEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665173390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8841082380175875375",
+  "user_ratings_total": 1,
+  "vicinity": "230 Compassvale Walk, #01-416 Blk 230"
+}

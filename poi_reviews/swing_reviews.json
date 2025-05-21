@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Gopeng St, Singapore 078862",
+  "geometry": {
+    "location": {
+      "lat": 1.275935,
+      "lng": 103.8436143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277143480291502,
+        "lng": 103.8449437302915
+      },
+      "southwest": {
+        "lat": 1.274445519708498,
+        "lng": 103.8422457697085
+      }
+    }
+  },
+  "name": "swing",
+  "place_id": "ChIJ9Vsxio8Z2jERJDpr6K0WtHc",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8625544122505837092",
+  "vicinity": "1 Gopeng Street, Singapore"
+}

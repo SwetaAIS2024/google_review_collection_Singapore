@@ -1,0 +1,44 @@
+{
+  "formatted_address": "6 Napier Rd, #02-10/11, #03-07 Gleneagles Medical Centre, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3076257,
+      "lng": 103.8202012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308891530291502,
+        "lng": 103.8215099802915
+      },
+      "southwest": {
+        "lat": 1.306193569708498,
+        "lng": 103.8188120197085
+      }
+    }
+  },
+  "name": "Dr Kevin Yip Man Hing (叶文兴医生) - Orthopaedic Surgeon Singapore",
+  "place_id": "ChIJ60Hesewb2jER9tbMbEk4R0E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "James Lai",
+      "author_url": "https://www.google.com/maps/contrib/104379192523067758503/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRir4ljZprmR9Lht1b_ItHnHJQG1iSZnqwyQzr6g36yElTlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1597653272,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4703790223820904182",
+  "user_ratings_total": 1,
+  "vicinity": "6 Napier Road, #02-10/11, #03-07 Gleneagles Medical Centre"
+}

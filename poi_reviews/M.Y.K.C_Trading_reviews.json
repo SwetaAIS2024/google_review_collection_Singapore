@@ -1,0 +1,53 @@
+{
+  "formatted_address": "143 Lor 2 Toa Payoh, Singapore 310143",
+  "geometry": {
+    "location": {
+      "lat": 1.3359427,
+      "lng": 103.8439109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337181530291502,
+        "lng": 103.8450783302915
+      },
+      "southwest": {
+        "lat": 1.334483569708498,
+        "lng": 103.8423803697085
+      }
+    }
+  },
+  "name": "M.Y.K.C Trading",
+  "place_id": "ChIJtf52CGcX2jERzhVv3mC3i98",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "James Ong",
+      "author_url": "https://www.google.com/maps/contrib/102903832473883334149/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc1qFYq7VHXxTvuYNU-rODyUUrbOrnRJg7PtcfYtnMTJTzH-rdSA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "This is where I stay 😃",
+      "time": 1497985123,
+      "translated": false
+    },
+    {
+      "author_name": "Richard Ong",
+      "author_url": "https://www.google.com/maps/contrib/103680256089542275696/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpR_4EgE_QBJLsq76cgOw5bqt9uyFN4EVGNBRKX4gzQQld4A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1614547459,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16108170118897276366",
+  "user_ratings_total": 2,
+  "vicinity": "143 Lorong 2 Toa Payoh"
+}

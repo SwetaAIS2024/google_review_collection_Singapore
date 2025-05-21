@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377638,
+      "lng": 103.763222
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378956330291502,
+        "lng": 103.7645729802915
+      },
+      "southwest": {
+        "lat": 1.376258369708498,
+        "lng": 103.7618750197085
+      }
+    }
+  },
+  "name": "Opp Bt Panjang Stn",
+  "place_id": "ChIJaUE_SbsR2jERXqdFmHWpN5w",
+  "rating": 4.9,
+  "reviews": [
+    {
+      "author_name": "Huynh Kim Le",
+      "author_url": "https://www.google.com/maps/contrib/103708519850707551023/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK99HRtuMklJMg-CTKdwiUK_pxsESm4aX6xwvF3vaWkimxoBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "All services moved to ITH.",
+      "time": 1521962265,
+      "translated": false
+    },
+    {
+      "author_name": "Yvonne Wong",
+      "author_url": "https://www.google.com/maps/contrib/107521062685912689802/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIh66b0E-kAbn1W8t4SO2A-nas40dyiHpDL8rFXoWGP3EaQMcc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The environment is very good",
+      "time": 1676030771,
+      "translated": true
+    },
+    {
+      "author_name": "tan b h Eo",
+      "author_url": "https://www.google.com/maps/contrib/110658971040042179844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfL-0Jq3hPvIiXLZFM9tAUwZ-B3_vJlVXwm0xe6Pc0qR7wZQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689504958,
+      "translated": false
+    },
+    {
+      "author_name": "Ang Hwee Ping Tan",
+      "author_url": "https://www.google.com/maps/contrib/111480460917839286607/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaVFW4uwi4aPrENGJmKARFm2BrqPMx8NQoMne6HbXgcsi3Ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558588274,
+      "translated": false
+    },
+    {
+      "author_name": "Neo Chin Hai",
+      "author_url": "https://www.google.com/maps/contrib/111625512744341512515/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSkgIlrcbY7mKzWkTg9og8PDtfrHk5hq4h5QhL5U3c3pxl5Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558586149,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11256652116166813534",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

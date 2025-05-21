@@ -1,0 +1,30 @@
+{
+  "formatted_address": "27 Bendemeer Rd, Singapore 330027",
+  "geometry": {
+    "location": {
+      "lat": 1.3188867,
+      "lng": 103.8627089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320421030291502,
+        "lng": 103.8639281302915
+      },
+      "southwest": {
+        "lat": 1.317723069708498,
+        "lng": 103.8612301697085
+      }
+    }
+  },
+  "name": "Coffee Tavern Pte Ltd",
+  "place_id": "ChIJm3ONL9IZ2jERSRSGySEfbyM",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2553293743717749833",
+  "vicinity": "27 Bendemeer Road"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "115 Bukit Merah Vw, #01-04, Singapore 151115",
+  "geometry": {
+    "location": {
+      "lat": 1.2854816,
+      "lng": 103.8218978
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286590780291502,
+        "lng": 103.8235575802915
+      },
+      "southwest": {
+        "lat": 1.283892819708498,
+        "lng": 103.8208596197085
+      }
+    }
+  },
+  "name": "115 Cafe",
+  "place_id": "ChIJKZR_Gn4Z2jERI05VXOolWRc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "The kopi-o gao kosong was pretty good and strong. Priced at $1.20, it was the standard rate.",
+      "time": 1726702480,
+      "translated": false
+    },
+    {
+      "author_name": "D L",
+      "author_url": "https://www.google.com/maps/contrib/104966613744701231932/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy-bmQ8x0U-1mdYhw1qMjlm4D-HHyc5yZrfGr0QjZ6tFG4fSc7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Very friendly and good drinks",
+      "time": 1745452061,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1682417624301260323",
+  "user_ratings_total": 2,
+  "vicinity": "115 Bukit Merah View, #01-04"
+}

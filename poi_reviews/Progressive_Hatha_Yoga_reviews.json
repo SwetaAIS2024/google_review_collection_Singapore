@@ -1,0 +1,31 @@
+{
+  "formatted_address": "247B Victoria St, Singapore 188033",
+  "geometry": {
+    "location": {
+      "lat": 1.3003529,
+      "lng": 103.8553225
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301644930291502,
+        "lng": 103.8567410802915
+      },
+      "southwest": {
+        "lat": 1.298946969708498,
+        "lng": 103.8540431197085
+      }
+    }
+  },
+  "name": "Progressive Hatha Yoga",
+  "place_id": "ChIJfzgaQPcZ2jERp5vmdS9qTVM",
+  "types": [
+    "gym",
+    "university",
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6002570630428793767",
+  "vicinity": "247B Victoria Street, Singapore"
+}

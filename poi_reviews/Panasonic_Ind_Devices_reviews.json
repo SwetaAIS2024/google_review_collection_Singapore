@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325987,
+      "lng": 103.674393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327332680291502,
+        "lng": 103.6757105302915
+      },
+      "southwest": {
+        "lat": 1.324634719708498,
+        "lng": 103.6730125697085
+      }
+    }
+  },
+  "name": "Panasonic Ind Devices",
+  "place_id": "ChIJ3Z_0DocF2jERI86wH9-cJ7A",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12693286556890353187",
+  "vicinity": "Singapore"
+}

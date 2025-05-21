@@ -1,0 +1,54 @@
+{
+  "formatted_address": "248 Joo Chiat Rd, Singapore 427503",
+  "geometry": {
+    "location": {
+      "lat": 1.3114808,
+      "lng": 103.9008037
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312925780291502,
+        "lng": 103.9021372302915
+      },
+      "southwest": {
+        "lat": 1.310227819708498,
+        "lng": 103.8994392697085
+      }
+    }
+  },
+  "name": "BLC Centre Clinic",
+  "place_id": "ChIJuwdrOhIY2jERnDAjcr0wUs8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Tan",
+      "author_url": "https://www.google.com/maps/contrib/111442890627459711411/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX1nhWlY7cX_4SUC-n4xTNHADeLBnxiX4kAyBr8FFnp_wGPmMc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Great community and uplifting atmosphere.",
+      "time": 1497369406,
+      "translated": false
+    },
+    {
+      "author_name": "Edwina Yeo",
+      "author_url": "https://www.google.com/maps/contrib/107168809250702217477/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQN_i5Ga_xL6bGwc8GPQNCVLuM0t6CDEvbtaMJv-lGaCL4ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729926925,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14939056504163217564",
+  "user_ratings_total": 2,
+  "vicinity": "248 Joo Chiat Road"
+}

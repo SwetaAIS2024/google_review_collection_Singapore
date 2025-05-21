@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50A Choa Chu Kang Loop, #01-07 Station, Singapore 689959",
+  "geometry": {
+    "location": {
+      "lat": 1.3863539,
+      "lng": 103.7436538
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387733380291502,
+        "lng": 103.7449950302915
+      },
+      "southwest": {
+        "lat": 1.385035419708498,
+        "lng": 103.7422970697085
+      }
+    }
+  },
+  "name": "Cheers Choa Chu Kang Loop",
+  "place_id": "ChIJkdEWa4AR2jERw2xSiuxSRU0",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5567947690199903427",
+  "vicinity": "50A Choa Chu Kang Loop, #01-07 Station"
+}

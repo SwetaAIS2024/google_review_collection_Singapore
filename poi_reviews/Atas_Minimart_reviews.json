@@ -1,0 +1,56 @@
+{
+  "formatted_address": "465 Ang Mo Kio Ave 10, #01-1064 Teck Ghee Horizon, Singapore 560465",
+  "geometry": {
+    "location": {
+      "lat": 1.3661524,
+      "lng": 103.8572501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367630980291502,
+        "lng": 103.8586400802915
+      },
+      "southwest": {
+        "lat": 1.364933019708498,
+        "lng": 103.8559421197085
+      }
+    }
+  },
+  "name": "Atas Minimart",
+  "place_id": "ChIJq6o6KP0W2jERrRwArlygb_Q",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "lennox here",
+      "author_url": "https://www.google.com/maps/contrib/100280409188812161594/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnCMDKE6dys7oiAQ7I0cj0SfoVh64mzcYP4p9g2cLGnuoC6CxI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "They sold me expired chips once",
+      "time": 1618917038,
+      "translated": false
+    },
+    {
+      "author_name": "Ansar Ahamed",
+      "author_url": "https://www.google.com/maps/contrib/115693235538402378958/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQuujT3fVFXeXGkcgZELa1iZVoxrdlOJBUata7OvBsuM8EgQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1628744266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17613472987585977517",
+  "user_ratings_total": 2,
+  "vicinity": "465 Ang Mo Kio Avenue 10, #01-1064 Teck Ghee Horizon"
+}

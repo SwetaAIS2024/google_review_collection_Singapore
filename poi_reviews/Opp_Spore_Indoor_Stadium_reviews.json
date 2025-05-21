@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301609,
+      "lng": 103.875404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302947430291502,
+        "lng": 103.8767215802915
+      },
+      "southwest": {
+        "lat": 1.300249469708498,
+        "lng": 103.8740236197085
+      }
+    }
+  },
+  "name": "Opp S'pore Indoor Stadium",
+  "place_id": "ChIJ9aLb9k4Y2jER6jAtg5wzYXw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8962501480752689386",
+  "vicinity": "Singapore"
+}

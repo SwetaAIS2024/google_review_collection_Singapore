@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.425885,
+      "lng": 103.840584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427310480291502,
+        "lng": 103.8419392802915
+      },
+      "southwest": {
+        "lat": 1.424612519708498,
+        "lng": 103.8392413197085
+      }
+    }
+  },
+  "name": "Yishun Ctrl Before SAFRA Yishun",
+  "place_id": "ChIJ9f9namkU2jERrl5PxECj0JI",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10579135023260065454",
+  "vicinity": ""
+}

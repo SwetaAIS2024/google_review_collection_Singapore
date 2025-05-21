@@ -1,0 +1,29 @@
+{
+  "formatted_address": "375 Commonwealth Ave, Singapore 149735",
+  "geometry": {
+    "location": {
+      "lat": 1.3026355,
+      "lng": 103.7980067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304002880291502,
+        "lng": 103.7993074302915
+      },
+      "southwest": {
+        "lat": 1.301304919708498,
+        "lng": 103.7966094697085
+      }
+    }
+  },
+  "name": "United Overseas Bank Limited Co.",
+  "place_id": "ChIJn2fJW0ca2jERG26G38eRYj8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4567373259741752859",
+  "vicinity": "375 Commonwealth Avenue"
+}

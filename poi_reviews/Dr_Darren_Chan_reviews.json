@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6 Napier Rd, #02-10/11, #03-07 Gleneagles Medical Centre, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3076257,
+      "lng": 103.8202012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308891530291502,
+        "lng": 103.8215099802915
+      },
+      "southwest": {
+        "lat": 1.306193569708498,
+        "lng": 103.8188120197085
+      }
+    }
+  },
+  "name": "Dr Darren Chan",
+  "place_id": "ChIJ0_uC_5Eb2jER5jKIxeVPCnc",
+  "types": [
+    "hospital",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8577756288560673510",
+  "vicinity": "6 Napier Road, #02-10/11, #03-07 Gleneagles Medical Centre"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Persiaran Medini 5, 81550 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3966455,
+      "lng": 103.6279218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398018830291502,
+        "lng": 103.6293460802915
+      },
+      "southwest": {
+        "lat": 1.395320869708498,
+        "lng": 103.6266481197085
+      }
+    }
+  },
+  "name": "6ixteen Coffee & Wine Bar",
+  "place_id": "ChIJaxwpTKkJ2jEReWWdosZcE7k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Danny Kumar",
+      "author_url": "https://www.google.com/maps/contrib/109447781246494388541/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUtZfMYJMENTLNU3meJ4XEbuTBI-PPIfjeHcjrvXRD2OlP2MCO=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice place to chillout while waiting for hotel check-in 👌🏻",
+      "time": 1698251797,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13336104929775674745",
+  "user_ratings_total": 1,
+  "vicinity": "Persiaran Medini 5, Iskandar Puteri"
+}

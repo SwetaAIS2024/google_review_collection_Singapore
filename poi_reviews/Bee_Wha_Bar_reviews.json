@@ -1,0 +1,30 @@
+{
+  "formatted_address": "130 Jurong E St 13, #01-211, Singapore 600130",
+  "geometry": {
+    "location": {
+      "lat": 1.334713,
+      "lng": 103.739339
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336282880291502,
+        "lng": 103.7407469302915
+      },
+      "southwest": {
+        "lat": 1.333584919708498,
+        "lng": 103.7380489697085
+      }
+    }
+  },
+  "name": "Bee Wha Bar",
+  "place_id": "ChIJDWYScgUQ2jERuBvXGgtKNe4",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17164706966347914168",
+  "vicinity": "130 Jurong East Street 13, #01-211"
+}

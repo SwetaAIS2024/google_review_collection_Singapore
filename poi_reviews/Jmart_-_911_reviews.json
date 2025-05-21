@@ -1,0 +1,30 @@
+{
+  "formatted_address": "911 Hougang Ave 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3789779,
+      "lng": 103.8842119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380480880291502,
+        "lng": 103.8853739802915
+      },
+      "southwest": {
+        "lat": 1.377782919708498,
+        "lng": 103.8826760197085
+      }
+    }
+  },
+  "name": "Jmart - 911",
+  "place_id": "ChIJWZY5cwAX2jEReg4Z9pqMhB8",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2271094709283262074",
+  "vicinity": "911 Hougang Avenue 4"
+}

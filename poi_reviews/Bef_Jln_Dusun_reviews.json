@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326685,
+      "lng": 103.8436731
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327996330291502,
+        "lng": 103.8450173302915
+      },
+      "southwest": {
+        "lat": 1.325298369708498,
+        "lng": 103.8423193697085
+      }
+    }
+  },
+  "name": "Bef Jln Dusun",
+  "place_id": "ChIJQTvg9V8X2jEREAqagp4chq4",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "WANG",
+      "author_url": "https://www.google.com/maps/contrib/112060982896943211204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_4ikKj7DBge5r5qj1gcnHDJlOvQUjvFEluwtKvxyPWfpccb0Dw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Bus stop Has sufficient seating and is conveniently situated along balestier road.",
+      "time": 1598777339,
+      "translated": false
+    },
+    {
+      "author_name": "Fjsjns Ssgjsb",
+      "author_url": "https://www.google.com/maps/contrib/104743202162364368605/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvF6lIj_K1TTZdbEBqccwUjaFs7LmJr_WR6sq_j2n4bXKBFw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Take the 186 bus from Lido and get off here. Take the 129 bus to the opposite side and get off at Brade subway station. It’s a 1-minute walk to our Silkland Care Center❤",
+      "time": 1523111030,
+      "translated": true
+    },
+    {
+      "author_name": "Vincent Wong",
+      "author_url": "https://www.google.com/maps/contrib/113494241290554323143/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6ayyutMMKy9Lawsstkl3uUIC9jyiLMUn--Ad6LP3buJgv_iNH=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739017731,
+      "translated": false
+    },
+    {
+      "author_name": "BALA R",
+      "author_url": "https://www.google.com/maps/contrib/112313380841466655824/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOTDu1It0o-OS6TMhMAeODTfU4w3ePj0bsbupYOTplFdFqhg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676547324,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12575770476600232464",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

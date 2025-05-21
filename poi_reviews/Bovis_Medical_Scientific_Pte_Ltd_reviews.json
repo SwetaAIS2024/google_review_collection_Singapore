@@ -1,0 +1,30 @@
+{
+  "formatted_address": "22 Sin Ming Ln, Singapore 573969",
+  "geometry": {
+    "location": {
+      "lat": 1.358606,
+      "lng": 103.833566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359756130291502,
+        "lng": 103.8346624802915
+      },
+      "southwest": {
+        "lat": 1.357058169708498,
+        "lng": 103.8319645197085
+      }
+    }
+  },
+  "name": "Bovis Medical Scientific Pte Ltd",
+  "place_id": "ChIJVa0V9dgZ2jERSDab39tDWcU",
+  "types": [
+    "doctor",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14220471910027441736",
+  "vicinity": "22 Sin Ming Lane"
+}

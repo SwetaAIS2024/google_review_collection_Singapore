@@ -1,0 +1,41 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3138487,
+      "lng": 103.6257616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315106180291502,
+        "lng": 103.6270775802915
+      },
+      "southwest": {
+        "lat": 1.312408219708498,
+        "lng": 103.6243796197085
+      }
+    }
+  },
+  "name": "Prime Residence Home Pte. Ltd.",
+  "place_id": "ChIJq6rqDg4G2jERe83iCIGPLA0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Simbu Rajendran",
+      "author_url": "https://www.google.com/maps/contrib/116848186956410593159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6CW18gNgzctjqP4lu4o20cl7COBRcsXalOp4QoXrORMRxXDE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695270024,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=949291405830966651",
+  "user_ratings_total": 1,
+  "vicinity": "70 Tuas South Avenue 1, Singapore"
+}

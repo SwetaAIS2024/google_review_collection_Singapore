@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.294456,
+      "lng": 103.795944
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295803580291502,
+        "lng": 103.7972426802915
+      },
+      "southwest": {
+        "lat": 1.293105619708498,
+        "lng": 103.7945447197085
+      }
+    }
+  },
+  "name": "Bef Whitchurch Rd",
+  "place_id": "ChIJuYJ8hEka2jER4YhQEgz94Uc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5179699274741483745",
+  "vicinity": "Singapore"
+}

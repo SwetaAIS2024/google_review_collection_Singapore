@@ -1,0 +1,53 @@
+{
+  "formatted_address": "29 Lor Bachok, Singapore 387791",
+  "geometry": {
+    "location": {
+      "lat": 1.3141115,
+      "lng": 103.8799482
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315414080291502,
+        "lng": 103.8813085802915
+      },
+      "southwest": {
+        "lat": 1.312716119708498,
+        "lng": 103.8786106197085
+      }
+    }
+  },
+  "name": "Herbal soup store",
+  "place_id": "ChIJwfAbX4kZ2jERS23Dg5drBe4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "William Quah",
+      "author_url": "https://www.google.com/maps/contrib/103695154909307406301/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxSrzDX7vl2PRqCZ4F6B2HmVwDNiRu0UxxTLPMLpaODJ1lKQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678021657,
+      "translated": false
+    },
+    {
+      "author_name": "Edi 李旋满 Gunawan",
+      "author_url": "https://www.google.com/maps/contrib/110290931657264757458/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq1HwvfQowQFpg2cFUSTLu9bMR7K85TPaaRQYjKss3o0DGiNvrSA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657541198,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17151233054405258571",
+  "user_ratings_total": 2,
+  "vicinity": "29 Lorong Bachok, Singapore"
+}

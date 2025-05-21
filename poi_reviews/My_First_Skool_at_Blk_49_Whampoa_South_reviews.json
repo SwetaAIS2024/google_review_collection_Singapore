@@ -1,0 +1,28 @@
+{
+  "formatted_address": "49 Whampoa S, #01-08, Singapore 330049",
+  "geometry": {
+    "location": {
+      "lat": 1.3244464,
+      "lng": 103.8663995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325739030291502,
+        "lng": 103.8678055302915
+      },
+      "southwest": {
+        "lat": 1.323041069708498,
+        "lng": 103.8651075697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 49 Whampoa South",
+  "place_id": "ChIJuxANwukZ2jERa0ItxKmoUis",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3121742938815414891",
+  "vicinity": "49 Whampoa South, #01-08"
+}

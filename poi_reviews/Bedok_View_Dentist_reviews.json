@@ -1,0 +1,29 @@
+{
+  "formatted_address": "56 New Upper Changi Rd, Singapore 461056",
+  "geometry": {
+    "location": {
+      "lat": 1.3250859,
+      "lng": 103.9410659
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326543630291502,
+        "lng": 103.9423882802915
+      },
+      "southwest": {
+        "lat": 1.323845669708498,
+        "lng": 103.9396903197085
+      }
+    }
+  },
+  "name": "Bedok View Dentist",
+  "place_id": "ChIJbfYJI8si2jER8PRqHUUWLTo",
+  "types": [
+    "dentist",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4192031314253903088",
+  "vicinity": "56 New Upper Changi Road, Singapore"
+}

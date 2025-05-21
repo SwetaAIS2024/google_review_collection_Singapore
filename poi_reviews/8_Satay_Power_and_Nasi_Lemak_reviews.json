@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Bedok Rd, Singapore 469572",
+  "geometry": {
+    "location": {
+      "lat": 1.3204403,
+      "lng": 103.9556119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321892530291502,
+        "lng": 103.9568594802915
+      },
+      "southwest": {
+        "lat": 1.319194569708498,
+        "lng": 103.9541615197085
+      }
+    }
+  },
+  "name": "8 Satay Power & Nasi Lemak",
+  "place_id": "ChIJpS6NsNYi2jER9SFjeUDki5g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Carpe Diem",
+      "author_url": "https://www.google.com/maps/contrib/115149740055744682691/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmUVO7IqHKxRH9UwCKPShi17pJzyxLfC7O2FaUZJOPzkxdvBX30g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643860853,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10992130281093407221",
+  "user_ratings_total": 1,
+  "vicinity": "1 Bedok Road, Singapore"
+}

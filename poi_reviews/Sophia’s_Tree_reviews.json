@@ -1,0 +1,42 @@
+{
+  "formatted_address": "93 W Coast Vale, Singapore 126754",
+  "geometry": {
+    "location": {
+      "lat": 1.3195014,
+      "lng": 103.7513497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321345830291502,
+        "lng": 103.7523653302915
+      },
+      "southwest": {
+        "lat": 1.318647869708498,
+        "lng": 103.7496673697085
+      }
+    }
+  },
+  "name": "Sophia’s Tree",
+  "place_id": "ChIJ7ZB0egAb2jERNrLORbUHcWc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ning Li",
+      "author_url": "https://www.google.com/maps/contrib/106650545242103001219/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVn_peSitsVU2ozuza-LjwO29WWTCuMONke8itqu6xsdIDxs9c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742777092,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7453747333416530486",
+  "user_ratings_total": 1,
+  "vicinity": "93 West Coast Vale"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "513 Jurong West Street 52, Block 513, Singapore 640513",
+  "geometry": {
+    "location": {
+      "lat": 1.347508,
+      "lng": 103.7200073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348979780291502,
+        "lng": 103.7216160302915
+      },
+      "southwest": {
+        "lat": 1.346281819708498,
+        "lng": 103.7189180697085
+      }
+    }
+  },
+  "name": "Mr Ng's Tuition Class JSZC",
+  "place_id": "ChIJb83acvgP2jER8N56G6Y4jco",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yung Hayden",
+      "author_url": "https://www.google.com/maps/contrib/109445350722655626432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp_zc0Ul5v136SX-mx0FLipWmOAqz2BSq30NOpEfNR3BW_eZs=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744238739,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14595384253454409456",
+  "user_ratings_total": 1,
+  "vicinity": "513 Jurong West Street 52, Block 513, Singapore"
+}

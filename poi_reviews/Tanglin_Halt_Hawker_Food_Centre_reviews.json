@@ -1,0 +1,64 @@
+{
+  "formatted_address": "48A Tanglin Halt Rd, Singapore 148813",
+  "geometry": {
+    "location": {
+      "lat": 1.3009859,
+      "lng": 103.7980608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302394180291502,
+        "lng": 103.7993583802915
+      },
+      "southwest": {
+        "lat": 1.299696219708498,
+        "lng": 103.7966604197085
+      }
+    }
+  },
+  "name": "Tanglin Halt Hawker Food Centre",
+  "place_id": "ChIJS9fxFAAb2jER5H3rcc3gYXU",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Nur Haqqim",
+      "author_url": "https://www.google.com/maps/contrib/117403835664777627332/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkAxVw8VRxCZ7Ty06ss6pjXNS8FukveuKqsufpo8KvqGkx8FPf=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724164138,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Kalam",
+      "author_url": "https://www.google.com/maps/contrib/114863915144603513511/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHpRj3rFKaWpALf66EB_GQ6_aS6es0k8zcPtgyI2uWtq2EERDD9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1719110325,
+      "translated": false
+    },
+    {
+      "author_name": "Jayakumar Balasubramanian",
+      "author_url": "https://www.google.com/maps/contrib/107286448194766211449/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3hZnHcNpOv8Wwzt8eTtUQa5aIwrUq1ke8eW3ERv-Gesp7gxE=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710644727,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8458288748162678244",
+  "user_ratings_total": 3,
+  "vicinity": "48A Tanglin Halt Road"
+}

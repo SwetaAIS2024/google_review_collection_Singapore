@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325663,
+      "lng": 103.935341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326995430291502,
+        "lng": 103.9367245302915
+      },
+      "southwest": {
+        "lat": 1.324297469708498,
+        "lng": 103.9340265697085
+      }
+    }
+  },
+  "name": "Blk 220 CP",
+  "place_id": "ChIJhSkVLrUi2jERiX_dNH8cMc4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "exe",
+      "author_url": "https://www.google.com/maps/contrib/106417300978229488876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtncuufGMvUApf00mMqmLdpRDuoomSAj7h7aY8caq0-ViuVjY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "This bus stop has only one bench.",
+      "time": 1526188554,
+      "translated": false
+    },
+    {
+      "author_name": "Taufiq '",
+      "author_url": "https://www.google.com/maps/contrib/106318543821461084329/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG7q3_-Aw1p5pIPh4RRSiiWSX_jFX0xB1d5G0XtY8IAEYEMQMh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "my favourite busstop",
+      "time": 1669785800,
+      "translated": false
+    },
+    {
+      "author_name": "Sindi Sambo",
+      "author_url": "https://www.google.com/maps/contrib/116048255660960806004/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZrYWp_mFJ-JUdogpP7Yj2ZyA4pbBY6jFUN8fqnqvH5Oti5w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662905013,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14857687978345332617",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

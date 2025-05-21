@@ -1,0 +1,55 @@
+{
+  "formatted_address": "8 Marina View, #29-01 Asia Square Tower 1, Singapore 018960",
+  "geometry": {
+    "location": {
+      "lat": 1.2791894,
+      "lng": 103.8512439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280463180291502,
+        "lng": 103.8523299302915
+      },
+      "southwest": {
+        "lat": 1.277765219708498,
+        "lng": 103.8496319697085
+      }
+    }
+  },
+  "name": "Ctbc Bank Co., Ltd.",
+  "place_id": "ChIJq21O5BEZ2jERPGQJ_Jng_1Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "小林",
+      "author_url": "https://www.google.com/maps/contrib/116343647505051737493/reviews",
+      "language": "zh-Hant",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsjJwTocMr_oYoQNQaqvF57WBaYeInzFLiBtNK8orTTpFjledlog=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "服務人員非常專業",
+      "time": 1717175286,
+      "translated": false
+    },
+    {
+      "author_name": "Xavier Marc Amante",
+      "author_url": "https://www.google.com/maps/contrib/106431658321858515127/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7XKmLkEYnt1lgXr3LmNDC5WNSSQC9UaGmVJz8XERKpkEcecfxuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532648342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6268976158286111804",
+  "user_ratings_total": 2,
+  "vicinity": "8 Marina View, #29-01 Asia Square Tower 1"
+}

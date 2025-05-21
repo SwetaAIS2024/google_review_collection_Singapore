@@ -1,0 +1,44 @@
+{
+  "formatted_address": "150 Orchard Rd, #05-20 Orchard Plaza, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.3012996,
+      "lng": 103.8411554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302701930291502,
+        "lng": 103.8426309302915
+      },
+      "southwest": {
+        "lat": 1.300003969708498,
+        "lng": 103.8399329697085
+      }
+    }
+  },
+  "name": "Republic Club",
+  "place_id": "ChIJrzrcJB0Z2jERmMKka_xzbpQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Wierzbix",
+      "author_url": "https://www.google.com/maps/contrib/110700535644312947302/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLIedwtu1oeLF0FDW2J6LOTvVUlZfWaAzLKBQOw3mWwJCPIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "They chargerd me 500$ for a drink and tried again",
+      "time": 1717202513,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10695613693026419352",
+  "user_ratings_total": 1,
+  "vicinity": "150 Orchard Road, #05-20 Orchard Plaza"
+}

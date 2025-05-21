@@ -1,0 +1,85 @@
+{
+  "formatted_address": "13 Neo Tiew Harvest Ln, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4198812,
+      "lng": 103.722334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421249680291502,
+        "lng": 103.7235695802915
+      },
+      "southwest": {
+        "lat": 1.418551719708498,
+        "lng": 103.7208716197085
+      }
+    }
+  },
+  "name": "Meod Farm",
+  "place_id": "ChIJ75cLX5IN2jERnfMN5VSwLAI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ong kai jin",
+      "author_url": "https://www.google.com/maps/contrib/101797476234475212371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB5Yy01B4vRWNuZ5on-r39cnJ88adQgvgddElwPQAh7Xrm3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very fresh and good vegetables",
+      "time": 1679382593,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie Ng",
+      "author_url": "https://www.google.com/maps/contrib/115009609350036022177/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjuzYpZIlSkeDO5q_qAwIM76JIYvQgvj2fSHEA8sfCF5yyZ4BB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Beautiful vegetables",
+      "time": 1712573575,
+      "translated": false
+    },
+    {
+      "author_name": "Sazidul Islam",
+      "author_url": "https://www.google.com/maps/contrib/109548483988681950050/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgTNpqRkYdT4FyQe-Y7-XES0j5r8GAjWSAtJLpyir4req_rN6tAw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722230425,
+      "translated": false
+    },
+    {
+      "author_name": "Marian Ng",
+      "author_url": "https://www.google.com/maps/contrib/106085867318724957741/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_1Wu00cMplLBqsmG9NekkmARZ2ShXAYsm0BR-r0J-9EWvRnb_mQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1716987702,
+      "translated": false
+    },
+    {
+      "author_name": "Izwan",
+      "author_url": "https://www.google.com/maps/contrib/113729342915368554486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1zQjl53L9AjuqHB9_fhjVtXe0Pmr9cawHD_VZyolKOTQntA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703152378,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=156693965717762973",
+  "user_ratings_total": 5,
+  "vicinity": "13 Neo Tiew Harvest Lane"
+}

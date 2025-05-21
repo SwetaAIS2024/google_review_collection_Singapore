@@ -1,0 +1,56 @@
+{
+  "formatted_address": "5 Eunos Cres, #01-2617, Singapore 400005",
+  "geometry": {
+    "location": {
+      "lat": 1.32128,
+      "lng": 103.903556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322640280291502,
+        "lng": 103.9049036802915
+      },
+      "southwest": {
+        "lat": 1.319942319708498,
+        "lng": 103.9022057197085
+      }
+    }
+  },
+  "name": "Four Leaf Clover Healthcare TCM",
+  "place_id": "ChIJszGSmG4Z2jER_7pOWNoATTg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hui Hui",
+      "author_url": "https://www.google.com/maps/contrib/107166912810655111095/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxEg4-t8IJ_go_Ae90kiGK4yEPMEe21jSfQjmPtHoQLjWEaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The masseurs are very professional. Environment is OK",
+      "time": 1738580695,
+      "translated": true
+    },
+    {
+      "author_name": "lim zihao",
+      "author_url": "https://www.google.com/maps/contrib/101847722909351027503/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCGLqhHp2DKey2R5k5Jce04Gfr0fRISqxbhLyOlkOFlqk2tA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721584764,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "spa",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4056899777115110143",
+  "user_ratings_total": 2,
+  "vicinity": "5 Eunos Crescent, #01-2617"
+}

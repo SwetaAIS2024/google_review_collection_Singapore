@@ -1,0 +1,44 @@
+{
+  "formatted_address": "17 Sakra Rd, Pulau Sakra, Singapore 627886",
+  "geometry": {
+    "location": {
+      "lat": 1.262145,
+      "lng": 103.701893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.263618030291502,
+        "lng": 103.7031587302915
+      },
+      "southwest": {
+        "lat": 1.260920069708498,
+        "lng": 103.7004607697085
+      }
+    }
+  },
+  "name": "ScHaass Singapore Pte Ltd",
+  "place_id": "ChIJV1JoZJcE2jER9Ze_AvyVrmc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Azir Kasman",
+      "author_url": "https://www.google.com/maps/contrib/114619750857944364744/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-HwoD-U8oeGvEDoK-O_v7jojs6g7-nWQZDU6Gra5cOfSD7Cw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Yahgla",
+      "time": 1654571826,
+      "translated": true
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7471073741464639477",
+  "user_ratings_total": 1,
+  "vicinity": "17 Sakra Road, Pulau Sakra"
+}

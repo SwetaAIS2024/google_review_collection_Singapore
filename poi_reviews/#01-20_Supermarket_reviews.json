@@ -1,0 +1,31 @@
+{
+  "formatted_address": "159 Mei Ling St, #01-20 Mei Ling Market & Food Centre, Singapore 140159",
+  "geometry": {
+    "location": {
+      "lat": 1.2931984,
+      "lng": 103.8027681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294408680291502,
+        "lng": 103.8041659802915
+      },
+      "southwest": {
+        "lat": 1.291710719708498,
+        "lng": 103.8014680197085
+      }
+    }
+  },
+  "name": "#01-20 Supermarket",
+  "place_id": "ChIJS2GLPTQa2jERqbMR8SRfwfA",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17348251851875791785",
+  "vicinity": "159 Mei Ling Street, #01-20 Mei Ling Market & Food Centre"
+}

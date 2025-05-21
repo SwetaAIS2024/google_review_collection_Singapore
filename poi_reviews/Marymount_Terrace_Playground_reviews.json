@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Marymount Rd, Singapore 574100",
+  "geometry": {
+    "location": {
+      "lat": 1.3488919,
+      "lng": 103.8403749
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.350698061717865,
+        "lng": 103.8416512602997
+      },
+      "southwest": {
+        "lat": 1.348000101134861,
+        "lng": 103.8389532997167
+      }
+    }
+  },
+  "name": "Marymount Terrace Playground",
+  "place_id": "ChIJWWCovT4X2jERWpA2xv1brzc",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Marymount+Rd,+Singapore+574100&ftid=0x31da173ebda86059:0x37af5bfdc636905a",
+  "vicinity": "Singapore"
+}

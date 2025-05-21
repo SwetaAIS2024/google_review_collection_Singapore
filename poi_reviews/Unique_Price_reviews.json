@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3802567,
+      "lng": 103.7526261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381568930291502,
+        "lng": 103.7540198802915
+      },
+      "southwest": {
+        "lat": 1.378870969708498,
+        "lng": 103.7513219197085
+      }
+    }
+  },
+  "name": "Unique Price",
+  "place_id": "ChIJ0cD_ZL8R2jERnqqdhVrEFeI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yu Hong Png",
+      "author_url": "https://www.google.com/maps/contrib/100567069976267323819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJyyzK3P2-QPtOIWhlt08peWr-gxouTlFu9AatcUfFiif44LHK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665932652,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16291143120150440606",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

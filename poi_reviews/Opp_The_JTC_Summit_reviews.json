@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3321875,
+      "lng": 103.7418218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333488630291502,
+        "lng": 103.7431321802915
+      },
+      "southwest": {
+        "lat": 1.330790669708498,
+        "lng": 103.7404342197085
+      }
+    }
+  },
+  "name": "Opp The JTC Summit",
+  "place_id": "ChIJmQc9Sg8Q2jERYRslJlnt-SY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mustain sinwan",
+      "author_url": "https://www.google.com/maps/contrib/114487068430294079305/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkRtYQvScO8kual3YU_ZN1sUEwYuBPLFMmq6t7cNtsVupBs0E=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508036825,
+      "translated": false
+    },
+    {
+      "author_name": "Roger Wong",
+      "author_url": "https://www.google.com/maps/contrib/101908968277602377211/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtDf2f5QsOMmGVGz_cd15BevFvamC0A5A1nh-6cY7UX6GXNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483166137,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2808536809790053217",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

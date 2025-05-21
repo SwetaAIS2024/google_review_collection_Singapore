@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1 Commonwealth Ln, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044888,
+      "lng": 103.7967184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305751080291502,
+        "lng": 103.7980391302915
+      },
+      "southwest": {
+        "lat": 1.303053119708498,
+        "lng": 103.7953411697085
+      }
+    }
+  },
+  "name": "BrandHub",
+  "place_id": "ChIJaxHGJQ0Z2jERyi6tn7aeO_A",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17310604099928796874",
+  "vicinity": "1 Commonwealth Lane"
+}

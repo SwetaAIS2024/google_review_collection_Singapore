@@ -1,0 +1,45 @@
+{
+  "formatted_address": "9 Jurong Town Hall Rd, Singapore 609431",
+  "geometry": {
+    "location": {
+      "lat": 1.3286611,
+      "lng": 103.7418842
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329889030291502,
+        "lng": 103.7432609802915
+      },
+      "southwest": {
+        "lat": 1.327191069708498,
+        "lng": 103.7405630197085
+      }
+    }
+  },
+  "name": "Community Hub Cafe",
+  "place_id": "ChIJe7cm4PER2jERqk45wv188cw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SC Ooi",
+      "author_url": "https://www.google.com/maps/contrib/115711015779446254813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdbtrmTEAhuBasFlDc_Cg53rKmZPfs_kx7pf004L1ArtybHQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Good place to work.",
+      "time": 1554353442,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14767722082451672746",
+  "user_ratings_total": 1,
+  "vicinity": "9 Jurong Town Hall Road"
+}

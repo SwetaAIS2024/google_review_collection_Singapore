@@ -1,0 +1,29 @@
+{
+  "formatted_address": "51 Upper Bukit Timah Rd, Singapore 588215",
+  "geometry": {
+    "location": {
+      "lat": 1.3394069,
+      "lng": 103.776049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340703480291502,
+        "lng": 103.7774686802915
+      },
+      "southwest": {
+        "lat": 1.338005519708498,
+        "lng": 103.7747707197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bt Timah Market",
+  "place_id": "ChIJC5g4QzMR2jERAudWoqMmH78",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13771768669767395074",
+  "vicinity": "51 Upper Bukit Timah Road"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2770388,
+      "lng": 103.8022554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278351630291502,
+        "lng": 103.8036849802915
+      },
+      "southwest": {
+        "lat": 1.275653669708498,
+        "lng": 103.8009870197085
+      }
+    }
+  },
+  "name": "Alexandra Pt",
+  "place_id": "ChIJ-e_O88Yb2jERaTA3nnbwraw",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Izack New",
+      "author_url": "https://www.google.com/maps/contrib/100560795793729643775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJz_iBIbSlmXHXhTl5iSTWE3hPAwV3AHNdGaLuRyuv2nhaWHU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Bus stop for Alexandra Technopark. There are free shuttle buses every weekdays during lunch time to Anchorpoint Shopping Centre.",
+      "time": 1490144560,
+      "translated": false
+    },
+    {
+      "author_name": "KockBeng Ng",
+      "author_url": "https://www.google.com/maps/contrib/109758704282466843020/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUkB7QxYTN0wyPK_C_t4wup7pj97AwRSRzqQw4J8koiKK8mA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "It is up-to-date.",
+      "time": 1484955101,
+      "translated": false
+    },
+    {
+      "author_name": "n cyk616",
+      "author_url": "https://www.google.com/maps/contrib/114348126013559408142/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkTHk9cYV6hvFSuBlUtADfXgsDMaS4scvXWjkIGbkDUoZxzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559744365,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12442865737745772649",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

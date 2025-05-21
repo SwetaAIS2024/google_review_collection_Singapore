@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340938,
+      "lng": 103.845406
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342242580291502,
+        "lng": 103.8467718802915
+      },
+      "southwest": {
+        "lat": 1.339544619708498,
+        "lng": 103.8440739197085
+      }
+    }
+  },
+  "name": "Braddell Stn/Blk 111",
+  "place_id": "ChIJB3heA2oX2jERmCd3farcSWo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "yongchew koh",
+      "author_url": "https://www.google.com/maps/contrib/104135029298797905398/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMcWBlI_xb06_z7dR4VhWrX7nWPUJMDrlkAsZ6zewdtAkFcw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1576365958,
+      "translated": false
+    },
+    {
+      "author_name": "Rashid Bin Ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/100736550895618007930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJs7opsWcubUQ39PrYTMabp7f696AUOTVr1ZKG3fNapEXndfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561328249,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7658895266127751064",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

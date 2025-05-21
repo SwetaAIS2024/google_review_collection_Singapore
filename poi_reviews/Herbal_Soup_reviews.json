@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, #01, #103 108, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2647313,
+      "lng": 103.8193854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265986580291502,
+        "lng": 103.8208044802915
+      },
+      "southwest": {
+        "lat": 1.263288619708498,
+        "lng": 103.8181065197085
+      }
+    }
+  },
+  "name": "Herbal Soup",
+  "place_id": "ChIJ2YkjcgAb2jERhGaw_ASKjAc",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=543961409028908676",
+  "vicinity": "1 Maritime Square, #01, #103 108, Singapore"
+}

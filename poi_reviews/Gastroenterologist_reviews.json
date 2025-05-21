@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Rd, Blk A 05-03, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3416368,
+      "lng": 103.8372638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342935380291502,
+        "lng": 103.8386234802915
+      },
+      "southwest": {
+        "lat": 1.340237419708498,
+        "lng": 103.8359255197085
+      }
+    }
+  },
+  "name": "Gastroenterologist",
+  "place_id": "ChIJt3sa2W0X2jERF2seErkIPn4",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9096717888300935959",
+  "vicinity": "820 Thomson Road, Blk A 05-03"
+}

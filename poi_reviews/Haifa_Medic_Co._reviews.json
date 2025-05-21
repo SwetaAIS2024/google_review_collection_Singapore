@@ -1,0 +1,30 @@
+{
+  "formatted_address": "2 Defu Lane 10, Singapore 188425",
+  "geometry": {
+    "location": {
+      "lat": 1.3586185,
+      "lng": 103.8939035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359987030291502,
+        "lng": 103.8952698802915
+      },
+      "southwest": {
+        "lat": 1.357289069708498,
+        "lng": 103.8925719197085
+      }
+    }
+  },
+  "name": "Haifa Medic Co.",
+  "place_id": "ChIJW3bng8kX2jERpfSAuM89Tww",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=886995613978260645",
+  "vicinity": "2 Defu Lane 10"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "150 South Bridge Rd, B1-32 Fook Hai Building, Singapore 058727",
+  "geometry": {
+    "location": {
+      "lat": 1.285089,
+      "lng": 103.8463158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286483480291502,
+        "lng": 103.8475888802915
+      },
+      "southwest": {
+        "lat": 1.283785519708498,
+        "lng": 103.8448909197085
+      }
+    }
+  },
+  "name": "Fusion 8",
+  "place_id": "ChIJ6Rv4OtMZ2jERLHSqD32A3fw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/109434407545627601391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsdXSOiTeIyqGWrQl8Q_52AbUayrqAGJMGyTmb--TIxzgpFO2dwQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702389281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18220860942032991276",
+  "user_ratings_total": 1,
+  "vicinity": "150 South Bridge Road, B1-32 Fook Hai Building"
+}

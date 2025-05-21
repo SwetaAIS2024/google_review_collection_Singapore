@@ -1,0 +1,30 @@
+{
+  "formatted_address": "56 New Upper Changi Rd, Singapore 461056",
+  "geometry": {
+    "location": {
+      "lat": 1.3245193,
+      "lng": 103.9351317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325837080291502,
+        "lng": 103.9364845302915
+      },
+      "southwest": {
+        "lat": 1.323139119708498,
+        "lng": 103.9337865697085
+      }
+    }
+  },
+  "name": "Hee Fish Ball Noodles",
+  "place_id": "ChIJsx7nJgAj2jERzRPuQW2Giuw",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17044583543552742349",
+  "vicinity": "56 New Upper Changi Road, Singapore"
+}

@@ -1,0 +1,61 @@
+{
+  "formatted_address": "25 Changi South Street 1, Singapore 486059",
+  "geometry": {
+    "location": {
+      "lat": 1.3391358,
+      "lng": 103.9716189
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340354080291502,
+        "lng": 103.9730872302915
+      },
+      "southwest": {
+        "lat": 1.337656119708498,
+        "lng": 103.9703892697085
+      }
+    }
+  },
+  "name": "SB Building",
+  "place_id": "ChIJR9gRSds82jERxTht7Iyem0A",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Leong Jia Xuan",
+      "author_url": "https://www.google.com/maps/contrib/118030401805002906644/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7CD7Xkzg69xW9xWG1qsh43PkE9dPHG1P1HZmUzglNE2e2yBRO=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1677905187,
+      "translated": false
+    },
+    {
+      "author_name": "William Quah",
+      "author_url": "https://www.google.com/maps/contrib/103695154909307406301/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxSrzDX7vl2PRqCZ4F6B2HmVwDNiRu0UxxTLPMLpaODJ1lKQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558158316,
+      "translated": false
+    },
+    {
+      "author_name": "Delwar Hossain",
+      "author_url": "https://www.google.com/maps/contrib/100494185279516790536/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgdNgkQ9i9G05qRjRweYvA47Q9fBHT91OyjJYzjPO3WKEil9ndAA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531471770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4655488967916730565",
+  "user_ratings_total": 3,
+  "vicinity": "25 Changi South Street 1"
+}

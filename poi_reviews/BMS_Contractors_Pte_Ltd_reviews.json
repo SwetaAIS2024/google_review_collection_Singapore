@@ -1,0 +1,41 @@
+{
+  "formatted_address": "55 Serangoon North Ave 4, #07-07, Singapore 555859",
+  "geometry": {
+    "location": {
+      "lat": 1.3768788,
+      "lng": 103.8753348
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378227530291502,
+        "lng": 103.8766884302915
+      },
+      "southwest": {
+        "lat": 1.375529569708498,
+        "lng": 103.8739904697085
+      }
+    }
+  },
+  "name": "BMS Contractors Pte Ltd",
+  "place_id": "ChIJ7SXH2S0Y2jERPEriSfuPSe0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Anne Yim",
+      "author_url": "https://www.google.com/maps/contrib/117345432226591668004/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOO-Mg4eopChyGnl43mCgzf0UHsY011c8RQEqxYsQPFRTx2g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1458458130,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17098355769727928892",
+  "user_ratings_total": 1,
+  "vicinity": "55 Serangoon North Avenue 4, #07-07"
+}

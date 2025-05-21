@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.294615,
+      "lng": 103.805748
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295938130291502,
+        "lng": 103.8070518802915
+      },
+      "southwest": {
+        "lat": 1.293240169708498,
+        "lng": 103.8043539197085
+      }
+    }
+  },
+  "name": "Queenstown Stn Exit A/D",
+  "place_id": "ChIJA__7aDEa2jERxXDylPqXFjY",
+  "rating": 4.1,
+  "reviews": [
+    {
+      "author_name": "Krido Sadmoko",
+      "author_url": "https://www.google.com/maps/contrib/106685074022558866356/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmQd1SlOzgLV5lwSoe23lH2ma48l1y5bSsViXR2gsApYezda_y4Q=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "A green MRT Exit.",
+      "time": 1663989658,
+      "translated": false
+    },
+    {
+      "author_name": "Kok Keong Teo (阿强)",
+      "author_url": "https://www.google.com/maps/contrib/117835615781032717055/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWPfUMbu3UHRnoDfirG2S8m14t2t9hNF4MYwWE54MY4M0qJ_Gf=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "The transportation is convenient, and there are convenience stores and snack bars.",
+      "time": 1515629178,
+      "translated": true
+    },
+    {
+      "author_name": "Venkataraman Krishnan",
+      "author_url": "https://www.google.com/maps/contrib/107581066789559236230/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5AMVyR1MupYjpYHA6hth8vlSqUteco_YdjrKM88TCewPj_GuF5g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737283932,
+      "translated": false
+    },
+    {
+      "author_name": "noel aye",
+      "author_url": "https://www.google.com/maps/contrib/100571587233890832342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOTDg9WrJy_KpSGwP7b35r0LDj5efM0XGE1SZUbOXrbzuk24wi0g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718283385,
+      "translated": false
+    },
+    {
+      "author_name": "Bob",
+      "author_url": "https://www.google.com/maps/contrib/109619797396261676866/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULk7ozTIp91hJ9axJS_j-GIeXSB-uMP2102sTCOJlIE6plo9U=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674171499,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3897469630032277701",
+  "user_ratings_total": 8,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37689,
+      "lng": 103.846169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378334930291502,
+        "lng": 103.8475457802915
+      },
+      "southwest": {
+        "lat": 1.375636969708498,
+        "lng": 103.8448478197085
+      }
+    }
+  },
+  "name": "Aft Grandeur 8",
+  "place_id": "ChIJCfeQ6ukW2jER26TJxnvDLGw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7794819991454983387",
+  "vicinity": "Singapore"
+}

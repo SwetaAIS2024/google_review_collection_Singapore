@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Marina Blvd, Singapore 018983",
+  "geometry": {
+    "location": {
+      "lat": 1.2792463,
+      "lng": 103.8541121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280826580291502,
+        "lng": 103.8551575802915
+      },
+      "southwest": {
+        "lat": 1.278128619708498,
+        "lng": 103.8524596197085
+      }
+    }
+  },
+  "name": "Licete Global",
+  "place_id": "ChIJJeFJzWsZ2jERRYJT25O5jCY",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2777799114871767621",
+  "vicinity": "10 Marina Boulevard, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Simei Street 6 #01-17 Eastpoint Mall, Singapore 528833",
+  "geometry": {
+    "location": {
+      "lat": 1.3427303,
+      "lng": 103.9530181
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343830580291502,
+        "lng": 103.9545782302915
+      },
+      "southwest": {
+        "lat": 1.341132619708498,
+        "lng": 103.9518802697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Eastpoint Mall",
+  "place_id": "ChIJaZ0QSNI92jERWt1RYFna2OA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16201939736868281690",
+  "vicinity": "3 Simei Street 6 #01-17 Eastpoint Mall"
+}

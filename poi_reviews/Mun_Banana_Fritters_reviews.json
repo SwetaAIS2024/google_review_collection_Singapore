@@ -1,0 +1,29 @@
+{
+  "formatted_address": "7 Defu Lane 9, Singapore 539249",
+  "geometry": {
+    "location": {
+      "lat": 1.3536652,
+      "lng": 103.8946135
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355026730291502,
+        "lng": 103.8959325302915
+      },
+      "southwest": {
+        "lat": 1.352328769708498,
+        "lng": 103.8932345697085
+      }
+    }
+  },
+  "name": "Mun Banana Fritters",
+  "place_id": "ChIJUZu6McYX2jERnwUvUV5LkoQ",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9552780628067288479",
+  "vicinity": "7 Defu Lane 9"
+}

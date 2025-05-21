@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Queenstown, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2789695,
+      "lng": 103.7972993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280532080291502,
+        "lng": 103.7984184302915
+      },
+      "southwest": {
+        "lat": 1.277834119708498,
+        "lng": 103.7957204697085
+      }
+    }
+  },
+  "name": "Irrigation Pond",
+  "place_id": "ChIJabMUFAAb2jER4C-OKAfb9y0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Rain water and ground water are collected at the Irrigatiin Pond for use to water the trees & plants",
+      "time": 1713163653,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3312356874745950176",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

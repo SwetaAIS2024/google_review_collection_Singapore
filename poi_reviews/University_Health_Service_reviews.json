@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34571,
+      "lng": 103.68298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347015980291502,
+        "lng": 103.6843645302915
+      },
+      "southwest": {
+        "lat": 1.344318019708498,
+        "lng": 103.6816665697085
+      }
+    }
+  },
+  "name": "University Health Service",
+  "place_id": "ChIJx4xm-58P2jERDOLHoHIuano",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8820913890017141260",
+  "vicinity": "Singapore"
+}

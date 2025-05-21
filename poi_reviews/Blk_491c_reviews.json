@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361886,
+      "lng": 103.955048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363212080291502,
+        "lng": 103.9564203802915
+      },
+      "southwest": {
+        "lat": 1.360514119708498,
+        "lng": 103.9537224197085
+      }
+    }
+  },
+  "name": "Blk 491c",
+  "place_id": "ChIJF99VywA92jERRxm0N5ClVEM",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Swesh",
+      "author_url": "https://www.google.com/maps/contrib/101076236713297649495/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv1MUEOnHpCSG7yVhgtpL4PeUQ9KIqEbglx96M2HmIIqc_1rVe=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1528418847,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Tan",
+      "author_url": "https://www.google.com/maps/contrib/112345813599046942359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwXvKSGToLcpubAY3wUKNzdgoqEhc_O2xp79PviF3_ZJLnWA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512603031,
+      "translated": false
+    },
+    {
+      "author_name": "Diana Swiitbaby",
+      "author_url": "https://www.google.com/maps/contrib/113899457048189964170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhcZqCS61EwJyGbGtK-4zIxA7WMGWqROzFeo7XrRern7FjTOzC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487335893,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4851684737413290311",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

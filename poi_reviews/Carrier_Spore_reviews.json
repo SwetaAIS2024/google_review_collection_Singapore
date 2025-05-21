@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326552,
+      "lng": 103.738838
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328079230291502,
+        "lng": 103.7398292802915
+      },
+      "southwest": {
+        "lat": 1.325381269708498,
+        "lng": 103.7371313197085
+      }
+    }
+  },
+  "name": "Carrier S'pore",
+  "place_id": "ChIJUW8-I6ga2jERGOK0f-vW65M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10658849250050630168",
+  "vicinity": "Singapore"
+}

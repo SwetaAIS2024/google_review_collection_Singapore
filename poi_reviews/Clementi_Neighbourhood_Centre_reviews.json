@@ -1,0 +1,28 @@
+{
+  "formatted_address": "431 Clementi Ave 3, Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.3135223,
+      "lng": 103.7631424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314971330291502,
+        "lng": 103.7643703302915
+      },
+      "southwest": {
+        "lat": 1.312273369708498,
+        "lng": 103.7616723697085
+      }
+    }
+  },
+  "name": "Clementi Neighbourhood Centre",
+  "place_id": "ChIJGVVzbgAb2jERd7x3pGXhzrw",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13605059351000104055",
+  "vicinity": "431 Clementi Avenue 3, Singapore"
+}

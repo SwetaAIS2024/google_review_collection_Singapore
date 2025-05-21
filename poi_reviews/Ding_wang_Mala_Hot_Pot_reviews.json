@@ -1,0 +1,69 @@
+{
+  "formatted_address": "203 Hougang St 21, #01-89, Singapore 530203",
+  "geometry": {
+    "location": {
+      "lat": 1.3583865,
+      "lng": 103.8844912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359533580291502,
+        "lng": 103.8859720302915
+      },
+      "southwest": {
+        "lat": 1.356835619708498,
+        "lng": 103.8832740697085
+      }
+    }
+  },
+  "name": "Ding wang Mala Hot Pot",
+  "place_id": "ChIJwe7qPA0X2jERfSWN2vHKVZc",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Lee Pran",
+      "author_url": "https://www.google.com/maps/contrib/112093603054870117546/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlJeVgEbFah8hqvbBukyGM-hK_7mf-XrRr5oaWnBxpC9_5a1qh=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Actually quite confused by this mala store, some days nice some days questionable",
+      "time": 1737446984,
+      "translated": false
+    },
+    {
+      "author_name": "ruhui Weng",
+      "author_url": "https://www.google.com/maps/contrib/101318574519642931441/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLForN6RiP5ra3_gtnSmX51JHEBay2-aeraaDGHDShF2ECCFg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The spicy hot pot at this restaurant is really delicious, and the Northeastern stir-fried dishes are also very authentic. I have eaten there many times and it is always delicious. That’s why I share it with you.",
+      "time": 1705825132,
+      "translated": true
+    },
+    {
+      "author_name": "Joey Luna",
+      "author_url": "https://www.google.com/maps/contrib/115106945189137549765/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB43NNE8hnG2oMS8IjN_tZhjljc0o36hhEe5lm1iGcQjwJILFe=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "My dad rarely says that things are delicious, but today I said that the store's things are very delicious, the service attitude is very good, and the price is reasonable. I will come to eat next time",
+      "time": 1698114735,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10904845212850136445",
+  "user_ratings_total": 3,
+  "vicinity": "203 Hougang Street 21, #01-89, Singapore"
+}

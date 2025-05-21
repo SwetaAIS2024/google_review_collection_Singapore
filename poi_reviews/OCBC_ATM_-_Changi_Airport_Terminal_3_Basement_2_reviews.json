@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Changi Airport Terminal 3 Basement, #2, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3556748,
+      "lng": 103.9872818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357017480291502,
+        "lng": 103.9886454302915
+      },
+      "southwest": {
+        "lat": 1.354319519708498,
+        "lng": 103.9859474697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Changi Airport Terminal 3 Basement 2",
+  "place_id": "ChIJsSIj3Rs92jERtAr6qluILjo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kc 0405",
+      "author_url": "https://www.google.com/maps/contrib/108634973498849881563/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxGIUUBRVvWjUaTbEP7OdcUPAIEfATi-YAMmr_t0ItP6pWlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "I ask for cash deposit machine not Atm",
+      "time": 1714136422,
+      "translated": false
+    },
+    {
+      "author_name": "Stephen Lee",
+      "author_url": "https://www.google.com/maps/contrib/108692616663862601792/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-KDNGVJbuJHW8gfOKOMB-_emb2019rjLA8B832pVKr003N1ck=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725600375,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4192438230420425396",
+  "user_ratings_total": 2,
+  "vicinity": "Changi Airport Terminal 3 Basement, #2"
+}

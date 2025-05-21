@@ -1,0 +1,30 @@
+{
+  "formatted_address": "133 New Bridge Rd, #20-06/07/08, Singapore 059413",
+  "geometry": {
+    "location": {
+      "lat": 1.285486,
+      "lng": 103.84495
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286668130291502,
+        "lng": 103.8460998302915
+      },
+      "southwest": {
+        "lat": 1.283970169708498,
+        "lng": 103.8434018697085
+      }
+    }
+  },
+  "name": "New Zealand School of Travel & Tourism",
+  "place_id": "ChIJtQvySgsZ2jERy_Qck3bCLGU",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7290415711336068299",
+  "vicinity": "133 New Bridge Road, #20-06/07/08"
+}

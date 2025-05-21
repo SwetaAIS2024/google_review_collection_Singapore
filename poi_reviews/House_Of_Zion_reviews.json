@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3149951,
+      "lng": 103.8935606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316531730291502,
+        "lng": 103.8947069802915
+      },
+      "southwest": {
+        "lat": 1.313833769708498,
+        "lng": 103.8920090197085
+      }
+    }
+  },
+  "name": "House Of Zion",
+  "place_id": "ChIJS1RQrhcY2jERkLSSPbvNXmM",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7160386661641270416",
+  "vicinity": "Singapore"
+}

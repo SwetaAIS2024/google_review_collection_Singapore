@@ -1,0 +1,29 @@
+{
+  "formatted_address": "401 Commonwealth Dr, #06-03 Haw Par Technocentre, Singapore 149598",
+  "geometry": {
+    "location": {
+      "lat": 1.3033365,
+      "lng": 103.7964951
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304779380291502,
+        "lng": 103.7979284802915
+      },
+      "southwest": {
+        "lat": 1.302081419708498,
+        "lng": 103.7952305197085
+      }
+    }
+  },
+  "name": "Zimmer Pte Ltd",
+  "place_id": "ChIJ6UojM0ca2jERz_ksRd2G4HQ",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8421879588089297359",
+  "vicinity": "401 Commonwealth Drive, #06-03 Haw Par Technocentre"
+}

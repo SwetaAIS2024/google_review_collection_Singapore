@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9012 Tampines Street 92, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3417008,
+      "lng": 103.9421075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343152530291502,
+        "lng": 103.9435395802915
+      },
+      "southwest": {
+        "lat": 1.340454569708498,
+        "lng": 103.9408416197085
+      }
+    }
+  },
+  "name": "Jin Yan Ge Seafood",
+  "place_id": "ChIJ2erBYQA92jERlALqNtXDzbM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12956227023531541140",
+  "vicinity": "9012 Tampines Street 92"
+}

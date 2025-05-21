@@ -1,0 +1,30 @@
+{
+  "formatted_address": "149 Upper Paya Lebar Rd, Singapore 534850",
+  "geometry": {
+    "location": {
+      "lat": 1.339299,
+      "lng": 103.8858065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340674030291502,
+        "lng": 103.8871847802915
+      },
+      "southwest": {
+        "lat": 1.337976069708498,
+        "lng": 103.8844868197085
+      }
+    }
+  },
+  "name": "Rajan Mini-Mart",
+  "place_id": "ChIJkfk455MX2jERYpH1hvc8EMc",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14344031846993858914",
+  "vicinity": "149 Upper Paya Lebar Road"
+}

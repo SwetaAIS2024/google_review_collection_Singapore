@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Teban Gardens Rd, #01-06, #37a, Singapore 601037",
+  "geometry": {
+    "location": {
+      "lat": 1.3206555,
+      "lng": 103.7429758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322122780291502,
+        "lng": 103.7440092302915
+      },
+      "southwest": {
+        "lat": 1.319424819708498,
+        "lng": 103.7413112697085
+      }
+    }
+  },
+  "name": "Nam Ping Cafe 南平咖啡茶室",
+  "place_id": "ChIJZ-dXGfsb2jERlsi2dD3JthE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Marcus Goh",
+      "author_url": "https://www.google.com/maps/contrib/105182234976754893762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj43ufHYDqH445kafVqamAu1Rwq2ESoPhUs2MB8BinKz5anesl=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "standard drink stall providing hot and cold drinks at reasonable price. fast service.",
+      "time": 1671340618,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1276428810194438294",
+  "user_ratings_total": 1,
+  "vicinity": "Teban Gardens Rd, #01-06, #37a"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3151 Commonwealth Ave W, #01-01/06 / #02-01/02 Grantral Mall @ Clementi, Singapore 129581",
+  "geometry": {
+    "location": {
+      "lat": 1.3142179,
+      "lng": 103.765169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315455180291502,
+        "lng": 103.7664552802915
+      },
+      "southwest": {
+        "lat": 1.312757219708498,
+        "lng": 103.7637573197085
+      }
+    }
+  },
+  "name": "Maybank, Maybank@Clementi",
+  "place_id": "ChIJVVVlQI4a2jERY0gLoEKEFkM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4834196671716608099",
+  "vicinity": "3151 Commonwealth Avenue West, #01-01/06 / #02-01/02 Grantral Mall @ Clementi"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Lor 22 Geylang, Singapore 398664",
+  "geometry": {
+    "location": {
+      "lat": 1.3128253,
+      "lng": 103.8824546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314173030291502,
+        "lng": 103.8837383802915
+      },
+      "southwest": {
+        "lat": 1.311475069708498,
+        "lng": 103.8810404197085
+      }
+    }
+  },
+  "name": "PEP HV Treatment Clinic Anteh",
+  "place_id": "ChIJGfqSgF0Z2jERanQYHVvAdq0",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12499389313376089194",
+  "vicinity": "1 Lorong 22 Geylang"
+}

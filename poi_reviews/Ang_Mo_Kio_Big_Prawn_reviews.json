@@ -1,0 +1,30 @@
+{
+  "formatted_address": "33 Playfair Rd, Singapore 367994",
+  "geometry": {
+    "location": {
+      "lat": 1.3353935,
+      "lng": 103.8858464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336652780291502,
+        "lng": 103.8870670802915
+      },
+      "southwest": {
+        "lat": 1.333954819708498,
+        "lng": 103.8843691197085
+      }
+    }
+  },
+  "name": "Ang Mo Kio Big Prawn",
+  "place_id": "ChIJW2KXfgAX2jERyc0iXcx-SbQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12991054016327896521",
+  "vicinity": "33 Playfair Road, Singapore"
+}

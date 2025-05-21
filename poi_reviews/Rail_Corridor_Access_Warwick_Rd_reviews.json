@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Queenstown, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2880743,
+      "lng": 103.7988918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.2903838,
+        "lng": 103.8003097302915
+      },
+      "southwest": {
+        "lat": 1.287284599999999,
+        "lng": 103.7976117697085
+      }
+    }
+  },
+  "name": "Rail Corridor Access (Warwick Rd)",
+  "place_id": "ChIJa_cXaQAb2jERg_-f0sJqhi4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "This footpath is relatively unknown to those who are not familiar with the place here.",
+      "time": 1712234830,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3352484357613813635",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

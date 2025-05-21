@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Tagore Ln, Singapore 787472",
+  "geometry": {
+    "location": {
+      "lat": 1.3837737,
+      "lng": 103.8260292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384996480291502,
+        "lng": 103.8274256802915
+      },
+      "southwest": {
+        "lat": 1.382298519708498,
+        "lng": 103.8247277197085
+      }
+    }
+  },
+  "name": "Autovox Pte Ltd",
+  "place_id": "ChIJsdIVDx4Y2jERF9pnfY35COk",
+  "types": [
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16791945596740557335",
+  "vicinity": "9 Tagore Lane"
+}

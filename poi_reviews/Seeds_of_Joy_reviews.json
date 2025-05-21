@@ -1,0 +1,57 @@
+{
+  "formatted_address": "65 Airport Boulevard B2, Terminal 3, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555805,
+      "lng": 103.9861962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356526380291502,
+        "lng": 103.9876359802915
+      },
+      "southwest": {
+        "lat": 1.353828419708498,
+        "lng": 103.9849380197085
+      }
+    }
+  },
+  "name": "Seeds of Joy",
+  "place_id": "ChIJj1Mmje092jERwE8-Y1e5_zw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mason Tay",
+      "author_url": "https://www.google.com/maps/contrib/108195777674730720034/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3l4pFW9WlEHgxW0gH_IGJEwq0L2xp6TODRlTJg0TN4nYP7g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The sales staff is very friendly and also the stock is very comprehensive. It is a very convenient stop for snacks. Be sure to try the nuts before buying as some of them has been displayed for too long and the nuts doesn’t taste crunchy at all.",
+      "time": 1701966665,
+      "translated": false
+    },
+    {
+      "author_name": "Yugal",
+      "author_url": "https://www.google.com/maps/contrib/117116264553407736090/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPV_Dp_JL5VWSzBna-GqCb8cTcYUvpMnQ9ohD6a9UYYCMsSdlPfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734577389,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4395435546315214784",
+  "user_ratings_total": 2,
+  "vicinity": "65 Airport Boulevard B2, Terminal 3"
+}

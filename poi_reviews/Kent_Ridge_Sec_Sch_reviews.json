@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3016883,
+      "lng": 103.7656809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303054580291502,
+        "lng": 103.7670735302915
+      },
+      "southwest": {
+        "lat": 1.300356619708498,
+        "lng": 103.7643755697085
+      }
+    }
+  },
+  "name": "Kent Ridge Sec Sch",
+  "place_id": "ChIJBTBdsPEa2jER2c5XUAH5mv8",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Ed Campbell",
+      "author_url": "https://www.google.com/maps/contrib/111412889022160474671/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqd8ohYcqNXAztfXc-bsngwyXZ8_BoGePDE6eb93GordRyxFyS=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518215363,
+      "translated": false
+    },
+    {
+      "author_name": "Quebec Danish39",
+      "author_url": "https://www.google.com/maps/contrib/110674569079583635524/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmLMzYdEeeFlxpxHEiy_JUdzEUR9IwfoBwJVmH6ysmuoaiUK6L=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506332382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18418307410123280089",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

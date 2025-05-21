@@ -1,0 +1,59 @@
+{
+  "formatted_address": "150 South Bridge Rd, #01-K22, Singapore 058727",
+  "geometry": {
+    "location": {
+      "lat": 1.2848587,
+      "lng": 103.8466609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286383030291502,
+        "lng": 103.8477702302915
+      },
+      "southwest": {
+        "lat": 1.283685069708498,
+        "lng": 103.8450722697085
+      }
+    }
+  },
+  "name": "Arfah Store",
+  "place_id": "ChIJ9RaeQgsZ2jER5lUurWVAL44",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Interesting small shop that sells snacks, drinks and other stuff.",
+      "time": 1639204907,
+      "translated": false
+    },
+    {
+      "author_name": "asimol achu",
+      "author_url": "https://www.google.com/maps/contrib/117246239243442340179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjL823AL2l_wRieNNt2GHk4XQbMFNJxvRSbPwfIfvu76uYew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Highly recommended store. Fast and efficient service....",
+      "time": 1654259979,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10245478482732537318",
+  "user_ratings_total": 2,
+  "vicinity": "150 South Bridge Road, #01-K22"
+}

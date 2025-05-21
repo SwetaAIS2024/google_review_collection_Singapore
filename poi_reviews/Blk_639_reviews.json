@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340795,
+      "lng": 103.697182
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342180830291502,
+        "lng": 103.6985629802915
+      },
+      "southwest": {
+        "lat": 1.339482869708498,
+        "lng": 103.6958650197085
+      }
+    }
+  },
+  "name": "Blk 639",
+  "place_id": "ChIJP7rGJ5EP2jER_NCBptZhJXc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Swee Kat Chan",
+      "author_url": "https://www.google.com/maps/contrib/109213074256068508500/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwIwx7Vl8aFjqiIhSZpjlNOL1FngxNYtDRVe1EMKkddDKsrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726141335,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8585375839196139772",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

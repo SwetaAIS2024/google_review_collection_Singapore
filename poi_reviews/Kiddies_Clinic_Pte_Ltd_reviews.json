@@ -1,0 +1,29 @@
+{
+  "formatted_address": "290 Orchard Rd, Singapore 238859",
+  "geometry": {
+    "location": {
+      "lat": 1.3044832,
+      "lng": 103.8361703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305667080291502,
+        "lng": 103.8376787302915
+      },
+      "southwest": {
+        "lat": 1.302969119708498,
+        "lng": 103.8349807697085
+      }
+    }
+  },
+  "name": "Kiddies Clinic Pte Ltd",
+  "place_id": "ChIJXb7KLpIZ2jERuS3HXTb1CmM",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7136786173372345785",
+  "vicinity": "290 Orchard Road"
+}

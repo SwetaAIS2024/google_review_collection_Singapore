@@ -1,0 +1,78 @@
+{
+  "formatted_address": "1 Thomson Rd, #01-326 within Sin Mee Eating House, Singapore 300001",
+  "geometry": {
+    "location": {
+      "lat": 1.3246736,
+      "lng": 103.8421723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326135080291502,
+        "lng": 103.8434458802915
+      },
+      "southwest": {
+        "lat": 1.323437119708498,
+        "lng": 103.8407479197085
+      }
+    }
+  },
+  "name": "Sin Mee Eating House",
+  "place_id": "ChIJk98PRQAZ2jERvyUUkl40xls",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "An old school kopitiam that is home to the famous Bee Kia Seafood Restaurant.",
+      "time": 1730639804,
+      "translated": false
+    },
+    {
+      "author_name": "Kim Loon Chee",
+      "author_url": "https://www.google.com/maps/contrib/108215314363885156374/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv0pbFsjMr_KDggvjGN3Q7hDq6SlCZdVXWst9LuTtB95JnQYkBZg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "A neighbourhood coffeeshop.",
+      "time": 1717287222,
+      "translated": false
+    },
+    {
+      "author_name": "jason fat",
+      "author_url": "https://www.google.com/maps/contrib/113726960911879740551/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtRzxJsRBijQtfIdyMerBY_axcqkT-Qek0AXlX6cE3s6EFPo4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745404516,
+      "translated": false
+    },
+    {
+      "author_name": "YEO WEN JUN ROY",
+      "author_url": "https://www.google.com/maps/contrib/110368122443353685000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnA6BCTd7LvaVcSg-R_LnRcNvpJ6jzQSS9S6nVRtbww6T8rfI=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744478691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6613030683622516159",
+  "user_ratings_total": 4,
+  "vicinity": "1 Thomson Road, #01-326 within Sin Mee Eating House"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "4014 Ang Mo Kio Industrial Park 1, Singapore 569630",
+  "geometry": {
+    "location": {
+      "lat": 1.357996,
+      "lng": 103.8552762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359280880291502,
+        "lng": 103.8567117802915
+      },
+      "southwest": {
+        "lat": 1.356582919708498,
+        "lng": 103.8540138197085
+      }
+    }
+  },
+  "name": "Hitech Auto Pte Ltd",
+  "place_id": "ChIJzQwTFhsX2jERJgLOBBSkx_Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Ng",
+      "author_url": "https://www.google.com/maps/contrib/111314747629374624119/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlnuZoI4cMbQy5ql4c-Kbv-dfAHr8OEKN-EM9Fsv8JDTIGBADqMg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Perfect service",
+      "time": 1629689319,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17638246871506747942",
+  "user_ratings_total": 1,
+  "vicinity": "4014 Ang Mo Kio Industrial Park 1, Singapore"
+}

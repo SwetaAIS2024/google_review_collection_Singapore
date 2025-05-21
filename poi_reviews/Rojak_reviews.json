@@ -1,0 +1,30 @@
+{
+  "formatted_address": "257 Bangkit Rd, Singapore 670257",
+  "geometry": {
+    "location": {
+      "lat": 1.3785841,
+      "lng": 103.7729208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379838480291502,
+        "lng": 103.7742637802915
+      },
+      "southwest": {
+        "lat": 1.377140519708498,
+        "lng": 103.7715658197085
+      }
+    }
+  },
+  "name": "Rojak",
+  "place_id": "ChIJeYrBFQAR2jERSFxhfsxImDY",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3933974317638966344",
+  "vicinity": "257 Bangkit Road"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Kallang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3100334,
+      "lng": 103.8651056
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.330453943369376,
+        "lng": 103.8855218562214
+      },
+      "southwest": {
+        "lat": 1.294023960557582,
+        "lng": 103.8442938807297
+      }
+    }
+  },
+  "name": "Kallang",
+  "place_id": "ChIJfziWgcsZ2jERMKXarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Kallang,+Singapore&ftid=0x31da19cb8196387f:0x500f7acaedaa530",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Balmoral Cres, Singapore 259895",
+  "geometry": {
+    "location": {
+      "lat": 1.3157962,
+      "lng": 103.8346666
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317082480291502,
+        "lng": 103.8360632802915
+      },
+      "southwest": {
+        "lat": 1.314384519708498,
+        "lng": 103.8333653197085
+      }
+    }
+  },
+  "name": "Coffee Corner",
+  "place_id": "ChIJiT0bx-8Z2jER9IcCI0EQgqg",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12142285417290565620",
+  "vicinity": "5 Balmoral Crescent"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339139,
+      "lng": 103.896805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340526430291502,
+        "lng": 103.8982445802915
+      },
+      "southwest": {
+        "lat": 1.337828469708498,
+        "lng": 103.8955466197085
+      }
+    }
+  },
+  "name": "Opp Gordon Warehse Bldg",
+  "place_id": "ChIJJyt_H-wX2jERtMT-oboqvi0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "P.Deepak Samy",
+      "author_url": "https://www.google.com/maps/contrib/114127593530844023446/reviews",
+      "language": "en-US",
+      "original_language": "hmn",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjbYftPis5RbPdpke1SRg98AyJlf_01IkP_29CGWc5u6VOAho=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "POB",
+      "time": 1666720682,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3296118958351893684",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

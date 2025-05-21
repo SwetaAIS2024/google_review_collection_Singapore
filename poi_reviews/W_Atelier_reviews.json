@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31424,
+      "lng": 103.665512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315554080291502,
+        "lng": 103.6668970302915
+      },
+      "southwest": {
+        "lat": 1.312856119708498,
+        "lng": 103.6641990697085
+      }
+    }
+  },
+  "name": "W Atelier",
+  "place_id": "ChIJw3MpXZEF2jERNM_xQ1LYskE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sonny Sonio",
+      "author_url": "https://www.google.com/maps/contrib/110208725656668803474/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVknDH4eZ8p7gBH-GqUd0hdNQngedLpgmia1pOEGEypi5HavcSm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1664973509,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4734084006158651188",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

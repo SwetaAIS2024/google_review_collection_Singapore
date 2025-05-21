@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Upper Aljunied Ln, Singapore 360002",
+  "geometry": {
+    "location": {
+      "lat": 1.3340418,
+      "lng": 103.8789072
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335435780291502,
+        "lng": 103.8802447302915
+      },
+      "southwest": {
+        "lat": 1.332737819708498,
+        "lng": 103.8775467697085
+      }
+    }
+  },
+  "name": "House of Yikang Dessert",
+  "place_id": "ChIJl650ZIUX2jER4ONCUv0u6X4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sim",
+      "author_url": "https://www.google.com/maps/contrib/102031759048577514522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTEOfOkjR8JloIcII3QiQBd0gisq30wvHAsh4NR6C7tJL1H4aM=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575512833,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9144892183894221792",
+  "user_ratings_total": 1,
+  "vicinity": "2 Upper Aljunied Lane, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3135953,
+      "lng": 103.6246384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315026130291502,
+        "lng": 103.6263864802915
+      },
+      "southwest": {
+        "lat": 1.312328169708498,
+        "lng": 103.6236885197085
+      }
+    }
+  },
+  "name": "Camp",
+  "place_id": "ChIJQcVJKEQH2jER5ftZKSpJuvw",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18210948488657239013",
+  "vicinity": "70 Tuas South Avenue 1, Singapore"
+}

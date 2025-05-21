@@ -1,0 +1,29 @@
+{
+  "formatted_address": "309 Hougang Ave 5, Singapore 530309",
+  "geometry": {
+    "location": {
+      "lat": 1.3662582,
+      "lng": 103.8953796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367699930291502,
+        "lng": 103.8966336302915
+      },
+      "southwest": {
+        "lat": 1.365001969708498,
+        "lng": 103.8939356697085
+      }
+    }
+  },
+  "name": "Wang Ban Mian",
+  "place_id": "ChIJeRgiDAAX2jERj4zdtmqu5ZE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10513000678524030095",
+  "vicinity": "309 Hougang Avenue 5, Singapore"
+}

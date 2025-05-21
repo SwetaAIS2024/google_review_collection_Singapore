@@ -1,0 +1,45 @@
+{
+  "formatted_address": "60 Kaki Bukit Place, #04-14 Eunos Techpark, Singapore 415979",
+  "geometry": {
+    "location": {
+      "lat": 1.3345399,
+      "lng": 103.9047836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336009630291502,
+        "lng": 103.9060013802915
+      },
+      "southwest": {
+        "lat": 1.333311669708498,
+        "lng": 103.9033034197085
+      }
+    }
+  },
+  "name": "Okta Pte Ltd",
+  "place_id": "ChIJkxYt64YX2jER4f0-yuTlE_4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jyren Koh",
+      "author_url": "https://www.google.com/maps/contrib/100625736677765058522/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLplqAKZ-RPyrOPKio6VUaadmnb-43v8X2TGgF9i5ze4qrsVQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Great! Fixed my iPad there.",
+      "time": 1528943323,
+      "translated": false
+    }
+  ],
+  "types": [
+    "electronics_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18308229680999628257",
+  "user_ratings_total": 1,
+  "vicinity": "60 Kaki Bukit Place, #04-14 Eunos Techpark"
+}

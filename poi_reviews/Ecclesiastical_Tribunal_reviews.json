@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Highland Rd, Singapore 549102",
+  "geometry": {
+    "location": {
+      "lat": 1.355794,
+      "lng": 103.876956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357203430291502,
+        "lng": 103.8782463302915
+      },
+      "southwest": {
+        "lat": 1.354505469708498,
+        "lng": 103.8755483697085
+      }
+    }
+  },
+  "name": "Ecclesiastical Tribunal",
+  "place_id": "ChIJe8YLoa8X2jERVP9OBRuupog",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9846749066368581460",
+  "vicinity": "2 Highland Road, Singapore"
+}

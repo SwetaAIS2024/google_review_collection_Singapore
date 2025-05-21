@@ -1,0 +1,46 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, NUH Main Building, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2944037,
+      "lng": 103.7834963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296005530291502,
+        "lng": 103.7843835302915
+      },
+      "southwest": {
+        "lat": 1.293307569708498,
+        "lng": 103.7816855697085
+      }
+    }
+  },
+  "name": "DBS ATM - NUH Main Building",
+  "place_id": "ChIJsZVxG7Ub2jERjx6oDg_pAhw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Go Shaman",
+      "author_url": "https://www.google.com/maps/contrib/108450867817701001688/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGdbs_McIkZRWLva44dcjg4-OjI5Krolf9jZISvpYFbgF1b-8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "cash deposit available",
+      "time": 1570682688,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2018431833895083663",
+  "user_ratings_total": 1,
+  "vicinity": "5 Lower Kent Ridge Road, NUH Main Building"
+}

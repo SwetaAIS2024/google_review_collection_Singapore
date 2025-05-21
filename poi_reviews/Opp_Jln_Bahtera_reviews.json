@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.423296,
+      "lng": 103.704079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424646230291502,
+        "lng": 103.7054248802915
+      },
+      "southwest": {
+        "lat": 1.421948269708498,
+        "lng": 103.7027269197085
+      }
+    }
+  },
+  "name": "Opp Jln Bahtera",
+  "place_id": "ChIJvzJrtL8N2jERNlBZOZZ5v00",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Neil Brian Labayna",
+      "author_url": "https://www.google.com/maps/contrib/116657225661629675295/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Kij2FxOASso3JVBTzifn1UzaiPgT5zUr0-Jpog781V6PkQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "It's another bus stop along the road that cuts in between two training areas of the SAF. Occasionally you'll see tonners and troop movement.",
+      "time": 1448500741,
+      "translated": false
+    },
+    {
+      "author_name": "Planet Mars 2033",
+      "author_url": "https://www.google.com/maps/contrib/114212871438191164256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuDiGG7MpqTtCeOYatfnp4_hi4kZB6u0T2yskSR0S8uqJwp4ex=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Ficus tree standing more than 40 years ago",
+      "time": 1710823374,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5602330147586396214",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

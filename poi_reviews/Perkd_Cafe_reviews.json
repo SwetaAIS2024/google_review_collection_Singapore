@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 829704",
+  "geometry": {
+    "location": {
+      "lat": 1.416228,
+      "lng": 103.903985
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417544130291502,
+        "lng": 103.9055432302915
+      },
+      "southwest": {
+        "lat": 1.414846169708498,
+        "lng": 103.9028452697085
+      }
+    }
+  },
+  "name": "Perkd Cafe",
+  "place_id": "ChIJB_gkm0MV2jERer3wlzqIR00",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5568569249505525114",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "157 Thomson Rd, Singapore 307610",
+  "geometry": {
+    "location": {
+      "lat": 1.3181649,
+      "lng": 103.843933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319432830291502,
+        "lng": 103.8453065302915
+      },
+      "southwest": {
+        "lat": 1.316734869708498,
+        "lng": 103.8426085697085
+      }
+    }
+  },
+  "name": "Mindmax",
+  "place_id": "ChIJRZ6l7ecZ2jEREuYN08Svi68",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12649397238289524242",
+  "vicinity": "157 Thomson Road"
+}

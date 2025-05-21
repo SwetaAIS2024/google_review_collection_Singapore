@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374486,
+      "lng": 103.762573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375842830291502,
+        "lng": 103.7639624302915
+      },
+      "southwest": {
+        "lat": 1.373144869708498,
+        "lng": 103.7612644697085
+      }
+    }
+  },
+  "name": "Opp The Linear",
+  "place_id": "ChIJj_NWu7oR2jERMzMVckrJCAs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Gunalan Kaniasan",
+      "author_url": "https://www.google.com/maps/contrib/117774383690466537656/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVKmVsySno-uy3PawjtMW4aRn2aOAYWaF1sOznoK3efQjvfg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "No sheltered walk way",
+      "time": 1603243909,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=795106655809647411",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

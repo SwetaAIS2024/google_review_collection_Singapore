@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3326241,
+      "lng": 103.7390543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333917030291502,
+        "lng": 103.7404377302915
+      },
+      "southwest": {
+        "lat": 1.331219069708498,
+        "lng": 103.7377397697085
+      }
+    }
+  },
+  "name": "Jurong East Lib",
+  "place_id": "ChIJea1V-wUQ2jERb6oZqAa3kXE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "David",
+      "author_url": "https://www.google.com/maps/contrib/113927201935072090167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjweMWxCu8tj3B80f1qQSTeOQsrvEchpypxG4BGPR9dNdLhQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "A big library with fun activities for everyone.",
+      "time": 1727858495,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson Chang",
+      "author_url": "https://www.google.com/maps/contrib/102589058598808274925/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-vSXjFi0PgWtWv9WneTaljLWq2hldwR7n8loebb8nf3h2GWAe=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Bus stop next to the Jurong East Library.",
+      "time": 1659685279,
+      "translated": false
+    },
+    {
+      "author_name": "Aravind M",
+      "author_url": "https://www.google.com/maps/contrib/105307664160268407961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1lptzhkObpo5oJ0rUUDhlOcJg-OzjlGugo3LuOo8Y_h5varc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534821159,
+      "translated": false
+    },
+    {
+      "author_name": "Easan",
+      "author_url": "https://www.google.com/maps/contrib/106625146470016521907/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNbDE2iDLxigFLDHtHJDVy5ERHDvvudMbTTN5kiuh9HYtCMjmxGQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510496119,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8183523237126842991",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

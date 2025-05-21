@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37621,
+      "lng": 103.737892
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377582930291502,
+        "lng": 103.7392546802915
+      },
+      "southwest": {
+        "lat": 1.374884969708498,
+        "lng": 103.7365567197085
+      }
+    }
+  },
+  "name": "Blk 483",
+  "place_id": "ChIJc2WG_toR2jERy4GdfhaTUMM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Paparico",
+      "author_url": "https://www.google.com/maps/contrib/108856203870009422047/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJWP7pX5OLcJJ0DgsXXVyD7nB52TgJOvk18H7gJMAuR34iifOtFg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Nice void deck having fan and good bus service. Nice location. Jogging track and near to nature living.",
+      "time": 1546576957,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14073910560355615179",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

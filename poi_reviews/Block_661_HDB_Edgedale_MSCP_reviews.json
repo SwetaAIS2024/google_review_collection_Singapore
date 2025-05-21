@@ -1,0 +1,44 @@
+{
+  "formatted_address": "661 Edgedale Plains, Singapore 820661",
+  "geometry": {
+    "location": {
+      "lat": 1.4026492,
+      "lng": 103.9175711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404062580291502,
+        "lng": 103.9189701802915
+      },
+      "southwest": {
+        "lat": 1.401364619708498,
+        "lng": 103.9162722197085
+      }
+    }
+  },
+  "name": "Block 661 HDB Edgedale (MSCP)",
+  "place_id": "ChIJWTQC9wA-2jERgrWvbuY2rs4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kelvin Chai",
+      "author_url": "https://www.google.com/maps/contrib/107078565464991536545/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-QmSOfyhuKhDm4chWZ2heQqn_yB-JHMJn2voSQ_gQ1r3RQRt3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Always ample parking lots for visitors. There is also a lift access just in case your legs are tired and you happened to park at a higher floor.",
+      "time": 1648460633,
+      "translated": false
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14892901381088195970",
+  "user_ratings_total": 1,
+  "vicinity": "661 Edgedale Plains, Singapore"
+}

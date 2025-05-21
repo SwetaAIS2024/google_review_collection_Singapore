@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.376705,
+      "lng": 103.93837
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378106480291502,
+        "lng": 103.9397390302915
+      },
+      "southwest": {
+        "lat": 1.375408519708498,
+        "lng": 103.9370410697085
+      }
+    }
+  },
+  "name": "Tampines Meridian Jc",
+  "place_id": "ChIJRyQs7r092jERdPcY2uewWvw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18184040955304802164",
+  "vicinity": "Singapore"
+}

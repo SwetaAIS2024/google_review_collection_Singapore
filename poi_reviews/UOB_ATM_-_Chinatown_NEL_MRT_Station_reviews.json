@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 151 New Bridge Road, Concourse Level, Chinatown MRT Station, Singapore 059443",
+  "geometry": {
+    "location": {
+      "lat": 1.2846716,
+      "lng": 103.8432837
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285930780291502,
+        "lng": 103.8447194802915
+      },
+      "southwest": {
+        "lat": 1.283232819708498,
+        "lng": 103.8420215197085
+      }
+    }
+  },
+  "name": "UOB ATM - Chinatown NEL MRT Station",
+  "place_id": "ChIJRyTLSFQZ2jERmlU53tHl-g0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1007370156209952154",
+  "vicinity": "No. 151 New Bridge Road, Concourse Level, Chinatown MRT Station"
+}

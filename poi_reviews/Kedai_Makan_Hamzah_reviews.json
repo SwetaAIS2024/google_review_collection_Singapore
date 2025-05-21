@@ -1,0 +1,65 @@
+{
+  "formatted_address": "No. 133 A, Jalan Besar, Ulu Choh, Johor, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.436825,
+      "lng": 103.6020571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.437884630291502,
+        "lng": 103.6032263802915
+      },
+      "southwest": {
+        "lat": 1.435186669708498,
+        "lng": 103.6005284197085
+      }
+    }
+  },
+  "name": "Kedai Makan Hamzah",
+  "place_id": "ChIJ1Q1xGaYL2jERe7S4CgIws_I",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Pengguna Google",
+      "author_url": "https://www.google.com/maps/contrib/111967602540072908841/reviews",
+      "language": "en-US",
+      "original_language": "bg",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAGtA0r3-GejXZ6Yivnd-XsNvLH3iaAfZ7F2LkpbYKYgKPug=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "sedqp mqntap",
+      "time": 1597381376,
+      "translated": true
+    },
+    {
+      "author_name": "md rakibkhan",
+      "author_url": "https://www.google.com/maps/contrib/104228341497505735950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm_hBr2w0071WwHHpJZUig-nr1TtIBvhkkae4bNV9nrnlZ7l5f=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707880854,
+      "translated": false
+    },
+    {
+      "author_name": "Phaik Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/109332211378871847405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2IaPDyLiSPXvBdvVBWBLfapHLvU-rlfYk6ambNoajGRROUGc=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561330522,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17488374563337712763",
+  "user_ratings_total": 3,
+  "vicinity": "No. 133 A, Jalan Besar, Ulu Choh, Johor, Gelang Patah"
+}

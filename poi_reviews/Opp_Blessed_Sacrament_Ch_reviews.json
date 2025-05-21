@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2954294,
+      "lng": 103.7995524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296798580291502,
+        "lng": 103.8008686302915
+      },
+      "southwest": {
+        "lat": 1.294100619708498,
+        "lng": 103.7981706697085
+      }
+    }
+  },
+  "name": "Opp Blessed Sacrament Ch",
+  "place_id": "ChIJx_YBPDYa2jERNiANOrWzXJw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11267077958718529590",
+  "vicinity": "Singapore"
+}

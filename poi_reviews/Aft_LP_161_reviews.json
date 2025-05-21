@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.404523,
+      "lng": 103.701874
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405878030291502,
+        "lng": 103.7032114302915
+      },
+      "southwest": {
+        "lat": 1.403180069708498,
+        "lng": 103.7005134697085
+      }
+    }
+  },
+  "name": "Aft LP 161",
+  "place_id": "ChIJzadrHN8N2jER6IqCDHaz7VE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5903572006149982952",
+  "vicinity": "Singapore"
+}

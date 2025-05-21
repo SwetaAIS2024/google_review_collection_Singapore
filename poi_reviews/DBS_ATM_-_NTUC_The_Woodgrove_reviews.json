@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Woodlands Ave 1, Singapore 739065",
+  "geometry": {
+    "location": {
+      "lat": 1.428911,
+      "lng": 103.7810382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.430527930291502,
+        "lng": 103.7823477302915
+      },
+      "southwest": {
+        "lat": 1.427829969708498,
+        "lng": 103.7796497697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC The Woodgrove",
+  "place_id": "ChIJVU-dxmoT2jERpgOW910CxjM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3730671943932052390",
+  "vicinity": "30 Woodlands Avenue 1, Singapore"
+}

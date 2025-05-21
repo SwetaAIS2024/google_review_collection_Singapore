@@ -1,0 +1,32 @@
+{
+  "formatted_address": "74 Duxton Rd, Singapore 089533",
+  "geometry": {
+    "location": {
+      "lat": 1.2782472,
+      "lng": 103.8431477
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279585530291502,
+        "lng": 103.8445176802915
+      },
+      "southwest": {
+        "lat": 1.276887569708498,
+        "lng": 103.8418197197085
+      }
+    }
+  },
+  "name": "Rudy Sports Cafe",
+  "place_id": "ChIJH9aMFm0Z2jERJHqe0iBCqOE",
+  "types": [
+    "cafe",
+    "bakery",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16260319163361163812",
+  "vicinity": "74 Duxton Road"
+}

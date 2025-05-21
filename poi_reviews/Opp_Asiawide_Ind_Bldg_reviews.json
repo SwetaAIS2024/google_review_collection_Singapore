@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3373978,
+      "lng": 103.8875881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338721430291502,
+        "lng": 103.8888722802915
+      },
+      "southwest": {
+        "lat": 1.336023469708498,
+        "lng": 103.8861743197085
+      }
+    }
+  },
+  "name": "Opp Asiawide Ind Bldg",
+  "place_id": "ChIJ94AbUJIX2jERJsC58Gfk-Jc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "YuFan Tian",
+      "author_url": "https://www.google.com/maps/contrib/103253829664890242467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT7402PoYsTE_eIyCQzwZImgtF0VKpmLa2BH7O4eodbCiYiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506685240,
+      "translated": false
+    },
+    {
+      "author_name": "Nirmal Balasooriya",
+      "author_url": "https://www.google.com/maps/contrib/106413501068372675984/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIQg47bOiuG5BiHR1YaiF6XVcHUnHByhQFneL3n3veowOn8gm1=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503621820,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10950753629022830630",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

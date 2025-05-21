@@ -1,0 +1,41 @@
+{
+  "formatted_address": "126 Joo Seng Rd, #08-05, Singapore 368355",
+  "geometry": {
+    "location": {
+      "lat": 1.3362412,
+      "lng": 103.8821841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337511680291502,
+        "lng": 103.8836383802915
+      },
+      "southwest": {
+        "lat": 1.334813719708498,
+        "lng": 103.8809404197085
+      }
+    }
+  },
+  "name": "KPH Technical Services Pte Ltd",
+  "place_id": "ChIJkU_m148X2jERW9Yw3O6ZScI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Terrance Teoh",
+      "author_url": "https://www.google.com/maps/contrib/105808624338897145777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKr0_fsbqFnEJyDzHuRRyAnFdgCzsQiw0ZVxgZCVYi5R1lNNw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543127085,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13999890167833351771",
+  "user_ratings_total": 1,
+  "vicinity": "126 Joo Seng Road, #08-05"
+}

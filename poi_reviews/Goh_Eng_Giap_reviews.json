@@ -1,0 +1,30 @@
+{
+  "formatted_address": "26A Chai Chee Rd, Singapore 461026",
+  "geometry": {
+    "location": {
+      "lat": 1.323695,
+      "lng": 103.923658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324997130291502,
+        "lng": 103.9247149802915
+      },
+      "southwest": {
+        "lat": 1.322299169708498,
+        "lng": 103.9220170197085
+      }
+    }
+  },
+  "name": "Goh Eng Giap",
+  "place_id": "ChIJWy-oqa0i2jERv-FkpPyN3nA",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8133094093307044287",
+  "vicinity": "26A Chai Chee Road, Singapore"
+}

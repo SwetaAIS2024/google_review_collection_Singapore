@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 W Coast Hwy, Singapore 117864",
+  "geometry": {
+    "location": {
+      "lat": 1.2844837,
+      "lng": 103.7799928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285882330291502,
+        "lng": 103.7814076302915
+      },
+      "southwest": {
+        "lat": 1.283184369708498,
+        "lng": 103.7787096697085
+      }
+    }
+  },
+  "name": "Acfas Auto",
+  "place_id": "ChIJYXnDXKkb2jERZyj352Ci-dc",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15562648524447754343",
+  "vicinity": "31 West Coast Highway, Singapore"
+}

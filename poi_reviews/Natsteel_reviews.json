@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.305915,
+      "lng": 103.700806
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307249330291502,
+        "lng": 103.7021474802915
+      },
+      "southwest": {
+        "lat": 1.304551369708498,
+        "lng": 103.6994495197085
+      }
+    }
+  },
+  "name": "Natsteel",
+  "place_id": "ChIJv_FeZBQF2jERykqN469qMiM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2536206843832519370",
+  "vicinity": "Singapore"
+}

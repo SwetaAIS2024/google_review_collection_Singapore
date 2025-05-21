@@ -1,0 +1,30 @@
+{
+  "formatted_address": "68 Tras St, Singapore 079007",
+  "geometry": {
+    "location": {
+      "lat": 1.2777378,
+      "lng": 103.8440661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279066080291502,
+        "lng": 103.8455299802915
+      },
+      "southwest": {
+        "lat": 1.276368119708498,
+        "lng": 103.8428320197085
+      }
+    }
+  },
+  "name": "Medical Aesthetics Spa",
+  "place_id": "ChIJr77GKG0Z2jERxgPmV2VYI0E",
+  "types": [
+    "spa",
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4693692428939822022",
+  "vicinity": "68 Tras Street, Singapore"
+}

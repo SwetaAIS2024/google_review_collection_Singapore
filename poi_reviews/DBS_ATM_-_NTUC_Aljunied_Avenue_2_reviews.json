@@ -1,0 +1,29 @@
+{
+  "formatted_address": "114 Aljunied Ave 2, Singapore 380114",
+  "geometry": {
+    "location": {
+      "lat": 1.32175,
+      "lng": 103.88682
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322959230291502,
+        "lng": 103.8882090802915
+      },
+      "southwest": {
+        "lat": 1.320261269708498,
+        "lng": 103.8855111197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Aljunied Avenue 2",
+  "place_id": "ChIJIy5zj_YZ2jERylI184aFDUI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4759607195852952266",
+  "vicinity": "114 Aljunied Avenue 2, Singapore"
+}

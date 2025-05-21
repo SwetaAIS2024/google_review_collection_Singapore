@@ -1,0 +1,78 @@
+{
+  "formatted_address": "38 Changi Rd, Singapore 419701",
+  "geometry": {
+    "location": {
+      "lat": 1.3162249,
+      "lng": 103.8988343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317665030291502,
+        "lng": 103.9001694802915
+      },
+      "southwest": {
+        "lat": 1.314967069708498,
+        "lng": 103.8974715197085
+      }
+    }
+  },
+  "name": "Presion Pte. Ltd.",
+  "place_id": "ChIJZfyh6ZEX2jER954BPKOnV1Q",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jacqueline C.",
+      "author_url": "https://www.google.com/maps/contrib/113778271260068261544/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMkbKxv-uOEuJ0rsq7mULJEqlqoteTrYs83LRBU-wa2oIFLrvMzw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Not responsive and not helpful with after-sales service, so best to buy your safe somewhere else. When the safe malfunctions, all your belongings are stuck inside.",
+      "time": 1704964831,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Lee",
+      "author_url": "https://www.google.com/maps/contrib/108447940040382792390/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM-JRHdz61wivFldjksPcBawA-EsvjBa3vGc7lkMQiu8helMY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Great service!",
+      "time": 1498560375,
+      "translated": false
+    },
+    {
+      "author_name": "Jams Wong",
+      "author_url": "https://www.google.com/maps/contrib/102312450577200237868/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUERAcujIRrC4M4AqLt-qenuiHDkGSpzm5GheRwJLRz73_0Sq4qYQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "old industrial building",
+      "time": 1456100806,
+      "translated": true
+    },
+    {
+      "author_name": "Kelvin Cheong",
+      "author_url": "https://www.google.com/maps/contrib/105680949880591159146/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDbMVBd2xgQJyO011W_UgBQEZtWIgos-D3H3nX9PA5FeSaYWY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547206811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6077510541688020727",
+  "user_ratings_total": 4,
+  "vicinity": "38 Changi Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.384791,
+      "lng": 103.836494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386167880291502,
+        "lng": 103.8378724302915
+      },
+      "southwest": {
+        "lat": 1.383469919708498,
+        "lng": 103.8351744697085
+      }
+    }
+  },
+  "name": "Lentor Stn Exit 5",
+  "place_id": "ChIJ8yXZ-7gW2jERZiq6MYGSVro",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13427080422634433126",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Goldhill Plaza, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3178703,
+      "lng": 103.8434698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319215880291502,
+        "lng": 103.8448198802915
+      },
+      "southwest": {
+        "lat": 1.316517919708498,
+        "lng": 103.8421219197085
+      }
+    }
+  },
+  "name": "Herox Groccery",
+  "place_id": "ChIJtxtC6OcZ2jER0ac-aq46psI",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14025962610273200081",
+  "vicinity": "Goldhill Plaza"
+}

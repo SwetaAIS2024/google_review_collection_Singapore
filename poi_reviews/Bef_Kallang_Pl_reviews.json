@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3143885,
+      "lng": 103.8658397
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315715980291502,
+        "lng": 103.8671709802915
+      },
+      "southwest": {
+        "lat": 1.313018019708498,
+        "lng": 103.8644730197085
+      }
+    }
+  },
+  "name": "Bef Kallang Pl",
+  "place_id": "ChIJyy625MwZ2jER5-hlXh3GDK8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Shuvam Nandi",
+      "author_url": "https://www.google.com/maps/contrib/104146401751254147870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX24xyPra9dWfDCdycFf1IVo9CSId4Xe1k1is6Rc9In56qnHCjGfw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Bus stop is few stops away from Kallang MRT.",
+      "time": 1525872059,
+      "translated": false
+    },
+    {
+      "author_name": "藥師",
+      "author_url": "https://www.google.com/maps/contrib/115361853734156120397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDRQgx0Qa37mpVE3DVfGxuANrpyipl0oBaL0OOK5F3Vmi7qw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1694591824,
+      "translated": false
+    },
+    {
+      "author_name": "Min Thu",
+      "author_url": "https://www.google.com/maps/contrib/115739605408742156807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDjNBKd4Ha2FLuFkbGSVAAAuSfri1ygpQGukIZb0pxbIGiYxVcig=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568193635,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12613674485798004967",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2836004,
+      "lng": 103.814595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285007630291502,
+        "lng": 103.8159806302915
+      },
+      "southwest": {
+        "lat": 1.282309669708498,
+        "lng": 103.8132826697085
+      }
+    }
+  },
+  "name": "Blk 1003",
+  "place_id": "ChIJKW9KQdEb2jER8Z-pg5E9fDg",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4070195858424569841",
+  "vicinity": "Singapore"
+}

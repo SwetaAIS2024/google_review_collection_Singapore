@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3072139,
+      "lng": 103.8954151
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308585130291502,
+        "lng": 103.8968068802915
+      },
+      "southwest": {
+        "lat": 1.305887169708498,
+        "lng": 103.8941089197085
+      }
+    }
+  },
+  "name": "Opp Tg Katong Girls' Sch",
+  "place_id": "ChIJ-XXENWsY2jERMtliDgjI8yE",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Stan Snape",
+      "author_url": "https://www.google.com/maps/contrib/113861129538310742172/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7dxuZQUTCh8o-V3JQP4eA63GIgzg2RDdRP3EX1-ByYcfVmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Opp tg katong girls sch bus stop is the best idc",
+      "time": 1706483187,
+      "translated": false
+    },
+    {
+      "author_name": "Beny Furman",
+      "author_url": "https://www.google.com/maps/contrib/103331251309094304644/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGgRi__4On-Levqiva5grZ5C1yOEfXA5JS-euh8OnphtHoIjTW=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "This is just an average bus stop. Service was not impressive",
+      "time": 1500093440,
+      "translated": false
+    },
+    {
+      "author_name": "khee san Lee",
+      "author_url": "https://www.google.com/maps/contrib/107334198937882859344/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL7W9UPCWerz_Ht8dOeJvZtBTfSoxHrEK3eG7p1Cgjb6F3dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479535719,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2446518959518964018",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

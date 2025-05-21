@@ -1,0 +1,44 @@
+{
+  "formatted_address": "5 Koek Rd, Singapore 228796",
+  "geometry": {
+    "location": {
+      "lat": 1.3014711,
+      "lng": 103.8407695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302804830291502,
+        "lng": 103.8421720802915
+      },
+      "southwest": {
+        "lat": 1.300106869708498,
+        "lng": 103.8394741197085
+      }
+    }
+  },
+  "name": "Unplugged Music Lounge Pte. Ltd.",
+  "place_id": "ChIJvWhP75YZ2jERQPgDzKMG6js",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Brigitte Valencia",
+      "author_url": "https://www.google.com/maps/contrib/111391472850338713717/reviews",
+      "language": "es",
+      "original_language": "es",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMKQ_O188XCCPdtEewFv0hSLUg4ukPwqvO3L9LAfVtYl7fqBpzQg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Bueno lo recomiendo",
+      "time": 1571546974,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4317270493360289856",
+  "user_ratings_total": 1,
+  "vicinity": "5 Koek Road"
+}

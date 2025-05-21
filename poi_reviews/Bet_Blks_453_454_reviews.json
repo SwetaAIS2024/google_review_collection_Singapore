@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37211,
+      "lng": 103.957657
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373468780291502,
+        "lng": 103.9590035802915
+      },
+      "southwest": {
+        "lat": 1.370770819708498,
+        "lng": 103.9563056197085
+      }
+    }
+  },
+  "name": "Bet Blks 453/454",
+  "place_id": "ChIJ0RfGnK092jERZ7IBMCHLnfo",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Marcus Teo",
+      "author_url": "https://www.google.com/maps/contrib/106405372878974451557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPOZreDq7Vpg9hcH1Tpl9M96g3lRaAENNzMHy58s9wJaKhLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479983019,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18058813424225333863",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

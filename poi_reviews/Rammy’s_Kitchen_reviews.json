@@ -1,0 +1,30 @@
+{
+  "formatted_address": "70 Bayshore Rd, Singapore 469987",
+  "geometry": {
+    "location": {
+      "lat": 1.311673,
+      "lng": 103.939013
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313119680291502,
+        "lng": 103.9403394302915
+      },
+      "southwest": {
+        "lat": 1.310421719708498,
+        "lng": 103.9376414697085
+      }
+    }
+  },
+  "name": "Rammy’s Kitchen",
+  "place_id": "ChIJY048SiYj2jEROkNTyL9aNgE",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=87357022526456634",
+  "vicinity": "70 Bayshore Road"
+}

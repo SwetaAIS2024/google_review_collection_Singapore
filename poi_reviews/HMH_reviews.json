@@ -1,0 +1,27 @@
+{
+  "formatted_address": "25 Benoi Ln, Singapore 627800",
+  "geometry": {
+    "location": {
+      "lat": 1.304433,
+      "lng": 103.673757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306049280291502,
+        "lng": 103.6751428802915
+      },
+      "southwest": {
+        "lat": 1.303351319708498,
+        "lng": 103.6724449197085
+      }
+    }
+  },
+  "name": "HMH",
+  "place_id": "ChIJGeXceKMF2jERzx5s-IsS-DI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3672705888498228943",
+  "vicinity": "25 Benoi Lane"
+}

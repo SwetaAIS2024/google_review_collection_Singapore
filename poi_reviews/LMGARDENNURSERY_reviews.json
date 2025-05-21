@@ -1,0 +1,44 @@
+{
+  "formatted_address": "432 Geylang Rd, Singapore 389396",
+  "geometry": {
+    "location": {
+      "lat": 1.3129999,
+      "lng": 103.8831296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314354680291502,
+        "lng": 103.8844396302915
+      },
+      "southwest": {
+        "lat": 1.311656719708498,
+        "lng": 103.8817416697085
+      }
+    }
+  },
+  "name": "LMGARDENNURSERY",
+  "place_id": "ChIJG45KPwAZ2jERf7VPEVa_KM8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kavi Murasu",
+      "author_url": "https://www.google.com/maps/contrib/115662794558357727418/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhVoiulSmed1QwAh2OSW2VNyaYcuV6eTHkEJNRfAMkv1F3oQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Grass cutting maintenance work planting work",
+      "time": 1746527612,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14927391341298038143",
+  "user_ratings_total": 1,
+  "vicinity": "432 Geylang Road, Singapore"
+}

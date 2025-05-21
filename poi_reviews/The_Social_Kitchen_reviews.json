@@ -1,0 +1,30 @@
+{
+  "formatted_address": "396 Alexandra Rd, Singapore 119954",
+  "geometry": {
+    "location": {
+      "lat": 1.2783337,
+      "lng": 103.8024276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279746930291502,
+        "lng": 103.8038241302915
+      },
+      "southwest": {
+        "lat": 1.277048969708498,
+        "lng": 103.8011261697085
+      }
+    }
+  },
+  "name": "The Social Kitchen",
+  "place_id": "ChIJ3_nCHwAb2jERWKxYE60rwes",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16987907291772136536",
+  "vicinity": "396 Alexandra Road"
+}

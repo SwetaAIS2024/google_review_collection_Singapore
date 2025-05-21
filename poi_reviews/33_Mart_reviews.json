@@ -1,0 +1,30 @@
+{
+  "formatted_address": "279 Bukit Batok East Ave 3, #01-349, Singapore 650279",
+  "geometry": {
+    "location": {
+      "lat": 1.3478565,
+      "lng": 103.757592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349205380291502,
+        "lng": 103.7589409302915
+      },
+      "southwest": {
+        "lat": 1.346507419708498,
+        "lng": 103.7562429697085
+      }
+    }
+  },
+  "name": "33 Mart",
+  "place_id": "ChIJY4meGv4R2jERowQazxQJM7E",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12768559353504072867",
+  "vicinity": "279 Bukit Batok East Avenue 3, #01-349, Singapore"
+}

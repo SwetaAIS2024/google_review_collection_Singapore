@@ -1,0 +1,73 @@
+{
+  "formatted_address": "3 Temasek Avenue, #30-01 Centennial Tower, Singapore 039190",
+  "geometry": {
+    "location": {
+      "lat": 1.2933415,
+      "lng": 103.8604297
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294891930291502,
+        "lng": 103.8614741802915
+      },
+      "southwest": {
+        "lat": 1.292193969708498,
+        "lng": 103.8587762197085
+      }
+    }
+  },
+  "name": "LGT Bank (Singapore) Ltd.",
+  "place_id": "ChIJOb7HPakZ2jERrhnijIqxDvI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Alice Queck",
+      "author_url": "https://www.google.com/maps/contrib/116721999382689615703/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-spTvmQX-MQwqlNfvNntzYenCHGeDJiw_Ywc9OiJ0VdCaP09B=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1653483597,
+      "translated": false
+    },
+    {
+      "author_name": "Pris",
+      "author_url": "https://www.google.com/maps/contrib/102358349612824655086/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIozJ-XGbmcBmmcap028knXPP5zXtKbVqk7yHTn--NALka5-w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1538014177,
+      "translated": false
+    },
+    {
+      "author_name": "Fan Belinda",
+      "author_url": "https://www.google.com/maps/contrib/107750621870534113096/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6iQzNbjksL-eeTS0hW5IsuYVBEjzFlPVz8X63Jvu_yZhL9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490071506,
+      "translated": false
+    },
+    {
+      "author_name": "kenneth Wong",
+      "author_url": "https://www.google.com/maps/contrib/116209992966291700888/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgQ7YfwU7vGfCc22l_pSeMtJXbcYQj9I-KTOqaRkVRGKucdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1450406975,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17442073615479740846",
+  "user_ratings_total": 4,
+  "vicinity": "3 Temasek Avenue, #30-01 Centennial Tower"
+}

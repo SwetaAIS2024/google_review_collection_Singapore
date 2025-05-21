@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322383,
+      "lng": 103.644798
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323707280291502,
+        "lng": 103.6461230302915
+      },
+      "southwest": {
+        "lat": 1.321009319708498,
+        "lng": 103.6434250697085
+      }
+    }
+  },
+  "name": "3nc S'pore",
+  "place_id": "ChIJyRV8zfsF2jERPbO7KJWHJMk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14493858575488365373",
+  "vicinity": "Singapore"
+}

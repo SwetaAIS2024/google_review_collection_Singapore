@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319755,
+      "lng": 103.744469
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321072480291502,
+        "lng": 103.7458673802915
+      },
+      "southwest": {
+        "lat": 1.318374519708498,
+        "lng": 103.7431694197085
+      }
+    }
+  },
+  "name": "Bef Teban Gdns Rd",
+  "place_id": "ChIJ43JX8aQa2jERmedYgwKLZrc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tan Sze Sze",
+      "author_url": "https://www.google.com/maps/contrib/116441944299900334963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWSVjGtMuR8ghHjjIKOrdguS6ytMRookrzHpDntSaOLq3Vy9sp=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Teban GDns my lovely place",
+      "time": 1598157857,
+      "translated": false
+    },
+    {
+      "author_name": "md. monir 21",
+      "author_url": "https://www.google.com/maps/contrib/102939487088798614994/reviews",
+      "language": "en-US",
+      "original_language": "bn",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUTkiQHGb2jPwnGANuKExmYTywZ5PB_xnjG11CXzXqdxwdqWjs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Take a picture on a special day!",
+      "time": 1623496284,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13215402999475136409",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

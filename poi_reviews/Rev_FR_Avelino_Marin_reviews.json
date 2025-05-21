@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Whitley Rd, Singapore 297832",
+  "geometry": {
+    "location": {
+      "lat": 1.326864,
+      "lng": 103.8409056
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328207430291502,
+        "lng": 103.8422437302915
+      },
+      "southwest": {
+        "lat": 1.325509469708498,
+        "lng": 103.8395457697085
+      }
+    }
+  },
+  "name": "Rev FR Avelino Marin",
+  "place_id": "ChIJPXNJZF8X2jER2TOKRCw6WH4",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9104090608532337625",
+  "vicinity": "5 Whitley Road"
+}

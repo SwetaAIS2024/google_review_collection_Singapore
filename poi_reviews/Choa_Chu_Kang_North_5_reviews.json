@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3923497,
+      "lng": 103.7442697
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393731180291502,
+        "lng": 103.7456257802915
+      },
+      "southwest": {
+        "lat": 1.391033219708498,
+        "lng": 103.7429278197085
+      }
+    }
+  },
+  "name": "Choa Chu Kang North 5",
+  "place_id": "ChIJoVN-I-4R2jERdaxoau2sb5k",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11056245745910328437",
+  "vicinity": "Singapore"
+}

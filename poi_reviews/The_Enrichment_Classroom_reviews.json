@@ -1,0 +1,28 @@
+{
+  "formatted_address": "02-11 Jurong West Street 61, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339095,
+      "lng": 103.6983753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340456680291502,
+        "lng": 103.6997531302915
+      },
+      "southwest": {
+        "lat": 1.337758719708498,
+        "lng": 103.6970551697085
+      }
+    }
+  },
+  "name": "The Enrichment Classroom",
+  "place_id": "ChIJO8aCCpEP2jEReKOv3OYizhs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2003577259166770040",
+  "vicinity": "02-11 Jurong West Street 61"
+}

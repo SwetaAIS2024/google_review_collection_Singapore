@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.343261,
+      "lng": 103.867439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344666480291502,
+        "lng": 103.8688132802915
+      },
+      "southwest": {
+        "lat": 1.341968519708498,
+        "lng": 103.8661153197085
+      }
+    }
+  },
+  "name": "PUB Recreation Club",
+  "place_id": "ChIJU6n-enUX2jER2bBpo1R4R9Y",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Bobbi Wing",
+      "author_url": "https://www.google.com/maps/contrib/110295343352338555419/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo4r6l6L8_u0N58sr8B90tpVvfJqzS6pQM-sMSsiTQW6s-tZv1NQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "A place to chill and have fun.",
+      "time": 1647899890,
+      "translated": false
+    },
+    {
+      "author_name": "j zh",
+      "author_url": "https://www.google.com/maps/contrib/105414447633655355898/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlHOA8wHl80FGYjoHJWIrugw1HOUMbUVEuFxIG45Py8Gz9eA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Cool",
+      "time": 1538274645,
+      "translated": false
+    },
+    {
+      "author_name": "Max Hoe",
+      "author_url": "https://www.google.com/maps/contrib/110141057976693563895/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo8Wz3JIt9GYCu3q3PiIhxGioms1BN-5Ge28Hfe7hdOhdcAQU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642866987,
+      "translated": false
+    },
+    {
+      "author_name": "JONATHAN LIM",
+      "author_url": "https://www.google.com/maps/contrib/116024427792878549128/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg7L7PXBHK9LLeGJPTOITCNo6mWlZu8cOX2U20_6Wl3Yx4lRCgIA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1641285447,
+      "translated": false
+    },
+    {
+      "author_name": "Stanley Wai K N",
+      "author_url": "https://www.google.com/maps/contrib/111705289900917953156/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrxi_JCWG9-7Yoaz0gRCE6cYlxNV5V95hweMuP831h0EJvbw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520065340,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15440442152377233625",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

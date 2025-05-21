@@ -1,0 +1,31 @@
+{
+  "formatted_address": "334 Kreta Ayer Rd, Singapore 080334",
+  "geometry": {
+    "location": {
+      "lat": 1.281699,
+      "lng": 103.842327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283084480291502,
+        "lng": 103.8436151302915
+      },
+      "southwest": {
+        "lat": 1.280386519708498,
+        "lng": 103.8409171697085
+      }
+    }
+  },
+  "name": "Nam Cheong And Company",
+  "place_id": "ChIJYTjOj3IZ2jERrOyJDlOiCAA",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2430277423590572",
+  "vicinity": "334 Kreta Ayer Road, Singapore"
+}

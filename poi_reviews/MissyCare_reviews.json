@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Upper Cross St, Block 34, Singapore 050034",
+  "geometry": {
+    "location": {
+      "lat": 1.2861551,
+      "lng": 103.8422545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287681680291502,
+        "lng": 103.8436641302915
+      },
+      "southwest": {
+        "lat": 1.284983719708498,
+        "lng": 103.8409661697085
+      }
+    }
+  },
+  "name": "MissyCare",
+  "place_id": "ChIJ__9T93QZ2jERA2Lt_wLw6qE",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11667401680331039235",
+  "vicinity": "Upper Cross Street, Block 34"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "131 Devonshire Rd, Singapore 239887",
+  "geometry": {
+    "location": {
+      "lat": 1.2998189,
+      "lng": 103.8361503
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301256880291502,
+        "lng": 103.8375190302915
+      },
+      "southwest": {
+        "lat": 1.298558919708498,
+        "lng": 103.8348210697085
+      }
+    }
+  },
+  "name": "DarkMachine Gallery",
+  "place_id": "ChIJryRW0XIZ2jER_g1zJtWmhrY",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13152383196185431550",
+  "vicinity": "131 Devonshire Road"
+}

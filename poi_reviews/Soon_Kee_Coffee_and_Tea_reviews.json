@@ -1,0 +1,55 @@
+{
+  "formatted_address": "51 Upper Bukit Timah Rd, Singapore 588172",
+  "geometry": {
+    "location": {
+      "lat": 1.3394498,
+      "lng": 103.7760782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340880680291502,
+        "lng": 103.7776019802915
+      },
+      "southwest": {
+        "lat": 1.338182719708498,
+        "lng": 103.7749040197085
+      }
+    }
+  },
+  "name": "Soon Kee Coffee & Tea",
+  "place_id": "ChIJHTZW3IkQ2jERCg1qNPdTmBA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sebastian Tng",
+      "author_url": "https://www.google.com/maps/contrib/105953305744594940229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ50eNzsm8oXQDgS9NmZz9J4gBBQwai3yxKmFhQx5O9Ub2D=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Great hot and cold drinks stall. Coffee and tea are rich in aroma",
+      "time": 1659090947,
+      "translated": false
+    },
+    {
+      "author_name": "C H Peng",
+      "author_url": "https://www.google.com/maps/contrib/110032068013155795763/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxPrH_CBuFGC8b5mYljtnYlLThW9NOpzYhWh8IiItni97n2A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490075190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1195798022268259594",
+  "user_ratings_total": 2,
+  "vicinity": "51 Upper Bukit Timah Road, Singapore"
+}

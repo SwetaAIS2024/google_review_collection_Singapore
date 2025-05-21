@@ -1,0 +1,28 @@
+{
+  "formatted_address": "4 Medical Dr, Singapore 117597",
+  "geometry": {
+    "location": {
+      "lat": 1.2966524,
+      "lng": 103.7821639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297999180291502,
+        "lng": 103.7834909302915
+      },
+      "southwest": {
+        "lat": 1.295301219708498,
+        "lng": 103.7807929697085
+      }
+    }
+  },
+  "name": "Seri-Nuhs Seed Office",
+  "place_id": "ChIJFxet3lAa2jERKTAwlDCNLBI",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1309576831442104361",
+  "vicinity": "4 Medical Drive"
+}

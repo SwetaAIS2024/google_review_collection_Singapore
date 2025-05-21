@@ -1,0 +1,75 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3327866,
+      "lng": 103.8850737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334100480291502,
+        "lng": 103.8864322302915
+      },
+      "southwest": {
+        "lat": 1.331402519708498,
+        "lng": 103.8837342697085
+      }
+    }
+  },
+  "name": "Bef Davidson Rd",
+  "place_id": "ChIJFQNBm44X2jER2EC5ZeGffXY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "This place easy open view coming bus . Near shopping market",
+      "time": 1629361861,
+      "translated": false
+    },
+    {
+      "author_name": "Sylvester Wong",
+      "author_url": "https://www.google.com/maps/contrib/107978197057331861667/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJZM3AjHUCMKQveywkhlO7Rr4USZB5yuBA9NGDYwRfJlEX_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503357348,
+      "translated": false
+    },
+    {
+      "author_name": "Dawn Pang",
+      "author_url": "https://www.google.com/maps/contrib/113499961073955204531/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz1Hm-sBow1bmoE6Mz7Dqg0r8PHtjhfD-T2wknyP4uBfyYVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485422081,
+      "translated": false
+    },
+    {
+      "author_name": "hobbykit Win san",
+      "author_url": "https://www.google.com/maps/contrib/109680354726422254821/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYOHnTAtGQLuMXrEWPEjaYCGYvqaxdIsX01da1yifjE5vFBF8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481448450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8538156258987426008",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340673,
+      "lng": 103.832809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341984980291502,
+        "lng": 103.8341583802915
+      },
+      "southwest": {
+        "lat": 1.339287019708498,
+        "lng": 103.8314604197085
+      }
+    }
+  },
+  "name": "Opp Andrew Rd",
+  "place_id": "ChIJg8ctU08X2jERvw-Rq-0s1bo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kannan SUNDARARAJAN",
+      "author_url": "https://www.google.com/maps/contrib/111257398911719421379/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD1jKzWPkznoRtsq72yP4gfQB8Cg5ikkHML6_Sssm_ViIA34xKyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499924693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13462716060391247807",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

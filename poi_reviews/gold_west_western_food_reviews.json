@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Marine Ter, Singapore 440052",
+  "geometry": {
+    "location": {
+      "lat": 1.3056777,
+      "lng": 103.915581
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307232180291502,
+        "lng": 103.9169020302915
+      },
+      "southwest": {
+        "lat": 1.304534219708498,
+        "lng": 103.9142040697085
+      }
+    }
+  },
+  "name": "gold west western food",
+  "place_id": "ChIJ5aaXGQAj2jERUguzg88vf-8",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17257564865421314898",
+  "vicinity": "Marine Terrace"
+}

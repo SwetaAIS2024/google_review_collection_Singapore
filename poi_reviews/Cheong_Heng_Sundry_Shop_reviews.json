@@ -1,0 +1,30 @@
+{
+  "formatted_address": "194 Kim Keat Ave, Singapore 310194",
+  "geometry": {
+    "location": {
+      "lat": 1.3314141,
+      "lng": 103.8582245
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.332757680291502,
+        "lng": 103.8596327802915
+      },
+      "southwest": {
+        "lat": 1.330059719708498,
+        "lng": 103.8569348197085
+      }
+    }
+  },
+  "name": "Cheong Heng Sundry Shop",
+  "place_id": "ChIJo2CXnnwX2jERCe77kUM6HG0",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7862223111368470025",
+  "vicinity": "194 Kim Keat Avenue, Singapore"
+}

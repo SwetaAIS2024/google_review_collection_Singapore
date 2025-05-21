@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378892,
+      "lng": 103.747627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380291980291502,
+        "lng": 103.7489972802915
+      },
+      "southwest": {
+        "lat": 1.377594019708498,
+        "lng": 103.7462993197085
+      }
+    }
+  },
+  "name": "Palm Gdns",
+  "place_id": "ChIJU8cXSsER2jERf0e1gQgElAA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chen Lanjing",
+      "author_url": "https://www.google.com/maps/contrib/105710136284289985103/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzEGZfiUw2jEcdECGSk_Jp8mTaC__n2pH4C0qcl8RrYYUmFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669156531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=41662731135567743",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

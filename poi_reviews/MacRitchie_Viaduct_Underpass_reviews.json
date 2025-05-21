@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bishan, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3460986,
+      "lng": 103.8383263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347458480291502,
+        "lng": 103.8395307302915
+      },
+      "southwest": {
+        "lat": 1.344760519708498,
+        "lng": 103.8368327697085
+      }
+    }
+  },
+  "name": "MacRitchie Viaduct Underpass",
+  "place_id": "ChIJS3w7HwAX2jERg6GKZvaIcpU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "One way to get to MacRitchie Reservoir Park is to access from Marymount MRT Station, walking along MacRitchie Viaduct then turning into MacRitchie Viaduct Underpass to an access pathway across.",
+      "time": 1733829976,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10768820250859970947",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

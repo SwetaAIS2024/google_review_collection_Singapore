@@ -1,0 +1,29 @@
+{
+  "formatted_address": "80 Barker Rd, Singapore 309937",
+  "geometry": {
+    "location": {
+      "lat": 1.3199349,
+      "lng": 103.8349402
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321101930291502,
+        "lng": 103.8362665302915
+      },
+      "southwest": {
+        "lat": 1.318403969708498,
+        "lng": 103.8335685697085
+      }
+    }
+  },
+  "name": "Ah Boy Café",
+  "place_id": "ChIJlTgT_RkZ2jERG5gu8qoc5NQ",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15340417751263909915",
+  "vicinity": "80 Barker Road"
+}

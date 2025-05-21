@@ -1,0 +1,67 @@
+{
+  "formatted_address": "1 Sengkang Square, #02-05/06 Compass Point, Singapore 545078",
+  "geometry": {
+    "location": {
+      "lat": 1.3924343,
+      "lng": 103.8954118
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393962630291502,
+        "lng": 103.8965937802915
+      },
+      "southwest": {
+        "lat": 1.391264669708498,
+        "lng": 103.8938958197085
+      }
+    }
+  },
+  "name": "DBS ATM - Compass Point Branch",
+  "place_id": "ChIJRfANDVYX2jERp-oPrVq-OQY",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Gabriel Lim",
+      "author_url": "https://www.google.com/maps/contrib/115653562449669638496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLcg6P9RRUIp_fYUP0FuehsJAYcQnXJPbnP1fLJzedXa0cJacYxg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "This bank is a joke, can’t even find a proper branch on google",
+      "time": 1634438514,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Ang",
+      "author_url": "https://www.google.com/maps/contrib/115810028060992112704/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjyRarFp_XPEjK6-o2xQySzQshIlzX9J3E3xqI25r1SUu85w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nice",
+      "time": 1622334448,
+      "translated": false
+    },
+    {
+      "author_name": "Hwee Kuan Tan",
+      "author_url": "https://www.google.com/maps/contrib/111526851160690999500/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8ghXsB5fWj7aMiq-fVxEeKrTvRyAqP2M5tn6bZVBaFA4Z330=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607677927,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=448598934559910567",
+  "user_ratings_total": 3,
+  "vicinity": "1 Sengkang Square, #02-05/06 Compass Point, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.277921,
+      "lng": 103.621643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279274130291502,
+        "lng": 103.6229519802915
+      },
+      "southwest": {
+        "lat": 1.276576169708498,
+        "lng": 103.6202540197085
+      }
+    }
+  },
+  "name": "Bef Tuas Sth Ave 14",
+  "place_id": "ChIJ0zTFApEG2jERcRwmbiwdEbs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ihab murshed",
+      "author_url": "https://www.google.com/maps/contrib/113813084365471906992/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsoXS8V0cajQOKaGgDCMlWTs2MRXVyL_aWB7_zl8jx50HoNyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Westernmost bus stop in mainland singapore",
+      "time": 1668414028,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13479587236360363121",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

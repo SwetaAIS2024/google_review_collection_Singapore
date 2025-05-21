@@ -1,0 +1,55 @@
+{
+  "formatted_address": "130 Joo Seng Rd, #07-01, Singapore 368357",
+  "geometry": {
+    "location": {
+      "lat": 1.3375176,
+      "lng": 103.8829543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338961080291502,
+        "lng": 103.8842401802915
+      },
+      "southwest": {
+        "lat": 1.336263119708498,
+        "lng": 103.8815422197085
+      }
+    }
+  },
+  "name": "Capella Concepts Pte. Ltd.",
+  "place_id": "ChIJxSR0yY8X2jERApdatRYzMD8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "chin han hsiang",
+      "author_url": "https://www.google.com/maps/contrib/112071396201525771120/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfOEWUfXkYnabIxexJpbZUMQKj2TFOYEyZl6hHn8wrKFJbyTw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569168940,
+      "translated": false
+    },
+    {
+      "author_name": "Sana Lateef",
+      "author_url": "https://www.google.com/maps/contrib/114498663135546945748/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuO5fVZdeRXGU7484g_Y3NlTM2g06-5qM-Fl9Y5U6NwJMH-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513367252,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4553195395896481538",
+  "user_ratings_total": 2,
+  "vicinity": "130 Joo Seng Road, #07-01, Singapore"
+}

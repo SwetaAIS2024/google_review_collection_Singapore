@@ -1,0 +1,30 @@
+{
+  "formatted_address": "182 Depot Rd, Singapore 109685",
+  "geometry": {
+    "location": {
+      "lat": 1.2817861,
+      "lng": 103.802763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282960730291502,
+        "lng": 103.8040957302915
+      },
+      "southwest": {
+        "lat": 1.280262769708498,
+        "lng": 103.8013977697085
+      }
+    }
+  },
+  "name": "poh enterprise co",
+  "place_id": "ChIJQcKB1uQb2jERBDcw06RmCs4",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14846791979684083460",
+  "vicinity": "182 Depot Road, Singapore"
+}

@@ -1,0 +1,63 @@
+{
+  "formatted_address": "19 Benoi Rd, Singapore 629909",
+  "geometry": {
+    "location": {
+      "lat": 1.3052014,
+      "lng": 103.6758523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306286330291502,
+        "lng": 103.6773208802915
+      },
+      "southwest": {
+        "lat": 1.303588369708498,
+        "lng": 103.6746229197085
+      }
+    }
+  },
+  "name": "Sigma Cable Co. (Pte) Ltd.",
+  "place_id": "ChIJF8d27KMF2jERR-H_GAA4eUc",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Quang Le",
+      "author_url": "https://www.google.com/maps/contrib/106631682924565950734/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX60T4_FxVBMpWGfbkdaBE2Me7Wpwv0K4nz2WfXz1C_Ad-DcBzz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good cable",
+      "time": 1715745341,
+      "translated": false
+    },
+    {
+      "author_name": "William Kwa",
+      "author_url": "https://www.google.com/maps/contrib/102753841873615829576/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW47ZnQm1dm9VUbYqK1RA5J_7UdV2kmcxbIJDHXVeKF_QN8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744858336,
+      "translated": false
+    },
+    {
+      "author_name": "韓貴成",
+      "author_url": "https://www.google.com/maps/contrib/108559112708811923987/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhSaSsiHKkONhqO1F2c59uRwvVLZGcaaSEICWTyJvVabfraw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719653209,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5150209221945450823",
+  "user_ratings_total": 3,
+  "vicinity": "19 Benoi Road"
+}

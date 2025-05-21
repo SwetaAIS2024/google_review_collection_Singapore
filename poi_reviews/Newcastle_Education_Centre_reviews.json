@@ -1,0 +1,42 @@
+{
+  "formatted_address": "179B Goldhill Centre, 51 Thomson Rd, Singapore 307626",
+  "geometry": {
+    "location": {
+      "lat": 1.3184348,
+      "lng": 103.8432778
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319746830291502,
+        "lng": 103.8445400802915
+      },
+      "southwest": {
+        "lat": 1.317048869708498,
+        "lng": 103.8418421197085
+      }
+    }
+  },
+  "name": "Newcastle Education Centre",
+  "place_id": "ChIJ3ZgglOcZ2jEReTVzvY3CQpA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "kuanwoei ko",
+      "author_url": "https://www.google.com/maps/contrib/101747214923308537487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKx0VoJ9qhCKf6sCqQLQkUvuzZmx1lifbqC-9h4qvyqTywLSD9=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567912058,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10395084803949147513",
+  "user_ratings_total": 1,
+  "vicinity": "179B Goldhill Centre, 51 Thomson Road"
+}

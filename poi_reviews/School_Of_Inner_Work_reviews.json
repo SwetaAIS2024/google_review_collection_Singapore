@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Blk 201 Hougang St 21, #01-15, Singapore 530201",
+  "geometry": {
+    "location": {
+      "lat": 1.3577628,
+      "lng": 103.8836701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359174280291502,
+        "lng": 103.8850786302915
+      },
+      "southwest": {
+        "lat": 1.356476319708498,
+        "lng": 103.8823806697085
+      }
+    }
+  },
+  "name": "School Of Inner Work",
+  "place_id": "ChIJH7dwcbAX2jERxdJH8aLSgK0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Josephine Bok",
+      "author_url": "https://www.google.com/maps/contrib/101916341718379861778/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD9FKFwjEAKyKTpTRakiI8KGIXBD3rxyKZq_jK5ws44tlz4Uc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The GHTS program and workshops have been life changing for me.",
+      "time": 1736246150,
+      "translated": false
+    },
+    {
+      "author_name": "Lum Sit Li",
+      "author_url": "https://www.google.com/maps/contrib/100429232754861777326/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLLNT-jqK9UhccH3MDexuwbtAUnqyOim_ys3xupt_IQLwLJS_RUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1630212634,
+      "translated": false
+    },
+    {
+      "author_name": "Julian Ong",
+      "author_url": "https://www.google.com/maps/contrib/107172388725673807654/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIR44UeVwWK-MUwmry15nI2RMTapu_lZEnCz1z6ig4X6MUYwYg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1629987641,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12502224162855047877",
+  "user_ratings_total": 3,
+  "vicinity": "Blk 201 Hougang Street 21, #01-15, Singapore"
+}

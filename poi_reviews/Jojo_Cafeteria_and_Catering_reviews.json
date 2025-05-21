@@ -1,0 +1,53 @@
+{
+  "formatted_address": "40 Tuas West Rd, Singapore 638389",
+  "geometry": {
+    "location": {
+      "lat": 1.325965,
+      "lng": 103.636794
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327181580291502,
+        "lng": 103.6382863302915
+      },
+      "southwest": {
+        "lat": 1.324483619708498,
+        "lng": 103.6355883697085
+      }
+    }
+  },
+  "name": "Jojo Cafeteria & Catering",
+  "place_id": "ChIJ3S9_2v8F2jERVebykpN3P7s",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Desmond Tan",
+      "author_url": "https://www.google.com/maps/contrib/108181443112628986205/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMxMqselPmmmuC3auVV2Ba3VU9OQ7B-OzjJX1eMw19hJEWBV64=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1684485403,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Rafie",
+      "author_url": "https://www.google.com/maps/contrib/106169232798281414091/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH3AkBHh_KZF241eKwMgDHhQ6IueXWWpwl3kMg68pEnt4OZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1653135847,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13492634484334585429",
+  "user_ratings_total": 2,
+  "vicinity": "40 Tuas West Road"
+}

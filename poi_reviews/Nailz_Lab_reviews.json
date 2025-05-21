@@ -1,0 +1,52 @@
+{
+  "formatted_address": "431 Clementi Ave 3, Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.3138414,
+      "lng": 103.7620792
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315167930291502,
+        "lng": 103.7635630802915
+      },
+      "southwest": {
+        "lat": 1.312469969708498,
+        "lng": 103.7608651197085
+      }
+    }
+  },
+  "name": "Nailz Lab",
+  "place_id": "ChIJ0SCe8I0a2jER3IG4t8GHR00",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rachel Lee",
+      "author_url": "https://www.google.com/maps/contrib/106471293244642517631/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWkfnWrIXaxIZTzzLhTrAapLsglWeLhKiwRvUvWz5lyHi-iVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737110012,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Ong",
+      "author_url": "https://www.google.com/maps/contrib/115124007650296665386/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQZnAtHHPNTdA-twuxcYbQ8MYTF7HzdMnxTqRB2-RJfNyahA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1625143341,
+      "translated": false
+    }
+  ],
+  "types": [
+    "beauty_salon",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5568568730347667932",
+  "user_ratings_total": 2,
+  "vicinity": "431 Clementi Avenue 3"
+}

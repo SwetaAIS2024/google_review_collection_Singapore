@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27579,
+      "lng": 103.8134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277172130291502,
+        "lng": 103.8147628302915
+      },
+      "southwest": {
+        "lat": 1.274474169708498,
+        "lng": 103.8120648697085
+      }
+    }
+  },
+  "name": "Blk 59",
+  "place_id": "ChIJUR_ChNsb2jERysRQtY8EvBA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "John KS Tan",
+      "author_url": "https://www.google.com/maps/contrib/103886874528835554971/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1t5a8DIcN8CMnHIgx6b5W_Laln0sMFIxZSFKjQ3l4uObbrM0VIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Infomative",
+      "time": 1485761585,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1205843815497254090",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

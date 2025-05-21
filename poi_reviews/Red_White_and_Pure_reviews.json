@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2647924,
+      "lng": 103.8221695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266311380291502,
+        "lng": 103.8236299802915
+      },
+      "southwest": {
+        "lat": 1.263613419708498,
+        "lng": 103.8209320197085
+      }
+    }
+  },
+  "name": "Red White and Pure",
+  "place_id": "ChIJq6qqo1gZ2jER7U6wiNfRzdE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15117970247794052845",
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

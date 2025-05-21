@@ -1,0 +1,29 @@
+{
+  "formatted_address": "300 Bishan Rd, Singapore 579828",
+  "geometry": {
+    "location": {
+      "lat": 1.3582615,
+      "lng": 103.8529822
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359553330291502,
+        "lng": 103.8542606302915
+      },
+      "southwest": {
+        "lat": 1.356855369708498,
+        "lng": 103.8515626697085
+      }
+    }
+  },
+  "name": "Smrt Trains Ltd",
+  "place_id": "ChIJET_-mBsX2jER8u65lAwf4DA",
+  "types": [
+    "train_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3521849047499009778",
+  "vicinity": "300 Bishan Road, Singapore"
+}

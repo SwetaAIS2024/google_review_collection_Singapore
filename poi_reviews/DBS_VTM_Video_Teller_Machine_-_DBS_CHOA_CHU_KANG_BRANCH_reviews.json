@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Choa Chu Kang Ave 4, #01-655/659 Block 304, Singapore 680304",
+  "geometry": {
+    "location": {
+      "lat": 1.3844491,
+      "lng": 103.743172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385895380291502,
+        "lng": 103.7445859802915
+      },
+      "southwest": {
+        "lat": 1.383197419708498,
+        "lng": 103.7418880197085
+      }
+    }
+  },
+  "name": "DBS VTM (Video Teller Machine) - DBS CHOA CHU KANG BRANCH",
+  "place_id": "ChIJK75LUEcR2jEReKZP-fdQTx0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Mohan Karuppaya",
+      "author_url": "https://www.google.com/maps/contrib/107708064758874542118/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKlaLXnvLEmlR4hF0l0BcBjsjZdLQCvYQ6qFMBSaLOCMm9bQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "Very slow. Unable to collect to the teller to guide for the new card.",
+      "time": 1745732720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2111995776229942904",
+  "user_ratings_total": 1,
+  "vicinity": "Choa Chu Kang Avenue 4, #01-655/659 Block 304"
+}

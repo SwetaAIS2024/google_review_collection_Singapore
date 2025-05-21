@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.276997,
+      "lng": 103.818047
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278364180291502,
+        "lng": 103.8194333802915
+      },
+      "southwest": {
+        "lat": 1.275666219708498,
+        "lng": 103.8167354197085
+      }
+    }
+  },
+  "name": "Safra Mt Faber",
+  "place_id": "ChIJ2TxbBdkb2jERWc2OE-ouJUE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Robert Li",
+      "author_url": "https://www.google.com/maps/contrib/111733976718276618181/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbWUAQHHwAg7qa3yh8RXBVh0jD41iDl7wZZqwKI5gjD4rPz5yj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Family type",
+      "time": 1676960578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4694209769488960857",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

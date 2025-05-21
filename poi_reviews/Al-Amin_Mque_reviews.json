@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.275682,
+      "lng": 103.819145
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277053530291502,
+        "lng": 103.8205108802915
+      },
+      "southwest": {
+        "lat": 1.274355569708498,
+        "lng": 103.8178129197085
+      }
+    }
+  },
+  "name": "Al-Amin Mque",
+  "place_id": "ChIJM4LG0Ngb2jER0LqJAoHqydg",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15621274622325537488",
+  "vicinity": "Singapore"
+}

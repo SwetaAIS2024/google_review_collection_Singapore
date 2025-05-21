@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319002,
+      "lng": 103.679146
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320414680291502,
+        "lng": 103.6804527802915
+      },
+      "southwest": {
+        "lat": 1.317716719708498,
+        "lng": 103.6777548197085
+      }
+    }
+  },
+  "name": "Aft Benoi Sector",
+  "place_id": "ChIJc0E-I4MF2jERa86hcIHFiRI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1335815924223168107",
+  "vicinity": "Singapore"
+}

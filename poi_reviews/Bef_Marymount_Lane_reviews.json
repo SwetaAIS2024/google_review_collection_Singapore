@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3454217,
+      "lng": 103.8388739
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346767380291502,
+        "lng": 103.8402727802915
+      },
+      "southwest": {
+        "lat": 1.344069419708498,
+        "lng": 103.8375748197085
+      }
+    }
+  },
+  "name": "Bef Marymount Lane",
+  "place_id": "ChIJXakQqzgX2jERegxg1fLGq6o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12298141953729498234",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "213 Jurong East Street 21, Singapore 600213",
+  "geometry": {
+    "location": {
+      "lat": 1.3390206,
+      "lng": 103.7397471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340262080291502,
+        "lng": 103.7409780302915
+      },
+      "southwest": {
+        "lat": 1.337564119708498,
+        "lng": 103.7382800697085
+      }
+    }
+  },
+  "name": "Watchwagon Enterprise",
+  "place_id": "ChIJb5QP9zoR2jERqQQ1LkbxCNU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "G Loh",
+      "author_url": "https://www.google.com/maps/contrib/103860429953232029367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmeOSk77LkkingomEKYfPUqq3ySRm-tnNDFokaWtWsA66Mcy_Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Reliable and trusted!",
+      "time": 1573535206,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15350784613617566889",
+  "user_ratings_total": 1,
+  "vicinity": "213 Jurong East Street 21, Singapore"
+}

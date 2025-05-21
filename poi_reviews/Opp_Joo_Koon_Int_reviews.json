@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326413,
+      "lng": 103.679471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327767930291502,
+        "lng": 103.6807562302915
+      },
+      "southwest": {
+        "lat": 1.325069969708498,
+        "lng": 103.6780582697085
+      }
+    }
+  },
+  "name": "Opp Joo Koon Int",
+  "place_id": "ChIJC8CHi4AF2jERtW75ZLprdZA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10409344562038927029",
+  "vicinity": "Singapore"
+}

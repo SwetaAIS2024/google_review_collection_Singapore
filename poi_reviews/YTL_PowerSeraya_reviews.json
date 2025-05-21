@@ -1,0 +1,53 @@
+{
+  "formatted_address": "3 Seraya Ave, Singapore 628209",
+  "geometry": {
+    "location": {
+      "lat": 1.2833025,
+      "lng": 103.7265588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284656580291502,
+        "lng": 103.7279125302915
+      },
+      "southwest": {
+        "lat": 1.281958619708498,
+        "lng": 103.7252145697085
+      }
+    }
+  },
+  "name": "YTL PowerSeraya",
+  "place_id": "ChIJdW3rUEUF2jERPXz8_Ts7AOE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zainn “Dinn” Ismel",
+      "author_url": "https://www.google.com/maps/contrib/102335792915493954124/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX8lygdKUJBDqcTu178840A0krQIx8qoZEbKxfJCel_zrg_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Csv",
+      "time": 1696922660,
+      "translated": false
+    },
+    {
+      "author_name": "RAJA R",
+      "author_url": "https://www.google.com/maps/contrib/101655001021668640666/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkhe-DfgWW3FOzkZ1Dz_GjOtoLBMllYCFJ_-lbTx2t1ryjVBgG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698107110,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16213023787384077373",
+  "user_ratings_total": 2,
+  "vicinity": "3 Seraya Avenue, Singapore"
+}

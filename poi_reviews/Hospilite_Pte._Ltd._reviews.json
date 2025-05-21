@@ -1,0 +1,30 @@
+{
+  "formatted_address": "211 Henderson Rd, Singapore 159552",
+  "geometry": {
+    "location": {
+      "lat": 1.2820206,
+      "lng": 103.8195886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283454480291502,
+        "lng": 103.8208327802915
+      },
+      "southwest": {
+        "lat": 1.280756519708498,
+        "lng": 103.8181348197085
+      }
+    }
+  },
+  "name": "Hospilite Pte. Ltd.",
+  "place_id": "ChIJ-SowS9Yb2jEREK_bRZ4wMfk",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17956186645637869328",
+  "vicinity": "211 Henderson Road, Singapore"
+}

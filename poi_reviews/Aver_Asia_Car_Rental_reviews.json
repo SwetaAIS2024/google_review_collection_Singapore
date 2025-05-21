@@ -1,0 +1,64 @@
+{
+  "formatted_address": "13 Tuas Ave 14, Singapore 638953",
+  "geometry": {
+    "location": {
+      "lat": 1.3186643,
+      "lng": 103.6457364
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320106680291502,
+        "lng": 103.6469846302915
+      },
+      "southwest": {
+        "lat": 1.317408719708498,
+        "lng": 103.6442866697085
+      }
+    }
+  },
+  "name": "Aver Asia Car Rental",
+  "place_id": "ChIJVXCnzfoF2jER0OGKH_fszW4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Vivian Anak Seliyong",
+      "author_url": "https://www.google.com/maps/contrib/109551403595355098691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6PY8X8kmYfYGjtwlSXWOOHQucGtaaD-CilqR8Fen8gAmciF5z=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Private bus transportation",
+      "time": 1546363002,
+      "translated": false
+    },
+    {
+      "author_name": "Yoga Yoga",
+      "author_url": "https://www.google.com/maps/contrib/117695015203432941604/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC0wk2FCi9JZBd-rnzQrYZ1AA8CFZO0FZiWdq5eCkQCZdu6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695169230,
+      "translated": false
+    },
+    {
+      "author_name": "Rofe el betcaco",
+      "author_url": "https://www.google.com/maps/contrib/100906402895787392340/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUax_PvYncq2E-ov6NQNoEhtrWKLJWLkudDu_ToRw80EMviyME=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572449120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_rental",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7984298260528030160",
+  "user_ratings_total": 3,
+  "vicinity": "13 Tuas Avenue 14, Singapore"
+}

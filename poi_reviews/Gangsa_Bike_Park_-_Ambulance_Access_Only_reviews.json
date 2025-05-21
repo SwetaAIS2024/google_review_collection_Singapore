@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375507,
+      "lng": 103.7775633
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376916730291502,
+        "lng": 103.7783365
+      },
+      "southwest": {
+        "lat": 1.374218769708498,
+        "lng": 103.7752561
+      }
+    }
+  },
+  "name": "Gangsa Bike Park - Ambulance Access Only",
+  "place_id": "ChIJs0AsLIgR2jERrOBBCNoKBDc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Maadesh Kumar",
+      "author_url": "https://www.google.com/maps/contrib/112962334397482489644/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICewCrrvGrm6jBdO3kjNo-CWmnf0NrGwmi3-g7uQ8EX0t48Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1625224472,
+      "translated": false
+    },
+    {
+      "author_name": "Kuc Ing",
+      "author_url": "https://www.google.com/maps/contrib/105848146445562031938/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8y-p0ujTfO0kYN8q6WeUDj1fqdaNdT6fnjOS-B29wmybl2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599834046,
+      "translated": false
+    }
+  ],
+  "types": [
+    "gym",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3964305503550562476",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

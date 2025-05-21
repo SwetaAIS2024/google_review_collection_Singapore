@@ -1,0 +1,64 @@
+{
+  "formatted_address": "83 Clemenceau Ave, Level 2, Singapore 239920",
+  "geometry": {
+    "location": {
+      "lat": 1.2929332,
+      "lng": 103.8429565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294325530291502,
+        "lng": 103.8442314302915
+      },
+      "southwest": {
+        "lat": 1.291627569708498,
+        "lng": 103.8415334697085
+      }
+    }
+  },
+  "name": "IE University - Singapore Office",
+  "place_id": "ChIJ_VPsxA0Z2jERk7VT8JY496E",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Dirk Hopfl",
+      "author_url": "https://www.google.com/maps/contrib/116706622165670693697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt8pdupLgLknwP5o2eH12I1e5w_BU4ian0Yh3h7Rt4xYP0auY12w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "This is the regional office of IE University / IE Business School. Get all your information if you plan to study at the leading European education institution.",
+      "time": 1563174527,
+      "translated": false
+    },
+    {
+      "author_name": "Al Mu",
+      "author_url": "https://www.google.com/maps/contrib/110141449308034305047/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLimHMCe5AkcXzth3SJSw5oPaRcjFCOq9VI_ay4YjR5DuQz1g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561811378,
+      "translated": false
+    },
+    {
+      "author_name": "Eugene George",
+      "author_url": "https://www.google.com/maps/contrib/104295691674673573796/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7O-KH8Ceo_6A1g2oh7XSzqrt-w4jmlXfzjE1gOU5LGceVqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527531180,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11670859180282197395",
+  "user_ratings_total": 3,
+  "vicinity": "83 Clemenceau Avenue, Level 2"
+}

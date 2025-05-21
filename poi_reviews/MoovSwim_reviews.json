@@ -1,0 +1,28 @@
+{
+  "formatted_address": "238 Balestier Rd, #05-01, Singapore 329701",
+  "geometry": {
+    "location": {
+      "lat": 1.3217522,
+      "lng": 103.8533546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323049180291502,
+        "lng": 103.8547077302915
+      },
+      "southwest": {
+        "lat": 1.320351219708498,
+        "lng": 103.8520097697085
+      }
+    }
+  },
+  "name": "MoovSwim",
+  "place_id": "ChIJ2SAM1dsZ2jERJt0GzsKXpaU",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11936113250351373606",
+  "vicinity": "238 Balestier Road, #05-01"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Choa Chu Kang Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3986906,
+      "lng": 103.7479295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400016680291502,
+        "lng": 103.7492318302915
+      },
+      "southwest": {
+        "lat": 1.397318719708498,
+        "lng": 103.7465338697085
+      }
+    }
+  },
+  "name": "Heritage Plaza",
+  "place_id": "ChIJUarWGAAR2jER4MMROoOCByo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ahjussi Tan",
+      "author_url": "https://www.google.com/maps/contrib/108191729542715032234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8u2FWLJv8Idwk9Q5TuDg9FpOK6aIB8Gi6n8xYESvjZrpFNCuT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Get to know the history of Yew Tee, nice place to visit and relax 👍",
+      "time": 1746319906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3028532774556517344",
+  "user_ratings_total": 1,
+  "vicinity": "Choa Chu Kang Drive"
+}

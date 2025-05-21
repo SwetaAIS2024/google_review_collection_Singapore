@@ -1,0 +1,54 @@
+{
+  "formatted_address": "66 Namly Pl, Singapore 267211",
+  "geometry": {
+    "location": {
+      "lat": 1.3239943,
+      "lng": 103.7967618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325337480291502,
+        "lng": 103.7980865302915
+      },
+      "southwest": {
+        "lat": 1.322639519708498,
+        "lng": 103.7953885697085
+      }
+    }
+  },
+  "name": "Les Oliviers French/English Montessori",
+  "place_id": "ChIJRZ6l7ecZ2jERQCc0_o4FYlQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nada Bennani",
+      "author_url": "https://www.google.com/maps/contrib/101598724360604538250/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURk6rdPTqXDYpN-OTqbExGGKEskInYhW8fxZ94mddhNtV8XRNN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This is a fantastic school, I’m so glad it was my daughter’s first school, the staff are so caring and bienveillants, and the kids are learning in a nice and peaceful atmosphere. This place is a little gem. I highly recommend it !",
+      "time": 1693920003,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Allard",
+      "author_url": "https://www.google.com/maps/contrib/101396708171439780300/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjE2exzD6b8RehzOQ3-9QJPNFscQUBl15zdLW7WP4so-th1lBENA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710142546,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6080428558611916608",
+  "user_ratings_total": 2,
+  "vicinity": "66 Namly Place, Singapore"
+}

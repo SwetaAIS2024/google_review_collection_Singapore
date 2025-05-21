@@ -1,0 +1,63 @@
+{
+  "formatted_address": "750C Chai Chee Rd, #04-09 to 12, Singapore 469003",
+  "geometry": {
+    "location": {
+      "lat": 1.3234362,
+      "lng": 103.92074
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324864580291502,
+        "lng": 103.9221047802915
+      },
+      "southwest": {
+        "lat": 1.322166619708498,
+        "lng": 103.9194068197085
+      }
+    }
+  },
+  "name": "Kiteworks Pte Ltd",
+  "place_id": "ChIJC1QJRawi2jERl_awvprtEqk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rama Rathnam",
+      "author_url": "https://www.google.com/maps/contrib/116824700646689039358/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk3oB9rRuAAJsKi3mxUhorIUH06dcjuACwZ3_TktJUZGUIs7B2=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Security product development",
+      "time": 1560313629,
+      "translated": false
+    },
+    {
+      "author_name": "anusha yerra",
+      "author_url": "https://www.google.com/maps/contrib/107106656119290079950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnpfHnRY5YaeP8NQ6u8O1vfItC0WOQ5Be9jg9IfG5ONmZ70y9m=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1680560973,
+      "translated": false
+    },
+    {
+      "author_name": "Elfan Nofiari",
+      "author_url": "https://www.google.com/maps/contrib/100545046864987097950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOi5q9cAfN3HcQ6G9ZBUtlw6vYiQf2LNZG23EGoBzWprHOig=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510011059,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12183061190870627991",
+  "user_ratings_total": 3,
+  "vicinity": "750C Chai Chee Road, #04-09 to 12, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3004194,
+      "lng": 103.6934646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302077180291502,
+        "lng": 103.6942913802915
+      },
+      "southwest": {
+        "lat": 1.299379219708498,
+        "lng": 103.6915934197085
+      }
+    }
+  },
+  "name": "Tanjong Sekunyit",
+  "place_id": "ChIJGaqVAgMF2jERMBws-lpmxc4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mithun Das",
+      "author_url": "https://www.google.com/maps/contrib/101698845696142942685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHHxho-rtFDqnoXIOHjnL9xSrrjl7ggVw-Ez6FRn5EyB0x_Lc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738223116,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14899427483155438640",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

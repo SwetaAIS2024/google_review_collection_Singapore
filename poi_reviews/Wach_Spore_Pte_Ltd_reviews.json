@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2820861,
+      "lng": 103.8120825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283340280291502,
+        "lng": 103.8134181802915
+      },
+      "southwest": {
+        "lat": 1.280642319708498,
+        "lng": 103.8107202197085
+      }
+    }
+  },
+  "name": "Wach S'pore Pte Ltd",
+  "place_id": "ChIJ7dw8s9Eb2jERBp1EY7Qb2Is",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10076834627814989062",
+  "vicinity": "Singapore"
+}

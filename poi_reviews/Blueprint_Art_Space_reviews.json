@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1 Commonwealth Ln, #04-28 One Commonwealth, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044917,
+      "lng": 103.7967223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305763330291502,
+        "lng": 103.7980176302915
+      },
+      "southwest": {
+        "lat": 1.303065369708498,
+        "lng": 103.7953196697085
+      }
+    }
+  },
+  "name": "Blueprint Art Space",
+  "place_id": "ChIJsVg-MAAb2jERiqBGMwnc_L0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jessica Chang",
+      "author_url": "https://www.google.com/maps/contrib/115989662051683374656/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-tYvT1c_xV6NKfIovdJbyryG89lWb2Z65W3aDKLoEGbTf5w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Wonderful gem of a place. Worth checking out for gatherings and exhibitions",
+      "time": 1736908409,
+      "translated": false
+    },
+    {
+      "author_name": "Ernest Goh",
+      "author_url": "https://www.google.com/maps/contrib/103332744967699775102/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ5nzGkADAkVyNNKk-mFWj4g9LW3BngXnyezrZPXSRNG_-0kF0Rg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "A cosy and elegant gallery space ✨",
+      "time": 1736130424,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13690058899372548234",
+  "user_ratings_total": 2,
+  "vicinity": "1 Commonwealth Lane, #04-28 One Commonwealth"
+}

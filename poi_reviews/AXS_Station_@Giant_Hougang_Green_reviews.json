@@ -1,0 +1,65 @@
+{
+  "formatted_address": "21 Hougang St 51, Singapore 538719",
+  "geometry": {
+    "location": {
+      "lat": 1.3796107,
+      "lng": 103.8879938
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381095330291502,
+        "lng": 103.8894661802915
+      },
+      "southwest": {
+        "lat": 1.378397369708498,
+        "lng": 103.8867682197085
+      }
+    }
+  },
+  "name": "AXS Station @Giant Hougang Green",
+  "place_id": "ChIJHX5sHUEW2jERFDScJtfiX1M",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Carl Ranido",
+      "author_url": "https://www.google.com/maps/contrib/100374876399092373236/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0qawEY5vcABIufYJFVhK7bMfKBEWV2n915iA2nyep_aTc3rwq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "KEYBOARD NOT WORKING!",
+      "time": 1540952008,
+      "translated": false
+    },
+    {
+      "author_name": "斌舞",
+      "author_url": "https://www.google.com/maps/contrib/114917867241997044166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxtaPJrIkguE0342YLkYDxqNN9pAD9f9YgILXeUYP9PpEumA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732929672,
+      "translated": false
+    },
+    {
+      "author_name": "胡鑫",
+      "author_url": "https://www.google.com/maps/contrib/103385040026281227840/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmzhn7lfP9hU9WIV1ItaUN3hrp7hVB2WTSHPUPn0GXgGQEZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564309640,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6007769841629148180",
+  "user_ratings_total": 3,
+  "vicinity": "21 Hougang Street 51"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3176295,
+      "lng": 103.8794996
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318948480291502,
+        "lng": 103.8807522302915
+      },
+      "southwest": {
+        "lat": 1.316250519708498,
+        "lng": 103.8780542697085
+      }
+    }
+  },
+  "name": "廈門茶行",
+  "place_id": "ChIJ3-zp9y8Y2jERUufVOJVonD0",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4439538322793424722",
+  "vicinity": "Singapore"
+}

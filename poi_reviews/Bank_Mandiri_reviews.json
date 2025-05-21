@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Marina View, #19-02, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2793119,
+      "lng": 103.8522482
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280660880291502,
+        "lng": 103.8535971802915
+      },
+      "southwest": {
+        "lat": 1.277962919708498,
+        "lng": 103.8508992197085
+      }
+    }
+  },
+  "name": "Bank Mandiri",
+  "place_id": "ChIJcyAxkBEZ2jERHKdaG5Ese5k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mimie Dubeis",
+      "author_url": "https://www.google.com/maps/contrib/101159850489467726069/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjJ1ebp3UIXyzHSR2Av0rj_0Vs-Uiuw-Sj0MAzjOVNQoBXfbWd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636033280,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11059482311679190812",
+  "user_ratings_total": 1,
+  "vicinity": "Marina View, #19-02"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "257 Bangkit Rd, Singapore 670257",
+  "geometry": {
+    "location": {
+      "lat": 1.3787218,
+      "lng": 103.7733931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380146380291502,
+        "lng": 103.7747674302915
+      },
+      "southwest": {
+        "lat": 1.377448419708498,
+        "lng": 103.7720694697085
+      }
+    }
+  },
+  "name": "Pacific Vege Rice Porridge",
+  "place_id": "ChIJDTAAcgAR2jERizkzySJCOoY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "K",
+      "author_url": "https://www.google.com/maps/contrib/109386738253826668143/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGOypE8BX3rYt3aeZ9gufnt20YaM4auJHxCogr91MX8FQ-YQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "What's great?\nUncle is friendly and fast. Dishes taste great,  kept neat and warm.\n\nWhat's to improve?\n-",
+      "time": 1736727413,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9672115866903460235",
+  "user_ratings_total": 1,
+  "vicinity": "257 Bangkit Road"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "9003 Tampines Street 93, Singapore 528837",
+  "geometry": {
+    "location": {
+      "lat": 1.3399201,
+      "lng": 103.9409432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341282680291502,
+        "lng": 103.9422237802915
+      },
+      "southwest": {
+        "lat": 1.338584719708498,
+        "lng": 103.9395258197085
+      }
+    }
+  },
+  "name": "Chin Signcraft",
+  "place_id": "ChIJ____tz492jERzP_ayWrJdFc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "fizzi fizz",
+      "author_url": "https://www.google.com/maps/contrib/109407034624894766219/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdFCvjPyuTPPC2AB7bp2jHYkapBc4E4pfRPS3D8PKMq0O_NQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Slow service",
+      "time": 1679382152,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6301883239088455628",
+  "user_ratings_total": 1,
+  "vicinity": "9003 Tampines Street 93"
+}

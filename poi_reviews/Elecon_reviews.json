@@ -1,0 +1,28 @@
+{
+  "formatted_address": "21 Bukit Batok Cres, Singapore 658065",
+  "geometry": {
+    "location": {
+      "lat": 1.3371646,
+      "lng": 103.7596981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338626880291502,
+        "lng": 103.7610632302915
+      },
+      "southwest": {
+        "lat": 1.335928919708498,
+        "lng": 103.7583652697085
+      }
+    }
+  },
+  "name": "Elecon",
+  "place_id": "ChIJAfVZI24Q2jEREgbgW4CpCyA",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2309125602719827474",
+  "vicinity": "21 Bukit Batok Crescent"
+}

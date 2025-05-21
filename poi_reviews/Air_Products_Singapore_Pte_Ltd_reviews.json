@@ -1,0 +1,27 @@
+{
+  "formatted_address": "41 Sakra Ave, Singapore 627875",
+  "geometry": {
+    "location": {
+      "lat": 1.2589943,
+      "lng": 103.702978
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.260415680291502,
+        "lng": 103.7043895302915
+      },
+      "southwest": {
+        "lat": 1.257717719708498,
+        "lng": 103.7016915697085
+      }
+    }
+  },
+  "name": "Air Products Singapore Pte Ltd",
+  "place_id": "ChIJhRIiA5kE2jERho7unJTbAqM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11746192209470197382",
+  "vicinity": "41 Sakra Avenue"
+}

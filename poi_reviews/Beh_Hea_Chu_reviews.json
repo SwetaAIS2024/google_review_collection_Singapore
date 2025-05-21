@@ -1,0 +1,29 @@
+{
+  "formatted_address": "HDB Tampines #01-104, 419 Tampines Street 41 (S)520419, Singapore 520419",
+  "geometry": {
+    "location": {
+      "lat": 1.3582652,
+      "lng": 103.9467122
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359426830291502,
+        "lng": 103.9481111802915
+      },
+      "southwest": {
+        "lat": 1.356728869708498,
+        "lng": 103.9454132197085
+      }
+    }
+  },
+  "name": "Beh Hea Chu",
+  "place_id": "ChIJp_IAJg892jER9_Lzr8RkuHU",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8482640694080697079",
+  "vicinity": "HDB Tampines #01-104, 419 Tampines Street 41 (S)520419"
+}

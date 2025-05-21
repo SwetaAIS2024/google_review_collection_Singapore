@@ -1,0 +1,55 @@
+{
+  "formatted_address": "321 Geylang Rd, Singapore 389358",
+  "geometry": {
+    "location": {
+      "lat": 1.3127978,
+      "lng": 103.8791827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314052180291502,
+        "lng": 103.8805493802915
+      },
+      "southwest": {
+        "lat": 1.311354219708498,
+        "lng": 103.8778514197085
+      }
+    }
+  },
+  "name": "Lee He Trading",
+  "place_id": "ChIJ73zUkwkZ2jERqiVT6P7Na-A",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "WenHao Li",
+      "author_url": "https://www.google.com/maps/contrib/110430447576201653928/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4eC6TlVuI5dY9xZNf_X8wBIOtx9BvR8seLFd3qb4_q9iRww=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712808475,
+      "translated": false
+    },
+    {
+      "author_name": "qianhu ricohscan",
+      "author_url": "https://www.google.com/maps/contrib/100099838909750363170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ_AJQFQDODMyD8yw2WJKxfJG1YEfGCPD-2DaHfMKQDrcwydw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707873381,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16171245381707048362",
+  "user_ratings_total": 2,
+  "vicinity": "321 Geylang Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3171398,
+      "lng": 103.8792197
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318524980291502,
+        "lng": 103.8808957302915
+      },
+      "southwest": {
+        "lat": 1.315827019708498,
+        "lng": 103.8781977697085
+      }
+    }
+  },
+  "name": "Ah Lau Cantonese Cuisine",
+  "place_id": "ChIJqeQr_C8Y2jER_60iZXVJa1I",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5938921302174903807",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "260 Kim Keat Ave, Singapore 310260",
+  "geometry": {
+    "location": {
+      "lat": 1.3321062,
+      "lng": 103.8574783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333318480291502,
+        "lng": 103.8587654802915
+      },
+      "southwest": {
+        "lat": 1.330620519708498,
+        "lng": 103.8560675197085
+      }
+    }
+  },
+  "name": "DBS ATM - Kim Keat Avenue",
+  "place_id": "ChIJ45FbAj0X2jERLYKMhdAnk6o",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12291211584571474477",
+  "vicinity": "260 Kim Keat Avenue, Singapore"
+}

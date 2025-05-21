@@ -1,0 +1,54 @@
+{
+  "formatted_address": "8 Science Drive 2, Singapore 117547",
+  "geometry": {
+    "location": {
+      "lat": 1.2956487,
+      "lng": 103.7788592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297122380291502,
+        "lng": 103.7800653802915
+      },
+      "southwest": {
+        "lat": 1.294424419708498,
+        "lng": 103.7773674197085
+      }
+    }
+  },
+  "name": "LT20",
+  "place_id": "ChIJE-IhwFYa2jER6Vmp21kgiuA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Tris Chow",
+      "author_url": "https://www.google.com/maps/contrib/115845279664927149582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKAC1liY7RKCGA6W-jICUHcGWoSn9pJn5cD3f4PfRG9CP8-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Suuuuuuuper hard to find",
+      "time": 1665041870,
+      "translated": false
+    },
+    {
+      "author_name": "Damari Hernández",
+      "author_url": "https://www.google.com/maps/contrib/104427737611299414875/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlguZBu7UumqA5q_B-xskGrz3hG3aK3lF69U-LMria6_5xGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572535896,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16179780181591415273",
+  "user_ratings_total": 2,
+  "vicinity": "8 Science Drive 2"
+}

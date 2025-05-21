@@ -1,0 +1,52 @@
+{
+  "formatted_address": "1500 ECP, Singapore 468963",
+  "geometry": {
+    "location": {
+      "lat": 1.3147397,
+      "lng": 103.9620298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316106280291502,
+        "lng": 103.9631378802915
+      },
+      "southwest": {
+        "lat": 1.313408319708498,
+        "lng": 103.9604399197085
+      }
+    }
+  },
+  "name": "Pit 78",
+  "place_id": "ChIJT7sXBgAj2jERkb9sZSqZIPk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "EBNA NAHID RAZA",
+      "author_url": "https://www.google.com/maps/contrib/114026934049709029816/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU0viKnW-sbSRNM4fUBy-cMswodqQTZ5uucVpQoQzcwEoCtVl2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746025804,
+      "translated": false
+    },
+    {
+      "author_name": "Kateryna I. Mazurenko",
+      "author_url": "https://www.google.com/maps/contrib/102814174310653024681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWltgkxm6Nci4hKajXcPIOhzSSEGkDlY9FN9UpJs9NlA4r9hRVJ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719838962,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17951516522068098961",
+  "user_ratings_total": 2,
+  "vicinity": "1500 East Coast Parkway, Singapore"
+}

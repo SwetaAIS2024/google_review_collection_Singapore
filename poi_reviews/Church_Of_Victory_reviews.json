@@ -1,0 +1,29 @@
+{
+  "formatted_address": "114 Lavender St, Singapore 338729, Singapore 338729",
+  "geometry": {
+    "location": {
+      "lat": 1.3116418,
+      "lng": 103.8632944
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313219830291502,
+        "lng": 103.8647305802915
+      },
+      "southwest": {
+        "lat": 1.310521869708498,
+        "lng": 103.8620326197085
+      }
+    }
+  },
+  "name": "Church Of Victory",
+  "place_id": "ChIJy3kq7MsZ2jERYl0G1MO6OlM",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5997311204035812706",
+  "vicinity": "114 Lavender St, Singapore 338729"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "6 Changi Business Park Ave 1, Singapore 486017",
+  "geometry": {
+    "location": {
+      "lat": 1.3351421,
+      "lng": 103.9635818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336362280291502,
+        "lng": 103.9648432302915
+      },
+      "southwest": {
+        "lat": 1.333664319708498,
+        "lng": 103.9621452697085
+      }
+    }
+  },
+  "name": "BT Wang",
+  "place_id": "ChIJY-9CgNc82jERtoL5196tCOY",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Teng Li Lim",
+      "author_url": "https://www.google.com/maps/contrib/118264845805198192532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMJ9IHCtHnHQ7vv-7ui5IMzN9Jj_8yBB1HZREA3OpCM-2sww=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Waited an hour for my food, don’t eat here if you have no time.",
+      "time": 1670974020,
+      "translated": false
+    },
+    {
+      "author_name": "Clarence Thian",
+      "author_url": "https://www.google.com/maps/contrib/101928973350840422742/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAbS61Qz4uf4awlgjLWWZtu4EWLYuB9NH6xIvIcAehDreSYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530452352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16575689601154908854",
+  "user_ratings_total": 2,
+  "vicinity": "6 Changi Business Park Avenue 1, Singapore"
+}

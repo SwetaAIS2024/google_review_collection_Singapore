@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2959285,
+      "lng": 103.8362418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297210280291502,
+        "lng": 103.8375765802915
+      },
+      "southwest": {
+        "lat": 1.294512319708498,
+        "lng": 103.8348786197085
+      }
+    }
+  },
+  "name": "St. Thomas Wk",
+  "place_id": "ChIJ8TI6qpsZ2jERUIkv1oa0IJI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "aidan ng",
+      "author_url": "https://www.google.com/maps/contrib/109850698342394676948/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtPqd_55XKOPaKJuoCNxC99O3hhct6WUQmrxxKpjpRCKngAA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Average normal bus stop, near to many condos.",
+      "time": 1679749448,
+      "translated": false
+    },
+    {
+      "author_name": "Ollivianna Gilingan",
+      "author_url": "https://www.google.com/maps/contrib/115309935180696543576/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD8J2w-U-qtaOU0_Xa07GuyFpefaqfixGFWAfXc2tIbvnZNA3_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513743145,
+      "translated": false
+    },
+    {
+      "author_name": "孟维琛",
+      "author_url": "https://www.google.com/maps/contrib/104847495605487373000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs3sytLl1jOYIsxMOR6L_N3b0_HroqKDted2bnCBON70lnjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507390512,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10529614420004276560",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Little Rd, Singapore 536986",
+  "geometry": {
+    "location": {
+      "lat": 1.3384145,
+      "lng": 103.885484
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339738680291502,
+        "lng": 103.8868381802915
+      },
+      "southwest": {
+        "lat": 1.337040719708498,
+        "lng": 103.8841402197085
+      }
+    }
+  },
+  "name": "HAOS Gourmet",
+  "place_id": "ChIJYy4rY5EX2jERTugsu2E-zfM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17567766310915205198",
+  "vicinity": "Little Road, Singapore"
+}

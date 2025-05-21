@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Unity St, Singapore 237995",
+  "geometry": {
+    "location": {
+      "lat": 1.2919896,
+      "lng": 103.8416883
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293435080291502,
+        "lng": 103.8431016802915
+      },
+      "southwest": {
+        "lat": 1.290737119708498,
+        "lng": 103.8404037197085
+      }
+    }
+  },
+  "name": "Responsive Multipurpose HTML Template",
+  "place_id": "ChIJVVXF_J4Z2jERfnODgpfJA6s",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12322914657982706558",
+  "vicinity": "11 Unity Street"
+}

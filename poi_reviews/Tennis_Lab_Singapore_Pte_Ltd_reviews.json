@@ -1,0 +1,29 @@
+{
+  "formatted_address": "151 Stevens Rd, Singapore 257872",
+  "geometry": {
+    "location": {
+      "lat": 1.3201099,
+      "lng": 103.8250674
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321459180291502,
+        "lng": 103.8264630302915
+      },
+      "southwest": {
+        "lat": 1.318761219708498,
+        "lng": 103.8237650697085
+      }
+    }
+  },
+  "name": "Tennis Lab Singapore Pte Ltd",
+  "place_id": "ChIJI3MEBQUZ2jERjXr9apqSpEM",
+  "types": [
+    "point_of_interest",
+    "health",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4874181888639335053",
+  "vicinity": "151 Stevens Road"
+}

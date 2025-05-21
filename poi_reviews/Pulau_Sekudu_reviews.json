@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4040381,
+      "lng": 103.9879319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.40827305,
+        "lng": 103.9905767
+      },
+      "southwest": {
+        "lat": 1.402626449999999,
+        "lng": 103.9870503
+      }
+    }
+  },
+  "name": "Pulau Sekudu",
+  "place_id": "ChIJDdtsZ4I_2jERpujzKI7p0z4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ride Bike",
+      "author_url": "https://www.google.com/maps/contrib/108071262381190749028/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5uZtN0mG5oKw6QK-3eIqA7vRL_NKinp6XURHLQon0s5llfgvD=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Go during low tide.. kayak over from Changi beach. It amazing",
+      "time": 1697537124,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4527218847219181734",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

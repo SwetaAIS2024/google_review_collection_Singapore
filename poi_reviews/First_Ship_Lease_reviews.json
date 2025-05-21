@@ -1,0 +1,29 @@
+{
+  "formatted_address": "600 N Bridge Rd, Singapore 188778",
+  "geometry": {
+    "location": {
+      "lat": 1.300164,
+      "lng": 103.8577305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301435030291502,
+        "lng": 103.8591398802915
+      },
+      "southwest": {
+        "lat": 1.298737069708498,
+        "lng": 103.8564419197085
+      }
+    }
+  },
+  "name": "First Ship Lease",
+  "place_id": "ChIJrTLFZ7AZ2jERpOqi9BpmoTQ",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3792424627182168740",
+  "vicinity": "600 North Bridge Road"
+}

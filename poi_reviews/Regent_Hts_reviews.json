@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.352775,
+      "lng": 103.755295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354100330291502,
+        "lng": 103.7566238302915
+      },
+      "southwest": {
+        "lat": 1.351402369708498,
+        "lng": 103.7539258697085
+      }
+    }
+  },
+  "name": "Regent Hts",
+  "place_id": "ChIJhQN9-UYQ2jERNzquqRHTfT0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Marcelo Dias",
+      "author_url": "https://www.google.com/maps/contrib/100462514225653503440/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2PYSwkTe6V04ivDYsqXprpMK7kN1hwpLganqIMe2trhvGndly=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "I lived in 2006 this place, great apartment near by MRT.",
+      "time": 1671743064,
+      "translated": false
+    },
+    {
+      "author_name": "Irene Chua",
+      "author_url": "https://www.google.com/maps/contrib/101026684095806515103/reviews",
+      "language": "hmn",
+      "original_language": "hmn",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJSp7Q7BOqXzFKLLhJAzXuJk3OqO4s8gHNP2nL3uf1svsJtA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "B1",
+      "time": 1489638577,
+      "translated": false
+    },
+    {
+      "author_name": "John Tan",
+      "author_url": "https://www.google.com/maps/contrib/112737869524817172580/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSfRhwDh65HtEgZYKiiyk2o12jU6pZoj5XSjH85WtzoOxYrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608633292,
+      "translated": false
+    },
+    {
+      "author_name": "Andrewhei Keng Yaw",
+      "author_url": "https://www.google.com/maps/contrib/117934443623021365861/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDOaxeL4VrXqammIFuxdk_3kEaBojz2drKxM-oeu7wp1-dGw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533008683,
+      "translated": false
+    },
+    {
+      "author_name": "win naing",
+      "author_url": "https://www.google.com/maps/contrib/106487430733282835521/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJui5INakO_C01YRauMG3lf6_iB323fCG4REs--KZw5j7n3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513036467,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4430929681217108535",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

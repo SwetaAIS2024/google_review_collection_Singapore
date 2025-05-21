@@ -1,0 +1,57 @@
+{
+  "formatted_address": "6A Napier Rd, #08-13 Gleneagles Medical Centre, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3077263,
+      "lng": 103.8200865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309176930291502,
+        "lng": 103.8214504802915
+      },
+      "southwest": {
+        "lat": 1.306478969708498,
+        "lng": 103.8187525197085
+      }
+    }
+  },
+  "name": "Mak Heart Clinic",
+  "place_id": "ChIJ1-H_JyAa2jER5drnZV-f-Y8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jeremy Wong",
+      "author_url": "https://www.google.com/maps/contrib/108175914386380939013/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4EpquXdWkYwl1LcMgwmBMS-oOmGQrtdkMYNJKnqW95RRlnw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Came to see Dr Mak for a second opinion and was given very good advice. Appointments were seen on time, and consultation was informative and thorough. The Napier station MRT made it very easy to reach the clinic.",
+      "time": 1680766084,
+      "translated": false
+    },
+    {
+      "author_name": "camp zinc",
+      "author_url": "https://www.google.com/maps/contrib/102141932712336562992/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc1iN5sVwVrvY83vL-A9Sm8kiWwzDlVNDgbNGTOJkWb9AfxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "BAD",
+      "time": 1666946243,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10374498448705051365",
+  "user_ratings_total": 2,
+  "vicinity": "6A Napier Road, #08-13 Gleneagles Medical Centre"
+}

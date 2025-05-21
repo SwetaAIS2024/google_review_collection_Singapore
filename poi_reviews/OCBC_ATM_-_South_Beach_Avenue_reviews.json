@@ -1,0 +1,45 @@
+{
+  "formatted_address": "26 Beach Rd, B1-K3 South Beach Avenue, Singapore 189768",
+  "geometry": {
+    "location": {
+      "lat": 1.2935153,
+      "lng": 103.8557123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294949530291502,
+        "lng": 103.8567574302915
+      },
+      "southwest": {
+        "lat": 1.292251569708498,
+        "lng": 103.8540594697085
+      }
+    }
+  },
+  "name": "OCBC ATM - South Beach Avenue",
+  "place_id": "ChIJF4pXiEoZ2jERU5DmmLfYHj4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Located right by 7 Eleven, the ATM stack is right by each other, close to the MRT entrance. It's kept underground, under shelter, closer towards Suntec side of the underground; so you'll unlikely run into inconvenience issues. Not the easiest ATMs to find, but if need be, just look for 7 Eleven and you'll likely be able to find them.",
+      "time": 1687909097,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4476253362708713555",
+  "user_ratings_total": 1,
+  "vicinity": "26 Beach Road, B1-K3 South Beach Avenue"
+}

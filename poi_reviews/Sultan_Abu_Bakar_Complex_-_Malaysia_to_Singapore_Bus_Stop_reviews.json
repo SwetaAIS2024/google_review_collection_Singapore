@@ -1,0 +1,43 @@
+{
+  "formatted_address": "81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3789421,
+      "lng": 103.6001626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380311680291502,
+        "lng": 103.6015186302915
+      },
+      "southwest": {
+        "lat": 1.377613719708498,
+        "lng": 103.5988206697085
+      }
+    }
+  },
+  "name": "Sultan Abu Bakar Complex - Malaysia to Singapore Bus Stop",
+  "place_id": "ChIJ9YQOOAAJ2jERr2O6OWpuGOk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Javen Leow",
+      "author_url": "https://www.google.com/maps/contrib/103533744765056843646/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTLUpcDbqWof7KrapjPymL5t189mndtX6g4MyUOGkEK0KueC3_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "This is the bus stop to re-board either intercity express buses or Causeway Link local buses heading to Singapore after clearing Malaysian immigration.\n\nIf you got here using a Causeway Link bus and paid in cash, please remember to keep your receipt (that's actually your ticket) in order to re-board the bus here and at Tuas Checkpoint in Singapore to avoid paying again! You don't need to worry about this if you're using Manjalink or Visa cards.\n\nBus arrival times on the Lugo app are frequently inaccurate during the daytime because many Causeway Link buses turn around at this checkpoint and head back to their origin point, which confuses the app.",
+      "time": 1739455173,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16796296212792370095",
+  "user_ratings_total": 1,
+  "vicinity": "Gelang Patah"
+}

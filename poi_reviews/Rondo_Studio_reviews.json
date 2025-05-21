@@ -1,0 +1,56 @@
+{
+  "formatted_address": "10 Ubi Cres, Lobby B Ubi Techpark, Singapore 408564",
+  "geometry": {
+    "location": {
+      "lat": 1.3264632,
+      "lng": 103.896365
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327711330291502,
+        "lng": 103.8977192802915
+      },
+      "southwest": {
+        "lat": 1.325013369708498,
+        "lng": 103.8950213197085
+      }
+    }
+  },
+  "name": "Rondo Studio",
+  "place_id": "ChIJwf6r38IX2jERHmVxmBQFHZU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "John Chia",
+      "author_url": "https://www.google.com/maps/contrib/114649031674204042856/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXusKkaOxBaXdKeYxOuAol5rxx8xafXrADOz36pq2nKO9YLazU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The instructor Jem is very friendly and knows what he's doing. He is goal oriented but still ensured I was enjoying myself, and guided me to pass my Grade 8 exam :)",
+      "time": 1689334076,
+      "translated": false
+    },
+    {
+      "author_name": "KaiRu Chang",
+      "author_url": "https://www.google.com/maps/contrib/106269308845232157906/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPl1VNYsYw3ef2iFSzkxh7X6j-8xMu4j334zmFpNJVIubJukBn=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good environment and good teacher 🙌🙌",
+      "time": 1688742263,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10744749871990924574",
+  "user_ratings_total": 2,
+  "vicinity": "10 Ubi Crescent, Lobby B Ubi Techpark"
+}

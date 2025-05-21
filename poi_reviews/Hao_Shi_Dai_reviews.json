@@ -1,0 +1,30 @@
+{
+  "formatted_address": "72 Commonwealth Dr, Singapore 140072",
+  "geometry": {
+    "location": {
+      "lat": 1.3000185,
+      "lng": 103.797192
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301390380291502,
+        "lng": 103.7985839302915
+      },
+      "southwest": {
+        "lat": 1.298692419708498,
+        "lng": 103.7958859697085
+      }
+    }
+  },
+  "name": "Hao Shi Dai",
+  "place_id": "ChIJ10EecwAb2jERfwrPVZjbcWE",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7021634741368457855",
+  "vicinity": "72 Commonwealth Drive, Singapore"
+}

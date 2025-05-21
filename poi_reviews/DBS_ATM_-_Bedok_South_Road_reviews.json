@@ -1,0 +1,45 @@
+{
+  "formatted_address": "18 Bedok S Rd, Singapore 460018",
+  "geometry": {
+    "location": {
+      "lat": 1.3205,
+      "lng": 103.93475
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321544480291502,
+        "lng": 103.9361109802915
+      },
+      "southwest": {
+        "lat": 1.318846519708498,
+        "lng": 103.9334130197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bedok South Road",
+  "place_id": "ChIJG3qF4nUj2jER322r1F9eA_A",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "mohd khaled idris",
+      "author_url": "https://www.google.com/maps/contrib/113465885235076041262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrLDfoS7GwKOFYLCtROhGS4DxmxnymHiVhCVFeBtsq_qA8J_K4uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "running out of atm receipts not updated especially weekend",
+      "time": 1547640128,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17294770759715745247",
+  "user_ratings_total": 1,
+  "vicinity": "18 Bedok South Road"
+}

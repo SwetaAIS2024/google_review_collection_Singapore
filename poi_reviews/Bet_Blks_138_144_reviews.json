@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333072,
+      "lng": 103.865311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334420030291502,
+        "lng": 103.8666249302915
+      },
+      "southwest": {
+        "lat": 1.331722069708498,
+        "lng": 103.8639269697085
+      }
+    }
+  },
+  "name": "Bet Blks 138/144",
+  "place_id": "ChIJG9Kz_XgX2jERGWC4kqo-ZxU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1542270299724603417",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "50 Bukit Batok Street 23, #01-16, Singapore 659578",
+  "geometry": {
+    "location": {
+      "lat": 1.339366,
+      "lng": 103.7567167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340674530291502,
+        "lng": 103.7580431302915
+      },
+      "southwest": {
+        "lat": 1.337976569708498,
+        "lng": 103.7553451697085
+      }
+    }
+  },
+  "name": "Qalyfa Apparels and Delicacies",
+  "place_id": "ChIJX4fydQAR2jERy2fCrD3z6dA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Samsu Deen",
+      "author_url": "https://www.google.com/maps/contrib/110146348862298798422/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqsQDwORkNEIN3cTiBkoYH6mmlEX-DTnnr59m26e_S65X284Blyg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I tried Nasi Sampal\nGoreng ,\nService with very politeness and motherhood. Food is also very delicious",
+      "time": 1729596265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15053830675679569867",
+  "user_ratings_total": 1,
+  "vicinity": "50 Bukit Batok Street 23, #01-16, Singapore"
+}

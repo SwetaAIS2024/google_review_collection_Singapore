@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Seletar North Link, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4258083,
+      "lng": 103.8820484
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427152130291502,
+        "lng": 103.8833940302915
+      },
+      "southwest": {
+        "lat": 1.424454169708498,
+        "lng": 103.8806960697085
+      }
+    }
+  },
+  "name": "PPBC4",
+  "place_id": "ChIJFZYsNhQV2jERLHEvHNVZkEE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Rakib Hossain",
+      "author_url": "https://www.google.com/maps/contrib/107962663035313676357/reviews",
+      "language": "af",
+      "original_language": "af",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJqX2L_Hjr82snAGAOpDIRgZmxBvlYt-2BA36DmLNOwXAi5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "pongol",
+      "time": 1742357450,
+      "translated": false
+    }
+  ],
+  "types": [
+    "local_government_office",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4724374780947427628",
+  "user_ratings_total": 1,
+  "vicinity": "Seletar North Link"
+}

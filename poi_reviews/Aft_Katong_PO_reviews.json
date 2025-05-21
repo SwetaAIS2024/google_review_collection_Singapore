@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3037731,
+      "lng": 103.8965897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305128380291502,
+        "lng": 103.8979589302915
+      },
+      "southwest": {
+        "lat": 1.302430419708498,
+        "lng": 103.8952609697085
+      }
+    }
+  },
+  "name": "Aft Katong PO",
+  "place_id": "ChIJHUmB82sY2jER_kQ177SM22s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Neo",
+      "author_url": "https://www.google.com/maps/contrib/116117641949495586862/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7gMWcc1mFxqKLVq-hvdCR1k3pC9FdCy0mwfhc0tPwr397MYu2YQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681569887,
+      "translated": false
+    },
+    {
+      "author_name": "Girlie Gorgonio",
+      "author_url": "https://www.google.com/maps/contrib/103013006379048537455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqv6fZH31s0GjV-VahQ20aN8t0Vg3gZ-UF4qAXs7ZLMTztpA8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662344865,
+      "translated": false
+    },
+    {
+      "author_name": "Leo Lai",
+      "author_url": "https://www.google.com/maps/contrib/113955919296484395114/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtQkbNrjqrUiZkPU-ZsRPUwEJ0X5c3892Yp6k1wQYpDd9zZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490247613,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7771960290693170430",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.276109,
+      "lng": 103.845924
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277337380291502,
+        "lng": 103.8474025302915
+      },
+      "southwest": {
+        "lat": 1.274639419708498,
+        "lng": 103.8447045697085
+      }
+    }
+  },
+  "name": "MasterCard",
+  "place_id": "ChIJO3nOQBMZ2jER_mKSJNzSbSM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2552928406737150718",
+  "vicinity": ""
+}

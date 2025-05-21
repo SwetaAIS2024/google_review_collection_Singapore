@@ -1,0 +1,29 @@
+{
+  "formatted_address": "128 Beach Rd, #17-01 Guoco Midtown, Singapore 189773",
+  "geometry": {
+    "location": {
+      "lat": 1.2974624,
+      "lng": 103.858126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298893680291502,
+        "lng": 103.8595508302915
+      },
+      "southwest": {
+        "lat": 1.296195719708498,
+        "lng": 103.8568528697085
+      }
+    }
+  },
+  "name": "Commerzbank AG",
+  "place_id": "ChIJLzmm-xcZ2jERaN1hYFc9Sjk",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4128179453926956392",
+  "vicinity": "128 Beach Road, #17-01 Guoco Midtown"
+}

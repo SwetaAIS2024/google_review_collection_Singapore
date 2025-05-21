@@ -1,0 +1,53 @@
+{
+  "formatted_address": "5052 Ang Mo Kio Ind Park 2, Singapore 569555",
+  "geometry": {
+    "location": {
+      "lat": 1.373855,
+      "lng": 103.861527
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375158830291502,
+        "lng": 103.8628907302915
+      },
+      "southwest": {
+        "lat": 1.372460869708498,
+        "lng": 103.8601927697085
+      }
+    }
+  },
+  "name": "Tat Hong Trading Pte Ltd",
+  "place_id": "ChIJ5T7esPAW2jERXiMjQf_K_zA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sophia Chan",
+      "author_url": "https://www.google.com/maps/contrib/117159514864672860623/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCFRbhc6qtYtinQ1UDMvc4eAIdN4J9hOysndIE86XlTmiJuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Don't recommend this place. The price is higher than other suppliers. Plus the sales don't seem very keen in doing business.",
+      "time": 1640341316,
+      "translated": false
+    },
+    {
+      "author_name": "manaiah pandian",
+      "author_url": "https://www.google.com/maps/contrib/116844723733355946962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbA1xpxx1DmBk4DRRex6AVKWYEELaVel7JvA1uRGD6h5GKIuFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701601452,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3530763830540051294",
+  "user_ratings_total": 2,
+  "vicinity": "5052 Ang Mo Kio Ind Park 2"
+}

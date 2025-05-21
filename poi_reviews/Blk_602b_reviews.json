@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361598,
+      "lng": 103.937943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362946980291502,
+        "lng": 103.9392863802915
+      },
+      "southwest": {
+        "lat": 1.360249019708498,
+        "lng": 103.9365884197085
+      }
+    }
+  },
+  "name": "Blk 602b",
+  "place_id": "ChIJjzUp0go92jERgUptDVAHctw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15884766876093205121",
+  "vicinity": "Singapore"
+}

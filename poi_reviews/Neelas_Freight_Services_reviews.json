@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2768459,
+      "lng": 103.796395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278116130291502,
+        "lng": 103.7977192302915
+      },
+      "southwest": {
+        "lat": 1.275418169708498,
+        "lng": 103.7950212697085
+      }
+    }
+  },
+  "name": "Neelas Freight Services",
+  "place_id": "ChIJW6sz77gb2jERTjRbEo9HKdI",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15143713901823865934",
+  "vicinity": "Singapore"
+}

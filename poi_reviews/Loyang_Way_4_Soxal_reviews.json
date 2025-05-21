@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379654,
+      "lng": 103.978386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381037680291502,
+        "lng": 103.9797843302915
+      },
+      "southwest": {
+        "lat": 1.378339719708498,
+        "lng": 103.9770863697085
+      }
+    }
+  },
+  "name": "Loyang Way 4/Soxal",
+  "place_id": "ChIJnR3zKkE82jERV98Mh7jvC-Y",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16576606429286031191",
+  "vicinity": "Singapore"
+}

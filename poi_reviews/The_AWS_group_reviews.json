@@ -1,0 +1,27 @@
+{
+  "formatted_address": "211A Punggol Walk, Singapore 821211",
+  "geometry": {
+    "location": {
+      "lat": 1.4012661,
+      "lng": 103.8994923
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402606230291502,
+        "lng": 103.9008620802915
+      },
+      "southwest": {
+        "lat": 1.399908269708498,
+        "lng": 103.8981641197085
+      }
+    }
+  },
+  "name": "The AWS group",
+  "place_id": "ChIJ2QtSf-IV2jERki8IhqvujOw",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17045261110145986450",
+  "vicinity": "211A Punggol Walk"
+}

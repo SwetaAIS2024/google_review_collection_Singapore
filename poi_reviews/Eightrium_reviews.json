@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.338026,
+      "lng": 103.964172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339397280291502,
+        "lng": 103.9654855302915
+      },
+      "southwest": {
+        "lat": 1.336699319708498,
+        "lng": 103.9627875697085
+      }
+    }
+  },
+  "name": "Eightrium",
+  "place_id": "ChIJ9dRvANk82jERoUO6lkqvwoM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9494343699341656993",
+  "vicinity": "Singapore"
+}

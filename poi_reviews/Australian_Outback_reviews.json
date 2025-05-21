@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Central Water Catchment, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4061811,
+      "lng": 103.7820902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.407422380291502,
+        "lng": 103.7836386302915
+      },
+      "southwest": {
+        "lat": 1.404724419708498,
+        "lng": 103.7809406697085
+      }
+    }
+  },
+  "name": "Australian Outback",
+  "place_id": "ChIJl73fKgAT2jERnbhxWj9JG1k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kieron",
+      "author_url": "https://www.google.com/maps/contrib/111127323203347067217/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4XMrCOj9WR2uSgRQzMhKX6jA5UUeciD6X6f5QVyU5vpazjA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Cute creatures. Hope to see more of the laughs though.",
+      "time": 1738225547,
+      "translated": false
+    },
+    {
+      "author_name": "Adrian Rodrigues",
+      "author_url": "https://www.google.com/maps/contrib/112071771584127830520/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC9ltw-y7Mb0nS0CN4OrMaCEwIHg4PTfYWeHJqz_5s5DaKmO9dSA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Australia bird watching place within Bird Paradise.",
+      "time": 1726677550,
+      "translated": false
+    },
+    {
+      "author_name": "Deutsch ist meine Kiki L meine Kiki L",
+      "author_url": "https://www.google.com/maps/contrib/115974984728342152390/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfMTsIcxRzfXNOXwYPyhfSrhtTBmG-GatJ0y7ehrHLHNwQEB5P=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732407839,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6420806230195943581",
+  "user_ratings_total": 3,
+  "vicinity": ""
+}

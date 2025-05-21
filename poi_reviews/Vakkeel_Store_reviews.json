@@ -1,0 +1,30 @@
+{
+  "formatted_address": "ATM, Clementi West Street 2 (UOB) #01-230, 727 Clementi West Street 2 (S)120727, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3044886,
+      "lng": 103.7641299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305943930291502,
+        "lng": 103.7655907802915
+      },
+      "southwest": {
+        "lat": 1.303245969708498,
+        "lng": 103.7628928197085
+      }
+    }
+  },
+  "name": "Vakkeel Store",
+  "place_id": "ChIJI1sYDPIa2jER7OyzpkqGjCI",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2489512349211553004",
+  "vicinity": "ATM, Clementi West Street 2 (UOB) #01-230, 727 Clementi West Street 2 (S)120727"
+}

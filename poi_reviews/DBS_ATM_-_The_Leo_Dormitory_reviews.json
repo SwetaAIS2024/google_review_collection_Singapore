@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25 Kaki Bukit Rd 3, The Leo Dormitory, Singapore 415815",
+  "geometry": {
+    "location": {
+      "lat": 1.337349,
+      "lng": 103.9037605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338733080291502,
+        "lng": 103.9051390802915
+      },
+      "southwest": {
+        "lat": 1.336035119708498,
+        "lng": 103.9024411197085
+      }
+    }
+  },
+  "name": "DBS ATM - The Leo Dormitory",
+  "place_id": "ChIJuX8YTIsX2jERkxdVK0jXEKU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11894243320850093971",
+  "vicinity": "25 Kaki Bukit Road 3, The Leo Dormitory"
+}

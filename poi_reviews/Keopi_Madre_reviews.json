@@ -1,0 +1,30 @@
+{
+  "formatted_address": "646A Tampines St 62, Singapore 521646",
+  "geometry": {
+    "location": {
+      "lat": 1.3654426,
+      "lng": 103.9432982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366770080291502,
+        "lng": 103.9447122802915
+      },
+      "southwest": {
+        "lat": 1.364072119708498,
+        "lng": 103.9420143197085
+      }
+    }
+  },
+  "name": "Keopi Madre",
+  "place_id": "ChIJdwp_AQA92jERkQDWTm0jvyQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2647874058298196113",
+  "vicinity": "646A Tampines Street 62, Singapore"
+}

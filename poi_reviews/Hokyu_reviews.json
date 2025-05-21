@@ -1,0 +1,57 @@
+{
+  "formatted_address": "339 Upper Paya Lebar Rd, Singapore 534953",
+  "geometry": {
+    "location": {
+      "lat": 1.3453428,
+      "lng": 103.8812884
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346688330291502,
+        "lng": 103.8827109302915
+      },
+      "southwest": {
+        "lat": 1.343990369708498,
+        "lng": 103.8800129697085
+      }
+    }
+  },
+  "name": "Hokyu",
+  "place_id": "ChIJ2UnhbQAX2jERculrchrPpCQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lester Lee",
+      "author_url": "https://www.google.com/maps/contrib/112695204053302696264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs3Wb8GFFJvA6MTVuzdy98c3fam9Th9n3-FghCaQuCW5qxkbbp=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I had the pleasure of dining at Hokyu, and it did not disappoint! The donburi bowl was served piping hot, packed with hearty flavors that were both satisfying and delicious. The ingredients were fresh, and the balance of textures and flavours in the bowl was spot-on.",
+      "time": 1734346992,
+      "translated": false
+    },
+    {
+      "author_name": "Wuei Phoon",
+      "author_url": "https://www.google.com/maps/contrib/107581714390215393624/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH5D1nE2zoNHr9h83maTScjLhfOEfyCQVADRxFlsWmsnnjlQXG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "The food good, don’t get me wrong. But not having a pleasant experience because they wouldn’t give me a glass of water even though I had purchased drinks….",
+      "time": 1743303790,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2640462994041727346",
+  "user_ratings_total": 2,
+  "vicinity": "339 Upper Paya Lebar Road, Singapore"
+}

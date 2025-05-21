@@ -1,0 +1,43 @@
+{
+  "formatted_address": "4 Bukit Batok Street 41, #01-22/23/24/25/26/27/28 Le Quest Mall, Singapore 657991",
+  "geometry": {
+    "location": {
+      "lat": 1.3554736,
+      "lng": 103.7417035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356994180291502,
+        "lng": 103.7432049802915
+      },
+      "southwest": {
+        "lat": 1.354296219708498,
+        "lng": 103.7405070197085
+      }
+    }
+  },
+  "name": "Kubis Authentic Korean Food",
+  "place_id": "ChIJedYyewAR2jERVHnMdS1_BiU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rasul Said",
+      "author_url": "https://www.google.com/maps/contrib/100059253510041255760/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQzTfbbITTqM40SAQ2CEGhb8tx6eCKP_2ESohB3XNP7MnN9eg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747137293,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2667959662490188116",
+  "user_ratings_total": 1,
+  "vicinity": "4 Bukit Batok Street 41, #01-22/23/24/25/26/27/28 Le Quest Mall"
+}

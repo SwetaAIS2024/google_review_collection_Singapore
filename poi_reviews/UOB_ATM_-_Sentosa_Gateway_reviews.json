@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 HarbourFront Walk, #01-K11 VivoCity, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2647884,
+      "lng": 103.822894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266300130291502,
+        "lng": 103.8241628302915
+      },
+      "southwest": {
+        "lat": 1.263602169708498,
+        "lng": 103.8214648697085
+      }
+    }
+  },
+  "name": "UOB ATM - Sentosa Gateway",
+  "place_id": "ChIJBSeFIVkZ2jER0kNkasPKS3A",
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8091784096153617362",
+  "vicinity": "1 HarbourFront Walk, #01-K11 VivoCity, Singapore"
+}

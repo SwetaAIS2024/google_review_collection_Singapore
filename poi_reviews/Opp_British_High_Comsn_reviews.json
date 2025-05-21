@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3040714,
+      "lng": 103.8220849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305431830291502,
+        "lng": 103.8234018302915
+      },
+      "southwest": {
+        "lat": 1.302733869708498,
+        "lng": 103.8207038697085
+      }
+    }
+  },
+  "name": "Opp British High Comsn",
+  "place_id": "ChIJTX_EDooZ2jERXCj3cQZjMTM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tiffany Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/106499832784796599087/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcxVvJ3TR4yA-Sq8Ruy4kLeRBqwnk3cbBQsnPFnLjoXkCL8suO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Bus stop with shelter",
+      "time": 1536537180,
+      "translated": false
+    },
+    {
+      "author_name": "Nick Yin",
+      "author_url": "https://www.google.com/maps/contrib/114977330021359302659/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNg2_B-6SGdXMPoKG3q1R2Puv7Vzh3efl1CeF45HpT4udBfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513211572,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3688838449126123612",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

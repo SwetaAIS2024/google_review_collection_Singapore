@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Pasir Ris Cl, Singapore 506927",
+  "geometry": {
+    "location": {
+      "lat": 1.3764697,
+      "lng": 103.956191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377818680291502,
+        "lng": 103.9575399802915
+      },
+      "southwest": {
+        "lat": 1.375120719708498,
+        "lng": 103.9548420197085
+      }
+    }
+  },
+  "name": "My Little Island Camp",
+  "place_id": "ChIJRQNUJKs92jEROx3G_3MAdog",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shanaka Pramod",
+      "author_url": "https://www.google.com/maps/contrib/105523660252250275369/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYut1UCEmJivDvlwGpFxEgd__Xq866e7c7P8rwo8AOVX4hY-fZ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709080813,
+      "translated": false
+    }
+  ],
+  "types": [
+    "campground",
+    "park",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9833047334622469435",
+  "user_ratings_total": 1,
+  "vicinity": "Pasir Ris Close"
+}

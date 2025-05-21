@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Level 1, outside Business Office, Sengkang General Hospital, 110 Sengkang E Wy, Singapore 544886",
+  "geometry": {
+    "location": {
+      "lat": 1.3958755,
+      "lng": 103.8932458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397370230291502,
+        "lng": 103.8946278302915
+      },
+      "southwest": {
+        "lat": 1.394672269708498,
+        "lng": 103.8919298697085
+      }
+    }
+  },
+  "name": "POSB ATM (SKH)",
+  "place_id": "ChIJudA87AwX2jER6DBx65cj-iw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee Chengjie",
+      "author_url": "https://www.google.com/maps/contrib/106053612843631985054/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl3xMgiltwPEpRt5J8evdexvyc_7WYFtcnLKRv1eH4hn9SpFgiIw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "The only ATM in SKH to date",
+      "time": 1539589784,
+      "translated": false
+    },
+    {
+      "author_name": "A Raj A Raj",
+      "author_url": "https://www.google.com/maps/contrib/115193298459180788908/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIL7K92A4T3-SZirs25yvnZIPnHyC7k8HfOu4kTj8oH-WJ6kfj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674224643,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3240942017243590888",
+  "user_ratings_total": 2,
+  "vicinity": "Level 1, outside Business Office, Sengkang General Hospital, 110 Sengkang East Way"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "15 Telok Blangah Cres, Singapore 090015",
+  "geometry": {
+    "location": {
+      "lat": 1.27713,
+      "lng": 103.82058
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278490430291502,
+        "lng": 103.8219252302915
+      },
+      "southwest": {
+        "lat": 1.275792469708498,
+        "lng": 103.8192272697085
+      }
+    }
+  },
+  "name": "DBS ATM - SPF RADIN MAS",
+  "place_id": "ChIJBacRvTEb2jERaANRGvREo9w",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15898626924752208744",
+  "vicinity": "15 Telok Blangah Crescent, Singapore"
+}

@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3039777,
+      "lng": 103.8587032
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305256930291502,
+        "lng": 103.8600642302915
+      },
+      "southwest": {
+        "lat": 1.302558969708498,
+        "lng": 103.8573662697085
+      }
+    }
+  },
+  "name": "Aft Victoria Ln",
+  "place_id": "ChIJNyphI7cZ2jERlg2NMPg2gII",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "B Liang",
+      "author_url": "https://www.google.com/maps/contrib/117724752413797061784/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuvMUEHUkgLlQb8UDWyY01EGV6Xq0OToBRIThzWT89m5PwI0agFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "The bus stop has been renamed. Kindly review and take the necessary actions to avoid confusion, particularly for foreign visitors. Thank you.",
+      "time": 1745641557,
+      "translated": false
+    },
+    {
+      "author_name": "Maxime LMA",
+      "author_url": "https://www.google.com/maps/contrib/100155584989015015572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNjuQT8gv_WgXx3BdMJi9Pc9Ed4YCD6n29FV_jrjggA8x9Jg8YBw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good",
+      "time": 1582253576,
+      "translated": false
+    },
+    {
+      "author_name": "วิโรจน์ อดทน",
+      "author_url": "https://www.google.com/maps/contrib/111522132447001289105/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8uhjzrTDMtCwQvK7ElhdMvcQLCi0cvnYwWFDW1o302Xqw3Qgk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681887856,
+      "translated": false
+    },
+    {
+      "author_name": "Garell Chang",
+      "author_url": "https://www.google.com/maps/contrib/102095809886413424010/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0r7t4CiPsqEEcdzDoUbytU2hepYsqdZrm0ZWkkhxXIKsfEBs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498334045,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9403576461543935382",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

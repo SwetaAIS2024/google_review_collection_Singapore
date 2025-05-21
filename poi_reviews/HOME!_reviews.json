@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 409839",
+  "geometry": {
+    "location": {
+      "lat": 1.3194189,
+      "lng": 103.897543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320786030291502,
+        "lng": 103.8989819302915
+      },
+      "southwest": {
+        "lat": 1.318088069708498,
+        "lng": 103.8962839697085
+      }
+    }
+  },
+  "name": "HOME!",
+  "place_id": "ChIJ03YWzXgZ2jERDjCU3Aflw7s",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13529909527479332878",
+  "vicinity": "Singapore"
+}

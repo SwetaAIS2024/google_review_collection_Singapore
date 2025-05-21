@@ -1,0 +1,28 @@
+{
+  "formatted_address": "190 Middle Rd, Singapore 188979",
+  "geometry": {
+    "location": {
+      "lat": 1.300409,
+      "lng": 103.852303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301633130291502,
+        "lng": 103.8535635802915
+      },
+      "southwest": {
+        "lat": 1.298935169708498,
+        "lng": 103.8508656197085
+      }
+    }
+  },
+  "name": "Kiddy Abc",
+  "place_id": "ChIJiUBuDLsZ2jERygpLGYw0BVs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6558706208659409610",
+  "vicinity": "190 Middle Road"
+}

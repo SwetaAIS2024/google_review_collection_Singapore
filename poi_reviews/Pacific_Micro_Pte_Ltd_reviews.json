@@ -1,0 +1,29 @@
+{
+  "formatted_address": "101 Upper Cross St, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.285697,
+      "lng": 103.843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286911030291502,
+        "lng": 103.8454818802915
+      },
+      "southwest": {
+        "lat": 1.284213069708498,
+        "lng": 103.8427839197085
+      }
+    }
+  },
+  "name": "Pacific Micro Pte Ltd",
+  "place_id": "ChIJqzqlx3QZ2jERkEONcgHrw6w",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12449052186431538064",
+  "vicinity": "101 Upper Cross Street"
+}

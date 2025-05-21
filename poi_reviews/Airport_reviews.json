@@ -1,0 +1,28 @@
+{
+  "formatted_address": "206A Compassvale Ln, Singapore 541206",
+  "geometry": {
+    "location": {
+      "lat": 1.3867309,
+      "lng": 103.896543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388102330291502,
+        "lng": 103.8978216302915
+      },
+      "southwest": {
+        "lat": 1.385404369708498,
+        "lng": 103.8951236697085
+      }
+    }
+  },
+  "name": "Airport",
+  "place_id": "ChIJa_BjSQAX2jERSfMg9GZxJKs",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12332106366643663689",
+  "vicinity": "206A Compassvale Lane, Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "#01-75 St George's Rd, #01-101 Block 3, Singapore 320003",
+  "geometry": {
+    "location": {
+      "lat": 1.3228602,
+      "lng": 103.8612659
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324078730291502,
+        "lng": 103.8624783802915
+      },
+      "southwest": {
+        "lat": 1.321380769708498,
+        "lng": 103.8597804197085
+      }
+    }
+  },
+  "name": "ZigZag Learning",
+  "place_id": "ChIJ54hWudYZ2jERSD1h8uBfiZs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yee Lan Yip",
+      "author_url": "https://www.google.com/maps/contrib/107362857071458029922/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4sKHzHyQBjAxqdzB8T6WdnGla-TkMzyBRHm--WdyQ6qM5Qg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544283348,
+      "translated": false
+    },
+    {
+      "author_name": "Mystix 5400",
+      "author_url": "https://www.google.com/maps/contrib/114149857785803290649/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyPLHF2CK17ycPtBNacerrApO3Q4KxCu75ojgAoLzcqewYnoqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1538581140,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "secondary_school",
+    "primary_school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11207594567431961928",
+  "user_ratings_total": 2,
+  "vicinity": "#01-75 Saint George's Road, #01-101 Block 3, Singapore"
+}

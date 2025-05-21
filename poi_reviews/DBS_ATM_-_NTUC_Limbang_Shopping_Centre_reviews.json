@@ -1,0 +1,29 @@
+{
+  "formatted_address": "533 Choa Chu Kang Street 51, Singapore 680533",
+  "geometry": {
+    "location": {
+      "lat": 1.3920487,
+      "lng": 103.7431129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393517280291502,
+        "lng": 103.7446634802915
+      },
+      "southwest": {
+        "lat": 1.390819319708498,
+        "lng": 103.7419655197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Limbang Shopping Centre",
+  "place_id": "ChIJkSLJSzER2jERMA1v7r0WGD8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4546408828835401008",
+  "vicinity": "533 Choa Chu Kang Street 51, Singapore"
+}

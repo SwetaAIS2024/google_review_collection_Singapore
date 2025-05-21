@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3525141,
+      "lng": 103.8848571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353878584574645,
+        "lng": 103.8864568987561
+      },
+      "southwest": {
+        "lat": 1.351180623991641,
+        "lng": 103.8837589381731
+      }
+    }
+  },
+  "name": "Maplewood Park",
+  "place_id": "ChIJC6ArL7oX2jEReaLjVaPKWdU",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da17ba2f2ba00b:0xd559caa355e3a279",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "83 Punggol Central, #01-01 Waterway Point, Singapore 828761",
+  "geometry": {
+    "location": {
+      "lat": 1.4058223,
+      "lng": 103.9024331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.40809825,
+        "lng": 103.9034022302915
+      },
+      "southwest": {
+        "lat": 1.40504045,
+        "lng": 103.9007042697085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Waterway Point",
+  "place_id": "ChIJh-J0Vc8V2jERmaFb8Z1BUAc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mable Mei",
+      "author_url": "https://www.google.com/maps/contrib/111535226782407669070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuDq9riFUp0EX7MGi8R0KPxbCw4rBcce5RB-cHjFSv_JQosA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1732170362,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=526993303017333145",
+  "user_ratings_total": 1,
+  "vicinity": "83 Punggol Central, #01-01 Waterway Point"
+}

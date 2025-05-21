@@ -1,0 +1,63 @@
+{
+  "formatted_address": "30 Tuas Link 2, Super Group Building, Singapore 638568",
+  "geometry": {
+    "location": {
+      "lat": 1.3377812,
+      "lng": 103.6368347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339096130291502,
+        "lng": 103.6381513802915
+      },
+      "southwest": {
+        "lat": 1.336398169708498,
+        "lng": 103.6354534197085
+      }
+    }
+  },
+  "name": "Super Coffee Corporation",
+  "place_id": "ChIJcfMzSU0P2jER5-77wycvYTc",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "DERBIE WONG",
+      "author_url": "https://www.google.com/maps/contrib/111370369745460000724/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA6MOpZAAlv1Goe7k0nxG77XqvHUvCOzo_LoijjIsZj3eP5Nc5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Previously is one of my favorites' coffee brand but nowadays found that the 3 in 1 coffee standard has dropped so much,  it looks put a lot of sugar inside and no more coffee taste at all.",
+      "time": 1678760968,
+      "translated": false
+    },
+    {
+      "author_name": "Pimjuat Lim",
+      "author_url": "https://www.google.com/maps/contrib/108503348281604525977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSnPzB4pIh1l1HPSDN4mOaJzpl0VLq4I9ULlDgMV47KUE_vA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533423918,
+      "translated": false
+    },
+    {
+      "author_name": "Sai",
+      "author_url": "https://www.google.com/maps/contrib/115045187659743693637/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2AKwZ5I6rZBxOXl3PMpWdFOW0l16jOGT7cqvoQuu8_mhtlTIeiQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516142681,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3990522592665267943",
+  "user_ratings_total": 3,
+  "vicinity": "30 Tuas Link 2, Super Group Building"
+}

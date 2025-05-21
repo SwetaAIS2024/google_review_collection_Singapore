@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38016,
+      "lng": 103.89487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381460130291502,
+        "lng": 103.8962145302915
+      },
+      "southwest": {
+        "lat": 1.378762169708498,
+        "lng": 103.8935165697085
+      }
+    }
+  },
+  "name": "Sengkang Fire Stn, Buangkok Dr",
+  "place_id": "ChIJd1UPWD4W2jERo3QS53Al_Ok",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16860392271811605667",
+  "vicinity": "Singapore"
+}

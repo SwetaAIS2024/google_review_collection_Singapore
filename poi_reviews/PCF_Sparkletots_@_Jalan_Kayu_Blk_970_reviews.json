@@ -1,0 +1,44 @@
+{
+  "formatted_address": "970 Hougang Street 91, #01-152 Block 970, Singapore 530970",
+  "geometry": {
+    "location": {
+      "lat": 1.3785655,
+      "lng": 103.8804913
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379901630291502,
+        "lng": 103.8818082302915
+      },
+      "southwest": {
+        "lat": 1.377203669708498,
+        "lng": 103.8791102697085
+      }
+    }
+  },
+  "name": "PCF Sparkletots @ Jalan Kayu Blk 970",
+  "place_id": "ChIJORCrSEMW2jERR3jXweOXIBo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nur Aishah",
+      "author_url": "https://www.google.com/maps/contrib/104743144254047949090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEXy2bOoVm-OhfX4AijsS7FHZ0NfsOfWq5KaBRhQAWluk1z0Zx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A good place",
+      "time": 1707983673,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1882671648706361415",
+  "user_ratings_total": 1,
+  "vicinity": "970 Hougang Street 91, #01-152 Block 970"
+}

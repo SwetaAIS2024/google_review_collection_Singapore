@@ -1,0 +1,64 @@
+{
+  "formatted_address": "20 Lor 7 Toa Payoh, Singapore 310020",
+  "geometry": {
+    "location": {
+      "lat": 1.3377827,
+      "lng": 103.8568191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339087580291502,
+        "lng": 103.8580973802915
+      },
+      "southwest": {
+        "lat": 1.336389619708498,
+        "lng": 103.8553994197085
+      }
+    }
+  },
+  "name": "Yan Chai Tong Medical Hall",
+  "place_id": "ChIJT2hVKHAX2jERAgnDBMwGLPA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dal Singh",
+      "author_url": "https://www.google.com/maps/contrib/111257778040532683895/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKBTShiJwIopm5IgUITbHQN2--AXB_IqcZjDpuWGIFT9iE704=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668923111,
+      "translated": false
+    },
+    {
+      "author_name": "Steven LIU",
+      "author_url": "https://www.google.com/maps/contrib/118214264580116982000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiLsSHp-qjxlJ5qCzgQGjKE1bWcaVuJEezzEni2Q3m3i42yg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1541890001,
+      "translated": false
+    },
+    {
+      "author_name": "Leu Wee Kiong (Jerrie)",
+      "author_url": "https://www.google.com/maps/contrib/109375270224568869435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsEXnJC0d_wqIt-Ql2pXyQB6iZak9005tu8cxBDxI7W5rDZKYC=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1467962508,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17306214941400959234",
+  "user_ratings_total": 3,
+  "vicinity": "20 Lorong 7 Toa Payoh, Singapore"
+}

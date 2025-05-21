@@ -1,0 +1,29 @@
+{
+  "formatted_address": "City Plaza #04-24, 810 Geylang Road (S)409286, Singapore 389310",
+  "geometry": {
+    "location": {
+      "lat": 1.3151066,
+      "lng": 103.8934313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316549080291502,
+        "lng": 103.8947023302915
+      },
+      "southwest": {
+        "lat": 1.313851119708498,
+        "lng": 103.8920043697085
+      }
+    }
+  },
+  "name": "Aha Centre",
+  "place_id": "ChIJS1RQrhcY2jERUbQbiDV1Hf4",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18310920532735538257",
+  "vicinity": "City Plaza #04-24, 810 Geylang Road (S)409286"
+}

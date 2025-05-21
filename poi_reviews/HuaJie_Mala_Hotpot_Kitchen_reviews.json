@@ -1,0 +1,46 @@
+{
+  "formatted_address": "622a Tampines Street 61, Singapore 521622",
+  "geometry": {
+    "location": {
+      "lat": 1.3611774,
+      "lng": 103.9400409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362586730291502,
+        "lng": 103.9413988802915
+      },
+      "southwest": {
+        "lat": 1.359888769708498,
+        "lng": 103.9387009197085
+      }
+    }
+  },
+  "name": "HuaJie Mala Hotpot Kitchen",
+  "place_id": "ChIJ1eG0TQA92jERNQ7glikQqJI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "John Cheng (ghaztles)",
+      "author_url": "https://www.google.com/maps/contrib/103832431747074197215/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSRGk-E7na7WulGybQ1gzXFkrEyDtvsvB6dwp51qYdfL0uBENf=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "It says that they close at 10:30 p.m. on Google, but the stall was already closed for cleaning when I arrived at 9 p.m. on a Friday night.\n\nThe ingredients were still available, but they were already cleaning and closing up the stall.\n\nTheir opening hours are misleading.\n\nEdit:\nThe hours for Friday have changed.",
+      "time": 1745661612,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10567714296435838517",
+  "user_ratings_total": 1,
+  "vicinity": "622a Tampines Street 61"
+}

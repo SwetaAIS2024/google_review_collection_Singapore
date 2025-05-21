@@ -1,0 +1,57 @@
+{
+  "formatted_address": "90 Jln Besar, Mrt Stn, Singapore 208826",
+  "geometry": {
+    "location": {
+      "lat": 1.3048017,
+      "lng": 103.8553366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306241630291502,
+        "lng": 103.8565434302915
+      },
+      "southwest": {
+        "lat": 1.303543669708498,
+        "lng": 103.8538454697085
+      }
+    }
+  },
+  "name": "DBS ATM - Jln Besar Mrt Stn",
+  "place_id": "ChIJiTRLPKsZ2jERbqKhWKL2XPM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alasdair Lumsden",
+      "author_url": "https://www.google.com/maps/contrib/110202377399010165277/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSnH8r8HdwU1QbNLf-ykSLhHUNkXSjKcXjZ-VWZLAv6NdDvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "ATM is down inside the station, at the ticket hall level. Worked well although there was a queue.",
+      "time": 1650196310,
+      "translated": false
+    },
+    {
+      "author_name": "safwarriors gmail",
+      "author_url": "https://www.google.com/maps/contrib/102693982078355623559/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWv1-t613LHXSgtanpF0QV35g_GeVSQf4XAsCp-4j8VUuRvVZPXQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "It's in front of the fare gate (basement)",
+      "time": 1648423994,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17536162226205991534",
+  "user_ratings_total": 2,
+  "vicinity": "90 Jalan Besar, Mrt Stn"
+}

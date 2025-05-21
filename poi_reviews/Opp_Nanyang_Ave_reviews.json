@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Jln Bahar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356452,
+      "lng": 103.69606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357770430291502,
+        "lng": 103.6973856302915
+      },
+      "southwest": {
+        "lat": 1.355072469708498,
+        "lng": 103.6946876697085
+      }
+    }
+  },
+  "name": "Opp Nanyang Ave",
+  "place_id": "ChIJl0WZMLAP2jERuOFY6fi3KPQ",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Zhen Cao",
+      "author_url": "https://www.google.com/maps/contrib/109946380095830547797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpaDT_3mcRXN9tnGdKlF_bovncddg2pK551xcPrMl0ruEkO7nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601433936,
+      "translated": false
+    },
+    {
+      "author_name": "Zhang LongQi",
+      "author_url": "https://www.google.com/maps/contrib/105991512825962554136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhicIr9g7_nNGITuQPbh7hyAcuNyIEga2KzJ6oOxyxGuI69o2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567404847,
+      "translated": false
+    },
+    {
+      "author_name": "Taegeun yoo",
+      "author_url": "https://www.google.com/maps/contrib/102411236702270862283/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGPdXQUWrq7XbaJXR_48FR_r21fAj23bpBkALuHf3isKCK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492783925,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17593514224017531320",
+  "user_ratings_total": 3,
+  "vicinity": "Jalan Bahar"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3525767,
+      "lng": 103.8368086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353949980291502,
+        "lng": 103.8381874802915
+      },
+      "southwest": {
+        "lat": 1.351252019708498,
+        "lng": 103.8354895197085
+      }
+    }
+  },
+  "name": "澳洲藥房",
+  "place_id": "ChIJFYgYBjsX2jEROr_b3StnOY4",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10248335865161695034",
+  "vicinity": "Singapore"
+}

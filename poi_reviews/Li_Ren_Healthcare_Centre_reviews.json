@@ -1,0 +1,29 @@
+{
+  "formatted_address": "443 Ang Mo Kio Ave 10, Singapore 560443",
+  "geometry": {
+    "location": {
+      "lat": 1.3660517,
+      "lng": 103.8552818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367525230291502,
+        "lng": 103.8566765802915
+      },
+      "southwest": {
+        "lat": 1.364827269708498,
+        "lng": 103.8539786197085
+      }
+    }
+  },
+  "name": "Li Ren Healthcare Centre",
+  "place_id": "ChIJAS9h0uIW2jER2uaYFs3_jks",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5444570255850006234",
+  "vicinity": "443 Ang Mo Kio Avenue 10"
+}

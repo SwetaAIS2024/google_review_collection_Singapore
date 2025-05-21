@@ -1,0 +1,93 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29925,
+      "lng": 103.89751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300508980291502,
+        "lng": 103.8988994802915
+      },
+      "southwest": {
+        "lat": 1.297811019708498,
+        "lng": 103.8962015197085
+      }
+    }
+  },
+  "name": "Tanjong Katong",
+  "place_id": "ChIJkcvJSW8Y2jERzU5wmjMrlmU",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Javen Leow",
+      "author_url": "https://www.google.com/maps/contrib/103533744765056843646/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTLUpcDbqWof7KrapjPymL5t189mndtX6g4MyUOGkEK0KueC3_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Newly-opened station serving the southern portion of Tanjong Katong\n\nTo reach the northern portion of Tanjong Katong, its easier to take bus 30 from Dakota MRT station, rather than walking the entire way down the road.",
+      "time": 1720646898,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Nurhaikal",
+      "author_url": "https://www.google.com/maps/contrib/117247274329004802920/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFLpOdOpSchJTAp6xjTXZRrjm_snLyhB-J5T8rYp-wYFr9N_is=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Beautiful station. Modern and clean. Location is questionable since its mostly surrounded by condos and landed properties.",
+      "time": 1719742800,
+      "translated": false
+    },
+    {
+      "author_name": "Jon Sanchez",
+      "author_url": "https://www.google.com/maps/contrib/116733075611623147841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvzmAVnxFvKoJhtOXF4zoyMllz0rUMyg2BJ2MZWl4fFd3UNtA-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Cool!",
+      "time": 1720525403,
+      "translated": false
+    },
+    {
+      "author_name": "Jav Ian (Blsckgmr)",
+      "author_url": "https://www.google.com/maps/contrib/107389646200343706811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH-3kj3GVOCC6dUZTixB-qGygB8bEUG2cOSkSGJq6-YKeM7pyo=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Always got music in station. Doesn’t sound nice though.",
+      "time": 1723219297,
+      "translated": false
+    },
+    {
+      "author_name": "GSIM007",
+      "author_url": "https://www.google.com/maps/contrib/106671059052090886597/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9HZJpKNGeMSTTkZbHyZG9nRDJIBiDjWckXbZqcMJNxHB_3HA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Nice",
+      "time": 1731927540,
+      "translated": false
+    }
+  ],
+  "types": [
+    "subway_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7320085744971697869",
+  "user_ratings_total": 11,
+  "vicinity": "Singapore"
+}

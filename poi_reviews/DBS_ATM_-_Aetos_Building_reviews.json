@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Corporation Dr, Singapore 619774",
+  "geometry": {
+    "location": {
+      "lat": 1.3254943,
+      "lng": 103.7224231
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326926880291502,
+        "lng": 103.7239186802915
+      },
+      "southwest": {
+        "lat": 1.324228919708498,
+        "lng": 103.7212207197085
+      }
+    }
+  },
+  "name": "DBS ATM - Aetos Building",
+  "place_id": "ChIJkUz7dL4F2jERGNy8O3AchsQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14161037346677251096",
+  "vicinity": "5 Corporation Drive"
+}

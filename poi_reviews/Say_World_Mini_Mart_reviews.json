@@ -1,0 +1,46 @@
+{
+  "formatted_address": "222 Geylang Rd, Singapore 389282",
+  "geometry": {
+    "location": {
+      "lat": 1.3121315,
+      "lng": 103.8771063
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313534280291502,
+        "lng": 103.8784413802915
+      },
+      "southwest": {
+        "lat": 1.310836319708498,
+        "lng": 103.8757434197085
+      }
+    }
+  },
+  "name": "Say World Mini Mart",
+  "place_id": "ChIJFbehLDcY2jERgWMUQxf8P3k",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Lana Miranda",
+      "author_url": "https://www.google.com/maps/contrib/100379417005421039973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITCnboyiE4w2h4vJmEIxlqFxr2_G0cRseXSvHMMjXjDATe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "It was $22.9, I gave him $24 and he made a fool of himself by charging the next ones and he didn’t give me back the change! I WASN’T THE TIP BECAUSE OF THE BAD SERVICE! They don’t accept cards and the store is very dirty!",
+      "time": 1692886265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8736978978961908609",
+  "user_ratings_total": 1,
+  "vicinity": "222 Geylang Road"
+}

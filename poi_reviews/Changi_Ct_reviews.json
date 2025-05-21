@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3435495,
+      "lng": 103.9621986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344914180291502,
+        "lng": 103.9634973302915
+      },
+      "southwest": {
+        "lat": 1.342216219708498,
+        "lng": 103.9607993697085
+      }
+    }
+  },
+  "name": "Changi Ct",
+  "place_id": "ChIJo5Hk6t882jERzLJrMbP9L2Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ananthaneshan Elampoornan",
+      "author_url": "https://www.google.com/maps/contrib/110800234488305718859/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEw4MeqTvg-zSVERiRb6bEm1PeCR8UL3_u-LS9GPDSD-D4-nMGZQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "A calm place",
+      "time": 1644218405,
+      "translated": false
+    },
+    {
+      "author_name": "bryle nicoh libao",
+      "author_url": "https://www.google.com/maps/contrib/106359686739452842089/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3_5PK1JtouCPD6QlDAzsN8UCX3tC0ZBXVurj5UtykREM0StIg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701996908,
+      "translated": false
+    },
+    {
+      "author_name": "sheng yeong hooi",
+      "author_url": "https://www.google.com/maps/contrib/113055362853468644962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwEXba2BLEvjG-tK9Dvds30haqNiYcGsvqiuJUtY6y7omgtQRIYQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1413906757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7363382861844165324",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

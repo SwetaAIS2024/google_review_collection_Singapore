@@ -1,0 +1,70 @@
+{
+  "formatted_address": "71 Jln Tari Piring, Singapore 799224",
+  "geometry": {
+    "location": {
+      "lat": 1.400272,
+      "lng": 103.871499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401593980291502,
+        "lng": 103.8727944802915
+      },
+      "southwest": {
+        "lat": 1.398896019708498,
+        "lng": 103.8700965197085
+      }
+    }
+  },
+  "name": "Pizza J",
+  "place_id": "ChIJGWfDcn8W2jER1lUzprIVNKY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "M L",
+      "author_url": "https://www.google.com/maps/contrib/106042908915106754035/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFV0re4j8IGq-jLD6o7GEg-Lx_SuZZagsAdcSQbl_iq3wQEGqN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Tried the margarita pizza…the sourdough is baked to perfection. Amazing flavours. Demolished in seconds",
+      "time": 1737203868,
+      "translated": false
+    },
+    {
+      "author_name": "John Yew",
+      "author_url": "https://www.google.com/maps/contrib/100308051243242864398/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCjsy4c6b9KakuYPnVxg8SVBtLw7LRGPCqeVbiazuPFzL2Azk=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Hot from the oven. Smell and Taste Great.",
+      "time": 1717213355,
+      "translated": false
+    },
+    {
+      "author_name": "Keian Ngoo",
+      "author_url": "https://www.google.com/maps/contrib/113827901258921467062/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO7R3Nj3N_TSFmB1Fpr0smhOcAnxo8zd8z2fb9w8uMb8j8QQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "BEST PIZZA EVER",
+      "time": 1729582310,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11976221166121735638",
+  "user_ratings_total": 3,
+  "vicinity": "71 Jalan Tari Piring"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "21 Fernvale Cl, Singapore 797460",
+  "geometry": {
+    "location": {
+      "lat": 1.3940294,
+      "lng": 103.8810586
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395546080291502,
+        "lng": 103.8822111802915
+      },
+      "southwest": {
+        "lat": 1.392848119708498,
+        "lng": 103.8795132197085
+      }
+    }
+  },
+  "name": "HEYSHARK",
+  "place_id": "ChIJe94iAiAwfokR72WLmJ_cChc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "J an",
+      "author_url": "https://www.google.com/maps/contrib/109051792836067391043/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYWNADlpR3_FylHV8UcIXC5eDGhY0t8jPj3sgxn6oCZ6DnMcY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Coach is patient with my boy👍🏻\nHe enjoyed the lesson & finally not afraid of water!",
+      "time": 1708568165,
+      "translated": false
+    },
+    {
+      "author_name": "Sailfish Ray",
+      "author_url": "https://www.google.com/maps/contrib/104848619969747253087/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfTx3cE7o3YWiALpYNU8nvavNOeDIY3QNPbZcqiFPqq2-oYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692283656,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1660381990656632303",
+  "user_ratings_total": 2,
+  "vicinity": "21 Fernvale Close"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375283,
+      "lng": 103.996193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376566880291502,
+        "lng": 103.9975192302915
+      },
+      "southwest": {
+        "lat": 1.373868919708498,
+        "lng": 103.9948212697085
+      }
+    }
+  },
+  "name": "3rd Cargo Agents",
+  "place_id": "ChIJi5is0XE82jERgGIGC35VlsA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13877373301627970176",
+  "vicinity": "Singapore"
+}

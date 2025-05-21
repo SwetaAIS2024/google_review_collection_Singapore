@@ -1,0 +1,67 @@
+{
+  "formatted_address": "49, Lorong Api-api, Pendas, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3767408,
+      "lng": 103.6362779
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378073080291502,
+        "lng": 103.6376764802915
+      },
+      "southwest": {
+        "lat": 1.375375119708498,
+        "lng": 103.6349785197085
+      }
+    }
+  },
+  "name": "Tahfeez Mart & Cafe",
+  "place_id": "ChIJTyRUD8wP2jERnVKht3fmutM",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "umi yahya",
+      "author_url": "https://www.google.com/maps/contrib/104182192172593515498/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQKr5x-w1_P26beKZzWT1N8sngkv8RTmllN-rZPWiC302UID_o=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "The food is okay, but the service is slow. If the food is slow, I understand. But you have to wait 13 minutes for the water. Even if you order by COD, it's better to take your turn.",
+      "time": 1707484617,
+      "translated": true
+    },
+    {
+      "author_name": "Labu Bungeks",
+      "author_url": "https://www.google.com/maps/contrib/105788819124267419816/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRDx7MBHTF64dji50X6A7bTkEZDJCQhmKaWK8Si7eC_4oe9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Alhamdulillah the food is delicious, better order or book before coming as there is limited food.",
+      "time": 1701342109,
+      "translated": true
+    },
+    {
+      "author_name": "Nadia Ali",
+      "author_url": "https://www.google.com/maps/contrib/115371137913176678942/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaL0Xdl5UtEfXxydvsRAPuoVd4QMHaC1qob4yQDk6GjBqczsME=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704463154,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15256760089527276189",
+  "user_ratings_total": 3,
+  "vicinity": "49, Lorong Api-api, Pendas, Gelang Patah"
+}

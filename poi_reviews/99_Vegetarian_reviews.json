@@ -1,0 +1,30 @@
+{
+  "formatted_address": "638A Jurong West Street 61, #01-22, Singapore 641638",
+  "geometry": {
+    "location": {
+      "lat": 1.3418568,
+      "lng": 103.6974327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343093080291502,
+        "lng": 103.6987210802915
+      },
+      "southwest": {
+        "lat": 1.340395119708498,
+        "lng": 103.6960231197085
+      }
+    }
+  },
+  "name": "99 Vegetarian",
+  "place_id": "ChIJKXOkcwAP2jERJUQvmnLT1z0",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4456262845472916517",
+  "vicinity": "638A Jurong West Street 61, #01-22, Singapore"
+}

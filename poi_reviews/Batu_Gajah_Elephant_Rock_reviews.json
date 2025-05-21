@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Pulau Ubin, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4031911,
+      "lng": 103.9739026
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.40552075,
+        "lng": 103.9751963
+      },
+      "southwest": {
+        "lat": 1.40158615,
+        "lng": 103.9700215
+      }
+    }
+  },
+  "name": "Batu Gajah (Elephant Rock)",
+  "place_id": "ChIJMXMOOUU_2jERS4-Zw-er_qk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yeo Chee Beng",
+      "author_url": "https://www.google.com/maps/contrib/107715584280695899578/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEyTZOLma5xq0KGZbyk62TGOrQycfdj12yx9elQ2YLgu9YfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725483943,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12249417048401743691",
+  "user_ratings_total": 1,
+  "vicinity": "Pulau Ubin"
+}

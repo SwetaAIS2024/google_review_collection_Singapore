@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Block 51 Circuit Rd, #01-809 Block 51, Singapore 370051",
+  "geometry": {
+    "location": {
+      "lat": 1.3245788,
+      "lng": 103.8857656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325976680291502,
+        "lng": 103.8871207302915
+      },
+      "southwest": {
+        "lat": 1.323278719708498,
+        "lng": 103.8844227697085
+      }
+    }
+  },
+  "name": "J & S Trading",
+  "place_id": "ChIJEwZ5zSAY2jERW4r2gKKxFrM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Friendly service & very competitive prices. Famous among residents in this area.",
+      "time": 1496618442,
+      "translated": false
+    },
+    {
+      "author_name": "Pikapikachuzzz",
+      "author_url": "https://www.google.com/maps/contrib/100323039175636047372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmkJ1mDnB0FMHvNvprsv9lFbmOiow2TFGiGIske8q6vemA_2wqPQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486562749,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12904697093783194203",
+  "user_ratings_total": 2,
+  "vicinity": "Block 51 Circuit Road, #01-809 Block 51, Singapore"
+}

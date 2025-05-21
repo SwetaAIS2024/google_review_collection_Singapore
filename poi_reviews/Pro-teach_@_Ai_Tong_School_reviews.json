@@ -1,0 +1,29 @@
+{
+  "formatted_address": "100 Bright Hill Dr, Singapore 579646",
+  "geometry": {
+    "location": {
+      "lat": 1.3604625,
+      "lng": 103.8326352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361804980291502,
+        "lng": 103.8339597302915
+      },
+      "southwest": {
+        "lat": 1.359107019708498,
+        "lng": 103.8312617697085
+      }
+    }
+  },
+  "name": "Pro-teach @ Ai Tong School",
+  "place_id": "ChIJc_VUCGoX2jER1bwvNttSbY8",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10335007821345570005",
+  "vicinity": "100 Bright Hill Drive"
+}

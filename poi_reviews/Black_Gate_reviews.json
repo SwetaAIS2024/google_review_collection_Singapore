@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Brooke Rd, Singapore 429986",
+  "geometry": {
+    "location": {
+      "lat": 1.3038817,
+      "lng": 103.9035863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305278280291502,
+        "lng": 103.9050243302915
+      },
+      "southwest": {
+        "lat": 1.302580319708498,
+        "lng": 103.9023263697085
+      }
+    }
+  },
+  "name": "Black Gate",
+  "place_id": "ChIJs4bYaWUZ2jER3apQg1t-uZ4",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11437311660194310877",
+  "vicinity": "10 Brooke Road"
+}

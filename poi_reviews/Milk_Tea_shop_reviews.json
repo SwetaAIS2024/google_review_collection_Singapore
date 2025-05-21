@@ -1,0 +1,30 @@
+{
+  "formatted_address": "635 Ang Mo Kio Ave 6, Singapore 560635",
+  "geometry": {
+    "location": {
+      "lat": 1.3803431,
+      "lng": 103.842413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381814080291502,
+        "lng": 103.8437533802915
+      },
+      "southwest": {
+        "lat": 1.379116119708498,
+        "lng": 103.8410554197085
+      }
+    }
+  },
+  "name": "Milk Tea shop",
+  "place_id": "ChIJBxdOBgAX2jERC7U-hV9GXy8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3413524418641442059",
+  "vicinity": "635 Ang Mo Kio Avenue 6, Singapore"
+}

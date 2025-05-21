@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Research Link, Singapore 117604",
+  "geometry": {
+    "location": {
+      "lat": 1.2944021,
+      "lng": 103.7769404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295604380291502,
+        "lng": 103.7783079802915
+      },
+      "southwest": {
+        "lat": 1.292906419708498,
+        "lng": 103.7756100197085
+      }
+    }
+  },
+  "name": "Dr. Gregory Jedd",
+  "place_id": "ChIJzXNwdFYa2jERgG_-EcJ4XS0",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3268901679461724032",
+  "vicinity": "1 Research Link, Singapore"
+}

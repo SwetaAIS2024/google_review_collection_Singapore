@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30205,
+      "lng": 103.79834
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303448580291502,
+        "lng": 103.7997339802915
+      },
+      "southwest": {
+        "lat": 1.300750619708498,
+        "lng": 103.7970360197085
+      }
+    }
+  },
+  "name": "C'wealth Stn, Along Commonwealth Ave",
+  "place_id": "ChIJxYG2YUca2jERO2_38QkK65c",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Peng Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/105469780318854300502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlmebiPaGWWXkJmXcHijD51DcOSWecSAsReVmpwZ2xRflyXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637461074,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10946854357084630843",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "21 Tampines Ave 1, Block 30, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.3440308,
+      "lng": 103.9323537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345484930291502,
+        "lng": 103.9337903802915
+      },
+      "southwest": {
+        "lat": 1.342786969708498,
+        "lng": 103.9310924197085
+      }
+    }
+  },
+  "name": "Temasek Launchpad",
+  "place_id": "ChIJseoT-IY92jERwfVHuNRJuro",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nathanael Jimmy Chon",
+      "author_url": "https://www.google.com/maps/contrib/111218357782739501058/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhd5biNiHBbeupfKkyVp1GGvAsa5xY_kvaJU9pzF97hOq7WQI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "The environment is very comfortable and conducive for sharing, discussions and workshop. We are very thankful for the TP staff who helped my boss and team for the set up and admin, as well as guiding us around the campus.",
+      "time": 1561604258,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13455148014696396225",
+  "user_ratings_total": 1,
+  "vicinity": "21 Tampines Avenue 1, Block 30"
+}

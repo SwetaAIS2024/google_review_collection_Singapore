@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Pasir Ris, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3675215,
+      "lng": 103.9616828
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369141130291502,
+        "lng": 103.9633561302915
+      },
+      "southwest": {
+        "lat": 1.366443169708498,
+        "lng": 103.9606581697085
+      }
+    }
+  },
+  "name": "Workout place",
+  "place_id": "ChIJFd52qaw92jER1BW1g_KGt_M",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17561653648104429012",
+  "vicinity": ""
+}

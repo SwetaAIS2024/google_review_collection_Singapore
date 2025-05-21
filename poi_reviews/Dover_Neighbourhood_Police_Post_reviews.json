@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Dover Rd, #01-368, 130003 Block 3, Singapore 130003",
+  "geometry": {
+    "location": {
+      "lat": 1.3038459,
+      "lng": 103.782178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305128030291502,
+        "lng": 103.7834278802915
+      },
+      "southwest": {
+        "lat": 1.302430069708498,
+        "lng": 103.7807299197085
+      }
+    }
+  },
+  "name": "Dover Neighbourhood Police Post",
+  "place_id": "ChIJ73qudVwa2jERlggLteLz6nU",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8496871802013419670",
+  "vicinity": "3 Dover Road, #01-368, 130003 Block 3"
+}

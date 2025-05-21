@@ -1,0 +1,45 @@
+{
+  "formatted_address": "567 Serangoon Rd, Singapore 218182",
+  "geometry": {
+    "location": {
+      "lat": 1.315582,
+      "lng": 103.858115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316972230291502,
+        "lng": 103.8596314302915
+      },
+      "southwest": {
+        "lat": 1.314274269708498,
+        "lng": 103.8569334697085
+      }
+    }
+  },
+  "name": "Kumaran Stores Pte Ltd",
+  "place_id": "ChIJVTg8vM8Z2jERW69YfM71dGE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Himanshu Arora",
+      "author_url": "https://www.google.com/maps/contrib/112244060302222534680/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAU6spIXWqzUuaZRr_BAeXIvqrfKPha0gG1X6FS18LpXHx9KZi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604489436,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7022507986175700827",
+  "user_ratings_total": 1,
+  "vicinity": "567 Serangoon Road"
+}

@@ -1,0 +1,81 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2635255,
+      "lng": 103.8220472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265119180291502,
+        "lng": 103.8228188802915
+      },
+      "southwest": {
+        "lat": 1.262421219708498,
+        "lng": 103.8201209197085
+      }
+    }
+  },
+  "name": "HSBC ATM",
+  "place_id": "ChIJVRt6mlgZ2jERuLFFeZNODME",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Arun Kumar",
+      "author_url": "https://www.google.com/maps/contrib/112371922905377698944/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjU4QJhZbG2QtAst8XTRAIQ8Q9yePJ382xZPJIWF7U0T2nhI5a=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The best.",
+      "time": 1712281428,
+      "translated": false
+    },
+    {
+      "author_name": "Sheldon Kwek",
+      "author_url": "https://www.google.com/maps/contrib/109864217728515732139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2K9FjKp3AK9mkr3mS7BFJzaCICA52KSyqIcRTqFIB7jOkbCgN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "good",
+      "time": 1678436359,
+      "translated": false
+    },
+    {
+      "author_name": "Sumukh Ramprasad",
+      "author_url": "https://www.google.com/maps/contrib/111675243363060678952/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH5R16OfQG23oowRQr9rlxC6Wlltf7tKpberKIPq1jobWiX2Y0BQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "Good",
+      "time": 1456019435,
+      "translated": false
+    },
+    {
+      "author_name": "v starfighter",
+      "author_url": "https://www.google.com/maps/contrib/114827795411906954300/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjM066W4e-RKRJ4vhrrkknrUd3pNo85-LXDwT5x36n5iJseNY_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "You can withdraw from 50SGD.\nChoose whether to trade in Japanese yen with DCC or reject it and trade in Singapore dollars (of course the latter).",
+      "time": 1707055279,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13910579744342389176",
+  "user_ratings_total": 4,
+  "vicinity": "1 HarbourFront Walk"
+}

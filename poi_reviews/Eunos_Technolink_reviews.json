@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333759,
+      "lng": 103.900597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335066980291502,
+        "lng": 103.9019582802915
+      },
+      "southwest": {
+        "lat": 1.332369019708498,
+        "lng": 103.8992603197085
+      }
+    }
+  },
+  "name": "Eunos Technolink",
+  "place_id": "ChIJN6xxUPAX2jERkS77LnTumJc",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Leong Kenny",
+      "author_url": "https://www.google.com/maps/contrib/102445132430008923263/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxDNAEAcAiswJ5HjGRqs660UJkN7CgpiBjZ6qQ_1vLJCv68g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Bus services along Eunos link. Nearest MRT station is DTL kaki bukit or Ubi station.",
+      "time": 1515807497,
+      "translated": false
+    },
+    {
+      "author_name": "lsingmun lsingmun",
+      "author_url": "https://www.google.com/maps/contrib/100192166990937338174/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTxD5FYndwZbPd4vKshNVw7F-lXu_b88bBVmyAZXPwsWmtog=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "ok",
+      "time": 1703847437,
+      "translated": false
+    },
+    {
+      "author_name": "于吐了",
+      "author_url": "https://www.google.com/maps/contrib/110111386586447103212/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBd1is6TjS4TiOLmktwRxORpMoWjU5CRpdCRdwPHHi9U7mqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514336517,
+      "translated": false
+    },
+    {
+      "author_name": "Goh Max",
+      "author_url": "https://www.google.com/maps/contrib/101744739797022156115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKn9RyJa2UqwTBMbZrgY77rbA7iA2k5Bu64JvmcGeMrv12tvQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488778645,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10923743078958968465",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

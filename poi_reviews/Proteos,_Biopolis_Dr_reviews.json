@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30314,
+      "lng": 103.79291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304488230291502,
+        "lng": 103.7942236802915
+      },
+      "southwest": {
+        "lat": 1.301790269708498,
+        "lng": 103.7915257197085
+      }
+    }
+  },
+  "name": "Proteos, Biopolis Dr",
+  "place_id": "ChIJLXreq0Ya2jER_tE_XRNka2M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7163929666594525694",
+  "vicinity": "Singapore"
+}

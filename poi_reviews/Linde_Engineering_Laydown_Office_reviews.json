@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2867377,
+      "lng": 103.720057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288102380291502,
+        "lng": 103.7215714302915
+      },
+      "southwest": {
+        "lat": 1.285404419708498,
+        "lng": 103.7188734697085
+      }
+    }
+  },
+  "name": "Linde Engineering Laydown Office",
+  "place_id": "ChIJn07A1RMF2jERdQlY-MPOKrc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13198588999043123573",
+  "vicinity": "Jurong Island"
+}

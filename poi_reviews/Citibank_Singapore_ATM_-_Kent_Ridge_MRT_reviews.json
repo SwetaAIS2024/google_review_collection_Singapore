@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Kent Ridge Circle Line SMRT Station, 301 South Buona Vista Rd, Singapore 118177",
+  "geometry": {
+    "location": {
+      "lat": 1.2937201,
+      "lng": 103.7848563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295148180291502,
+        "lng": 103.7860429302915
+      },
+      "southwest": {
+        "lat": 1.292450219708498,
+        "lng": 103.7833449697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Kent Ridge MRT",
+  "place_id": "ChIJP4afN1Ia2jERU_KfYGUfK_g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "xueqin Hu",
+      "author_url": "https://www.google.com/maps/contrib/108792028073913292561/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT-YXzkiF2b5jq3iDpVm0GD99casLbDePtoZR9wKagpBx6kA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1443576330,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17882421265677939283",
+  "user_ratings_total": 1,
+  "vicinity": "Kent Ridge Circle Line SMRT Station, 301 South Buona Vista Road"
+}

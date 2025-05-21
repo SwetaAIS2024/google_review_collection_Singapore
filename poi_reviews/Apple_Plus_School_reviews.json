@@ -1,0 +1,54 @@
+{
+  "formatted_address": "140 Upper Bukit Timah Rd, #02-01 Beauty world Plaza, Singapore 588176",
+  "geometry": {
+    "location": {
+      "lat": 1.3415814,
+      "lng": 103.7758553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342924280291502,
+        "lng": 103.7771714802915
+      },
+      "southwest": {
+        "lat": 1.340226319708498,
+        "lng": 103.7744735197085
+      }
+    }
+  },
+  "name": "Apple Plus School",
+  "place_id": "ChIJyd5nY4oQ2jERmlihpy2mVnQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Wayne T",
+      "author_url": "https://www.google.com/maps/contrib/113693118072487926649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ66lNtriOYOc7dqM5lxfPpX9pHRl8-8dNLRa_6AcPHL3LfYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "11 years ago",
+      "text": "Stay away",
+      "time": 1390391522,
+      "translated": false
+    },
+    {
+      "author_name": "Jolin Ngo",
+      "author_url": "https://www.google.com/maps/contrib/112307148673928010218/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrfReo4C6Co8tmmiE4nWFMLTbEsDeu3lw_UwQFT1PdT8XB3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553173987,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8383070471412865178",
+  "user_ratings_total": 2,
+  "vicinity": "140 Upper Bukit Timah Road, #02-01 Beauty world Plaza"
+}

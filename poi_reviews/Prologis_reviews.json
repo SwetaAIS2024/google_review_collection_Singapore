@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374628,
+      "lng": 104.002075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375976830291502,
+        "lng": 104.0034244302915
+      },
+      "southwest": {
+        "lat": 1.373278869708498,
+        "lng": 104.0007264697085
+      }
+    }
+  },
+  "name": "Prologis",
+  "place_id": "ChIJY5CSKHc82jERUf1P4r2nZO8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17250096906723392849",
+  "vicinity": "Singapore"
+}

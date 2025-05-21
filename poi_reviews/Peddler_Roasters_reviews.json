@@ -1,0 +1,30 @@
+{
+  "formatted_address": "34 Jln Kemajuan, Singapore 368991",
+  "geometry": {
+    "location": {
+      "lat": 1.3333388,
+      "lng": 103.881611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334683580291502,
+        "lng": 103.8829415302915
+      },
+      "southwest": {
+        "lat": 1.331985619708498,
+        "lng": 103.8802435697085
+      }
+    }
+  },
+  "name": "Peddler Roasters",
+  "place_id": "ChIJxcyyF_sX2jERd72IOTD-Y4w",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10116208671081414007",
+  "vicinity": "34 Jalan Kemajuan, Singapore"
+}

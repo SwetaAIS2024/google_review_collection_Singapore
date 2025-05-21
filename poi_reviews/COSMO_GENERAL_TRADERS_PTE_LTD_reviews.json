@@ -1,0 +1,30 @@
+{
+  "formatted_address": "415 Pandan Gardens, #01-114, Singapore 600415",
+  "geometry": {
+    "location": {
+      "lat": 1.320736,
+      "lng": 103.7482636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322032580291502,
+        "lng": 103.7495281802915
+      },
+      "southwest": {
+        "lat": 1.319334619708498,
+        "lng": 103.7468302197085
+      }
+    }
+  },
+  "name": "COSMO GENERAL TRADERS PTE LTD",
+  "place_id": "ChIJ5ZlCIWEb2jERm7akfDS3kLk",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13371388729720354459",
+  "vicinity": "415 Pandan Gardens, #01-114, Singapore"
+}

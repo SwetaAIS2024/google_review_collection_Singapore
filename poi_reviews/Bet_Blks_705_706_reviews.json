@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336324,
+      "lng": 103.918289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337672580291502,
+        "lng": 103.9196211802915
+      },
+      "southwest": {
+        "lat": 1.334974619708498,
+        "lng": 103.9169232197085
+      }
+    }
+  },
+  "name": "Bet Blks 705/706",
+  "place_id": "ChIJLTE9xFk92jER7h0mYOBwce4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PingYew Tan",
+      "author_url": "https://www.google.com/maps/contrib/101912574338097847119/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtOPW3Bnq0bmX5p_VCoSvJMH_z4tGElD8iy4cvG6jgAwyZCX7m5Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Easy to get bus to Bedok and Bedok North MRT Station",
+      "time": 1681263552,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17181638162383248878",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

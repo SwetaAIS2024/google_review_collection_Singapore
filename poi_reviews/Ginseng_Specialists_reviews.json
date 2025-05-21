@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Upper Cross St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.285697,
+      "lng": 103.843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286911030291502,
+        "lng": 103.8454818802915
+      },
+      "southwest": {
+        "lat": 1.284213069708498,
+        "lng": 103.8427839197085
+      }
+    }
+  },
+  "name": "Ginseng Specialists",
+  "place_id": "ChIJM7Kvx3QZ2jERw9PBN4znSEY",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5064552370395009987",
+  "vicinity": "Upper Cross Street"
+}

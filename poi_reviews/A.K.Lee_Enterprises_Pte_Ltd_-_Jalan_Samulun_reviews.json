@@ -1,0 +1,41 @@
+{
+  "formatted_address": "16 Jln Samulun, Singapore 629132",
+  "geometry": {
+    "location": {
+      "lat": 1.3036847,
+      "lng": 103.6973379
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305038830291502,
+        "lng": 103.6985637302915
+      },
+      "southwest": {
+        "lat": 1.302340869708498,
+        "lng": 103.6958657697085
+      }
+    }
+  },
+  "name": "A.K.Lee Enterprises Pte Ltd - Jalan Samulun",
+  "place_id": "ChIJtwiQfREF2jERPCBczP4XsSI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "lee chongseng",
+      "author_url": "https://www.google.com/maps/contrib/101527398461062861561/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH9wclLjrO-5QZCpZPiVmDWAs-EyeVmCxmkC7ArohRfgItrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1469520109,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2499805651285057596",
+  "user_ratings_total": 1,
+  "vicinity": "16 Jalan Samulun"
+}

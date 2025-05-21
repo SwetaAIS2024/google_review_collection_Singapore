@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314336,
+      "lng": 103.706955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315634330291502,
+        "lng": 103.7083041802915
+      },
+      "southwest": {
+        "lat": 1.312936369708498,
+        "lng": 103.7056062197085
+      }
+    }
+  },
+  "name": "Bef Jurong Pier Rd",
+  "place_id": "ChIJc5DuFEIF2jER_G-x3gTmqKA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11576755750746288124",
+  "vicinity": "Singapore"
+}

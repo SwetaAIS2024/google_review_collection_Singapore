@@ -1,0 +1,29 @@
+{
+  "formatted_address": "407 Northshore Dr, #01-K1 Northshore Plaza I, Singapore 820407",
+  "geometry": {
+    "location": {
+      "lat": 1.4171246,
+      "lng": 103.9017228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418535330291502,
+        "lng": 103.9030172302915
+      },
+      "southwest": {
+        "lat": 1.415837369708498,
+        "lng": 103.9003192697085
+      }
+    }
+  },
+  "name": "Contactless ATM - Northshore Plaza I",
+  "place_id": "ChIJkySHYuIV2jER8TG5syN-G8M",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14058969353571348977",
+  "vicinity": "407 Northshore Drive, #01-K1 Northshore Plaza I"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.402696,
+      "lng": 103.700912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404062930291502,
+        "lng": 103.7022303302915
+      },
+      "southwest": {
+        "lat": 1.401364969708498,
+        "lng": 103.6995323697085
+      }
+    }
+  },
+  "name": "Aft Ama Keng Rd",
+  "place_id": "ChIJJThFWN8N2jER0RKwlzPTZdY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lester Tey",
+      "author_url": "https://www.google.com/maps/contrib/108103839085066237278/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2OxusjlznOany3firpRQpEKM9Bh5HKl5c1hyPPQ2rCCNVdLhBvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Quiet place...",
+      "time": 1519444810,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15448986315306046161",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "97 Aljunied Cres, Block 97, Singapore 380097",
+  "geometry": {
+    "location": {
+      "lat": 1.3218252,
+      "lng": 103.8853612
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323055680291502,
+        "lng": 103.8870315802915
+      },
+      "southwest": {
+        "lat": 1.320357719708498,
+        "lng": 103.8843336197085
+      }
+    }
+  },
+  "name": "GEHA Garden",
+  "place_id": "ChIJjcsiXqAb2jER--RS5q8pIJE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Harry Kek",
+      "author_url": "https://www.google.com/maps/contrib/105429231916879217756/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3FyJoNmAmoKf7BFIDsIt-j96Ryj9WejRgqe8KsOWN8znglkk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "A well managed and highly educational garden with an aviary and some aquarium.\nPlants were well labeled.\n\nWatch the videos",
+      "time": 1606011874,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10457404170214499579",
+  "user_ratings_total": 1,
+  "vicinity": "97 Aljunied Crescent, Block 97, Singapore"
+}

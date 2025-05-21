@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2845753,
+      "lng": 103.8441174
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285861830291502,
+        "lng": 103.8454727302915
+      },
+      "southwest": {
+        "lat": 1.283163869708498,
+        "lng": 103.8427747697085
+      }
+    }
+  },
+  "name": "The Reader's Cottage",
+  "place_id": "ChIJA0NytHQZ2jERViDBgiBtYRk",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1828862910089207894",
+  "vicinity": "Singapore"
+}

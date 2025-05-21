@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Seletar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4177759,
+      "lng": 103.8626489
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419178980291502,
+        "lng": 103.8639135802915
+      },
+      "southwest": {
+        "lat": 1.416481019708497,
+        "lng": 103.8612156197085
+      }
+    }
+  },
+  "name": "ST Engineering Staff Cafeteria",
+  "place_id": "ChIJucDRYfEV2jERaIHlg_jcjdQ",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Pigeon coder and gamer",
+      "author_url": "https://www.google.com/maps/contrib/100541118599015960178/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_vD_oB9akkVDwNmkhLyEZvDO4RLztQsMDQ4ClhiD-rTbqSxE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730294764,
+      "translated": false
+    },
+    {
+      "author_name": "Liberty Ong",
+      "author_url": "https://www.google.com/maps/contrib/103346194391362570888/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4AMMYI4ZCav090KzWATaI0ol-K5AnkjmTV0TPs3ceIga1pv3d=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1659695666,
+      "translated": false
+    },
+    {
+      "author_name": "Mint Gamer",
+      "author_url": "https://www.google.com/maps/contrib/115282808843983710052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-3S-J8IUndtM3S8W4EBs1zon4u8vfMhAwwLKuN3OGkyHzYHI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698730375,
+      "translated": false
+    },
+    {
+      "author_name": "Suliman Orlanes",
+      "author_url": "https://www.google.com/maps/contrib/114344099566654278725/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmzWaEeVIfECWmcsp9DFcltdIxR81YIKx_iO0breMIi0XvJ78o=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1675131462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15316140867679781224",
+  "user_ratings_total": 4,
+  "vicinity": ""
+}

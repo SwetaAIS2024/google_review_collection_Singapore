@@ -1,0 +1,44 @@
+{
+  "formatted_address": "17 Old Airport Rd, #45 Kallang Estate Hawker, Singapore 397972",
+  "geometry": {
+    "location": {
+      "lat": 1.3074273,
+      "lng": 103.8840769
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308874330291502,
+        "lng": 103.8854040802915
+      },
+      "southwest": {
+        "lat": 1.306176369708498,
+        "lng": 103.8827061197085
+      }
+    }
+  },
+  "name": "#45 Convenience Store",
+  "place_id": "ChIJ27NNXkcY2jERY0KzVxCthuA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Khoo Oon Chong",
+      "author_url": "https://www.google.com/maps/contrib/116172693663321109093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCPjtmzpOrlvzzAbr-jLyD8EVEEyzyPqb5ogdSEzzwyld1KzPe=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601439383,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16178808997077533283",
+  "user_ratings_total": 1,
+  "vicinity": "17 Old Airport Road, #45 Kallang Estate Hawker"
+}

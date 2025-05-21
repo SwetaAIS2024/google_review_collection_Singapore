@@ -1,0 +1,28 @@
+{
+  "formatted_address": "103 Gul Cir, Singapore 629589",
+  "geometry": {
+    "location": {
+      "lat": 1.3175678,
+      "lng": 103.6615092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318790180291502,
+        "lng": 103.6629893802915
+      },
+      "southwest": {
+        "lat": 1.316092219708498,
+        "lng": 103.6602914197085
+      }
+    }
+  },
+  "name": "Stiefel Laboratories Pte Ltd",
+  "place_id": "ChIJQeCfhpIF2jERaSp0OmM543Y",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8566754014534052457",
+  "vicinity": "103 Gul Circle, Singapore"
+}

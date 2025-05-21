@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jurong West, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3325746,
+      "lng": 103.6766347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.33327055,
+        "lng": 103.67931965
+      },
+      "southwest": {
+        "lat": 1.33053995,
+        "lng": 103.67561145
+      }
+    }
+  },
+  "name": "Army Vehicle Parking Area",
+  "place_id": "ChIJIS6y_XsP2jERMeAF7G8c_XA",
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8141694968382480433",
+  "vicinity": "Jurong West"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore, 兀兰路50号",
+  "geometry": {
+    "location": {
+      "lat": 1.3828239,
+      "lng": 103.7598404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384137480291502,
+        "lng": 103.7611326302915
+      },
+      "southwest": {
+        "lat": 1.381439519708498,
+        "lng": 103.7584346697085
+      }
+    }
+  },
+  "name": "National University polyclinics",
+  "place_id": "ChIJT_fGDwAR2jERIUZ0bhROTtw",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15874711586187003425",
+  "vicinity": "兀兰路, 50号"
+}

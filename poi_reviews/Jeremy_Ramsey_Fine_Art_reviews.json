@@ -1,0 +1,52 @@
+{
+  "formatted_address": "16 Bukit Pasoh Rd, Singapore 089830",
+  "geometry": {
+    "location": {
+      "lat": 1.2790729,
+      "lng": 103.8408679
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280392980291502,
+        "lng": 103.8421500802915
+      },
+      "southwest": {
+        "lat": 1.277695019708498,
+        "lng": 103.8394521197085
+      }
+    }
+  },
+  "name": "Jeremy Ramsey Fine Art",
+  "place_id": "ChIJMS6nkW0Z2jERNSfhaOiO05U",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "k c",
+      "author_url": "https://www.google.com/maps/contrib/114568386015868830958/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaFXahaD9szNkWvMAmXa2N7US_wyQfvl0muuLaWzJVJLyAdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1596211326,
+      "translated": false
+    },
+    {
+      "author_name": "Howard Yap",
+      "author_url": "https://www.google.com/maps/contrib/109087855412032211050/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHJvo0zy4I7X94jlPPGf3iBmEiCoS8wp5-lzCkPsvRA1VNvE_V-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1453815080,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10796129860580353845",
+  "user_ratings_total": 2,
+  "vicinity": "16 Bukit Pasoh Road"
+}

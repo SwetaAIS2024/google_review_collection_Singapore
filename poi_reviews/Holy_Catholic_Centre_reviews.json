@@ -1,0 +1,29 @@
+{
+  "formatted_address": "865 Mountbatten Rd, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.3037653,
+      "lng": 103.9009808
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305103930291502,
+        "lng": 103.9024556802915
+      },
+      "southwest": {
+        "lat": 1.302405969708498,
+        "lng": 103.8997577197085
+      }
+    }
+  },
+  "name": "Holy Catholic Centre",
+  "place_id": "ChIJr-rKxm0Y2jERnR5OZyw2ilE",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5875568228197867165",
+  "vicinity": "865 Mountbatten Road, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "150 Bedok Reservoir Rd, Singapore 470150",
+  "geometry": {
+    "location": {
+      "lat": 1.336102,
+      "lng": 103.9126202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337361130291502,
+        "lng": 103.9140044802915
+      },
+      "southwest": {
+        "lat": 1.334663169708498,
+        "lng": 103.9113065197085
+      }
+    }
+  },
+  "name": "28 Mini Mart",
+  "place_id": "ChIJQQ9RyOIX2jERN-MHqzBurYc",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9776591521398121271",
+  "vicinity": "150 Bedok Reservoir Road, Singapore"
+}

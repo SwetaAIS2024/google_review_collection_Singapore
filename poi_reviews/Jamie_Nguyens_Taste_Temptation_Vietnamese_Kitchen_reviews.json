@@ -1,0 +1,56 @@
+{
+  "formatted_address": "2 Bukit Batok Street 24, Building, #09-18 Skytech, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3421371,
+      "lng": 103.7544416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343644330291502,
+        "lng": 103.7559137302915
+      },
+      "southwest": {
+        "lat": 1.340946369708498,
+        "lng": 103.7532157697085
+      }
+    }
+  },
+  "name": "Jamie Nguyen's Taste Temptation Vietnamese Kitchen",
+  "place_id": "ChIJd5ddFAAR2jERL-JlDckZ_FQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joven Chiew",
+      "author_url": "https://www.google.com/maps/contrib/106280097886709879429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0HJT_YAvoxHjw_vhf2EUafIEQCVbwUOET80pYHBkEXfx4Cyh9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "One of the best Vietnamese dishes in this area. Fresh ingredients at a great value, very tasty without the MSG flavor. The lady boss speaks good Mandarin and is willing to explain and make recommendations. The location is windy, and the view is excellent.",
+      "time": 1734413876,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastien Yap",
+      "author_url": "https://www.google.com/maps/contrib/110551897006128482407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBeEtmb02NVzzYCaVoePpW1Focl1btj-2dWnCA8wazbYOrc68yyw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740714150,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6123797944620933679",
+  "user_ratings_total": 2,
+  "vicinity": "2 Bukit Batok Street 24, Building, #09-18 Skytech"
+}

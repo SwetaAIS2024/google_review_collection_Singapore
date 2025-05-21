@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321852,
+      "lng": 103.823441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323038330291502,
+        "lng": 103.8251311302915
+      },
+      "southwest": {
+        "lat": 1.320340369708498,
+        "lng": 103.8224331697085
+      }
+    }
+  },
+  "name": "Aft Dunkirk Ave",
+  "place_id": "ChIJTw2CzPgZ2jERH-kK3u3BS1A",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5785931373664200991",
+  "vicinity": "Singapore"
+}

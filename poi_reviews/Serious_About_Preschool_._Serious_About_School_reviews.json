@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "Serious About Preschool . Serious About School",
+  "place_id": "ChIJW2Oy5fUX2jERn9eL4cpjNg8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Satyendra Mishra",
+      "author_url": "https://www.google.com/maps/contrib/113923014654316111357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFaDZ0HS9dXYTiPuhcHujCzKspaNtmZLMgCHbXqywGbH8-tQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740893290,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1096173282329876383",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

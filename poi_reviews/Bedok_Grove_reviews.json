@@ -1,0 +1,75 @@
+{
+  "formatted_address": "38 Bedok Pl, Singapore 486111",
+  "geometry": {
+    "location": {
+      "lat": 1.3253611,
+      "lng": 103.9535732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326779280291502,
+        "lng": 103.9548690302915
+      },
+      "southwest": {
+        "lat": 1.324081319708498,
+        "lng": 103.9521710697085
+      }
+    }
+  },
+  "name": "Bedok Grove",
+  "place_id": "ChIJdx3bN9Mi2jER-Nq6hS0sTl0",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Macchua Chua",
+      "author_url": "https://www.google.com/maps/contrib/108912771139812863229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtoObULdMP-jzI3vNMTgD1TXVLjsaX3n6NPc2QdA1swIgc_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "This place is along old bedok road",
+      "time": 1572764596,
+      "translated": false
+    },
+    {
+      "author_name": "raman tech 10",
+      "author_url": "https://www.google.com/maps/contrib/105342384153668127928/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLi9JJLbmjE-VtPPrXnV7x59nWrmAzCmmW97ANhrIzSeYjtg_S=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Beautiful place",
+      "time": 1653377168,
+      "translated": false
+    },
+    {
+      "author_name": "c",
+      "author_url": "https://www.google.com/maps/contrib/104520577557056167670/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMOx76ojhmj1HCNoWoL8jO8fDfXe8BRUDlFNjonYG2L5ZwmS4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534575955,
+      "translated": false
+    },
+    {
+      "author_name": "A* A",
+      "author_url": "https://www.google.com/maps/contrib/107578201132177583077/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8pQBcQzrxXkfX097LovXZMXttTq6yUBEQ7dg2Qo0T9UxvnrW_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530449178,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6723359867739495160",
+  "user_ratings_total": 4,
+  "vicinity": "38 Bedok Place"
+}

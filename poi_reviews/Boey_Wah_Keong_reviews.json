@@ -1,0 +1,44 @@
+{
+  "formatted_address": "6A, Napier Rd, #05-36A, Gleneagles Hospital, Singapore 258500, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.307583,
+      "lng": 103.8195431
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308976930291502,
+        "lng": 103.8208984802915
+      },
+      "southwest": {
+        "lat": 1.306278969708498,
+        "lng": 103.8182005197085
+      }
+    }
+  },
+  "name": "Boey Wah Keong",
+  "place_id": "ChIJkbCyJSAa2jER4EHwGGjI_Zk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sylvia Lim",
+      "author_url": "https://www.google.com/maps/contrib/107050725317986321221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmKviJU74At3l16qHSkMzWguZ45_mTDMGvyAolHjRt3Mao3fE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1647872390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "veterinary_care",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11096245406331322848",
+  "user_ratings_total": 1,
+  "vicinity": "6A, Napier Rd, #05-36A, Gleneagles Hospital, Singapore 258500"
+}

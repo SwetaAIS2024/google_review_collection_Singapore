@@ -1,0 +1,70 @@
+{
+  "formatted_address": "70 Vernon Park, Singapore 367827",
+  "geometry": {
+    "location": {
+      "lat": 1.338029,
+      "lng": 103.881475
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.33876375,
+        "lng": 103.8828369302915
+      },
+      "southwest": {
+        "lat": 1.335824750000001,
+        "lng": 103.8801389697085
+      }
+    }
+  },
+  "name": "Lee Joo Ngee",
+  "place_id": "ChIJkeGmWJAX2jERMeHSUCWhELk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kevyn Puwar Magar",
+      "author_url": "https://www.google.com/maps/contrib/106506601750916201670/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaVNf5HDBux6G9aj3gwct5k_LkAcE4hb68L5ltqVsMacua1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Iz the bery good",
+      "time": 1617193069,
+      "translated": false
+    },
+    {
+      "author_name": "D_Shant",
+      "author_url": "https://www.google.com/maps/contrib/116429722949400448275/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb3QxPiHfOQXMgEoM05CvZFgSDhz0qjGIcWumxyKzAYoqjqE4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Noice, good",
+      "time": 1693029660,
+      "translated": false
+    },
+    {
+      "author_name": "Aayus Chamling Rai",
+      "author_url": "https://www.google.com/maps/contrib/106096204306081487573/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0poQ1aYG7DFzhXKS_nQY_vAEHGN9iK3xAFuxjmYDmd-kmFo68=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Nice",
+      "time": 1600210351,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13335335678285898033",
+  "user_ratings_total": 3,
+  "vicinity": "70 Vernon Park"
+}

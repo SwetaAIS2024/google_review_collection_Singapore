@@ -1,0 +1,44 @@
+{
+  "formatted_address": "311c Jln Besar, Singapore 208970",
+  "geometry": {
+    "location": {
+      "lat": 1.3113542,
+      "lng": 103.8590512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312675830291502,
+        "lng": 103.8604419802915
+      },
+      "southwest": {
+        "lat": 1.309977869708498,
+        "lng": 103.8577440197085
+      }
+    }
+  },
+  "name": "I-Kitchen",
+  "place_id": "ChIJ0zcdTJwZ2jER99nSE5zroSA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "kongvidia lee",
+      "author_url": "https://www.google.com/maps/contrib/101346100246714814136/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3ToXltSUpB9vOhsHxmIR7ZFzNPDGKu4Z-rpW0oHuEUoN1Pw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1677568212,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2351419536044120567",
+  "user_ratings_total": 1,
+  "vicinity": "311c Jalan Besar"
+}

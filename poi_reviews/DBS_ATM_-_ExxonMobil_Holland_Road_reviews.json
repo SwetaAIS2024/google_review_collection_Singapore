@@ -1,0 +1,29 @@
+{
+  "formatted_address": "174 Holland Rd, Singapore 278582",
+  "geometry": {
+    "location": {
+      "lat": 1.3124896,
+      "lng": 103.796112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313825230291502,
+        "lng": 103.7974794302915
+      },
+      "southwest": {
+        "lat": 1.311127269708498,
+        "lng": 103.7947814697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Holland Road",
+  "place_id": "ChIJNSp8RgMb2jERg7ocLKkwqIA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9270713336089852547",
+  "vicinity": "174 Holland Road, Singapore"
+}

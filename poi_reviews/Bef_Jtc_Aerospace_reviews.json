@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.404136,
+      "lng": 103.858253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405509980291502,
+        "lng": 103.8595651802915
+      },
+      "southwest": {
+        "lat": 1.402812019708498,
+        "lng": 103.8568672197085
+      }
+    }
+  },
+  "name": "Bef Jtc Aerospace",
+  "place_id": "ChIJ_Qu69igU2jERpdJYoMB3UL4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13713592534550762149",
+  "vicinity": "Singapore"
+}

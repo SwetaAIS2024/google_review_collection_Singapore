@@ -1,0 +1,67 @@
+{
+  "formatted_address": "1 Geylang Serai, #02-116, Singapore 402001",
+  "geometry": {
+    "location": {
+      "lat": 1.3166568,
+      "lng": 103.8981808
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317890530291502,
+        "lng": 103.8995541802915
+      },
+      "southwest": {
+        "lat": 1.315192569708498,
+        "lng": 103.8968562197085
+      }
+    }
+  },
+  "name": "Kafe Tropika",
+  "place_id": "ChIJY4sqUf0Z2jERF7GpnV0ow0E",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Desmond Ho",
+      "author_url": "https://www.google.com/maps/contrib/110109942140832232367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbwXSuXYI6u4EJdyWP9jR6_37AUXCyCEfwNJTdnMnaoEo3XilF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Variety of local Malay hot and cold drinks",
+      "time": 1700874977,
+      "translated": false
+    },
+    {
+      "author_name": "Syafiq",
+      "author_url": "https://www.google.com/maps/contrib/108758751877843896515/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg5qoIfZZjzPjGBu_ijYHSz40Iy1Mct03-ACQWtEZpysVqWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Portion is big, very nice & recommended.",
+      "time": 1711663430,
+      "translated": false
+    },
+    {
+      "author_name": "quek sw",
+      "author_url": "https://www.google.com/maps/contrib/105101535031880702124/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_eSfYVuenGvYoEE6HcWpqxQVb_jYB_83Vg8fstKbrdFZDCQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575802693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4738675615466107159",
+  "user_ratings_total": 3,
+  "vicinity": "1 Geylang Serai, #02-116, Singapore"
+}

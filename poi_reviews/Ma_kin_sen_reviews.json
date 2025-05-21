@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Address: 184 Pasir Ris Street 11, #07-56 Singapore 510184",
+  "geometry": {
+    "location": {
+      "lat": 1.3644943,
+      "lng": 103.9612155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365783680291502,
+        "lng": 103.9626223302915
+      },
+      "southwest": {
+        "lat": 1.363085719708498,
+        "lng": 103.9599243697085
+      }
+    }
+  },
+  "name": "Ma kin sen",
+  "place_id": "ChIJP-MZ5Os92jER8xlCsZ4rLt0",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15937724091889490419",
+  "vicinity": "Address: 184, Pasir Ris Street 11, #07-56, Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1220 ECP, #01-01 East Coast Lagoon Food Village, Singapore 468960",
+  "geometry": {
+    "location": {
+      "lat": 1.3066395,
+      "lng": 103.9353687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308252080291502,
+        "lng": 103.9367314302915
+      },
+      "southwest": {
+        "lat": 1.305554119708498,
+        "lng": 103.9340334697085
+      }
+    }
+  },
+  "name": "Beer Corner",
+  "place_id": "ChIJ48tuWu0j2jERe_u51HSu0-w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Sugar cane juice was OK.",
+      "time": 1692612082,
+      "translated": false
+    },
+    {
+      "author_name": "Chan Meiyee",
+      "author_url": "https://www.google.com/maps/contrib/115709986959486843220/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6ht6QwA9uhoheYRC4_EU__AaTg9bLMuEMUc-J3jJ_lCfRpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727522228,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17065175229845339003",
+  "user_ratings_total": 2,
+  "vicinity": "1220 East Coast Parkway, #01-01 East Coast Lagoon Food Village"
+}

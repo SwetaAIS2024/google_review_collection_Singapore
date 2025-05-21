@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.343114,
+      "lng": 103.8586151
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344504230291502,
+        "lng": 103.8599636302915
+      },
+      "southwest": {
+        "lat": 1.341806269708498,
+        "lng": 103.8572656697085
+      }
+    }
+  },
+  "name": "Comfortdelgro Corp Ltd",
+  "place_id": "ChIJF4o293IX2jERh0cMTmiPMGs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Isaac Nambiar",
+      "author_url": "https://www.google.com/maps/contrib/116643360287378606129/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOmy3TkX4lH-ivIYf-1FS9ax6dt90YooWSNZBfmdLTm20MjNE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Can't get anyone to speak to. Learner's website is so old.",
+      "time": 1696389672,
+      "translated": false
+    },
+    {
+      "author_name": "Kaleb Marciano Ma",
+      "author_url": "https://www.google.com/maps/contrib/107243183341843917608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3wpL6Uz6GqfjiJVhI_115fxLHR690iTNHZNmhoWICm4QvXvBSdA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Bus an taxi company",
+      "time": 1644912557,
+      "translated": false
+    },
+    {
+      "author_name": "GoAheadGroupFan",
+      "author_url": "https://www.google.com/maps/contrib/105877449322822053371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm3AkzrmFf7YEOM0hySeT8b1ju9l9ObcKvCd9XdBSJyrbHrZHX=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Headquarters of SBS Transit",
+      "time": 1540554464,
+      "translated": false
+    },
+    {
+      "author_name": "lklesley Lee",
+      "author_url": "https://www.google.com/maps/contrib/114121897380684725191/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1H-7L9w_d35HnSaBFHgBnOSb6-z-4YW9Dgc-4QkIOwMjjTck7=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534136063,
+      "translated": false
+    },
+    {
+      "author_name": "Bren SG",
+      "author_url": "https://www.google.com/maps/contrib/111693990578713643315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoaRLSB9HNJFs0AW_r48b2RHPqre1rrF_MayEqJdTaKUhpAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506062158,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7723831039089198983",
+  "user_ratings_total": 7,
+  "vicinity": "Singapore"
+}

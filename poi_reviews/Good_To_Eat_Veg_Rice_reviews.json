@@ -1,0 +1,46 @@
+{
+  "formatted_address": "5036 Ang Mo Kio Ind Park 2, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3723856,
+      "lng": 103.861747
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373606080291502,
+        "lng": 103.8631898802915
+      },
+      "southwest": {
+        "lat": 1.370908119708498,
+        "lng": 103.8604919197085
+      }
+    }
+  },
+  "name": "Good To Eat Veg Rice",
+  "place_id": "ChIJsdY9d8cX2jERt045CdtJdp4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Eric Wong",
+      "author_url": "https://www.google.com/maps/contrib/117691308830861443080/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK--TdydG2aLEQWwgD4ANrL_e_qzO8pMbqZfkdl83HoGAPKAJW=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Visited multiple times in Jan to Feb 2024. The food is not bad",
+      "time": 1707926410,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11418395110345887415",
+  "user_ratings_total": 1,
+  "vicinity": "5036 Ang Mo Kio Ind Park 2"
+}

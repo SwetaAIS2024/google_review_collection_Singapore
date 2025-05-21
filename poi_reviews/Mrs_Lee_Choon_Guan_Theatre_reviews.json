@@ -1,0 +1,44 @@
+{
+  "formatted_address": "25 Dover Cl E, Singapore 139745",
+  "geometry": {
+    "location": {
+      "lat": 1.3029246,
+      "lng": 103.7843006
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304309430291502,
+        "lng": 103.7855678302915
+      },
+      "southwest": {
+        "lat": 1.301611469708498,
+        "lng": 103.7828698697085
+      }
+    }
+  },
+  "name": "Mrs Lee Choon Guan Theatre",
+  "place_id": "ChIJS0KT-Y4b2jERX1qTBEZwxa4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Richard Lee",
+      "author_url": "https://www.google.com/maps/contrib/116357765823823452014/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvGziOAyPVRXp9VDcHvcrZR-v_R35dik1sKoLd3Hd20pFu1g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "A nice and cozy theatre!",
+      "time": 1576345659,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12593595379038247519",
+  "user_ratings_total": 1,
+  "vicinity": "25 Dover Close East, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "113 Aljunied Ave 2, #01 29, Singapore 380113",
+  "geometry": {
+    "location": {
+      "lat": 1.3207385,
+      "lng": 103.8864596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322123230291502,
+        "lng": 103.8877365302915
+      },
+      "southwest": {
+        "lat": 1.319425269708498,
+        "lng": 103.8850385697085
+      }
+    }
+  },
+  "name": "Soon Yak Company",
+  "place_id": "ChIJI9AOvy8Z2jER6Rtw5dFCFyg",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2888851155246390249",
+  "vicinity": "113 Aljunied Avenue 2, #01 29, Singapore"
+}

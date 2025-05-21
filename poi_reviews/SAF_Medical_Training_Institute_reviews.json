@@ -1,0 +1,42 @@
+{
+  "formatted_address": "701 Transit Rd, Singapore 778910",
+  "geometry": {
+    "location": {
+      "lat": 1.4056512,
+      "lng": 103.8160445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.407138380291502,
+        "lng": 103.8173147802915
+      },
+      "southwest": {
+        "lat": 1.404440419708498,
+        "lng": 103.8146168197085
+      }
+    }
+  },
+  "name": "SAF Medical Training Institute",
+  "place_id": "ChIJbxxzpesT2jERdH7buWajbHc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Chiken Nuget",
+      "author_url": "https://www.google.com/maps/contrib/106744716877015718654/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXYqG6m7v7dsLrLvnCsjPF46osTivsYUra5FGtAuWTngPCDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743407819,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8605432649598336628",
+  "user_ratings_total": 1,
+  "vicinity": "701 Transit Road, Singapore"
+}

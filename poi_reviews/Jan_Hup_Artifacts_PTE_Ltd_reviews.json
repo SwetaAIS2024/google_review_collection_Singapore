@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.281618,
+      "lng": 103.8443011
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282860130291502,
+        "lng": 103.8454854802915
+      },
+      "southwest": {
+        "lat": 1.280162169708498,
+        "lng": 103.8427875197085
+      }
+    }
+  },
+  "name": "Jan Hup Artifacts PTE Ltd",
+  "place_id": "ChIJLxPzz3IZ2jERb9UsLJSFRUg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vitaliy Tsek",
+      "author_url": "https://www.google.com/maps/contrib/114905242743741817028/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp9rUwlsAN-8SSvkkaxfzjunE9Uw7ZqAHzS-dCeFkgS4ZBtJiG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Jan is very friendly and will help you customize a bracelet with any combination for yourself or as a gift. Jan also provides a story card to describe the properties of each gem or bead and a little story behind it.",
+      "time": 1523085529,
+      "translated": false
+    },
+    {
+      "author_name": "Nguyễn Ngọc Khương",
+      "author_url": "https://www.google.com/maps/contrib/101702398688897058537/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9ovjbT3-M283SOQIHYQTOKATuIijHvijLKICJl1-qViz_8lwO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Pretty",
+      "time": 1667015922,
+      "translated": true
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5207715415566636399",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

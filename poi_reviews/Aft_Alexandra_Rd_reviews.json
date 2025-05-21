@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2727297,
+      "lng": 103.804046
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274014780291502,
+        "lng": 103.8053692802915
+      },
+      "southwest": {
+        "lat": 1.271316819708498,
+        "lng": 103.8026713197085
+      }
+    }
+  },
+  "name": "Aft Alexandra Rd",
+  "place_id": "ChIJo8oTgcEb2jERDb5Pr431ANE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Evergreen TMO",
+      "author_url": "https://www.google.com/maps/contrib/106026635456238114583/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN707Nmi5iar12PAIYWTM-rwX0X2vhhL6NtK0I0IzIJ3gUTPZ_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552481867,
+      "translated": false
+    },
+    {
+      "author_name": "trxshbinx",
+      "author_url": "https://www.google.com/maps/contrib/109050267866591390287/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU83NEmdnRMZhusBfcyHAqmZVLaWS0SqrKqBYORbk_a9643yYLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1436113707,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15060307142807371277",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

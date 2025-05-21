@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.25525,
+      "lng": 103.81335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.256626380291502,
+        "lng": 103.8147234802915
+      },
+      "southwest": {
+        "lat": 1.253928419708498,
+        "lng": 103.8120255197085
+      }
+    }
+  },
+  "name": "Skypark Sentosa by AJ Hackett",
+  "place_id": "ChIJfymXDPkb2jERfS19yiQhBlk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Li Mengkai (Rulangps)",
+      "author_url": "https://www.google.com/maps/contrib/107679001337981444078/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNhOqMVpYaVvt0xz8y1v5RbskB_aDEB-HIDs9-sUCRnxUGJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715142208,
+      "translated": false
+    },
+    {
+      "author_name": "Rubaai Tan",
+      "author_url": "https://www.google.com/maps/contrib/107070701783688876939/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhulhFZ6zB-ksZlIXNCUvmMOXiwvLgOX_cV7qY8MgltBGknswrow=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701898287,
+      "translated": false
+    },
+    {
+      "author_name": "Mei Ling Loh",
+      "author_url": "https://www.google.com/maps/contrib/101168380979854319225/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV4PQMJ2P5qNCKqBn_x-C9y7Y3jU4ZeDieLCs4BoQ129-McrVQzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1653826314,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6414851161135590781",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

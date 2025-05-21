@@ -1,0 +1,85 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.298865,
+      "lng": 103.857346
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300248780291502,
+        "lng": 103.8587277802915
+      },
+      "southwest": {
+        "lat": 1.297550819708498,
+        "lng": 103.8560298197085
+      }
+    }
+  },
+  "name": "Bugis Stn Exit D",
+  "place_id": "ChIJFSVqELAZ2jERt_II_K1dfeM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Hardi Gunadi",
+      "author_url": "https://www.google.com/maps/contrib/109853661410978629159/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxbVBMwLEFTWnaNF4x1CpihGklJk-ILOeSfNRxmFz0DTykoEO8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "5 mins to Bugis MRT Station, 5 mins to Bugis Street Market, next to night steet food, small room but enough, old fashion hotel with a bit modern stuff. I'll be back.",
+      "time": 1499561145,
+      "translated": false
+    },
+    {
+      "author_name": "Isaac Leong",
+      "author_url": "https://www.google.com/maps/contrib/114342170990044311358/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPzLYyXf5ZHYxb2Iq1YfRlxsDijdXmCa_mxotHCNX4-7tRs9fs=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655874070,
+      "translated": false
+    },
+    {
+      "author_name": "BHAVESH JOSHI",
+      "author_url": "https://www.google.com/maps/contrib/112932178359227829484/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQCkDK_ht6loh2uy3BgQwje5FSzjoGviRloBSxBOHGdpYGFYOj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524987204,
+      "translated": false
+    },
+    {
+      "author_name": "Rosa Ete",
+      "author_url": "https://www.google.com/maps/contrib/102833298736259071395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxoN5VSIayJ8rvtkQ_stfdCme7-1hsXv2Kjdktn8qlkTVXtpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505368831,
+      "translated": false
+    },
+    {
+      "author_name": "ChandrasekarP 1",
+      "author_url": "https://www.google.com/maps/contrib/101085100389154419047/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjevq0N1Nn0smkfZIEaAIX7OSvaWBVr6DXSBoRImxCRmFlPxDp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498660229,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16392361220537643703",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

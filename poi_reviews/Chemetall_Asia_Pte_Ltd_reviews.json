@@ -1,0 +1,51 @@
+{
+  "formatted_address": "12 Loyang Cres, Singapore 508980",
+  "geometry": {
+    "location": {
+      "lat": 1.3809082,
+      "lng": 103.973536
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382285080291502,
+        "lng": 103.9748690802915
+      },
+      "southwest": {
+        "lat": 1.379587119708498,
+        "lng": 103.9721711197085
+      }
+    }
+  },
+  "name": "Chemetall Asia Pte Ltd",
+  "place_id": "ChIJ-3UK7Ec82jERG-gmE4kIkeg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Blues",
+      "author_url": "https://www.google.com/maps/contrib/107226988407835287143/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4dlIFYXxfe2-H-IjwwspfA_m5cTOMCdRv55gMGVapbqs9SvIW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746183004,
+      "translated": false
+    },
+    {
+      "author_name": "CJ Caipang",
+      "author_url": "https://www.google.com/maps/contrib/109506462967954234508/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh_wDkEBtdWM0rC34-rJTqd9r8_HZOOt9a40wUTRBwPmgMBkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701356018,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16758185073247184923",
+  "user_ratings_total": 2,
+  "vicinity": "12 Loyang Crescent, Singapore"
+}

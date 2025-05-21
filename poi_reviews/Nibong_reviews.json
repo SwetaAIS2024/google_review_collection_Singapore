@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 821313",
+  "geometry": {
+    "location": {
+      "lat": 1.41187,
+      "lng": 103.90031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.413225480291502,
+        "lng": 103.9016460302915
+      },
+      "southwest": {
+        "lat": 1.410527519708498,
+        "lng": 103.8989480697085
+      }
+    }
+  },
+  "name": "Nibong",
+  "place_id": "ChIJRSU7ou8V2jERd5DF4MFSPTU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3836313450242740343",
+  "vicinity": "Singapore"
+}

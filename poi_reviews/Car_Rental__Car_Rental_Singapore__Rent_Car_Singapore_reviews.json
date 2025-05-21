@@ -1,0 +1,28 @@
+{
+  "formatted_address": "64 New Upper Changi Rd, Singapore 460064",
+  "geometry": {
+    "location": {
+      "lat": 1.3242748,
+      "lng": 103.9399136
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325716180291502,
+        "lng": 103.9412438802915
+      },
+      "southwest": {
+        "lat": 1.323018219708498,
+        "lng": 103.9385459197085
+      }
+    }
+  },
+  "name": "Car Rental | Car Rental Singapore | Rent Car Singapore",
+  "place_id": "ChIJ20m0-soi2jER0XOvuxWjJUA",
+  "types": [
+    "car_rental",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4622279906304160721",
+  "vicinity": "64 New Upper Changi Road"
+}

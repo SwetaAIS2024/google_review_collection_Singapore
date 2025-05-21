@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4238359,
+      "lng": 103.7587073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.425223080291502,
+        "lng": 103.7600467802915
+      },
+      "southwest": {
+        "lat": 1.422525119708498,
+        "lng": 103.7573488197085
+      }
+    }
+  },
+  "name": "KF1 Karting Circuit",
+  "place_id": "ChIJ9SpmxUYS2jER3kC2kQ94UZc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "GYJYGKJ GKUHKUHK",
+      "author_url": "https://www.google.com/maps/contrib/105017110508498792336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZZOHsOIzb7Ol-l8cEvya6_IUJcyDHm07huLmsWW_MFrmgwE29=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1622333713,
+      "translated": false
+    },
+    {
+      "author_name": "Ab Rashid",
+      "author_url": "https://www.google.com/maps/contrib/116222302265280143230/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0OfhF3oR5mOqBZHBltxLep9XKbDqaDiQgHQ8_upEpwlSQSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531992319,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10903628181105164510",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

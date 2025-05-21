@@ -1,0 +1,29 @@
+{
+  "formatted_address": "319 Orchard Rd, Singapore 238873",
+  "geometry": {
+    "location": {
+      "lat": 1.302748,
+      "lng": 103.834616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303906430291502,
+        "lng": 103.8359122802915
+      },
+      "southwest": {
+        "lat": 1.301208469708498,
+        "lng": 103.8332143197085
+      }
+    }
+  },
+  "name": "C.E.D.S Sunglasses",
+  "place_id": "ChIJAQAAIJIZ2jERYQoYVyQNeKA",
+  "types": [
+    "shopping_mall",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11563006493004925537",
+  "vicinity": "319 Orchard Road, Singapore"
+}

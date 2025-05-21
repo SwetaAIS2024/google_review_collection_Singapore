@@ -1,0 +1,44 @@
+{
+  "formatted_address": "103 Jalan Kembangan, Singapore 419141",
+  "geometry": {
+    "location": {
+      "lat": 1.3251069,
+      "lng": 103.9132861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326458730291502,
+        "lng": 103.9146630302915
+      },
+      "southwest": {
+        "lat": 1.323760769708498,
+        "lng": 103.9119650697085
+      }
+    }
+  },
+  "name": "Abata Treehouse",
+  "place_id": "ChIJy7emqoAZ2jER-Cx89hE8Ptw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ihsan Adam",
+      "author_url": "https://www.google.com/maps/contrib/114962297498859622508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrFAogje9PxbcFWQYCi9fKSaZMcLyIR9LqP8_ByiTmv5UyOgQp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Childcare",
+      "time": 1678689967,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15870188184747650296",
+  "user_ratings_total": 1,
+  "vicinity": "103 Jalan Kembangan"
+}

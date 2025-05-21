@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.426511,
+      "lng": 103.705582
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427865580291502,
+        "lng": 103.7069187302915
+      },
+      "southwest": {
+        "lat": 1.425167619708498,
+        "lng": 103.7042207697085
+      }
+    }
+  },
+  "name": "Aft Lim Chu Kang Lane 3",
+  "place_id": "ChIJyV9D-b0N2jERy8ZXDNX_gHg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Matthew Chia",
+      "author_url": "https://www.google.com/maps/contrib/105744172257980026913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtgVaX3AejT0HKZJlGb5psg5jgIQ0XXVjke_CEQ2TeKoyqu7CG=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Amazing bus. The place is near bollywood farm and sungei buloh wetlands reserve",
+      "time": 1654530817,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8683221372070512331",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

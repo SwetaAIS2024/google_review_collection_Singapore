@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Parkway Parade, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3013366,
+      "lng": 103.9052333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302846630291502,
+        "lng": 103.9068039802915
+      },
+      "southwest": {
+        "lat": 1.300148669708498,
+        "lng": 103.9041060197085
+      }
+    }
+  },
+  "name": "oarkway",
+  "place_id": "ChIJc9PkGgAZ2jERF4QSmkrZ2vk",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18003941374802691095",
+  "vicinity": "Parkway Parade"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "20 Mandai Lake Rd, Singapore 729825",
+  "geometry": {
+    "location": {
+      "lat": 1.4067698,
+      "lng": 103.7808461
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.408615180291502,
+        "lng": 103.7824697802915
+      },
+      "southwest": {
+        "lat": 1.405917219708498,
+        "lng": 103.7797718197085
+      }
+    }
+  },
+  "name": "Heart of Africa",
+  "place_id": "ChIJ3ynZaQAT2jER8dvZbiKOX_w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Rodrigues",
+      "author_url": "https://www.google.com/maps/contrib/112071771584127830520/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC9ltw-y7Mb0nS0CN4OrMaCEwIHg4PTfYWeHJqz_5s5DaKmO9dSA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Beautiful place to come and see the Birds of Africa.",
+      "time": 1726675769,
+      "translated": false
+    },
+    {
+      "author_name": "Chua Gabriel Alexander Chong (Changkatps)",
+      "author_url": "https://www.google.com/maps/contrib/100423594573316505377/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4OwQp6cgg98vXLiNr0l0v7coAnSAomaAdroWRprzwSRk9Tg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "So beautiful",
+      "time": 1737613102,
+      "translated": false
+    },
+    {
+      "author_name": "Edmund Tiong",
+      "author_url": "https://www.google.com/maps/contrib/103510858540253079749/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiw8alh8P9BwyTyJWaC47JaWgHe7xZ4jb2rRrUB9QqmFEYubVj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736058601,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18185410098885155825",
+  "user_ratings_total": 3,
+  "vicinity": "20 Mandai Lake Road, Singapore"
+}

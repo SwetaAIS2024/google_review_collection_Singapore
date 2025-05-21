@@ -1,0 +1,30 @@
+{
+  "formatted_address": "23 Hazel Park Terrace, #01-02, Singapore 678947",
+  "geometry": {
+    "location": {
+      "lat": 1.3737047,
+      "lng": 103.7656817
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375090730291502,
+        "lng": 103.7671182302915
+      },
+      "southwest": {
+        "lat": 1.372392769708498,
+        "lng": 103.7644202697085
+      }
+    }
+  },
+  "name": "Bala Traders Pte Ltd",
+  "place_id": "ChIJ28VxAfQR2jERhMEzcWUFBcs",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14629104897831977348",
+  "vicinity": "23 Hazel Park Terrace, #01-02"
+}

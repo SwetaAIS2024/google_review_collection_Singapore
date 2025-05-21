@@ -1,0 +1,54 @@
+{
+  "formatted_address": "20 Marine Ter, Block 20, Singapore 440020",
+  "geometry": {
+    "location": {
+      "lat": 1.3040113,
+      "lng": 103.9148975
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305416630291502,
+        "lng": 103.9162565302915
+      },
+      "southwest": {
+        "lat": 1.302718669708498,
+        "lng": 103.9135585697085
+      }
+    }
+  },
+  "name": "Talent Plus Group",
+  "place_id": "ChIJ__9PIp4i2jER5OxKHHY05jM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sunil Kumar",
+      "author_url": "https://www.google.com/maps/contrib/105109467621263011221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgb7dAUwjjmciQLTjS5_oXk-VxDPzdHoUmzOuD2G0Apz2EB0YT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Miss Irene worked magic on our kid during his short term there. Having transferred from another childcare with a horrible experience, Talent Plus was a breath of fresh air. My child's social and emotional development was off for a good start after spending about 6 months here.",
+      "time": 1706945398,
+      "translated": false
+    },
+    {
+      "author_name": "Ragi Devidasan",
+      "author_url": "https://www.google.com/maps/contrib/106542800408280524965/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3l0OM4pIQ0QZ9S0da7vrDa04sJ9O9PbfXqAhlaTFfvNw_Eo1s9A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638238555,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3739734222463233252",
+  "user_ratings_total": 2,
+  "vicinity": "20 Marine Terrace, Block 20, Singapore"
+}

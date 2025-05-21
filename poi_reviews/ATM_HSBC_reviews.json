@@ -1,0 +1,81 @@
+{
+  "formatted_address": "218 Orchard Rd, Singapore 238851",
+  "geometry": {
+    "location": {
+      "lat": 1.3015366,
+      "lng": 103.8386137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302831630291502,
+        "lng": 103.8399402302915
+      },
+      "southwest": {
+        "lat": 1.300133669708498,
+        "lng": 103.8372422697085
+      }
+    }
+  },
+  "name": "ATM (HSBC)",
+  "place_id": "ChIJU0CDMZEZ2jER8oQvwl04C7M",
+  "rating": 2.8,
+  "reviews": [
+    {
+      "author_name": "Pls letmein",
+      "author_url": "https://www.google.com/maps/contrib/115120749633220577047/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbskqEIOTl9BwQllTA0mIjstmGJm_9svC7msDfJ_a8Vc4jtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "POS ate my card, number can’t be called on a travelers SIM card. What a joke.",
+      "time": 1729830563,
+      "translated": false
+    },
+    {
+      "author_name": "Dream like a Pro",
+      "author_url": "https://www.google.com/maps/contrib/102019001601931493221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvmbdibdFviOB_qESAQzWf9Od3K6AlbxGQw6m0DZslalSOLDU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "I don’t think HSBC provides enough ATM machines in town but with the fact Singapore is a cashless country, it is not causing too much problem. There is nobody in queue all the time. HSBC is not a local bank anyway. That’s probably reasonable.",
+      "time": 1699884308,
+      "translated": false
+    },
+    {
+      "author_name": "Jerry Lim",
+      "author_url": "https://www.google.com/maps/contrib/102381756798488552234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmDJKcWsn9FX_6DXq21aeVTrlTRT1DeQhVqCn1PN6404RolQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "No cash deposit at all !!!",
+      "time": 1734112325,
+      "translated": false
+    },
+    {
+      "author_name": "Red Planet",
+      "author_url": "https://www.google.com/maps/contrib/109120094997795378294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGAyN8N-Whc3hq37vozk65m39eQHB2p94iH2jIIpEwSThu1DkR5g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Opposite to somerset 313",
+      "time": 1515030099,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12901467532873925874",
+  "user_ratings_total": 4,
+  "vicinity": "218 Orchard Road, Singapore"
+}

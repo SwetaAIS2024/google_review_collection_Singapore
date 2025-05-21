@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Taman Bedok, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3246893,
+      "lng": 103.954123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326038280291502,
+        "lng": 103.9554719802915
+      },
+      "southwest": {
+        "lat": 1.323340319708498,
+        "lng": 103.9527740197085
+      }
+    }
+  },
+  "name": "Taman bedok",
+  "place_id": "ChIJRdF-WAAj2jERtbH23rYOMNA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15001506537358668213",
+  "vicinity": "Taman Bedok"
+}

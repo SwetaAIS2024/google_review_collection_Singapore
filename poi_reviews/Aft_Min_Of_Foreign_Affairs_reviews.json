@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30634,
+      "lng": 103.814308
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307756630291502,
+        "lng": 103.8156356802915
+      },
+      "southwest": {
+        "lat": 1.305058669708498,
+        "lng": 103.8129377197085
+      }
+    }
+  },
+  "name": "Aft Min Of Foreign Affairs",
+  "place_id": "ChIJURmpRyIa2jERoKBTqku7-jU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "gokul krishna",
+      "author_url": "https://www.google.com/maps/contrib/112426167888586795778/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQH-gNtHqZ-MOLl_WOJecAwVMY6AHXWNYAqkFc5z_EYX4vCh6h=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686640991,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3889627161842393248",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

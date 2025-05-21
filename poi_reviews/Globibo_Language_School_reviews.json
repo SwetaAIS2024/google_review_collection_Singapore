@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Jalan Bukit Merah, #04-10 Blk 1002, Singapore 159456",
+  "geometry": {
+    "location": {
+      "lat": 1.2842137,
+      "lng": 103.8126711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285541880291502,
+        "lng": 103.8140913802915
+      },
+      "southwest": {
+        "lat": 1.282843919708498,
+        "lng": 103.8113934197085
+      }
+    }
+  },
+  "name": "Globibo Language School",
+  "place_id": "ChIJFZ2_g9Eb2jERVl5jI7x1nyE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Manuela HURIA",
+      "author_url": "https://www.google.com/maps/contrib/105773045492989137964/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGH0IWRrfno79S05ankzRquhDbtYn3Pl5-plEWZZIZD09UTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Do not use them. They do not vet their suppliers’ skills and do not pay their vendors.",
+      "time": 1740031435,
+      "translated": false
+    },
+    {
+      "author_name": "Liang Sim",
+      "author_url": "https://www.google.com/maps/contrib/117759235287864103322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItM-1S8v865B3L028KvbqX9Ao9350ZAtgYqGLpILagboTwDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Fast and efficient",
+      "time": 1564048281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2422784575456632406",
+  "user_ratings_total": 2,
+  "vicinity": "Jalan Bukit Merah, #04-10 Blk 1002"
+}

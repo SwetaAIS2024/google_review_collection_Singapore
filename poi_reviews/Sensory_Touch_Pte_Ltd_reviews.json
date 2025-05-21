@@ -1,0 +1,29 @@
+{
+  "formatted_address": "160 Rochor Rd, Singapore 188435",
+  "geometry": {
+    "location": {
+      "lat": 1.3009822,
+      "lng": 103.8552762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302262280291502,
+        "lng": 103.8567939802915
+      },
+      "southwest": {
+        "lat": 1.299564319708498,
+        "lng": 103.8540960197085
+      }
+    }
+  },
+  "name": "Sensory Touch Pte Ltd",
+  "place_id": "ChIJPxCSYboZ2jERXFNKbVCsHGg",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7502060540723352412",
+  "vicinity": "160 Rochor Road"
+}

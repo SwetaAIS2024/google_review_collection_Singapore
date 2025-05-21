@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26 Sentosa Gateway, Level 1 Visitor Centre, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2575639,
+      "lng": 103.8225089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258941430291502,
+        "lng": 103.8244356302915
+      },
+      "southwest": {
+        "lat": 1.256243469708498,
+        "lng": 103.8217376697085
+      }
+    }
+  },
+  "name": "DBS ATM - Resorts World Sentosa Level 1 Visitor Centre",
+  "place_id": "ChIJGVDPCDMZ2jER0JxtbwMpijE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3569710749375634640",
+  "vicinity": "26 Sentosa Gateway, Level 1 Visitor Centre"
+}

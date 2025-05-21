@@ -1,0 +1,27 @@
+{
+  "formatted_address": "223 Simei Street 4, Block 223, Singapore 520223",
+  "geometry": {
+    "location": {
+      "lat": 1.3422155,
+      "lng": 103.9576199
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343562030291502,
+        "lng": 103.9589707802915
+      },
+      "southwest": {
+        "lat": 1.340864069708498,
+        "lng": 103.9562728197085
+      }
+    }
+  },
+  "name": "Tradeimpex",
+  "place_id": "ChIJ5z8JESE92jERZ7TTVOHsgEc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5152378426246804583",
+  "vicinity": "223 Simei Street 4, Block 223"
+}

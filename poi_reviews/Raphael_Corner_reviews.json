@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bukit Timah, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3331419,
+      "lng": 103.7780641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334492730291502,
+        "lng": 103.7794130302915
+      },
+      "southwest": {
+        "lat": 1.331794769708498,
+        "lng": 103.7767150697085
+      }
+    }
+  },
+  "name": "Raphael Corner",
+  "place_id": "ChIJ1f7VlzIR2jERkrw1VDmnrVU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Derek Ler",
+      "author_url": "https://www.google.com/maps/contrib/118043914403479748730/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-yWA_D5sX3mjmHtVxvU3Qc4khHBdrktONfa-cIrxm6e2jX6dleQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "WWCC -> WCH meeting point",
+      "time": 1672208494,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6173774528862600338",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

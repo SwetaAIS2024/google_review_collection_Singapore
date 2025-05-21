@@ -1,0 +1,29 @@
+{
+  "formatted_address": "727 Clementi West Street 2, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3044795,
+      "lng": 103.7637423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305897030291502,
+        "lng": 103.7654085302915
+      },
+      "southwest": {
+        "lat": 1.303199069708498,
+        "lng": 103.7627105697085
+      }
+    }
+  },
+  "name": "Atm",
+  "place_id": "ChIJAQBwCPIa2jERz5ge9_TtcFQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6084624732951320783",
+  "vicinity": "727 Clementi West Street 2, Singapore"
+}

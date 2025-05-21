@@ -1,0 +1,27 @@
+{
+  "formatted_address": "6 Pesek Drive, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2853446,
+      "lng": 103.6789982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286719230291502,
+        "lng": 103.6803288802915
+      },
+      "southwest": {
+        "lat": 1.284021269708498,
+        "lng": 103.6776309197085
+      }
+    }
+  },
+  "name": "Singapore Gas Centre",
+  "place_id": "ChIJzfnlIgAF2jERsPIvsev5SOI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16305557241580221104",
+  "vicinity": "6 Pesek Drive"
+}

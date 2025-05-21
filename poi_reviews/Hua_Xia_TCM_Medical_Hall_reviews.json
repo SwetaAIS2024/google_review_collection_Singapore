@@ -1,0 +1,46 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3431115,
+      "lng": 103.7760782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344759730291502,
+        "lng": 103.7773358302915
+      },
+      "southwest": {
+        "lat": 1.342061769708498,
+        "lng": 103.7746378697085
+      }
+    }
+  },
+  "name": "Hua Xia TCM Medical Hall",
+  "place_id": "ChIJqWjcYooQ2jERoPEobDBUOs4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "simon yeong",
+      "author_url": "https://www.google.com/maps/contrib/102360966393313037459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpybURpedYeTcP2XYHVN9uuc5DdiFhdFl6eVphzeizmsCl6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Good service with experience doctors",
+      "time": 1721050249,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14860282487412158880",
+  "user_ratings_total": 1,
+  "vicinity": "170 Upper Bukit Timah Road"
+}

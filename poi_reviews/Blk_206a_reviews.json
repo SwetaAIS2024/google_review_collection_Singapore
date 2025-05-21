@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3867363,
+      "lng": 103.896295
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388088780291502,
+        "lng": 103.8976306802915
+      },
+      "southwest": {
+        "lat": 1.385390819708498,
+        "lng": 103.8949327197085
+      }
+    }
+  },
+  "name": "Blk 206a",
+  "place_id": "ChIJldRdBRQW2jER7_2ML8etLuE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Samuel Ng",
+      "author_url": "https://www.google.com/maps/contrib/105724618237040745842/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNxB9mqGgzYDhBBxB0vjFS4URmopadM_Ytx-eyesoWwj-5yAZU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521963138,
+      "translated": false
+    },
+    {
+      "author_name": "Zaya marlar",
+      "author_url": "https://www.google.com/maps/contrib/100926841360430634613/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk6NjTCCZz1ZqGcuuxTT4NfDUFed6coCpolAHKYd6RobRws0QjJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499259805,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16226097578470342127",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "10 Sinaran Dr, Singapore 307506",
+  "geometry": {
+    "location": {
+      "lat": 1.3207786,
+      "lng": 103.8442074
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322400930291502,
+        "lng": 103.8455281802915
+      },
+      "southwest": {
+        "lat": 1.319702969708498,
+        "lng": 103.8428302197085
+      }
+    }
+  },
+  "name": "Executive Health Screeners",
+  "place_id": "ChIJdUi9XecZ2jERfsA73vdd-Us",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Danny Tan",
+      "author_url": "https://www.google.com/maps/contrib/110674024345876753815/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2rDN_LJ6OoskTisJXTSgtpTE0wuxFUN8mRAGwHLeqU3Vz3VH5iQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487895243,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5474510141212311678",
+  "user_ratings_total": 1,
+  "vicinity": "10 Sinaran Drive, Singapore"
+}

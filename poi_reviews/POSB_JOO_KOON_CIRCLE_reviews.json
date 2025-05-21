@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Joo Koon Cir, Singapore 629117",
+  "geometry": {
+    "location": {
+      "lat": 1.326016,
+      "lng": 103.6786052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327348080291502,
+        "lng": 103.6802496802915
+      },
+      "southwest": {
+        "lat": 1.324650119708498,
+        "lng": 103.6775517197085
+      }
+    }
+  },
+  "name": "POSB JOO KOON CIRCLE",
+  "place_id": "ChIJ____64AF2jER4reOXDRUBTM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3676437254685767650",
+  "vicinity": "1 Joo Koon Circle"
+}

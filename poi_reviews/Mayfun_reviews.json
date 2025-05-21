@@ -1,0 +1,68 @@
+{
+  "formatted_address": "56 Marine Ter, #01-253 Haven, Singapore 440056",
+  "geometry": {
+    "location": {
+      "lat": 1.3056035,
+      "lng": 103.9153585
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306898280291502,
+        "lng": 103.9166169302915
+      },
+      "southwest": {
+        "lat": 1.304200319708498,
+        "lng": 103.9139189697085
+      }
+    }
+  },
+  "name": "Mayfun",
+  "place_id": "ChIJOYfGnQMj2jERDgl9lUhzpFk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alvin Chong",
+      "author_url": "https://www.google.com/maps/contrib/116282316050061086095/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID7pZKUGKjXWisY-QdZaECIoUK1u6wSnTK9YkFA_V_m8-ezg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Order $250 of drinks and snacks for my party. Got free delivery. Staffs are very friendly at the supermarket and there's a lot of things.",
+      "time": 1685286286,
+      "translated": false
+    },
+    {
+      "author_name": "Ding Wei Tuan",
+      "author_url": "https://www.google.com/maps/contrib/115666881406466856006/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaJOnnQZwEwVNSlDMOlsQOWlkafE13wB_dSbDbwkq6oMD8Ww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Everything at one-stop! Snacks, drinks, alcohol and tobacco. All at very affordable price.",
+      "time": 1685286117,
+      "translated": false
+    },
+    {
+      "author_name": "max tan",
+      "author_url": "https://www.google.com/maps/contrib/108011071750838322620/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpWEo662wgYeF_v1ZjvQoKGS3LWMssxQ9oTcPge9QPxPz46w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689749845,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6459414521138972942",
+  "user_ratings_total": 3,
+  "vicinity": "56 Marine Terrace, #01-253 Haven, Singapore"
+}

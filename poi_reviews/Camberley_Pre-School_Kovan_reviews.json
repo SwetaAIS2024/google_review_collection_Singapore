@@ -1,0 +1,44 @@
+{
+  "formatted_address": "16 Flower Rd, Singapore 549405",
+  "geometry": {
+    "location": {
+      "lat": 1.3602064,
+      "lng": 103.881123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361600430291502,
+        "lng": 103.8825159802915
+      },
+      "southwest": {
+        "lat": 1.358902469708498,
+        "lng": 103.8798180197085
+      }
+    }
+  },
+  "name": "Camberley Pre-School (Kovan)",
+  "place_id": "ChIJaxnBP7IX2jERb5nEy1MWjGo",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "L G",
+      "author_url": "https://www.google.com/maps/contrib/112608572994777515910/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt5BuCZItn6Pf7xtuisGP15oS8sB3s50DdmM8HgPtiMeU0Q3I=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "PLEASE DONT SEND YOUR CHILDREN THERE. IT ISNT A SAFE PLACE.",
+      "time": 1741650603,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7677536013916608879",
+  "user_ratings_total": 1,
+  "vicinity": "16 Flower Road"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "27A Chai Chee Rd, #01-379, Singapore 461027",
+  "geometry": {
+    "location": {
+      "lat": 1.3238866,
+      "lng": 103.923154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325092930291502,
+        "lng": 103.9244922302915
+      },
+      "southwest": {
+        "lat": 1.322394969708498,
+        "lng": 103.9217942697085
+      }
+    }
+  },
+  "name": "Vast Pro Pte Ltd",
+  "place_id": "ChIJ2ZgMknMj2jERw4nI61MHx5c",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Joshua Tan",
+      "author_url": "https://www.google.com/maps/contrib/106073441604064345513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKQzEKiZjyllBoJxX85WeC6rfU0CjCDtD3lis45mgQ2kaCIKnV=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Ordered an item on Shopee and chose to have it delivered to this place for pickup. It's a very convenient process, being within a 3 min walk from my place. Didn't realize that it's 24/7 too which adds to the convenience. Fuss free process, just needed to provide the PIN. Entire process took less than a minute.",
+      "time": 1656327782,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10936718277112007107",
+  "user_ratings_total": 1,
+  "vicinity": "27A Chai Chee Road, #01-379, Singapore"
+}

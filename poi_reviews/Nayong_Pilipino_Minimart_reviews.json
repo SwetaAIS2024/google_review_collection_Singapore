@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Lucky Plaza #03-28, 304 Orchard Road (S)238863, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3043767,
+      "lng": 103.8338798
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305624380291502,
+        "lng": 103.8351702302915
+      },
+      "southwest": {
+        "lat": 1.302926419708498,
+        "lng": 103.8324722697085
+      }
+    }
+  },
+  "name": "Nayong Pilipino Minimart",
+  "place_id": "ChIJHXFAbZIZ2jERgvalCF9GiYk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Bryan Baby",
+      "author_url": "https://www.google.com/maps/contrib/114811369462825213304/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKG4xyJA6-bkf88ft3pkp2V1S-RAD9CadkC6CXgx5NBwfOsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1574480175,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9910529828986418818",
+  "user_ratings_total": 1,
+  "vicinity": "Lucky Plaza #03-28, 304 Orchard Road (S)238863"
+}

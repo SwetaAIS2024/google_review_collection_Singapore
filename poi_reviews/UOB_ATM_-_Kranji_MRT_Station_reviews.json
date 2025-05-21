@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 960 Woodlands Rd, Kranji, Singapore 738702",
+  "geometry": {
+    "location": {
+      "lat": 1.4254933,
+      "lng": 103.7621816
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426921680291502,
+        "lng": 103.7634728802915
+      },
+      "southwest": {
+        "lat": 1.424223719708498,
+        "lng": 103.7607749197085
+      }
+    }
+  },
+  "name": "UOB ATM - Kranji MRT Station",
+  "place_id": "ChIJJUidMEQT2jERLISsuxSZ4_Q",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17646116079294776364",
+  "vicinity": "No. 960 Woodlands Road, Kranji"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Soon Lee St, #01-13 Ispace, Singapore 627608",
+  "geometry": {
+    "location": {
+      "lat": 1.3335762,
+      "lng": 103.6998655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334842780291502,
+        "lng": 103.7012464802915
+      },
+      "southwest": {
+        "lat": 1.332144819708498,
+        "lng": 103.6985485197085
+      }
+    }
+  },
+  "name": "Yufar",
+  "place_id": "ChIJvT1LYgAP2jERCG3JiXggLm8",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8011376489218534664",
+  "vicinity": "Soon Lee Street, #01-13 Ispace, Singapore"
+}

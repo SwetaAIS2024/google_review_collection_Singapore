@@ -1,0 +1,43 @@
+{
+  "formatted_address": "53 Sims Pl, #01-150, Singapore 380053",
+  "geometry": {
+    "location": {
+      "lat": 1.3175011,
+      "lng": 103.8801758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318829680291502,
+        "lng": 103.8814406302915
+      },
+      "southwest": {
+        "lat": 1.316131719708498,
+        "lng": 103.8787426697085
+      }
+    }
+  },
+  "name": "YummySia Modern Zi Char",
+  "place_id": "ChIJU4aNAwAZ2jERoNyx70jk9Lk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742420481,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13399585793244257440",
+  "user_ratings_total": 1,
+  "vicinity": "53 Sims Place, #01-150, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "6 Bukit Sedap Rd, Singapore 279910",
+  "geometry": {
+    "location": {
+      "lat": 1.3190496,
+      "lng": 103.784896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320376130291502,
+        "lng": 103.7863397302915
+      },
+      "southwest": {
+        "lat": 1.317678169708498,
+        "lng": 103.7836417697085
+      }
+    }
+  },
+  "name": "Sensor One Pte Ltd",
+  "place_id": "ChIJ51M56Hoa2jERpprF5fRjSwc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=525623684996897446",
+  "vicinity": "6 Bukit Sedap Road"
+}

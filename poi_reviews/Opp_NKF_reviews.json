@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326654,
+      "lng": 103.8549677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328018830291502,
+        "lng": 103.8562938302915
+      },
+      "southwest": {
+        "lat": 1.325320869708498,
+        "lng": 103.8535958697085
+      }
+    }
+  },
+  "name": "Opp NKF",
+  "place_id": "ChIJ2c7on2IX2jERRdHoc6WVieI",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "J L",
+      "author_url": "https://www.google.com/maps/contrib/111007758147065791797/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSw2nq1ScVfOxqlRLK5yYXWAAgysAhExlbjv8BN2EOtxHeMTc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Need to check Google Maps if there are busses that are supposed to stop here, but won't stop here due to maintanance or something like that. Happened to 124, I think.",
+      "time": 1678049889,
+      "translated": false
+    },
+    {
+      "author_name": "Alan Tham",
+      "author_url": "https://www.google.com/maps/contrib/113924274475064333912/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_R4EiraxN3MtET7Gx_OBXf4uySNwsz5fu-Qq7gtVeh9fURQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725057381,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16323742862227853637",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

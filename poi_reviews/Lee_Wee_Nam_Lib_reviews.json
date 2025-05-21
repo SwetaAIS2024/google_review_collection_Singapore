@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3480009,
+      "lng": 103.6806235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349379180291502,
+        "lng": 103.6819554302915
+      },
+      "southwest": {
+        "lat": 1.346681219708498,
+        "lng": 103.6792574697085
+      }
+    }
+  },
+  "name": "Lee Wee Nam Lib",
+  "place_id": "ChIJ48Hp7woP2jER2v6nGFym93A",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Joben Yong",
+      "author_url": "https://www.google.com/maps/contrib/105054867997098427252/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1vW5PfE0GK4oZJGEbOr-LvR44zZMAeV1QJPfNMOk1Bx4pcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1554698294,
+      "translated": false
+    },
+    {
+      "author_name": "AlwiSH Alkaff",
+      "author_url": "https://www.google.com/maps/contrib/100075859561512653522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK5NpBpB8xt88jByPaaLh5NYd18BtmkMVafyBjazrhZP2OJ2Yl=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482139351,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8140157765976325850",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

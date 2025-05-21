@@ -1,0 +1,44 @@
+{
+  "formatted_address": "132 Jurong Gateway Rd, Singapore 600132",
+  "geometry": {
+    "location": {
+      "lat": 1.3342386,
+      "lng": 103.7396872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335607880291502,
+        "lng": 103.7411496802915
+      },
+      "southwest": {
+        "lat": 1.332909919708498,
+        "lng": 103.7384517197085
+      }
+    }
+  },
+  "name": "The Oasis",
+  "place_id": "ChIJhwUQdwUQ2jEREiaRvAWqOkg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Min Pierce",
+      "author_url": "https://www.google.com/maps/contrib/113258388322042408871/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbit8P7P1njg8p_zyXnO2C3NiwmaKxvwv1Oab425iNkspqTm5K=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724912601,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5204659260995216914",
+  "user_ratings_total": 1,
+  "vicinity": "132 Jurong Gateway Road, Singapore"
+}

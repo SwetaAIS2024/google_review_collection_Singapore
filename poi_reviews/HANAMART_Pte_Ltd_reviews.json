@@ -1,0 +1,46 @@
+{
+  "formatted_address": "262 Jurong East St 24, Singapore 600262",
+  "geometry": {
+    "location": {
+      "lat": 1.3437678,
+      "lng": 103.740943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345140380291502,
+        "lng": 103.7422567302915
+      },
+      "southwest": {
+        "lat": 1.342442419708498,
+        "lng": 103.7395587697085
+      }
+    }
+  },
+  "name": "HANAMART Pte Ltd",
+  "place_id": "ChIJtbAvYAAR2jERbbnQZkBO1W0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Haja Najbudhin",
+      "author_url": "https://www.google.com/maps/contrib/103053356964067658771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQRwkC0wopLAIZp8aSzmCiOg_jsecgQsRTdrU4VwNTIUZ4oA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "12 months ago",
+      "text": "Groceries items all cheapest price",
+      "time": 1716267621,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7914317958683343213",
+  "user_ratings_total": 1,
+  "vicinity": "262 Jurong East Street 24"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "390 Victoria St, Singapore 188061",
+  "geometry": {
+    "location": {
+      "lat": 1.302036,
+      "lng": 103.857772
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303085730291502,
+        "lng": 103.8591550302915
+      },
+      "southwest": {
+        "lat": 1.300387769708498,
+        "lng": 103.8564570697085
+      }
+    }
+  },
+  "name": "Poh Soon Huat",
+  "place_id": "ChIJcyN1v7AZ2jERSBsYzLJxYz4",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4495561865788136264",
+  "vicinity": "390 Victoria Street"
+}

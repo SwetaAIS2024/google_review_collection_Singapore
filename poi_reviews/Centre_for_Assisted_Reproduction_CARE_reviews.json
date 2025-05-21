@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Outram Road, 5, Level 1 Hospital, Block, Singapore 169608",
+  "geometry": {
+    "location": {
+      "lat": 1.2793339,
+      "lng": 103.8342732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280889730291502,
+        "lng": 103.8355515302915
+      },
+      "southwest": {
+        "lat": 1.278191769708498,
+        "lng": 103.8328535697085
+      }
+    }
+  },
+  "name": "Centre for Assisted Reproduction (CARE)",
+  "place_id": "ChIJz_l8rEsZ2jERVy_d_gNnz64",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vivienne Thong",
+      "author_url": "https://www.google.com/maps/contrib/112931984985316219892/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5dDJITkrRsoJD-S3pBX0hIU-Ny1G2Y06Vm2EaRdXm9b0O=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1635218319,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12596399949637037911",
+  "user_ratings_total": 1,
+  "vicinity": "Outram Road, 5, Level 1 Hospital, Block, Singapore"
+}

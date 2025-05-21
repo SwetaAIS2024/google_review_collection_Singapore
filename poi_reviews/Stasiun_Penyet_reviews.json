@@ -1,0 +1,46 @@
+{
+  "formatted_address": "929 Tampines Street 91, Singapore 520929",
+  "geometry": {
+    "location": {
+      "lat": 1.3462887,
+      "lng": 103.9393739
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347706830291502,
+        "lng": 103.9406781802915
+      },
+      "southwest": {
+        "lat": 1.345008869708498,
+        "lng": 103.9379802197085
+      }
+    }
+  },
+  "name": "Stasiun Penyet",
+  "place_id": "ChIJRWjHcwA92jERYgb77SqmKSw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "V L",
+      "author_url": "https://www.google.com/maps/contrib/104168013017365677219/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlgTD7NA5WEh-gc14Z0q3SGE0aSxJe9MezTSHp_s6lEHVrdQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Value for $$$",
+      "time": 1740039648,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3182257315025454690",
+  "user_ratings_total": 1,
+  "vicinity": "929 Tampines Street 91"
+}

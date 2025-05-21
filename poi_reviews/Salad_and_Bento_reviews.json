@@ -1,0 +1,43 @@
+{
+  "formatted_address": "32 Nanyang Cres, Singapore 637658",
+  "geometry": {
+    "location": {
+      "lat": 1.3518082,
+      "lng": 103.6810543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353323580291502,
+        "lng": 103.6822175302915
+      },
+      "southwest": {
+        "lat": 1.350625619708498,
+        "lng": 103.6795195697085
+      }
+    }
+  },
+  "name": "Salad & Bento",
+  "place_id": "ChIJIwHBYKoP2jERrisHzYViqy0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kenneth law",
+      "author_url": "https://www.google.com/maps/contrib/115240078881020320201/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX19r-l84DQrcgGhtLs4uMBugUWscyN7IkLVD9gFrYACCsFhZnD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685313531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3290832279534250926",
+  "user_ratings_total": 1,
+  "vicinity": "32 Nanyang Crescent, Singapore"
+}

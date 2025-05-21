@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320346,
+      "lng": 103.737541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321659130291502,
+        "lng": 103.7388820302915
+      },
+      "southwest": {
+        "lat": 1.318961169708498,
+        "lng": 103.7361840697085
+      }
+    }
+  },
+  "name": "Bet Blks 50/51",
+  "place_id": "ChIJd2Uv_q4a2jERLceqH52Fxa4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dumpy Lumpy",
+      "author_url": "https://www.google.com/maps/contrib/101152137816569571194/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt7JNG_FR9F42dDhb5zJtDvi4AY1AFUKl_RYUwK6rrKoJo2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Nice",
+      "time": 1493518194,
+      "translated": false
+    },
+    {
+      "author_name": "Kong Swee Yu",
+      "author_url": "https://www.google.com/maps/contrib/106612942923934006794/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLttPrF-VqxVGRyNdFXiBzo5TAEIZHGkMFYMuVSgvfa9tnRlA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Good",
+      "time": 1488583326,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12593618842899105581",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

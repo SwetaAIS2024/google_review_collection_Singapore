@@ -1,0 +1,30 @@
+{
+  "formatted_address": "28 Tuas Ave 12, Singapore 639043",
+  "geometry": {
+    "location": {
+      "lat": 1.3345784,
+      "lng": 103.6450078
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335825130291502,
+        "lng": 103.6464647802915
+      },
+      "southwest": {
+        "lat": 1.333127169708498,
+        "lng": 103.6437668197085
+      }
+    }
+  },
+  "name": "Brinton Pharmacy Pte. Ltd.",
+  "place_id": "ChIJtSAj_FAP2jERG6HZJ85wA8Y",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14268372075174011163",
+  "vicinity": "28 Tuas Avenue 12"
+}

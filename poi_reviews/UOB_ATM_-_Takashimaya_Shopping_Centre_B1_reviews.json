@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Orchard Rd, Basement 1 Takashimaya Shopping Centre, No. 391, Singapore 238872",
+  "geometry": {
+    "location": {
+      "lat": 1.3026716,
+      "lng": 103.8343967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304008830291502,
+        "lng": 103.8358226302915
+      },
+      "southwest": {
+        "lat": 1.301310869708498,
+        "lng": 103.8331246697085
+      }
+    }
+  },
+  "name": "UOB ATM - Takashimaya Shopping Centre B1",
+  "place_id": "ChIJRYgfZzcZ2jERjyL5uiLEmY8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This ATM set is at Ngee Ann City Takashimaya Orchard. It's right next to the fountain, near the main events atrium. It shouldn't be that tough to find this ATM, since it's located in quite an open space.",
+      "time": 1685107137,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10347517272305246863",
+  "user_ratings_total": 1,
+  "vicinity": "Orchard Road, Basement 1 Takashimaya Shopping Centre, No. 391"
+}

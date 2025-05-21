@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.342807,
+      "lng": 103.8439528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344155980291502,
+        "lng": 103.8453146802915
+      },
+      "southwest": {
+        "lat": 1.341458019708498,
+        "lng": 103.8426167197085
+      }
+    }
+  },
+  "name": "Arrival plaza",
+  "place_id": "ChIJs-kwMgAX2jER6-2PppXExF4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arina Yaxi Wang",
+      "author_url": "https://www.google.com/maps/contrib/117455050268780719009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcI55xfXBcZ_Kn9f1TtClKnBaSlljXLXylK6a4u7qwmAcZ2BY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Amazing design architecture super easy to navigate security guards are super peak",
+      "time": 1745396858,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6828799082024136171",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

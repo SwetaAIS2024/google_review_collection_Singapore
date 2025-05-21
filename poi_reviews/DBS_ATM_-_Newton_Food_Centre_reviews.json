@@ -1,0 +1,67 @@
+{
+  "formatted_address": "500 Clemenceau Ave N, Singapore 229495",
+  "geometry": {
+    "location": {
+      "lat": 1.3119097,
+      "lng": 103.8393033
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313235130291502,
+        "lng": 103.8405614302915
+      },
+      "southwest": {
+        "lat": 1.310537169708498,
+        "lng": 103.8378634697085
+      }
+    }
+  },
+  "name": "DBS ATM - Newton Food Centre",
+  "place_id": "ChIJufi_dUgZ2jERbiy8dGmXmHI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Located in the corner closer to the carpark, but also the main road. Has both DBS and OCBC next to each other. Definitely the only set of ATM machines here at the hawker centre. Next nearest will be at the Newton MRT itself.",
+      "time": 1636262765,
+      "translated": false
+    },
+    {
+      "author_name": "G L",
+      "author_url": "https://www.google.com/maps/contrib/100865102123320642163/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrAylGVK8qWsXZtaZ6TIYGO6hpym-G6WK1dkI9khf1nX_rJoPB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "DBS ATM next to stall 42. OCBC ATM also available.",
+      "time": 1552441008,
+      "translated": false
+    },
+    {
+      "author_name": "Et Cheng",
+      "author_url": "https://www.google.com/maps/contrib/116819906041660566554/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIA-gW67ri46zsGlUmkIJHqO5gfM5VEh_qwji0NNNG83N-V5g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532588551,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8257516395969653870",
+  "user_ratings_total": 3,
+  "vicinity": "500 Clemenceau Avenue North"
+}

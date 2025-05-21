@@ -1,0 +1,30 @@
+{
+  "formatted_address": "46 Chu Lin Rd, Singapore 669940",
+  "geometry": {
+    "location": {
+      "lat": 1.3579907,
+      "lng": 103.7580689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359234430291502,
+        "lng": 103.7594173802915
+      },
+      "southwest": {
+        "lat": 1.356536469708498,
+        "lng": 103.7567194197085
+      }
+    }
+  },
+  "name": "Kopi Kia(咖啡仔）",
+  "place_id": "ChIJH6kHD0oR2jERYWTtpCf7riM",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2571268584964449377",
+  "vicinity": "46 Chu Lin Road"
+}

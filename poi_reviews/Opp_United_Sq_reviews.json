@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.316497,
+      "lng": 103.844849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317845580291502,
+        "lng": 103.8461460302915
+      },
+      "southwest": {
+        "lat": 1.315147619708498,
+        "lng": 103.8434480697085
+      }
+    }
+  },
+  "name": "Opp United Sq",
+  "place_id": "ChIJRdWEHegZ2jERjdDTHDwMdpU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Priya chandran",
+      "author_url": "https://www.google.com/maps/contrib/117809148154531029659/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV6MvMzLLGumRmKht27QvRaeLevfSGS5s1WaknVtMdI9rDbvMEsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539342720,
+      "translated": false
+    },
+    {
+      "author_name": "Takako Tominaga",
+      "author_url": "https://www.google.com/maps/contrib/112617737412825138336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaIGNSb3WQz2E6vgXaM3n0Lwvb_YH5MdaSTArJdgL88OEV6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483679166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10769809011224334477",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

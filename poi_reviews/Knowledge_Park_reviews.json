@@ -1,0 +1,29 @@
+{
+  "formatted_address": "70 Punggol Dr., Singapore 828802",
+  "geometry": {
+    "location": {
+      "lat": 1.3991315,
+      "lng": 103.9186176
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400339130291502,
+        "lng": 103.9200509802915
+      },
+      "southwest": {
+        "lat": 1.397641169708498,
+        "lng": 103.9173530197085
+      }
+    }
+  },
+  "name": "Knowledge Park",
+  "place_id": "ChIJqzC4Xf492jER48Oc8PxB-0M",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4898581574319916003",
+  "vicinity": "70 Punggol Drive"
+}

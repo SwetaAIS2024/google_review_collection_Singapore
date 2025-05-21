@@ -1,0 +1,54 @@
+{
+  "formatted_address": "1 Tuas South Ave 6, #01-25 The Westcom, Singapore 637021",
+  "geometry": {
+    "location": {
+      "lat": 1.3035749,
+      "lng": 103.625995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304728880291502,
+        "lng": 103.6272725302915
+      },
+      "southwest": {
+        "lat": 1.302030919708498,
+        "lng": 103.6245745697085
+      }
+    }
+  },
+  "name": "Khoon Coffeehouse",
+  "place_id": "ChIJ1Zp1E_8H2jERzC6XUN4AZpY",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Gerald wei hwa",
+      "author_url": "https://www.google.com/maps/contrib/101603129873337671237/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHf3UKODhS_tlhW7ejV2NS5uGj3X_MvtMq19xbh4quBdAzhEU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724368977,
+      "translated": false
+    },
+    {
+      "author_name": "arif",
+      "author_url": "https://www.google.com/maps/contrib/106218136511377102524/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhFI2TotCEMBvyaOriyupH2UQVcsu9zYdf4cNa13FkRy3yvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706177854,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10837350508148502220",
+  "user_ratings_total": 2,
+  "vicinity": "1 Tuas South Avenue 6, #01-25 The Westcom"
+}

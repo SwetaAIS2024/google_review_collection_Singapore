@@ -1,0 +1,28 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.41347,
+      "lng": 103.65481
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.414818580291502,
+        "lng": 103.6561592802915
+      },
+      "southwest": {
+        "lat": 1.412120619708498,
+        "lng": 103.6534613197085
+      }
+    }
+  },
+  "name": "Fraser Place",
+  "place_id": "ChIJCT3APhcM2jERpIU9qlLaIng",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8656721482337846692",
+  "vicinity": "Malaysia"
+}

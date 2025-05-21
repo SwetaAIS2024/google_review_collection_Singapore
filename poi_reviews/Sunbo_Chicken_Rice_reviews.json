@@ -1,0 +1,45 @@
+{
+  "formatted_address": "17 Woodlands Dr 17, B1-03/04 Woodlands Health Campus, Singapore 737628",
+  "geometry": {
+    "location": {
+      "lat": 1.4247939,
+      "lng": 103.7945977
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426436130291502,
+        "lng": 103.7959334302915
+      },
+      "southwest": {
+        "lat": 1.423738169708498,
+        "lng": 103.7932354697085
+      }
+    }
+  },
+  "name": "Sunbo Chicken Rice",
+  "place_id": "ChIJc81mYAAT2jERMJLSQ6kP4KY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Michael Chang",
+      "author_url": "https://www.google.com/maps/contrib/106309785357754377386/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU1HNReSdWzqrHE9hu_C-hB2CuRjH58W9NUGDfvDzZhX-lU_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Not only flavorful, but the portion of chicken was just right, plenty of meat to go with every bite of rice.",
+      "time": 1747137755,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12024628224740987440",
+  "user_ratings_total": 1,
+  "vicinity": "17 Woodlands Drive 17, B1-03/04 Woodlands Health Campus, Singapore"
+}

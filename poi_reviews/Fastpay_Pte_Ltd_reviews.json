@@ -1,0 +1,29 @@
+{
+  "formatted_address": "101 Kitchener Rd, Singapore 208511",
+  "geometry": {
+    "location": {
+      "lat": 1.3086542,
+      "lng": 103.8580634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.310114380291502,
+        "lng": 103.8595135802915
+      },
+      "southwest": {
+        "lat": 1.307416419708498,
+        "lng": 103.8568156197085
+      }
+    }
+  },
+  "name": "Fastpay Pte Ltd",
+  "place_id": "ChIJ2QEtP8gZ2jERNnTvc41B0Zs",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11227827421802624054",
+  "vicinity": "101 Kitchener Road"
+}

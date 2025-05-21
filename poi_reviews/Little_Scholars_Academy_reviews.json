@@ -1,0 +1,30 @@
+{
+  "formatted_address": "231 Mountbatten Rd, Singapore 397999",
+  "geometry": {
+    "location": {
+      "lat": 1.3084932,
+      "lng": 103.8807916
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309886980291502,
+        "lng": 103.8821231302915
+      },
+      "southwest": {
+        "lat": 1.307189019708498,
+        "lng": 103.8794251697085
+      }
+    }
+  },
+  "name": "Little Scholars Academy",
+  "place_id": "ChIJ7zMnBTgY2jERmskvc_XOco8",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10336551648363530650",
+  "vicinity": "231 Mountbatten Road"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "108 Bukit Purmei Rd, #01-129, Singapore 090108",
+  "geometry": {
+    "location": {
+      "lat": 1.2735535,
+      "lng": 103.8245646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275245630291502,
+        "lng": 103.8259837302915
+      },
+      "southwest": {
+        "lat": 1.272547669708498,
+        "lng": 103.8232857697085
+      }
+    }
+  },
+  "name": "Bukit Purmei Hillock Park (Back Entrance)",
+  "place_id": "ChIJ384oQ1gZ2jERAaqqXyxCbNE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jasper Win",
+      "author_url": "https://www.google.com/maps/contrib/100301431943756868737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaM_SVyV3pyz9k52zjBAyDUYG0smYeUcbQ-cQdvY67DD-JnjtM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697376192,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15090509209762703873",
+  "user_ratings_total": 1,
+  "vicinity": "108 Bukit Purmei Road, #01-129, Singapore"
+}

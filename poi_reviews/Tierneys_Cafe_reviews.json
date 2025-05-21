@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Jln Serene, Singapore 258748",
+  "geometry": {
+    "location": {
+      "lat": 1.3226045,
+      "lng": 103.8136993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323800630291502,
+        "lng": 103.8150326802915
+      },
+      "southwest": {
+        "lat": 1.321102669708498,
+        "lng": 103.8123347197085
+      }
+    }
+  },
+  "name": "Tierney's Cafe",
+  "place_id": "ChIJMzgfmgYa2jERe-BFrKOyOIw",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10104022180045381755",
+  "vicinity": "10 Jalan Serene"
+}

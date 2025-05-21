@@ -1,0 +1,46 @@
+{
+  "formatted_address": "101 Yung Sheng Rd, Singapore 618497",
+  "geometry": {
+    "location": {
+      "lat": 1.3344824,
+      "lng": 103.722237
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335662880291502,
+        "lng": 103.7236389802915
+      },
+      "southwest": {
+        "lat": 1.332964919708498,
+        "lng": 103.7209410197085
+      }
+    }
+  },
+  "name": "Soon Kee Teochew Porridge",
+  "place_id": "ChIJMwuhGgAP2jERbRdcfVZnyXE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Clifton Phua",
+      "author_url": "https://www.google.com/maps/contrib/115960857911084344367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyOU8QDz0yjOxWVKLFacAkPA33wqNyYWPlQp7Ei-4jj4VwyJO2=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "The typical cai fan stall in a coffee shop, it gets busy during meal times. My trusty lunch time go to place at times",
+      "time": 1745729437,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8199198217772734317",
+  "user_ratings_total": 1,
+  "vicinity": "101 Yung Sheng Road, Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "8 Banyan Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2585653,
+      "lng": 103.6714205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.259923730291502,
+        "lng": 103.6727898802915
+      },
+      "southwest": {
+        "lat": 1.257225769708498,
+        "lng": 103.6700919197085
+      }
+    }
+  },
+  "name": "Sembcorp Banyan Energy Storage System",
+  "place_id": "ChIJGckkeSsF2jERzPaFaXukkYw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Iyarkai Gunam",
+      "author_url": "https://www.google.com/maps/contrib/105596855221146839637/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVHn44PJd_tmmbLvONOs1As4v-DORpgc2r_YsJbggLAMmtJA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747073166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10129057886891275980",
+  "user_ratings_total": 1,
+  "vicinity": "8 Banyan Road"
+}

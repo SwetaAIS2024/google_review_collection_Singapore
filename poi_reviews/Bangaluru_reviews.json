@@ -1,0 +1,28 @@
+{
+  "formatted_address": "111 Somerset Rd, Singapore 238164",
+  "geometry": {
+    "location": {
+      "lat": 1.3001685,
+      "lng": 103.8372952
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301313180291502,
+        "lng": 103.8384902302915
+      },
+      "southwest": {
+        "lat": 1.298615219708498,
+        "lng": 103.8357922697085
+      }
+    }
+  },
+  "name": "Bangaluru",
+  "place_id": "ChIJ0Xg1gToZ2jER5jIPHstwBJI",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10521658647129305830",
+  "vicinity": "111 Somerset Road"
+}

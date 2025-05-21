@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307513,
+      "lng": 103.917542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308887580291502,
+        "lng": 103.9193485302915
+      },
+      "southwest": {
+        "lat": 1.306189619708498,
+        "lng": 103.9166505697085
+      }
+    }
+  },
+  "name": "St. Patrick's Sch",
+  "place_id": "ChIJn0KW1aEi2jERAAUrIrxMly4",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Nihar Ranjan Baidya",
+      "author_url": "https://www.google.com/maps/contrib/115622317375277697494/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw2Hoyev2mH6gHXG-Xd2GeAEf_rpC8TNsskVyXAHQ7UnPbC2XKOw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Outstanding",
+      "time": 1672289025,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718682307,
+      "translated": false
+    },
+    {
+      "author_name": "Balwinder Singh",
+      "author_url": "https://www.google.com/maps/contrib/111399778414300515238/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqq9Kl5ipdYEk-4igkTowhKdf9cY3l71egbuHsvz4xhQbASEnZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547251875,
+      "translated": false
+    },
+    {
+      "author_name": "Aman Jassal",
+      "author_url": "https://www.google.com/maps/contrib/106094519010135128851/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7_oW3VgHJUsNioQ0rKZ7VNq0hdsRllk0-80vBCPD3MNuneOg7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498468590,
+      "translated": false
+    },
+    {
+      "author_name": "Mark Lee",
+      "author_url": "https://www.google.com/maps/contrib/117159484740729704950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ_YrCjUuoCBc52yFx8I93GKJyOkZYIqtDCRzCxoKoGnhOjrYT=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479519777,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3357236418138801408",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

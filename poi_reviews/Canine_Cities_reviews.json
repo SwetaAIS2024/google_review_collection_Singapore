@@ -1,0 +1,65 @@
+{
+  "formatted_address": "210C Punggol Pl, Singapore 823210",
+  "geometry": {
+    "location": {
+      "lat": 1.3997184,
+      "lng": 103.8999304
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400967580291502,
+        "lng": 103.9012607302915
+      },
+      "southwest": {
+        "lat": 1.398269619708498,
+        "lng": 103.8985627697085
+      }
+    }
+  },
+  "name": "Canine Cities",
+  "place_id": "ChIJNVNJnSI92jERcCSaYeSaIzk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Common Reporting Standard Solutions Asia Pte Ltd",
+      "author_url": "https://www.google.com/maps/contrib/107560513045926002820/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKty_CIstYhiMEk24t5We359kikdRXtMv2phnCv742SF-VsYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Wonderful. Kind, friendly, effective and knowledgeable trainer!",
+      "time": 1496302280,
+      "translated": false
+    },
+    {
+      "author_name": "Bryan Tan",
+      "author_url": "https://www.google.com/maps/contrib/112921690962453958853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKeyckjCWN9jaO2gePtlwyUkPo5S-acURRCIr0-ni6JvsGzAZ-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Exceeded my expectation !",
+      "time": 1489219671,
+      "translated": false
+    },
+    {
+      "author_name": "Bob Ng",
+      "author_url": "https://www.google.com/maps/contrib/114138102145210258073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_Vr-uunzgIMApTMeMqOT4ELTlaKtZjbj6Ok9GSBrblCoPPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509758004,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4117304790027478128",
+  "user_ratings_total": 3,
+  "vicinity": "210C Punggol Place, Singapore"
+}

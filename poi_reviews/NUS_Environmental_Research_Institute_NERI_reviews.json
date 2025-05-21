@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5A Engineering Drive 1, #02-03 T-Lab Building, Singapore 117411",
+  "geometry": {
+    "location": {
+      "lat": 1.2996775,
+      "lng": 103.7721242
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301264930291502,
+        "lng": 103.7734683302915
+      },
+      "southwest": {
+        "lat": 1.298566969708498,
+        "lng": 103.7707703697085
+      }
+    }
+  },
+  "name": "NUS Environmental Research Institute (NERI)",
+  "place_id": "ChIJ4YoVdPca2jERx8r0eUYtlZg",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10994743846011980487",
+  "vicinity": "5A Engineering Drive 1, #02-03 T-Lab Building"
+}

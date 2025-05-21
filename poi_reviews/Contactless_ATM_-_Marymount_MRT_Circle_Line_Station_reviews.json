@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No.60 Marymount Rd, MRT Station, Singapore 573993",
+  "geometry": {
+    "location": {
+      "lat": 1.348581,
+      "lng": 103.839588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349931030291502,
+        "lng": 103.8409193302915
+      },
+      "southwest": {
+        "lat": 1.347233069708498,
+        "lng": 103.8382213697085
+      }
+    }
+  },
+  "name": "Contactless ATM - Marymount MRT Circle Line Station",
+  "place_id": "ChIJCXUIEMMX2jERxQqFpSAnHqA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11537702316539185861",
+  "vicinity": "No.60 Marymount Road, MRT Station"
+}

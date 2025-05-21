@@ -1,0 +1,56 @@
+{
+  "formatted_address": "3 Temasek Blvd, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2957055,
+      "lng": 103.8597298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297070880291502,
+        "lng": 103.8610408802915
+      },
+      "southwest": {
+        "lat": 1.294372919708498,
+        "lng": 103.8583429197085
+      }
+    }
+  },
+  "name": "Snack Attack (Suntec City)",
+  "place_id": "ChIJJ2pGCgAZ2jER2Ag66lGbENY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Daniel",
+      "author_url": "https://www.google.com/maps/contrib/114321771439416343158/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3YzLX96vqRCIFbQXPSd7UB-jUBQglAo7ZBPj4KmpGE73HTw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Probably the most popular vending machine in Singapore. First time seeing a queue at a vending. They sell popular drinks PRIME and snacks like Mr Beast chocolates, Takis etc",
+      "time": 1708149600,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Chua",
+      "author_url": "https://www.google.com/maps/contrib/104793376391119010351/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlndUjNTKxLxsgIwpEN_u6IvAQts-S6IZlRebCBekyQq5wuuQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726750197,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15424999499868276952",
+  "user_ratings_total": 2,
+  "vicinity": "3 Temasek Boulevard"
+}

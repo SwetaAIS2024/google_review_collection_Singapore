@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31A Arab St, Singapore 199730",
+  "geometry": {
+    "location": {
+      "lat": 1.300668,
+      "lng": 103.859523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302039230291502,
+        "lng": 103.8609000302915
+      },
+      "southwest": {
+        "lat": 1.299341269708498,
+        "lng": 103.8582020697085
+      }
+    }
+  },
+  "name": "Operation Smile Singapore",
+  "place_id": "ChIJk9d6qrEZ2jER4rXBpxQcjao",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12289509833203365346",
+  "vicinity": "31A Arab Street"
+}

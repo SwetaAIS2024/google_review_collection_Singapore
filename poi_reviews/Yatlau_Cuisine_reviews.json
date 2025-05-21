@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Bedok Reservoir Rd, #7th Floor Block 701, Singapore 470701",
+  "geometry": {
+    "location": {
+      "lat": 1.3376405,
+      "lng": 103.918704
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339282580291502,
+        "lng": 103.9201914302915
+      },
+      "southwest": {
+        "lat": 1.336584619708498,
+        "lng": 103.9174934697085
+      }
+    }
+  },
+  "name": "Yatlau Cuisine",
+  "place_id": "ChIJwVw_gnw92jER4bfDiUOZr0A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ga Ga",
+      "author_url": "https://www.google.com/maps/contrib/115806894125688581956/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcrDCEBKhgHOQUk-ilETYDeDryz7uvxj0HlN0xBR3Im9K6PaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "the food very nice and very delicious food i like it",
+      "time": 1723265946,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4661112654704916449",
+  "user_ratings_total": 1,
+  "vicinity": "Bedok Reservoir Road, #7th Floor Block 701"
+}

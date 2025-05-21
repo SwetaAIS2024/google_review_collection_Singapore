@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3410824,
+      "lng": 103.7769479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342395480291502,
+        "lng": 103.7783449802915
+      },
+      "southwest": {
+        "lat": 1.339697519708498,
+        "lng": 103.7756470197085
+      }
+    }
+  },
+  "name": "Aft Upp Bt Timah Rd",
+  "place_id": "ChIJYe_WIIoQ2jERRrjT9D-aZ7w",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13575989201212782662",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "BLK #01-108 650323, 323 Bukit Batok Street 33, Singapore 650323",
+  "geometry": {
+    "location": {
+      "lat": 1.3611823,
+      "lng": 103.748248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362524530291502,
+        "lng": 103.7496935802915
+      },
+      "southwest": {
+        "lat": 1.359826569708498,
+        "lng": 103.7469956197085
+      }
+    }
+  },
+  "name": "Shan Teck Tong Medical Hall",
+  "place_id": "ChIJq1NQPzQQ2jER5jeNArzNIno",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8800822829215725542",
+  "vicinity": "BLK #01-108 650323, 323 Bukit Batok Street 33"
+}

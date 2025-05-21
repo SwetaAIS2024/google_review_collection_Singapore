@@ -1,0 +1,55 @@
+{
+  "formatted_address": "378 Alexandra Rd, Block 1 Level 1 Alexandra Hospital, Singapore 159964",
+  "geometry": {
+    "location": {
+      "lat": 1.2864922,
+      "lng": 103.8012166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287765780291502,
+        "lng": 103.8026710302915
+      },
+      "southwest": {
+        "lat": 1.285067819708498,
+        "lng": 103.7999730697085
+      }
+    }
+  },
+  "name": "DBS ATM - Alexandra Hospital",
+  "place_id": "ChIJ35pPzNwb2jERvzrum_NlsxI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Both the DBS / POSB ATM & AXS Station are located behind the pillar near Kaffee & Toast at Block 1 Level 1.",
+      "time": 1598904330,
+      "translated": false
+    },
+    {
+      "author_name": "Shujuan Jin",
+      "author_url": "https://www.google.com/maps/contrib/104810579145443798055/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLctLilotc_4OdiDqOUKE6oH516_Po2dyePM1CP99AIQ3CCYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559554655,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1347532810481449663",
+  "user_ratings_total": 2,
+  "vicinity": "378 Alexandra Road, Block 1 Level 1 Alexandra Hospital, Singapore"
+}

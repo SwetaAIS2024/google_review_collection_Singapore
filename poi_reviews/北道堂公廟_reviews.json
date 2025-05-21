@@ -1,0 +1,64 @@
+{
+  "formatted_address": "23 Tampines Avenue, Singapura 529806",
+  "geometry": {
+    "location": {
+      "lat": 1.366459,
+      "lng": 103.925891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367901130291502,
+        "lng": 103.9272096802915
+      },
+      "southwest": {
+        "lat": 1.365203169708498,
+        "lng": 103.9245117197085
+      }
+    }
+  },
+  "name": "北道堂公廟",
+  "place_id": "ChIJIXoBdgs92jERqXgv38XwsSw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HENG HENG",
+      "author_url": "https://www.google.com/maps/contrib/112210101711613622560/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFj-XtGdUmfWPRwTSJOBS67cXJZIr4H6TrNZ61cxfj0yOr8Pp9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Beidao Tanggong Temple",
+      "time": 1706624583,
+      "translated": true
+    },
+    {
+      "author_name": "Johnson Koh",
+      "author_url": "https://www.google.com/maps/contrib/111705512365661383339/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwrdMwhmbOb260hwnUdRb5lkFvFR1yXlb4vdhNtBt8RmSnng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746338273,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson Tan",
+      "author_url": "https://www.google.com/maps/contrib/110117206294069070917/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSVGYK_x_UPZ37sbleaZKahxY2SDyYPe29ESRnWdKnM7ezBg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548657291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3220619941190269097",
+  "user_ratings_total": 3,
+  "vicinity": "23 Tampines Avenue, Singapura"
+}

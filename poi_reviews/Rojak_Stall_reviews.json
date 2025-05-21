@@ -1,0 +1,53 @@
+{
+  "formatted_address": "244 Jln Kayu, Singapore 799468",
+  "geometry": {
+    "location": {
+      "lat": 1.3977821,
+      "lng": 103.8732628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399125580291502,
+        "lng": 103.8745637302915
+      },
+      "southwest": {
+        "lat": 1.396427619708498,
+        "lng": 103.8718657697085
+      }
+    }
+  },
+  "name": "Rojak Stall",
+  "place_id": "ChIJ48gRtn4W2jER0jP-8Iml6Qw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Rymond Lim",
+      "author_url": "https://www.google.com/maps/contrib/112593778790688716485/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlcQOgJgjF6kI_StJXSpcjb-wV19BU60cNcVACybsPI-hh1Ys=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602392642,
+      "translated": false
+    },
+    {
+      "author_name": "Wyman Poon",
+      "author_url": "https://www.google.com/maps/contrib/102465837652975714869/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzt-xISnPdsHY4E8sPYIPd7v-yvUCpTcM4qjEd0dxgK8nTHFMo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592737116,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=930456809901011922",
+  "user_ratings_total": 2,
+  "vicinity": "244 Jalan Kayu"
+}

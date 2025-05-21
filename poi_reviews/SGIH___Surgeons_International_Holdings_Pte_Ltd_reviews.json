@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, Suite 08-14 Gleneagles Medical Centre, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3076257,
+      "lng": 103.8202012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308891530291502,
+        "lng": 103.8215099802915
+      },
+      "southwest": {
+        "lat": 1.306193569708498,
+        "lng": 103.8188120197085
+      }
+    }
+  },
+  "name": "SGIH / Surgeons International Holdings Pte Ltd",
+  "place_id": "ChIJ2z1LICAa2jER-D2C_TMxyJo",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11153218576549297656",
+  "vicinity": "6 Napier Road, Suite 08-14 Gleneagles Medical Centre"
+}

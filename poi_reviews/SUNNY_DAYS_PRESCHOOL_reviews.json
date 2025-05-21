@@ -1,0 +1,52 @@
+{
+  "formatted_address": "25 Springside Green, #01-01 to #01-08, Singapore 786015",
+  "geometry": {
+    "location": {
+      "lat": 1.4039988,
+      "lng": 103.8188627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405294080291502,
+        "lng": 103.8202907802915
+      },
+      "southwest": {
+        "lat": 1.402596119708498,
+        "lng": 103.8175928197085
+      }
+    }
+  },
+  "name": "SUNNY DAYS PRESCHOOL",
+  "place_id": "ChIJv-QDlk4T2jERa3j53WeCC_I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Guangyi Ma",
+      "author_url": "https://www.google.com/maps/contrib/111995831279878968348/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0fGDpqwcrJIwoFAzDEWltGe0reD7XAUWOS1Pg4THKWaqcaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747038277,
+      "translated": false
+    },
+    {
+      "author_name": "Yung Mei Lin",
+      "author_url": "https://www.google.com/maps/contrib/107487073836475128776/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsYM3Odj-h4zIiurVKOMBkRN_p_1TC-VvVa5r4n0nXo5xbtg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745308708,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17441177364539734123",
+  "user_ratings_total": 2,
+  "vicinity": "25 Springside Green, #01-01 to #01-08"
+}

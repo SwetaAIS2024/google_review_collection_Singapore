@@ -1,0 +1,56 @@
+{
+  "formatted_address": "131 Dover Rd, Singapore 139659",
+  "geometry": {
+    "location": {
+      "lat": 1.3040803,
+      "lng": 103.7788845
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305447830291502,
+        "lng": 103.7804671302915
+      },
+      "southwest": {
+        "lat": 1.302749869708498,
+        "lng": 103.7777691697085
+      }
+    }
+  },
+  "name": "The Schoolhouse Dover",
+  "place_id": "ChIJMch-yF4a2jERtd-qsKzfDS0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cecilia To",
+      "author_url": "https://www.google.com/maps/contrib/112014884813883525689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBCekGoCIKI1lO1dZNajgJOxC5zHt5PrL7O1OD-qEIO1gx_EA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "My daughter is graduating this year. Special thanks to school principal Ms Kristy, K2 teachers Ms Cherry and 周老师 for taking care of her since Lakeside days.👍👍",
+      "time": 1732632355,
+      "translated": false
+    },
+    {
+      "author_name": "QuinXIris",
+      "author_url": "https://www.google.com/maps/contrib/101949581273022722321/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZExThe3TB16X83UOIKaIuiwW3vFuM0bGsmr31-di-qWkjmGo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Hi I'm Iris and I went to this school since I was N1 I don't know whether some of the teachers still know me. I'm 11 now and hope to go back there and visit someday.....",
+      "time": 1630064065,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3246496839195353013",
+  "user_ratings_total": 2,
+  "vicinity": "131 Dover Road"
+}

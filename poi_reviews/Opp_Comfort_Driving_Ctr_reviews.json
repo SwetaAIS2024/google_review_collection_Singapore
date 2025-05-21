@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336382,
+      "lng": 103.897858
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337700180291502,
+        "lng": 103.8991774802915
+      },
+      "southwest": {
+        "lat": 1.335002219708498,
+        "lng": 103.8964795197085
+      }
+    }
+  },
+  "name": "Opp Comfort Driving Ctr",
+  "place_id": "ChIJg1KxEe4X2jEROLjFxJGsUjE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Richard Tan",
+      "author_url": "https://www.google.com/maps/contrib/109062362087990698151/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_h2Z1e9VcE-xc3SewUvKvaiuIXlL_jSy2zM8CqwFOSV6E=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Very good app to find the places right , but wish to provide the bus stop number to get there..",
+      "time": 1471824806,
+      "translated": false
+    },
+    {
+      "author_name": "Smashiquzzaman Rasel",
+      "author_url": "https://www.google.com/maps/contrib/103985596585759246855/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMQnRoLDv9bgkYD86RuzbMDhFGdjqDd0ghur0he53q3CblL1dA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715335837,
+      "translated": false
+    },
+    {
+      "author_name": "jianping xue",
+      "author_url": "https://www.google.com/maps/contrib/114352145884519506231/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU87fwtpoVxnsXKMXaBhcbs83mJ6pnxYPcjEOAX3OJyN9p9a8Jq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1597932854,
+      "translated": false
+    },
+    {
+      "author_name": "Arun",
+      "author_url": "https://www.google.com/maps/contrib/110777822246578105568/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq4wgTjdkKoj_ZZDVaTeNJv56Z7sX8_UMMQ5tYY6XAuh8UaI--MQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547826322,
+      "translated": false
+    },
+    {
+      "author_name": "SZAF 0901",
+      "author_url": "https://www.google.com/maps/contrib/111382996912708298638/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVayoifKnQsmdDYUouKprBHgm90bJadxG9-t-HWNAiDvoYhkICg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512365238,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3554092798020270136",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

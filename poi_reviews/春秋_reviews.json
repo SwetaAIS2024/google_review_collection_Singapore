@@ -1,0 +1,32 @@
+{
+  "formatted_address": "30 Robertson Quay, Singapore 238251",
+  "geometry": {
+    "location": {
+      "lat": 1.291333,
+      "lng": 103.8414166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292701680291502,
+        "lng": 103.8428845802915
+      },
+      "southwest": {
+        "lat": 1.290003719708498,
+        "lng": 103.8401866197085
+      }
+    }
+  },
+  "name": "春秋",
+  "place_id": "ChIJq6paVp4Z2jER6uO8bcw-w_Y",
+  "types": [
+    "pharmacy",
+    "health",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17781124801524196330",
+  "vicinity": "30 Robertson Quay, Singapore"
+}

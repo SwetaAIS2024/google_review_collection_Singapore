@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Blk 201 Bishan St. 23, #01-467, Singapore 570201",
+  "geometry": {
+    "location": {
+      "lat": 1.3551761,
+      "lng": 103.8469385
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356572730291502,
+        "lng": 103.8483405802915
+      },
+      "southwest": {
+        "lat": 1.353874769708498,
+        "lng": 103.8456426197085
+      }
+    }
+  },
+  "name": "My Little Campus - MLC (Bishan)",
+  "place_id": "ChIJmXRXLxgX2jERcmk7IZeCKbA",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12693820610329667954",
+  "vicinity": "Blk 201 Bishan Street 23, #01-467"
+}

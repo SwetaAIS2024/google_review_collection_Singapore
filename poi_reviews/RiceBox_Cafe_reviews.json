@@ -1,0 +1,30 @@
+{
+  "formatted_address": "China St, Singapore 048660",
+  "geometry": {
+    "location": {
+      "lat": 1.2836197,
+      "lng": 103.8479386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285009630291502,
+        "lng": 103.8492247802915
+      },
+      "southwest": {
+        "lat": 1.282311669708498,
+        "lng": 103.8465268197085
+      }
+    }
+  },
+  "name": "RiceBox Cafe",
+  "place_id": "ChIJuXkeYwwZ2jER_QobMdkVQD0",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4413551657399028477",
+  "vicinity": "China Street, Singapore"
+}

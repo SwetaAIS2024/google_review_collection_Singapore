@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Cavenagh Rd, Retail area, Singapore 229616",
+  "geometry": {
+    "location": {
+      "lat": 1.3018794,
+      "lng": 103.8414701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303563930291502,
+        "lng": 103.8426770802915
+      },
+      "southwest": {
+        "lat": 1.300865969708498,
+        "lng": 103.8399791197085
+      }
+    }
+  },
+  "name": "FXChange @ Holiday Inn Singapore Orchard City Centre",
+  "place_id": "ChIJwYeeINEZ2jERU_oBN5tVuyo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3079148895369034323",
+  "vicinity": "11 Cavenagh Road, Retail area"
+}

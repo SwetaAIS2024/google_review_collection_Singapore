@@ -1,0 +1,46 @@
+{
+  "formatted_address": "339 Thomson Rd, Singapore 307677",
+  "geometry": {
+    "location": {
+      "lat": 1.3253952,
+      "lng": 103.8415109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326837680291502,
+        "lng": 103.8429728802915
+      },
+      "southwest": {
+        "lat": 1.324139719708498,
+        "lng": 103.8402749197085
+      }
+    }
+  },
+  "name": "Emu Tracks Emu Oil@Thomson Medical",
+  "place_id": "ChIJHTvmyeEZ2jERj3YKLOmOF5g",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "CY Ng",
+      "author_url": "https://www.google.com/maps/contrib/110166557021540782929/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXP8oGR84QGa7-yhHoYyqHVZw5ZYg6DlDn-tYqbQ2cZdVh40i5=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The pharmacy does not carry this product.",
+      "time": 1696233554,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10959385350346798735",
+  "user_ratings_total": 1,
+  "vicinity": "339 Thomson Road"
+}

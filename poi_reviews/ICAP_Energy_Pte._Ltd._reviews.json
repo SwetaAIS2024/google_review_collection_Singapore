@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Marina Blvd, Singapore 018983",
+  "geometry": {
+    "location": {
+      "lat": 1.282387,
+      "lng": 103.8524371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283561180291502,
+        "lng": 103.8536732302915
+      },
+      "southwest": {
+        "lat": 1.280863219708498,
+        "lng": 103.8509752697085
+      }
+    }
+  },
+  "name": "ICAP Energy Pte. Ltd.",
+  "place_id": "ChIJkzSKRgkZ2jERaLKlwqMRh9w",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15890689205243064936",
+  "vicinity": "1 Marina Boulevard"
+}

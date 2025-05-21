@@ -1,0 +1,64 @@
+{
+  "formatted_address": "104C Depot Rd, Singapore 103104",
+  "geometry": {
+    "location": {
+      "lat": 1.2803921,
+      "lng": 103.8114771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281945130291502,
+        "lng": 103.8127673802915
+      },
+      "southwest": {
+        "lat": 1.279247169708498,
+        "lng": 103.8100694197085
+      }
+    }
+  },
+  "name": "Staircase up Telok Blangah Hill Park",
+  "place_id": "ChIJvYpc1dcb2jERmFxx5PYENrU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "J Chua",
+      "author_url": "https://www.google.com/maps/contrib/100093702250859849757/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM2f0TxQvtYJ8kY8Lea36PFowXge1mOeS7DDi-FCADO8P4K6nn=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "An alternative route up to Telok Blangah Hill and then leading to Southern Ridges. Long flight of stairs. Good workout.",
+      "time": 1633243660,
+      "translated": false
+    },
+    {
+      "author_name": "Anu Chitrangana",
+      "author_url": "https://www.google.com/maps/contrib/106426626079262599425/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVREHCKYa6Mk2npKUVgVD3jf9KmZOoceYyKWtW8A8-gIayPRwe7hg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1652564133,
+      "translated": false
+    },
+    {
+      "author_name": "Khan3 Khan2",
+      "author_url": "https://www.google.com/maps/contrib/111392284682166767799/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQdKDl-HqA94LmK3WTxmO1L06s6hslr0f4gC1_Jl4okNQFIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724357132,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13057629628048432280",
+  "user_ratings_total": 3,
+  "vicinity": "104C Depot Road, Singapore"
+}

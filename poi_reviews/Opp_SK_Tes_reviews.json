@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319513,
+      "lng": 103.683121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320893180291502,
+        "lng": 103.6844700802915
+      },
+      "southwest": {
+        "lat": 1.318195219708498,
+        "lng": 103.6817721197085
+      }
+    }
+  },
+  "name": "Opp SK Tes",
+  "place_id": "ChIJR3d8cXgF2jERqdd-ywQCLX4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9091925442348111785",
+  "vicinity": "Singapore"
+}

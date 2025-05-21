@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2989197,
+      "lng": 103.8479416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300177130291502,
+        "lng": 103.8492905802915
+      },
+      "southwest": {
+        "lat": 1.297479169708498,
+        "lng": 103.8465926197085
+      }
+    }
+  },
+  "name": "Handy Road Open Space",
+  "place_id": "ChIJs4P017wZ2jER5pqV0FmFGIA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lily F",
+      "author_url": "https://www.google.com/maps/contrib/115531260810880890123/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxpFDBTsAUwy851IMHHSwsGpaTq04pzslTMNcl-GrU1zpawQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Very nice public area, I see trees unlike where I’m from",
+      "time": 1746146741,
+      "translated": false
+    },
+    {
+      "author_name": "Alex SP (Alex)",
+      "author_url": "https://www.google.com/maps/contrib/103331270735393175501/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLqg2D0q7mULmAdHihCaPjU4mwUPDNZpjQDuUrQQ9AMIEyAqR75g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Need a few park benches, that will be great",
+      "time": 1689302571,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9230274057093880550",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

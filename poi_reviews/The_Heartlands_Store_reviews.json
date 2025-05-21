@@ -1,0 +1,30 @@
+{
+  "formatted_address": "10 Simei Ave, B01-14 ITE College East Business Block, Singapore 486047",
+  "geometry": {
+    "location": {
+      "lat": 1.3340569,
+      "lng": 103.9549926
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335568630291502,
+        "lng": 103.9558333802915
+      },
+      "southwest": {
+        "lat": 1.332870669708498,
+        "lng": 103.9531354197085
+      }
+    }
+  },
+  "name": "The Heartlands Store",
+  "place_id": "ChIJH4JgMQA92jER-UjomzU_G08",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5700219252849002745",
+  "vicinity": "10 Simei Avenue, B01-14 ITE College East Business Block"
+}

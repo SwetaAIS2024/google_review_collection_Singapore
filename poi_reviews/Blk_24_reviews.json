@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3245827,
+      "lng": 103.9229742
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325945180291502,
+        "lng": 103.9243134802915
+      },
+      "southwest": {
+        "lat": 1.323247219708498,
+        "lng": 103.9216155197085
+      }
+    }
+  },
+  "name": "Blk 24",
+  "place_id": "ChIJWcEj4qwi2jERCzIQKmSOYaM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Yong Jian Rong",
+      "author_url": "https://www.google.com/maps/contrib/104663836323476662669/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXyZTY8BsRmE-R4FfNa6gQI39XeMgaWURrEQzOUl-3BfMUJA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Traffic bottleneck due to bus stop existing on a single lane.",
+      "time": 1715043787,
+      "translated": false
+    },
+    {
+      "author_name": "杨英辉英辉",
+      "author_url": "https://www.google.com/maps/contrib/104373533935521526957/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI-6s_RleoLEVXBrmEJ7Du51Z3th115IL_Zm0yvlQDfWxGSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1495253021,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11772847461776765451",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

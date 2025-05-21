@@ -1,0 +1,29 @@
+{
+  "formatted_address": "43 Joo Chiat Ln, Singapore 428103",
+  "geometry": {
+    "location": {
+      "lat": 1.3127924,
+      "lng": 103.9030937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314164230291502,
+        "lng": 103.9044803302915
+      },
+      "southwest": {
+        "lat": 1.311466269708498,
+        "lng": 103.9017823697085
+      }
+    }
+  },
+  "name": "HOSTAL",
+  "place_id": "ChIJyV_e0UgZ2jERjXvDVNaZ834",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9147824413943757709",
+  "vicinity": "43 Joo Chiat Lane"
+}

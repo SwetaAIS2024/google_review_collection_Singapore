@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3390116,
+      "lng": 103.6886505
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340379680291502,
+        "lng": 103.6900274802915
+      },
+      "southwest": {
+        "lat": 1.337681719708498,
+        "lng": 103.6873295197085
+      }
+    }
+  },
+  "name": "Juying Pr Sch",
+  "place_id": "ChIJjxfKeJsP2jER7724k6jGXCA",
+  "rating": 2.8,
+  "reviews": [
+    {
+      "author_name": "Tai Lee",
+      "author_url": "https://www.google.com/maps/contrib/111531959290041902752/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnfUYCov78M24g686Kke5z5zNcmYErDMUVqwz4jPSX9lAs3nvb=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "The drop pin is incorrect.  This bus stop is located on the opposite side of the road.",
+      "time": 1610608263,
+      "translated": false
+    },
+    {
+      "author_name": "นรินทร์",
+      "author_url": "https://www.google.com/maps/contrib/102191755297613007599/reviews",
+      "language": "th",
+      "original_language": "th",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVF5334Z0ohe5nKyOv_ecNeSVabO1zPuM_8MH3wmow-Y9z2GUR0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "😊😊😊",
+      "time": 1541471944,
+      "translated": false
+    },
+    {
+      "author_name": "Valentina Anburaj",
+      "author_url": "https://www.google.com/maps/contrib/110693330168605126072/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcmnEDPIePz56snnTjU879hXrwjX-yFGiUN_UZxl_gZxeOcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524993328,
+      "translated": false
+    },
+    {
+      "author_name": "Rohaizad Suadi",
+      "author_url": "https://www.google.com/maps/contrib/110121980100517516807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOOWCMYABEyr4h_yueZy49Dk5iAupD7lfpng6mkB3LnbhRgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520654909,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2331957134406237679",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "681 Punggol Dr., #04-01, Singapore 820681",
+  "geometry": {
+    "location": {
+      "lat": 1.4023703,
+      "lng": 103.9132022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403614930291502,
+        "lng": 103.9144740302915
+      },
+      "southwest": {
+        "lat": 1.400916969708498,
+        "lng": 103.9117760697085
+      }
+    }
+  },
+  "name": "Penyet Betawi",
+  "place_id": "ChIJm_P1GQAV2jER3FXgmp2Z6HY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Chua",
+      "author_url": "https://www.google.com/maps/contrib/104805418112540145105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0GTHsNCcQCNmLOla7F3Z9YFyPTWTfhHU3LVQcVNZTHsLEm1ui=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very delicious Ayam Penyet! Very friendly service as well from the staff!",
+      "time": 1744717116,
+      "translated": false
+    },
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747483724,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8568267193259677148",
+  "user_ratings_total": 2,
+  "vicinity": "681 Punggol Drive, #04-01, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338012,
+      "lng": 103.848228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339343230291502,
+        "lng": 103.8495720302915
+      },
+      "southwest": {
+        "lat": 1.336645269708498,
+        "lng": 103.8468740697085
+      }
+    }
+  },
+  "name": "Opp Jackson Sq",
+  "place_id": "ChIJAfRd_GgX2jERXd870ze3qJw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11288473916399148893",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,75 @@
+{
+  "formatted_address": "21 Tuas Ave 13, Singapore 638988",
+  "geometry": {
+    "location": {
+      "lat": 1.3223203,
+      "lng": 103.6402087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323684430291502,
+        "lng": 103.6415716302915
+      },
+      "southwest": {
+        "lat": 1.320986469708498,
+        "lng": 103.6388736697085
+      }
+    }
+  },
+  "name": "The Cafe Lobby Food Court",
+  "place_id": "ChIJozIMyHwF2jERVlB9bEplnfo",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Naisheng Xu",
+      "author_url": "https://www.google.com/maps/contrib/103749022645873224140/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtsBdhvkbC7o453p8o7Qz2sVtUleQzzn2W0K1KuI7Sj0mMX8tQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Food court at Tuas Avenue 13 with a variety of stalls including Old Street Bak Kut Teh",
+      "time": 1574744151,
+      "translated": false
+    },
+    {
+      "author_name": "fang yuh lim",
+      "author_url": "https://www.google.com/maps/contrib/107235084886864972056/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAVXifJpu1LDghDIw0DLeKIIm82_F-MM0Rl1ySPA_19bO8LrYAGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734496055,
+      "translated": false
+    },
+    {
+      "author_name": "MrG",
+      "author_url": "https://www.google.com/maps/contrib/111175205260046811846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa_sN-M4oh07bc3MN2xKa2hlM6dlX3ikC0MZYxwk5_EgdInbk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683871384,
+      "translated": false
+    },
+    {
+      "author_name": "K.W Loke",
+      "author_url": "https://www.google.com/maps/contrib/103514813766084698031/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQJNCFZ4MCl1U7A09VSju2VFmPlG9QU_MmbYbjz6IKRZ-ymBYm=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645347097,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18058701451147694166",
+  "user_ratings_total": 4,
+  "vicinity": "21 Tuas Avenue 13, Singapore"
+}

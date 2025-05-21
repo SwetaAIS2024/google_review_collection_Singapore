@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3647288,
+      "lng": 103.8423111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366130130291502,
+        "lng": 103.8430065302915
+      },
+      "southwest": {
+        "lat": 1.363432169708498,
+        "lng": 103.8403085697085
+      }
+    }
+  },
+  "name": "Playground",
+  "place_id": "ChIJLWLl87AX2jEREx4S1ld8dno",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8824377236574576147",
+  "vicinity": "Singapore"
+}

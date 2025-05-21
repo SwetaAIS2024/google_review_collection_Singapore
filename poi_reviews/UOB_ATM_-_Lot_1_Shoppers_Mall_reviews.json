@@ -1,0 +1,57 @@
+{
+  "formatted_address": "No. 21 Choa Chu Kang Avenue 4 #B1-K13A, Lot 1 Shoppers Mall, Singapore 689812",
+  "geometry": {
+    "location": {
+      "lat": 1.3852086,
+      "lng": 103.7449371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386341080291502,
+        "lng": 103.7463318302915
+      },
+      "southwest": {
+        "lat": 1.383643119708498,
+        "lng": 103.7436338697085
+      }
+    }
+  },
+  "name": "UOB ATM - Lot 1 Shoppers' Mall",
+  "place_id": "ChIJUQsaFJAR2jEReLiAxkJeXoc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "yun zhi",
+      "author_url": "https://www.google.com/maps/contrib/112289217365782785889/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdFri6r2SmHaoiPEqr638q1mtWbq2AmaIHD3HxSPLLIsrYtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Not at B1, don't know which fool indicate there. It is at level 3 besides courts and pastamania instead.",
+      "time": 1702293684,
+      "translated": false
+    },
+    {
+      "author_name": "Dragon Alba",
+      "author_url": "https://www.google.com/maps/contrib/104918792193589998476/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAyhRk_9GKQVULgs8gEnmfmb28hxkGVUmGBKY-vy6kPy0JoQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Located at level 4, 2 ATM to deposit and withdraw",
+      "time": 1672234552,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9754337483822250104",
+  "user_ratings_total": 2,
+  "vicinity": "No. 21 Choa Chu Kang Avenue 4 #B1-K13A, Lot 1 Shoppers Mall"
+}

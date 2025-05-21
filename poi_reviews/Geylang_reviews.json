@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Geylang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3200544,
+      "lng": 103.8917746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337741011073408,
+        "lng": 103.9067611673379
+      },
+      "southwest": {
+        "lat": 1.306057999946365,
+        "lng": 103.8688261697625
+      }
+    }
+  },
+  "name": "Geylang",
+  "place_id": "ChIJfZ9Z0CMY2jERkKXarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Geylang,+Singapore&ftid=0x31da1823d0599f7d:0x500f7acaedaa590",
+  "vicinity": "Singapore"
+}

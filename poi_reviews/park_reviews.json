@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Robertson Quay, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2914695,
+      "lng": 103.8371967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292773880291502,
+        "lng": 103.8386396802915
+      },
+      "southwest": {
+        "lat": 1.290075919708498,
+        "lng": 103.8359417197085
+      }
+    }
+  },
+  "name": "park",
+  "place_id": "ChIJ34IbuJ0Z2jEReZq5DgsrIqM",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Robertson+Quay,+Singapore&ftid=0x31da199db81b82df:0xa3222b0b0eb99a79",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3136283,
+      "lng": 103.62494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315042630291502,
+        "lng": 103.6265372802915
+      },
+      "southwest": {
+        "lat": 1.312344669708498,
+        "lng": 103.6238393197085
+      }
+    }
+  },
+  "name": "Lito",
+  "place_id": "ChIJV5zmemUH2jERVThpoiv365k",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11091230274110437461",
+  "vicinity": "70 Tuas South Avenue 1, Singapore"
+}

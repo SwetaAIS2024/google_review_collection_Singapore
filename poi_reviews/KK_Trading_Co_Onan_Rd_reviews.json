@@ -1,0 +1,30 @@
+{
+  "formatted_address": "45 Onan Rd, Singapore 424491",
+  "geometry": {
+    "location": {
+      "lat": 1.3150293,
+      "lng": 103.8977621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316342230291502,
+        "lng": 103.8990554802915
+      },
+      "southwest": {
+        "lat": 1.313644269708498,
+        "lng": 103.8963575197085
+      }
+    }
+  },
+  "name": "KK Trading Co Onan Rd",
+  "place_id": "ChIJAwIQGgAZ2jERmwxsEHcrFJY",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10814316395600022683",
+  "vicinity": "45 Onan Road"
+}

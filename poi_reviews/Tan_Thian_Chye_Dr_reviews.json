@@ -1,0 +1,29 @@
+{
+  "formatted_address": "72 Smith St, Singapore 058969",
+  "geometry": {
+    "location": {
+      "lat": 1.283043,
+      "lng": 103.843061
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284368880291502,
+        "lng": 103.8443884802915
+      },
+      "southwest": {
+        "lat": 1.281670919708498,
+        "lng": 103.8416905197085
+      }
+    }
+  },
+  "name": "Tan Thian Chye Dr",
+  "place_id": "ChIJ91BLFHMZ2jERIoFEMFwYkhQ",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1482274011584168226",
+  "vicinity": "72 Smith Street, Singapore"
+}

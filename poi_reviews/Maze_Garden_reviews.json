@@ -1,0 +1,56 @@
+{
+  "formatted_address": "110 Rivervale Walk, Singapore 540110",
+  "geometry": {
+    "location": {
+      "lat": 1.383712,
+      "lng": 103.9003041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385121180291502,
+        "lng": 103.9016886302915
+      },
+      "southwest": {
+        "lat": 1.382423219708498,
+        "lng": 103.8989906697085
+      }
+    }
+  },
+  "name": "Maze Garden",
+  "place_id": "ChIJM5KEBOYX2jERmheLzXgV_OM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ant Tan (Ant)",
+      "author_url": "https://www.google.com/maps/contrib/116001171041763971352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhpOn0UWZPLwp6vIWLV9Z5IddkOcvktapwMfK9jOIOXQifK-uz=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Mini maze garden 🪴",
+      "time": 1658663508,
+      "translated": false
+    },
+    {
+      "author_name": "WINNER WIN",
+      "author_url": "https://www.google.com/maps/contrib/102759948844845275317/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs2GQTUSicx5tq3VNt6vA0TByCmzSg4dQyRs4MwKpYqzz-fYSR=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Suprise to find a Maze Garden at HDB.",
+      "time": 1583461403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16428029149329430426",
+  "user_ratings_total": 2,
+  "vicinity": "110 Rivervale Walk, Singapore"
+}

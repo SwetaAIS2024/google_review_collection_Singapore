@@ -1,0 +1,69 @@
+{
+  "formatted_address": "460 Alexandra Rd, Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.2736761,
+      "lng": 103.8015216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274981280291502,
+        "lng": 103.8030039802915
+      },
+      "southwest": {
+        "lat": 1.272283319708498,
+        "lng": 103.8003060197085
+      }
+    }
+  },
+  "name": "Posb Bank",
+  "place_id": "ChIJwz3yHMEb2jERJVu4wsEsM8o",
+  "rating": 1.3,
+  "reviews": [
+    {
+      "author_name": "Hsien Chuang Tan",
+      "author_url": "https://www.google.com/maps/contrib/107610359437265533719/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKii1WSw3ERUTZlILB-ifcg8PsHXZDvuZFxIJ0j6ei1ztN3vQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "It says ATM is open 24 hours. But what good is that if all doors to the building closes at 11pm?",
+      "time": 1665764453,
+      "translated": false
+    },
+    {
+      "author_name": "Wee Kwang Koh",
+      "author_url": "https://www.google.com/maps/contrib/104958071646128108867/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvqL38Y6mrwaGO3zkbnOZlQtMrjceujDyK41v_keFYWdEZgg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "No unit number. Is the branch still here?",
+      "time": 1713256671,
+      "translated": false
+    },
+    {
+      "author_name": "Anne Wong Holloway",
+      "author_url": "https://www.google.com/maps/contrib/112880446943493347185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVc59GrJu9g2i3m1EyJqdAIbz55q4wIzkNfEOZhfwQ7IxaaxXQX=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "Not much good to hv a street number but leave out the name of the building",
+      "time": 1577580264,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14570038430180858661",
+  "user_ratings_total": 3,
+  "vicinity": "460 Alexandra Road"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "203 Hougang St 21, Singapore 530203",
+  "geometry": {
+    "location": {
+      "lat": 1.3577976,
+      "lng": 103.8845426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359231630291502,
+        "lng": 103.8860366302915
+      },
+      "southwest": {
+        "lat": 1.356533669708498,
+        "lng": 103.8833386697085
+      }
+    }
+  },
+  "name": "Foo Hong Min Joseph Coffeeshop",
+  "place_id": "ChIJV410MLEX2jER20zvrv78vJs",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11222122542287244507",
+  "vicinity": "203 Hougang Street 21"
+}

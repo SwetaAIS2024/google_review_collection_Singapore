@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2663337,
+      "lng": 103.6788579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267722980291502,
+        "lng": 103.6801619302915
+      },
+      "southwest": {
+        "lat": 1.265025019708498,
+        "lng": 103.6774639697085
+      }
+    }
+  },
+  "name": "ALTRAD Hertel Banyan site office",
+  "place_id": "ChIJ43NBrEwF2jERv6KrCJC2U1o",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "MD Razu",
+      "author_url": "https://www.google.com/maps/contrib/116828107108060466942/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9LlmSFROyKY-BLisDCNpkbozY8dEJHsQGkW1dR2VnDVbOioCFWg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nc",
+      "time": 1647259293,
+      "translated": false
+    },
+    {
+      "author_name": "Vijay",
+      "author_url": "https://www.google.com/maps/contrib/104594258290659173590/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzjxmfEnjncj1Z3Hl8nNd-EFtBsiEX5fEYbt_2juDJVloEcEyj=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676935339,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6508746616217510591",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

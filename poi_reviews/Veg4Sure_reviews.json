@@ -1,0 +1,32 @@
+{
+  "formatted_address": "114 Lavender St., Singapore 338729",
+  "geometry": {
+    "location": {
+      "lat": 1.3117411,
+      "lng": 103.8629343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313048030291502,
+        "lng": 103.8643099802915
+      },
+      "southwest": {
+        "lat": 1.310350069708498,
+        "lng": 103.8616120197085
+      }
+    }
+  },
+  "name": "Veg4Sure",
+  "place_id": "ChIJAWtl2Z0Z2jERMD1SEXSnLHE",
+  "types": [
+    "meal_takeaway",
+    "grocery_or_supermarket",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8155077142209772848",
+  "vicinity": "114 Lavender Street"
+}

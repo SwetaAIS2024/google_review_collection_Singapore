@@ -1,0 +1,57 @@
+{
+  "formatted_address": "29 Bendemeer Rd, Singapore 330029",
+  "geometry": {
+    "location": {
+      "lat": 1.3191252,
+      "lng": 103.8630581
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320412080291502,
+        "lng": 103.8645603802915
+      },
+      "southwest": {
+        "lat": 1.317714119708498,
+        "lng": 103.8618624197085
+      }
+    }
+  },
+  "name": "Da shi dai 大时代",
+  "place_id": "ChIJAYNLQW8Z2jERg-bJiuozZeo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Wayne choy",
+      "author_url": "https://www.google.com/maps/contrib/114526633617836153784/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0W-p2egvZZdSpj3t_sXBj43cpDerv7ocuBznPnyVAf6XZ68-p=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "I’m referring to the coffee stall\nHorrible coffee, tasteless and diluted. Thou cheap but I rather pay $2 but nice. Not for coffee lovers",
+      "time": 1717398874,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Lee",
+      "author_url": "https://www.google.com/maps/contrib/103963976601486199473/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwTh6Tb0TpYTqb2gCViWeRo7unCKX2-NvF92Abh-MN6Rgb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good and cheap coffee, nice toast",
+      "time": 1599975292,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16889963059966764675",
+  "user_ratings_total": 2,
+  "vicinity": "29 Bendemeer Road, Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "81550 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3837103,
+      "lng": 103.6010403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384982180291502,
+        "lng": 103.6023377802915
+      },
+      "southwest": {
+        "lat": 1.382284219708498,
+        "lng": 103.5996398197085
+      }
+    }
+  },
+  "name": "Kedai Abe Zul",
+  "place_id": "ChIJf2-HCNwJ2jER0c-mwV8ryIk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "zaini muhammad",
+      "author_url": "https://www.google.com/maps/contrib/107677366225026307978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXba8OmRQcSt4UBej3pMwLQqjb8wgOW5F46Xf_M4uvXCspgLVA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604755768,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9928233068809080785",
+  "user_ratings_total": 1,
+  "vicinity": "Iskandar Puteri"
+}

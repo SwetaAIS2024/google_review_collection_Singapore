@@ -1,0 +1,64 @@
+{
+  "formatted_address": "48 Foch Rd, Singapore 209272",
+  "geometry": {
+    "location": {
+      "lat": 1.3126568,
+      "lng": 103.8605299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314068080291502,
+        "lng": 103.8618113302915
+      },
+      "southwest": {
+        "lat": 1.311370119708498,
+        "lng": 103.8591133697085
+      }
+    }
+  },
+  "name": "天缘 KTV nightclub",
+  "place_id": "ChIJ6UBIm0AZ2jERwMWFqemLTTA",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Arnold Wee",
+      "author_url": "https://www.google.com/maps/contrib/102520466267158199417/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTlaINX3UmgoSk1mw1XOmbybp8YDU6hFz9csWmFgT0d-bxmkc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Good sound system",
+      "time": 1581777614,
+      "translated": false
+    },
+    {
+      "author_name": "Ben Lance",
+      "author_url": "https://www.google.com/maps/contrib/103223807715260180462/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS1lMX35yS5p-bZXf2xu9KNjee-0-83Y8pmaXw5uTEipjieF8Aeg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727624422,
+      "translated": false
+    },
+    {
+      "author_name": "Chia Jimmy",
+      "author_url": "https://www.google.com/maps/contrib/115819476124090412075/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2SylznkemGX42JQyKRYqJyrMB71aYlid8OIXNn3J3rPBihAE4Rw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679567814,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3480591922715018688",
+  "user_ratings_total": 3,
+  "vicinity": "48 Foch Road, Singapore"
+}

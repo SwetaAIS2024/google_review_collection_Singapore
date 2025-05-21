@@ -1,0 +1,76 @@
+{
+  "formatted_address": "128 Bedok North Street 2, #01-14, Singapore 460128",
+  "geometry": {
+    "location": {
+      "lat": 1.3275873,
+      "lng": 103.9390326
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328863830291502,
+        "lng": 103.9403951302915
+      },
+      "southwest": {
+        "lat": 1.326165869708498,
+        "lng": 103.9376971697085
+      }
+    }
+  },
+  "name": "Delight Mart",
+  "place_id": "ChIJwfUqwJA92jERwzH-txt_MBI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Maajith Imdhath",
+      "author_url": "https://www.google.com/maps/contrib/118091447688033836429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-UxgCFczURAcUsvOU6JyzGM0Puw2HyEysf1KHaZDMkAUhvkc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Best quality products",
+      "time": 1737833365,
+      "translated": false
+    },
+    {
+      "author_name": "Anisha haja",
+      "author_url": "https://www.google.com/maps/contrib/104071611080521241625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwpjyz5iOXCLaJHiB7n10acuuWt9fZPKR2olq3XEa1XepYLio=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744455679,
+      "translated": false
+    },
+    {
+      "author_name": "azarudeen AbulHassan",
+      "author_url": "https://www.google.com/maps/contrib/114582126772569478278/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmzhvRW66FLqiigkghYYiIjzB91mA_XQXNkNfMHKkuAiV8OGIK6A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744454789,
+      "translated": false
+    },
+    {
+      "author_name": "mhd razeen28",
+      "author_url": "https://www.google.com/maps/contrib/105983300073775871586/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ4yRFCQO65Dqch9AMts2ozKbnlzyILj2iMjJfY7_yf8U5P0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1737833293,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1310687248592548291",
+  "user_ratings_total": 4,
+  "vicinity": "128 Bedok North Street 2, #01-14"
+}

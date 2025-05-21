@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Jln Korma, Singapore 308751",
+  "geometry": {
+    "location": {
+      "lat": 1.3156197,
+      "lng": 103.8448059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316973980291502,
+        "lng": 103.8461700302915
+      },
+      "southwest": {
+        "lat": 1.314276019708498,
+        "lng": 103.8434720697085
+      }
+    }
+  },
+  "name": "Church",
+  "place_id": "ChIJr34vSwAZ2jERCqXt6mGqfSI",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2485329906908374282",
+  "vicinity": "5 Jln Korma, Singapore"
+}

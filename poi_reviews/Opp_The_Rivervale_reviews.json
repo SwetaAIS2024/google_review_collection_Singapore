@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379489,
+      "lng": 103.898819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380888230291502,
+        "lng": 103.9001605302915
+      },
+      "southwest": {
+        "lat": 1.378190269708498,
+        "lng": 103.8974625697085
+      }
+    }
+  },
+  "name": "Opp The Rivervale",
+  "place_id": "ChIJ7cYXRjwW2jERovFpPbfu7c4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "chang cheng",
+      "author_url": "https://www.google.com/maps/contrib/117067381824999190648/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwwYiVd6EkIA6Jzb2tkX-EE0o7ww4kB7XbpdA-og6ZVoAEAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546427523,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14910836412070359458",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

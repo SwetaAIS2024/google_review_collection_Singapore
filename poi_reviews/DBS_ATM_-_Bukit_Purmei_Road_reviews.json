@@ -1,0 +1,29 @@
+{
+  "formatted_address": "112 Bukit Purmei Rd, Singapore 090112",
+  "geometry": {
+    "location": {
+      "lat": 1.2743986,
+      "lng": 103.8255801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275642880291502,
+        "lng": 103.8269246802915
+      },
+      "southwest": {
+        "lat": 1.272944919708498,
+        "lng": 103.8242267197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bukit Purmei Road",
+  "place_id": "ChIJj0ex_XkZ2jERgSVcSvLTkAY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=473110998457001345",
+  "vicinity": "112 Bukit Purmei Road, Singapore"
+}

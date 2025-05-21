@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39426,
+      "lng": 103.893087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395601080291502,
+        "lng": 103.8944337802915
+      },
+      "southwest": {
+        "lat": 1.392903119708498,
+        "lng": 103.8917358197085
+      }
+    }
+  },
+  "name": "SKH GASTROENTEROLOGY & HEPATOLOGY clinic",
+  "place_id": "ChIJicZsZwsX2jERUkALA5SkPeU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16518539963878031442",
+  "vicinity": "Singapore"
+}

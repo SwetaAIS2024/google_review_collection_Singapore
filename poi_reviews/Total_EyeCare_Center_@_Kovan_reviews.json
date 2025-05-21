@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Upper Serangoon Rd, #02-01 767, Singapore 534635",
+  "geometry": {
+    "location": {
+      "lat": 1.3547058,
+      "lng": 103.8782931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355911780291502,
+        "lng": 103.8797472802915
+      },
+      "southwest": {
+        "lat": 1.353213819708498,
+        "lng": 103.8770493197085
+      }
+    }
+  },
+  "name": "Total EyeCare Center @ Kovan",
+  "place_id": "ChIJ33Xvsn8X2jERVrqhzXE5yuE",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16269879764773354070",
+  "vicinity": "Upper Serangoon Road, #02-01 767"
+}

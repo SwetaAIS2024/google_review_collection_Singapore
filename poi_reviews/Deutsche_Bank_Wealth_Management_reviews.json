@@ -1,0 +1,53 @@
+{
+  "formatted_address": "One Raffles Quay, #17/F South Tower, Singapore 048583",
+  "geometry": {
+    "location": {
+      "lat": 1.2812392,
+      "lng": 103.851689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282910580291502,
+        "lng": 103.8532112802915
+      },
+      "southwest": {
+        "lat": 1.280212619708498,
+        "lng": 103.8505133197085
+      }
+    }
+  },
+  "name": "Deutsche Bank Wealth Management",
+  "place_id": "ChIJNbgqaQ4Z2jER7F5M27DSFMk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Danny Cook",
+      "author_url": "https://www.google.com/maps/contrib/109640892331845461093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWY1gOJTYkPkGiihXZ8EyP3n-W0aJrfiXqMJXdKSz4WuolmOU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741370292,
+      "translated": false
+    },
+    {
+      "author_name": "Sudarmanto",
+      "author_url": "https://www.google.com/maps/contrib/105155149033076937808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUn4LT8Z1t2ruuWyJ2PaWo1KLkWWeNJKqrXqSbIjVjghedca10=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723476413,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14489437558193020652",
+  "user_ratings_total": 2,
+  "vicinity": "One Raffles Quay, #17/F South Tower"
+}

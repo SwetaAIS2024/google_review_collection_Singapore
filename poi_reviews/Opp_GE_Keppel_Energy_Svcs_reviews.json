@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306684,
+      "lng": 103.665512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308028230291502,
+        "lng": 103.6668216302915
+      },
+      "southwest": {
+        "lat": 1.305330269708498,
+        "lng": 103.6641236697085
+      }
+    }
+  },
+  "name": "Opp GE Keppel Energy Svcs",
+  "place_id": "ChIJ2Uw51L0F2jERMiMystVwjLk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shakib Sikdar",
+      "author_url": "https://www.google.com/maps/contrib/103524408552263673970/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX4MqFqrQRVDeufgMbmnVYpFnRuQRNwGMjLKXS_5BNaaJy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502252403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13370185456876135218",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

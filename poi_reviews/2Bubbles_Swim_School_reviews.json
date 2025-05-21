@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore 440034",
+  "geometry": {
+    "location": {
+      "lat": 1.303763,
+      "lng": 103.912031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305076430291502,
+        "lng": 103.9133812302915
+      },
+      "southwest": {
+        "lat": 1.302378469708498,
+        "lng": 103.9106832697085
+      }
+    }
+  },
+  "name": "2Bubbles Swim School",
+  "place_id": "ChIJGeGfJrEZ2jERr2QK_ih6YX0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jupes",
+      "author_url": "https://www.google.com/maps/contrib/104789040516739244320/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-XE9y6UcpoAt668_X3sV-edNKYM5oAfltgTAhQ9y8tKQkgdI-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556545992,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9034636643961300143",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

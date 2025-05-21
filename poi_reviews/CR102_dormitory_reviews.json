@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Changi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3558102,
+      "lng": 104.0059751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357374580291502,
+        "lng": 104.0067548302915
+      },
+      "southwest": {
+        "lat": 1.354676619708498,
+        "lng": 104.0040568697085
+      }
+    }
+  },
+  "name": "CR102 dormitory",
+  "place_id": "ChIJ--BQYgA92jERt29Lr73OzPA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "あたけ",
+      "author_url": "https://www.google.com/maps/contrib/101657289573082468752/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqnVDKfatagetztMfI_tjYbEqVVuiAa1zuLMeyGFDsghu49NM_pg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744798932,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17351470778436775863",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "734 Pasir Ris Street 72, Ntuc Pasir Ris West, Singapore 510734",
+  "geometry": {
+    "location": {
+      "lat": 1.379861,
+      "lng": 103.9361799
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381344730291502,
+        "lng": 103.9378907802915
+      },
+      "southwest": {
+        "lat": 1.378646769708498,
+        "lng": 103.9351928197085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Pasir Ris West",
+  "place_id": "ChIJh-OOLm892jER0tp6dQzaPdU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bagiyo Sbc",
+      "author_url": "https://www.google.com/maps/contrib/106627141154440596878/reviews",
+      "language": "id",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3zf4nZSsSGte0jFeLmcAXJSjDcEkS4EvarWov-yRvrBE2Ug=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Tempat bagus .",
+      "time": 1558830635,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15365677250703448786",
+  "user_ratings_total": 1,
+  "vicinity": "734 Pasir Ris Street 72, Ntuc Pasir Ris West"
+}

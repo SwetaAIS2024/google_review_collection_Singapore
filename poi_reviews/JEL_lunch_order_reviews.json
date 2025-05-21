@@ -1,0 +1,28 @@
+{
+  "formatted_address": "25 Tanjong Kling Rd, Singapore 628050",
+  "geometry": {
+    "location": {
+      "lat": 1.304816,
+      "lng": 103.701263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306275380291502,
+        "lng": 103.7026662302915
+      },
+      "southwest": {
+        "lat": 1.303577419708498,
+        "lng": 103.6999682697085
+      }
+    }
+  },
+  "name": "JEL lunch order",
+  "place_id": "ChIJT5WrA4EF2jERDMgkYqFwPWU",
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7295110809848694796",
+  "vicinity": "25 Tanjong Kling Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.341151,
+      "lng": 103.683655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342468630291502,
+        "lng": 103.6850325802915
+      },
+      "southwest": {
+        "lat": 1.339770669708498,
+        "lng": 103.6823346197085
+      }
+    }
+  },
+  "name": "Academic Bldg Sth",
+  "place_id": "ChIJTWcf5J0P2jERkP88FwYgfgI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=179616245673164688",
+  "vicinity": "Singapore"
+}

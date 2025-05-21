@@ -1,0 +1,58 @@
+{
+  "formatted_address": "440 Bukit Batok West Ave. 8, Singapore 650440",
+  "geometry": {
+    "location": {
+      "lat": 1.3556983,
+      "lng": 103.7392906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357115380291502,
+        "lng": 103.7405571802915
+      },
+      "southwest": {
+        "lat": 1.354417419708498,
+        "lng": 103.7378592197085
+      }
+    }
+  },
+  "name": "大中国麻辣香锅",
+  "place_id": "ChIJ8_SrJbcR2jERx1B51FHGEmo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PS Tan",
+      "author_url": "https://www.google.com/maps/contrib/107528076020709971581/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuyRhK0eTk3XrH31jXpQckQsqRVZWccK_T-lGD-eMjb3UM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "My favorite store! Mala Xiang Guo is delicious, and the price is reasonable as well. Give it a try you will never ever regret.",
+      "time": 1690778085,
+      "translated": false
+    },
+    {
+      "author_name": "Kylie Wendy Koh",
+      "author_url": "https://www.google.com/maps/contrib/110737375411347480705/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV20soNst0WDDpsCYLMRzsn_XFkM4MsoRx6eKPgWxWYPRvzFgYJ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The portions given by the boss are generous and the food is delicious.\npush!",
+      "time": 1683546677,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7643389572360523975",
+  "user_ratings_total": 2,
+  "vicinity": "440 Bukit Batok West Avenue 8"
+}

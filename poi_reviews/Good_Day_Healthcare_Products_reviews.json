@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.284095,
+      "lng": 103.8425309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285430430291502,
+        "lng": 103.8439382302915
+      },
+      "southwest": {
+        "lat": 1.282732469708498,
+        "lng": 103.8412402697085
+      }
+    }
+  },
+  "name": "Good Day Healthcare Products",
+  "place_id": "ChIJnWhme3MZ2jERhJyW9TdWqf8",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18422350549079202948",
+  "vicinity": "1 Park Road"
+}

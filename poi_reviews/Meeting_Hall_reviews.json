@@ -1,0 +1,42 @@
+{
+  "formatted_address": "442 Race Course Rd, Singapore 218678",
+  "geometry": {
+    "location": {
+      "lat": 1.315897,
+      "lng": 103.85804
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317305480291502,
+        "lng": 103.8593277802915
+      },
+      "southwest": {
+        "lat": 1.314607519708498,
+        "lng": 103.8566298197085
+      }
+    }
+  },
+  "name": "Meeting Hall",
+  "place_id": "ChIJjxXYv88Z2jER1cYCpWd6lVk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sharmila S",
+      "author_url": "https://www.google.com/maps/contrib/118105004211104608851/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKAGQCXADXff6cZa4V2KnDqbfMa4VGjD4Y49eHLqEO7_4hZz6Omg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527313250,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6455200226474116821",
+  "user_ratings_total": 1,
+  "vicinity": "442 Race Course Road, Singapore"
+}

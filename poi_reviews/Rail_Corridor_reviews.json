@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Rail Corridor, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3393161,
+      "lng": 103.7803302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341113180291502,
+        "lng": 103.7813722802915
+      },
+      "southwest": {
+        "lat": 1.338415219708498,
+        "lng": 103.7786743197085
+      }
+    }
+  },
+  "name": "Rail Corridor",
+  "place_id": "ChIJr-xGagAR2jERc0rWcBsJAIo",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9943957990695914099",
+  "vicinity": "Rail Corridor"
+}

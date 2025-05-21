@@ -1,0 +1,45 @@
+{
+  "formatted_address": "478 Tampines Street 44, Singapore 520478",
+  "geometry": {
+    "location": {
+      "lat": 1.3614386,
+      "lng": 103.9533041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362803630291502,
+        "lng": 103.9546885302915
+      },
+      "southwest": {
+        "lat": 1.360105669708498,
+        "lng": 103.9519905697085
+      }
+    }
+  },
+  "name": "Aspen Health Pte. Ltd.",
+  "place_id": "ChIJJwknIgc92jERxtnOIWdsRWU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Peter Foo",
+      "author_url": "https://www.google.com/maps/contrib/104143941159885484310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB6WNfmKDe3Ejao245BAuRPYmzTlfKbR1_SiCA8n54_QA_NA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "\"C\novid buddy system\" given was extremely good. All my queries during my Home Quarantine was answered with care and concern. Appreciate very much the help and assistance.. Thank You to all staff of your organization.",
+      "time": 1633867702,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7297357961428392390",
+  "user_ratings_total": 1,
+  "vicinity": "478 Tampines Street 44, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "84 Bedok North Street 4, #01-59, Singapore 460084",
+  "geometry": {
+    "location": {
+      "lat": 1.3318351,
+      "lng": 103.9392211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333105630291502,
+        "lng": 103.9406544802915
+      },
+      "southwest": {
+        "lat": 1.330407669708498,
+        "lng": 103.9379565197085
+      }
+    }
+  },
+  "name": "Neptune",
+  "place_id": "ChIJdzfJbwA92jERcT-7TACU82k",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7634608522331373425",
+  "vicinity": "84 Bedok North Street 4, #01-59, Singapore"
+}

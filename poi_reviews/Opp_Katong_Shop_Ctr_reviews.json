@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303566,
+      "lng": 103.901459
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304913030291502,
+        "lng": 103.9027903302915
+      },
+      "southwest": {
+        "lat": 1.302215069708498,
+        "lng": 103.9000923697085
+      }
+    }
+  },
+  "name": "Opp Katong Shop Ctr",
+  "place_id": "ChIJJ5jR6W0Y2jEREikIIjeiP0Q",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "MIAH NOMAN",
+      "author_url": "https://www.google.com/maps/contrib/113900089338954826122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUG3SFouuRgd6qMI36TliJmBlCX0coF3DcMBLiBW9VUpmC2acT=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Nice View",
+      "time": 1557927444,
+      "translated": false
+    },
+    {
+      "author_name": "Tomomi Hamaguchi",
+      "author_url": "https://www.google.com/maps/contrib/111233298019872654906/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOtcic85c8OGr-FvjvHagcKZLmDO7-J2wtRmJmjMsGvI1N=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "The smell from katong shopping center makes the air bad and uncomfortable. .",
+      "time": 1484955235,
+      "translated": true
+    },
+    {
+      "author_name": "Sohel Sheak",
+      "author_url": "https://www.google.com/maps/contrib/109647720568722496527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVioatjg9JntvgHKO-1mzcAeOehFY46uzrQnseNmLfQreOAxks_dg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497146504,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4917827675789732114",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "443 Tampines Street 43, Block 443, Singapore 520443",
+  "geometry": {
+    "location": {
+      "lat": 1.3588843,
+      "lng": 103.952023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360312230291502,
+        "lng": 103.9533730802915
+      },
+      "southwest": {
+        "lat": 1.357614269708498,
+        "lng": 103.9506751197085
+      }
+    }
+  },
+  "name": "Pasir Ris South Education Centres",
+  "place_id": "ChIJqbM3fgY92jERp1zg8SEAnKM",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11789298070341049511",
+  "vicinity": "443 Tampines Street 43, Block 443, Singapore"
+}

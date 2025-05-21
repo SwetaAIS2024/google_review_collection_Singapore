@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.383533,
+      "lng": 103.902153
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384857180291502,
+        "lng": 103.9035620802915
+      },
+      "southwest": {
+        "lat": 1.382159219708498,
+        "lng": 103.9008641197085
+      }
+    }
+  },
+  "name": "Blk 117A, Rivervale Dr",
+  "place_id": "ChIJ1Zh58hcW2jERLdaR_w9UkRw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2058518932374017581",
+  "vicinity": "Singapore"
+}

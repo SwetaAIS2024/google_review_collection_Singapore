@@ -1,0 +1,69 @@
+{
+  "formatted_address": "203 Hougang St 21, Singapore 530203",
+  "geometry": {
+    "location": {
+      "lat": 1.3585175,
+      "lng": 103.8844955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359593730291502,
+        "lng": 103.8859761302915
+      },
+      "southwest": {
+        "lat": 1.356895769708498,
+        "lng": 103.8832781697085
+      }
+    }
+  },
+  "name": "Al-Dia Restaurant @ Hougang St 21",
+  "place_id": "ChIJXXd8ojEX2jERpZ5VZliHI40",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "tracy yap",
+      "author_url": "https://www.google.com/maps/contrib/112866053801496715008/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKo4a-xNcFvL53Hh_M__SM3bPkCL9WzSdBClXNtf2_BIC12pg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Teh tarik and chapatti were average. But the ghee thosai was excellent. The after lunch crowd made ordering easy and service was good.",
+      "time": 1742720210,
+      "translated": false
+    },
+    {
+      "author_name": "Edmund Low",
+      "author_url": "https://www.google.com/maps/contrib/108117504592322447920/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiSVFaNa4YQu6XoMpN-5ECX_qaUuqmnPUw0rCbO8tDRRL-4w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "My review is only for the indian rojak, which I usually eat at Indian muslim stalls and therefore I'm able to compare. The sauce is thick, lot of peanuts, not too sweet. I like it better than Sri Sun's. The variety of their Indian rojak is however, less than Sri Sun's.",
+      "time": 1594361131,
+      "translated": false
+    },
+    {
+      "author_name": "Adam Scott",
+      "author_url": "https://www.google.com/maps/contrib/101765583284619584663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSa51BGvclyyCNNEj7UtmFckDvni6gGb-MNMpdiQlmw1MOgsLz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Food is okay but there's no prices on the menu. I've eaten here a few times but I recently got overcharged which was quite clearly not a mistake.",
+      "time": 1695822481,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10170121197276470949",
+  "user_ratings_total": 3,
+  "vicinity": "203 Hougang Street 21"
+}

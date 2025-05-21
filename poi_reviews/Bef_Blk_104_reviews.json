@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3213139,
+      "lng": 103.8530345
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322664230291502,
+        "lng": 103.8543532802915
+      },
+      "southwest": {
+        "lat": 1.319966269708498,
+        "lng": 103.8516553197085
+      }
+    }
+  },
+  "name": "Bef Blk 104",
+  "place_id": "ChIJJ8vf0NsZ2jER1hc_CLrbidA",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "ItsMeVinoth",
+      "author_url": "https://www.google.com/maps/contrib/108180981394640973315/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTyMIRgYT6OgoCwdieuMciwvZRVw2sufNumQXwuYFbCqzUI7zv=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "U have a hotel very near to this stop and it's super easy",
+      "time": 1594695301,
+      "translated": false
+    },
+    {
+      "author_name": "Sudesh Kolte",
+      "author_url": "https://www.google.com/maps/contrib/100242362832252003249/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDXwhVziWtke5_1QFj3rjBmtkdufnk7doF0iIqAOsJyKl8XSkQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Bus commute is very convenient and affordable in Singapore.",
+      "time": 1531309650,
+      "translated": false
+    },
+    {
+      "author_name": "Dai Truong",
+      "author_url": "https://www.google.com/maps/contrib/115612828505677921677/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZEP-Ke3vFHK2hxJ8Zqi5U32p2ieodPnQd6Tp0RuDSQhRq6Cyk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Good service.",
+      "time": 1527598217,
+      "translated": false
+    },
+    {
+      "author_name": "Marcus Keong",
+      "author_url": "https://www.google.com/maps/contrib/115122600138958199961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYGfKVj4snZx0bUDyzy5e7-2Og8QEVH4BRoNjvZ-jPowxctqzrmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514184049,
+      "translated": false
+    },
+    {
+      "author_name": "Shashwat Arora Life",
+      "author_url": "https://www.google.com/maps/contrib/113414725608189937449/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUALRN9nTIEJ0iwlefk688KBLd3UhOu3rHVU1-VOTHenErmNImA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498737203,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15026783223747123158",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

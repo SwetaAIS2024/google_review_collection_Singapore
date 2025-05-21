@@ -1,0 +1,29 @@
+{
+  "formatted_address": "214 Serangoon Ave 4, Singapore 550214",
+  "geometry": {
+    "location": {
+      "lat": 1.35708,
+      "lng": 103.87358
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358369280291502,
+        "lng": 103.8748738802915
+      },
+      "southwest": {
+        "lat": 1.355671319708498,
+        "lng": 103.8721759197085
+      }
+    }
+  },
+  "name": "DBS ATM - Serangoon Avenue 4",
+  "place_id": "ChIJV795dM8X2jERRqpW4oLS6GA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6983062681822865990",
+  "vicinity": "214 Serangoon Avenue 4, Singapore"
+}

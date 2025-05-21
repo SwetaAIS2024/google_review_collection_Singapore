@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Pasir Panjang Rd, #02-05 Labrador Tower, Singapore 118479",
+  "geometry": {
+    "location": {
+      "lat": 1.2717824,
+      "lng": 103.8025341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.272959530291502,
+        "lng": 103.8038854302915
+      },
+      "southwest": {
+        "lat": 1.270261569708498,
+        "lng": 103.8011874697085
+      }
+    }
+  },
+  "name": "Starbucks Labrador Tower",
+  "place_id": "ChIJj4HUOkUb2jER_zLkMKPJm5M",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10636316647702672127",
+  "vicinity": "1 Pasir Panjang Road, #02-05 Labrador Tower"
+}

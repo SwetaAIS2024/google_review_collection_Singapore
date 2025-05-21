@@ -1,0 +1,62 @@
+{
+  "formatted_address": "137 Cecil St, #07-03, Singapore 069537",
+  "geometry": {
+    "location": {
+      "lat": 1.2797423,
+      "lng": 103.8486594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281156130291502,
+        "lng": 103.8499027302915
+      },
+      "southwest": {
+        "lat": 1.278458169708498,
+        "lng": 103.8472047697085
+      }
+    }
+  },
+  "name": "FY Institute of Technology (Singapore)",
+  "place_id": "ChIJG7NKYYEX2jER1rIqxBQx6f0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sri srikumara",
+      "author_url": "https://www.google.com/maps/contrib/108184849886944291912/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8MZW7YtJStd_OQnA8THyAWY_5mqOorXRbwXPkptLUWHwdR42J=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512959279,
+      "translated": false
+    },
+    {
+      "author_name": "Lewis Liu",
+      "author_url": "https://www.google.com/maps/contrib/109099391142792218238/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-afjYte6xmtEG5cO9XfyqKbVRoihKcj3Ysmccti6Kl8X3TQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1428652480,
+      "translated": false
+    },
+    {
+      "author_name": "Min Liu",
+      "author_url": "https://www.google.com/maps/contrib/116275409694781130487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmxEOuEBCTCnJPii4EA7c2pgfWf7vngRhnFYCqZATA0JeLsuU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1428297023,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18296208926429590230",
+  "user_ratings_total": 3,
+  "vicinity": "137 Cecil Street, #07-03, Singapore"
+}

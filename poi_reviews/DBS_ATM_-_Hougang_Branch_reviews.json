@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Hougang St 21, #01-105/111 Blk 204, Singapore 530204",
+  "geometry": {
+    "location": {
+      "lat": 1.3586939,
+      "lng": 103.8848587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360015580291502,
+        "lng": 103.8862352802915
+      },
+      "southwest": {
+        "lat": 1.357317619708498,
+        "lng": 103.8835373197085
+      }
+    }
+  },
+  "name": "DBS ATM - Hougang Branch",
+  "place_id": "ChIJuzGDF7EX2jERZWowObylUSs",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3121458244576373349",
+  "vicinity": "Hougang Street 21, #01-105/111 Blk 204"
+}

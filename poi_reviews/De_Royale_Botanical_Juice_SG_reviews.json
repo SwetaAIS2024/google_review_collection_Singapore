@@ -1,0 +1,30 @@
+{
+  "formatted_address": "556 Bedok North Street 3, Singapore 460556",
+  "geometry": {
+    "location": {
+      "lat": 1.3327259,
+      "lng": 103.9227054
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333925630291502,
+        "lng": 103.9244155802915
+      },
+      "southwest": {
+        "lat": 1.331227669708498,
+        "lng": 103.9217176197085
+      }
+    }
+  },
+  "name": "De Royale Botanical Juice SG",
+  "place_id": "ChIJHboxx6w92jERj5v8SGy7xCg",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2937678930707782543",
+  "vicinity": "556 Bedok North Street 3, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "36 Sin Ming Dr, Singapore 575710",
+  "geometry": {
+    "location": {
+      "lat": 1.358747,
+      "lng": 103.837157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360067180291502,
+        "lng": 103.8385798302915
+      },
+      "southwest": {
+        "lat": 1.357369219708498,
+        "lng": 103.8358818697085
+      }
+    }
+  },
+  "name": "Ocean King's Eating House",
+  "place_id": "ChIJx7dEOyQX2jERpIc68kxi18I",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14039798445971769252",
+  "vicinity": "36 Sin Ming Drive"
+}

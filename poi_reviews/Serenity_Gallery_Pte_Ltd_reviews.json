@@ -1,0 +1,52 @@
+{
+  "formatted_address": "231 Bain St, #02-85, Complex 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2969044,
+      "lng": 103.8535693
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298409480291502,
+        "lng": 103.8550475802915
+      },
+      "southwest": {
+        "lat": 1.295711519708498,
+        "lng": 103.8523496197085
+      }
+    }
+  },
+  "name": "Serenity Gallery Pte Ltd",
+  "place_id": "ChIJI5EZ0dAZ2jERXxQBca6jjfo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sandra yeo",
+      "author_url": "https://www.google.com/maps/contrib/109840089345474303886/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImokeX61mLQ66nsykWNu87SnLTNHW0_KjZe2sgUyElzbofVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1618483134,
+      "translated": false
+    },
+    {
+      "author_name": "yeo lili",
+      "author_url": "https://www.google.com/maps/contrib/110860378212682738545/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLw2L_E7DanBBlhDszBYw7Cm0X-c2fJu6ki7xGItI31jNmvWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1618404763,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18054266450813719647",
+  "user_ratings_total": 2,
+  "vicinity": "231 Bain Street, #02-85, Complex"
+}

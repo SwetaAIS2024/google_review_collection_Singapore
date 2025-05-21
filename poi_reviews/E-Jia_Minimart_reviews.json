@@ -1,0 +1,30 @@
+{
+  "formatted_address": "215 Ang Mo Kio Ave 1, Singapore 560215",
+  "geometry": {
+    "location": {
+      "lat": 1.3664944,
+      "lng": 103.8416078
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367949080291502,
+        "lng": 103.8429933302915
+      },
+      "southwest": {
+        "lat": 1.365251119708498,
+        "lng": 103.8402953697085
+      }
+    }
+  },
+  "name": "E-Jia Minimart",
+  "place_id": "ChIJidoQ_N4W2jER6xfQPI6LZN8",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16097144411150882795",
+  "vicinity": "215 Ang Mo Kio Avenue 1"
+}

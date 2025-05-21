@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Blk 119C Plantation Cres, #01-659 Plantation Grove, Singapore 693119",
+  "geometry": {
+    "location": {
+      "lat": 1.3573651,
+      "lng": 103.7351003
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358320680291502,
+        "lng": 103.7360325802915
+      },
+      "southwest": {
+        "lat": 1.355622719708498,
+        "lng": 103.7333346197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 119C Plantation Crescent",
+  "place_id": "ChIJRfXQJ4IR2jERmUKp6fOiFcc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "高女士",
+      "author_url": "https://www.google.com/maps/contrib/108653122745738121837/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9nhuljHUJPiDaAM0xy13PMC46VPRDFfcfy_c7MMZBpEwQJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747148773,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14345551356539519641",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 119C Plantation Crescent, #01-659 Plantation Grove"
+}

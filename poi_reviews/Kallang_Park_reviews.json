@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3045442,
+      "lng": 103.8815769
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305911030291502,
+        "lng": 103.8829619802915
+      },
+      "southwest": {
+        "lat": 1.303213069708498,
+        "lng": 103.8802640197085
+      }
+    }
+  },
+  "name": "Kallang Park",
+  "place_id": "ChIJtxqtYT4Z2jERm0AegnyaFcY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14273484453570298011",
+  "vicinity": "Singapore"
+}

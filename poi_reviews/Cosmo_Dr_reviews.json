@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3487278,
+      "lng": 103.7579614
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349999580291502,
+        "lng": 103.7592775302915
+      },
+      "southwest": {
+        "lat": 1.347301619708498,
+        "lng": 103.7565795697085
+      }
+    }
+  },
+  "name": "Cosmo Dr",
+  "place_id": "ChIJHdUY2EMQ2jERToSbCe00tpQ",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10715810556047754318",
+  "vicinity": "Singapore"
+}

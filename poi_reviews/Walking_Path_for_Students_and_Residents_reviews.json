@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3322482,
+      "lng": 103.9417638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333540830291502,
+        "lng": 103.9430716802915
+      },
+      "southwest": {
+        "lat": 1.330842869708498,
+        "lng": 103.9403737197085
+      }
+    }
+  },
+  "name": "Walking Path for Students and Residents",
+  "place_id": "ChIJBRpsUkA92jER4Nt5LSqKjpA",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10416414901910756320",
+  "vicinity": ""
+}

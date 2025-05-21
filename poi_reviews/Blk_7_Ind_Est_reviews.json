@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.358379,
+      "lng": 103.839088
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359720480291502,
+        "lng": 103.8404522302915
+      },
+      "southwest": {
+        "lat": 1.357022519708498,
+        "lng": 103.8377542697085
+      }
+    }
+  },
+  "name": "Blk 7 Ind Est",
+  "place_id": "ChIJHV679SMX2jERd6ZUFnls72U",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "musik kakiku",
+      "author_url": "https://www.google.com/maps/contrib/118042322196819918233/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOekjd0wg2idDgFuDGqgqba5f0dkDv6lcZ2nJ8PruGu-cTvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515162707,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7345208784586057335",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,77 @@
+{
+  "formatted_address": "225 Sungei Gedong Rd, Singapore 718921",
+  "geometry": {
+    "location": {
+      "lat": 1.4195414,
+      "lng": 103.697341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420876930291502,
+        "lng": 103.6987415802915
+      },
+      "southwest": {
+        "lat": 1.418178969708498,
+        "lng": 103.6960436197085
+      }
+    }
+  },
+  "name": "Sungei Gedong Medical Centre",
+  "place_id": "ChIJQUoWOQAN2jERjkGvA2XAxG0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "caden chan",
+      "author_url": "https://www.google.com/maps/contrib/106831302046236356713/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaDQmCNzbBT87Nd1gCRVXEmvPGXTQJRf4546GzBT5Xp2xm6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Didn’t give me mc.",
+      "time": 1743839468,
+      "translated": false
+    },
+    {
+      "author_name": "Donald Wersfield",
+      "author_url": "https://www.google.com/maps/contrib/117124706503557151226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsBxFmTnrJkwJdXx5jXb66GgMQtOx1wzmQ-AXeK34PIT8Gow=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Worst place ever!!",
+      "time": 1727245436,
+      "translated": false
+    },
+    {
+      "author_name": "Chong Siang Kua",
+      "author_url": "https://www.google.com/maps/contrib/106507679868408444101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUE9ExKucIO9HFCBLz_WZApE2QZgfqENfBcLIhgRnAqXkWYBI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736491402,
+      "translated": false
+    },
+    {
+      "author_name": "Kenneth Tan",
+      "author_url": "https://www.google.com/maps/contrib/101568860373753599104/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7VeY1phCjdtBfkswBXIeAArspCUugFkYYIZPxkfcTKNZdIw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732605098,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7909658385655480718",
+  "user_ratings_total": 4,
+  "vicinity": "225 Sungei Gedong Road, Singapore"
+}

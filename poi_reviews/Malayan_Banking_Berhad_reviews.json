@@ -1,0 +1,29 @@
+{
+  "formatted_address": "304 Choa Chu Kang Ave 4, Block 304, Singapore 680304",
+  "geometry": {
+    "location": {
+      "lat": 1.3844491,
+      "lng": 103.743172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385895380291502,
+        "lng": 103.7445859802915
+      },
+      "southwest": {
+        "lat": 1.383197419708498,
+        "lng": 103.7418880197085
+      }
+    }
+  },
+  "name": "Malayan Banking Berhad",
+  "place_id": "ChIJyzOUNegR2jERSkvPGSNLDYs",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10019747360098175818",
+  "vicinity": "304 Choa Chu Kang Avenue 4, Block 304, Singapore"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "638 Jurong West Street 61, Block 638, Singapore 640638",
+  "geometry": {
+    "location": {
+      "lat": 1.3417353,
+      "lng": 103.6971761
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343021630291502,
+        "lng": 103.6985816802915
+      },
+      "southwest": {
+        "lat": 1.340323669708498,
+        "lng": 103.6958837197085
+      }
+    }
+  },
+  "name": "OCBC ATM - Pioneer Mall",
+  "place_id": "ChIJ6dze1ZYP2jERiSvpUjfrsxs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "HS Lim",
+      "author_url": "https://www.google.com/maps/contrib/115535175613259076481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRhd362QRe7jx37NvedguQrnWUW3UmhcH-L2WO3wN7vRmIRwOS=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "OCBC & UOB ATMs are available at level 1 near to information counter.\n\nLast update Mar2017",
+      "time": 1488521272,
+      "translated": false
+    },
+    {
+      "author_name": "விமல் சா",
+      "author_url": "https://www.google.com/maps/contrib/105876987590923673110/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRJE_4WEWgCrDXZ2ssR1orwDesI5P9bgtGPpi2zIZAfO_VsdCV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511448434,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1996197682702003081",
+  "user_ratings_total": 2,
+  "vicinity": "638 Jurong West Street 61, Block 638"
+}

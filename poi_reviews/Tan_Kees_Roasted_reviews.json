@@ -1,0 +1,46 @@
+{
+  "formatted_address": "282 Bishan Street 22, Singapore 570282",
+  "geometry": {
+    "location": {
+      "lat": 1.3579846,
+      "lng": 103.8446774
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359256180291502,
+        "lng": 103.8458611302915
+      },
+      "southwest": {
+        "lat": 1.356558219708498,
+        "lng": 103.8431631697085
+      }
+    }
+  },
+  "name": "Tan Kee's Roasted",
+  "place_id": "ChIJUzm2nxgX2jEROIfTEcfOJnU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ryan Merly Seah",
+      "author_url": "https://www.google.com/maps/contrib/112093605747959159775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTIJ_iGp5dRN-bNBXycZRug_AO1mJrzgTAKhsgGhztireHSDKOuw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "04 FEB 19\n\nOPEN FOR COLLECTION ONLY. UNTIL 12PM.",
+      "time": 1549249442,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8441661905945462584",
+  "user_ratings_total": 1,
+  "vicinity": "282 Bishan Street 22, Singapore"
+}

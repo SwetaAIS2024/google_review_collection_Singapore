@@ -1,0 +1,30 @@
+{
+  "formatted_address": "209 Hougang St 21, Singapore 530209",
+  "geometry": {
+    "location": {
+      "lat": 1.359092,
+      "lng": 103.886095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360039580291502,
+        "lng": 103.8875716802915
+      },
+      "southwest": {
+        "lat": 1.357341619708498,
+        "lng": 103.8848737197085
+      }
+    }
+  },
+  "name": "Khoo Jee Nee",
+  "place_id": "ChIJA0MCqLYX2jERMeIGNL78kAw",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=905501418948321841",
+  "vicinity": "209 Hougang Street 21"
+}

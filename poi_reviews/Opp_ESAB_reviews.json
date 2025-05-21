@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324961,
+      "lng": 103.666954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326283130291502,
+        "lng": 103.6683430802915
+      },
+      "southwest": {
+        "lat": 1.323585169708498,
+        "lng": 103.6656451197085
+      }
+    }
+  },
+  "name": "Opp ESAB",
+  "place_id": "ChIJdzzkC4kF2jER7lh71e_9JX8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9162008223475783918",
+  "vicinity": "Singapore"
+}

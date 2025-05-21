@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6001 Beach Rd, #B1-53 199589, Singapore 199589",
+  "geometry": {
+    "location": {
+      "lat": 1.3019927,
+      "lng": 103.8641996
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303575230291502,
+        "lng": 103.8653942302915
+      },
+      "southwest": {
+        "lat": 1.300877269708498,
+        "lng": 103.8626962697085
+      }
+    }
+  },
+  "name": "Soong Choon Trading Co",
+  "place_id": "ChIJSdSnlbMZ2jERA34N4S9xN90",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15940333856554319363",
+  "vicinity": "6001 Beach Road, #B1-53 199589"
+}

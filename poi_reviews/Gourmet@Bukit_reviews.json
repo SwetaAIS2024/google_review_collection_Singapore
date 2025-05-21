@@ -1,0 +1,28 @@
+{
+  "formatted_address": "240 Sime Rd, Singapore 288303",
+  "geometry": {
+    "location": {
+      "lat": 1.3419949,
+      "lng": 103.8112565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343191280291502,
+        "lng": 103.8125070302915
+      },
+      "southwest": {
+        "lat": 1.340493319708498,
+        "lng": 103.8098090697085
+      }
+    }
+  },
+  "name": "Gourmet@Bukit",
+  "place_id": "ChIJ-eXvabcQ2jEREQj6zXYVqxk",
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1849595671971760145",
+  "vicinity": "240 Sime Road, Singapore"
+}

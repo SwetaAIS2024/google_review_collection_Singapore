@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2785194,
+      "lng": 103.8414958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279911330291502,
+        "lng": 103.8428309302915
+      },
+      "southwest": {
+        "lat": 1.277213369708498,
+        "lng": 103.8401329697085
+      }
+    }
+  },
+  "name": "Bef The Pinnacle@Duxton",
+  "place_id": "ChIJU3IMo20Z2jERcKDfvMfb8vg",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "This is honestly quite an awkward bus stop, in the middle of nowhere. There's no shelter, no walkway other than into Shake Shack, and there's no traffic light near enough for you to cross the roads. If you're heading towards Pinnacle, it's not sheltered one bit; but I guess it's the only nearest bus stop to the estate. So, rain or shine, good luck.",
+      "time": 1681310288,
+      "translated": false
+    },
+    {
+      "author_name": "Sweta Das",
+      "author_url": "https://www.google.com/maps/contrib/115092880506160654396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIZrMevOpB1pMxDGef2u6frDnjddB4WYzva__FIcv09cwxwg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very nice",
+      "time": 1651581951,
+      "translated": false
+    },
+    {
+      "author_name": "Lay choo ong",
+      "author_url": "https://www.google.com/maps/contrib/116727900162577638363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCUQFkMlahwzVOm5jccWYHNwHbsuofJCQlJU3PrF9pZJsBpUoE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1549635731,
+      "translated": false
+    },
+    {
+      "author_name": "C. L. TOMMY CHU",
+      "author_url": "https://www.google.com/maps/contrib/112660186828588158017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRzpUocWDP49Gf3Qvw5ukhThcaYXhOADpEY8uslMKHnk4fz4pe=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479303015,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17938641916683853936",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

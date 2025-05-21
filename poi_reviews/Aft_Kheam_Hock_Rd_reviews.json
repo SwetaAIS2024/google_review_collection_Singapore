@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322674,
+      "lng": 103.820251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323989030291502,
+        "lng": 103.8215913802915
+      },
+      "southwest": {
+        "lat": 1.321291069708498,
+        "lng": 103.8188934197085
+      }
+    }
+  },
+  "name": "Aft Kheam Hock Rd",
+  "place_id": "ChIJWcA57QEa2jERCIlXDy-cEUQ",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Jun Qiang",
+      "author_url": "https://www.google.com/maps/contrib/107550792838197934252/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT1BW5s0yLYKAqTS9FaL73AufNxFGLtvHE2u4QhbGZ7kkmtg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "It would be better if it show the bus stop number",
+      "time": 1505707481,
+      "translated": false
+    },
+    {
+      "author_name": "Jacob Koestner",
+      "author_url": "https://www.google.com/maps/contrib/100162557443186051078/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA3A2zZkBhQAcrUv15XloL0ZMOV-Xbc6vwI9Watq4Vc2LFetU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1551519272,
+      "translated": false
+    },
+    {
+      "author_name": "Free Gene",
+      "author_url": "https://www.google.com/maps/contrib/114390081109250173757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcN2RQZuxIib5nWS6pYaV5w9FnRs3grsIHLsFbERW5PAq_GjETzQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546247433,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4904873195117971720",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

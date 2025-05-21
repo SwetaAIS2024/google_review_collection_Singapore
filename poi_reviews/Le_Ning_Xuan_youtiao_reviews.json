@@ -1,0 +1,55 @@
+{
+  "formatted_address": "726 Clementi West Street 2, #01-142, Singapore 120726",
+  "geometry": {
+    "location": {
+      "lat": 1.3037847,
+      "lng": 103.7642661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305364380291502,
+        "lng": 103.7655792302915
+      },
+      "southwest": {
+        "lat": 1.302666419708498,
+        "lng": 103.7628812697085
+      }
+    }
+  },
+  "name": "Le Ning Xuan (youtiao)",
+  "place_id": "ChIJndrNfAAb2jERU0zQxzEC_mo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "D L",
+      "author_url": "https://www.google.com/maps/contrib/104966613744701231932/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy-bmQ8x0U-1mdYhw1qMjlm4D-HHyc5yZrfGr0QjZ6tFG4fSc7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Not bad. Hard and crispy type.\n\nThe one opposite is softer and more doughy",
+      "time": 1745716099,
+      "translated": false
+    },
+    {
+      "author_name": "Teo Weikeong",
+      "author_url": "https://www.google.com/maps/contrib/105716181321369763433/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvx2vftp6gbC_vT6rmYGg5G-n_4tEAa1IFx3CMdzZA-835-g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734396673,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7709602024933837907",
+  "user_ratings_total": 2,
+  "vicinity": "726 Clementi West Street 2, #01-142"
+}

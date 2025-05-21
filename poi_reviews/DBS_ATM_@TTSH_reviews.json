@@ -1,0 +1,45 @@
+{
+  "formatted_address": "11 Jln Tan Tock Seng, Level 1, Singapore 308433",
+  "geometry": {
+    "location": {
+      "lat": 1.3211669,
+      "lng": 103.845978
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322448780291502,
+        "lng": 103.8474727802915
+      },
+      "southwest": {
+        "lat": 1.319750819708498,
+        "lng": 103.8447748197085
+      }
+    }
+  },
+  "name": "DBS ATM @TTSH",
+  "place_id": "ChIJKdaYNAgZ2jERmkGQzGa1Y_I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hooke Wando",
+      "author_url": "https://www.google.com/maps/contrib/105981886206949760154/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4AYp9SKodUSm8eRP9ts6ulDcvguJM8r7KAa56kbkfkyMseRWV=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "An ATM anywhere is good!",
+      "time": 1550460372,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17466003232996213146",
+  "user_ratings_total": 1,
+  "vicinity": "11 Jalan Tan Tock Seng, Level 1, Singapore"
+}

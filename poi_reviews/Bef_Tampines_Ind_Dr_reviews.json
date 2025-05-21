@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379908,
+      "lng": 103.91861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381221530291502,
+        "lng": 103.9199379302915
+      },
+      "southwest": {
+        "lat": 1.378523569708498,
+        "lng": 103.9172399697085
+      }
+    }
+  },
+  "name": "Bef Tampines Ind Dr",
+  "place_id": "ChIJeVhboIs92jERqwKO1MXFT4E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Suresh Nadhiya",
+      "author_url": "https://www.google.com/maps/contrib/112758927884923484842/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWba0JMbI8ixdwZsILKK3FUP7w0bDsJ4yrcEB7XnheP7ARRs4M9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "TPE SINGAPORE",
+      "time": 1710795918,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9317883607518151339",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

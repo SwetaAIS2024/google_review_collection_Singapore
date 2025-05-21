@@ -1,0 +1,76 @@
+{
+  "formatted_address": "34 Nim Terrace, Singapore 804397",
+  "geometry": {
+    "location": {
+      "lat": 1.3787202,
+      "lng": 103.8637289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380403380291502,
+        "lng": 103.8649928802915
+      },
+      "southwest": {
+        "lat": 1.377705419708498,
+        "lng": 103.8622949197085
+      }
+    }
+  },
+  "name": "Gardens by the Nim",
+  "place_id": "ChIJr0tmP_kX2jERa9RpOP_FRPo",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "David Tan",
+      "author_url": "https://www.google.com/maps/contrib/102100948937914370045/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoIaexVfhdhhN-1fprkAAywIdzDdO9MNuIL4KbRW9DjzCPDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "A good community effort. It’s a good resting spot for runners like me who like to run through the three parks (Nim, Linear and Luxus Hills)",
+      "time": 1714200024,
+      "translated": false
+    },
+    {
+      "author_name": "G Lim",
+      "author_url": "https://www.google.com/maps/contrib/109887127868720767656/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4hOqFaHRXKfPl1Z9mFDKcCTlncMPqFaM2jb43Pk82QtSE9gY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Small community garden in Nim Meadow Park",
+      "time": 1639470146,
+      "translated": false
+    },
+    {
+      "author_name": "Thye Yin Tan",
+      "author_url": "https://www.google.com/maps/contrib/109041221607785778113/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwUdsuRw6uMpRijBAMZ9NY9rJcvVzbOGvq1WPDxY812UMVow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743271082,
+      "translated": false
+    },
+    {
+      "author_name": "Steve Ong",
+      "author_url": "https://www.google.com/maps/contrib/101300054163182463617/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmAwpZVNDoTX74uijyIKd0OyNhKjrOm5RGTPRNeOlzaAKz9rIu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743589331,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18033756507852100715",
+  "user_ratings_total": 4,
+  "vicinity": "34 Nim Terrace, Singapore"
+}

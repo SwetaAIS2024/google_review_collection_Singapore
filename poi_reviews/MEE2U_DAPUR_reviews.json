@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1550 Bedok North Street 5, #01-15, Singapore 489950",
+  "geometry": {
+    "location": {
+      "lat": 1.3373679,
+      "lng": 103.9435733
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338862830291502,
+        "lng": 103.9446488302915
+      },
+      "southwest": {
+        "lat": 1.336164869708498,
+        "lng": 103.9419508697085
+      }
+    }
+  },
+  "name": "MEE2U DAPUR",
+  "place_id": "ChIJkS_3MxI92jERmv43FHXGygI",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=201191339524095642",
+  "vicinity": "1550 Bedok North Street 5, #01-15"
+}

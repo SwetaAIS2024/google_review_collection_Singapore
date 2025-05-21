@@ -1,0 +1,30 @@
+{
+  "formatted_address": "7 Straits View, Singapore 018936",
+  "geometry": {
+    "location": {
+      "lat": 1.2778112,
+      "lng": 103.8528291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279406430291502,
+        "lng": 103.8543102302915
+      },
+      "southwest": {
+        "lat": 1.276708469708498,
+        "lng": 103.8516122697085
+      }
+    }
+  },
+  "name": "88 Cafe",
+  "place_id": "ChIJG_5CZQAZ2jERNJ6LPBIUltY",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15462568439180926516",
+  "vicinity": "7 Straits View"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3033624,
+      "lng": 103.8610548
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304725880291502,
+        "lng": 103.8624225802915
+      },
+      "southwest": {
+        "lat": 1.302027919708498,
+        "lng": 103.8597246197085
+      }
+    }
+  },
+  "name": "Opp Textile Ctr",
+  "place_id": "ChIJhdxytLYZ2jERXXnKn2jpNnY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Priyankka Tupe",
+      "author_url": "https://www.google.com/maps/contrib/107354879326895495058/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCgdCF-DMnQNEc30h_H_VqD2w0S5taN3dcOuIMJc_5C9UYMYQE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Just besides The sultan hotel Singapore",
+      "time": 1574302698,
+      "translated": false
+    },
+    {
+      "author_name": "Thùy Linh",
+      "author_url": "https://www.google.com/maps/contrib/112010212966783803790/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU3uUXfphQn633ga083wRKYo5XUHdSDjG_bm-4dnmHRYiuXqwH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544941781,
+      "translated": false
+    },
+    {
+      "author_name": "Halley Halley",
+      "author_url": "https://www.google.com/maps/contrib/117439344229188182225/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs4fb6N-IZjfTkDt4YBsbmHgPnPcMjrRFwAbqIChB0wBkq_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481524856,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8518252380784589149",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

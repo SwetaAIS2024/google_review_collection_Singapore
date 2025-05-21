@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379223,
+      "lng": 103.963837
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380551680291502,
+        "lng": 103.9651899802915
+      },
+      "southwest": {
+        "lat": 1.377853719708498,
+        "lng": 103.9624920197085
+      }
+    }
+  },
+  "name": "Casa Pasir Ris",
+  "place_id": "ChIJ41tCqEs82jER2h5YY_zk6Ps",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Noomery",
+      "author_url": "https://www.google.com/maps/contrib/112434870817764052641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hWFQH__0-nXCcWSbBrTUrdbCrW6s4OHLzjlZ1GZ-0e0W5tjz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504519569,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18152010070766395098",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

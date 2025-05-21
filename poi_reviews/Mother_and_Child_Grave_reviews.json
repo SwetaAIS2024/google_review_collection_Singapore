@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Leuchars Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3920247,
+      "lng": 103.976608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393122680291502,
+        "lng": 103.9781599302915
+      },
+      "southwest": {
+        "lat": 1.390424719708498,
+        "lng": 103.9754619697085
+      }
+    }
+  },
+  "name": "Mother and Child Grave",
+  "place_id": "ChIJS72nSgA92jERPrY3SOMRgbk",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Matthew Alxndrz",
+      "author_url": "https://www.google.com/maps/contrib/101989168316827487804/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlzh9uFX9ZEMBBfCicqfQKlbbZMBOwH_mC1U43kRuifFDcjzHl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Theres nothing to see, yep even though i asked chatgpt, googled it for the history of the place its just not magical, not really worth visiting",
+      "time": 1743417157,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13366984836879201854",
+  "user_ratings_total": 1,
+  "vicinity": "1 Leuchars Road"
+}

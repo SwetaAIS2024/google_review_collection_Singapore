@@ -1,0 +1,30 @@
+{
+  "formatted_address": "57 New Upper Changi Rd, Singapore 462057",
+  "geometry": {
+    "location": {
+      "lat": 1.3241187,
+      "lng": 103.941636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325486880291502,
+        "lng": 103.9430757802915
+      },
+      "southwest": {
+        "lat": 1.322788919708498,
+        "lng": 103.9403778197085
+      }
+    }
+  },
+  "name": "Yuan Yuan Vegatarian",
+  "place_id": "ChIJe8T43p8j2jERzJfY4nwABfk",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17943748826709399500",
+  "vicinity": "57 New Upper Changi Road, Singapore"
+}

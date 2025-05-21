@@ -1,0 +1,29 @@
+{
+  "formatted_address": "80 Marine Parade Rd, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302975330291502,
+        "lng": 103.9067364802915
+      },
+      "southwest": {
+        "lat": 1.300277369708498,
+        "lng": 103.9040385197085
+      }
+    }
+  },
+  "name": "JP Pepperdine",
+  "place_id": "ChIJq6qqo3EY2jEROkA3qvlRhiM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2559823570951159866",
+  "vicinity": "80 Marine Parade Road, Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304858,
+      "lng": 103.703178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306252830291502,
+        "lng": 103.7045289802915
+      },
+      "southwest": {
+        "lat": 1.303554869708498,
+        "lng": 103.7018310197085
+      }
+    }
+  },
+  "name": "Tg Kling Rd",
+  "place_id": "ChIJvVrQyxUF2jERfVVqclXRDTM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Robin Khan",
+      "author_url": "https://www.google.com/maps/contrib/106475890306638085341/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLhEvCcol0U1onD3SaLHHBUZHOzYyLmM3r1s9VdZtq9rVSrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "marina",
+      "time": 1518680247,
+      "translated": false
+    },
+    {
+      "author_name": "prasath prasath",
+      "author_url": "https://www.google.com/maps/contrib/102122249908722432578/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURYDL1QUvqICglRCKsfYDt4uEQmTBEYTLdgd8KMpWoOZ0kk0KTsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492421433,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3678826635553559933",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

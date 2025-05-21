@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Queen St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2999082,
+      "lng": 103.853917
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301252280291502,
+        "lng": 103.8552545302915
+      },
+      "southwest": {
+        "lat": 1.298554319708498,
+        "lng": 103.8525565697085
+      }
+    }
+  },
+  "name": "Bugis+ Pickup Point",
+  "place_id": "ChIJm8t4HQAZ2jERcfpES5_iaOM",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16386596417978038897",
+  "vicinity": "Queen Street"
+}

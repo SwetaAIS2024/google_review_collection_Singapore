@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Ang Mo Kio Dr, #04 12, Singapore 567720",
+  "geometry": {
+    "location": {
+      "lat": 1.3778796,
+      "lng": 103.8562274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379340130291502,
+        "lng": 103.8572545302915
+      },
+      "southwest": {
+        "lat": 1.376642169708498,
+        "lng": 103.8545565697085
+      }
+    }
+  },
+  "name": "Vegetarian@ITE",
+  "place_id": "ChIJ-xG1vioX2jERAINtsa3GgTo",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4215869175503880960",
+  "vicinity": "2 Ang Mo Kio Drive, #04 12, Singapore"
+}

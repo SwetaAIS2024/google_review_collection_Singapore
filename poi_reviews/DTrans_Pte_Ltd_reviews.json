@@ -1,0 +1,41 @@
+{
+  "formatted_address": "56 Pandan Rd, Blk B Level 3, Singapore 609293",
+  "geometry": {
+    "location": {
+      "lat": 1.3003761,
+      "lng": 103.7474715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301657730291502,
+        "lng": 103.7488042802915
+      },
+      "southwest": {
+        "lat": 1.298959769708498,
+        "lng": 103.7461063197085
+      }
+    }
+  },
+  "name": "D'Trans Pte Ltd",
+  "place_id": "ChIJS1K2Rh4Y2jERrICVPzOdxno",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Conor Ginty",
+      "author_url": "https://www.google.com/maps/contrib/113148767622850466342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-jDSBgx8zCi6QyCPthb1q11J76fV9QdIuyTtjx0hZ5oFu71V0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741502190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8846931361451573420",
+  "user_ratings_total": 1,
+  "vicinity": "56 Pandan Road, Blk B Level 3, Singapore"
+}

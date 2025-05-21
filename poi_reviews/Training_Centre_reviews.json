@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2869999,
+      "lng": 103.8020812
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288396980291502,
+        "lng": 103.8034656802915
+      },
+      "southwest": {
+        "lat": 1.285699019708498,
+        "lng": 103.8007677197085
+      }
+    }
+  },
+  "name": "Training Centre",
+  "place_id": "ChIJn8kGCMsb2jER1FImJyAujPk",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17981798127814202068",
+  "vicinity": "Singapore"
+}

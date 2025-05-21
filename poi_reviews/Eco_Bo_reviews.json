@@ -1,0 +1,43 @@
+{
+  "formatted_address": "7a, Jalan Eko Botani 3/4, 79100 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4388517,
+      "lng": 103.6199425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440184430291502,
+        "lng": 103.6212767302915
+      },
+      "southwest": {
+        "lat": 1.437486469708498,
+        "lng": 103.6185787697085
+      }
+    }
+  },
+  "name": "Eco Bo",
+  "place_id": "ChIJ_b5tndkL2jER_qq0o2PRN_4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sk Sk",
+      "author_url": "https://www.google.com/maps/contrib/102643601815991756924/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiY6swRuPEFfT-8pTKpRRvxl2z7Y7b9VC3O865Z0HQZFpwqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711724519,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18318340235231275774",
+  "user_ratings_total": 1,
+  "vicinity": "7a, Jalan Eko Botani 3/4, Gelang Patah"
+}

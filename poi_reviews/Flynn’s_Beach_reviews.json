@@ -1,0 +1,28 @@
+{
+  "formatted_address": "ECP, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3151117,
+      "lng": 103.9673178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3192118,
+        "lng": 103.9681041802915
+      },
+      "southwest": {
+        "lat": 1.313745,
+        "lng": 103.9654062197085
+      }
+    }
+  },
+  "name": "Flynn’s Beach",
+  "place_id": "ChIJlY--OgAj2jERUwB_VOyKh-4",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17187859250517311571",
+  "vicinity": "East Coast Parkway"
+}

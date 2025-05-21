@@ -1,0 +1,30 @@
+{
+  "formatted_address": "405 Jurong West Street 42, #01-K1, Singapore 640405",
+  "geometry": {
+    "location": {
+      "lat": 1.3543192,
+      "lng": 103.7213771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355685280291502,
+        "lng": 103.7227275802915
+      },
+      "southwest": {
+        "lat": 1.352987319708498,
+        "lng": 103.7200296197085
+      }
+    }
+  },
+  "name": "Biubiu Minimart",
+  "place_id": "ChIJ39x33iIP2jERiRLNHtnVU-E",
+  "types": [
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16236556210102145673",
+  "vicinity": "405 Jurong West Street 42, #01-K1"
+}

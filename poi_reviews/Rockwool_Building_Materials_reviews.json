@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321095,
+      "lng": 103.659332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322428830291502,
+        "lng": 103.6606973302915
+      },
+      "southwest": {
+        "lat": 1.319730869708498,
+        "lng": 103.6579993697085
+      }
+    }
+  },
+  "name": "Rockwool Building Materials",
+  "place_id": "ChIJbcFpLfMF2jERHYfUGM_-kpc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10922072211755140893",
+  "vicinity": "Singapore"
+}

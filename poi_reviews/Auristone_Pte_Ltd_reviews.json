@@ -1,0 +1,29 @@
+{
+  "formatted_address": "77 Ayer Rajah Crescent, #01-27, Singapore 139954",
+  "geometry": {
+    "location": {
+      "lat": 1.2977198,
+      "lng": 103.7875873
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299012980291502,
+        "lng": 103.7890682302915
+      },
+      "southwest": {
+        "lat": 1.296315019708498,
+        "lng": 103.7863702697085
+      }
+    }
+  },
+  "name": "Auristone Pte Ltd",
+  "place_id": "ChIJAQCwIFAa2jERhZFv8udhJ3k",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8730054051513733509",
+  "vicinity": "77 Ayer Rajah Crescent, #01-27, Singapore"
+}

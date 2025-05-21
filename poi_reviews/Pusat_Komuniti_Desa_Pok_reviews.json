@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Kampung Tanjung Kupang, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.35474,
+      "lng": 103.59462
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356073330291502,
+        "lng": 103.5959309302915
+      },
+      "southwest": {
+        "lat": 1.353375369708498,
+        "lng": 103.5932329697085
+      }
+    }
+  },
+  "name": "Pusat Komuniti Desa Pok",
+  "place_id": "ChIJDdPaPvcI2jERFl8zAW3Q9wE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=141811079875616534",
+  "vicinity": "Malaysia"
+}

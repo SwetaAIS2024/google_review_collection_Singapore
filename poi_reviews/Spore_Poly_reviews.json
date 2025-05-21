@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307393,
+      "lng": 103.782082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308751030291502,
+        "lng": 103.7834185802915
+      },
+      "southwest": {
+        "lat": 1.306053069708498,
+        "lng": 103.7807206197085
+      }
+    }
+  },
+  "name": "S'pore Poly",
+  "place_id": "ChIJrSKO7l0a2jER6Q_ESitP5hw",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Umar Draz",
+      "author_url": "https://www.google.com/maps/contrib/114904220620186200657/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFIgB64xkVnZd16ade-k3hdxOsWHDkw_o2ae0Ycm5lMANPPR7t=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "The best institute for professionals\n\nEspecially for Marine engineer s",
+      "time": 1510208492,
+      "translated": false
+    },
+    {
+      "author_name": "Peng Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/105469780318854300502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlmebiPaGWWXkJmXcHijD51DcOSWecSAsReVmpwZ2xRflyXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1646971141,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2082438925061984233",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

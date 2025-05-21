@@ -1,0 +1,44 @@
+{
+  "formatted_address": "25 Namly Pl, Singapore 267172",
+  "geometry": {
+    "location": {
+      "lat": 1.3232388,
+      "lng": 103.7976764
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324642480291502,
+        "lng": 103.7990169302915
+      },
+      "southwest": {
+        "lat": 1.321944519708498,
+        "lng": 103.7963189697085
+      }
+    }
+  },
+  "name": "Wine Exchange Asia Pte Ltd",
+  "place_id": "ChIJ2xeLx3Qa2jERn9JqXaR5F7U",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Habib Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/114491174568981519563/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLeCk5b5DNMZpctw66K_RyhxXVOD-kXp2ga47P3Dt-5PiKkQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539317872,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "liquor_store",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13049032192178180767",
+  "user_ratings_total": 1,
+  "vicinity": "25 Namly Place"
+}

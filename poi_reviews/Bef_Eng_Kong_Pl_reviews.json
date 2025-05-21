@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336966,
+      "lng": 103.766968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338356780291502,
+        "lng": 103.7683067802915
+      },
+      "southwest": {
+        "lat": 1.335658819708498,
+        "lng": 103.7656088197085
+      }
+    }
+  },
+  "name": "Bef Eng Kong Pl",
+  "place_id": "ChIJlcHy2WQQ2jERs2lOz3myysw",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jiang Zong Zhe",
+      "author_url": "https://www.google.com/maps/contrib/101807640856821726126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdGsXbg4s1rMtrjPx_2geH5Q5P44rS049uYKLDFLxOLXT6jg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Bus timings are really long, and there is only one bus in service here. Make sure you plan extra time when making a journey here",
+      "time": 1518849436,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah tian",
+      "author_url": "https://www.google.com/maps/contrib/101360618299513663870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8H2bVK2aUgCmJw3ymjba458dzj66lIJ7P_qmgUVQ1RyNELw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502695994,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14756803365271660979",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

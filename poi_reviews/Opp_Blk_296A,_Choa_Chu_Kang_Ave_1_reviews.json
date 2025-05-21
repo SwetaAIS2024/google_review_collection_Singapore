@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37648,
+      "lng": 103.74093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377861030291502,
+        "lng": 103.7422907802915
+      },
+      "southwest": {
+        "lat": 1.375163069708498,
+        "lng": 103.7395928197085
+      }
+    }
+  },
+  "name": "Opp Blk 296A, Choa Chu Kang Ave 1",
+  "place_id": "ChIJFdNl1sQR2jER50AiGWIcFDs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4257058755426009319",
+  "vicinity": "Singapore"
+}

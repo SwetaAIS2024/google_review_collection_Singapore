@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2836474,
+      "lng": 103.8660795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284445180291502,
+        "lng": 103.8670406302915
+      },
+      "southwest": {
+        "lat": 1.281747219708498,
+        "lng": 103.8643426697085
+      }
+    }
+  },
+  "name": "Tree Top Walk",
+  "place_id": "ChIJsV8_OwIZ2jERxo-1yyfySHk",
+  "types": [
+    "park",
+    "point_of_interest",
+    "subpremise",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da19023b3f5fb1:0x7948f227cbb58fc6",
+  "vicinity": "Singapore"
+}

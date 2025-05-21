@@ -1,0 +1,28 @@
+{
+  "formatted_address": "90 Tuas South Ave 9, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2781587,
+      "lng": 103.636188
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279511180291502,
+        "lng": 103.6374872302915
+      },
+      "southwest": {
+        "lat": 1.276813219708498,
+        "lng": 103.6347892697085
+      }
+    }
+  },
+  "name": "SSG",
+  "place_id": "ChIJ09bBHQAH2jERt0ojd79jzmw",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7840313675287317175",
+  "vicinity": "90 Tuas South Avenue 9"
+}

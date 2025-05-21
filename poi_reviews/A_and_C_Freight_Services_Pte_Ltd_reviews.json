@@ -1,0 +1,29 @@
+{
+  "formatted_address": "02 Airline Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384317130291502,
+        "lng": 104.0005482802915
+      },
+      "southwest": {
+        "lat": 1.381619169708498,
+        "lng": 103.9978503197085
+      }
+    }
+  },
+  "name": "A & C Freight Services Pte Ltd",
+  "place_id": "ChIJd8TRwAw82jERshEWbzECM8E",
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13921473284472705458",
+  "vicinity": "02 Airline Road"
+}

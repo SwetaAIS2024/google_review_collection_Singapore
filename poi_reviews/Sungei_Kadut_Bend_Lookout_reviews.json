@@ -1,0 +1,54 @@
+{
+  "formatted_address": "23 Mandai Estate, Singapore 729937",
+  "geometry": {
+    "location": {
+      "lat": 1.4056054,
+      "lng": 103.76078
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406968480291502,
+        "lng": 103.7621322302915
+      },
+      "southwest": {
+        "lat": 1.404270519708498,
+        "lng": 103.7594342697085
+      }
+    }
+  },
+  "name": "Sungei Kadut Bend Lookout",
+  "place_id": "ChIJZds6FwAT2jERMfHco9L-qOw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Chen Weizhi",
+      "author_url": "https://www.google.com/maps/contrib/104262822998888136081/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHMnf4pq3IduemMNhrSJDMBmfGq1ORTRuZZtj3wdihkkw_w0Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Nice scenery. The lack of development around the area makes this place very peaceful.",
+      "time": 1734146216,
+      "translated": false
+    },
+    {
+      "author_name": "Aadi Gupta",
+      "author_url": "https://www.google.com/maps/contrib/112696467514276963495/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlSWi4iUPydf3EUTle0MNTcTJ85LstoSEVUY7Je3OLEiueYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734769770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17053160169684136241",
+  "user_ratings_total": 2,
+  "vicinity": "23 Mandai Estate, Singapore"
+}

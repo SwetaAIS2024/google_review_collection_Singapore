@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2746109,
+      "lng": 103.8018405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275964880291502,
+        "lng": 103.8032414802915
+      },
+      "southwest": {
+        "lat": 1.273266919708498,
+        "lng": 103.8005435197085
+      }
+    }
+  },
+  "name": "Alexandra Retail Ctr",
+  "place_id": "ChIJ4basJcEb2jER2rUSGEisxDM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "This is a clean bus stop, with proper shelter, and many buses in different directions, to different places that you'll need to be heading to. It's also the bus stop for Mapletree Business City, if you're heading to Google or SAP or any one of the offices here.\n\nGo into Alexandra Retail Centre, if you need a sheltered walkway towards either Labrador Park MRT station, or towards MBC.",
+      "time": 1666795186,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3730295817011115482",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

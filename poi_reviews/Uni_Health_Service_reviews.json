@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34569,
+      "lng": 103.682903
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347083030291502,
+        "lng": 103.6842285802915
+      },
+      "southwest": {
+        "lat": 1.344385069708498,
+        "lng": 103.6815306197085
+      }
+    }
+  },
+  "name": "Uni Health Service",
+  "place_id": "ChIJP82i_J8P2jER3suWutpWMuE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16227127904802622430",
+  "vicinity": "Singapore"
+}

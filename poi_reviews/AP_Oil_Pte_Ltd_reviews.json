@@ -1,0 +1,41 @@
+{
+  "formatted_address": "18 Pioneer Sector 1, Singapore 628428",
+  "geometry": {
+    "location": {
+      "lat": 1.3043224,
+      "lng": 103.6541824
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305461230291502,
+        "lng": 103.6556630302915
+      },
+      "southwest": {
+        "lat": 1.302763269708498,
+        "lng": 103.6529650697085
+      }
+    }
+  },
+  "name": "AP Oil Pte Ltd",
+  "place_id": "ChIJJaCyUMEF2jERkCkg67OsEPE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Guru Terror",
+      "author_url": "https://www.google.com/maps/contrib/106742340179012567820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5Z7jM0qYW_TKyyi3LU-lUKEczAFtQfpQZ6dJeWveH9DDuV4k=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709590005,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17370573651511880080",
+  "user_ratings_total": 1,
+  "vicinity": "18 Pioneer Sector 1, Singapore"
+}

@@ -1,0 +1,51 @@
+{
+  "formatted_address": "58 Tanjong Penjuru, Singapore 609036",
+  "geometry": {
+    "location": {
+      "lat": 1.3054727,
+      "lng": 103.7381228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306821680291502,
+        "lng": 103.7394944802915
+      },
+      "southwest": {
+        "lat": 1.304123719708498,
+        "lng": 103.7367965197085
+      }
+    }
+  },
+  "name": "Masda Chemical Pte Ltd",
+  "place_id": "ChIJ90DM-sga2jERGJ5ddr9aLf0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Chan Htut",
+      "author_url": "https://www.google.com/maps/contrib/113540402097494641591/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWORwmX_Brdwo-V9WRLTQ-2Yi2CCEn4Tvdw8FnyWdMJx2zjPzch2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738734456,
+      "translated": false
+    },
+    {
+      "author_name": "april security",
+      "author_url": "https://www.google.com/maps/contrib/116397830104895319969/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6wN0-5Pf8GZEUFVxz8LJ64kGA2OESQwkpel4e3eXVvv7GdWs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499156032,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18243337443918847512",
+  "user_ratings_total": 2,
+  "vicinity": "58 Tanjong Penjuru, Singapore"
+}

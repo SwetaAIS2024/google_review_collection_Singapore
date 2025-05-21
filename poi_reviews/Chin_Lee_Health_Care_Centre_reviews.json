@@ -1,0 +1,30 @@
+{
+  "formatted_address": "684 Hougang Ave 8, Singapore 530684",
+  "geometry": {
+    "location": {
+      "lat": 1.3743046,
+      "lng": 103.8865639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375665630291502,
+        "lng": 103.8878281802915
+      },
+      "southwest": {
+        "lat": 1.372967669708498,
+        "lng": 103.8851302197085
+      }
+    }
+  },
+  "name": "Chin Lee Health Care Centre",
+  "place_id": "ChIJx7KSPUYW2jERML9c2_kITy8",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3408953312162922288",
+  "vicinity": "684 Hougang Avenue 8"
+}

@@ -1,0 +1,68 @@
+{
+  "formatted_address": "85 Bedok North Rd, #01-36, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.332073,
+      "lng": 103.9387805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333596830291502,
+        "lng": 103.9399531802915
+      },
+      "southwest": {
+        "lat": 1.330898869708498,
+        "lng": 103.9372552197085
+      }
+    }
+  },
+  "name": "Mdm Yan Coffee Art Cafe",
+  "place_id": "ChIJ73zaKPY92jERK47ke4vIZ7E",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Sam Wong",
+      "author_url": "https://www.google.com/maps/contrib/115694236480258826587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfPGY5Wy3PEKYDD-b5-Pnnt4UGw1Xp5LFHJdk03WnvqSvalg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Their coffee with tea (yuan yang, $1.30) is smooth, thin to medium thickness, has coffee aroma and less sweet. 8.5/10",
+      "time": 1730165109,
+      "translated": false
+    },
+    {
+      "author_name": "Brad Pang",
+      "author_url": "https://www.google.com/maps/contrib/109845881384294572317/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKziGflVdK54Tma5gcbDCcvzZBVoP2rXhHdFsNJ4yYJ3XpDXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Ordered kopi siew dai and felt it was very fragrant and thick. Uncle preparing was also friendly and chatted with us.",
+      "time": 1694489296,
+      "translated": false
+    },
+    {
+      "author_name": "Nicholas Ng",
+      "author_url": "https://www.google.com/maps/contrib/110421093672407173936/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZwDxZoSatfHHWBMR3KkM4vN-jvkrsCebf0keTPeaQWzstjw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667201357,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12783406568719027755",
+  "user_ratings_total": 3,
+  "vicinity": "85 Bedok North Road, #01-36"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Empress Rd, Singapore 260008",
+  "geometry": {
+    "location": {
+      "lat": 1.3173106,
+      "lng": 103.8062619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318674280291502,
+        "lng": 103.8076244802915
+      },
+      "southwest": {
+        "lat": 1.315976319708498,
+        "lng": 103.8049265197085
+      }
+    }
+  },
+  "name": "Medano Coffee",
+  "place_id": "ChIJP5RN1xEa2jERov6d6DkRU5A",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Daud Halomoan",
+      "author_url": "https://www.google.com/maps/contrib/107363068672312607951/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpyKG3RsEeaEBHmioscs6Ms_ThXXFs0KZFAVN3KqaJOu1pf8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718514957,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10399674904942083746",
+  "user_ratings_total": 1,
+  "vicinity": "Empress Road"
+}

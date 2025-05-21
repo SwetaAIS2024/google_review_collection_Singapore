@@ -1,0 +1,29 @@
+{
+  "formatted_address": "203 Henderson Rd, Henderson Ind Park, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.2816745,
+      "lng": 103.8208933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282953030291502,
+        "lng": 103.8221696802915
+      },
+      "southwest": {
+        "lat": 1.280255069708498,
+        "lng": 103.8194717197085
+      }
+    }
+  },
+  "name": "02 Ambulance & Services",
+  "place_id": "ChIJkzhSydcb2jERBj2p-jhZDmE",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6993625372611394822",
+  "vicinity": "203 Henderson Road, Henderson Ind Park"
+}

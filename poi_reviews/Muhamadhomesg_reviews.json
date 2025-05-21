@@ -1,0 +1,45 @@
+{
+  "formatted_address": "88 Zion Rd, Egg Harbor Twp, Singapore 160088",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "Muhamadhomesg",
+  "place_id": "ChIJMakes-0R2jERiCtvDVOLWhg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Icca Piica",
+      "author_url": "https://www.google.com/maps/contrib/112778746265276242203/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Lv8u3BOhPKznCp13kcqjf3D2RqkszKHpDmA_T2OYPDiAlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "Because I was taught to look for food",
+      "time": 1725983558,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1754868193638165384",
+  "user_ratings_total": 1,
+  "vicinity": "88 Zion Rd, Egg Harbor Twp"
+}

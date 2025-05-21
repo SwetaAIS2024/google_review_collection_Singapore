@@ -1,0 +1,31 @@
+{
+  "formatted_address": "30 Kallang Pl, Singapore 339159",
+  "geometry": {
+    "location": {
+      "lat": 1.3149281,
+      "lng": 103.8662833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316334580291502,
+        "lng": 103.8676986802915
+      },
+      "southwest": {
+        "lat": 1.313636619708498,
+        "lng": 103.8650007197085
+      }
+    }
+  },
+  "name": "V S PREMIUM SELECTED",
+  "place_id": "ChIJg_fw76IZ2jER4L_gAHnWW3I",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8240415758398570464",
+  "vicinity": "30 Kallang Place, Singapore"
+}

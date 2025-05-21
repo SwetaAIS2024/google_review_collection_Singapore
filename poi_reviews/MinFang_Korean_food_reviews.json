@@ -1,0 +1,46 @@
+{
+  "formatted_address": "115B Commonwealth Dr, 115B, Singapore 149597",
+  "geometry": {
+    "location": {
+      "lat": 1.304574,
+      "lng": 103.7981937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305868530291502,
+        "lng": 103.7996048802915
+      },
+      "southwest": {
+        "lat": 1.303170569708498,
+        "lng": 103.7969069197085
+      }
+    }
+  },
+  "name": "MinFang Korean food",
+  "place_id": "ChIJV2qR0Rob2jERKvB6vdedZ6Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dennis Lee",
+      "author_url": "https://www.google.com/maps/contrib/106359297351013893921/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV32PsXpEVJw_bapkbsMdniGJA4apAqa55KXu1nCrM8RClT6ISl=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Always like the Korean food at this stall in Foodmore.\nThe lowest priced Saba fish set so far. Only $5.80. Comes with soup, kimchi and rice.\nI would add some sides like a piece of chicken cutlet for additional $3.\nCan't find a better deal than this.\nSaba s cooked just right. Fish meat s juicy with a smoky bbq flavor. 😋",
+      "time": 1681303703,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11990726082819715114",
+  "user_ratings_total": 1,
+  "vicinity": "115B Commonwealth Drive, 115B"
+}

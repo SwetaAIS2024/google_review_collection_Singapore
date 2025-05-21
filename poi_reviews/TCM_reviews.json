@@ -1,0 +1,29 @@
+{
+  "formatted_address": "247 Bukit Batok East Ave 5, Block 247, Singapore 650247",
+  "geometry": {
+    "location": {
+      "lat": 1.3481252,
+      "lng": 103.7570014
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349507480291502,
+        "lng": 103.7583096302915
+      },
+      "southwest": {
+        "lat": 1.346809519708498,
+        "lng": 103.7556116697085
+      }
+    }
+  },
+  "name": "TCM",
+  "place_id": "ChIJXdoBRkEQ2jERIXfECKgos8g",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14461947530583504673",
+  "vicinity": "247 Bukit Batok East Avenue 5, Block 247"
+}

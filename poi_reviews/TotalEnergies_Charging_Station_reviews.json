@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Tuas South Ave 14, 2, Singapore 636976",
+  "geometry": {
+    "location": {
+      "lat": 1.2753584,
+      "lng": 103.6183854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276891430291502,
+        "lng": 103.6197991802915
+      },
+      "southwest": {
+        "lat": 1.274193469708498,
+        "lng": 103.6171012197085
+      }
+    }
+  },
+  "name": "TotalEnergies Charging Station",
+  "place_id": "ChIJwTB3GZQG2jEROaDwZsirKjs",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4263408874468450361",
+  "vicinity": "Tuas South Avenue 14, 2, Singapore"
+}

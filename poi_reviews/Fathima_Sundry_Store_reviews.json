@@ -1,0 +1,46 @@
+{
+  "formatted_address": "265 New Bridge Rd, Singapore 088745",
+  "geometry": {
+    "location": {
+      "lat": 1.2825217,
+      "lng": 103.8424224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283959630291502,
+        "lng": 103.8436616802915
+      },
+      "southwest": {
+        "lat": 1.281261669708498,
+        "lng": 103.8409637197085
+      }
+    }
+  },
+  "name": "Fathima Sundry Store",
+  "place_id": "ChIJVWzmBXMZ2jER8Ry8XfNrSYc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mat Jup",
+      "author_url": "https://www.google.com/maps/contrib/115821630387810588195/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViXQzEYgJPo4lIZQwJOeWIOe4hueuKKYwB4q_swaQclGAlu-Y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Have cigarette..drinks",
+      "time": 1561637196,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9748441561413983473",
+  "user_ratings_total": 1,
+  "vicinity": "265 New Bridge Road, Singapore"
+}

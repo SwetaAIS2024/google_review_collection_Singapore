@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Yishun Street 61, Singapore 760601",
+  "geometry": {
+    "location": {
+      "lat": 1.4223688,
+      "lng": 103.8357353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423642630291502,
+        "lng": 103.8373048302915
+      },
+      "southwest": {
+        "lat": 1.420944669708498,
+        "lng": 103.8346068697085
+      }
+    }
+  },
+  "name": "Empayarku",
+  "place_id": "ChIJORu-zmwU2jER1lpKUcSIPNA",
+  "types": [
+    "home_goods_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15005018435250445014",
+  "vicinity": "Yishun Street 61, Singapore"
+}

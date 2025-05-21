@@ -1,0 +1,42 @@
+{
+  "formatted_address": "64 Meng Suan Rd, Singapore 779265",
+  "geometry": {
+    "location": {
+      "lat": 1.4046287,
+      "lng": 103.8155849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405753430291502,
+        "lng": 103.8171034802915
+      },
+      "southwest": {
+        "lat": 1.403055469708498,
+        "lng": 103.8144055197085
+      }
+    }
+  },
+  "name": "SMTI Cookhouse",
+  "place_id": "ChIJx3-1EgAT2jERzbwZ_UFpPt0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Chiken Nuget",
+      "author_url": "https://www.google.com/maps/contrib/106744716877015718654/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXYqG6m7v7dsLrLvnCsjPF46osTivsYUra5FGtAuWTngPCDw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743411930,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15942295463078247629",
+  "user_ratings_total": 1,
+  "vicinity": "64 Meng Suan Road, Singapore"
+}

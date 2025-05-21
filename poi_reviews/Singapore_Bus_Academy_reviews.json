@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Boon Lay Wy, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3263445,
+      "lng": 103.754313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327710480291502,
+        "lng": 103.7556675802915
+      },
+      "southwest": {
+        "lat": 1.325012519708498,
+        "lng": 103.7529696197085
+      }
+    }
+  },
+  "name": "Singapore Bus Academy",
+  "place_id": "ChIJ51nrz58a2jERX39xQGTKzaQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Martin Choo",
+      "author_url": "https://www.google.com/maps/contrib/112152329829083849744/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyc7C2erMPoR_WLX-7r56tm3Tbm6vcL-v2hCaL1hkRVPnfdHxf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "this place be bussin'",
+      "time": 1664013666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11875370324372586335",
+  "user_ratings_total": 1,
+  "vicinity": "Boon Lay Way"
+}

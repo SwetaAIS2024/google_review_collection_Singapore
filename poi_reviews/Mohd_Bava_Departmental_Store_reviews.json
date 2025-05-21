@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Chinatown Complex (U/C) #01-006, 335 Smith Street (S)050335, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2823915,
+      "lng": 103.8432023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283920280291502,
+        "lng": 103.8446252802915
+      },
+      "southwest": {
+        "lat": 1.281222319708498,
+        "lng": 103.8419273197085
+      }
+    }
+  },
+  "name": "Mohd Bava Departmental Store",
+  "place_id": "ChIJNcXWGHMZ2jERd7ALiH9bh2Y",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7387974317026029687",
+  "vicinity": "Chinatown Complex (U/C) #01-006, 335 Smith Street (S)050335"
+}

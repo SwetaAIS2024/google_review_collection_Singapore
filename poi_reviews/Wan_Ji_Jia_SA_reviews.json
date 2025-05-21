@@ -1,0 +1,44 @@
+{
+  "formatted_address": "257 Bangkit Rd, Singapore 670257",
+  "geometry": {
+    "location": {
+      "lat": 1.3784903,
+      "lng": 103.7731815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379781880291502,
+        "lng": 103.7744700302915
+      },
+      "southwest": {
+        "lat": 1.377083919708498,
+        "lng": 103.7717720697085
+      }
+    }
+  },
+  "name": "Wan Ji Jia SA",
+  "place_id": "ChIJfQZezKAR2jERLSidmDp-kb0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Johnson Yeo",
+      "author_url": "https://www.google.com/maps/contrib/104091135384890011342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYZNW5O0VjWJyxcufS7gDgT9S6pBe6gRSe7m9fi6Is25lNUNIucg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544446482,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13659837934925064237",
+  "user_ratings_total": 1,
+  "vicinity": "257 Bangkit Road, Singapore"
+}

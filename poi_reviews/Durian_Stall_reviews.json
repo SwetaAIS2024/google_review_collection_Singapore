@@ -1,0 +1,30 @@
+{
+  "formatted_address": "86 Bedok North Street 4, Singapore 460086",
+  "geometry": {
+    "location": {
+      "lat": 1.3325088,
+      "lng": 103.93885
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334022980291502,
+        "lng": 103.9401648802915
+      },
+      "southwest": {
+        "lat": 1.331325019708498,
+        "lng": 103.9374669197085
+      }
+    }
+  },
+  "name": "Durian Stall",
+  "place_id": "ChIJscCXIwA92jERDOlqAnIdotk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15682129227961526540",
+  "vicinity": "86 Bedok North Street 4, Singapore"
+}

@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297102,
+      "lng": 103.80764
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298412030291502,
+        "lng": 103.8089763802915
+      },
+      "southwest": {
+        "lat": 1.295714069708498,
+        "lng": 103.8062784197085
+      }
+    }
+  },
+  "name": "Opp Queenstown Pr Sch",
+  "place_id": "ChIJxTejWzAa2jERjO9McLUGwqM",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Dancing Caulk",
+      "author_url": "https://www.google.com/maps/contrib/116466322714469390636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQkIThZxBJolsrh85wi_O50wfANXjK4AfKWi0cdsSzYWjFffA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "They really gotta add a bus that can get me to orchard from here instead of having to take 111 from the mrt",
+      "time": 1737723552,
+      "translated": false
+    },
+    {
+      "author_name": "Leong Xin Yi",
+      "author_url": "https://www.google.com/maps/contrib/105484973938097375710/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlanA1DzQecChw03y-5or1bSZmnJ3JCiVGSETQVdnYqU2dyrUd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524664028,
+      "translated": false
+    },
+    {
+      "author_name": "ahin mudika (Gaming Today)",
+      "author_url": "https://www.google.com/maps/contrib/107771815137297768014/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtejD6bMejc5DLzRLCmIe7d1Aa1ZI_Fhq2ArnRE9ThXPZilg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511134364,
+      "translated": false
+    },
+    {
+      "author_name": "manjot kaur",
+      "author_url": "https://www.google.com/maps/contrib/107845753455225080480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDzrWd533pFItD_kqWAeupJLPs7liORdk6KxHGl8W9Tn41HGxbIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497064518,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11800001350007058316",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

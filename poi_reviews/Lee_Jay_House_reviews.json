@@ -1,0 +1,55 @@
+{
+  "formatted_address": "40, Jln Medini Timur 5/4, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3969398,
+      "lng": 103.6348298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398224180291502,
+        "lng": 103.6361283802915
+      },
+      "southwest": {
+        "lat": 1.395526219708498,
+        "lng": 103.6334304197085
+      }
+    }
+  },
+  "name": "Lee Jay House",
+  "place_id": "ChIJpw1SLAAJ2jERZXLYl7-o6xI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "weng lok Lee",
+      "author_url": "https://www.google.com/maps/contrib/115791810622377077435/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUHi1tEcp8pVeSFKGsqqbemqSiYpceeNIk5r8okucQ9yvVpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Knn. No bogou photo. Put 1 star back after 30 days",
+      "time": 1744335601,
+      "translated": false
+    },
+    {
+      "author_name": "yen fong Lee",
+      "author_url": "https://www.google.com/maps/contrib/117309499738833468613/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS4CunO4H1RZ4Ub0U86JUGsjUdaa2z1X0b4Az_h5FiH2ik9DRf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Cool",
+      "time": 1740996775,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1363368853049471589",
+  "user_ratings_total": 2,
+  "vicinity": "40, Jalan Medini Timur 5/4, Iskandar Puteri"
+}

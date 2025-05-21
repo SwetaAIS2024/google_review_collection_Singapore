@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.402748,
+      "lng": 103.812378
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404066780291502,
+        "lng": 103.8136937802915
+      },
+      "southwest": {
+        "lat": 1.401368819708498,
+        "lng": 103.8109958197085
+      }
+    }
+  },
+  "name": "SCDF Nee Soon Camp",
+  "place_id": "ChIJZxJTcv0T2jERZGI_bxA7C-w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Stanley Lee",
+      "author_url": "https://www.google.com/maps/contrib/101914774823641857993/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_muzTimdjZ2MEMNEN4i7GfBzOQ9MccxVLB04orfg-dnFGuA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526517924,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17008753359466750564",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

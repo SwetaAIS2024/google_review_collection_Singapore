@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Tanjong Pagar Plz, Singapore 082001",
+  "geometry": {
+    "location": {
+      "lat": 1.2747967,
+      "lng": 103.8428651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276188580291502,
+        "lng": 103.8443235802915
+      },
+      "southwest": {
+        "lat": 1.273490619708498,
+        "lng": 103.8416256197085
+      }
+    }
+  },
+  "name": "AXS Station @ Tanjong Pagar Plaza",
+  "place_id": "ChIJnYJaYmsZ2jERgAg92w3aNJA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10391169993298217088",
+  "vicinity": "1 Tanjong Pagar Plaza, Singapore"
+}

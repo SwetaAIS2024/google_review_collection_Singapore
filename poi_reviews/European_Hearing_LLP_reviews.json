@@ -1,0 +1,30 @@
+{
+  "formatted_address": "24 Mosque St, Singapore 059504",
+  "geometry": {
+    "location": {
+      "lat": 1.283599,
+      "lng": 103.84478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285163530291502,
+        "lng": 103.8459499302915
+      },
+      "southwest": {
+        "lat": 1.282465569708498,
+        "lng": 103.8432519697085
+      }
+    }
+  },
+  "name": "European Hearing LLP",
+  "place_id": "ChIJU1dax2oa2jERta1T37yoFS0",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3248688235371802037",
+  "vicinity": "24 Mosque Street"
+}

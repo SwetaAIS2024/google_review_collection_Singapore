@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1 Sallim Rd, #3, Singapore 387621",
+  "geometry": {
+    "location": {
+      "lat": 1.3261647,
+      "lng": 103.8827139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327461830291502,
+        "lng": 103.8840560302915
+      },
+      "southwest": {
+        "lat": 1.324763869708498,
+        "lng": 103.8813580697085
+      }
+    }
+  },
+  "name": "Canossaville Preschool",
+  "place_id": "ChIJmyX9gCcY2jERcnMA5gab9X8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chun Wui Tan",
+      "author_url": "https://www.google.com/maps/contrib/106047394467182149594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmTR8tLN-4H_p3TMZKebjKK-BnqwiQ0C3WGlrvlHE8pWo_0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699180752,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9220446266041856882",
+  "user_ratings_total": 1,
+  "vicinity": "1 Sallim Road, #3"
+}

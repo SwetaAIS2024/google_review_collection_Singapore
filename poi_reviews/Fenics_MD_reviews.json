@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Temasek Ave, Millenia Tower, Singapore 039192",
+  "geometry": {
+    "location": {
+      "lat": 1.2931797,
+      "lng": 103.8606995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294531130291502,
+        "lng": 103.8620817302915
+      },
+      "southwest": {
+        "lat": 1.291833169708498,
+        "lng": 103.8593837697085
+      }
+    }
+  },
+  "name": "Fenics MD",
+  "place_id": "ChIJL4PDN6kZ2jERdBDCT1Za68c",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14405707159826468980",
+  "vicinity": "1 Temasek Avenue, Millenia Tower, Singapore"
+}

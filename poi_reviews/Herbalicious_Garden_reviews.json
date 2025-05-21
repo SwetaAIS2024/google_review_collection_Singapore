@@ -1,0 +1,44 @@
+{
+  "formatted_address": "20 Marine Ter, Singapore 440020",
+  "geometry": {
+    "location": {
+      "lat": 1.3037452,
+      "lng": 103.9148457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305095730291502,
+        "lng": 103.9161040302915
+      },
+      "southwest": {
+        "lat": 1.302397769708498,
+        "lng": 103.9134060697085
+      }
+    }
+  },
+  "name": "Herbalicious Garden",
+  "place_id": "ChIJof74HAAj2jERhr5dgbbLBHU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lea Zaleha (Ninja Six5)",
+      "author_url": "https://www.google.com/maps/contrib/112089489395215255939/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUws5bNSY-RaU63b1wtoQAVkhZCqveGs2rz-LVYDPrfwr3Pu0CJTw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Herbs and spices community garden.",
+      "time": 1737877106,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8432088387059302022",
+  "user_ratings_total": 1,
+  "vicinity": "20 Marine Terrace, Singapore"
+}

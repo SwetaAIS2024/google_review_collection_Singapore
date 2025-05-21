@@ -1,0 +1,31 @@
+{
+  "formatted_address": "491D Tampines Street 45, Block 491D, Singapore 523491",
+  "geometry": {
+    "location": {
+      "lat": 1.3624705,
+      "lng": 103.9546621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363760780291502,
+        "lng": 103.9560731302915
+      },
+      "southwest": {
+        "lat": 1.361062819708498,
+        "lng": 103.9533751697085
+      }
+    }
+  },
+  "name": "B & V Supermart",
+  "place_id": "ChIJf5T8Swc92jERArW9BWLu394",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16059816900997002498",
+  "vicinity": "491D Tampines Street 45, Block 491D"
+}

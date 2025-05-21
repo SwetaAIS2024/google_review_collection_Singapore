@@ -1,0 +1,43 @@
+{
+  "formatted_address": "63 Hillview Ave, Singapore 669569",
+  "geometry": {
+    "location": {
+      "lat": 1.3570307,
+      "lng": 103.763132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358502280291502,
+        "lng": 103.7644145802915
+      },
+      "southwest": {
+        "lat": 1.355804319708498,
+        "lng": 103.7617166197085
+      }
+    }
+  },
+  "name": "The Siemon Company",
+  "place_id": "ChIJCRIQh_AX2jERWoO8K09ZToQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Minh Nguyễn Công",
+      "author_url": "https://www.google.com/maps/contrib/102922800972143847398/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKHPYm4SIdB8kYXaabNs2Z19CDuPoVxfcxjSlsITr0HH2lsUhc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Ok",
+      "time": 1515635949,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9533655657760981850",
+  "user_ratings_total": 1,
+  "vicinity": "63 Hillview Avenue, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bishan, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3525845,
+      "lng": 103.8352116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368003909982341,
+        "lng": 103.8604539676883
+      },
+      "southwest": {
+        "lat": 1.341720865957777,
+        "lng": 103.8177268778883
+      }
+    }
+  },
+  "name": "Bishan",
+  "place_id": "ChIJBZhgpxQX2jERfEp8XAH-XYY",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Bishan,+Singapore&ftid=0x31da1714a7609805:0x865dfe015c7c4a7c",
+  "vicinity": "Singapore"
+}

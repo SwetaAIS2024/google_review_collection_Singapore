@@ -1,0 +1,30 @@
+{
+  "formatted_address": "21 Pandan Cres, Singapore 128471",
+  "geometry": {
+    "location": {
+      "lat": 1.3056967,
+      "lng": 103.7566335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306965480291502,
+        "lng": 103.7580408802915
+      },
+      "southwest": {
+        "lat": 1.304267519708498,
+        "lng": 103.7553429197085
+      }
+    }
+  },
+  "name": "Well Metalwork",
+  "place_id": "ChIJuYMEnesa2jERiFwiYr-cTmI",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7083771609699474568",
+  "vicinity": "21 Pandan Crescent, Singapore"
+}

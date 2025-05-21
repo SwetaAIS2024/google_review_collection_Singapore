@@ -1,0 +1,30 @@
+{
+  "formatted_address": "221 Henderson Rd, Singapore 159557",
+  "geometry": {
+    "location": {
+      "lat": 1.2806882,
+      "lng": 103.8208483
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282033330291502,
+        "lng": 103.8222015302915
+      },
+      "southwest": {
+        "lat": 1.279335369708498,
+        "lng": 103.8195035697085
+      }
+    }
+  },
+  "name": "Medeus (S) Pte Ltd",
+  "place_id": "ChIJt4UZN9Yb2jER-8SUQ2RCbyY",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2769505294254130427",
+  "vicinity": "221 Henderson Road, Singapore"
+}

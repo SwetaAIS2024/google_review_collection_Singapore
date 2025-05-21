@@ -1,0 +1,77 @@
+{
+  "formatted_address": "50 Bukit Batok Street 23, #01-16, Singapore 659578",
+  "geometry": {
+    "location": {
+      "lat": 1.339366,
+      "lng": 103.7567167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340674530291502,
+        "lng": 103.7580431302915
+      },
+      "southwest": {
+        "lat": 1.337976569708498,
+        "lng": 103.7553451697085
+      }
+    }
+  },
+  "name": "Kingdom Kopitiam",
+  "place_id": "ChIJryyMDVER2jERrgb9BfDqD5E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kwang Boon Tan",
+      "author_url": "https://www.google.com/maps/contrib/115784747804160507122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqAc3jBpB5SEbleZvmDtAD6eIAo9CzX-cg4iLY9aPlXtqN0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice and cheap coffee for the work day!",
+      "time": 1658796734,
+      "translated": false
+    },
+    {
+      "author_name": "Wang Lin Kok",
+      "author_url": "https://www.google.com/maps/contrib/110147576634265107135/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIazow_kQoGFZVTkENJ2gr5PQBcsGBJAQO81qrsDYgvRV0Q0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice vegetarian stall",
+      "time": 1658663187,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Ong",
+      "author_url": "https://www.google.com/maps/contrib/106837091023360662831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQP9Cxq4N1H-uU-d7EkzaSQXZMyrSnTKuTYemr7IvttUGPhA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658794228,
+      "translated": false
+    },
+    {
+      "author_name": "Denyse Lum",
+      "author_url": "https://www.google.com/maps/contrib/106362114058716569940/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXilnolSamh9KSEVKo_JjonyUNeLkANGApq5PWy3UxQ9M4I-362bg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658764362,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10452831576763729582",
+  "user_ratings_total": 4,
+  "vicinity": "50 Bukit Batok Street 23, #01-16, Singapore"
+}

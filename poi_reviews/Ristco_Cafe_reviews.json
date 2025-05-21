@@ -1,0 +1,29 @@
+{
+  "formatted_address": "275 Thomson Rd, Singapore 307645",
+  "geometry": {
+    "location": {
+      "lat": 1.3210281,
+      "lng": 103.841714
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322462180291502,
+        "lng": 103.8431893802915
+      },
+      "southwest": {
+        "lat": 1.319764219708498,
+        "lng": 103.8404914197085
+      }
+    }
+  },
+  "name": "Ristco Cafe",
+  "place_id": "ChIJv0Uv2eYZ2jERVgxKtHz1itw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15891784151079717974",
+  "vicinity": "275 Thomson Road"
+}

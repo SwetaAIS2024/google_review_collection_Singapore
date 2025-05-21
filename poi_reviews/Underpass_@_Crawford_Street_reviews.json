@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Kallang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3069221,
+      "lng": 103.8644863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308277280291502,
+        "lng": 103.8657585302915
+      },
+      "southwest": {
+        "lat": 1.305579319708498,
+        "lng": 103.8630605697085
+      }
+    }
+  },
+  "name": "Underpass @ Crawford Street",
+  "place_id": "ChIJ3W2SQAAZ2jERrjmNKrLZjck",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The Underpass is convinently located and provide a hassle free alternative to cross Crawford Street, especially for the cyclists.",
+      "time": 1714553139,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14523503732581022126",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

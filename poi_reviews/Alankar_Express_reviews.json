@@ -1,0 +1,45 @@
+{
+  "formatted_address": "17 Woodlands Dr 17, B1-03/04 Woodlands Health Campus, Singapore 737628",
+  "geometry": {
+    "location": {
+      "lat": 1.4245934,
+      "lng": 103.7946525
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426336930291502,
+        "lng": 103.7959836802915
+      },
+      "southwest": {
+        "lat": 1.423638969708498,
+        "lng": 103.7932857197085
+      }
+    }
+  },
+  "name": "Alankar Express",
+  "place_id": "ChIJ0XlneQAT2jERElAxIUZJiTk",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Simon Low",
+      "author_url": "https://www.google.com/maps/contrib/109185125385591495747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjTmsthO3DwsZur1YT-TIZW0RXn6wEshi1G5_Ax2i-Hsl3nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "All dishes are cold.\nThe fish had a very strong ammonia taste to it",
+      "time": 1740980158,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4145925497524670482",
+  "user_ratings_total": 1,
+  "vicinity": "17 Woodlands Drive 17, B1-03/04 Woodlands Health Campus, Singapore"
+}

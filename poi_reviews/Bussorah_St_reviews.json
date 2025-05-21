@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore, Bussorah St, シンガポール",
+  "geometry": {
+    "location": {
+      "lat": 1.3016942,
+      "lng": 103.8594813
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302842030291502,
+        "lng": 103.8610094302915
+      },
+      "southwest": {
+        "lat": 1.300144069708498,
+        "lng": 103.8583114697085
+      }
+    }
+  },
+  "name": "Bussorah St",
+  "place_id": "ChIJn3o7SQAZ2jERQk-gjqNhu_M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Taka Kazu",
+      "author_url": "https://www.google.com/maps/contrib/104071597874816386596/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOD3GZ3UGQjMQjqZyg7Mp06ov49JbXx34lnjJNSkVPzGphst4uaQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Street on the east side of Arab Street\nSome areas are reserved for pedestrians, making it a new tourist spot.\nThere are many perfume stores and miscellaneous goods stores.",
+      "time": 1740798166,
+      "translated": true
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17562738526961815362",
+  "user_ratings_total": 1,
+  "vicinity": "Bussorah Street, シンガポール"
+}

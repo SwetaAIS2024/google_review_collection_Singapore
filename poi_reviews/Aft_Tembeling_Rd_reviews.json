@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31327,
+      "lng": 103.900497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314651630291502,
+        "lng": 103.9018405302915
+      },
+      "southwest": {
+        "lat": 1.311953669708498,
+        "lng": 103.8991425697085
+      }
+    }
+  },
+  "name": "Aft Tembeling Rd",
+  "place_id": "ChIJT6BImBEY2jERyREaAvZOP8c",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Elle",
+      "author_url": "https://www.google.com/maps/contrib/106013306939322706772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7a7UMtX7-0JtpGDFVQdQuFgTj1X8NJ8pcY2COvsFzKLXNT7qJxg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "a bus stop that unfortunately only serves one bus. it is undeniably convenient for those who stay in the area!",
+      "time": 1687516779,
+      "translated": false
+    },
+    {
+      "author_name": "anh tuấn nguyễn",
+      "author_url": "https://www.google.com/maps/contrib/113613806353118402571/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM6esUY-MfbQBvOh4nYjmN8mkl2Ar8Y0WFke4i3Z2pyPfVWBQq=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560074353,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14357280955584614857",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

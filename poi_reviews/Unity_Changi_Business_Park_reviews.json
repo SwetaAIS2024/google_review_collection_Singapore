@@ -1,0 +1,82 @@
+{
+  "formatted_address": "8 Changi Business Park Ave 1, #01-51, Singapore 486018",
+  "geometry": {
+    "location": {
+      "lat": 1.334844,
+      "lng": 103.963907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336090580291502,
+        "lng": 103.9651863802915
+      },
+      "southwest": {
+        "lat": 1.333392619708498,
+        "lng": 103.9624884197085
+      }
+    }
+  },
+  "name": "Unity Changi Business Park",
+  "place_id": "ChIJvXlPKQM92jERYBlQ-0_epPo",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/105195905996199426190/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYBxlBzYcBw13n5h9PzrYx6h7XtZvBzzx1qabjfYlw-ym-lfc=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 months ago",
+      "text": "On the second level of Fairprice Xtra. No pharmacist. Only OTC meds available",
+      "time": 1734695641,
+      "translated": false
+    },
+    {
+      "author_name": "Cassandra Wong",
+      "author_url": "https://www.google.com/maps/contrib/108991072076324925381/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbFYMZOP2tA2O6ONU1C6YQnYjL-d02-Cg6jPFORybu9DCR4l7x=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "It’s located on level 2 within a Fairprice Xtra, not level 1 as their address suggests. There is NO pharmacy.",
+      "time": 1667818572,
+      "translated": false
+    },
+    {
+      "author_name": "Rohit Rastogi",
+      "author_url": "https://www.google.com/maps/contrib/112695538978597286626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVditoyCWAN2_ZLyPdJzYvaeXH53EzNbhJxaARpsp8W1okAfRxe=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Wrong address . It is inside fairprice  xtra. Nit even a pharmacy.\nUn helpful staff",
+      "time": 1680083333,
+      "translated": false
+    },
+    {
+      "author_name": "Joel Tay",
+      "author_url": "https://www.google.com/maps/contrib/103776360283315187675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMVNqpNegnXF6-x-yh1h_tieWOb04MZayfWfb8Ys-tq8q_hA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732460388,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18060804840762644832",
+  "user_ratings_total": 4,
+  "vicinity": "8 Changi Business Park Avenue 1, #01-51"
+}

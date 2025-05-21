@@ -1,0 +1,44 @@
+{
+  "formatted_address": "202 Pandan Gardens, Singapore 609338",
+  "geometry": {
+    "location": {
+      "lat": 1.3217532,
+      "lng": 103.7460971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322991830291502,
+        "lng": 103.7475776802915
+      },
+      "southwest": {
+        "lat": 1.320293869708498,
+        "lng": 103.7448797197085
+      }
+    }
+  },
+  "name": "Galilee Kindergarten",
+  "place_id": "ChIJA3faCaQa2jERNXKpDr6EEmY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pankaj Sharma",
+      "author_url": "https://www.google.com/maps/contrib/101439299730286289235/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVenCFRq0FT-n3gjpPckAc0HGvYNIag77YOM4rL41A1K_6PtloDCA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "A good school is all about good teachers. And i would say this school have some really good teachers.",
+      "time": 1605431166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7355087093274079797",
+  "user_ratings_total": 1,
+  "vicinity": "202 Pandan Gardens"
+}

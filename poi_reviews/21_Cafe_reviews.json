@@ -1,0 +1,80 @@
+{
+  "formatted_address": "132 Jurong Gateway Rd, Singapore 600132",
+  "geometry": {
+    "location": {
+      "lat": 1.3344549,
+      "lng": 103.7396663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335813130291502,
+        "lng": 103.7411227302915
+      },
+      "southwest": {
+        "lat": 1.333115169708498,
+        "lng": 103.7384247697085
+      }
+    }
+  },
+  "name": "'21 Cafe",
+  "place_id": "ChIJW7KnagAR2jEROrTQvYuxQjw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Cheng Min",
+      "author_url": "https://www.google.com/maps/contrib/108171445141879955752/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmsdYbVGsgaQ83HR8XvPUW-E0BqFvLxLx4oy-X32Z_KRUMYhEB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This is not a bad eatery side by side with another eatery, the eatery has a variety of stalls covering vegetarian, vegetable rice, yuntun noodles, Chinese dumplings and la mian etc.\n\nThe eatery was refurbished a while ago and still in good condition.",
+      "time": 1743652325,
+      "translated": false
+    },
+    {
+      "author_name": "Yi wen Chai",
+      "author_url": "https://www.google.com/maps/contrib/104739381931882251819/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkjEv8GdMDYXIfTfmjbR1ecrlcO5gxM9HiF4vfu16o54CyJAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Service is bad don't come this kopitiam",
+      "time": 1745058591,
+      "translated": false
+    },
+    {
+      "author_name": "Heng Choon Yiak, Davidson",
+      "author_url": "https://www.google.com/maps/contrib/108402916630205121603/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7GzuRPy972ui-Lbsh8IIPV4r8jOIHHFj6hcITw2fQ3jEOEgz7fQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Must try",
+      "time": 1741166712,
+      "translated": false
+    },
+    {
+      "author_name": "Boon kheng Ong",
+      "author_url": "https://www.google.com/maps/contrib/112115089572187789061/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMPtTtWpbIKicuUs9z0y59rndL1owycj23_ck6j3rsFrt5TA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747128390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4342228204481721402",
+  "user_ratings_total": 4,
+  "vicinity": "132 Jurong Gateway Road, Singapore"
+}

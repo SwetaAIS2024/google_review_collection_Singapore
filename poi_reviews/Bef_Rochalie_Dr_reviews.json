@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3026279,
+      "lng": 103.8204239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304007730291502,
+        "lng": 103.8217619302915
+      },
+      "southwest": {
+        "lat": 1.301309769708498,
+        "lng": 103.8190639697085
+      }
+    }
+  },
+  "name": "Bef Rochalie Dr",
+  "place_id": "ChIJ54wVRica2jER_CKMAVE6-mM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Pierre Thieulin",
+      "author_url": "https://www.google.com/maps/contrib/104796190862360206420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ75UXBdrcmzueteRhnHtAw1Y1zjJIYKv7XkJAwiEIX_HSuzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496470055,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7204134673525252860",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

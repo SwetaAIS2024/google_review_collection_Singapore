@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Chestnut Ave, Singapore 679514",
+  "geometry": {
+    "location": {
+      "lat": 1.3778658,
+      "lng": 103.7806478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.38004465,
+        "lng": 103.7825651802915
+      },
+      "southwest": {
+        "lat": 1.37135045,
+        "lng": 103.7798672197085
+      }
+    }
+  },
+  "name": "Piper Hut",
+  "place_id": "ChIJrUh0CQAR2jER7ZM8txxXwLE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tani Masa",
+      "author_url": "https://www.google.com/maps/contrib/111850255549062063577/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWZ2H2E70rOb4nGjZ-GEMdicQS3oCyNcXprqDbBuE2wqriJAcWEg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Shelter on the Chestnut Hiking Trail.",
+      "time": 1732651534,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12808333121086591981",
+  "user_ratings_total": 1,
+  "vicinity": "Chestnut Avenue, Singapore"
+}

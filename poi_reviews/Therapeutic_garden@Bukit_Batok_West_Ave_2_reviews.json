@@ -1,0 +1,54 @@
+{
+  "formatted_address": "419 Bukit Batok West Ave 2, Block 419, Singapore 650419",
+  "geometry": {
+    "location": {
+      "lat": 1.3620741,
+      "lng": 103.7463401
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363156680291502,
+        "lng": 103.7476420302915
+      },
+      "southwest": {
+        "lat": 1.360458719708498,
+        "lng": 103.7449440697085
+      }
+    }
+  },
+  "name": "Therapeutic garden@Bukit Batok West Ave 2",
+  "place_id": "ChIJQffLG6gR2jERnSPpw2jcMHw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Diya Ela",
+      "author_url": "https://www.google.com/maps/contrib/104312710771244325417/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_tIvvkJJkcZYvd1jtZSEzEtZ-uT69xeyo5_BIdrDwup1DAM-Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "\"It is safe for me to be surrounded by green things\"...This what I thought when I saw this place for first time ..",
+      "time": 1575385174,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Kumar",
+      "author_url": "https://www.google.com/maps/contrib/115108383877945941919/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7G4tLi7du0NKxST6eAucommE0FNM04Q3YLsvEwOkcMFz2YQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744797701,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8948894802106721181",
+  "user_ratings_total": 2,
+  "vicinity": "419 Bukit Batok West Avenue 2, Block 419, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "59 Serangoon North Ave 4, Singapore 555852",
+  "geometry": {
+    "location": {
+      "lat": 1.377684,
+      "lng": 103.8757919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379273180291502,
+        "lng": 103.8769762302915
+      },
+      "southwest": {
+        "lat": 1.376575219708498,
+        "lng": 103.8742782697085
+      }
+    }
+  },
+  "name": "Precise Tooling System",
+  "place_id": "ChIJKbITdFwW2jERuuhemepoZXo",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8819570802079754426",
+  "vicinity": "59 Serangoon North Avenue 4, Singapore"
+}

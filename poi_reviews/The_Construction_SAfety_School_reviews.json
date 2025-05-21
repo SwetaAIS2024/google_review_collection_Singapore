@@ -1,0 +1,44 @@
+{
+  "formatted_address": "164 Gul Cir, Singapore 629621",
+  "geometry": {
+    "location": {
+      "lat": 1.3201345,
+      "lng": 103.6781392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321486330291502,
+        "lng": 103.6795334802915
+      },
+      "southwest": {
+        "lat": 1.318788369708498,
+        "lng": 103.6768355197085
+      }
+    }
+  },
+  "name": "The Construction SAfety School",
+  "place_id": "ChIJ7eicRZYF2jEReREDzHfTm0M",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Karthik Karthik",
+      "author_url": "https://www.google.com/maps/contrib/108565416378956342327/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVlCg4aCRh5ahmFFv1Ifw1AeK-lnk9U0gct8LcJ89zYSzr_w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "No canteen available except vending machine",
+      "time": 1693632102,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4871719933408645497",
+  "user_ratings_total": 1,
+  "vicinity": "164 Gul Circle, Singapore"
+}

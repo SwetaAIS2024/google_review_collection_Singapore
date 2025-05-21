@@ -1,0 +1,43 @@
+{
+  "formatted_address": "9 Woodlands Rd, Singapore 738656",
+  "geometry": {
+    "location": {
+      "lat": 1.4195456,
+      "lng": 103.7567848
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420774130291502,
+        "lng": 103.7578900802915
+      },
+      "southwest": {
+        "lat": 1.418076169708498,
+        "lng": 103.7551921197085
+      }
+    }
+  },
+  "name": "President Yusof Bin Ishak Grave",
+  "place_id": "ChIJrb14bwAT2jERkhq4ZXj-vEw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amir Lim",
+      "author_url": "https://www.google.com/maps/contrib/114134895421921853757/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUatrH16i9gwF15szEbdJryFNfUMsECSENxfKx9Ev0Yk14iTHvW=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Al-Fatihah",
+      "time": 1729784116,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5529574235560221330",
+  "user_ratings_total": 1,
+  "vicinity": "9 Woodlands Road, Singapore"
+}

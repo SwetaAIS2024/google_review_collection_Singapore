@@ -1,0 +1,30 @@
+{
+  "formatted_address": "49 Tannery Ln, Singapore 347796",
+  "geometry": {
+    "location": {
+      "lat": 1.3275571,
+      "lng": 103.8779031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328822630291502,
+        "lng": 103.8791908802915
+      },
+      "southwest": {
+        "lat": 1.326124669708498,
+        "lng": 103.8764929197085
+      }
+    }
+  },
+  "name": "Certified Laboratories",
+  "place_id": "ChIJtT4ivocX2jERwDhDSyFgqs4",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14891820813966850240",
+  "vicinity": "49 Tannery Lane"
+}

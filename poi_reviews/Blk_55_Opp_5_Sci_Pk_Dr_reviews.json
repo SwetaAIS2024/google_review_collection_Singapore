@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2941861,
+      "lng": 103.7866829
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295471380291502,
+        "lng": 103.7880014302915
+      },
+      "southwest": {
+        "lat": 1.292773419708498,
+        "lng": 103.7853034697085
+      }
+    }
+  },
+  "name": "Blk 55/Opp 5 Sci Pk Dr",
+  "place_id": "ChIJATE6AFIa2jER-M7VvvYjn9c",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "pyre gw",
+      "author_url": "https://www.google.com/maps/contrib/113620688096394969539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWesD7xEmUs64HTHe5FghsPi4sibnpQV7cPn52EkbRTaK1SAKbG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "Not disabled friendly. Please avoid stopping or using this bus stop if you have mobility concerns.",
+      "time": 1555987670,
+      "translated": false
+    },
+    {
+      "author_name": "sameer kamra",
+      "author_url": "https://www.google.com/maps/contrib/103757451921458131427/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDsFf72WExWiuR5tZGMXsoUGj7lJg10GqBe02g5Qu2yX_t7BST=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745394955,
+      "translated": false
+    },
+    {
+      "author_name": "Satanjaya Singh Pundeer",
+      "author_url": "https://www.google.com/maps/contrib/102351505380672153405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtHQEtbkbh6_qdZYZVPUKlN3IFOcaMMp4eB_D0qCAEUl9tAB1cgQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1473380435,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15537176782122110712",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

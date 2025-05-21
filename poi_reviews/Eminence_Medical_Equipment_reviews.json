@@ -1,0 +1,29 @@
+{
+  "formatted_address": "115A Commonwealth Dr, Singapore 149596",
+  "geometry": {
+    "location": {
+      "lat": 1.3048868,
+      "lng": 103.7980353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306215030291502,
+        "lng": 103.7994955802915
+      },
+      "southwest": {
+        "lat": 1.303517069708498,
+        "lng": 103.7967976197085
+      }
+    }
+  },
+  "name": "Eminence Medical Equipment",
+  "place_id": "ChIJwbWam0Aa2jERwhyfBS4nSwI",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=165268889945447618",
+  "vicinity": "115A Commonwealth Drive, Singapore"
+}

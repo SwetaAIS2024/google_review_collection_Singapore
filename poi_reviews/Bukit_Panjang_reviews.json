@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bukit Panjang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3774142,
+      "lng": 103.7719498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.39058805443011,
+        "lng": 103.7915989043017
+      },
+      "southwest": {
+        "lat": 1.340539960956965,
+        "lng": 103.7551561489218
+      }
+    }
+  },
+  "name": "Bukit Panjang",
+  "place_id": "ChIJAU1K8HcR2jERkKPQtoH0njo",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Bukit+Panjang,+Singapore&ftid=0x31da1177f04a4d01:0x3a9ef481b6d0a390",
+  "vicinity": "Singapore"
+}

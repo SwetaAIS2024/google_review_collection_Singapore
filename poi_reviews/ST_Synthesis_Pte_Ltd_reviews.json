@@ -1,0 +1,29 @@
+{
+  "formatted_address": "15 Pioneer Walk, Singapore 627753",
+  "geometry": {
+    "location": {
+      "lat": 1.3210103,
+      "lng": 103.6951767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322360580291502,
+        "lng": 103.6964832302915
+      },
+      "southwest": {
+        "lat": 1.319662619708498,
+        "lng": 103.6937852697085
+      }
+    }
+  },
+  "name": "ST Synthesis Pte Ltd",
+  "place_id": "ChIJVfS9xGQF2jERRG8DedjQCZs",
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11171689978831007556",
+  "vicinity": "15 Pioneer Walk"
+}

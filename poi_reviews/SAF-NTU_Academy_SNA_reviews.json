@@ -1,0 +1,44 @@
+{
+  "formatted_address": "50 Nanyang Ave, Singapore 639798",
+  "geometry": {
+    "location": {
+      "lat": 1.3437053,
+      "lng": 103.6823711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345118680291502,
+        "lng": 103.6837791302915
+      },
+      "southwest": {
+        "lat": 1.342420719708498,
+        "lng": 103.6810811697085
+      }
+    }
+  },
+  "name": "SAF-NTU Academy (SNA)",
+  "place_id": "ChIJq0TbeHUP2jERrc2HYq7zywE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yusuf Odin",
+      "author_url": "https://www.google.com/maps/contrib/116189225417757141747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK821lKy4i8AvU_xhPTehKWWT7NacchRmqVo9_neb2mQUc16ZD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "I come here to learn Thai language. Sawatdii khrap",
+      "time": 1517751746,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=129464944613117357",
+  "user_ratings_total": 1,
+  "vicinity": "50 Nanyang Avenue"
+}

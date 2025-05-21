@@ -1,0 +1,43 @@
+{
+  "formatted_address": "469 Bukit Batok West Ave 9, #01-19 West Hawker Centre, Singapore 650469",
+  "geometry": {
+    "location": {
+      "lat": 1.3552853,
+      "lng": 103.7418134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356499580291502,
+        "lng": 103.7432988802915
+      },
+      "southwest": {
+        "lat": 1.353801619708498,
+        "lng": 103.7406009197085
+      }
+    }
+  },
+  "name": "Al Yusra",
+  "place_id": "ChIJt0FbJgAR2jERdmqj3B1o8J0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "-Imran-",
+      "author_url": "https://www.google.com/maps/contrib/114928305053305082749/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXHoEJMLV6BTHPVQR4Dqpafi8HgXxLfWofE7qT26w_NaU5GSeQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747736168,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11380710735830280822",
+  "user_ratings_total": 1,
+  "vicinity": "469 Bukit Batok West Avenue 9, #01-19 West Hawker Centre"
+}

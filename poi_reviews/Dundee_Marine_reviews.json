@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30492,
+      "lng": 103.655479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306243980291502,
+        "lng": 103.6568534302915
+      },
+      "southwest": {
+        "lat": 1.303546019708498,
+        "lng": 103.6541554697085
+      }
+    }
+  },
+  "name": "Dundee Marine",
+  "place_id": "ChIJEbK0O8EF2jERuUIHURqfRzc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Simon Dewa",
+      "author_url": "https://www.google.com/maps/contrib/117529633816440555313/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLPAvwws_D4fhMe1uC7DhFukNjQ6pHh2dKTPxcnyPUYvixN0Vr=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Last bus at 23:30 with none in 😀",
+      "time": 1477668898,
+      "translated": false
+    },
+    {
+      "author_name": "fung lee",
+      "author_url": "https://www.google.com/maps/contrib/111149449541800192185/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvhILKMzIBYgk5SKNrrwmHTkQrxiSVkeewHVCq_Mi5sa3-rQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695732362,
+      "translated": false
+    },
+    {
+      "author_name": "ilham akbar",
+      "author_url": "https://www.google.com/maps/contrib/116317737345519528207/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlLZY1_xvXRrJ7KLykg9CGpBizeGls_0ZKOjeAlIAiM5LFNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "13 years ago",
+      "text": "",
+      "time": 1331539760,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3983327330809889465",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

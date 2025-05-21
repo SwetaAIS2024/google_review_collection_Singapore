@@ -1,0 +1,43 @@
+{
+  "formatted_address": "111 Somerset Rd, #02-12/13, Singapore 238164",
+  "geometry": {
+    "location": {
+      "lat": 1.3001524,
+      "lng": 103.8377217
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301728130291502,
+        "lng": 103.8390865302915
+      },
+      "southwest": {
+        "lat": 1.299030169708498,
+        "lng": 103.8363885697085
+      }
+    }
+  },
+  "name": "The Think Cloud",
+  "place_id": "ChIJGQzo45oZ2jERzfz3S4ZwIZc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "SF Wong",
+      "author_url": "https://www.google.com/maps/contrib/100523367751730008854/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVSMZtElLnIDvTRCi_WRenw4MM11d6H97yT3O6y5fA6HoDQxOz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715237939,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10890109096061041869",
+  "user_ratings_total": 1,
+  "vicinity": "111 Somerset Road, #02-12/13"
+}

@@ -1,0 +1,68 @@
+{
+  "formatted_address": "710 Clementi West Street 2, Singapore 120710",
+  "geometry": {
+    "location": {
+      "lat": 1.3058243,
+      "lng": 103.7613982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307214180291502,
+        "lng": 103.7627070802915
+      },
+      "southwest": {
+        "lat": 1.304516219708498,
+        "lng": 103.7600091197085
+      }
+    }
+  },
+  "name": "Muslim Food",
+  "place_id": "ChIJEyEIlO0a2jERtUwNd20W__U",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "JY",
+      "author_url": "https://www.google.com/maps/contrib/101081321896458762944/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIYZRPjNM2cS-FSiAiqJCAbHTGiDouOV88f9lRPOyRjZKJIQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Decent Authentic Malay Food. Highly recommend dish is their Sotong Masak Hitam.",
+      "time": 1649462522,
+      "translated": false
+    },
+    {
+      "author_name": "Karthik Mp",
+      "author_url": "https://www.google.com/maps/contrib/106887515366839334296/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_Jby1DD_3hzDRTEiQS73j_xW8gHUyFQObKL3le_fBnFg0oXtzcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Very Good servive",
+      "time": 1729508150,
+      "translated": false
+    },
+    {
+      "author_name": "khairil ridzwan",
+      "author_url": "https://www.google.com/maps/contrib/105476284318047293169/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZYhB6WGSGqCN8_NX1ePJbV-nn_Mfql3XFDoeTm6KR1DRx-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1634782855,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17725911317758168245",
+  "user_ratings_total": 3,
+  "vicinity": "710 Clementi West Street 2"
+}

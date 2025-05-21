@@ -1,0 +1,46 @@
+{
+  "formatted_address": "29 Bendemeer Rd, Singapore 330029",
+  "geometry": {
+    "location": {
+      "lat": 1.3193372,
+      "lng": 103.8630277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320535330291502,
+        "lng": 103.8645034302915
+      },
+      "southwest": {
+        "lat": 1.317837369708498,
+        "lng": 103.8618054697085
+      }
+    }
+  },
+  "name": "77 Sheng Mian",
+  "place_id": "ChIJFaa84YkZ2jER-ZaYOHTM0DA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PHI",
+      "author_url": "https://www.google.com/maps/contrib/115784979685480165833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7nauDfPVJEYzwxsy-wce3lS0bhO-k50W4Ph17kGHXcZrkYtnmbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I always order slice fish mee sua from this store. I'm in love with the light yet flavorful soup!",
+      "time": 1632100046,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3517536108514154233",
+  "user_ratings_total": 1,
+  "vicinity": "29 Bendemeer Road, Singapore"
+}

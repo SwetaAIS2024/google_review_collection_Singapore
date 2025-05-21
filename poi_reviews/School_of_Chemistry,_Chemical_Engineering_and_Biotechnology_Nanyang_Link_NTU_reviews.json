@@ -1,0 +1,42 @@
+{
+  "formatted_address": "21 Nanyang Link, Nanyang Technological University, Singapore 637371",
+  "geometry": {
+    "location": {
+      "lat": 1.3421126,
+      "lng": 103.6812307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343376830291502,
+        "lng": 103.6825021802915
+      },
+      "southwest": {
+        "lat": 1.340678869708498,
+        "lng": 103.6798042197085
+      }
+    }
+  },
+  "name": "School of Chemistry, Chemical Engineering and Biotechnology (Nanyang Link) (NTU)",
+  "place_id": "ChIJORzXebMP2jERkzbTAdpBvoI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alex",
+      "author_url": "https://www.google.com/maps/contrib/100232483631276656913/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ-YIqt8yIgS_v3VdYjyr8nRaWs2zZ3WFuGSUCZqNtvSx9fQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741844747,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9421039875094951571",
+  "user_ratings_total": 1,
+  "vicinity": "21 Nanyang Link, Nanyang Technological University"
+}

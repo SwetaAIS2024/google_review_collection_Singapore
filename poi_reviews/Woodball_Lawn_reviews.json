@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Clementi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297636,
+      "lng": 103.7675703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298777180291502,
+        "lng": 103.7688617302915
+      },
+      "southwest": {
+        "lat": 1.296079219708498,
+        "lng": 103.7661637697085
+      }
+    }
+  },
+  "name": "Woodball Lawn",
+  "place_id": "ChIJmZVpegAb2jERMey9qRrIM9M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Woodball is a sport where a mallet is used to hit a wood ball through a gate.\nDuring weekend mornings many seniors can be seen having woodball game at Clementi Woods Park.",
+      "time": 1712357762,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15218727582657539121",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

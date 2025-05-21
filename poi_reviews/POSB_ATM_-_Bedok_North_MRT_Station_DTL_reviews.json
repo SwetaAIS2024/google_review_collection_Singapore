@@ -1,0 +1,29 @@
+{
+  "formatted_address": "651 Bedok North Rd, North MRT Station (DTL, Singapore 479481",
+  "geometry": {
+    "location": {
+      "lat": 1.335224,
+      "lng": 103.9180383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336644430291502,
+        "lng": 103.9194737802915
+      },
+      "southwest": {
+        "lat": 1.333946469708498,
+        "lng": 103.9167758197085
+      }
+    }
+  },
+  "name": "POSB ATM - Bedok North MRT Station (DTL)",
+  "place_id": "ChIJL-abVJY92jERja1Lb-B7QUU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4990406065973341581",
+  "vicinity": "651 Bedok North Road, North MRT Station (DTL"
+}

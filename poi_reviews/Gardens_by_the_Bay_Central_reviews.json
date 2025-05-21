@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Republic Blvd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2946728,
+      "lng": 103.8640712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296122530291502,
+        "lng": 103.8651387
+      },
+      "southwest": {
+        "lat": 1.293424569708498,
+        "lng": 103.8616835
+      }
+    }
+  },
+  "name": "Gardens by the Bay Central",
+  "place_id": "ChIJ3ykvYkgZ2jERxcOvomKG2RM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Rathan TR",
+      "author_url": "https://www.google.com/maps/contrib/109855368475752151883/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQuBoUy6sV2RVpoRrHN0JlAirVmR3DluDa_39SglroVm1RL0Jprg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice view, garden to relax n jog, variety of food. Scenic place for people who love to click photos",
+      "time": 1697941970,
+      "translated": false
+    },
+    {
+      "author_name": "TURKI K",
+      "author_url": "https://www.google.com/maps/contrib/108867050568417927033/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMvsdHDTWsPIOfwBw3w5fVpGC8rHWkg3KujSU95ppLYMEZUA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "From it you can see Singapore from the top and its most important landmarks",
+      "time": 1723148585,
+      "translated": true
+    },
+    {
+      "author_name": "Bashir jacobs",
+      "author_url": "https://www.google.com/maps/contrib/113484235076484376700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOwfQbTlZYPgDHi88tYG3mEIP9dLGpQugfI31BQ-OVJue7lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745148227,
+      "translated": false
+    },
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733098168,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1430322114861188037",
+  "user_ratings_total": 4,
+  "vicinity": "Republic Boulevard"
+}

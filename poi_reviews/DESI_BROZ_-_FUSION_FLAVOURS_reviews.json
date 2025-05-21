@@ -1,0 +1,46 @@
+{
+  "formatted_address": "11 Irving Pl, #01-08 Tai Seng Point, Singapore 369551",
+  "geometry": {
+    "location": {
+      "lat": 1.3364364,
+      "lng": 103.8872352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337668930291502,
+        "lng": 103.8885997302915
+      },
+      "southwest": {
+        "lat": 1.334970969708498,
+        "lng": 103.8859017697085
+      }
+    }
+  },
+  "name": "DESI BROZ - FUSION FLAVOURS",
+  "place_id": "ChIJ7U1i0PsX2jERsyz4kvD8f5Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hari Haran",
+      "author_url": "https://www.google.com/maps/contrib/113310545414787030846/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhv0GrWpY7023npYxmypkqahV7RVOjFpBix481QwsFafYKygdi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Tried Panner Tikka Frankie, Kadai Veg Pizza and Gulab Jumun. The Frankie and Pizza were tasty and spicy!",
+      "time": 1655634103,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10700549349843676339",
+  "user_ratings_total": 1,
+  "vicinity": "11 Irving Place, #01-08 Tai Seng Point"
+}

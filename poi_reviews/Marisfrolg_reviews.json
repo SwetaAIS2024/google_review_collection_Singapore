@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Bayfront Ave, Singapore 018956",
+  "geometry": {
+    "location": {
+      "lat": 1.2842648,
+      "lng": 103.8587943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285584130291502,
+        "lng": 103.86124395
+      },
+      "southwest": {
+        "lat": 1.282886169708498,
+        "lng": 103.85797775
+      }
+    }
+  },
+  "name": "Marisfrolg",
+  "place_id": "ChIJ_cCkeAYZ2jER2HarBRFCV0c",
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5140650140543710936",
+  "vicinity": "10 Bayfront Avenue, Singapore"
+}

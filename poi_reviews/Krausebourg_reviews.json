@@ -1,0 +1,27 @@
+{
+  "formatted_address": "9 Tampines Industrial Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3763857,
+      "lng": 103.9209769
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377746180291502,
+        "lng": 103.9222936302915
+      },
+      "southwest": {
+        "lat": 1.375048219708498,
+        "lng": 103.9195956697085
+      }
+    }
+  },
+  "name": "Krausebourg",
+  "place_id": "ChIJAa0PyI492jERRgSdUcQxQpo",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11115501549556401222",
+  "vicinity": "9 Tampines Industrial Drive"
+}

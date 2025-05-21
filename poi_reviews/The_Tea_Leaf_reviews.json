@@ -1,0 +1,29 @@
+{
+  "formatted_address": "780 Upper Serangoon Rd, Singapore 534649",
+  "geometry": {
+    "location": {
+      "lat": 1.3545603,
+      "lng": 103.8792847
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355986380291502,
+        "lng": 103.8805692802915
+      },
+      "southwest": {
+        "lat": 1.353288419708498,
+        "lng": 103.8778713197085
+      }
+    }
+  },
+  "name": "The Tea Leaf",
+  "place_id": "ChIJl55H_68X2jER0tZGkaqVQKQ",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11835624380543981266",
+  "vicinity": "780 Upper Serangoon Road"
+}

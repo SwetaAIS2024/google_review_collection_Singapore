@@ -1,0 +1,30 @@
+{
+  "formatted_address": "683 Tessensohn Rd, Singapore 210683",
+  "geometry": {
+    "location": {
+      "lat": 1.3148014,
+      "lng": 103.8559178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316203030291502,
+        "lng": 103.8572191802915
+      },
+      "southwest": {
+        "lat": 1.313505069708498,
+        "lng": 103.8545212197085
+      }
+    }
+  },
+  "name": "Mckels Pharm",
+  "place_id": "ChIJDZQsgsUZ2jERsiEURmA1Ceg",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16719953779198534066",
+  "vicinity": "683 Tessensohn Road"
+}

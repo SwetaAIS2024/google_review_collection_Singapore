@@ -1,0 +1,91 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2803463,
+      "lng": 103.8235662
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281655980291502,
+        "lng": 103.8249508802915
+      },
+      "southwest": {
+        "lat": 1.278958019708498,
+        "lng": 103.8222529197085
+      }
+    }
+  },
+  "name": "Cendex Ctr",
+  "place_id": "ChIJfX99MH0Z2jERUN5CJbVRZOM",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Sudaraka Jayathilaka",
+      "author_url": "https://www.google.com/maps/contrib/116202887264144010331/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULScw5KVoCK98I2pERo8HoP4vdgdZh55GkpqULRRysVeWOUFh1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "You can find a wide range of food stalls here",
+      "time": 1551756822,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamed Rafi",
+      "author_url": "https://www.google.com/maps/contrib/104613662299510735587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3gpDSBh_PF_BD_R5VMNOYvsXauvw0gk54_CK9xsaZshn5iQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Very Very inaccurate bus timings",
+      "time": 1658328626,
+      "translated": false
+    },
+    {
+      "author_name": "Nigel Low",
+      "author_url": "https://www.google.com/maps/contrib/100171108036242767311/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMzxMOja5Uq7J8mPQOKDiPT9XfQXfFkOqmlRcLm0GbISNUd5NGtw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good selection of food.",
+      "time": 1564714514,
+      "translated": false
+    },
+    {
+      "author_name": "Hao Michael",
+      "author_url": "https://www.google.com/maps/contrib/115127733653791443667/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4Hv_CwS9xDerZcYonJBnneHJ48IVg-uYCAibmdPNJJBX28A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Ok",
+      "time": 1636882351,
+      "translated": false
+    },
+    {
+      "author_name": "Yoon Fatt Chak",
+      "author_url": "https://www.google.com/maps/contrib/107227348028732523943/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXHfkLprmmlCBtiz1OHB5Z36R_BRyEcWmrAO4J7Jd88JUydQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726737691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16385311182736776784",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

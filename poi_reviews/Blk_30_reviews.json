@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2988649,
+      "lng": 103.8042373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300197780291502,
+        "lng": 103.8055761302915
+      },
+      "southwest": {
+        "lat": 1.297499819708498,
+        "lng": 103.8028781697085
+      }
+    }
+  },
+  "name": "Blk 30",
+  "place_id": "ChIJm_cipjAa2jERAPS0R4qC-xo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1944291194560640000",
+  "vicinity": "Singapore"
+}

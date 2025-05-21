@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Pulau Ubin, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4025855,
+      "lng": 103.9715721
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403928030291502,
+        "lng": 103.9727926302915
+      },
+      "southwest": {
+        "lat": 1.401230069708498,
+        "lng": 103.9700946697085
+      }
+    }
+  },
+  "name": "Pulau Ubin Neighbourhood Police Post (NPP)",
+  "place_id": "ChIJKWOB9Eo_2jERbF70wOX5Jp0",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11324013078249758316",
+  "vicinity": "Pulau Ubin"
+}

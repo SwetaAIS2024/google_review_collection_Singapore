@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301663,
+      "lng": 103.901184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303008430291502,
+        "lng": 103.9025260302915
+      },
+      "southwest": {
+        "lat": 1.300310469708498,
+        "lng": 103.8998280697085
+      }
+    }
+  },
+  "name": "Opp Amber Gdns",
+  "place_id": "ChIJQ3_VQW4Y2jER5usZ2cCoxTk",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Rainie Green",
+      "author_url": "https://www.google.com/maps/contrib/106666114218032786518/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjEu5cBoV9rfbsE-3txhdKAAApMhpc7gRVd1_2-ez0ENNKQDSt=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Gps was weak so it was hard to take ride hailing from here",
+      "time": 1651224790,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688043322,
+      "translated": false
+    },
+    {
+      "author_name": "Piyush K (PKUMAR383)",
+      "author_url": "https://www.google.com/maps/contrib/116129438839845015042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrK6L2xGf8pYftGB9Xt-Ncew4mnxlVts6f46pyBoJU8GagOKBTMw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679125073,
+      "translated": false
+    },
+    {
+      "author_name": "iguigu36",
+      "author_url": "https://www.google.com/maps/contrib/115163269709184650685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGAXL131WhDOc6-AdUKlL-YX94dBYwvasxn0kbh9TXrqtJTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1528033264,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4162918976803433446",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

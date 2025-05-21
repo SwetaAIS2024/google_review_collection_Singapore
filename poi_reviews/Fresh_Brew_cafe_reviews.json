@@ -1,0 +1,30 @@
+{
+  "formatted_address": "512 Thomson Rd, Singapore 298179",
+  "geometry": {
+    "location": {
+      "lat": 1.333791,
+      "lng": 103.8398022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335266280291502,
+        "lng": 103.8410248302915
+      },
+      "southwest": {
+        "lat": 1.332568319708498,
+        "lng": 103.8383268697085
+      }
+    }
+  },
+  "name": "Fresh Brew cafe",
+  "place_id": "ChIJG61Wa2AX2jER76UoaH5txtY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15476177559186089455",
+  "vicinity": "512 Thomson Road, Singapore"
+}

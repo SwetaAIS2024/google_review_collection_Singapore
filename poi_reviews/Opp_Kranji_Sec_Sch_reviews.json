@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.391328,
+      "lng": 103.740067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.392663280291502,
+        "lng": 103.7414765802915
+      },
+      "southwest": {
+        "lat": 1.389965319708498,
+        "lng": 103.7387786197085
+      }
+    }
+  },
+  "name": "Opp Kranji Sec Sch",
+  "place_id": "ChIJZ2W0ZuUR2jER-u3I8xStpB8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2280137616857296378",
+  "vicinity": "Singapore"
+}

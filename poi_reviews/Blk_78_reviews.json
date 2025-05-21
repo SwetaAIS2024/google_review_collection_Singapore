@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2886131,
+      "lng": 103.8189314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289997280291502,
+        "lng": 103.8202664802915
+      },
+      "southwest": {
+        "lat": 1.287299319708497,
+        "lng": 103.8175685197085
+      }
+    }
+  },
+  "name": "Blk 78",
+  "place_id": "ChIJvV5qJtUb2jERRpY5wctMjR0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Garell Chang",
+      "author_url": "https://www.google.com/maps/contrib/102095809886413424010/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0r7t4CiPsqEEcdzDoUbytU2hepYsqdZrm0ZWkkhxXIKsfEBs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477431811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2129442636819961414",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3182421,
+      "lng": 103.6394472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319565280291502,
+        "lng": 103.6407725802915
+      },
+      "southwest": {
+        "lat": 1.316867319708498,
+        "lng": 103.6380746197085
+      }
+    }
+  },
+  "name": "B S Development",
+  "place_id": "ChIJd7oJK-MF2jER_9U48bTM0zM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3734553593533486591",
+  "vicinity": "Singapore"
+}

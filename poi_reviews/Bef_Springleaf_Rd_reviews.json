@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3972954,
+      "lng": 103.8181907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398638830291502,
+        "lng": 103.8195256302915
+      },
+      "southwest": {
+        "lat": 1.395940869708498,
+        "lng": 103.8168276697085
+      }
+    }
+  },
+  "name": "Bef Springleaf Rd",
+  "place_id": "ChIJNXyXnFMR2jERIb2TLPgy_hU",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Colin Chin",
+      "author_url": "https://www.google.com/maps/contrib/106447379008910085271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbel7HA4VJ6_doQBY88I9fkm-_Ti8aIeG5XvljYDgr0tA3R3wP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Should rename this bus stop to \"Bef Springleaf Station Exit 3\"",
+      "time": 1662090309,
+      "translated": false
+    },
+    {
+      "author_name": "Aiman Faiz",
+      "author_url": "https://www.google.com/maps/contrib/105358945556548537862/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdQTcIqyjTCKWr9Wuqo0qVOZwSv1ENfkQ9IVf5HDuZs9ly7Dk9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560502308,
+      "translated": false
+    },
+    {
+      "author_name": "Qianqian Zhang",
+      "author_url": "https://www.google.com/maps/contrib/108401578084523019949/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK16C-KFmqVWbC9tVu6lbY5YojS66Bwcq6v1NJtBk3m1etRkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517650527,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1584760160362151201",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

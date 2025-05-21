@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2748665,
+      "lng": 103.8432251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276240230291502,
+        "lng": 103.8445430302915
+      },
+      "southwest": {
+        "lat": 1.273542269708498,
+        "lng": 103.8418450697085
+      }
+    }
+  },
+  "name": "The Amara",
+  "place_id": "ChIJRaDTYGsZ2jERIrNcuRpBhI4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Louise Komala",
+      "author_url": "https://www.google.com/maps/contrib/102772686069250776278/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWceXtLwqN56AwDoYWqKVSt9WMueBpetxkHI8h2r1IMwsdz97OJ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "The hotel is cool, a 5 star hotel with quite spacious rooms, close to the Tanjong Pagar MRT station, with quite a lot of dining options around. Location in the middle of Singapore.",
+      "time": 1536462226,
+      "translated": true
+    },
+    {
+      "author_name": "Steve Park",
+      "author_url": "https://www.google.com/maps/contrib/116710387774603027295/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzkAKDA5KjDS4n4CQ1xbGQEpk_DFkxPn6MY1XblSFMuXiUM2y6oQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1576581029,
+      "translated": false
+    },
+    {
+      "author_name": "the dec",
+      "author_url": "https://www.google.com/maps/contrib/113266316115041415101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq92dQcoAwGOfQA0cvZTLNeyxNKCcGRAMLSKQvOhUq008DpT8=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545866928,
+      "translated": false
+    },
+    {
+      "author_name": "R.Y. P",
+      "author_url": "https://www.google.com/maps/contrib/104365517916200256701/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKULSxoXE1wddkt64ZHRp-WJy43OfS_5Ji1xZ55mAYkocRTJ1Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502807152,
+      "translated": false
+    },
+    {
+      "author_name": "Ramasamy Muthuramalingam",
+      "author_url": "https://www.google.com/maps/contrib/106358869094817369823/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH_6dY8irVcluoqkzKYCOzQdHn8eoflXH5Mq-UJWKVjh5diA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496271846,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10269404633346388770",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

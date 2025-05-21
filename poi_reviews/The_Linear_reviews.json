@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3762085,
+      "lng": 103.7625592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377555330291502,
+        "lng": 103.7638908302915
+      },
+      "southwest": {
+        "lat": 1.374857369708498,
+        "lng": 103.7611928697085
+      }
+    }
+  },
+  "name": "The Linear",
+  "place_id": "ChIJn8oeIbsR2jERZuKPpWNJnb8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Asia RB",
+      "author_url": "https://www.google.com/maps/contrib/110129000851878643270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-xrEcQZ0yDVyh_rQJDus3l7Z317bJeFezyJBAxCj7vzTxkK3lDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "12 years ago",
+      "text": "The roof is shape like a ship, hence the Linear. For a condominium, pool, gym, steam bath are  small-sized and the current construction going outside the building is a negative for people wanting to live here. It serves my purpose for now.",
+      "time": 1350156928,
+      "translated": false
+    },
+    {
+      "author_name": "Leonard Low",
+      "author_url": "https://www.google.com/maps/contrib/117433667057869298569/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmg_vMKL2ZEXPCtzwHJ9DUYHK0CXf-07mDEEE-I4nhfeAQ3Y0Spw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686650033,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13807272724916068966",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,47 @@
+{
+  "formatted_address": "37 Chai Chee Ave, Block 37, Singapore 461037",
+  "geometry": {
+    "location": {
+      "lat": 1.3253711,
+      "lng": 103.9262961
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326835680291502,
+        "lng": 103.9276049802915
+      },
+      "southwest": {
+        "lat": 1.324137719708498,
+        "lng": 103.9249070197085
+      }
+    }
+  },
+  "name": "Subiksham grocery mart pte ltd",
+  "place_id": "ChIJmYFkUPEj2jERWp_3T0iXTiQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gopinath R",
+      "author_url": "https://www.google.com/maps/contrib/115398881143798356764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1qVfEUQHA3FuP5mQ5-sQ2CoaVNdqJ_WGrqLdJ8HVmdR9bF_U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Great Indian grocery store at Chai Chee. Got good variety of veggies and groceries. Highly recommend this shop for Indian grocery shopping, shop owner was very friendly. The prices are reasonable and lot cheaper compared to another grocery store called A1 Indian grocery in the same locality.",
+      "time": 1723178817,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "convenience_store",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2616194770383904602",
+  "user_ratings_total": 1,
+  "vicinity": "37 Chai Chee Avenue, Block 37, Singapore"
+}

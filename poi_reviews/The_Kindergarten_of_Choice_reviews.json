@@ -1,0 +1,44 @@
+{
+  "formatted_address": "858 Tampines Ave 5, Singapore 520858",
+  "geometry": {
+    "location": {
+      "lat": 1.3544678,
+      "lng": 103.9385759
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355819430291502,
+        "lng": 103.9399246802915
+      },
+      "southwest": {
+        "lat": 1.353121469708498,
+        "lng": 103.9372267197085
+      }
+    }
+  },
+  "name": "The Kindergarten of Choice",
+  "place_id": "ChIJAdcLWw092jERANzfJv5rXVQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shu Fang Neo",
+      "author_url": "https://www.google.com/maps/contrib/112742372981528826983/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJssTqCttpZ8mejGngftOgmAV9qWxzxAfeHx7N01BX2bnDe7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Fun",
+      "time": 1728734961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6079133811338107904",
+  "user_ratings_total": 1,
+  "vicinity": "858 Tampines Avenue 5, Singapore"
+}

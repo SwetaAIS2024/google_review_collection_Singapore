@@ -1,0 +1,65 @@
+{
+  "formatted_address": "101 Upper Cross St, #01-36, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.2858775,
+      "lng": 103.8441637
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287084880291502,
+        "lng": 103.8456077302915
+      },
+      "southwest": {
+        "lat": 1.284386919708498,
+        "lng": 103.8429097697085
+      }
+    }
+  },
+  "name": "Celestial Time Pte Ltd",
+  "place_id": "ChIJex9WJ7kZ2jERX17R6EzHeVY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nick Tan",
+      "author_url": "https://www.google.com/maps/contrib/114852970408412669905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJGKHkuPuTMb1bOeOBO3EgysTqdYSod9yQHiaDEX3IUX98fPB4fA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "They know their stuffs. Great time spent there. Till we deal again!",
+      "time": 1654148744,
+      "translated": false
+    },
+    {
+      "author_name": "Aoyf",
+      "author_url": "https://www.google.com/maps/contrib/110099374191429001627/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvezCR8Q48WY6RN1E8SZgpnxZsON8uTsPDNFUrfmDW2QpJy98=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656352518,
+      "translated": false
+    },
+    {
+      "author_name": "Kele Kele",
+      "author_url": "https://www.google.com/maps/contrib/108853806758246973864/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvth23tm7ltH_5CQFadAncOwgkavUEzBg6l7AFNdUQVeVsOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654149480,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6231230692581269087",
+  "user_ratings_total": 3,
+  "vicinity": "101 Upper Cross Street, #01-36"
+}

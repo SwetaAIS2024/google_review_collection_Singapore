@@ -1,0 +1,53 @@
+{
+  "formatted_address": "50 Bukit Batok Street 23, Singapore 659578",
+  "geometry": {
+    "location": {
+      "lat": 1.3391489,
+      "lng": 103.7578394
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340509380291502,
+        "lng": 103.7592198302915
+      },
+      "southwest": {
+        "lat": 1.337811419708498,
+        "lng": 103.7565218697085
+      }
+    }
+  },
+  "name": "Hask Engineering & Management Pte. Ltd.",
+  "place_id": "ChIJpbuRL2wQ2jERgp607XrSQ0c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ryan Ong",
+      "author_url": "https://www.google.com/maps/contrib/118418313120299953140/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5iwAHsGh3cpboM8SCUS64WPXzXoQI92XcLXbtaJETxLp88Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Began",
+      "time": 1464356655,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Lenin",
+      "author_url": "https://www.google.com/maps/contrib/115408745380777401341/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvAF8TODg78R4yoM5UH0xG2UHKXLfJKfrAgTLuGMvKTobKlNZE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519627218,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5135179425548377730",
+  "user_ratings_total": 2,
+  "vicinity": "50 Bukit Batok Street 23, Singapore"
+}

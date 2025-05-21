@@ -1,0 +1,56 @@
+{
+  "formatted_address": "70 Nanyang Dr, Singapore 637457",
+  "geometry": {
+    "location": {
+      "lat": 1.3453932,
+      "lng": 103.6802048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346742080291502,
+        "lng": 103.6815418802915
+      },
+      "southwest": {
+        "lat": 1.344044119708498,
+        "lng": 103.6788439197085
+      }
+    }
+  },
+  "name": "College of Engineering (COE)",
+  "place_id": "ChIJPaEZJHUP2jERvvv5YvLYQeI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chloe sim",
+      "author_url": "https://www.google.com/maps/contrib/110536143729572219119/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWOmexFmz8MJg9J1vBkWd5HBvkC4VYqKGye62gd2_xVhEIaZI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Nice place , also clean … free can go walk walk see see and look look 👀😊",
+      "time": 1666668444,
+      "translated": false
+    },
+    {
+      "author_name": "HFZ",
+      "author_url": "https://www.google.com/maps/contrib/114425323127364961124/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDsBI6rjfbpR5zkFHXKYBCCyKa4UvDI8kvt541aoK3dCICZOY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Located close to North spine plaza, easy access to car park and eateries",
+      "time": 1599641462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16303550661612141502",
+  "user_ratings_total": 2,
+  "vicinity": "70 Nanyang Drive"
+}

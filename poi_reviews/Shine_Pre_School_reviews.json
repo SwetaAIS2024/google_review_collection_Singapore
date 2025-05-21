@@ -1,0 +1,42 @@
+{
+  "formatted_address": "448 Choa Chu Kang Ave 4, Singapore 680448",
+  "geometry": {
+    "location": {
+      "lat": 1.3804123,
+      "lng": 103.7369445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381759130291502,
+        "lng": 103.7383041302915
+      },
+      "southwest": {
+        "lat": 1.379061169708498,
+        "lng": 103.7356061697085
+      }
+    }
+  },
+  "name": "Shine Pre School",
+  "place_id": "ChIJbYw-RdwR2jERcdlEsayBuyw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Choon Seng",
+      "author_url": "https://www.google.com/maps/contrib/113513255126552827100/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN1VsOH0r0x6lo5wrMErVxK0-Tlyx7KXj66rK1cgFxacONOyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740670905,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3223312537022159217",
+  "user_ratings_total": 1,
+  "vicinity": "448 Choa Chu Kang Avenue 4, Singapore"
+}

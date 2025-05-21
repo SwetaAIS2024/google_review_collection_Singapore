@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2972245,
+      "lng": 103.7726907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298557480291502,
+        "lng": 103.7740666302915
+      },
+      "southwest": {
+        "lat": 1.295859519708498,
+        "lng": 103.7713686697085
+      }
+    }
+  },
+  "name": "Information Technology",
+  "place_id": "ChIJbSDNTvga2jERZ9CkLDZVKL4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ran Mac",
+      "author_url": "https://www.google.com/maps/contrib/103850319659084774961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5x0jN6Cmhpfh_4tG21qyXznY4qolITQ0M8uhioEdrjdUZRNvP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Take Bus 96 if you wish to go clementi MRT , Take bus 95 to go to  Buona Vista Stn and 151 goes to SIM and ngee ann poly direction",
+      "time": 1495615866,
+      "translated": false
+    },
+    {
+      "author_name": "Chio MuSin",
+      "author_url": "https://www.google.com/maps/contrib/110254775914891020531/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCd5KYQOcCzziZZFABkZrVCr7sq8UqItfHSiJStYhWTqfJAw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688540749,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13702295557440327783",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

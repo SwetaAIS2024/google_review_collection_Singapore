@@ -1,0 +1,67 @@
+{
+  "formatted_address": "2 Penjuru Pl, Singapore 608783",
+  "geometry": {
+    "location": {
+      "lat": 1.315822,
+      "lng": 103.735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317192580291502,
+        "lng": 103.7362531302915
+      },
+      "southwest": {
+        "lat": 1.314494619708498,
+        "lng": 103.7335551697085
+      }
+    }
+  },
+  "name": "Alvas Trademart Pte. Ltd.",
+  "place_id": "ChIJTc6VhrEa2jER9FKBMfzZaJs",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ankit {Gujarati village life}",
+      "author_url": "https://www.google.com/maps/contrib/103240024084865445815/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkiBZ2VbqYWnLnvbiB8CCR3g9rlRF59GHNiQ8qO2Y5xhn0QPck=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nice",
+      "time": 1652135832,
+      "translated": false
+    },
+    {
+      "author_name": "Veera Pathiran",
+      "author_url": "https://www.google.com/maps/contrib/115809577938325237100/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJfoVSqvyyZC0FoP_EWm8PIx_8GwjP66ftAZBeuTHQRMgUNnW1=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1650204212,
+      "translated": false
+    },
+    {
+      "author_name": "THIRUVETRI",
+      "author_url": "https://www.google.com/maps/contrib/108835744600950865440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItAZRlBJ8_8HqSEiD19ELTISWgXmfzrCt19dVV10R5RKgeRA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648943273,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11198440150642283252",
+  "user_ratings_total": 3,
+  "vicinity": "2 Penjuru Place"
+}

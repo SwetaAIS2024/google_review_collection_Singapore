@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33248,
+      "lng": 103.72344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333829830291502,
+        "lng": 103.7247941802915
+      },
+      "southwest": {
+        "lat": 1.331131869708498,
+        "lng": 103.7220962197085
+      }
+    }
+  },
+  "name": "LakeLife, Corporation Dr",
+  "place_id": "ChIJM1IbBvwP2jERRQ89mIZaIMU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14204452758852800325",
+  "vicinity": "Singapore"
+}

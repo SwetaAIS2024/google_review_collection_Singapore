@@ -1,0 +1,42 @@
+{
+  "formatted_address": "60 New Upper Changi Rd, Singapore 461060",
+  "geometry": {
+    "location": {
+      "lat": 1.322635,
+      "lng": 103.941649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323793380291502,
+        "lng": 103.9430360302915
+      },
+      "southwest": {
+        "lat": 1.321095419708498,
+        "lng": 103.9403380697085
+      }
+    }
+  },
+  "name": "Block 60 Community Garden",
+  "place_id": "ChIJdXrZvssi2jERhwBrkukzzX4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Hong Choong",
+      "author_url": "https://www.google.com/maps/contrib/114493556657732451582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIc5daBJZyGYGjxKr3Y4ji_cAYXej722U-waxVSweFfPBUCmg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631539011,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9137016297281486983",
+  "user_ratings_total": 1,
+  "vicinity": "60 New Upper Changi Road"
+}

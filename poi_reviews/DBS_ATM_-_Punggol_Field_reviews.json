@@ -1,0 +1,29 @@
+{
+  "formatted_address": "198 Punggol Fld, Singapore 820198",
+  "geometry": {
+    "location": {
+      "lat": 1.399461,
+      "lng": 103.9063383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400713730291502,
+        "lng": 103.9076139302915
+      },
+      "southwest": {
+        "lat": 1.398015769708498,
+        "lng": 103.9049159697085
+      }
+    }
+  },
+  "name": "DBS ATM - Punggol Field",
+  "place_id": "ChIJVSg-CbMX2jERSXB5ysq1p8o",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14602840199357100105",
+  "vicinity": "198 Punggol Field, Singapore"
+}

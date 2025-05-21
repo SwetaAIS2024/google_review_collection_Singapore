@@ -1,0 +1,56 @@
+{
+  "formatted_address": "195 Pearl's Hill Terrace, Singapore 168976",
+  "geometry": {
+    "location": {
+      "lat": 1.2842027,
+      "lng": 103.841643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285555580291502,
+        "lng": 103.8430377802915
+      },
+      "southwest": {
+        "lat": 1.282857619708498,
+        "lng": 103.8403398197085
+      }
+    }
+  },
+  "name": "The Holle Gallery",
+  "place_id": "ChIJ67h1yIAZ2jERz4ZW6AFVKjs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sigmamale",
+      "author_url": "https://www.google.com/maps/contrib/106247622168808207247/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLntdhGB5LKE0OmBS13anIcdlfWThex29P7kC5RBmZynHUqyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The art is subpar the artist always over promises with some over the top ideas but never executed properly or even returns money",
+      "time": 1695986385,
+      "translated": false
+    },
+    {
+      "author_name": "thelosthat",
+      "author_url": "https://www.google.com/maps/contrib/100100522465568790587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWleAdks3_b2xk71B_h7B6aRRYI5f6jn864x1AIyEaQ_iD2s3NN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Amazing paintings by the resident artist Sakiko.",
+      "time": 1657066305,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4263313463940908751",
+  "user_ratings_total": 2,
+  "vicinity": "195 Pearl's Hill Terrace, Singapore"
+}

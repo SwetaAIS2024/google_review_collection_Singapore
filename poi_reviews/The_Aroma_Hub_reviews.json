@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4006195,
+      "lng": 103.8081341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401871530291502,
+        "lng": 103.8094645802915
+      },
+      "southwest": {
+        "lat": 1.399173569708498,
+        "lng": 103.8067666197085
+      }
+    }
+  },
+  "name": "The Aroma Hub",
+  "place_id": "ChIJu13naVgR2jERrdA3p-VGRYY",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9675217326642286765",
+  "vicinity": "Singapore"
+}

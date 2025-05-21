@@ -1,0 +1,44 @@
+{
+  "formatted_address": "27A Jurong Port Rd, Singapore 619101",
+  "geometry": {
+    "location": {
+      "lat": 1.3157141,
+      "lng": 103.7202737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317127030291502,
+        "lng": 103.7216342802915
+      },
+      "southwest": {
+        "lat": 1.314429069708498,
+        "lng": 103.7189363197085
+      }
+    }
+  },
+  "name": "Hoya Upholstery",
+  "place_id": "ChIJKYL9TU4F2jERH63LutpKSG8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "aung tun",
+      "author_url": "https://www.google.com/maps/contrib/112509251791134353455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUGiWjVOkoNZV5KI6h8SpxcxsPi4PRjhjYNCmRjFC8KqQfJbuJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1566281495,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8018741439830404383",
+  "user_ratings_total": 1,
+  "vicinity": "27A Jurong Port Road, Singapore"
+}

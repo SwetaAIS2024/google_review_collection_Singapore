@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Create Wy, #01-01, Singapore 138602",
+  "geometry": {
+    "location": {
+      "lat": 1.3038662,
+      "lng": 103.7743515
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305022330291502,
+        "lng": 103.7757629302915
+      },
+      "southwest": {
+        "lat": 1.302324369708498,
+        "lng": 103.7730649697085
+      }
+    }
+  },
+  "name": "Délifrance U Town",
+  "place_id": "ChIJf8B8qCUb2jERNOpxC30OUeI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16307831655910992436",
+  "vicinity": "1 Create Way, #01-01"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.341499,
+      "lng": 103.837625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342890730291502,
+        "lng": 103.8389680302915
+      },
+      "southwest": {
+        "lat": 1.340192769708498,
+        "lng": 103.8362700697085
+      }
+    }
+  },
+  "name": "Singapore Oncology Consultants",
+  "place_id": "ChIJtxIAoH4X2jER6i83A1eizOs",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16991133988761841642",
+  "vicinity": ""
+}

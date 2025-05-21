@@ -1,0 +1,52 @@
+{
+  "formatted_address": "TripleOne Somerset, Units, Somerset Rd, #04-02/03 and 04/21 TripleOne Somerset, Singapore 238164",
+  "geometry": {
+    "location": {
+      "lat": 1.3001685,
+      "lng": 103.8372952
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301313180291502,
+        "lng": 103.8384902302915
+      },
+      "southwest": {
+        "lat": 1.298615219708498,
+        "lng": 103.8357922697085
+      }
+    }
+  },
+  "name": "ABC Center Singapore @ Somerset",
+  "place_id": "ChIJadTiTC8a2jERkaoVcY8hqCA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Priya chandru",
+      "author_url": "https://www.google.com/maps/contrib/102469016690242464119/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqTNvE4EgQNXg2AWWD0VkkWSLJ5u2KmY9gkvVDZj1COEmjn0krPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638302031,
+      "translated": false
+    },
+    {
+      "author_name": "Rajkumar M",
+      "author_url": "https://www.google.com/maps/contrib/102306026265637980664/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO8ZxurPDB5rKFyKB5eiAAb1Bk2y_aG_B_LEI0HP4GPbXCAZJrpA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559547606,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2353167705262369425",
+  "user_ratings_total": 2,
+  "vicinity": "TripleOne Somerset, Units, Somerset Road, #04-02/03 and 04/21 TripleOne Somerset, Singapore"
+}

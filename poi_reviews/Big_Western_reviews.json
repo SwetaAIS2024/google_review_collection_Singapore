@@ -1,0 +1,46 @@
+{
+  "formatted_address": "727 Clementi West Street 2, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3041998,
+      "lng": 103.763811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305813530291502,
+        "lng": 103.7654731302915
+      },
+      "southwest": {
+        "lat": 1.303115569708498,
+        "lng": 103.7627751697085
+      }
+    }
+  },
+  "name": "Big Western",
+  "place_id": "ChIJlSsiXAAb2jER40z6s8XZmv8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wong Kah Wai",
+      "author_url": "https://www.google.com/maps/contrib/116237563616009616855/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkkuieXX6k4umfEitonCC2mT3_H98eqho6XMaPktsmaa0PUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Service was very good, very friendly. Food was freshly prepared and super crispy. Fried rice is nice and not oily.\n\nAtmospgere is standard coffeeshop, not too special. But really worth a try! All the best :)",
+      "time": 1746967738,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18418273069236374755",
+  "user_ratings_total": 1,
+  "vicinity": "727 Clementi West Street 2, Singapore"
+}

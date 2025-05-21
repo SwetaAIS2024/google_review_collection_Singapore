@@ -1,0 +1,55 @@
+{
+  "formatted_address": "9007 Tampines Street 93, Singapore 528841",
+  "geometry": {
+    "location": {
+      "lat": 1.3387579,
+      "lng": 103.940955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340301530291502,
+        "lng": 103.9422243302915
+      },
+      "southwest": {
+        "lat": 1.337603569708498,
+        "lng": 103.9395263697085
+      }
+    }
+  },
+  "name": "Chang Sheng Roasted Delights (长胜传统火炭烧腊)",
+  "place_id": "ChIJx1q4FgA92jERGj70apeowb0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Jones Ng",
+      "author_url": "https://www.google.com/maps/contrib/106716386611815455893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL5YupJMXzrZrzhMyUFfR-aIIKB-MA_q6Xz_S67WlgI1Z9VNDu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Boss moved his stall here. Same old tastes…",
+      "time": 1707117207,
+      "translated": false
+    },
+    {
+      "author_name": "Tien Kok LIM",
+      "author_url": "https://www.google.com/maps/contrib/111379161276833345364/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAkp1MZ74V8rRbeCOHePn1Lrp1KCzOJ8jnMqdcDty4rVTd6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707213586,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13673395311961456154",
+  "user_ratings_total": 2,
+  "vicinity": "9007 Tampines Street 93, Singapore"
+}

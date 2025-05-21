@@ -1,0 +1,31 @@
+{
+  "formatted_address": "BLK 271 Bukit Batok East Ave 4, Singapore 650271",
+  "geometry": {
+    "location": {
+      "lat": 1.3482544,
+      "lng": 103.7585861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349719130291502,
+        "lng": 103.7600505802915
+      },
+      "southwest": {
+        "lat": 1.347021169708498,
+        "lng": 103.7573526197085
+      }
+    }
+  },
+  "name": "JDP Products",
+  "place_id": "ChIJcc62cgAR2jERI6GLSs-0I_g",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17880333747992895779",
+  "vicinity": "BLK 271 Bukit Batok East Avenue 4"
+}

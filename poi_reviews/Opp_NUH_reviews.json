@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296482,
+      "lng": 103.784554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297806730291502,
+        "lng": 103.7859308802915
+      },
+      "southwest": {
+        "lat": 1.295108769708498,
+        "lng": 103.7832329197085
+      }
+    }
+  },
+  "name": "Opp NUH",
+  "place_id": "ChIJKerHUlAa2jERnRtwW8lvtp4",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Tan Geok Hong",
+      "author_url": "https://www.google.com/maps/contrib/116978947256408261879/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIldchqW7C784i0NhX31ltU7b-ukjkyl5vmqEZUY5vJvA7PNRIw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Take lift to get to cross overhead and go to NUH",
+      "time": 1684329044,
+      "translated": false
+    },
+    {
+      "author_name": "eiirodo zmcnnv",
+      "author_url": "https://www.google.com/maps/contrib/113797438374708271431/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWivjFgw_lYQkNNqyK9M1ih6pVsndYLb_RvqZ7t8eQVZrMH5VM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Ii",
+      "time": 1624674617,
+      "translated": false
+    },
+    {
+      "author_name": "Jerry Seen",
+      "author_url": "https://www.google.com/maps/contrib/108846824240257269268/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8-mMn0kpp7CJNHco9lzKflpAM_aQDBQ_9Y5V_jA5LOEItOJB6RQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685535627,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11436451214367136669",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

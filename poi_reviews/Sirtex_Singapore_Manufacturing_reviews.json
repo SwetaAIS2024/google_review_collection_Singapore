@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50 Science Park Rd, Singapore 117406",
+  "geometry": {
+    "location": {
+      "lat": 1.2860187,
+      "lng": 103.7835494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287402980291502,
+        "lng": 103.7849392802915
+      },
+      "southwest": {
+        "lat": 1.284705019708498,
+        "lng": 103.7822413197085
+      }
+    }
+  },
+  "name": "Sirtex Singapore Manufacturing",
+  "place_id": "ChIJnX_STqwb2jERfrK2qz9Ue3s",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8897798121241096830",
+  "vicinity": "50 Science Park Road, Singapore"
+}

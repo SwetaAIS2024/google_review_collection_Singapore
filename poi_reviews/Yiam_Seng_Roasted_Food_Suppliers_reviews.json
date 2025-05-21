@@ -1,0 +1,45 @@
+{
+  "formatted_address": "29 Bendemeer Rd, #01-164 Bendemeer Market & Food Centre, Singapore 330029",
+  "geometry": {
+    "location": {
+      "lat": 1.31953,
+      "lng": 103.862902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320816480291503,
+        "lng": 103.8644074802915
+      },
+      "southwest": {
+        "lat": 1.318118519708498,
+        "lng": 103.8617095197085
+      }
+    }
+  },
+  "name": "Yiam Seng Roasted Food Suppliers",
+  "place_id": "ChIJw1aE0tMZ2jERh-jrSUVQyxE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wayne T",
+      "author_url": "https://www.google.com/maps/contrib/113693118072487926649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ66lNtriOYOc7dqM5lxfPpX9pHRl8-8dNLRa_6AcPHL3LfYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Their roast meats are fantastic and my default go to for the familar taste.",
+      "time": 1739345669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1282206777440200839",
+  "user_ratings_total": 1,
+  "vicinity": "29 Bendemeer Road, #01-164 Bendemeer Market & Food Centre"
+}

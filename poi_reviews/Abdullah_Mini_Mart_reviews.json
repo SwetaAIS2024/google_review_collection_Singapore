@@ -1,0 +1,64 @@
+{
+  "formatted_address": "631 Bedok Reservoir Rd, Singapore 470631",
+  "geometry": {
+    "location": {
+      "lat": 1.3336344,
+      "lng": 103.9154068
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334990830291502,
+        "lng": 103.9166986802915
+      },
+      "southwest": {
+        "lat": 1.332292869708498,
+        "lng": 103.9140007197085
+      }
+    }
+  },
+  "name": "Abdullah Mini Mart",
+  "place_id": "ChIJT_8Sz1c92jERMGoyH4UKm98",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "T&F",
+      "author_url": "https://www.google.com/maps/contrib/113840794016706692276/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLwI69cwdSJ9B6Lj5URz_zQkGzGL_9Glj5TDm0WhVYPJH8fLvZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624172536,
+      "translated": false
+    },
+    {
+      "author_name": "Latif",
+      "author_url": "https://www.google.com/maps/contrib/100991287807329257587/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCR1qtea7yn2y8X08rBGuvaCRh-r_sF0THDUOu5yPSVX4uLfTBAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624172500,
+      "translated": false
+    },
+    {
+      "author_name": "Yang Aiqun",
+      "author_url": "https://www.google.com/maps/contrib/100802114593569972065/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX93ULDSXqGrrv_HACkCbaMl4KJD6huH7Ex5hU4WAKSdaARH7hr7Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514176194,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16112483658718407216",
+  "user_ratings_total": 3,
+  "vicinity": "631 Bedok Reservoir Road, Singapore"
+}

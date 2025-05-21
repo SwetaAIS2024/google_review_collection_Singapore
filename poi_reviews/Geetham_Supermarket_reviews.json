@@ -1,0 +1,31 @@
+{
+  "formatted_address": "blk 3 St George's Rd, #01-107, Singapore 320003",
+  "geometry": {
+    "location": {
+      "lat": 1.3228769,
+      "lng": 103.8612779
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324083280291502,
+        "lng": 103.8624840302915
+      },
+      "southwest": {
+        "lat": 1.321385319708498,
+        "lng": 103.8597860697085
+      }
+    }
+  },
+  "name": "Geetham Supermarket",
+  "place_id": "ChIJG75yN0MZ2jERTQkNIRbHY6k",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12205818312961886541",
+  "vicinity": "blk 3 Saint George's Road, #01-107"
+}

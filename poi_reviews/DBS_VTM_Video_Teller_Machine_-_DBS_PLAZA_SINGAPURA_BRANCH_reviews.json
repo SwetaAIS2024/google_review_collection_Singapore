@@ -1,0 +1,45 @@
+{
+  "formatted_address": "68 Orchard Rd, #B1-25 Plaza, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3006112,
+      "lng": 103.8450937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301912430291502,
+        "lng": 103.8465529302915
+      },
+      "southwest": {
+        "lat": 1.299214469708498,
+        "lng": 103.8438549697085
+      }
+    }
+  },
+  "name": "DBS VTM (Video Teller Machine) - DBS PLAZA SINGAPURA BRANCH",
+  "place_id": "ChIJ_0PZ0lMZ2jERu8nLhD5yWGg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "johnny johnnysun",
+      "author_url": "https://www.google.com/maps/contrib/110417992426333379369/reviews",
+      "language": "ms",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs_eHiN5LZuKfutMHTgdirAXqGKkR_p5m7N6j6tV9OQDsBAi8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "terbaik lah",
+      "time": 1703588199,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7518885190736529851",
+  "user_ratings_total": 1,
+  "vicinity": "68 Orchard Road, #B1-25 Plaza, Singapore"
+}

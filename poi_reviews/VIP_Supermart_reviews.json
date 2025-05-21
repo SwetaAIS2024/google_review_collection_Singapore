@@ -1,0 +1,30 @@
+{
+  "formatted_address": "802 Upper Serangoon Rd, Singapore 534672",
+  "geometry": {
+    "location": {
+      "lat": 1.3551327,
+      "lng": 103.8799982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356569830291502,
+        "lng": 103.8812679302915
+      },
+      "southwest": {
+        "lat": 1.353871869708498,
+        "lng": 103.8785699697085
+      }
+    }
+  },
+  "name": "VIP Supermart",
+  "place_id": "ChIJF-Iny_oX2jER8fUBmVXfYrU",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13070254627314857457",
+  "vicinity": "802 Upper Serangoon Road"
+}

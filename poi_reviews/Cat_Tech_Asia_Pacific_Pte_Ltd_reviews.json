@@ -1,0 +1,61 @@
+{
+  "formatted_address": "11 Tuas Ave 16, Singapore 638929",
+  "geometry": {
+    "location": {
+      "lat": 1.3179841,
+      "lng": 103.640287
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319439280291502,
+        "lng": 103.6415210802915
+      },
+      "southwest": {
+        "lat": 1.316741319708498,
+        "lng": 103.6388231197085
+      }
+    }
+  },
+  "name": "Cat Tech Asia Pacific Pte Ltd",
+  "place_id": "ChIJV22KfYsP2jERwdSWIFyHfec",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Naz",
+      "author_url": "https://www.google.com/maps/contrib/115101050389115219887/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB_Ey25RJxcBtxrSPT9ha1otI2oV42h9zvT1ch7d7HUVM5-g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1644201729,
+      "translated": false
+    },
+    {
+      "author_name": "Muhd Syamsidd Kadir PTM (#syammacidd)",
+      "author_url": "https://www.google.com/maps/contrib/114637049230120293515/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5oPWf6GyW-Y3FP-Tr73Ixiye_r5ydUH0hrOsqf47dspHsWLctVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584466910,
+      "translated": false
+    },
+    {
+      "author_name": "Derrick Chua",
+      "author_url": "https://www.google.com/maps/contrib/116304468360953140435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVJTnwXQ3a9Xzw1AB0xhZCwT_akfgYvfNy94FClKfNev3JNg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584363284,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16680637424603681985",
+  "user_ratings_total": 3,
+  "vicinity": "11 Tuas Avenue 16, Singapore"
+}

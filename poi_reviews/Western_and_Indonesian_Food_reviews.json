@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Tuas South Ave 6, #01-23, Singapore 637021",
+  "geometry": {
+    "location": {
+      "lat": 1.3041903,
+      "lng": 103.6254578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305598330291502,
+        "lng": 103.6266552802915
+      },
+      "southwest": {
+        "lat": 1.302900369708498,
+        "lng": 103.6239573197085
+      }
+    }
+  },
+  "name": "Western and Indonesian Food",
+  "place_id": "ChIJYSARWwAH2jERG-Tse_2JnDc",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4007229490251752475",
+  "vicinity": "1 Tuas South Avenue 6, #01-23, Singapore"
+}

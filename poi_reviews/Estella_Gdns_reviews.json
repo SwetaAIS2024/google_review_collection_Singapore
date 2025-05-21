@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359681,
+      "lng": 103.966156
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361026630291502,
+        "lng": 103.9675041302915
+      },
+      "southwest": {
+        "lat": 1.358328669708498,
+        "lng": 103.9648061697085
+      }
+    }
+  },
+  "name": "Estella Gdns",
+  "place_id": "ChIJ33pdtv482jERvtgC1P1eUPc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17820848169781745854",
+  "vicinity": "Singapore"
+}

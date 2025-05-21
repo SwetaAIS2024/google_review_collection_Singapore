@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Orchard Rd, Singapore 238843",
+  "geometry": {
+    "location": {
+      "lat": 1.3047048,
+      "lng": 103.8326102
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306005480291502,
+        "lng": 103.8339296302915
+      },
+      "southwest": {
+        "lat": 1.303307519708498,
+        "lng": 103.8312316697085
+      }
+    }
+  },
+  "name": "HSBC Cashpoint/ATM",
+  "place_id": "ChIJn-OdQQAZ2jEROrQf_PQWFGc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7427586926898558010",
+  "vicinity": "5 Orchard Road"
+}

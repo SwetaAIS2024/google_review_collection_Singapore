@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Teban Gardens Rd, Singapore 600057",
+  "geometry": {
+    "location": {
+      "lat": 1.3233552,
+      "lng": 103.737455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324734680291502,
+        "lng": 103.7388113802915
+      },
+      "southwest": {
+        "lat": 1.322036719708498,
+        "lng": 103.7361134197085
+      }
+    }
+  },
+  "name": "Garden and landscaping",
+  "place_id": "ChIJz3xJh6Qb2jERUNuc6_zgr-g",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "amulraj soundar",
+      "author_url": "https://www.google.com/maps/contrib/116147849544612217256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHFes2MAzV4ffdvgYUzqrWM4qbj_3KVCIcZohYl7Lk8FAFXIlb=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746498909,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16766867314612951888",
+  "user_ratings_total": 1,
+  "vicinity": "Teban Gardens Road"
+}

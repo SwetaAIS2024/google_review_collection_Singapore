@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2777621,
+      "lng": 103.843524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279099780291502,
+        "lng": 103.8449197302915
+      },
+      "southwest": {
+        "lat": 1.276401819708498,
+        "lng": 103.8422217697085
+      }
+    }
+  },
+  "name": "Aft Craig Rd",
+  "place_id": "ChIJZ5pBIm0Z2jERSYYFhW-xtmo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lay choo ong",
+      "author_url": "https://www.google.com/maps/contrib/116727900162577638363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCUQFkMlahwzVOm5jccWYHNwHbsuofJCQlJU3PrF9pZJsBpUoE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Go chinatown mus come here",
+      "time": 1552731023,
+      "translated": false
+    },
+    {
+      "author_name": "oxyodon 2001",
+      "author_url": "https://www.google.com/maps/contrib/111934120179454603725/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6ksF0qq2u2LJyPiaA2d86Zm_dKqHocMXEe5h1PWNCkersKmQbmQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The atmosphere is very similar to Arab Street, but this one has a slightly more luxurious feel. It is a cityscape of impressive buildings.",
+      "time": 1694664345,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7689528506312918601",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

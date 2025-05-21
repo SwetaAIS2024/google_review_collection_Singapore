@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Pioneer Cres, West Park BizCentral, Singapore 628560",
+  "geometry": {
+    "location": {
+      "lat": 1.314752,
+      "lng": 103.69505
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316314830291502,
+        "lng": 103.6964318302915
+      },
+      "southwest": {
+        "lat": 1.313616869708498,
+        "lng": 103.6937338697085
+      }
+    }
+  },
+  "name": "BK's Curry Leaf",
+  "place_id": "ChIJAcuIPG4F2jERMM3yo3N0ngY",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=476946650568510768",
+  "vicinity": "30 Pioneer Crescent, West Park BizCentral"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "61 Teban Gardens Rd, Yong Sheng Coffee Shop, Singapore 600061",
+  "geometry": {
+    "location": {
+      "lat": 1.3220967,
+      "lng": 103.7384605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323340330291502,
+        "lng": 103.7397872302915
+      },
+      "southwest": {
+        "lat": 1.320642369708498,
+        "lng": 103.7370892697085
+      }
+    }
+  },
+  "name": "Ban Mian. Fish Soup",
+  "place_id": "ChIJwc1kxiwb2jER5m9g3BN4psg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lili Chan",
+      "author_url": "https://www.google.com/maps/contrib/109598254657778484447/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4jtVaxY3B9wvEjCP28BYAuV2ay0idveT2MNwQV6tzidiN9A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689858323,
+      "translated": false
+    },
+    {
+      "author_name": "Djunzz Monday",
+      "author_url": "https://www.google.com/maps/contrib/116495649475820370590/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdJzJQ_cNQ2pByov4fm9U04sngKsVpm0zlvpD6qf6NaNhcKdxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707280467,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14458375680416575462",
+  "user_ratings_total": 2,
+  "vicinity": "61 Teban Gardens Road, Yong Sheng Coffee Shop"
+}

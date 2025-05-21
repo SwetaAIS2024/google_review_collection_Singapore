@@ -1,0 +1,30 @@
+{
+  "formatted_address": "127 Bukit Merah Lane 1, Singapore 150127",
+  "geometry": {
+    "location": {
+      "lat": 1.2851012,
+      "lng": 103.8030112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286385280291502,
+        "lng": 103.8043265802915
+      },
+      "southwest": {
+        "lat": 1.283687319708498,
+        "lng": 103.8016286197085
+      }
+    }
+  },
+  "name": "The Home Taste 家味",
+  "place_id": "ChIJk6U_NgAb2jER1IYl-ODXH28",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8007356023723886292",
+  "vicinity": "127 Bukit Merah Lane 1"
+}

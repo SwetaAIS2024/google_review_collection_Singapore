@@ -1,0 +1,45 @@
+{
+  "formatted_address": "437 Orchard Rd, Singapore 238878",
+  "geometry": {
+    "location": {
+      "lat": 1.3033135,
+      "lng": 103.8323012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304589480291502,
+        "lng": 103.8336204802915
+      },
+      "southwest": {
+        "lat": 1.301891519708498,
+        "lng": 103.8309225197085
+      }
+    }
+  },
+  "name": "Fevorit Teilors",
+  "place_id": "ChIJA4gFuhsZ2jERFf95W8m2mkg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Novia Chou",
+      "author_url": "https://www.google.com/maps/contrib/104340784425769157232/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMBkLQtQDMZ2fa32gChKKeOLModSHRqKW85sBUqFmwATWVew=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559207677,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5231694893083655957",
+  "user_ratings_total": 1,
+  "vicinity": "437 Orchard Road"
+}

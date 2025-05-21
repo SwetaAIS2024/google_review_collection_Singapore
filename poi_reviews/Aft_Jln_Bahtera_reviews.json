@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.423943,
+      "lng": 103.704224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.425275380291502,
+        "lng": 103.7056065302915
+      },
+      "southwest": {
+        "lat": 1.422577419708498,
+        "lng": 103.7029085697085
+      }
+    }
+  },
+  "name": "Aft Jln Bahtera",
+  "place_id": "ChIJmRzTSb4N2jERfV4VbbEYteg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Matthew Chia",
+      "author_url": "https://www.google.com/maps/contrib/105744172257980026913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtgVaX3AejT0HKZJlGb5psg5jgIQ0XXVjke_CEQ2TeKoyqu7CG=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The place is really well maintained. No need to be afraid of bad maintenance of the bus stop. Nice place but people seldom go there. Very out of the way place in singapore. Nothing really interesting at there so not need to visit the area\n\nThere is a view of the sea nearby. Bollywood farm is also nearby too. If you are interested, you can visit those places for leisure",
+      "time": 1654530729,
+      "translated": false
+    },
+    {
+      "author_name": "Eugene Tan",
+      "author_url": "https://www.google.com/maps/contrib/106584710776184458254/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_G_pghkeWCg-_uIPugJXgqj4bxGGm4cLFh244HeU2Y4XBsQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557728707,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16768335937902304893",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

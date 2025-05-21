@@ -1,0 +1,55 @@
+{
+  "formatted_address": "148 Upper Bukit Timah Rd, #01-01 UOB Centre, Singapore 588178",
+  "geometry": {
+    "location": {
+      "lat": 1.3425651,
+      "lng": 103.7759085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343912480291502,
+        "lng": 103.7772578302915
+      },
+      "southwest": {
+        "lat": 1.341214519708498,
+        "lng": 103.7745598697085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Upper Bukit Timah Branch",
+  "place_id": "ChIJX4XIa9cR2jERzdIKDByCwsE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "moss critic",
+      "author_url": "https://www.google.com/maps/contrib/111866226278131226705/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1e_x5bnJ9PuithpZUXLuU3S1PnjuHDbJ033jow0SxPpfS1xc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "cool building\nlong waiting time",
+      "time": 1702182130,
+      "translated": false
+    },
+    {
+      "author_name": "Wily Cuaca (Wily C)",
+      "author_url": "https://www.google.com/maps/contrib/117968486938712266066/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpUEeZrdNimKMvZy9HpcHePhXQt8hMJXdlftUbrMibNVDEjA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656942202,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13961864851774689997",
+  "user_ratings_total": 2,
+  "vicinity": "148 Upper Bukit Timah Road, #01-01 UOB Centre"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3254823,
+      "lng": 103.8953132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326925930291502,
+        "lng": 103.8966337802915
+      },
+      "southwest": {
+        "lat": 1.324227969708498,
+        "lng": 103.8939358197085
+      }
+    }
+  },
+  "name": "Ubi 55",
+  "place_id": "ChIJMwFsPB4Y2jERi45VKMxZJVA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ang Wen Cong",
+      "author_url": "https://www.google.com/maps/contrib/104376755302181569395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVF1lGEVhrfXfhq3abAZpRbWks0iL8MKaHa6x_qICWV3-jN3yQn=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1495687113,
+      "translated": false
+    },
+    {
+      "author_name": "Zamdubstep",
+      "author_url": "https://www.google.com/maps/contrib/100555905122578958667/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDHiNPlaNvsKDnsoWHbpIG1kUIc5sWtvB9GljVOUtK2FC8GW-r=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1459259193,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5775120830557425291",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

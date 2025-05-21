@@ -1,0 +1,85 @@
+{
+  "formatted_address": "168 Robinson Rd, Capital Tower, Singapore 068912",
+  "geometry": {
+    "location": {
+      "lat": 1.2776952,
+      "lng": 103.8475354
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278895280291502,
+        "lng": 103.8488390802915
+      },
+      "southwest": {
+        "lat": 1.276197319708498,
+        "lng": 103.8461411197085
+      }
+    }
+  },
+  "name": "Credit Agricole Corporate and Investment Bank",
+  "place_id": "ChIJb8HX-BIZ2jERfZ6XXL5dy_E",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "martin olmer",
+      "author_url": "https://www.google.com/maps/contrib/114686146495064709611/reviews",
+      "language": "en-US",
+      "original_language": "fr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMStTS0uCePm3X0exY_g19VmZXjNdFs9x7VhjDm8PdrJk8UfWq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Pleasant",
+      "time": 1661662299,
+      "translated": true
+    },
+    {
+      "author_name": "Mujeb Mujeb",
+      "author_url": "https://www.google.com/maps/contrib/100670077616921196012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqtqm_rRzFG_1YAt8TY-ujBo0TlMgq3TWJpq6jB5arUMTA9Xa1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1653206955,
+      "translated": false
+    },
+    {
+      "author_name": "Fatima Reg",
+      "author_url": "https://www.google.com/maps/contrib/113828183473926308185/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaV_9bnnCVmK9BmwwuPCDqqwJTHGdCwsxt7RW9nuKhviU_Lg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1617144992,
+      "translated": false
+    },
+    {
+      "author_name": "Chris L",
+      "author_url": "https://www.google.com/maps/contrib/100519655212132811482/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJg6neOI6IEmzT0fjdW-Yn7E0xg1PpVtTAruuEwnzble9iLhA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599025065,
+      "translated": false
+    },
+    {
+      "author_name": "Salini vp",
+      "author_url": "https://www.google.com/maps/contrib/112635848016472851416/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqWQb3tkCT9Ijk_hH1jlsUMRGihA54W4httaFJN8wSwFK-VEqo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1570715710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17423122655591505533",
+  "user_ratings_total": 6,
+  "vicinity": "168 Robinson Road, Capital Tower"
+}

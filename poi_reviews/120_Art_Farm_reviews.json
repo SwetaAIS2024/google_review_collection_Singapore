@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Simei Street 1, in front, Block 120, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3446856,
+      "lng": 103.9530351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346034280291502,
+        "lng": 103.9543918802915
+      },
+      "southwest": {
+        "lat": 1.343336319708498,
+        "lng": 103.9516939197085
+      }
+    }
+  },
+  "name": "120 Art Farm",
+  "place_id": "ChIJa0TEAwA92jERdmjx0vrw3kk",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5322956769670031478",
+  "vicinity": "Simei Street 1, in front, Block 120"
+}

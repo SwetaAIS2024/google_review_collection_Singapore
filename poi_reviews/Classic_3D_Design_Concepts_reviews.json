@@ -1,0 +1,52 @@
+{
+  "formatted_address": "12 Haig Rd, #01-331, Singapore 430012",
+  "geometry": {
+    "location": {
+      "lat": 1.3155859,
+      "lng": 103.8961157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316829130291502,
+        "lng": 103.8973158802915
+      },
+      "southwest": {
+        "lat": 1.314131169708498,
+        "lng": 103.8946179197085
+      }
+    }
+  },
+  "name": "Classic 3D Design Concepts",
+  "place_id": "ChIJKz5VjBAY2jERt-k_u0OPslQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "ray wang",
+      "author_url": "https://www.google.com/maps/contrib/116267345985756060903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpZ0_JbM4aHdw_qwKjNufcAtl3-8oF7CdlZkMXQre-XbDbwA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608383272,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Hoh",
+      "author_url": "https://www.google.com/maps/contrib/108986849696283015532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpNIAbrY0RFBn-NSMJcrCznvGfmBK2QuyZmclqFSnyGK2fOB1y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1432988501,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6103097966107552183",
+  "user_ratings_total": 2,
+  "vicinity": "12 Haig Road, #01-331"
+}

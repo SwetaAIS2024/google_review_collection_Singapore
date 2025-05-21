@@ -1,0 +1,46 @@
+{
+  "formatted_address": "865 Mountbatten Rd, B1-124, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.3037611,
+      "lng": 103.9008959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305103930291502,
+        "lng": 103.9024132302915
+      },
+      "southwest": {
+        "lat": 1.302405969708498,
+        "lng": 103.8997152697085
+      }
+    }
+  },
+  "name": "Golden Cafe Beverage",
+  "place_id": "ChIJIfUuTwAZ2jERCT-RujS6kpU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "桃田太郎",
+      "author_url": "https://www.google.com/maps/contrib/114961188011114023235/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1KSCX1M9BVeaE2Kl0hNFKnAjmFLWTVc6w0nvxP2tnSi_sRkY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Order the cocktail ice kachang!\nIs $3.5 higher than the market price? I thought so, but\nThere are a lot of toppings inside the ice, such as azuki beans, atapuchi, and jelly, so it might be quite cost-effective.\nIs there an ice cream shop near here? So it's useful 😋👍",
+      "time": 1730621171,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10777881593882165001",
+  "user_ratings_total": 1,
+  "vicinity": "865 Mountbatten Road, B1-124, Singapore"
+}

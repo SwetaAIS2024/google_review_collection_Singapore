@@ -1,0 +1,29 @@
+{
+  "formatted_address": "7 Fraser St, #01-32/33, Singapore 189356",
+  "geometry": {
+    "location": {
+      "lat": 1.2992641,
+      "lng": 103.8579913
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300687430291502,
+        "lng": 103.8593326302915
+      },
+      "southwest": {
+        "lat": 1.297989469708498,
+        "lng": 103.8566346697085
+      }
+    }
+  },
+  "name": "Boulevard Wineplace",
+  "place_id": "ChIJDWh0GmcZ2jER9Cr9GRsWHj8",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4548096979346729716",
+  "vicinity": "7 Fraser Street, #01-32/33"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2948784,
+      "lng": 103.8059272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295982030291502,
+        "lng": 103.8074683302915
+      },
+      "southwest": {
+        "lat": 1.293284069708498,
+        "lng": 103.8047703697085
+      }
+    }
+  },
+  "name": "Queenstown Stn",
+  "place_id": "ChIJx8_bazEa2jERYUusHEuwBVI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5910323922643733345",
+  "vicinity": "Singapore"
+}

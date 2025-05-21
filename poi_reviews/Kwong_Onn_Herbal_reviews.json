@@ -1,0 +1,31 @@
+{
+  "formatted_address": "16 Trengganu St, Singapore 058470",
+  "geometry": {
+    "location": {
+      "lat": 1.283002,
+      "lng": 103.8440595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284322030291502,
+        "lng": 103.8454604302915
+      },
+      "southwest": {
+        "lat": 1.281624069708498,
+        "lng": 103.8427624697085
+      }
+    }
+  },
+  "name": "Kwong Onn Herbal",
+  "place_id": "ChIJRVrMMHMZ2jERPhES0dr2BmE",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6991546891210199358",
+  "vicinity": "16 Trengganu Street, Singapore"
+}

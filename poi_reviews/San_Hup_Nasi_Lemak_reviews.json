@@ -1,0 +1,30 @@
+{
+  "formatted_address": "259 Bukit Panjang Ring Rd, #01-34, Singapore 671259",
+  "geometry": {
+    "location": {
+      "lat": 1.3773085,
+      "lng": 103.7730453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378785630291502,
+        "lng": 103.7743663802915
+      },
+      "southwest": {
+        "lat": 1.376087669708498,
+        "lng": 103.7716684197085
+      }
+    }
+  },
+  "name": "San Hup Nasi Lemak",
+  "place_id": "ChIJx-EFDVkR2jERd4_AFBXQUqE",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11624582377157726071",
+  "vicinity": "259 Bukit Panjang Ring Road, #01-34, Singapore"
+}

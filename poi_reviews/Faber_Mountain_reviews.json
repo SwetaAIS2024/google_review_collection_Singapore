@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Mount Faber Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2735136,
+      "lng": 103.8177052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274544080291502,
+        "lng": 103.8189666302915
+      },
+      "southwest": {
+        "lat": 1.271846119708498,
+        "lng": 103.8162686697085
+      }
+    }
+  },
+  "name": "Faber Mountain",
+  "place_id": "ChIJeaQTLwAb2jER9h-bEa-RGBE",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1231894679186513910",
+  "vicinity": "Mount Faber Road"
+}

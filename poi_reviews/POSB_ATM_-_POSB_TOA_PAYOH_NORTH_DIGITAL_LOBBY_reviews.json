@@ -1,0 +1,29 @@
+{
+  "formatted_address": "107 Lor 1 Toa Payoh, # 01-266, Singapore 310107",
+  "geometry": {
+    "location": {
+      "lat": 1.3412049,
+      "lng": 103.8471689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342495830291502,
+        "lng": 103.8485181802915
+      },
+      "southwest": {
+        "lat": 1.339797869708498,
+        "lng": 103.8458202197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB TOA PAYOH NORTH DIGITAL LOBBY",
+  "place_id": "ChIJNSs1n20X2jERs2w96iPOqzk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4155641734828485811",
+  "vicinity": "107 Lorong 1 Toa Payoh, # 01-266"
+}

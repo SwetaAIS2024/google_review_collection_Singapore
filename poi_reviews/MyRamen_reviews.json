@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26 Chai Chee Rd, #11-407, Singapore 460026",
+  "geometry": {
+    "location": {
+      "lat": 1.3233389,
+      "lng": 103.9235981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324787280291502,
+        "lng": 103.9249176802915
+      },
+      "southwest": {
+        "lat": 1.322089319708498,
+        "lng": 103.9222197197085
+      }
+    }
+  },
+  "name": "MyRamen",
+  "place_id": "ChIJ72702jcj2jERbvnZLkTdZAw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=893081911039752558",
+  "vicinity": "26 Chai Chee Road, #11-407"
+}

@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2990736,
+      "lng": 103.8170599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300412380291502,
+        "lng": 103.8184403302915
+      },
+      "southwest": {
+        "lat": 1.297714419708498,
+        "lng": 103.8157423697085
+      }
+    }
+  },
+  "name": "Opp Chatsworth Rd",
+  "place_id": "ChIJZavOGSYa2jERMbbkxbB9TkQ",
+  "rating": 3.2,
+  "reviews": [
+    {
+      "author_name": "soobeen bae",
+      "author_url": "https://www.google.com/maps/contrib/117168521274056813512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCXK3d4qOZXno9tTrUeXotv4l1EGBQ9xaLTw0EpWqAvJaq-H7u=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Just a bus stop",
+      "time": 1644842662,
+      "translated": false
+    },
+    {
+      "author_name": "Sohail Salehi",
+      "author_url": "https://www.google.com/maps/contrib/109658845568784760593/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrSkqQMuPhRgeYXSei0eUjCvjBrdnPxW-iF7vMXT57n_XZdhq1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1550562413,
+      "translated": false
+    },
+    {
+      "author_name": "Goh Aik Hoe",
+      "author_url": "https://www.google.com/maps/contrib/111637449270899766850/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3q00cTvm3M9zoaF5AnxjJi8js-RVVUi9PATB6ge94vSN9=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484178484,
+      "translated": false
+    },
+    {
+      "author_name": "HosniSohor Hosni",
+      "author_url": "https://www.google.com/maps/contrib/106111955275332931051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_5kG7IwKBcIkArDC-E85ItDGMttYgL1nUyYptRNbdUMllEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482461424,
+      "translated": false
+    },
+    {
+      "author_name": "Alina Isa",
+      "author_url": "https://www.google.com/maps/contrib/101668386246767270274/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv0Hy75HU8RgP8N9M-w2Z-LoeKJM4ntHadTPLzkhLw8vITEoQe9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477529642,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4922009640950347313",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

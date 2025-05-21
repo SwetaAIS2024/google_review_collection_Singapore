@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Blk 203, #09-02 Henderson Industrial Park, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.2817191,
+      "lng": 103.8208763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282991030291502,
+        "lng": 103.8221459302915
+      },
+      "southwest": {
+        "lat": 1.280293069708498,
+        "lng": 103.8194479697085
+      }
+    }
+  },
+  "name": "Rivers of Life Church",
+  "place_id": "ChIJKYoPudcb2jERpMhMrSlZroA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Madame Anje Letop",
+      "author_url": "https://www.google.com/maps/contrib/102218181207305486992/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBLrynHHrVuvml1z4U22iYUaPrCSgXuRxYtNW0TEEs7Hdpxbxe=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563208436,
+      "translated": false
+    },
+    {
+      "author_name": "Soo Hoon Lee",
+      "author_url": "https://www.google.com/maps/contrib/105927612943834958386/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb7XJYYeOC23ZC4zWkozMmUuT0bty0tV8UyFppsYCkKRvq7Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555589087,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9272446718338451620",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 203, #09-02 Henderson Industrial Park"
+}

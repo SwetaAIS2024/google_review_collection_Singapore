@@ -1,0 +1,30 @@
+{
+  "formatted_address": "190 Clemenceau Ave, Singapore 239924",
+  "geometry": {
+    "location": {
+      "lat": 1.298146,
+      "lng": 103.8441579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299503930291502,
+        "lng": 103.8453419802915
+      },
+      "southwest": {
+        "lat": 1.296805969708498,
+        "lng": 103.8426440197085
+      }
+    }
+  },
+  "name": "Gateway Language School",
+  "place_id": "ChIJPSqhBJgZ2jEROGn9BMv5dXI",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8247772942956325176",
+  "vicinity": "190 Clemenceau Avenue"
+}

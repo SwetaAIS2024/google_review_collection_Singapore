@@ -1,0 +1,30 @@
+{
+  "formatted_address": "673 Hougang Ave 8, Block 673, Singapore 530673",
+  "geometry": {
+    "location": {
+      "lat": 1.3725877,
+      "lng": 103.8847638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373833380291502,
+        "lng": 103.8860753302915
+      },
+      "southwest": {
+        "lat": 1.371135419708498,
+        "lng": 103.8833773697085
+      }
+    }
+  },
+  "name": "Honesty Shop Convenience Store",
+  "place_id": "ChIJK4xi1H0X2jERLsF-6LYq-ic",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2880661876729889070",
+  "vicinity": "673 Hougang Avenue 8, Block 673, Singapore"
+}

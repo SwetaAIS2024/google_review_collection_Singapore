@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2992307,
+      "lng": 103.8590568
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300594280291502,
+        "lng": 103.8603933802915
+      },
+      "southwest": {
+        "lat": 1.297896319708498,
+        "lng": 103.8576954197085
+      }
+    }
+  },
+  "name": "The Gateway",
+  "place_id": "ChIJj7TUM7AZ2jER8xRKii6eLB0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Branko Rakocevic",
+      "author_url": "https://www.google.com/maps/contrib/112795899612918272887/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxGuNVqB7lfHUQuvuVs_VDeunhnE1HL9tb3s3gg3yoSxkODcY7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Built a few years ago but still one of the most interesting architecture objects.",
+      "time": 1479519912,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2102229048800974067",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

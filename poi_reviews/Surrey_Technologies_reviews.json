@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1039 Eunos Ave 3, Singapore 409846",
+  "geometry": {
+    "location": {
+      "lat": 1.3201274,
+      "lng": 103.8980729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321524280291502,
+        "lng": 103.8994121802915
+      },
+      "southwest": {
+        "lat": 1.318826319708498,
+        "lng": 103.8967142197085
+      }
+    }
+  },
+  "name": "Surrey Technologies",
+  "place_id": "ChIJTXzf6RsY2jERPptITCyI_b8",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13834363354191797054",
+  "vicinity": "1039 Eunos Avenue 3"
+}

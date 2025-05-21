@@ -1,0 +1,30 @@
+{
+  "formatted_address": "347 Choa Chu Kang Ave 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3849158,
+      "lng": 103.7448732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386169980291502,
+        "lng": 103.7462017802915
+      },
+      "southwest": {
+        "lat": 1.383472019708498,
+        "lng": 103.7435038197085
+      }
+    }
+  },
+  "name": "Alano",
+  "place_id": "ChIJa9qrv-kR2jERsSxub-iUKEo",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5343684683897908401",
+  "vicinity": "347 Choa Chu Kang Avenue 4"
+}

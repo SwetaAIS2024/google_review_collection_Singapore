@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Marine Parade, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296608,
+      "lng": 103.8861588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298009430291502,
+        "lng": 103.8876736802915
+      },
+      "southwest": {
+        "lat": 1.295311469708498,
+        "lng": 103.8849757197085
+      }
+    }
+  },
+  "name": "Stage @ KP",
+  "place_id": "ChIJS0M4SAAZ2jERttz10iJ48mc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "An elevated stage at a nature Park with sittings where performances could be staged or as a venue for some group gathering.",
+      "time": 1715159817,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7490181221234105526",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "276 Bangkit Rd, Singapore 670276",
+  "geometry": {
+    "location": {
+      "lat": 1.3804634,
+      "lng": 103.7753544
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381252930291502,
+        "lng": 103.7765218302915
+      },
+      "southwest": {
+        "lat": 1.378554969708498,
+        "lng": 103.7738238697085
+      }
+    }
+  },
+  "name": "Zhenghua Park Shelter 2",
+  "place_id": "ChIJg9KeA7MR2jERTR3FRX4R5Tc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "The shelter is not connected to the main path. Weird.",
+      "time": 1698313882,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4027644675786874189",
+  "user_ratings_total": 1,
+  "vicinity": "276 Bangkit Road, Singapore"
+}

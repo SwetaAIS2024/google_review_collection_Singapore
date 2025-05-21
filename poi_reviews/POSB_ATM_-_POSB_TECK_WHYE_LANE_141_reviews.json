@@ -1,0 +1,29 @@
+{
+  "formatted_address": "141 Teck Whye Ln, #01-247, Singapore 680141",
+  "geometry": {
+    "location": {
+      "lat": 1.3804106,
+      "lng": 103.7526267
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381679830291502,
+        "lng": 103.7540208302915
+      },
+      "southwest": {
+        "lat": 1.378981869708498,
+        "lng": 103.7513228697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB TECK WHYE LANE/141",
+  "place_id": "ChIJL85i6MwR2jERaXi_bvoiVMc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14363143570586564713",
+  "vicinity": "141 Teck Whye Lane, #01-247"
+}

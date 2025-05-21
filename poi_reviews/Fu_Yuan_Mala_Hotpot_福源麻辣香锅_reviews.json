@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Blk 45 Sims Dr, #01-173, Singapore 380045",
+  "geometry": {
+    "location": {
+      "lat": 1.3177011,
+      "lng": 103.878314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318766980291502,
+        "lng": 103.8796480302915
+      },
+      "southwest": {
+        "lat": 1.316069019708498,
+        "lng": 103.8769500697085
+      }
+    }
+  },
+  "name": "Fu Yuan Mala Hotpot 福源麻辣香锅",
+  "place_id": "ChIJh8hudQAZ2jERgWfYxQcyaFM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742420474,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6010108711691380609",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 45 Sims Drive, #01-173, Singapore"
+}

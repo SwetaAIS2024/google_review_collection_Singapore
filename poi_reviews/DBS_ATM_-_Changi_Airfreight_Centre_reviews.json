@@ -1,0 +1,29 @@
+{
+  "formatted_address": "4 Airline Rd, Singapore 819825",
+  "geometry": {
+    "location": {
+      "lat": 1.3858007,
+      "lng": 103.9998001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387141630291502,
+        "lng": 104.0011225302915
+      },
+      "southwest": {
+        "lat": 1.384443669708498,
+        "lng": 103.9984245697085
+      }
+    }
+  },
+  "name": "DBS ATM - Changi Airfreight Centre",
+  "place_id": "ChIJKxLbPgw82jERffm0vxECmaQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11860513368910920061",
+  "vicinity": "4 Airline Road"
+}

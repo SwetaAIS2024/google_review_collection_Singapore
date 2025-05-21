@@ -1,0 +1,29 @@
+{
+  "formatted_address": "271 Bukit Timah Rd, Singapore 259708",
+  "geometry": {
+    "location": {
+      "lat": 1.3164945,
+      "lng": 103.83546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317952130291502,
+        "lng": 103.8368764302915
+      },
+      "southwest": {
+        "lat": 1.315254169708498,
+        "lng": 103.8341784697085
+      }
+    }
+  },
+  "name": "Cybernet Cafe Enterprise",
+  "place_id": "ChIJGe2Jmu8Z2jERqPQb9rLOmnk",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8762543293031249064",
+  "vicinity": "271 Bukit Timah Road, Singapore"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "57 New Upper Changi Rd, #01-1344, Singapore 461057",
+  "geometry": {
+    "location": {
+      "lat": 1.3243911,
+      "lng": 103.9415646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325863330291502,
+        "lng": 103.9430101802915
+      },
+      "southwest": {
+        "lat": 1.323165369708498,
+        "lng": 103.9403122197085
+      }
+    }
+  },
+  "name": "48 Vegetables and Fruits - Bedok 57",
+  "place_id": "ChIJoyZfhSQj2jERHvSqg9-Fy_o",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18071685124787467294",
+  "vicinity": "57 New Upper Changi Road, #01-1344"
+}

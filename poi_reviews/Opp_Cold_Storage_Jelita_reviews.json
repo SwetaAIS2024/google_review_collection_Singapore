@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31827,
+      "lng": 103.785591
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319574980291502,
+        "lng": 103.7869609302915
+      },
+      "southwest": {
+        "lat": 1.316877019708498,
+        "lng": 103.7842629697085
+      }
+    }
+  },
+  "name": "Opp Cold Storage Jelita",
+  "place_id": "ChIJs5cCuXoa2jERo369jnezIFw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Zephyr",
+      "author_url": "https://www.google.com/maps/contrib/105733349431155993049/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUq8ZoYKKEpqVGK4yExG7RMxBRJFoDFmRbBeKAz1CnxxWP63KZ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Huge cold storage, good for grocery shopping",
+      "time": 1639024155,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Allard",
+      "author_url": "https://www.google.com/maps/contrib/101396708171439780300/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjE2exzD6b8RehzOQ3-9QJPNFscQUBl15zdLW7WP4so-th1lBENA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705278013,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6638503176821374627",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

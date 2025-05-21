@@ -1,0 +1,61 @@
+{
+  "formatted_address": "18A Penjuru Rd, Singapore 609150",
+  "geometry": {
+    "location": {
+      "lat": 1.3175683,
+      "lng": 103.7349718
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318908030291502,
+        "lng": 103.7363792302915
+      },
+      "southwest": {
+        "lat": 1.316210069708498,
+        "lng": 103.7336812697085
+      }
+    }
+  },
+  "name": "GXO",
+  "place_id": "ChIJF0vxoK4a2jER72G0t3QI6Ko",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Dito Mulyawadi",
+      "author_url": "https://www.google.com/maps/contrib/114410315103591120827/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVujfCF5Bygv7srF0heqvuK9i4_nJwS-rRmokaNJBheVOPkEmmf=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557716397,
+      "translated": false
+    },
+    {
+      "author_name": "SKV BUILDERS PTE LTD",
+      "author_url": "https://www.google.com/maps/contrib/103383869731000038875/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp0MvJcH1-JkaWfeVWW4VcotfOW1BwD8d2Hb41zykfMtShTcE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733622228,
+      "translated": false
+    },
+    {
+      "author_name": "Tze chain Lim",
+      "author_url": "https://www.google.com/maps/contrib/103601820915009233860/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2RvwTG288NJhv1RMEUNTVZMmDeOFhCxaU77_I3ed6O_yUrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516760262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12315102478435901935",
+  "user_ratings_total": 3,
+  "vicinity": "18A Penjuru Road"
+}

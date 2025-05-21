@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Tampines, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362717,
+      "lng": 103.9460851
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364464980291502,
+        "lng": 103.9469522802915
+      },
+      "southwest": {
+        "lat": 1.361767019708498,
+        "lng": 103.9442543197085
+      }
+    }
+  },
+  "name": "Freshwater Pond",
+  "place_id": "ChIJdVlBPgA92jERNhHnqpOERCs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "🐠🌿A beautiful calm Freshwater Pond along Diversity Trail.\n🍃🦐🍂The quiet embience, void of people and traffic noise, adds a serenity to the entire surrounding.\n🐢🐟🐝Freshwater Ponds are aquatic environment that support a diverse ecosystem including aquatic life and other wildlife.\n🐟🌿Enjoy the tranquil Pond enroute Diversity Trail.",
+      "time": 1746746970,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3117762611809554742",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

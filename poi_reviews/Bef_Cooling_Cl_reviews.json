@@ -1,0 +1,72 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359763,
+      "lng": 103.863609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361119680291502,
+        "lng": 103.8649257302915
+      },
+      "southwest": {
+        "lat": 1.358421719708498,
+        "lng": 103.8622277697085
+      }
+    }
+  },
+  "name": "Bef Cooling Cl",
+  "place_id": "ChIJ6co3SAEX2jERXm4l33DmCwc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jenne Tok",
+      "author_url": "https://www.google.com/maps/contrib/108210602828391841616/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU51TIZ9VKVhbDhhyJYGza9P8a7bEsKARMQOY4zOoJmE2oe9kgdw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530968365,
+      "translated": false
+    },
+    {
+      "author_name": "clara mok",
+      "author_url": "https://www.google.com/maps/contrib/117947332906672566007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv2P063-zSeJdtKY9XCitttxbJzg9e86zaGdoa1hC2lf8_OA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518338901,
+      "translated": false
+    },
+    {
+      "author_name": "Deni Ariyono",
+      "author_url": "https://www.google.com/maps/contrib/105286595014508488044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUShuDfqt5wMnR_KxEprnhj0ZwoYVi71EUNWdt7HmBm9qQcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492810099,
+      "translated": false
+    },
+    {
+      "author_name": "Fajrah Hamed",
+      "author_url": "https://www.google.com/maps/contrib/118125630181745450747/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZyscKfhcABXQmZLerOHu0hH4jycCEq0YZSuN6r7vRl6QOxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486085582,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=507752755463810654",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Yishun Ave 4, Block 653, Singapore 760653",
+  "geometry": {
+    "location": {
+      "lat": 1.423134,
+      "lng": 103.839614
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424544230291502,
+        "lng": 103.8409354802915
+      },
+      "southwest": {
+        "lat": 1.421846269708498,
+        "lng": 103.8382375197085
+      }
+    }
+  },
+  "name": "SingHealthCare",
+  "place_id": "ChIJByBqiIkZ2jERo_kwZ8bg4wc",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=568545120718223779",
+  "vicinity": "Yishun Avenue 4, Block 653"
+}

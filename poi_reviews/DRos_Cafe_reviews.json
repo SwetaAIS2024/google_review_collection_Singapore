@@ -1,0 +1,29 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3431115,
+      "lng": 103.7760782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344759730291502,
+        "lng": 103.7773358302915
+      },
+      "southwest": {
+        "lat": 1.342061769708498,
+        "lng": 103.7746378697085
+      }
+    }
+  },
+  "name": "D'Ros Cafe",
+  "place_id": "ChIJyd5nY4oQ2jERgofL7esy2oE",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9356847164703868802",
+  "vicinity": "170 Upper Bukit Timah Road"
+}

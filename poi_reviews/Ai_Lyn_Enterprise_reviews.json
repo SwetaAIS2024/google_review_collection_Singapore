@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Beach Rd, #01-4861, Singapore 190006",
+  "geometry": {
+    "location": {
+      "lat": 1.3039021,
+      "lng": 103.8641514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305110630291502,
+        "lng": 103.8654633302915
+      },
+      "southwest": {
+        "lat": 1.302412669708498,
+        "lng": 103.8627653697085
+      }
+    }
+  },
+  "name": "Ai Lyn Enterprise",
+  "place_id": "ChIJK7NNabQZ2jERfuGyvU3JvNE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Karen Yong",
+      "author_url": "https://www.google.com/maps/contrib/113022090082313516925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJBY9_LHDskDuR60PnQJr8aQvIJX6kpgnliC6vHU3TnI_Hlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744201094,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15113175785280823678",
+  "user_ratings_total": 1,
+  "vicinity": "6 Beach Road, #01-4861"
+}

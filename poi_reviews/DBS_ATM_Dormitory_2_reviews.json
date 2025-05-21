@@ -1,0 +1,29 @@
+{
+  "formatted_address": "36 Penjuru Pl, Singapore 608560",
+  "geometry": {
+    "location": {
+      "lat": 1.31625,
+      "lng": 103.73223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317598980291502,
+        "lng": 103.7336345302915
+      },
+      "southwest": {
+        "lat": 1.314901019708498,
+        "lng": 103.7309365697085
+      }
+    }
+  },
+  "name": "DBS ATM Dormitory 2",
+  "place_id": "ChIJpRjL_4Eb2jERjH2zIYCFS1c",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6290268089920748940",
+  "vicinity": "36 Penjuru Place"
+}

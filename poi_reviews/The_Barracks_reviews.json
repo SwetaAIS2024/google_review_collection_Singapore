@@ -1,0 +1,27 @@
+{
+  "formatted_address": "80 Linden Dr, Singapore 288718",
+  "geometry": {
+    "location": {
+      "lat": 1.3372875,
+      "lng": 103.8009032
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338567580291502,
+        "lng": 103.8022971802915
+      },
+      "southwest": {
+        "lat": 1.335869619708498,
+        "lng": 103.7995992197085
+      }
+    }
+  },
+  "name": "The Barracks",
+  "place_id": "ChIJo5nvoDcR2jER8ohaNjRL3BQ",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1503159063257188594",
+  "vicinity": "80 Linden Drive, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "58 Stevens Rd, Singapore 257871",
+  "geometry": {
+    "location": {
+      "lat": 1.31633,
+      "lng": 103.827191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317576780291502,
+        "lng": 103.8285122302915
+      },
+      "southwest": {
+        "lat": 1.314878819708498,
+        "lng": 103.8258142697085
+      }
+    }
+  },
+  "name": "Restaurants",
+  "place_id": "ChIJ_1LOOgAZ2jER8pkeMHVubRM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mosu Mia3200",
+      "author_url": "https://www.google.com/maps/contrib/100358567508106852101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyRvsIo2dS9ReYrf1psQwpcPjSbD4qLDg-pOeZAVhZo2K6cd4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739822313,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1399896508779633138",
+  "user_ratings_total": 1,
+  "vicinity": "58 Stevens Road, Singapore"
+}

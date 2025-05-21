@@ -1,0 +1,66 @@
+{
+  "formatted_address": "11 Rivervale Cres, #02 - 02, Singapore 545082",
+  "geometry": {
+    "location": {
+      "lat": 1.3923226,
+      "lng": 103.9044634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393756830291502,
+        "lng": 103.9058386302915
+      },
+      "southwest": {
+        "lat": 1.391058869708498,
+        "lng": 103.9031406697085
+      }
+    }
+  },
+  "name": "Unity Rivervale Mall",
+  "place_id": "ChIJoQIrNAUW2jERMZtGBYaKLV4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Desmond Lim H C",
+      "author_url": "https://www.google.com/maps/contrib/111368461499877144155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWswvv4Qdk8SMYbFNKbnp0HV9w9z2ROs3T7w4hmybUhwNL-IA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "👍👍👍",
+      "time": 1680969302,
+      "translated": false
+    },
+    {
+      "author_name": "freda ee",
+      "author_url": "https://www.google.com/maps/contrib/114090718422127713837/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-QCqhSePB4a4NsjuZi3s6p_qEmSA-VFfusAkqjSqIouzPng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711416799,
+      "translated": false
+    },
+    {
+      "author_name": "mervyn mok",
+      "author_url": "https://www.google.com/maps/contrib/103173560933383360166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1TuFUyJVR44TzCmjyirwAUrqDdCIzWI208W-YRQerqehgTg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522034261,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6786232521735969585",
+  "user_ratings_total": 3,
+  "vicinity": "11 Rivervale Crescent, #02 - 02, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3835595,
+      "lng": 103.9036294
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384884530291502,
+        "lng": 103.9050286802915
+      },
+      "southwest": {
+        "lat": 1.382186569708498,
+        "lng": 103.9023307197085
+      }
+    }
+  },
+  "name": "Blk 117c",
+  "place_id": "ChIJM-YxFhgW2jERXsypooz_kRw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2058707484174568542",
+  "vicinity": "Singapore"
+}

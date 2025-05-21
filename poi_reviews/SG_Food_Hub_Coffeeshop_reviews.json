@@ -1,0 +1,58 @@
+{
+  "formatted_address": "32 Old Toh Tuck Rd, Singapore 597658",
+  "geometry": {
+    "location": {
+      "lat": 1.333728,
+      "lng": 103.7585306
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335172280291502,
+        "lng": 103.7599122302915
+      },
+      "southwest": {
+        "lat": 1.332474319708498,
+        "lng": 103.7572142697085
+      }
+    }
+  },
+  "name": "SG Food Hub Coffeeshop",
+  "place_id": "ChIJ7WfXQzwR2jERKrk1zFwXY-0",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Wye YO",
+      "author_url": "https://www.google.com/maps/contrib/111661282363959756970/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU76tqgpekJUvfM9rQ5ab8mrAjpPxRE7cXqwlaK3Emj1C3TmQ1j=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This store will fried the Hor Fun before making the Gravy, It have the traditionally Wok Hei that most of the Zhi Char cannot have nowadays. Tried the Shen Mian at yesterday, it is not bad for $5.",
+      "time": 1708763985,
+      "translated": false
+    },
+    {
+      "author_name": "Frederick Yip (Phyrico)",
+      "author_url": "https://www.google.com/maps/contrib/112767913799528300787/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJh7IlA1G1NlITIAXSctc6sLR_BQqd4r9Je9mzOyy3KpJtig=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "One of the worst drink stall service,drinks I ever had.\nTea or coffee tasted like coloured water.\nIf you need a drink, just go pre-made.\nPerson serving can’t speak English.",
+      "time": 1699934418,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17105541497013778730",
+  "user_ratings_total": 2,
+  "vicinity": "32 Old Toh Tuck Road, Singapore"
+}

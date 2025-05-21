@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 E Coast Rd, #03-19/20, Singapore 428769",
+  "geometry": {
+    "location": {
+      "lat": 1.3043127,
+      "lng": 103.9040744
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305446480291502,
+        "lng": 103.9056689302915
+      },
+      "southwest": {
+        "lat": 1.302748519708498,
+        "lng": 103.9029709697085
+      }
+    }
+  },
+  "name": "Uber Aesthetic Clinic",
+  "place_id": "ChIJt22eaXIY2jERriyCUZF7rw8",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1130257895561243822",
+  "vicinity": "50 East Coast Road, #03-19/20"
+}

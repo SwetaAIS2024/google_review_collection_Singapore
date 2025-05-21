@@ -1,0 +1,29 @@
+{
+  "formatted_address": "231 Bain St, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.297105,
+      "lng": 103.853681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298480930291502,
+        "lng": 103.8547789802915
+      },
+      "southwest": {
+        "lat": 1.295782969708498,
+        "lng": 103.8520810197085
+      }
+    }
+  },
+  "name": "Shalom Church of Singapore",
+  "place_id": "ChIJdaypH6UZ2jERijlW9Bd19a4",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12607111477637560714",
+  "vicinity": "231 Bain Street"
+}

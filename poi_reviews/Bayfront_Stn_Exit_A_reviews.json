@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2813454,
+      "lng": 103.8588964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282786230291502,
+        "lng": 103.8602632302915
+      },
+      "southwest": {
+        "lat": 1.280088269708498,
+        "lng": 103.8575652697085
+      }
+    }
+  },
+  "name": "Bayfront Stn Exit A",
+  "place_id": "ChIJ4cIMGwUZ2jER6hrXYMlWymM",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "J J",
+      "author_url": "https://www.google.com/maps/contrib/100990702926977832853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcnpgWZpjsKcJ-KXgN6p2cq6t_ptTmc0MUQETkqoQJ5EDwJIb9ug=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Nice place to visit. Enjoyed lot",
+      "time": 1734347085,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Kit",
+      "author_url": "https://www.google.com/maps/contrib/104697568797310385018/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK56RNL0Y9ya9XGV7u5VvyI5_WUg0GW09lPMq7fRVd5-ILTfQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1696074350,
+      "translated": false
+    },
+    {
+      "author_name": "Boby nurdiansyah",
+      "author_url": "https://www.google.com/maps/contrib/104159602203762189001/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsyEVvQE2Cs3U_uxLgaSZigkpCIppz55s6-Kz7a4zOGara0pCs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679598853,
+      "translated": false
+    },
+    {
+      "author_name": "linny ong",
+      "author_url": "https://www.google.com/maps/contrib/107851809650853201154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAVJ198fQWvrnsA4w2KT3YgZ9Y24i8BqArZ3Nkol83HAv_uJo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655292624,
+      "translated": false
+    },
+    {
+      "author_name": "GUAN GUAN",
+      "author_url": "https://www.google.com/maps/contrib/114764692382684498741/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7frChzTMlnDkcwKF5cIuQqOb6ENNm8KjdxEOWqUz-ZvkAtGBr6A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557454936,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7190655177963543274",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "11 Kaki Bukit Rd 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3391417,
+      "lng": 103.9121365
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340544130291502,
+        "lng": 103.9135919302915
+      },
+      "southwest": {
+        "lat": 1.337846169708498,
+        "lng": 103.9108939697085
+      }
+    }
+  },
+  "name": "Yao Ju (肴聚)",
+  "place_id": "ChIJb0ezUAAX2jEROG44jiDF29Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Davin Cher",
+      "author_url": "https://www.google.com/maps/contrib/116350958903121514145/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1RTLHEQoM-U9g_eV_S9fR-4EyDWV5NC_z7V3_YbD45pTMpWsS=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 weeks ago",
+      "text": "An industrial area’s coffeeshop, you can get a really authentic bowl of Mala from here.",
+      "time": 1745313423,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15338069699556044344",
+  "user_ratings_total": 1,
+  "vicinity": "11 Kaki Bukit Road 4"
+}

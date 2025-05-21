@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Road #06-02 Mount Alvernia Medical Centre Block A, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3420964,
+      "lng": 103.8379293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343416530291502,
+        "lng": 103.8392865802915
+      },
+      "southwest": {
+        "lat": 1.340718569708498,
+        "lng": 103.8365886197085
+      }
+    }
+  },
+  "name": "Orchard Heart Specialist",
+  "place_id": "ChIJ0yUHzEYX2jER0fqPmjmSUPk",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17965019689684826833",
+  "vicinity": "820 Thomson Road #06-02 Mount Alvernia Medical Centre Block A"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "70A Punggol Pl, Singapore 828865",
+  "geometry": {
+    "location": {
+      "lat": 1.4042667,
+      "lng": 103.902144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405293730291502,
+        "lng": 103.9033476302915
+      },
+      "southwest": {
+        "lat": 1.402595769708498,
+        "lng": 103.9006496697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Punggol Bus Interchange",
+  "place_id": "ChIJy8cIMeMV2jERU7BAmOmSQV0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Noomery",
+      "author_url": "https://www.google.com/maps/contrib/112434870817764052641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hWFQH__0-nXCcWSbBrTUrdbCrW6s4OHLzjlZ1GZ-0e0W5tjz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "The queue to the atm is very long.",
+      "time": 1484289531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6719813650992902227",
+  "user_ratings_total": 1,
+  "vicinity": "70A Punggol Place"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Queensway, #03-43 Queensway Shopping Centre, Singapore 149053",
+  "geometry": {
+    "location": {
+      "lat": 1.2875972,
+      "lng": 103.8034663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289188430291502,
+        "lng": 103.8048706802915
+      },
+      "southwest": {
+        "lat": 1.286490469708498,
+        "lng": 103.8021727197085
+      }
+    }
+  },
+  "name": "The Music Family",
+  "place_id": "ChIJO7PCJkob2jERWHQPE8jEgkM",
+  "types": [
+    "school",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4864666911105840216",
+  "vicinity": "1 Queensway, #03-43 Queensway Shopping Centre"
+}

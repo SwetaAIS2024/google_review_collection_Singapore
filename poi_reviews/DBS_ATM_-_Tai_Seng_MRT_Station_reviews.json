@@ -1,0 +1,45 @@
+{
+  "formatted_address": "33 Upper Paya Lebar Rd, Singapore 534803",
+  "geometry": {
+    "location": {
+      "lat": 1.3358434,
+      "lng": 103.887661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337227730291502,
+        "lng": 103.8889408802915
+      },
+      "southwest": {
+        "lat": 1.334529769708498,
+        "lng": 103.8862429197085
+      }
+    }
+  },
+  "name": "DBS ATM - Tai Seng MRT Station",
+  "place_id": "ChIJp60sVOEX2jERBY6-XiIeauM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Joseph Lew",
+      "author_url": "https://www.google.com/maps/contrib/105869094666266765728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU82OlQYdxQPnFNkxgrGJTpaCcQYVY96iU7skuWhyqXpqqz6jK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "There is no bank. Waste time",
+      "time": 1561014184,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16386943327108238853",
+  "user_ratings_total": 1,
+  "vicinity": "33 Upper Paya Lebar Road, Singapore"
+}

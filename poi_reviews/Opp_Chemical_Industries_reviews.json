@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304027,
+      "lng": 103.697281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305384280291502,
+        "lng": 103.6985993302915
+      },
+      "southwest": {
+        "lat": 1.302686319708498,
+        "lng": 103.6959013697085
+      }
+    }
+  },
+  "name": "Opp Chemical Industries",
+  "place_id": "ChIJ5cOi1RMF2jERVJJ6F8Xb5nk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8783949762781680212",
+  "vicinity": "Singapore"
+}

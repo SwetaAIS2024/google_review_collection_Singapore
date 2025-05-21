@@ -1,0 +1,57 @@
+{
+  "formatted_address": "399 Yung Sheng Rd, Singapore 610399",
+  "geometry": {
+    "location": {
+      "lat": 1.3346229,
+      "lng": 103.7203423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336011030291502,
+        "lng": 103.7221539802915
+      },
+      "southwest": {
+        "lat": 1.333313069708498,
+        "lng": 103.7194560197085
+      }
+    }
+  },
+  "name": "DBS ATM - Taman Jurong Shopping Centre",
+  "place_id": "ChIJd4jw3ccP2jERQmrcUxsz1mI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Martteen Soosaimanickam",
+      "author_url": "https://www.google.com/maps/contrib/114735006132185597439/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFG6ceDpCnZ044fCmBGYwFD-ZmgBom0UiSXYUX5uZyf8BiXBZ5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good congratulations",
+      "time": 1706768103,
+      "translated": false
+    },
+    {
+      "author_name": "Srinivasan V",
+      "author_url": "https://www.google.com/maps/contrib/104622806208813560245/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpWfuIurDVYHBvBe38kVkrS7z20B7whBSHDQ5zcBRpsNGyMQgrDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "In front of fair price",
+      "time": 1600755827,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7121936053197105730",
+  "user_ratings_total": 2,
+  "vicinity": "399 Yung Sheng Road, Singapore"
+}

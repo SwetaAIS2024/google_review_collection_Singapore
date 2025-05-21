@@ -1,0 +1,28 @@
+{
+  "formatted_address": "200 Jln Sultan, Singapore 199018",
+  "geometry": {
+    "location": {
+      "lat": 1.303828,
+      "lng": 103.8614791
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305073680291502,
+        "lng": 103.8626551802915
+      },
+      "southwest": {
+        "lat": 1.302375719708498,
+        "lng": 103.8599572197085
+      }
+    }
+  },
+  "name": "School of Robotics",
+  "place_id": "ChIJkSg1u7YZ2jERWPlGRDr8Zfs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18115162403351492952",
+  "vicinity": "200 Jalan Sultan"
+}

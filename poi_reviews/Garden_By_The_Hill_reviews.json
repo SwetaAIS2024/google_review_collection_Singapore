@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore 669610",
+  "geometry": {
+    "location": {
+      "lat": 1.3569286,
+      "lng": 103.7621639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358268280291502,
+        "lng": 103.7635553302915
+      },
+      "southwest": {
+        "lat": 1.355570319708498,
+        "lng": 103.7608573697085
+      }
+    }
+  },
+  "name": "Garden By The Hill",
+  "place_id": "ChIJ1whNSjUR2jERyhykQFn0w_s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "godhuli bikel",
+      "author_url": "https://www.google.com/maps/contrib/111192839730938668650/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-Nzut9EfGjlKfD3PEG6UCgcFV9lR2BkCO8DyVMOcMSjRUF4Ys=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686716579,
+      "translated": false
+    },
+    {
+      "author_name": "Gowthami P",
+      "author_url": "https://www.google.com/maps/contrib/103059844631114771040/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbf73xgKzR5mfrwOSxlQ-5VPDdEz4QFE3vDW3IWsxck9jJpqb9QA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1680181304,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18141612388152253642",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

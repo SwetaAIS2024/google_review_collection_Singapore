@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382212,
+      "lng": 103.836044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383579030291502,
+        "lng": 103.8373696302915
+      },
+      "southwest": {
+        "lat": 1.380881069708498,
+        "lng": 103.8346716697085
+      }
+    }
+  },
+  "name": "Aft Lentor Stn Exit 4",
+  "place_id": "ChIJdZcaeMcW2jERY4G5BFlsQXs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Low Soon Kuan",
+      "author_url": "https://www.google.com/maps/contrib/114238281415823050127/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5KwbkXlDwvBw8mKTdyW-OF18DZSqkQN2Kls3mcHjNmYlAMk2NEA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "I like this condo near AMK HDB and YCK garden. The atmosphere is casual and relax and enjoy the greenery. People may drive their own cars or take taxi or take bus. There is a bus stop outside the condo that people can take bus to market or AMK hub easily.",
+      "time": 1545797493,
+      "translated": false
+    },
+    {
+      "author_name": "Rajesh Thiyagarajan",
+      "author_url": "https://www.google.com/maps/contrib/103809420700907452721/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5DLt2dEr97_xyxGq3jFdfNm4FLdPyyjDmLktmZO4Q6Ljjf8Xmdg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723900857,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Kokchuan",
+      "author_url": "https://www.google.com/maps/contrib/103588481120770559652/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITKe1flcjRtLCUYf9_n2vFFdN8bCiSwQV0pAsWEiJo7dKyDQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483874697,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8881499069738484067",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

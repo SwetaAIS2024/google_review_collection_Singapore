@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37526,
+      "lng": 103.90133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376639380291502,
+        "lng": 103.9026493302915
+      },
+      "southwest": {
+        "lat": 1.373941419708498,
+        "lng": 103.8999513697085
+      }
+    }
+  },
+  "name": "Seragoon Sec Sch, Upp Serangoon Rd",
+  "place_id": "ChIJq9uA4DoW2jERYg-IZvAxTWg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Matthew Chia",
+      "author_url": "https://www.google.com/maps/contrib/105744172257980026913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtgVaX3AejT0HKZJlGb5psg5jgIQ0XXVjke_CEQ2TeKoyqu7CG=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nothing much",
+      "time": 1664250670,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7515718261733330786",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

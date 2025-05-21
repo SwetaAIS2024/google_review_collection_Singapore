@@ -1,0 +1,51 @@
+{
+  "formatted_address": "90 Redhill Cl, Singapore 150090",
+  "geometry": {
+    "location": {
+      "lat": 1.2849802,
+      "lng": 103.8187696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286461130291502,
+        "lng": 103.8199593302915
+      },
+      "southwest": {
+        "lat": 1.283763169708498,
+        "lng": 103.8172613697085
+      }
+    }
+  },
+  "name": "Block 90 HDB Redhill",
+  "place_id": "ChIJ0_MXLdQb2jERf6iVQUAhwLI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Just Ego",
+      "author_url": "https://www.google.com/maps/contrib/115487791762227316896/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdGsC4ofWhwHijY__-ORpr5TNHX8ZqUmMlBmbT2_EFuZQtcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502641276,
+      "translated": false
+    },
+    {
+      "author_name": "Garell Chang",
+      "author_url": "https://www.google.com/maps/contrib/117692772615657487945/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCCOJ6LIAP5fFlC2LfCgWh1-sOBs3h4S5CgqSuP-TgYpnqZzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1453555359,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12880331494141569151",
+  "user_ratings_total": 2,
+  "vicinity": "90 Redhill Close, Singapore"
+}

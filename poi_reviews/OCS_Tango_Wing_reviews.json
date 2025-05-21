@@ -1,0 +1,42 @@
+{
+  "formatted_address": "500 Upper Jurong Rd, Singapore 638364",
+  "geometry": {
+    "location": {
+      "lat": 1.3366927,
+      "lng": 103.6821145
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338044630291502,
+        "lng": 103.6836349802915
+      },
+      "southwest": {
+        "lat": 1.335346669708498,
+        "lng": 103.6809370197085
+      }
+    }
+  },
+  "name": "OCS Tango Wing",
+  "place_id": "ChIJw3wSDDQP2jERY9woy3nqOT4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Thomson Lim",
+      "author_url": "https://www.google.com/maps/contrib/100138898142161785373/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqp4Bsw1zwjy9xckiTfNksb37pz0YzyxtDuwHSni8fQ2tuzxzJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742014057,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4483872712844434531",
+  "user_ratings_total": 1,
+  "vicinity": "500 Upper Jurong Road, Singapore"
+}

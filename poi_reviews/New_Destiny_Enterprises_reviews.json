@@ -1,0 +1,30 @@
+{
+  "formatted_address": "233 Pasir Ris Drive 4, Block 233, Singapore 510233",
+  "geometry": {
+    "location": {
+      "lat": 1.374413,
+      "lng": 103.962057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375769380291502,
+        "lng": 103.9633727802915
+      },
+      "southwest": {
+        "lat": 1.373071419708498,
+        "lng": 103.9606748197085
+      }
+    }
+  },
+  "name": "New Destiny Enterprises",
+  "place_id": "ChIJr1bZPE082jERvx6LnuTkrBQ",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1489817247316385471",
+  "vicinity": "233 Pasir Ris Drive 4, Block 233"
+}

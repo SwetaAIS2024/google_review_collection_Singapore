@@ -1,0 +1,69 @@
+{
+  "formatted_address": "1 Woodlands Rd, #01-03 Junction 10, Singapore 677899",
+  "geometry": {
+    "location": {
+      "lat": 1.3803927,
+      "lng": 103.7602067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381834180291502,
+        "lng": 103.7616653302915
+      },
+      "southwest": {
+        "lat": 1.379136219708498,
+        "lng": 103.7589673697085
+      }
+    }
+  },
+  "name": "Otter Pizza @ Junction 10",
+  "place_id": "ChIJLeKepXkR2jER8MEu0XXdQL0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "cri hidh",
+      "author_url": "https://www.google.com/maps/contrib/111311091168733168905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhAVYGYulKIN95D3EOMtz33LVjDT3V3_ltPIPtOLiAQokFXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Good pizza. I ordered beef and pineapple pizza and potato wedges. So yummy and 10 min waiting time",
+      "time": 1739699822,
+      "translated": false
+    },
+    {
+      "author_name": "echidna tc",
+      "author_url": "https://www.google.com/maps/contrib/101375184853177609950/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBFkmUhY_9jYZJ5ZHJfdgdCLgQrOw6QBxVxAfRG92deA62kA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great pizzas. Tasty and nice toppings",
+      "time": 1740674873,
+      "translated": false
+    },
+    {
+      "author_name": "MINGZHEN SHAO",
+      "author_url": "https://www.google.com/maps/contrib/107575425237742770231/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR_V1URmNM2cWiib1qFykyhNgAJynRTdfp0U_gqKJfiKxLDg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Good!Delicious!Lots of cheese",
+      "time": 1720067486,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13637143169768276464",
+  "user_ratings_total": 3,
+  "vicinity": "1 Woodlands Road, #01-03 Junction 10, Singapore"
+}

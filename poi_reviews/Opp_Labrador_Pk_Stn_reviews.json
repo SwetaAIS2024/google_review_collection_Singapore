@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27334,
+      "lng": 103.80059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274656830291502,
+        "lng": 103.8019232802915
+      },
+      "southwest": {
+        "lat": 1.271958869708498,
+        "lng": 103.7992253197085
+      }
+    }
+  },
+  "name": "Opp Labrador Pk Stn",
+  "place_id": "ChIJpZGb8MAb2jERWfiw-RPyWuw",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ng Choon Fai",
+      "author_url": "https://www.google.com/maps/contrib/109144417296108363706/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0VixPnL6o0adO9n0Wr_ZARY78z9mo6IfIcwM2qosgiNCTUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733125216,
+      "translated": false
+    },
+    {
+      "author_name": "Feng Yi Ting",
+      "author_url": "https://www.google.com/maps/contrib/116427589628322250372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWALHA_Q8L77Nw3AFxz_rnBMfSRvPE37IAO370MMalOkukc28PN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510884170,
+      "translated": false
+    },
+    {
+      "author_name": "Islam Rakib",
+      "author_url": "https://www.google.com/maps/contrib/112428549645002450009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNa08rYesDAXzrAQYeNkxDOoitf3CxFL-4Ej-qiY3YMrTzuTUT=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503831025,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17031191108462377049",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

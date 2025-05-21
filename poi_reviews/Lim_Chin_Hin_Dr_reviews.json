@@ -1,0 +1,29 @@
+{
+  "formatted_address": "117 Commonwealth Dr, Singapore 140117",
+  "geometry": {
+    "location": {
+      "lat": 1.3066421,
+      "lng": 103.8002379
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308288830291502,
+        "lng": 103.8016158802915
+      },
+      "southwest": {
+        "lat": 1.305590869708498,
+        "lng": 103.7989179197085
+      }
+    }
+  },
+  "name": "Lim Chin Hin Dr",
+  "place_id": "ChIJ245TuT8a2jEROMwCrLlf9YA",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9292438657208339512",
+  "vicinity": "117 Commonwealth Drive"
+}

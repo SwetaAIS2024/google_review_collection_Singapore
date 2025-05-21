@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306392,
+      "lng": 103.739494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307780730291502,
+        "lng": 103.7408123802915
+      },
+      "southwest": {
+        "lat": 1.305082769708498,
+        "lng": 103.7381144197085
+      }
+    }
+  },
+  "name": "Clp Interchange",
+  "place_id": "ChIJU9B0ZMga2jERX1F3tWRHHn8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PATRICK BAKAR",
+      "author_url": "https://www.google.com/maps/contrib/113686964355983862835/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSnuWxx0nur96SccGUm8Db2u-kVhhLmdVB2MdHAcr6NDtX_Iy0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506259860,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9159837189984964959",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.419493,
+      "lng": 103.702209
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420832980291502,
+        "lng": 103.7035769302915
+      },
+      "southwest": {
+        "lat": 1.418135019708498,
+        "lng": 103.7008789697085
+      }
+    }
+  },
+  "name": "B19 Lim Chu Kang Rd",
+  "place_id": "ChIJo-Q28MAN2jEReR5e4OTEEts",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "MAMIL SG",
+      "author_url": "https://www.google.com/maps/contrib/110512629881263876752/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJAJ9IdvcoDAyYOXLyq4-bTsDjzWfe-30hyI_BGJjaggNJMVPm=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Loose sand around here. Be careful bikers. Can take you out without notice... 😨",
+      "time": 1484477752,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15785896131182861945",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

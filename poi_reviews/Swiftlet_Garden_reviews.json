@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Neo Tiew Lane 2, Singapore 718813",
+  "geometry": {
+    "location": {
+      "lat": 1.4183972,
+      "lng": 103.722734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419743630291502,
+        "lng": 103.7240824302915
+      },
+      "southwest": {
+        "lat": 1.417045669708498,
+        "lng": 103.7213844697085
+      }
+    }
+  },
+  "name": "Swiftlet Garden",
+  "place_id": "ChIJXQVUjfIN2jERjV-Vim07NHM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8301325354813185933",
+  "vicinity": "Neo Tiew Lane 2"
+}

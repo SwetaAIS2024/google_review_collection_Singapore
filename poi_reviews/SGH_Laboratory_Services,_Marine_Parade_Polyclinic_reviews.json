@@ -1,0 +1,30 @@
+{
+  "formatted_address": "80 Marine Parade Central, Singapore 440080",
+  "geometry": {
+    "location": {
+      "lat": 1.3025308,
+      "lng": 103.9077225
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303813980291502,
+        "lng": 103.9089775302915
+      },
+      "southwest": {
+        "lat": 1.301116019708498,
+        "lng": 103.9062795697085
+      }
+    }
+  },
+  "name": "SGH Laboratory Services, Marine Parade Polyclinic",
+  "place_id": "ChIJ32pAW3EY2jERgh34hoqbkiY",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2779454939313216898",
+  "vicinity": "80 Marine Parade Central"
+}

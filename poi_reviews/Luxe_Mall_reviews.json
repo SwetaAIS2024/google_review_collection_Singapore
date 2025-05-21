@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 000000",
+  "geometry": {
+    "location": {
+      "lat": 1.2798906,
+      "lng": 103.854546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281451380291502,
+        "lng": 103.8557319802915
+      },
+      "southwest": {
+        "lat": 1.278753419708498,
+        "lng": 103.8530340197085
+      }
+    }
+  },
+  "name": "Luxe Mall",
+  "place_id": "ChIJl-F2TR8Z2jER47tQRVbi1oU",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9644144512218479587",
+  "vicinity": "Singapore"
+}

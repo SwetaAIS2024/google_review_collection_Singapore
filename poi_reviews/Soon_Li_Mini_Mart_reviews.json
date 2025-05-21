@@ -1,0 +1,30 @@
+{
+  "formatted_address": "280 Sims Ave, Singapore 387515",
+  "geometry": {
+    "location": {
+      "lat": 1.3151063,
+      "lng": 103.8835666
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316535430291502,
+        "lng": 103.8849031802915
+      },
+      "southwest": {
+        "lat": 1.313837469708498,
+        "lng": 103.8822052197085
+      }
+    }
+  },
+  "name": "Soon Li Mini Mart",
+  "place_id": "ChIJQyBADjsY2jERQrFLgotRQLM",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12916413390926885186",
+  "vicinity": "280 Sims Avenue"
+}

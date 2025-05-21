@@ -1,0 +1,28 @@
+{
+  "formatted_address": "The Chinese High School Clock Tower Building, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.327672,
+      "lng": 103.802569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329051030291502,
+        "lng": 103.8040516802915
+      },
+      "southwest": {
+        "lat": 1.326353069708498,
+        "lng": 103.8013537197085
+      }
+    }
+  },
+  "name": "HCI Music Room",
+  "place_id": "ChIJ27kow6wR2jERd8ythK_P5Is",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10080410218714221687",
+  "vicinity": "The Chinese High School Clock Tower Building"
+}

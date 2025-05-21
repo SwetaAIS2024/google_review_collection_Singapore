@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Orchard Turn, Singapore 238801",
+  "geometry": {
+    "location": {
+      "lat": 1.3039288,
+      "lng": 103.8319512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304991130291502,
+        "lng": 103.8333423802915
+      },
+      "southwest": {
+        "lat": 1.302293169708498,
+        "lng": 103.8306444197085
+      }
+    }
+  },
+  "name": "Fei Siong",
+  "place_id": "ChIJHXFAbZIZ2jERUOrXfZRU988",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joyce K",
+      "author_url": "https://www.google.com/maps/contrib/112217300567637910442/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGO3YRG1y0c4NGB2qFfSR-JncHMYcxkdMnyMZGXcEg8WXpyv7iKg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637584202,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14985539281841810000",
+  "user_ratings_total": 1,
+  "vicinity": "2 Orchard Turn"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "46 Dido St, Singapore 459485",
+  "geometry": {
+    "location": {
+      "lat": 1.3207422,
+      "lng": 103.9260557
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322076030291502,
+        "lng": 103.9273696802915
+      },
+      "southwest": {
+        "lat": 1.319378069708498,
+        "lng": 103.9246717197085
+      }
+    }
+  },
+  "name": "Language Loft Pte Ltd",
+  "place_id": "ChIJ3QG94rEi2jER0LFkh7P3Il4",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6783256339216118224",
+  "vicinity": "46 Dido Street"
+}

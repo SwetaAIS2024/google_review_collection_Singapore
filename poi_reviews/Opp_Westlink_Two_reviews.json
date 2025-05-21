@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297703,
+      "lng": 103.633034
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299067430291502,
+        "lng": 103.6343472302915
+      },
+      "southwest": {
+        "lat": 1.296369469708498,
+        "lng": 103.6316492697085
+      }
+    }
+  },
+  "name": "Opp Westlink Two",
+  "place_id": "ChIJlZcrrHkG2jERjE3XDM6PHKs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Raja sekar",
+      "author_url": "https://www.google.com/maps/contrib/114702404372707679726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWEiIAjsE4TVcneYnJznLZhJyiyOvBAtWrmY9tvvRVME6euEw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "New bus stop near West link Two",
+      "time": 1531901320,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12329887994975047052",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

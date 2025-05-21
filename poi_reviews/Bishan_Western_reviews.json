@@ -1,0 +1,46 @@
+{
+  "formatted_address": "151 Bishan St.11, #01- 195 Block 151, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.3453546,
+      "lng": 103.8557362
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346595680291502,
+        "lng": 103.8571485802915
+      },
+      "southwest": {
+        "lat": 1.343897719708498,
+        "lng": 103.8544506197085
+      }
+    }
+  },
+  "name": "Bishan Western",
+  "place_id": "ChIJDw35KAAX2jERKd9IpCE5d9c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wilson Tay",
+      "author_url": "https://www.google.com/maps/contrib/115210231031034235817/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL36G6CSM9IpP6xziRp_kvAFc-JRxV_4atcgM7aMCeEunKr3Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Delicious and very reasonable price.",
+      "time": 1734426530,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15525941057036017449",
+  "user_ratings_total": 1,
+  "vicinity": "151 Bishan Street 11, #01- 195 Block 151, Singapore"
+}

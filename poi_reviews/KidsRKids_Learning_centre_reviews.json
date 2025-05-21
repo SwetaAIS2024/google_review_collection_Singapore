@@ -1,0 +1,42 @@
+{
+  "formatted_address": "393 Tampines Ave 7, #01-251 Block 393, Singapore 520393",
+  "geometry": {
+    "location": {
+      "lat": 1.3552794,
+      "lng": 103.9565028
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356727130291502,
+        "lng": 103.9578519302915
+      },
+      "southwest": {
+        "lat": 1.354029169708498,
+        "lng": 103.9551539697085
+      }
+    }
+  },
+  "name": "KidsRKids Learning centre",
+  "place_id": "ChIJkwYI1EM92jERdAeGddzix_0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Santhana Pandi",
+      "author_url": "https://www.google.com/maps/contrib/101561835999035002178/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4UgPEa_OFHlFdlRZcvPNn2db6W72UwfperMOVEmlyPtBdDfrv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1746624879,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18286834248453588852",
+  "user_ratings_total": 1,
+  "vicinity": "393 Tampines Avenue 7, #01-251 Block 393"
+}

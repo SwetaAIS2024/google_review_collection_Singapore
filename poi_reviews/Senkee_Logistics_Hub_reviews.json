@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301693,
+      "lng": 103.748444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303090330291502,
+        "lng": 103.7497727302915
+      },
+      "southwest": {
+        "lat": 1.300392369708498,
+        "lng": 103.7470747697085
+      }
+    }
+  },
+  "name": "Senkee Logistics Hub",
+  "place_id": "ChIJ-2CLpcMa2jERB27j91N0l_E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arman Roki",
+      "author_url": "https://www.google.com/maps/contrib/105997552728755401465/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLx6d9-SG4qP0c3PoEtKCsv6rYfDaXLrtT5zA9PVUB8Z1lufU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Helpful",
+      "time": 1483019083,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17408510788613926407",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

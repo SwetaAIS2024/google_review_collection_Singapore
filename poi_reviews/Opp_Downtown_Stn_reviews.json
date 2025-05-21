@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.278794,
+      "lng": 103.852959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280153880291502,
+        "lng": 103.8542898802915
+      },
+      "southwest": {
+        "lat": 1.277455919708498,
+        "lng": 103.8515919197085
+      }
+    }
+  },
+  "name": "Opp Downtown Stn",
+  "place_id": "ChIJhdUvzxEZ2jERpazgmCiZA9M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15205165166575529125",
+  "vicinity": "Singapore"
+}

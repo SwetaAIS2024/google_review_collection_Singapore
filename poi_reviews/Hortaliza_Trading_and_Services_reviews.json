@@ -1,0 +1,58 @@
+{
+  "formatted_address": "304 Orchard Rd, #03-82/84 Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.30436,
+      "lng": 103.833751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305638980291502,
+        "lng": 103.8350552802915
+      },
+      "southwest": {
+        "lat": 1.302941019708498,
+        "lng": 103.8323573197085
+      }
+    }
+  },
+  "name": "Hortaliza Trading & Services",
+  "place_id": "ChIJHXFAbZIZ2jERCKKMDXd5aBI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Thaddaeus Kwok",
+      "author_url": "https://www.google.com/maps/contrib/101855097094224507881/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXwu_eTT60tjPFZiAJbliObKglHl5iIir2cgRaMzpKopafxObN=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "A convenience store? They have snacks, toiletries, phone cards etc. The Uncle is very friendly.",
+      "time": 1559139290,
+      "translated": false
+    },
+    {
+      "author_name": "Pots ala Little Red Dot",
+      "author_url": "https://www.google.com/maps/contrib/106890907689513755450/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUROasJAQbAeCDeFX8iHLSk38CBh3z-uc1oPzF98OX8CS7UJ2meYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Fast delivery. All goods are nicely packed and have long expiration date. Will definitely purchased again. Thank you.",
+      "time": 1623923895,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1326443642496000520",
+  "user_ratings_total": 2,
+  "vicinity": "304 Orchard Road, #03-82/84 Lucky Plaza"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Braddell Underpass, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3436836,
+      "lng": 103.8602356
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345002680291502,
+        "lng": 103.8615854802915
+      },
+      "southwest": {
+        "lat": 1.342304719708498,
+        "lng": 103.8588875197085
+      }
+    }
+  },
+  "name": "Laut Lepas Singapura",
+  "place_id": "ChIJaSGsdRYX2jERXW9eWfuQuRI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "MH Tham",
+      "author_url": "https://www.google.com/maps/contrib/112376174358198242550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ4tOLbvkkJYRe2LZw4PmTrCsbezMPVke50H01b6T0gSd095fp=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "If you happen to miss the entrance to Upper Serangoon Road from Braddell Flyover, you can take this little-known side road to loop back to Braddell Road without having to make a major U-turn.",
+      "time": 1747546957,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1349268972584726365",
+  "user_ratings_total": 1,
+  "vicinity": "Braddell Underpass"
+}

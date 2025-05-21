@@ -1,0 +1,68 @@
+{
+  "formatted_address": "231 Bain St, #02-45, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2968097,
+      "lng": 103.8538795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298409230291502,
+        "lng": 103.8551700302915
+      },
+      "southwest": {
+        "lat": 1.295711269708498,
+        "lng": 103.8524720697085
+      }
+    }
+  },
+  "name": "Si Bao Zhai Arts Gallery",
+  "place_id": "ChIJPaWdBKUZ2jERWUrSnleiLzg",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Han Seah Sim",
+      "author_url": "https://www.google.com/maps/contrib/111577851866721544298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvoWQtz1uz05OwAWLarFWJv3L88h2pZDHVTtFiDbKJ_xH_XNse=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "One stop shop for all your calligraphy needs. Highly recommend",
+      "time": 1743823528,
+      "translated": false
+    },
+    {
+      "author_name": "Rinzin Dolkar",
+      "author_url": "https://www.google.com/maps/contrib/106671280702509003139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmBd80ZDTaEQJnLZV5eU-fReLT9jayO0g61ChStrUxxykWKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "An elderly lady doesn't seems willing to serve. Bad service and limited items.",
+      "time": 1735374935,
+      "translated": false
+    },
+    {
+      "author_name": "Chay Foongying",
+      "author_url": "https://www.google.com/maps/contrib/117844323537666424877/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVZHX8OnvV08lYjquYXoWr6VlGdzB1CwSdb7n3A2GvE9Frpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good",
+      "time": 1651731575,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4048633087239801433",
+  "user_ratings_total": 3,
+  "vicinity": "231 Bain Street, #02-45, Singapore"
+}

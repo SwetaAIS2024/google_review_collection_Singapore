@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Anson Road, #15-14, International Plaza, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.2756709,
+      "lng": 103.8455852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276844230291502,
+        "lng": 103.8470922802915
+      },
+      "southwest": {
+        "lat": 1.274146269708498,
+        "lng": 103.8443943197085
+      }
+    }
+  },
+  "name": "PLMCC",
+  "place_id": "ChIJozFFRRMZ2jERpVdKph1u0D0",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4454181105092417445",
+  "vicinity": "10 Anson Road, #15-14, International Plaza"
+}

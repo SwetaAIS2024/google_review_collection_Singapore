@@ -1,0 +1,29 @@
+{
+  "formatted_address": "476 Upper Serangoon View, #02-18 Ntuc Hougang Capeview, Singapore 530476",
+  "geometry": {
+    "location": {
+      "lat": 1.3771313,
+      "lng": 103.9035866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378398830291502,
+        "lng": 103.9048787302915
+      },
+      "southwest": {
+        "lat": 1.375700869708498,
+        "lng": 103.9021807697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Hougang Capeview",
+  "place_id": "ChIJp59gccYX2jERBxIEYbdl4zU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3883059142004576775",
+  "vicinity": "476 Upper Serangoon View, #02-18 Ntuc Hougang Capeview"
+}

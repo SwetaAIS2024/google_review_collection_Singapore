@@ -1,0 +1,57 @@
+{
+  "formatted_address": "820 Thomson Rd, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3421475,
+      "lng": 103.8381523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343444880291502,
+        "lng": 103.8395028802915
+      },
+      "southwest": {
+        "lat": 1.340746919708498,
+        "lng": 103.8368049197085
+      }
+    }
+  },
+  "name": "Medical Centre A",
+  "place_id": "ChIJTe3OcQAX2jERNkMwBpy1lQU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Cheong Yew Ng",
+      "author_url": "https://www.google.com/maps/contrib/105539408712371132699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhgOCJGeVD6OylVnVJR-MCQNhoL92hhQl4SV4jFsVTR3Jog_JrUw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "One of the medical centres located within Mount Alvernia Hospital, beside the 24 Hr Urgent Care Centre.",
+      "time": 1715438414,
+      "translated": false
+    },
+    {
+      "author_name": "Endah Ayuningtyas",
+      "author_url": "https://www.google.com/maps/contrib/101360607548978313348/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMbi3jTIQWaacl-uCiOzxNYep-C2VSgMKjdZSPknJl53FuXbQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "9 months ago",
+      "text": "very long Q, very slow service, I came at 11.20am and got scan at 1pm. I saw several people get angry",
+      "time": 1722924488,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=402427423442879286",
+  "user_ratings_total": 2,
+  "vicinity": "820 Thomson Road, Singapore"
+}

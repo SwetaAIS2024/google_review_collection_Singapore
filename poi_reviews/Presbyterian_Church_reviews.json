@@ -1,0 +1,29 @@
+{
+  "formatted_address": "152 W Coast Rd, Singapore 127370",
+  "geometry": {
+    "location": {
+      "lat": 1.30275,
+      "lng": 103.765838
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304024480291502,
+        "lng": 103.7670277802915
+      },
+      "southwest": {
+        "lat": 1.301326519708498,
+        "lng": 103.7643298197085
+      }
+    }
+  },
+  "name": "Presbyterian Church",
+  "place_id": "ChIJYeOgkPEa2jERcbrmxxVYplc",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6315832378005043825",
+  "vicinity": "152 West Coast Road, Singapore"
+}

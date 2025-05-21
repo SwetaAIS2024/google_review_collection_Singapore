@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321276,
+      "lng": 103.743408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322623480291502,
+        "lng": 103.7447833302915
+      },
+      "southwest": {
+        "lat": 1.319925519708498,
+        "lng": 103.7420853697085
+      }
+    }
+  },
+  "name": "Bef Blk 39",
+  "place_id": "ChIJ9WFTNaQa2jER-v_InvJG_vI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ashok Ashok",
+      "author_url": "https://www.google.com/maps/contrib/111406566784531003214/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ66hw6Q2Z7IYpwqdDeRSjgllz6mUUWhSLtdgmXUXnwU2-tw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719931000,
+      "translated": false
+    },
+    {
+      "author_name": "Mathavan Rajendran",
+      "author_url": "https://www.google.com/maps/contrib/117420344054885247532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9HliECOsTr57PbMFomEAGHLSV1vn859nxavtO62P6-n9dxWkq=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688836228,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17509510409123069946",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

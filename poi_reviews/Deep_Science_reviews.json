@@ -1,0 +1,31 @@
+{
+  "formatted_address": "32F Tuas Ave 11, PLATINUM@PIONEER, Singapore 636855",
+  "geometry": {
+    "location": {
+      "lat": 1.3242188,
+      "lng": 103.6436493
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325351630291502,
+        "lng": 103.6447916802915
+      },
+      "southwest": {
+        "lat": 1.322653669708498,
+        "lng": 103.6420937197085
+      }
+    }
+  },
+  "name": "Deep Science",
+  "place_id": "ChIJ2Xjv8TEF2jERUyMxZ8SYtQk",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=699633286438265683",
+  "vicinity": "32F Tuas Avenue 11, PLATINUM@PIONEER"
+}

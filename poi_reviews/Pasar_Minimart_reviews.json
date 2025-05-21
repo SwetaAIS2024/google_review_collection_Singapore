@@ -1,0 +1,30 @@
+{
+  "formatted_address": "608 Ang Mo Kio Ave 5, Block 608, Singapore 560608",
+  "geometry": {
+    "location": {
+      "lat": 1.3786975,
+      "lng": 103.8369648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380154580291502,
+        "lng": 103.8382332802915
+      },
+      "southwest": {
+        "lat": 1.377456619708498,
+        "lng": 103.8355353197085
+      }
+    }
+  },
+  "name": "Pasar Minimart",
+  "place_id": "ChIJ83GfmsYW2jERvhox6GP_2r4",
+  "types": [
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13752585216691608254",
+  "vicinity": "608 Ang Mo Kio Avenue 5, Block 608, Singapore"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "55 Kim Chuan Dr, Singapore 537098",
+  "geometry": {
+    "location": {
+      "lat": 1.3398994,
+      "lng": 103.8919475
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341189480291502,
+        "lng": 103.8932587802915
+      },
+      "southwest": {
+        "lat": 1.338491519708498,
+        "lng": 103.8905608197085
+      }
+    }
+  },
+  "name": "Dharsha Indian Food",
+  "place_id": "ChIJs-zYZPMX2jERvamx2eShIXg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "David Lim",
+      "author_url": "https://www.google.com/maps/contrib/110220663842563939551/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnjgI8-SsvRjZsQO5hByr_8lNZz5ilIjOT64TNlEb9CXa3423S=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Seems like a branch of the Dharsha Indian Food at Hougang.. or its competition? Anyway, good to have Indian Food at Kim Chuan Drive too. Food looks good and the staff were friendly.. curry gravy smells very delicious 😋",
+      "time": 1662442011,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Eng",
+      "author_url": "https://www.google.com/maps/contrib/112244911290965003801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmnL29ybYUXvUDEUR2pIZwV8YhFLadoaE-CTDx8kb0JW48S7Mv=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Wife recommended me to this Prata shop near her workplace. Indeed Prata is crispy. Curry can be improved further.",
+      "time": 1690850788,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8656377963059718589",
+  "user_ratings_total": 2,
+  "vicinity": "55 Kim Chuan Drive"
+}

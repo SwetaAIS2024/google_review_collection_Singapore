@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3064109,
+      "lng": 103.9166975
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307764180291502,
+        "lng": 103.9180679802915
+      },
+      "southwest": {
+        "lat": 1.305066219708498,
+        "lng": 103.9153700197085
+      }
+    }
+  },
+  "name": "Opp CHIJ Katong Convent",
+  "place_id": "ChIJXyO6mZ8i2jERqCTyDRgeHP0",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Zoo Keeper",
+      "author_url": "https://www.google.com/maps/contrib/109099302904557748000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7UCsL7XTwZqCqRRJVVuOl3TrlK8FAyd3l8IU7nd2ZA_SWucli=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665526268,
+      "translated": false
+    },
+    {
+      "author_name": "Sofya Narayan",
+      "author_url": "https://www.google.com/maps/contrib/100520638429327730478/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuGjjzoobcEO_HiRYwJ5vhy9jNetqYJDs9Xku3FRDzKad4P3VV=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511687788,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18238485679605687464",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

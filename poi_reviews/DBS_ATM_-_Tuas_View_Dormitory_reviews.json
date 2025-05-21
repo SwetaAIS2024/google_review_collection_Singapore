@@ -1,0 +1,43 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, #70 Tuas Dormitory, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3140821,
+      "lng": 103.6256902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315247680291502,
+        "lng": 103.6271767802915
+      },
+      "southwest": {
+        "lat": 1.312549719708498,
+        "lng": 103.6244788197085
+      }
+    }
+  },
+  "name": "DBS ATM - Tuas View Dormitory",
+  "place_id": "ChIJq6rqDg4G2jEREcEJI2iFrrM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "王小平",
+      "author_url": "https://www.google.com/maps/contrib/115926573853207376240/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjLd5WumPUWRWBlTovdcEl6cYyv3_tOzibIvwU1JrwUCCSGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704635057,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12947432661047689489",
+  "user_ratings_total": 1,
+  "vicinity": "70 Tuas South Avenue 1, #70 Tuas Dormitory, Singapore"
+}

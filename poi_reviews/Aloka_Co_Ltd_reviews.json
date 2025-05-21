@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2643246,
+      "lng": 103.8203062
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265480930291502,
+        "lng": 103.8217285802915
+      },
+      "southwest": {
+        "lat": 1.262782969708498,
+        "lng": 103.8190306197085
+      }
+    }
+  },
+  "name": "Aloka Co Ltd",
+  "place_id": "ChIJVf_IIOMb2jERzF9j9yWYiNo",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15747003385932636108",
+  "vicinity": "1 Maritime Square"
+}

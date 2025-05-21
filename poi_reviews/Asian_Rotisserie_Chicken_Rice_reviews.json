@@ -1,0 +1,46 @@
+{
+  "formatted_address": "406 Tampines Street 41, Block 406, Singapore 520406",
+  "geometry": {
+    "location": {
+      "lat": 1.3581418,
+      "lng": 103.945919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359473680291502,
+        "lng": 103.9474465302915
+      },
+      "southwest": {
+        "lat": 1.356775719708498,
+        "lng": 103.9447485697085
+      }
+    }
+  },
+  "name": "Asian Rotisserie Chicken Rice",
+  "place_id": "ChIJl_tDNAA92jERy8SCFPJ_cqE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Tsin W61",
+      "author_url": "https://www.google.com/maps/contrib/112246979209348273781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5fBvH1U0jQqk8eYJGcmDFRZR1lB_UlepRQGporkxzpFNDw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "We tries the roasted chicken rice and some side dishes, taste normal but the price is reasonable. The rice does not have chicken rice  taste, it is a normal rice.",
+      "time": 1745016938,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11633501465154340043",
+  "user_ratings_total": 1,
+  "vicinity": "406 Tampines Street 41, Block 406, Singapore"
+}

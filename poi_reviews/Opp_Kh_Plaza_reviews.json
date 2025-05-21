@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Aljuned, Aljunied Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313893,
+      "lng": 103.881897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315243280291502,
+        "lng": 103.8832550302915
+      },
+      "southwest": {
+        "lat": 1.312545319708498,
+        "lng": 103.8805570697085
+      }
+    }
+  },
+  "name": "Opp Kh Plaza",
+  "place_id": "ChIJJWunTzoY2jER01fl7hTxQyA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rainie Green",
+      "author_url": "https://www.google.com/maps/contrib/106666114218032786518/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjEu5cBoV9rfbsE-3txhdKAAApMhpc7gRVd1_2-ez0ENNKQDSt=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Bus 40 and 137",
+      "time": 1556290815,
+      "translated": false
+    },
+    {
+      "author_name": "Sp Rafil",
+      "author_url": "https://www.google.com/maps/contrib/115204273686992886762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXMCUhjSzl1g2ETGErwYSi02ZTeSi3lsM1yJzXowYrLfHMydvU7w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "At aljuned rd",
+      "time": 1507544562,
+      "translated": false
+    },
+    {
+      "author_name": "LITON MON",
+      "author_url": "https://www.google.com/maps/contrib/114018214535668531559/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFqmiM22O_cb3R3eoKYB89vKmehdYT9LJ2dPSZG6XEq8ph74Y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498825702,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2324966904862955475",
+  "user_ratings_total": 3,
+  "vicinity": "Aljuned, Aljunied Road"
+}

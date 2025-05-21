@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325522,
+      "lng": 103.645927
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326885580291502,
+        "lng": 103.6472604802915
+      },
+      "southwest": {
+        "lat": 1.324187619708498,
+        "lng": 103.6445625197085
+      }
+    }
+  },
+  "name": "Garmco",
+  "place_id": "ChIJwf9DTPgF2jERMD8uzR0Ds2o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7688492415382863664",
+  "vicinity": "Singapore"
+}

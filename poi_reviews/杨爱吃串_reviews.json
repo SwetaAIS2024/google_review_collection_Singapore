@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Marine Ter, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3057218,
+      "lng": 103.9155736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307254230291502,
+        "lng": 103.9168983302915
+      },
+      "southwest": {
+        "lat": 1.304556269708498,
+        "lng": 103.9142003697085
+      }
+    }
+  },
+  "name": "杨爱吃串",
+  "place_id": "ChIJKdO6HgAj2jERsQgj4bg2_D0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4466505098123741361",
+  "vicinity": "Marine Terrace"
+}

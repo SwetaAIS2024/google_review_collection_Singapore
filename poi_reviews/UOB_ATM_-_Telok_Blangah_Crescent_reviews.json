@@ -1,0 +1,45 @@
+{
+  "formatted_address": "10 Telok Blangah Cres, #01-K3, Singapore 090010",
+  "geometry": {
+    "location": {
+      "lat": 1.2778529,
+      "lng": 103.8197695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279230780291502,
+        "lng": 103.8212073302915
+      },
+      "southwest": {
+        "lat": 1.276532819708498,
+        "lng": 103.8185093697085
+      }
+    }
+  },
+  "name": "UOB ATM - Telok Blangah Crescent",
+  "place_id": "ChIJ1xZEwpYb2jERfiU5WBv3D98",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Idris Muhammad",
+      "author_url": "https://www.google.com/maps/contrib/110410708766398849723/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7_S2n_FS9VlEuSGB5tWHnDe_ho7UkiUINof-tzV3QeI71P6P-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Near walkway between blk10 and blk12",
+      "time": 1703737694,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16073337291924907390",
+  "user_ratings_total": 1,
+  "vicinity": "10 Telok Blangah Crescent, #01-K3"
+}

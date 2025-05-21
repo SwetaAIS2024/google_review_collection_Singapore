@@ -1,0 +1,30 @@
+{
+  "formatted_address": "15 Wholesale Centre, Singapore 110015",
+  "geometry": {
+    "location": {
+      "lat": 1.2847327,
+      "lng": 103.778455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286159230291502,
+        "lng": 103.7797009802915
+      },
+      "southwest": {
+        "lat": 1.283461269708498,
+        "lng": 103.7770030197085
+      }
+    }
+  },
+  "name": "Chua Eng Poh",
+  "place_id": "ChIJU3lefKkb2jERhM55f3fKNVI",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5923863499464363652",
+  "vicinity": "15 Wholesale Centre"
+}

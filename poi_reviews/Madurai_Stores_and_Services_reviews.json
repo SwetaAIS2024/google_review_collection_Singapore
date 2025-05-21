@@ -1,0 +1,44 @@
+{
+  "formatted_address": "252 Jurong East St 24, #01-111, Yuhua 600252",
+  "geometry": {
+    "location": {
+      "lat": 1.3435811,
+      "lng": 103.7383569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344752980291502,
+        "lng": 103.7399404302915
+      },
+      "southwest": {
+        "lat": 1.342055019708498,
+        "lng": 103.7372424697085
+      }
+    }
+  },
+  "name": "Madurai Stores & Services",
+  "place_id": "ChIJRZQvgBwR2jERIq3TgmV6W_U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sukshma Marine & Construction 08 Pte Ltd",
+      "author_url": "https://www.google.com/maps/contrib/117404908846981739261/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTk0ij-i_-6VuZT2r85in-5Gz6mSWxdhh86OjIZ0tWkJCB1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1597327992,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17679859338578210082",
+  "user_ratings_total": 1,
+  "vicinity": "252 Jurong East Street 24, #01-111, Yuhua"
+}

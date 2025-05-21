@@ -1,0 +1,44 @@
+{
+  "formatted_address": "14D Jln Masjid, Singapore 418935",
+  "geometry": {
+    "location": {
+      "lat": 1.3198037,
+      "lng": 103.9131747
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320874780291502,
+        "lng": 103.9145917302915
+      },
+      "southwest": {
+        "lat": 1.318176819708498,
+        "lng": 103.9118937697085
+      }
+    }
+  },
+  "name": "Pub Water Level Sensor",
+  "place_id": "ChIJg6VmO4gZ2jERD9Q86-wZq3w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "ID M",
+      "author_url": "https://www.google.com/maps/contrib/107018937298589701245/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWUc_zGzWlmAqlzll1n50FSWlmcBA8QkhoqvRV0TLuwN01HYLF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Sensor monitors the water level in the Irrigation canal.",
+      "time": 1743390584,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8983302387070194703",
+  "user_ratings_total": 1,
+  "vicinity": "14D Jalan Masjid, Singapore"
+}

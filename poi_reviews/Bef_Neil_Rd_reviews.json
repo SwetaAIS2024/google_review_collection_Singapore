@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2777626,
+      "lng": 103.8375052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279206330291502,
+        "lng": 103.8389281802915
+      },
+      "southwest": {
+        "lat": 1.276508369708498,
+        "lng": 103.8362302197085
+      }
+    }
+  },
+  "name": "Bef Neil Rd",
+  "place_id": "ChIJW6zmXW4Z2jERZyPga4W5bWE",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "engrdave f",
+      "author_url": "https://www.google.com/maps/contrib/106624370634945503605/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXk8Oj0fPvsmNInBhHuaJe6hJWXLp3Jpn-VlV7GtoJr6pG6IqI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "😘",
+      "time": 1647692454,
+      "translated": false
+    },
+    {
+      "author_name": "Richard",
+      "author_url": "https://www.google.com/maps/contrib/111956485267049009610/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoc92x5fFn3Wzb75Zo40vNB5FolMKXiTEc7YKilVPArqPMdCxN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602414492,
+      "translated": false
+    },
+    {
+      "author_name": "Harsha Gohil",
+      "author_url": "https://www.google.com/maps/contrib/110122424924215277823/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID0R5SpOuBIohQXtleccaP9CPjnrk4YP9trKdBG8RfC_AbJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490609155,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7020471376832111463",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

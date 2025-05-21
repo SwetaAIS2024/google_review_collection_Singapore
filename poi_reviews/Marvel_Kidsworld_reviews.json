@@ -1,0 +1,28 @@
+{
+  "formatted_address": "180 Bedok Reservoir Rd, Singapore 479220",
+  "geometry": {
+    "location": {
+      "lat": 1.3326842,
+      "lng": 103.91526
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333861130291502,
+        "lng": 103.9166936802915
+      },
+      "southwest": {
+        "lat": 1.331163169708498,
+        "lng": 103.9139957197085
+      }
+    }
+  },
+  "name": "Marvel Kidsworld",
+  "place_id": "ChIJMYgSOlY92jERiAaeFmVsRuI",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16304838682368411272",
+  "vicinity": "180 Bedok Reservoir Road"
+}

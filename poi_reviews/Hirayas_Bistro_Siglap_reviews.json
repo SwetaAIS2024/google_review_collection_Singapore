@@ -1,0 +1,31 @@
+{
+  "formatted_address": "899 E Coast Rd, Singapore 459102",
+  "geometry": {
+    "location": {
+      "lat": 1.3128554,
+      "lng": 103.9241205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314099930291502,
+        "lng": 103.9255033302915
+      },
+      "southwest": {
+        "lat": 1.311401969708498,
+        "lng": 103.9228053697085
+      }
+    }
+  },
+  "name": "Hiraya's Bistro Siglap",
+  "place_id": "ChIJsW0bs4Mj2jERHq9KLX6YPwU",
+  "types": [
+    "restaurant",
+    "meal_delivery",
+    "meal_takeaway",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=378188561415581470",
+  "vicinity": "899 East Coast Road"
+}

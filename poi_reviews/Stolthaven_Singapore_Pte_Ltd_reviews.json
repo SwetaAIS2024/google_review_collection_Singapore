@@ -1,0 +1,42 @@
+{
+  "formatted_address": "22 Tembusu Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.273312,
+      "lng": 103.6646016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274751530291502,
+        "lng": 103.6658898302915
+      },
+      "southwest": {
+        "lat": 1.272053569708498,
+        "lng": 103.6631918697085
+      }
+    }
+  },
+  "name": "Stolthaven Singapore Pte Ltd",
+  "place_id": "ChIJpcNFfwAF2jERsRjpQnFucTM",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Randy Wong",
+      "author_url": "https://www.google.com/maps/contrib/104299931951850291385/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmKjD08YjOhwn5rw70FFEQTNj7U_lIxnoqb6Th3eqYLbJN05A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724888815,
+      "translated": false
+    }
+  ],
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3706865401035561137",
+  "user_ratings_total": 1,
+  "vicinity": "22 Tembusu Crescent"
+}

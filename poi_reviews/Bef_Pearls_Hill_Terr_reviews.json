@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2814744,
+      "lng": 103.8408253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282789680291502,
+        "lng": 103.8422095302915
+      },
+      "southwest": {
+        "lat": 1.280091719708498,
+        "lng": 103.8395115697085
+      }
+    }
+  },
+  "name": "Bef Pearl's Hill Terr",
+  "place_id": "ChIJg3FFT3IZ2jERivsLvJCjF8Q",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Jim 8333 7213",
+      "author_url": "https://www.google.com/maps/contrib/104271490168553747818/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh8bpqljRKEtuexRUXTaGHILu5gtIfmli7TPCENk1FD0QgZcA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Pearl's Centre is completed in 1977 and is a 22 storey building, mainly used for office rental and sale. It was closed in 2017 for redevelopment into a mixed development. It is of 3 mins walk from Outram Park MRT station via via New Bridge Rd and Eu Tong Sen St.",
+      "time": 1517636277,
+      "translated": false
+    },
+    {
+      "author_name": "Sherman TBH",
+      "author_url": "https://www.google.com/maps/contrib/113225615342914080738/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4M-3mgNqzKy8VEQHNDPM6pj0nKPG8WOFFTEbpz5r0drgG0x1M=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "The whole building is closed 2017",
+      "time": 1496145410,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14129942197923740554",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

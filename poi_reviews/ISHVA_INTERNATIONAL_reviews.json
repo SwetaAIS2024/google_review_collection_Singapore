@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Yishun Ave 2, #01-1541A Block 778, Singapore 760779",
+  "geometry": {
+    "location": {
+      "lat": 1.4222099,
+      "lng": 103.8332419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423442780291502,
+        "lng": 103.8345956802915
+      },
+      "southwest": {
+        "lat": 1.420744819708498,
+        "lng": 103.8318977197085
+      }
+    }
+  },
+  "name": "ISHVA INTERNATIONAL",
+  "place_id": "ChIJK3xHlHcV2jERfEbZdA9yJYA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "cheryll -",
+      "author_url": "https://www.google.com/maps/contrib/116009990981769418073/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj--jJKik6ilaDSDauYvx0nGDzq18paNZl9irnUaIccBh-A4Q8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Very friendly!",
+      "time": 1747576424,
+      "translated": false
+    },
+    {
+      "author_name": "ks",
+      "author_url": "https://www.google.com/maps/contrib/114843205091072995294/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVePdGRM6pmhUEL9REfUZEsFDEz-K99rI3GQoHS2Qy_aht8JNbS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747576338,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9233912021703542396",
+  "user_ratings_total": 2,
+  "vicinity": "Yishun Avenue 2, #01-1541A Block 778"
+}

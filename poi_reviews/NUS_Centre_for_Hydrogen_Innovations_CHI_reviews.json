@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Engineering Drive 3, #01-05 Blk E8, Singapore 117580",
+  "geometry": {
+    "location": {
+      "lat": 1.2993527,
+      "lng": 103.7725352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300732230291502,
+        "lng": 103.7739553802915
+      },
+      "southwest": {
+        "lat": 1.298034269708498,
+        "lng": 103.7712574197085
+      }
+    }
+  },
+  "name": "NUS Centre for Hydrogen Innovations (CHI)",
+  "place_id": "ChIJgfjcmisb2jERK0QPnBXtrho",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1922734768002122795",
+  "vicinity": "1 Engineering Drive 3, #01-05 Blk E8"
+}

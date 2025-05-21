@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Blk 645 Yishun Street 61, #01-324, Singapore 760645",
+  "geometry": {
+    "location": {
+      "lat": 1.4218846,
+      "lng": 103.8382126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423037830291502,
+        "lng": 103.8394689302915
+      },
+      "southwest": {
+        "lat": 1.420339869708498,
+        "lng": 103.8367709697085
+      }
+    }
+  },
+  "name": "Fresenius Kidney Care Khatib Dialysis Clinic",
+  "place_id": "ChIJp9jskGwU2jERFFMcMLPjiqE",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11640366545638282004",
+  "vicinity": "Blk 645 Yishun Street 61, #01-324"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jurong West Central 2, #01-16C Shopping Centre, Jurong Point, Singapore 648886",
+  "geometry": {
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341443980291502,
+        "lng": 103.7077174802915
+      },
+      "southwest": {
+        "lat": 1.338746019708498,
+        "lng": 103.7050195197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Jurong Point Branch",
+  "place_id": "ChIJccPgVOoP2jERww3bH-SV_Vw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6700676627616697795",
+  "vicinity": "1 Jurong West Central 2, #01-16C Shopping Centre, Jurong Point"
+}

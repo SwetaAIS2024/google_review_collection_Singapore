@@ -1,0 +1,55 @@
+{
+  "formatted_address": "50 Dairy Farm Rd, Singapore 679059",
+  "geometry": {
+    "location": {
+      "lat": 1.3620326,
+      "lng": 103.7766359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363405880291502,
+        "lng": 103.7783030802915
+      },
+      "southwest": {
+        "lat": 1.360707919708498,
+        "lng": 103.7756051197085
+      }
+    }
+  },
+  "name": "Dairy Farm Hut",
+  "place_id": "ChIJs63CBzUR2jER9XYnqksgLRY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "🧢Dairy Farm Hut sits at the junction of Dairy Farm Loop (Lower) Trail and Dairy Farm Loop (Upper) Trail.\n🪖The former is a jungle path running behind Wallace Education Centre at the foothill with gradual ascend to the Bukit Timah Hill Summit, while the latter is the infamous \"Devil's Stairs\", a very steep endless flight of stairs to climb up to the Summit via Rengas Pass.",
+      "time": 1732416869,
+      "translated": false
+    },
+    {
+      "author_name": "Tani Masa",
+      "author_url": "https://www.google.com/maps/contrib/111850255549062063577/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWZ2H2E70rOb4nGjZ-GEMdicQS3oCyNcXprqDbBuE2wqriJAcWEg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "There were many people taking a rest as there were steep slopes and steep stairs leading up to this rest area.",
+      "time": 1740525584,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1597968952135743221",
+  "user_ratings_total": 2,
+  "vicinity": "50 Dairy Farm Road, Singapore"
+}

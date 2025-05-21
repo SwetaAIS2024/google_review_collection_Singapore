@@ -1,0 +1,31 @@
+{
+  "formatted_address": "254 Jurong East St 24, #01-64, Singapore 600254",
+  "geometry": {
+    "location": {
+      "lat": 1.3436236,
+      "lng": 103.7376889
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345046680291502,
+        "lng": 103.7391058302915
+      },
+      "southwest": {
+        "lat": 1.342348719708498,
+        "lng": 103.7364078697085
+      }
+    }
+  },
+  "name": "Wui Chuen Fatt Provision Stall",
+  "place_id": "ChIJZZZoqxkQ2jERRlmj90DDqWg",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7541773734808607046",
+  "vicinity": "254 Jurong East Street 24, #01-64"
+}

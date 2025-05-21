@@ -1,0 +1,44 @@
+{
+  "formatted_address": "#01-24 Blk 416 Eunos, Singapore 400416",
+  "geometry": {
+    "location": {
+      "lat": 1.3178086,
+      "lng": 103.8970625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319073230291502,
+        "lng": 103.8984252802915
+      },
+      "southwest": {
+        "lat": 1.316375269708498,
+        "lng": 103.8957273197085
+      }
+    }
+  },
+  "name": "N & N Cafe",
+  "place_id": "ChIJ1310IhoY2jERAA4F0N8V4XA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Tony K H Tan",
+      "author_url": "https://www.google.com/maps/contrib/100118125224592868969/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSVUY3bZum5-c1pZM2bmv04w1_649UJsDYToitRSW-FnA_u_Leaw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741690262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8133806453019708928",
+  "user_ratings_total": 1,
+  "vicinity": "#01-24 Blk 416 Eunos"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "20 Tembusu Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2745176,
+      "lng": 103.6755787
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275837630291502,
+        "lng": 103.6769492302915
+      },
+      "southwest": {
+        "lat": 1.273139669708498,
+        "lng": 103.6742512697085
+      }
+    }
+  },
+  "name": "novacap",
+  "place_id": "ChIJ1ZvNPlwE2jERxjAJgUdSTl4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6795459354809675974",
+  "vicinity": "20 Tembusu Avenue"
+}

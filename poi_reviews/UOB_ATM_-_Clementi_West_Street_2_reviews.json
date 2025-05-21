@@ -1,0 +1,75 @@
+{
+  "formatted_address": "Clementi West Street 2, #01-256 Blk 727, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3045409,
+      "lng": 103.7641814
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305943930291502,
+        "lng": 103.7655853802915
+      },
+      "southwest": {
+        "lat": 1.303245969708498,
+        "lng": 103.7628874197085
+      }
+    }
+  },
+  "name": "UOB ATM - Clementi West Street 2",
+  "place_id": "ChIJNw9ChO0a2jERofiH9G7Ogsk",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Chandrahas Tanguturi",
+      "author_url": "https://www.google.com/maps/contrib/110268517905325993774/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQRFI2c7JKRjWWgWLFLSRDorlPKuxtlABuJoBdwBtvmfBrm2W8PQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "Good.",
+      "time": 1456726787,
+      "translated": false
+    },
+    {
+      "author_name": "Sofia Ng",
+      "author_url": "https://www.google.com/maps/contrib/118143358903582726437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1VdcG_qu5jqozgE4KueD4MswAXE_YbTxgB58Wb-sfKjfV9rUT=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510229581,
+      "translated": false
+    },
+    {
+      "author_name": "RAMDUM 101",
+      "author_url": "https://www.google.com/maps/contrib/107089285696905923865/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULXe1OSny8rwbtkNUSqIxmjozv6OQSdt_4AsiWplJ3y58UtUEceA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1405682934,
+      "translated": false
+    },
+    {
+      "author_name": "Junaidi Setion",
+      "author_url": "https://www.google.com/maps/contrib/107267856766181117656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmlr_8CJfzPEeaoIs-ZxNP87RJz0PuELAlqQIv38ykWgxgvw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "14 years ago",
+      "text": "",
+      "time": 1304870288,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14520395124540176545",
+  "user_ratings_total": 4,
+  "vicinity": "Clementi West Street 2, #01-256 Blk 727"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Pasir Panjang Rd, #01-11, Singapore 118479",
+  "geometry": {
+    "location": {
+      "lat": 1.2723188,
+      "lng": 103.8013908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273846180291502,
+        "lng": 103.8027790302915
+      },
+      "southwest": {
+        "lat": 1.271148219708498,
+        "lng": 103.8000810697085
+      }
+    }
+  },
+  "name": "Get Some @ Labrador",
+  "place_id": "ChIJER7DMgAb2jERFKMM23yw8SA",
+  "types": [
+    "bar",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2373872528898433812",
+  "vicinity": "1 Pasir Panjang Road, #01-11, Singapore"
+}

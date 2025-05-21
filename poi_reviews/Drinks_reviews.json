@@ -1,0 +1,28 @@
+{
+  "formatted_address": "259 Bukit Panjang Ring Rd, Singapore 670259",
+  "geometry": {
+    "location": {
+      "lat": 1.3772124,
+      "lng": 103.7728213
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378436430291502,
+        "lng": 103.7740891802915
+      },
+      "southwest": {
+        "lat": 1.375738469708498,
+        "lng": 103.7713912197085
+      }
+    }
+  },
+  "name": "Drinks",
+  "place_id": "ChIJByKUI6cR2jERl17OLqPoekk",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5294800099490029207",
+  "vicinity": "259 Bukit Panjang Ring Road, Singapore"
+}

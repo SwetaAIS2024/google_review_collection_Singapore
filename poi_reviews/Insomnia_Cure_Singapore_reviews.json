@@ -1,0 +1,29 @@
+{
+  "formatted_address": "468 Crawford Ln, Block 466, Singapore 190468",
+  "geometry": {
+    "location": {
+      "lat": 1.3051837,
+      "lng": 103.8625236
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306489930291502,
+        "lng": 103.8638253302915
+      },
+      "southwest": {
+        "lat": 1.303791969708498,
+        "lng": 103.8611273697085
+      }
+    }
+  },
+  "name": "Insomnia Cure Singapore",
+  "place_id": "ChIJNQc_KbQZ2jERdliBJTFOeTY",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3925254523219695734",
+  "vicinity": "468 Crawford Lane, Block 466"
+}

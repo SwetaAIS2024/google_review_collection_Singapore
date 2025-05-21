@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279499,
+      "lng": 103.785492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280855780291502,
+        "lng": 103.7868621802915
+      },
+      "southwest": {
+        "lat": 1.278157819708498,
+        "lng": 103.7841642197085
+      }
+    }
+  },
+  "name": "Aft Sth Buona Vista Rd",
+  "place_id": "ChIJSxhIXaUb2jER7kQeCn8prn8",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "P J",
+      "author_url": "https://www.google.com/maps/contrib/115111440366029649280/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdz5HfaJNd8wvkipLFVs7PovIQfzED1V8RvotYxhTKLPagvg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Wish they didn't move the position of the station every 2 months. Great cover from reason. The high tier seating is sure to protect you even from the heaviest Sumatra squalls. Not sure about protection from the North East monsoon though.",
+      "time": 1531509803,
+      "translated": false
+    },
+    {
+      "author_name": "Catherine Wang",
+      "author_url": "https://www.google.com/maps/contrib/104369434884499415610/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNkcIVoIxbm6YOttcHbVBuJrfuxSkl5vaWY61CWwZ27QnhIo1C=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657021154,
+      "translated": false
+    },
+    {
+      "author_name": "Chua Frankie",
+      "author_url": "https://www.google.com/maps/contrib/118017933297922297299/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDmDV9wAHl5DTwBN0hsgwiPKupdxcYmmPQlp_n7K7QV9DTLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558585263,
+      "translated": false
+    },
+    {
+      "author_name": "evelyn quek",
+      "author_url": "https://www.google.com/maps/contrib/117901954245848356201/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6S4gbNDUz8KLRxAdr4Rnb7nJwA3sblJYivhJvA93Bn_eQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1494196973,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9200336714371843310",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

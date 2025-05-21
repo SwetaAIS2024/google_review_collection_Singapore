@@ -1,0 +1,27 @@
+{
+  "formatted_address": "6 Beechwood Grove, Singapore 738277",
+  "geometry": {
+    "location": {
+      "lat": 1.4269337,
+      "lng": 103.7780018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428361180291502,
+        "lng": 103.7793496802915
+      },
+      "southwest": {
+        "lat": 1.425663219708498,
+        "lng": 103.7766517197085
+      }
+    }
+  },
+  "name": "Beechwood Bungalow",
+  "place_id": "ChIJc5ebCbMT2jERuxmjy6ZVgpc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10917382621568899515",
+  "vicinity": "6 Beechwood Grove"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Bulim St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3556797,
+      "lng": 103.7061451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356945730291502,
+        "lng": 103.7075889802915
+      },
+      "southwest": {
+        "lat": 1.354247769708498,
+        "lng": 103.7048910197085
+      }
+    }
+  },
+  "name": "Bulim Green Park",
+  "place_id": "ChIJKZC0VQAP2jER9E8BJfmNOio",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3042900599449407476",
+  "vicinity": "Bulim Street"
+}

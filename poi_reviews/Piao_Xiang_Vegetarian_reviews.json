@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.313755,
+      "lng": 103.762359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315081880291502,
+        "lng": 103.7636787802915
+      },
+      "southwest": {
+        "lat": 1.312383919708498,
+        "lng": 103.7609808197085
+      }
+    }
+  },
+  "name": "Piao Xiang Vegetarian",
+  "place_id": "ChIJ932aAgAb2jERzTVbazCm1Pk",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18002196337396495821",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "2 Kallang Ave, #11-11 CT Hub @ Kallang, Singapore 339407",
+  "geometry": {
+    "location": {
+      "lat": 1.3122603,
+      "lng": 103.8626758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313711130291502,
+        "lng": 103.8639512802915
+      },
+      "southwest": {
+        "lat": 1.311013169708498,
+        "lng": 103.8612533197085
+      }
+    }
+  },
+  "name": "Embrace Church International",
+  "place_id": "ChIJR8YiyzsZ2jERCqv1XiEuEyU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kirby Ong",
+      "author_url": "https://www.google.com/maps/contrib/106478715836090688001/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9fgZIKFTmYpj2VAEQEeZjqOTMw1Lvo-ALxwo1-KdZtrdOFgos=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "A church that aims to love others as Christ has loved them!",
+      "time": 1550732086,
+      "translated": false
+    },
+    {
+      "author_name": "Durga Gurung",
+      "author_url": "https://www.google.com/maps/contrib/118270127083083807661/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU9DigrnXXmmjkG6XUuQeQdnMDnpAh-SkP53recrBR-Kx2gvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577216216,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2671529724822792970",
+  "user_ratings_total": 2,
+  "vicinity": "2 Kallang Avenue, #11-11 CT Hub @ Kallang, Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "23 Neythal Rd, Singapore 628588",
+  "geometry": {
+    "location": {
+      "lat": 1.3231602,
+      "lng": 103.6971882
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324484080291502,
+        "lng": 103.6985067802915
+      },
+      "southwest": {
+        "lat": 1.321786119708498,
+        "lng": 103.6958088197085
+      }
+    }
+  },
+  "name": "P D Manufacturing International Pte Ltd",
+  "place_id": "ChIJ3bwipGMF2jEROtiad7ndEVU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "GOVINDHA",
+      "author_url": "https://www.google.com/maps/contrib/106626690018378119939/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfN9bmfp3nOikm41TDyfNhTlSwVOeZ0CEojnyK3cSEcL6UZSdC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1664375479,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6129924356473280570",
+  "user_ratings_total": 1,
+  "vicinity": "23 Neythal Road, Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362208,
+      "lng": 103.842056
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363543180291502,
+        "lng": 103.8434455302915
+      },
+      "southwest": {
+        "lat": 1.360845219708498,
+        "lng": 103.8407475697085
+      }
+    }
+  },
+  "name": "オポジット・ブロック254",
+  "place_id": "ChIJO9HjWSAX2jERfA00_xeDlQk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lazarus",
+      "author_url": "https://www.google.com/maps/contrib/116330655780140956023/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY3hrJp1eGNmqIDA9MxaAstUXqO14Q7BfF4TQgfjVmSPWUPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512799498,
+      "translated": false
+    },
+    {
+      "author_name": "Mandy Lee",
+      "author_url": "https://www.google.com/maps/contrib/105956343770320359759/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSH0Mv7d0RP1z5GhxiZOssydDQ7Am6eLHh0RxsXUWtReAf7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499078025,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=690602256960327036",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

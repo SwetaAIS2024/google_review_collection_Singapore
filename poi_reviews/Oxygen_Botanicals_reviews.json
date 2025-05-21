@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Jln Dermawan, Singapore 669004",
+  "geometry": {
+    "location": {
+      "lat": 1.3600969,
+      "lng": 103.7596777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361417330291502,
+        "lng": 103.7610137802915
+      },
+      "southwest": {
+        "lat": 1.358719369708498,
+        "lng": 103.7583158197085
+      }
+    }
+  },
+  "name": "Oxygen Botanicals",
+  "place_id": "ChIJe07pgk4Q2jERlsqOJ0f8B8E",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13909363356693613206",
+  "vicinity": "Jalan Dermawan"
+}

@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.345034,
+      "lng": 103.940079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346323780291502,
+        "lng": 103.9414367302915
+      },
+      "southwest": {
+        "lat": 1.343625819708498,
+        "lng": 103.9387387697085
+      }
+    }
+  },
+  "name": "Tampines West Stn Exit B",
+  "place_id": "ChIJH3QWfBU92jERk744e2xPJ9U",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Cedric Poh",
+      "author_url": "https://www.google.com/maps/contrib/107970369195063762815/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUasw_m4veaWlZK7dLFDnXb6rgNWMG7m2sYQQg7iys5SCmf-ok=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Exit B is nearby to Tampines Safra :)",
+      "time": 1580004362,
+      "translated": false
+    },
+    {
+      "author_name": "kowshik surya creations",
+      "author_url": "https://www.google.com/maps/contrib/108490943249833814988/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIW_hJzWtyQW1UQtS0C7wNGRBeqG3VS0QYfgNrqdMaqVFnCEd-Nw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Clean and green",
+      "time": 1649339174,
+      "translated": false
+    },
+    {
+      "author_name": "Valerie Lim",
+      "author_url": "https://www.google.com/maps/contrib/113447786280347167728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUagcSq-OIH9Je7Bt3EBMhHeXbcBf4Fm5X98UurWSHbI95F0Na7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "so",
+      "time": 1641970946,
+      "translated": false
+    },
+    {
+      "author_name": "rudi yanti",
+      "author_url": "https://www.google.com/maps/contrib/115933523067299771100/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeYhhGOl2UuNrwdnDZuNlOc7pfEdL0Rj9F_xcx1v3OskhANUbH7Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733218964,
+      "translated": false
+    },
+    {
+      "author_name": "Nirmalkumar Thanigaivel",
+      "author_url": "https://www.google.com/maps/contrib/100353290597741786496/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMYgEuVM_evYHW0K9gs1gJ5DPz_ptXOfJQ6DYksnu7dz8tyEB3GA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665148088,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15359332381512744595",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

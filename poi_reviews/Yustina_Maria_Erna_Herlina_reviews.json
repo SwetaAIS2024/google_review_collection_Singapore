@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2760855,
+      "lng": 103.7954093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277393130291502,
+        "lng": 103.7968600802915
+      },
+      "southwest": {
+        "lat": 1.274695169708498,
+        "lng": 103.7941621197085
+      }
+    }
+  },
+  "name": "Yustina Maria Erna Herlina",
+  "place_id": "ChIJ6UYoJ7kb2jEREy5cAgg81fY",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17786188308466642451",
+  "vicinity": "Singapore"
+}

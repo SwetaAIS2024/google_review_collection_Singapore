@@ -1,0 +1,56 @@
+{
+  "formatted_address": "191 Tampines Street 44, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3610682,
+      "lng": 103.9542655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362412830291502,
+        "lng": 103.9556105802915
+      },
+      "southwest": {
+        "lat": 1.359714869708498,
+        "lng": 103.9529126197085
+      }
+    }
+  },
+  "name": "Yong Hin Drug Store",
+  "place_id": "ChIJnfP8Jwc92jER9Y_WEbiaqtE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "mY PeTs Cats and Fishes",
+      "author_url": "https://www.google.com/maps/contrib/102247548452789664298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr1uq4SjlcetlLqe1dJV-UcrnJE_2cP5OpYfNQmDYUAkPn_tNu=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Auntie owner is knowledgeable and friendly to assist in purchasing the correct Chinese medicine for your condition and advices.",
+      "time": 1521569411,
+      "translated": false
+    },
+    {
+      "author_name": "張景順",
+      "author_url": "https://www.google.com/maps/contrib/112911352902069801600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl1OPaNKW4SkrQt5dNZwT0xUnXKMA2B0Bd2rkcn6XJLgG4hA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499742776,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15108058015331684341",
+  "user_ratings_total": 2,
+  "vicinity": "191 Tampines Street 44"
+}

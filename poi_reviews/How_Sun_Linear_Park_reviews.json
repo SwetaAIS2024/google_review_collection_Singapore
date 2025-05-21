@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3453451,
+      "lng": 103.8782371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346698830291502,
+        "lng": 103.8796427302915
+      },
+      "southwest": {
+        "lat": 1.344000869708498,
+        "lng": 103.8769447697085
+      }
+    }
+  },
+  "name": "How Sun Linear Park",
+  "place_id": "ChIJq3x4CKIX2jERRu4Li83I9Ek",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "MH Tham",
+      "author_url": "https://www.google.com/maps/contrib/112376174358198242550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ4tOLbvkkJYRe2LZw4PmTrCsbezMPVke50H01b6T0gSd095fp=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Quite a small play area with a short slide. High chance of bumping into small and big dogs alike during the mornings and evening.",
+      "time": 1743600726,
+      "translated": false
+    },
+    {
+      "author_name": "L R",
+      "author_url": "https://www.google.com/maps/contrib/112203798047995879572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPN7fFdq7zCWU3a-iDPjBXBkg_QOHq2lsh6U1e-CKjyk06Yg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Small park\nNothing much\nOnly two tiny playground\nLinear in nature",
+      "time": 1657710680,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Leng",
+      "author_url": "https://www.google.com/maps/contrib/103694617926428809878/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk2z2jYtzCtEGSqtyWglZ5NLINHeItX21csoFl9xl4JagbGViXJA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1578051342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5329105044212805190",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

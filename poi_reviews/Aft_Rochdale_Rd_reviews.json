@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3424078,
+      "lng": 103.8837879
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343743080291502,
+        "lng": 103.8851059302915
+      },
+      "southwest": {
+        "lat": 1.341045119708498,
+        "lng": 103.8824079697085
+      }
+    }
+  },
+  "name": "Aft Rochdale Rd",
+  "place_id": "ChIJqdJnjZYX2jERtNsALUCAEDE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3535466720607132596",
+  "vicinity": "Singapore"
+}

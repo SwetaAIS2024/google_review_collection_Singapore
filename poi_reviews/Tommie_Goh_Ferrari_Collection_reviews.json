@@ -1,0 +1,44 @@
+{
+  "formatted_address": "2A Ridley Park, Singapore 248470",
+  "geometry": {
+    "location": {
+      "lat": 1.3006923,
+      "lng": 103.8164981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301957880291502,
+        "lng": 103.8178467302915
+      },
+      "southwest": {
+        "lat": 1.299259919708498,
+        "lng": 103.8151487697085
+      }
+    }
+  },
+  "name": "Tommie Goh Ferrari Collection",
+  "place_id": "ChIJEdu1HgAb2jEREE0_PGrYpck",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ignacio Cabeza",
+      "author_url": "https://www.google.com/maps/contrib/114326136044420934657/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcARsEDNvE_6SI-3HvmoDczDG_Pdyin5yj5O__NcLYD9JsGw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very nice collection of unique cars. Didn’t have the chance to see the Enzo or the F50, but the ones in display were very exotic.",
+      "time": 1743569287,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14530257723569687824",
+  "user_ratings_total": 1,
+  "vicinity": "2A Ridley Park, Singapore"
+}

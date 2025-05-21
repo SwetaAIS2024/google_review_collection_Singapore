@@ -1,0 +1,30 @@
+{
+  "formatted_address": "118 Aljunied Ave 2, Singapore 380118",
+  "geometry": {
+    "location": {
+      "lat": 1.3201264,
+      "lng": 103.8872513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321366130291502,
+        "lng": 103.8886744802915
+      },
+      "southwest": {
+        "lat": 1.318668169708498,
+        "lng": 103.8859765197085
+      }
+    }
+  },
+  "name": "Cope Scientific Supply",
+  "place_id": "ChIJ0bkEuCMY2jERScfXR0OW6vE",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17431910523403224905",
+  "vicinity": "118 Aljunied Avenue 2, Singapore"
+}

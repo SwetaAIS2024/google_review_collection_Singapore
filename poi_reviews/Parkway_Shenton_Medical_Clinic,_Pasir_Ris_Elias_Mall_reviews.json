@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Elias Road 01, #324B Elias Mall, Singapore 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.3787585,
+      "lng": 103.9422521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380217780291502,
+        "lng": 103.9436706802915
+      },
+      "southwest": {
+        "lat": 1.377519819708498,
+        "lng": 103.9409727197085
+      }
+    }
+  },
+  "name": "Parkway Shenton Medical Clinic, Pasir Ris Elias Mall",
+  "place_id": "ChIJZdXwlb492jERDc2p-UXsUsk",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14506917134999342349",
+  "vicinity": "Elias Road 01, #324B Elias Mall"
+}

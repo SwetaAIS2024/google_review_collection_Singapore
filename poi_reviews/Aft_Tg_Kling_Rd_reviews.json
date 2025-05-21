@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314635,
+      "lng": 103.69873
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315934680291502,
+        "lng": 103.7000293302915
+      },
+      "southwest": {
+        "lat": 1.313236719708498,
+        "lng": 103.6973313697085
+      }
+    }
+  },
+  "name": "Aft Tg Kling Rd",
+  "place_id": "ChIJpeACwW4F2jERr2yIldcumGs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7752998261979901103",
+  "vicinity": "Singapore"
+}

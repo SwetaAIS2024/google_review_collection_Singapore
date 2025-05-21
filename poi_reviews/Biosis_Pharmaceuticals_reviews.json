@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Kaki Bukit Rd 2, Singapore 417839",
+  "geometry": {
+    "location": {
+      "lat": 1.3368284,
+      "lng": 103.898344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338231030291502,
+        "lng": 103.8996404802915
+      },
+      "southwest": {
+        "lat": 1.335533069708498,
+        "lng": 103.8969425197085
+      }
+    }
+  },
+  "name": "Biosis Pharmaceuticals",
+  "place_id": "ChIJmYxEQe4X2jERgAErI4Haf_o",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18050386079699894656",
+  "vicinity": "5 Kaki Bukit Road 2"
+}

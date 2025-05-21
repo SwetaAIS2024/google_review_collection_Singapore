@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3191508,
+      "lng": 103.7772149
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320501480291502,
+        "lng": 103.7785298302915
+      },
+      "southwest": {
+        "lat": 1.317803519708498,
+        "lng": 103.7758318697085
+      }
+    }
+  },
+  "name": "Pandan Valley",
+  "place_id": "ChIJ4XqqEX0a2jER4xYs_sPvva8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "陆孟孟",
+      "author_url": "https://www.google.com/maps/contrib/103811432804819079100/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN8tfRcpkUeQtYGoToC7xDQDzMafkJTIN98LyouBF8XL0L9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523595566,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12663541352297666275",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

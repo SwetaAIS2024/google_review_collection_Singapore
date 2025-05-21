@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Bukit Merah Vw, #01-233 Block 116, Singapore 151116",
+  "geometry": {
+    "location": {
+      "lat": 1.2851531,
+      "lng": 103.821393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286416280291502,
+        "lng": 103.8227821302915
+      },
+      "southwest": {
+        "lat": 1.283718319708498,
+        "lng": 103.8200841697085
+      }
+    }
+  },
+  "name": "UOB ATM - Bukit Merah View",
+  "place_id": "ChIJUygpEiob2jER69jHjJJzJ_U",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17665215136648386795",
+  "vicinity": "Bukit Merah View, #01-233 Block 116"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Level 4 NUH Kent Ridge Wing, National University Hospital, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2937427,
+      "lng": 103.7834188
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295189030291502,
+        "lng": 103.7847905302915
+      },
+      "southwest": {
+        "lat": 1.292491069708498,
+        "lng": 103.7820925697085
+      }
+    }
+  },
+  "name": "NUH Clinic for Human Reproduction (CHR)",
+  "place_id": "ChIJQUqklh8b2jER7nT8IrFYXC8",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3412700135459419374",
+  "vicinity": "5 Lower Kent Ridge Road, Level 4 NUH Kent Ridge Wing, National University Hospital"
+}

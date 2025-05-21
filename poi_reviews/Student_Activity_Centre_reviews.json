@@ -1,0 +1,44 @@
+{
+  "formatted_address": "2 Ang Mo Kio Dr, Singapore 567720",
+  "geometry": {
+    "location": {
+      "lat": 1.3779207,
+      "lng": 103.856631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379436580291502,
+        "lng": 103.8574820302915
+      },
+      "southwest": {
+        "lat": 1.376738619708498,
+        "lng": 103.8547840697085
+      }
+    }
+  },
+  "name": "Student Activity Centre",
+  "place_id": "ChIJf9XJ36gX2jERmzudA8zR_M8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Syco",
+      "author_url": "https://www.google.com/maps/contrib/104191710558745662537/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPqcOQpCWwfsiUqc0xIRGQUrVmZjOse9w8qQzxy37gzZfNykE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "teachers here horrible",
+      "time": 1707232296,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14987084334146337691",
+  "user_ratings_total": 1,
+  "vicinity": "2 Ang Mo Kio Drive, Singapore"
+}

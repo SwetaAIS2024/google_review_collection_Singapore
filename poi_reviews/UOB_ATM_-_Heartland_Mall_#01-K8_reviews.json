@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 205 Hougang St 21, #01-K8 Heartland Mall, Singapore 530205",
+  "geometry": {
+    "location": {
+      "lat": 1.359469,
+      "lng": 103.8851289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360671680291502,
+        "lng": 103.8865465302915
+      },
+      "southwest": {
+        "lat": 1.357973719708498,
+        "lng": 103.8838485697085
+      }
+    }
+  },
+  "name": "UOB ATM - Heartland Mall #01-K8",
+  "place_id": "ChIJjcFBdRAX2jERj77Hc993wGM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7187876806887194255",
+  "vicinity": "Blk 205 Hougang Street 21, #01-K8 Heartland Mall"
+}

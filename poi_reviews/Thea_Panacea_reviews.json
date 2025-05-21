@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Marina Blvd, The Sail at Marina Bay, Singapore 018985",
+  "geometry": {
+    "location": {
+      "lat": 1.2811892,
+      "lng": 103.8529652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282388830291502,
+        "lng": 103.8543800802915
+      },
+      "southwest": {
+        "lat": 1.279690869708498,
+        "lng": 103.8516821197085
+      }
+    }
+  },
+  "name": "Thea Panacea",
+  "place_id": "ChIJY4BdcEUZ2jERU5P_LokPRWM",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7153140665021338451",
+  "vicinity": "6 Marina Boulevard, The Sail at Marina Bay"
+}

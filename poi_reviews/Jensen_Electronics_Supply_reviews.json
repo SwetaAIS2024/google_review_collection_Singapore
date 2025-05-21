@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Tampines Industrial Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3776467,
+      "lng": 103.9207296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379026180291502,
+        "lng": 103.9220864302915
+      },
+      "southwest": {
+        "lat": 1.376328219708498,
+        "lng": 103.9193884697085
+      }
+    }
+  },
+  "name": "Jensen Electronics Supply",
+  "place_id": "ChIJAa0PyI492jERfMvc-dg83NQ",
+  "types": [
+    "electronics_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15338201333519666044",
+  "vicinity": "Tampines Industrial Drive"
+}

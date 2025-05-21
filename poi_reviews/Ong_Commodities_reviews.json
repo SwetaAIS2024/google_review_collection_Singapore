@@ -1,0 +1,29 @@
+{
+  "formatted_address": "76 Shenton Wy, Singapore 079119",
+  "geometry": {
+    "location": {
+      "lat": 1.27348,
+      "lng": 103.8454683
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274868380291502,
+        "lng": 103.8468498802915
+      },
+      "southwest": {
+        "lat": 1.272170419708498,
+        "lng": 103.8441519197085
+      }
+    }
+  },
+  "name": "Ong Commodities",
+  "place_id": "ChIJ0YC8xRQZ2jERCfDnByrrj4o",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9984457464657473545",
+  "vicinity": "76 Shenton Way, Singapore"
+}

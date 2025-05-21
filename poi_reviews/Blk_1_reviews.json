@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279267,
+      "lng": 103.817299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280740330291502,
+        "lng": 103.8187018802915
+      },
+      "southwest": {
+        "lat": 1.278042369708498,
+        "lng": 103.8160039197085
+      }
+    }
+  },
+  "name": "Blk 1",
+  "place_id": "ChIJCS2M3dkb2jERJpe3DFC2i2I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "LouisJzee Jianzhi",
+      "author_url": "https://www.google.com/maps/contrib/107736077060914025609/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjZddKkUUGI2PcJ8rqCjj_GeyEwJneV2ET7UhEMVsiff-Xv9CA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607680192,
+      "translated": false
+    },
+    {
+      "author_name": "crystal wang",
+      "author_url": "https://www.google.com/maps/contrib/108363992834212925701/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYQABSXrlQhBVl1auy_9I7pGjLyw8fmsMxJzwm4p4E19K2aaOe=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511048172,
+      "translated": false
+    },
+    {
+      "author_name": "Naemel Castillo",
+      "author_url": "https://www.google.com/maps/contrib/114023709233038652954/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIF2OEH2K8vx0f-P2KJnTrHounh2ZRXtJVc3D5e_C3HeywMJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1472257785,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7100969692406716198",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

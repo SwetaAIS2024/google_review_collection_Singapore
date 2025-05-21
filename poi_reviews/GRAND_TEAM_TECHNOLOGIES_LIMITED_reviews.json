@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore, Ang Mo Kio Ave 5, 5014号Blk#05-01 TechPlace II 邮政编码: 569881",
+  "geometry": {
+    "location": {
+      "lat": 1.3769415,
+      "lng": 103.8648715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378399630291502,
+        "lng": 103.8662106802915
+      },
+      "southwest": {
+        "lat": 1.375701669708498,
+        "lng": 103.8635127197085
+      }
+    }
+  },
+  "name": "GRAND TEAM TECHNOLOGIES LIMITED",
+  "place_id": "ChIJe5hmJnIX2jERIdSmhZJo_lY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Phil KY",
+      "author_url": "https://www.google.com/maps/contrib/115775954258494299790/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBUs1Pj2x-FbROyYQ9nciHkp-13xmjPZhFduZ9AUQ1EA2GEw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Poor",
+      "time": 1699419772,
+      "translated": false
+    },
+    {
+      "author_name": "MARISELVAM",
+      "author_url": "https://www.google.com/maps/contrib/116160442567562394296/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE6a-NKB0k9QUqp3Jsvvhw3Pm5-WeAYW8xEJ7sQdYLjiuABJE7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688209471,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6268562709863126049",
+  "user_ratings_total": 2,
+  "vicinity": "Blk, #05-01 TechPlace II, 5014 Ang Mo Kio Avenue 5, Singapore"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Kampong Bahru Rd, #169349 23, Singapore 169349",
+  "geometry": {
+    "location": {
+      "lat": 1.2770421,
+      "lng": 103.8365577
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278450080291502,
+        "lng": 103.8378532802915
+      },
+      "southwest": {
+        "lat": 1.275752119708498,
+        "lng": 103.8351553197085
+      }
+    }
+  },
+  "name": "The Blair House",
+  "place_id": "ChIJxaEA_G4Z2jER_SdwZQv4M3A",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Bee Eng Chua",
+      "author_url": "https://www.google.com/maps/contrib/117409571764983554593/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMqoNEAL9W-cu4hXU-yP6gURFepTQOF7CFDCTYsKlH-XAj_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1574753669,
+      "translated": false
+    },
+    {
+      "author_name": "이윤서",
+      "author_url": "https://www.google.com/maps/contrib/118223908188961965155/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOIxzBcrL16sYBDVT565bvGHszqdXzteICVIvegAjhH9Pz2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1470593100,
+      "translated": false
+    },
+    {
+      "author_name": "Quintino Dellarosa",
+      "author_url": "https://www.google.com/maps/contrib/110951871972546948134/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6yfduwUasdJx6uH-hZzluP-96D_BemTNaEJAp0y89ezecJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1443863773,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8085078483890350077",
+  "user_ratings_total": 3,
+  "vicinity": "Kampong Bahru Road, #169349 23"
+}

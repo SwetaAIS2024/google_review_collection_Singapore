@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Port Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2674777,
+      "lng": 103.8033523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.268792780291502,
+        "lng": 103.8046749802915
+      },
+      "southwest": {
+        "lat": 1.266094819708498,
+        "lng": 103.8019770197085
+      }
+    }
+  },
+  "name": "PUB Port Road Pump Sump",
+  "place_id": "ChIJ8c3FIwAb2jERMCr8aYekBx0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2091821453442558512",
+  "vicinity": "Port Road"
+}

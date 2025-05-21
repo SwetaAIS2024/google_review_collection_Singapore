@@ -1,0 +1,53 @@
+{
+  "formatted_address": "50A Marine Ter, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.305565,
+      "lng": 103.9155557
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306971630291502,
+        "lng": 103.9171983302915
+      },
+      "southwest": {
+        "lat": 1.304273669708498,
+        "lng": 103.9145003697085
+      }
+    }
+  },
+  "name": "Hui Cheow Teochew Kway Teow Mee Soup Fish Porridge",
+  "place_id": "ChIJl-V2x58i2jER0A7iXE745IQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Karen Ng",
+      "author_url": "https://www.google.com/maps/contrib/104396813373687542616/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEj01opl8vSkvUJ99VK0bR1252LL_rd50CSChcLDItHEh2Aw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731760777,
+      "translated": false
+    },
+    {
+      "author_name": "Zul Ibrahim",
+      "author_url": "https://www.google.com/maps/contrib/117366172782176693315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuV_n1CvWgpVWh0xzwZF8OgERr93rNAu6CBjPfEiRfxXQBqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568196233,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9576051723145973456",
+  "user_ratings_total": 2,
+  "vicinity": "50A Marine Terrace"
+}

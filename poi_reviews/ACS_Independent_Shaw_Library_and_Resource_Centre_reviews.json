@@ -1,0 +1,56 @@
+{
+  "formatted_address": "121 Dover Rd, Singapore 139650",
+  "geometry": {
+    "location": {
+      "lat": 1.3019459,
+      "lng": 103.7801589
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303206330291502,
+        "lng": 103.7816977802915
+      },
+      "southwest": {
+        "lat": 1.300508369708498,
+        "lng": 103.7789998197085
+      }
+    }
+  },
+  "name": "ACS (Independent) Shaw Library & Resource Centre",
+  "place_id": "ChIJacK2bVka2jERTDYonuwEJcQ",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "z5656",
+      "author_url": "https://www.google.com/maps/contrib/109336738231099922877/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvLaH6gg5bjuFQlFE8fEi2ClxBVKOlhs3GycDx8OvBCXTBX6V19g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Not much to say, good place to study EXCEPT when there are rowdy juniors",
+      "time": 1733111270,
+      "translated": false
+    },
+    {
+      "author_name": "Nathanael Chia",
+      "author_url": "https://www.google.com/maps/contrib/110687995347117039853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9cZCqbnnoxTgFYqgDvURuyGgqn-LzYPWGCSSd7nEsOlucAVmf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Bad",
+      "time": 1743843112,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14133708419884398156",
+  "user_ratings_total": 2,
+  "vicinity": "121 Dover Road, Singapore"
+}

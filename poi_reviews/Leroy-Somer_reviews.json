@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324681,
+      "lng": 103.685585
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325997280291502,
+        "lng": 103.6869337802915
+      },
+      "southwest": {
+        "lat": 1.323299319708498,
+        "lng": 103.6842358197085
+      }
+    }
+  },
+  "name": "Leroy-Somer",
+  "place_id": "ChIJjXsO_X4F2jERjCICjVVfauM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "kj t",
+      "author_url": "https://www.google.com/maps/contrib/115418985685182216765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAZNGTiCi_hZBB9zjDM2WTNDg2YrHpOluSy0ubQ9fbFHgzru3W=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Bus number is not 192 its 193",
+      "time": 1513397570,
+      "translated": false
+    },
+    {
+      "author_name": "Lisheng Xue",
+      "author_url": "https://www.google.com/maps/contrib/112058183121671467748/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBlmSuerqfe3KIC5yY0lRZFRPrvu9yCkDE-bujeduLocjoMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Bus No. Changed to 193",
+      "time": 1508246559,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16387015015183557260",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

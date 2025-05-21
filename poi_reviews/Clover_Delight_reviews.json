@@ -1,0 +1,45 @@
+{
+  "formatted_address": "478 Tampines Street 44, Singapore 520478",
+  "geometry": {
+    "location": {
+      "lat": 1.3614455,
+      "lng": 103.9536925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362728880291502,
+        "lng": 103.9550890802915
+      },
+      "southwest": {
+        "lat": 1.360030919708498,
+        "lng": 103.9523911197085
+      }
+    }
+  },
+  "name": "Clover Delight",
+  "place_id": "ChIJTUkKRQ892jERGgP9w3WpEV8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Edward Tower (Edward_Tower)",
+      "author_url": "https://www.google.com/maps/contrib/118278319655292364921/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY_ux6UbDTGXa6xX6LKMrx-wP7g6CxRD9sjvjhWk80ax7q-Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice curry chicken Noodles. worth to try!",
+      "time": 1675941294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6850442831471641370",
+  "user_ratings_total": 1,
+  "vicinity": "478 Tampines Street 44"
+}

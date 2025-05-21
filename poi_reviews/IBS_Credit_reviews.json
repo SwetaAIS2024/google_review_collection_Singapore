@@ -1,0 +1,29 @@
+{
+  "formatted_address": "171 Tras St, #03-171 Union Building, 079025, Singapore 079025",
+  "geometry": {
+    "location": {
+      "lat": 1.2745039,
+      "lng": 103.8439529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275866180291502,
+        "lng": 103.8452077802915
+      },
+      "southwest": {
+        "lat": 1.273168219708498,
+        "lng": 103.8425098197085
+      }
+    }
+  },
+  "name": "IBS Credit",
+  "place_id": "ChIJ___PWmsZ2jER3olv_zcIJoA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9234077122571504094",
+  "vicinity": "171 Tras Street, #03-171 Union Building, 079025"
+}

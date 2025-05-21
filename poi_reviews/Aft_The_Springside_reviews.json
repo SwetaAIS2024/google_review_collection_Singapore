@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.403963,
+      "lng": 103.818626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405344680291502,
+        "lng": 103.8199311302915
+      },
+      "southwest": {
+        "lat": 1.402646719708498,
+        "lng": 103.8172331697085
+      }
+    }
+  },
+  "name": "Aft The Springside",
+  "place_id": "ChIJE6kPVf4T2jERi6yxEx5nZyk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2983466657033333899",
+  "vicinity": "Singapore"
+}

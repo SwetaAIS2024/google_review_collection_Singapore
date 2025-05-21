@@ -1,0 +1,29 @@
+{
+  "formatted_address": "57 New Upper Changi Road #01-1334 Ntuc, New Upper Changi Rd, Singapore 461057",
+  "geometry": {
+    "location": {
+      "lat": 1.3241216,
+      "lng": 103.9416303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325490280291502,
+        "lng": 103.9430725302915
+      },
+      "southwest": {
+        "lat": 1.322792319708498,
+        "lng": 103.9403745697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc New Upper Changi/57",
+  "place_id": "ChIJ1d-aTBgj2jERG3mYKs1Si98",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16108059533357119771",
+  "vicinity": "57 New Upper Changi Road #01-1334 Ntuc, New Upper Changi Road"
+}

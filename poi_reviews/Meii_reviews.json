@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore, 惹兰勿刹380号ARC 380#01-23 邮政编码: 209000",
+  "geometry": {
+    "location": {
+      "lat": 1.3132138,
+      "lng": 103.8602521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314616780291502,
+        "lng": 103.8615327302915
+      },
+      "southwest": {
+        "lat": 1.311918819708498,
+        "lng": 103.8588347697085
+      }
+    }
+  },
+  "name": "Meii",
+  "place_id": "ChIJTzzC52wZ2jERn_tKeCgBrI4",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10280593322708499359",
+  "vicinity": "380 惹兰勿刹, #01-23 ARC 380, 新加坡"
+}

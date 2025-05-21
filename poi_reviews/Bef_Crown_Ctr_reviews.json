@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3230534,
+      "lng": 103.8119316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324457030291502,
+        "lng": 103.8132940302915
+      },
+      "southwest": {
+        "lat": 1.321759069708498,
+        "lng": 103.8105960697085
+      }
+    }
+  },
+  "name": "Bef Crown Ctr",
+  "place_id": "ChIJaR1JaAYa2jERjs6ri7l_P2Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lucas Ng",
+      "author_url": "https://www.google.com/maps/contrib/106768408512831355300/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWti0DsPcKau2iM2a0AvKNMrmXQLxlzeVnAQthsSpKEL8uq5qX9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Best bustop",
+      "time": 1504795644,
+      "translated": false
+    },
+    {
+      "author_name": "Terence Ng",
+      "author_url": "https://www.google.com/maps/contrib/103997642774853121738/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ8IcuudGyP4gInyP6ZuSPagTo1nLJJ84hXQZRqXsJkiW4toJFiw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485170002,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7223632762214534798",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

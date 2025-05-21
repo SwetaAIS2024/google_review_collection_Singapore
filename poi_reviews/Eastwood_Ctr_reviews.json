@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321288,
+      "lng": 103.955345
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322620380291502,
+        "lng": 103.9566730802915
+      },
+      "southwest": {
+        "lat": 1.319922419708498,
+        "lng": 103.9539751197085
+      }
+    }
+  },
+  "name": "Eastwood Ctr",
+  "place_id": "ChIJUXjzAdQi2jERPRBeg1eX-Xw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9005395332025946173",
+  "vicinity": "Singapore"
+}

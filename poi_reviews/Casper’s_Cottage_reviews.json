@@ -1,0 +1,58 @@
+{
+  "formatted_address": "310B Ang Mo Kio Ave 1, Singapore 562310",
+  "geometry": {
+    "location": {
+      "lat": 1.3647787,
+      "lng": 103.8442533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366235580291502,
+        "lng": 103.8455614302915
+      },
+      "southwest": {
+        "lat": 1.363537619708498,
+        "lng": 103.8428634697085
+      }
+    }
+  },
+  "name": "Casper’s Cottage",
+  "place_id": "ChIJQR6BDQAX2jERbDN7-OjqPWU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nicholas Ho",
+      "author_url": "https://www.google.com/maps/contrib/112063693644838143676/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKitUkr2Cj4KyY2KecolMIXPxV1viDEzuN7ItafwE-lc69fBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Casper is the friendliest cat I’ve ever met! Casper’s cottage also came with free screen protector application services. 10/10 highly recommended!!!",
+      "time": 1741439877,
+      "translated": false
+    },
+    {
+      "author_name": "lee tom",
+      "author_url": "https://www.google.com/maps/contrib/105067955985604516490/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdiICB-8aXHYyZ0cZFUU_wSi2djWH1P-ZZphtJ8CGdq1kMSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Casper is goodest hansumest chonkiest boi",
+      "time": 1740899947,
+      "translated": false
+    }
+  ],
+  "types": [
+    "campground",
+    "park",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7295245257732207468",
+  "user_ratings_total": 2,
+  "vicinity": "310B Ang Mo Kio Avenue 1"
+}

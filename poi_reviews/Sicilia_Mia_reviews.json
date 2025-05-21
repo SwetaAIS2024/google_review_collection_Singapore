@@ -1,0 +1,63 @@
+{
+  "formatted_address": "75 Duxton Rd, #02-01, Singapore 089534",
+  "geometry": {
+    "location": {
+      "lat": 1.2783006,
+      "lng": 103.843081
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279618680291502,
+        "lng": 103.8444919802915
+      },
+      "southwest": {
+        "lat": 1.276920719708498,
+        "lng": 103.8417940197085
+      }
+    }
+  },
+  "name": "Sicilia Mia",
+  "place_id": "ChIJsX-BFm0Z2jERCGczheKOYWg",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Maximilien Nève",
+      "author_url": "https://www.google.com/maps/contrib/109939912362831983336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLKgaAM5Lq9ikzt51vrMQLZZkxzufGFsY39OBAAIaXKL6Tcg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718515864,
+      "translated": false
+    },
+    {
+      "author_name": "Siddiqur Rahman",
+      "author_url": "https://www.google.com/maps/contrib/109699040688511760346/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQPAXBQAemytfFCLfjBp1NHXaZoDsNq4bO_GFa9J4VWyrS1fdA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1573175501,
+      "translated": false
+    },
+    {
+      "author_name": "R King",
+      "author_url": "https://www.google.com/maps/contrib/105822150057791993554/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNWaJ12OPkyfBv66EjI6reEVL_jfFGEPa2LGAvnrejUX28unE=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552917051,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7521449956233930504",
+  "user_ratings_total": 3,
+  "vicinity": "75 Duxton Road, #02-01"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379236,
+      "lng": 103.964264
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380619280291502,
+        "lng": 103.9656001802915
+      },
+      "southwest": {
+        "lat": 1.377921319708498,
+        "lng": 103.9629022197085
+      }
+    }
+  },
+  "name": "Opp Loyang Townhse",
+  "place_id": "ChIJQUlSrks82jERPdxWbnz-tIg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "GoAheadGroupFan",
+      "author_url": "https://www.google.com/maps/contrib/105877449322822053371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm3AkzrmFf7YEOM0hySeT8b1ju9l9ObcKvCd9XdBSJyrbHrZHX=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545044187,
+      "translated": false
+    },
+    {
+      "author_name": "Noomery",
+      "author_url": "https://www.google.com/maps/contrib/112434870817764052641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hWFQH__0-nXCcWSbBrTUrdbCrW6s4OHLzjlZ1GZ-0e0W5tjz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504519581,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9850778095346703421",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

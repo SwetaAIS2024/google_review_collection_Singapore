@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9006 Tampines Street 93, Singapore 528840",
+  "geometry": {
+    "location": {
+      "lat": 1.3397116,
+      "lng": 103.9431329
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341187330291502,
+        "lng": 103.9443754802915
+      },
+      "southwest": {
+        "lat": 1.338489369708498,
+        "lng": 103.9416775197085
+      }
+    }
+  },
+  "name": "Uf Technology",
+  "place_id": "ChIJ019ATDk92jERlSZXdXdiOXM",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8302775653243496085",
+  "vicinity": "9006 Tampines Street 93"
+}

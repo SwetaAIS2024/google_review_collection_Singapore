@@ -1,0 +1,43 @@
+{
+  "formatted_address": "276 Toh Guan Rd, Singapore 600276",
+  "geometry": {
+    "location": {
+      "lat": 1.341042,
+      "lng": 103.7474263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342504280291502,
+        "lng": 103.7488587802915
+      },
+      "southwest": {
+        "lat": 1.339806319708498,
+        "lng": 103.7461608197085
+      }
+    }
+  },
+  "name": "Block 276 HDB Toh Guan",
+  "place_id": "ChIJI7mO8xMQ2jERYLJaKtasN7I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alexis Cheng",
+      "author_url": "https://www.google.com/maps/contrib/107014119319880075461/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyA58M-qyYS_LG38plrTy06O8Ljk0Y-EJrQOIP9jriZjAVhhU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Nice place 👍",
+      "time": 1581485457,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12841922898303824480",
+  "user_ratings_total": 1,
+  "vicinity": "276 Toh Guan Road, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "No. 371, Beach Road, #02-12, Keypoint, 199597, Singapore 199597",
+  "geometry": {
+    "location": {
+      "lat": 1.302337,
+      "lng": 103.862429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303760080291502,
+        "lng": 103.8634737302915
+      },
+      "southwest": {
+        "lat": 1.301062119708498,
+        "lng": 103.8607757697085
+      }
+    }
+  },
+  "name": "Bio Pharma",
+  "place_id": "ChIJjZYa47MZ2jERe1lEIZiHdbM",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12931390992527153531",
+  "vicinity": "No. 371, Beach Road, #02-12, Keypoint, 199597"
+}

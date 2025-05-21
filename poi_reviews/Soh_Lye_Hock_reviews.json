@@ -1,0 +1,43 @@
+{
+  "formatted_address": "39 Sin Ming Dr, Singapore 575713",
+  "geometry": {
+    "location": {
+      "lat": 1.3614334,
+      "lng": 103.838388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362670580291502,
+        "lng": 103.8396829802915
+      },
+      "southwest": {
+        "lat": 1.359972619708498,
+        "lng": 103.8369850197085
+      }
+    }
+  },
+  "name": "Soh Lye Hock",
+  "place_id": "ChIJ76PN0CYX2jERMg9W2-Kgjuk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Bertrand Chew",
+      "author_url": "https://www.google.com/maps/contrib/106182456686443232498/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCBFOawHs9mqlwQFgt7kSfAcns-RXpnq9AtIJhhyFYDPeTAg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556357565,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16829565753733025586",
+  "user_ratings_total": 1,
+  "vicinity": "39 Sin Ming Drive, Singapore"
+}

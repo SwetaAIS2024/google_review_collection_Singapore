@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9 Airline Rd, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384317130291502,
+        "lng": 104.0005482802915
+      },
+      "southwest": {
+        "lat": 1.381619169708498,
+        "lng": 103.9978503197085
+      }
+    }
+  },
+  "name": "GK Pharma",
+  "place_id": "ChIJK8nGwww82jERRoVPi4Mtl5E",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10490903899984069958",
+  "vicinity": "9 Airline Road"
+}

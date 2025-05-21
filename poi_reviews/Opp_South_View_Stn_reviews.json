@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.380287,
+      "lng": 103.744545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381680830291502,
+        "lng": 103.7459146802915
+      },
+      "southwest": {
+        "lat": 1.378982869708498,
+        "lng": 103.7432167197085
+      }
+    }
+  },
+  "name": "Opp South View Stn",
+  "place_id": "ChIJMWObucMR2jER013QAI3NoQI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=189658664814009811",
+  "vicinity": "Singapore"
+}

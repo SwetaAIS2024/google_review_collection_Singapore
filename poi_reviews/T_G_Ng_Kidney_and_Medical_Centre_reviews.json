@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, #09-19, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.307592,
+      "lng": 103.8199224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308870880291502,
+        "lng": 103.8213199802915
+      },
+      "southwest": {
+        "lat": 1.306172919708498,
+        "lng": 103.8186220197085
+      }
+    }
+  },
+  "name": "T G Ng Kidney & Medical Centre",
+  "place_id": "ChIJj0VnOSAa2jERIRsz8ZXXVvk",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17966784802437929761",
+  "vicinity": "6 Napier Road, #09-19, Singapore"
+}

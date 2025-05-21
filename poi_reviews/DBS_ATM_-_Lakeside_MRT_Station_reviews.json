@@ -1,0 +1,77 @@
+{
+  "formatted_address": "201 Boon Lay Wy, Singapore 649845",
+  "geometry": {
+    "location": {
+      "lat": 1.3442619,
+      "lng": 103.7204207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345717980291502,
+        "lng": 103.7217350302915
+      },
+      "southwest": {
+        "lat": 1.343020019708498,
+        "lng": 103.7190370697085
+      }
+    }
+  },
+  "name": "DBS ATM - Lakeside MRT Station",
+  "place_id": "ChIJpaJuUssP2jERTkoLZj4wDyk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Russell Lim",
+      "author_url": "https://www.google.com/maps/contrib/111209933177281907012/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzfl-CtpwDpAlgGWOw5Wcx2CqNrk42bjf9TQIGu4PWUI-i_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very conveniently located ATM. It's great!",
+      "time": 1695650761,
+      "translated": false
+    },
+    {
+      "author_name": "Kopi P",
+      "author_url": "https://www.google.com/maps/contrib/112702720923845679848/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0okUJzCK0MOGJJVpjyfI22kne5ZAJveIx6oKP5UTCxgj-BqHeHQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "The modern god of wealth.",
+      "time": 1452498660,
+      "translated": true
+    },
+    {
+      "author_name": "Honna Daniel",
+      "author_url": "https://www.google.com/maps/contrib/110975219135571230314/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIm0Jjwng974PovdhTi4vp2UEO4106DezdNOtW_gWI1ELxPd9SWw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1452352369,
+      "translated": false
+    },
+    {
+      "author_name": "Murugaiyan Senthil kumar",
+      "author_url": "https://www.google.com/maps/contrib/103595397026700423157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKabO2ukHkLztZj2GnsVaBmhL0GpIBApvRrMe4bVx9spiTNYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1356231488,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2958636524763826766",
+  "user_ratings_total": 4,
+  "vicinity": "201 Boon Lay Way"
+}

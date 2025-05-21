@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Tampines St. 73, Singapore 528704",
+  "geometry": {
+    "location": {
+      "lat": 1.3586835,
+      "lng": 103.9316197
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359963830291502,
+        "lng": 103.9331364302915
+      },
+      "southwest": {
+        "lat": 1.357265869708498,
+        "lng": 103.9304384697085
+      }
+    }
+  },
+  "name": "Black Rhino",
+  "place_id": "ChIJp3lC3I092jERMYrys-kR6r0",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13684770113162742321",
+  "vicinity": "1 Tampines Street 73, Singapore"
+}

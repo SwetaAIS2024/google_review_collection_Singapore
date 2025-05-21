@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321592,
+      "lng": 103.652481
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322913030291502,
+        "lng": 103.6538031802915
+      },
+      "southwest": {
+        "lat": 1.320215069708498,
+        "lng": 103.6511052197085
+      }
+    }
+  },
+  "name": "Times Printers",
+  "place_id": "ChIJ3Z-_a_EF2jERhee7JaUfcq8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12642201898145539973",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "9 Jurong Town Hall Rd, Singapore 609431",
+  "geometry": {
+    "location": {
+      "lat": 1.32855,
+      "lng": 103.7421438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329862530291502,
+        "lng": 103.7435955802915
+      },
+      "southwest": {
+        "lat": 1.327164569708498,
+        "lng": 103.7408976197085
+      }
+    }
+  },
+  "name": "INN x CSC",
+  "place_id": "ChIJQXiCE5MR2jERBOeyu-b82vk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Douglas Lee-OLoughlin",
+      "author_url": "https://www.google.com/maps/contrib/100376706445973501131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbq3LBH8Ut8BeARLF3Pd8uYn881jnPDH7NKCkwqclLLiXj9pO5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668389583,
+      "translated": false
+    },
+    {
+      "author_name": "Maman Kiefer",
+      "author_url": "https://www.google.com/maps/contrib/112542547780480212110/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlo2j4bwEm78QZieJxlavQ_DBfT5Niba6r1ZrD1Tn12CPKg8O3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608694613,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18003980528288720644",
+  "user_ratings_total": 2,
+  "vicinity": "9 Jurong Town Hall Road"
+}

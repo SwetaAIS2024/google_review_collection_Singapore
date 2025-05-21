@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.299198,
+      "lng": 103.858643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300519730291502,
+        "lng": 103.8600228302915
+      },
+      "southwest": {
+        "lat": 1.297821769708498,
+        "lng": 103.8573248697085
+      }
+    }
+  },
+  "name": "Opp The Gateway",
+  "place_id": "ChIJe8q7MLAZ2jER6xtexaUfpLM",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Jewel Ng",
+      "author_url": "https://www.google.com/maps/contrib/111841820855887152385/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYCk-QxupLHpaXlmkp-HaRPQ7SVDrPJCVqaVm1NPnW9t_BYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503823271,
+      "translated": false
+    },
+    {
+      "author_name": "Tarsicius Tan",
+      "author_url": "https://www.google.com/maps/contrib/117652318817850393177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGkjWtrlpAJSIyD92Ax1EHAVx3hcc_UVYvfLuUPV78KU22yjZ8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500857327,
+      "translated": false
+    },
+    {
+      "author_name": "Ghajaindren Vaitinandan",
+      "author_url": "https://www.google.com/maps/contrib/110612828221237600111/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBN3s-tiHKTgwCT8xfqhYtTmBd5AEiSZfmuidTVncglsgOeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479356733,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12944506025810992107",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

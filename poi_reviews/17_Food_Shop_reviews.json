@@ -1,0 +1,57 @@
+{
+  "formatted_address": "91 Joo Koon Cir, #02-03 Joo Koon MRT Station, Singapore 629116",
+  "geometry": {
+    "location": {
+      "lat": 1.3273767,
+      "lng": 103.6775648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328850730291502,
+        "lng": 103.6789171302915
+      },
+      "southwest": {
+        "lat": 1.326152769708498,
+        "lng": 103.6762191697085
+      }
+    }
+  },
+  "name": "17 Food Shop",
+  "place_id": "ChIJS1BYfVkF2jERoi_DYP2j5Tw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "OxztOx",
+      "author_url": "https://www.google.com/maps/contrib/106448887364347529496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxFbcKX99SeClPbSdEAPeoKSIEwYDeYOD-iE2q0-zcK4NvuXSg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "10 months ago",
+      "text": "The food is affordable, but the service needs some improvement. 😐 The space is very cramped, and it can be difficult to get in when others are leaving.",
+      "time": 1720131488,
+      "translated": false
+    },
+    {
+      "author_name": "Nicholas Ang",
+      "author_url": "https://www.google.com/maps/contrib/106488273600742656554/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9gDzOMuaFDRi8v6uqypQCvq1y6fBtBnIXo3cWG2lQ3efQOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good food",
+      "time": 1675401873,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4388093720587874210",
+  "user_ratings_total": 2,
+  "vicinity": "91 Joo Koon Circle, #02-03 Joo Koon MRT Station"
+}

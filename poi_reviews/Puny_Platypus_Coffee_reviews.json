@@ -1,0 +1,46 @@
+{
+  "formatted_address": "160 Hougang St 11, #10-45, Singapore 530160",
+  "geometry": {
+    "location": {
+      "lat": 1.3520408,
+      "lng": 103.8790756
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353407380291502,
+        "lng": 103.8804925302915
+      },
+      "southwest": {
+        "lat": 1.350709419708498,
+        "lng": 103.8777945697085
+      }
+    }
+  },
+  "name": "Puny Platypus Coffee",
+  "place_id": "ChIJHbtKMEUX2jERTeSGjZxvCaU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Junli",
+      "author_url": "https://www.google.com/maps/contrib/115717275655876320180/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOlvnVVye_L4ywgxRC59qJ-JIRQG9TdvOkzOMUk8wi-b92ecCX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "nice",
+      "time": 1747661807,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11892159009228514381",
+  "user_ratings_total": 1,
+  "vicinity": "160 Hougang Street 11, #10-45"
+}

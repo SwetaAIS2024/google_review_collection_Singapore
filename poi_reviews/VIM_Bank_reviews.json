@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Commonwealth Ln, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3043817,
+      "lng": 103.7973134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305730680291502,
+        "lng": 103.7986623802915
+      },
+      "southwest": {
+        "lat": 1.303032719708498,
+        "lng": 103.7959644197085
+      }
+    }
+  },
+  "name": "VIM Bank",
+  "place_id": "ChIJ7Z8W7EAa2jERil-ZGwz4y-s",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16990946750071660426",
+  "vicinity": "Commonwealth Lane"
+}

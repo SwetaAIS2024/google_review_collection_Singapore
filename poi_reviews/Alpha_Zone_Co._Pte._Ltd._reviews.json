@@ -1,0 +1,44 @@
+{
+  "formatted_address": "286 Choa Chu Kang Ave 3, Singapore 680286",
+  "geometry": {
+    "location": {
+      "lat": 1.379639,
+      "lng": 103.741602
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380929080291502,
+        "lng": 103.7430509302915
+      },
+      "southwest": {
+        "lat": 1.378231119708498,
+        "lng": 103.7403529697085
+      }
+    }
+  },
+  "name": "Alpha Zone Co. Pte. Ltd.",
+  "place_id": "ChIJB4ZLQcMR2jERU-QT7d8xW_w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Eric Liew",
+      "author_url": "https://www.google.com/maps/contrib/103912498975079190395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiH43lfLhL2akr2OiTWrt-x-A9A4yPMtIQVWC8OVhk5iqRLrQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1639733553,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18184182758263481427",
+  "user_ratings_total": 1,
+  "vicinity": "286 Choa Chu Kang Avenue 3"
+}

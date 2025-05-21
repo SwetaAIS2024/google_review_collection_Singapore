@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Geylang Serai, #01-K1 Market, Singapore 402001",
+  "geometry": {
+    "location": {
+      "lat": 1.316716,
+      "lng": 103.898214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317937430291502,
+        "lng": 103.8996163302915
+      },
+      "southwest": {
+        "lat": 1.315239469708498,
+        "lng": 103.8969183697085
+      }
+    }
+  },
+  "name": "UOB ATM - Geylang Serai Market",
+  "place_id": "ChIJddjCSnIZ2jER2hgtyzZ7okk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5305938786263046362",
+  "vicinity": "1 Geylang Serai, #01-K1 Market"
+}

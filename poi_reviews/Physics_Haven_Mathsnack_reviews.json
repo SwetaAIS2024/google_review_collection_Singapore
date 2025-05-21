@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3383685,
+      "lng": 103.8454497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339695980291502,
+        "lng": 103.8469427302915
+      },
+      "southwest": {
+        "lat": 1.336998019708498,
+        "lng": 103.8442447697085
+      }
+    }
+  },
+  "name": "Physics Haven Mathsnack",
+  "place_id": "ChIJpeGJ0mkX2jERmFusxi_JQsE",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13925914204816825240",
+  "vicinity": "Singapore"
+}

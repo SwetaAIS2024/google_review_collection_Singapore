@@ -1,0 +1,57 @@
+{
+  "formatted_address": "726 Clementi West Street 2, Singapore 120726",
+  "geometry": {
+    "location": {
+      "lat": 1.3038755,
+      "lng": 103.7643167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305472380291502,
+        "lng": 103.7658132802915
+      },
+      "southwest": {
+        "lat": 1.302774419708498,
+        "lng": 103.7631153197085
+      }
+    }
+  },
+  "name": "Chang Sheng Coffee Stall",
+  "place_id": "ChIJyUrFie0a2jERwEqsxw6dbqU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ron Ng",
+      "author_url": "https://www.google.com/maps/contrib/102898821791109530498/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMFCEWtfbz7ktdI0ldG0loTSNr3au9YTEN1JfUmIhzOr8nyCk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Ordered kopi siew-dai (coffee with less sugar) from Chang Sheng. Their coffee is robust local roasted with slight hint of coffee bitter and no sourness. The consistency is just right unlike some which can be very watered down. Feel free to chat with the friendly lady at the stall!",
+      "time": 1675310454,
+      "translated": false
+    },
+    {
+      "author_name": "Alvin Choo",
+      "author_url": "https://www.google.com/maps/contrib/113288475978172355218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx2YoR8jyv9CXYEN2bZx05b7TTzWyN74pTQaSK0qxdPbY6by8H=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Saw a constant queue at this stall and decided to give it a try. The kopi was only $1.10 (as at end Aug 2022).\n\nIt's surprisingly good considering the price. It's much better than your typical coffee shop kopi and doesn't have the sourness or siapness. The balance of coffee and milk is also just right. Will probably order frequently from them if I'm dining at the hawker centre.",
+      "time": 1661740263,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11920637950501341888",
+  "user_ratings_total": 2,
+  "vicinity": "726 Clementi West Street 2, Singapore"
+}

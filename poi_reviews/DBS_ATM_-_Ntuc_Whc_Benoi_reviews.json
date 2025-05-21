@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Joo Koon Circle #02-21 Ntuc Whc, Singapore 629117",
+  "geometry": {
+    "location": {
+      "lat": 1.3272207,
+      "lng": 103.6784398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328775780291502,
+        "lng": 103.6797804302915
+      },
+      "southwest": {
+        "lat": 1.326077819708498,
+        "lng": 103.6770824697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Whc Benoi",
+  "place_id": "ChIJ74OLDCwF2jERYPNqUU8rCFw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6631598070971429728",
+  "vicinity": "1 Joo Koon Circle #02-21 Ntuc Whc"
+}

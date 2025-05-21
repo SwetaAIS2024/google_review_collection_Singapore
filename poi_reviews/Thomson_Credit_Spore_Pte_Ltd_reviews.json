@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3233753,
+      "lng": 103.8420138
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324636280291502,
+        "lng": 103.8433329302915
+      },
+      "southwest": {
+        "lat": 1.321938319708498,
+        "lng": 103.8406349697085
+      }
+    }
+  },
+  "name": "Thomson Credit (S'pore) Pte Ltd",
+  "place_id": "ChIJiSAX4uAZ2jERv3Tres__EXw",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8940208001892709567",
+  "vicinity": "Singapore"
+}

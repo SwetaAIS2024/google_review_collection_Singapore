@@ -1,0 +1,42 @@
+{
+  "formatted_address": "41 Punggol Wy, Singapore 828862",
+  "geometry": {
+    "location": {
+      "lat": 1.4118894,
+      "lng": 103.9003962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.413222280291502,
+        "lng": 103.9017766802915
+      },
+      "southwest": {
+        "lat": 1.410524319708498,
+        "lng": 103.8990787197085
+      }
+    }
+  },
+  "name": "Ms Kenny's Vocal Studio",
+  "place_id": "ChIJTcm2eMzwwIsRphqlfiTHVE0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Liying Tan",
+      "author_url": "https://www.google.com/maps/contrib/114613807880159896053/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjqYp8EWb62wg0ynBPad0S6AMfkxIMNAItRcdpJkg6wDjbQnUh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739333920,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5572297598521645734",
+  "user_ratings_total": 1,
+  "vicinity": "41 Punggol Way"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "100 Jalan Sultan, #04-31, Sultan Plaza, Singapore 199001",
+  "geometry": {
+    "location": {
+      "lat": 1.302894,
+      "lng": 103.861897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304153230291502,
+        "lng": 103.8633010802915
+      },
+      "southwest": {
+        "lat": 1.301455269708498,
+        "lng": 103.8606031197085
+      }
+    }
+  },
+  "name": "Readiex Credit",
+  "place_id": "ChIJD_GIVLEZ2jERpx12IfQA3Xc",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8637060708899888551",
+  "vicinity": "100 Jalan Sultan, #04-31, Sultan Plaza"
+}

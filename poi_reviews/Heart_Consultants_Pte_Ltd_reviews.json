@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Mount Alvernia Hospital, Thomson Rd, #06-55 Medical Centre D, 820, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3417091,
+      "lng": 103.8386475
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343083480291502,
+        "lng": 103.8399542302915
+      },
+      "southwest": {
+        "lat": 1.340385519708498,
+        "lng": 103.8372562697085
+      }
+    }
+  },
+  "name": "Heart Consultants Pte Ltd",
+  "place_id": "ChIJH6LjvUYX2jERG9WtFe93elc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ankit suman",
+      "author_url": "https://www.google.com/maps/contrib/109645169535645733598/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt2HJ8S-Z6QheNK4VALvumx7KRXdUIIN-uVeXkLcMJVnROGKZT=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515560403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6303482497203033371",
+  "user_ratings_total": 1,
+  "vicinity": "Mount Alvernia Hospital, Thomson Road, #06-55 Medical Centre D, 820, Singapore"
+}

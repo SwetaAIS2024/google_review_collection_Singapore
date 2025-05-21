@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Pandan Valley, Singapore 597626",
+  "geometry": {
+    "location": {
+      "lat": 1.3205437,
+      "lng": 103.7789919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321952780291502,
+        "lng": 103.7803235302915
+      },
+      "southwest": {
+        "lat": 1.319254819708498,
+        "lng": 103.7776255697085
+      }
+    }
+  },
+  "name": "Core Studio Singapore",
+  "place_id": "ChIJsyE-RXwa2jERjGuLLX7DOm8",
+  "types": [
+    "gym",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8014933433556626316",
+  "vicinity": "2 Pandan Valley"
+}

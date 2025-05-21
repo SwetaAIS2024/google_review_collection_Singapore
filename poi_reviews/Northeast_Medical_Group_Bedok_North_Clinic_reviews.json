@@ -1,0 +1,45 @@
+{
+  "formatted_address": "79 Bedok North Rd, #01-256, Singapore 460079",
+  "geometry": {
+    "location": {
+      "lat": 1.327708,
+      "lng": 103.94082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328958780291502,
+        "lng": 103.9422245802915
+      },
+      "southwest": {
+        "lat": 1.326260819708498,
+        "lng": 103.9395266197085
+      }
+    }
+  },
+  "name": "Northeast Medical Group (Bedok North Clinic)",
+  "place_id": "ChIJISzXATQ92jEREqCDlOTu4tI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rebecca Tan",
+      "author_url": "https://www.google.com/maps/contrib/100353037058511503743/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh0PQdTD1oNdUd13tAgcS-UHA0_uMk1G2Io_fsurwfUuSsphW4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Nice doctor and receptionist. Clean and new small clinic.",
+      "time": 1730946823,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15195970758213083154",
+  "user_ratings_total": 1,
+  "vicinity": "79 Bedok North Road, #01-256"
+}

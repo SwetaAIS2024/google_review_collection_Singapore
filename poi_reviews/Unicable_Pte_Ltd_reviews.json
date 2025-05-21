@@ -1,0 +1,66 @@
+{
+  "formatted_address": "160 Gul Cir, Singapore 629618",
+  "geometry": {
+    "location": {
+      "lat": 1.319391,
+      "lng": 103.6770559
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320722180291502,
+        "lng": 103.6781594302915
+      },
+      "southwest": {
+        "lat": 1.318024219708498,
+        "lng": 103.6754614697085
+      }
+    }
+  },
+  "name": "Unicable Pte Ltd",
+  "place_id": "ChIJ-1sifIMF2jER6qRLLx9CNH4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jerry QUEK Cheng Pang",
+      "author_url": "https://www.google.com/maps/contrib/113936979720282607189/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOzTe1EpIQC3RThl66FAtjx_suMlvO8z6i8cycuzG9wEN1sw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "A cable manufacturing company.\nDated : 31/12/2017 ( Sunday ).",
+      "time": 1514840921,
+      "translated": false
+    },
+    {
+      "author_name": "Nicholas Chua",
+      "author_url": "https://www.google.com/maps/contrib/106725365910325681676/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUra22kf0dotOR7OmkCMcEAwHDtA5ZJr_Jm5p69sqQBd_X1l79Y=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Small cable manufacturer",
+      "time": 1468845513,
+      "translated": false
+    },
+    {
+      "author_name": "Cass Thaler",
+      "author_url": "https://www.google.com/maps/contrib/106185497208107823805/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDQkb34v2LlrdUUOZo-RrAhsFVETBX5L8SgdkFtdbnfI8x0zzriA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499998441,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9093966249272780010",
+  "user_ratings_total": 3,
+  "vicinity": "160 Gul Circle, Singapore"
+}

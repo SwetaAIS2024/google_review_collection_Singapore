@@ -1,0 +1,30 @@
+{
+  "formatted_address": "37 Tannery Ln, Singapore 347790",
+  "geometry": {
+    "location": {
+      "lat": 1.3284757,
+      "lng": 103.8771554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329678180291502,
+        "lng": 103.8784407302915
+      },
+      "southwest": {
+        "lat": 1.326980219708498,
+        "lng": 103.8757427697085
+      }
+    }
+  },
+  "name": "Advanced Medical Systems Pte Ltd",
+  "place_id": "ChIJJ6WerocX2jERzCE1t62gP0U",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4989883580113297868",
+  "vicinity": "37 Tannery Lane"
+}

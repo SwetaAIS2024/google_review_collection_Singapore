@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306226,
+      "lng": 103.656883
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307597480291502,
+        "lng": 103.6582073802915
+      },
+      "southwest": {
+        "lat": 1.304899519708498,
+        "lng": 103.6555094197085
+      }
+    }
+  },
+  "name": "Utracon Corp",
+  "place_id": "ChIJj_Oq_sAF2jERmfJfvXPAWRg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arman Roki",
+      "author_url": "https://www.google.com/maps/contrib/105997552728755401465/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLx6d9-SG4qP0c3PoEtKCsv6rYfDaXLrtT5zA9PVUB8Z1lufU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Bus no: 257",
+      "time": 1520829860,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1754645133168472729",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

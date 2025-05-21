@@ -1,0 +1,44 @@
+{
+  "formatted_address": "119 Potong Pasir Ave 1, Block 119, Singapore 350119",
+  "geometry": {
+    "location": {
+      "lat": 1.3343364,
+      "lng": 103.8627307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335718430291502,
+        "lng": 103.8640892302915
+      },
+      "southwest": {
+        "lat": 1.333020469708498,
+        "lng": 103.8613912697085
+      }
+    }
+  },
+  "name": "Potong Pasir Residents Garden",
+  "place_id": "ChIJOYw-qDoX2jER-S6ha1nsfLc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chris Anthony",
+      "author_url": "https://www.google.com/maps/contrib/109567393300489597553/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyOJAvSMLuGmztngw_X-qOqCo30q0rU39v2KeY1CPlAyM_jcH1xg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Quite ulu place. Not crowded",
+      "time": 1649730835,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13221702474854903545",
+  "user_ratings_total": 1,
+  "vicinity": "119 Potong Pasir Avenue 1, Block 119, Singapore"
+}

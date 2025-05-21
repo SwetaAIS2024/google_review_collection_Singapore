@@ -1,0 +1,30 @@
+{
+  "formatted_address": "102F Pasir Panjang Rd, Singapore 118530",
+  "geometry": {
+    "location": {
+      "lat": 1.276217,
+      "lng": 103.794921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277592080291502,
+        "lng": 103.7962002302915
+      },
+      "southwest": {
+        "lat": 1.274894119708498,
+        "lng": 103.7935022697085
+      }
+    }
+  },
+  "name": "Labo-medica Pte Ltd",
+  "place_id": "ChIJ6aqZJLkb2jERyyHt-rXg3qs",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12384583097518989771",
+  "vicinity": "102F Pasir Panjang Road, Singapore"
+}

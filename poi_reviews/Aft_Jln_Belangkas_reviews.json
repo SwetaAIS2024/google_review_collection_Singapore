@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.332182,
+      "lng": 103.883286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333555180291502,
+        "lng": 103.8846256802915
+      },
+      "southwest": {
+        "lat": 1.330857219708498,
+        "lng": 103.8819277197085
+      }
+    }
+  },
+  "name": "Aft Jln Belangkas",
+  "place_id": "ChIJzawd6I4X2jERAGDyUQ9vEmA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sayeed Khan",
+      "author_url": "https://www.google.com/maps/contrib/103132393316035235313/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqh4KkwvOyf5dAjr_sHR0OJLMmDy7EqNN61tsQMUZFhzl42oEi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611905612,
+      "translated": false
+    },
+    {
+      "author_name": "TK",
+      "author_url": "https://www.google.com/maps/contrib/106463518656166519656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_MJrCmzWjEkk12ai9CbU6me1v4JYTuWZ5-5VlvMplW_QuzQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512984917,
+      "translated": false
+    },
+    {
+      "author_name": "Ng Rex",
+      "author_url": "https://www.google.com/maps/contrib/113514340705014660282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY42WduLi_o8JOzBngRd5hBhBHAXCeQc6EJh3pSThzkpshJg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490153683,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6922717688811905024",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

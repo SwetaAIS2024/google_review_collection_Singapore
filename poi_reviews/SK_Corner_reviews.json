@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.341121,
+      "lng": 103.9630137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342590330291502,
+        "lng": 103.9643402802915
+      },
+      "southwest": {
+        "lat": 1.339892369708498,
+        "lng": 103.9616423197085
+      }
+    }
+  },
+  "name": "SK Corner",
+  "place_id": "ChIJ779kSQA92jERD8luc8E8b4s",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10047316095249860879",
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

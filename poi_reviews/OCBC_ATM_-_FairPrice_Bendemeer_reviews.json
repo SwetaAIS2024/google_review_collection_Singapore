@@ -1,0 +1,45 @@
+{
+  "formatted_address": "30 Bendemeer Rd, #01-871 FairPrice, Singapore 330030",
+  "geometry": {
+    "location": {
+      "lat": 1.3194407,
+      "lng": 103.8640637
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320814230291502,
+        "lng": 103.8653817802915
+      },
+      "southwest": {
+        "lat": 1.318116269708498,
+        "lng": 103.8626838197085
+      }
+    }
+  },
+  "name": "OCBC ATM - FairPrice Bendemeer",
+  "place_id": "ChIJJ2nF5ZcZ2jERy6XIyLzA6-8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lakshminarayanan H",
+      "author_url": "https://www.google.com/maps/contrib/116050982181400564677/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURWQRpwTFYYbhC3Tp0p-koApZniAxX9pdfy6m78GpAKBWHmcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice to serve",
+      "time": 1698230527,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17288123511646758347",
+  "user_ratings_total": 1,
+  "vicinity": "30 Bendemeer Road, #01-871 FairPrice, Singapore"
+}

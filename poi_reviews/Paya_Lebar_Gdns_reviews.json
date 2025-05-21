@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3441146,
+      "lng": 103.8827831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345472430291502,
+        "lng": 103.8841462802915
+      },
+      "southwest": {
+        "lat": 1.342774469708498,
+        "lng": 103.8814483197085
+      }
+    }
+  },
+  "name": "Paya Lebar Gdns",
+  "place_id": "ChIJe0NoNJYX2jERgjFg95cR_E8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hamril Norman",
+      "author_url": "https://www.google.com/maps/contrib/116150836175720733911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR4qqsmUfD3vZzgzFS3VcdCsd1v9qPbyyabF-JvTxG7hs9tQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521713813,
+      "translated": false
+    },
+    {
+      "author_name": "Mimi Huang",
+      "author_url": "https://www.google.com/maps/contrib/108765853101511337632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSqRT913SAnGt5o61VTQ5QjbAscNPUVvxUD3-kBAznxfOEPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498453823,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5763500967515402626",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

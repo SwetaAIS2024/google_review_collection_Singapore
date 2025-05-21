@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.339543,
+      "lng": 103.962906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340899330291502,
+        "lng": 103.9642544802915
+      },
+      "southwest": {
+        "lat": 1.338201369708498,
+        "lng": 103.9615565197085
+      }
+    }
+  },
+  "name": "Opp Sutd",
+  "place_id": "ChIJXSo-ztg82jER2SQZ2iOJj9I",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15172496456710431961",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.364846,
+      "lng": 103.958946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366164280291502,
+        "lng": 103.9602734802915
+      },
+      "southwest": {
+        "lat": 1.363466319708498,
+        "lng": 103.9575755197085
+      }
+    }
+  },
+  "name": "Bef Blk 187",
+  "place_id": "ChIJvSLs66o92jERD9Tfy5j0bY0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "javier tan",
+      "author_url": "https://www.google.com/maps/contrib/109222267515710092389/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhSZfxKmn9t8RLHpuTsuGO2j5iPrUtzq1kp9wdI2EbyQOy_QIF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682659491,
+      "translated": false
+    },
+    {
+      "author_name": "Irah Shabirah",
+      "author_url": "https://www.google.com/maps/contrib/105411921971746036281/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLsWqqQQgt22cXqmJMg5EJzylN8b5vDrRJetI7Fo770gqyqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1475829527,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10191070468901950479",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

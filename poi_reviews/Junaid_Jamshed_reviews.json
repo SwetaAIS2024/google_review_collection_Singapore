@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Tan Quee Lan St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2988741,
+      "lng": 103.85625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300254180291502,
+        "lng": 103.8576366802915
+      },
+      "southwest": {
+        "lat": 1.297556219708498,
+        "lng": 103.8549387197085
+      }
+    }
+  },
+  "name": "Junaid Jamshed",
+  "place_id": "ChIJQymGNQAZ2jERlXX4dj_oV2k",
+  "types": [
+    "campground",
+    "park",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7590791056232838549",
+  "vicinity": "Tan Quee Lan Street"
+}

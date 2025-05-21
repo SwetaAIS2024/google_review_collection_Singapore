@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Serangoon Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4146823,
+      "lng": 103.9186059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415866830291502,
+        "lng": 103.9196686302915
+      },
+      "southwest": {
+        "lat": 1.413168869708498,
+        "lng": 103.9169706697085
+      }
+    }
+  },
+  "name": "Coney Island (Beach Area A)",
+  "place_id": "ChIJHzJGMAA_2jER6WyQZfhpl3c",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Nice sandy beach.",
+      "time": 1743545771,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8617472927573503209",
+  "user_ratings_total": 1,
+  "vicinity": "Serangoon Island"
+}

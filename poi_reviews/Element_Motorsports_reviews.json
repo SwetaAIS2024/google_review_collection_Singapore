@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Turf Club Ave, Singapore 738078",
+  "geometry": {
+    "location": {
+      "lat": 1.4219732,
+      "lng": 103.7622404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423498930291502,
+        "lng": 103.7635298802915
+      },
+      "southwest": {
+        "lat": 1.420800969708498,
+        "lng": 103.7608319197085
+      }
+    }
+  },
+  "name": "Element Motorsports",
+  "place_id": "ChIJ6RI5X-gT2jERQ25MU8giKh4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jack Smith",
+      "author_url": "https://www.google.com/maps/contrib/108620665255382810332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDscSi_pAP7uLdxNFXBZoX2A-hEofunULJjN9Y99UAUg66_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "great place!",
+      "time": 1744339183,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2173588013946007107",
+  "user_ratings_total": 1,
+  "vicinity": "1 Turf Club Avenue"
+}

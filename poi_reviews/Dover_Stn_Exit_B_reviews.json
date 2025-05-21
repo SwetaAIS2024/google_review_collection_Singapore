@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.311679,
+      "lng": 103.778687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312990530291502,
+        "lng": 103.7799248802915
+      },
+      "southwest": {
+        "lat": 1.310292569708498,
+        "lng": 103.7772269197085
+      }
+    }
+  },
+  "name": "Dover Stn Exit B",
+  "place_id": "ChIJIXvVDGEa2jERvVGUrQkCgRk",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "HLA MOE",
+      "author_url": "https://www.google.com/maps/contrib/118083380521902444396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4XQIAvsA44t3Rp9ZvMKE4s2zJBW8KBWGfbEGKEXv1sgJjg_g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Train Station",
+      "time": 1518933222,
+      "translated": false
+    },
+    {
+      "author_name": "Vladimir Krisnov",
+      "author_url": "https://www.google.com/maps/contrib/106520752969408693079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhMDGUoMWoaL_WudXo5ksS2VsO2aEiNwjsAdXoFWjtWB7Jrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Good",
+      "time": 1513869185,
+      "translated": false
+    },
+    {
+      "author_name": "Mohan Raj",
+      "author_url": "https://www.google.com/maps/contrib/112205888681130701093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMjQpLYIi_V1n94oltl7ycpxeRH15hiaqQZMD1dHtqDZcSwVTO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1649594876,
+      "translated": false
+    },
+    {
+      "author_name": "Peng Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/105469780318854300502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlmebiPaGWWXkJmXcHijD51DcOSWecSAsReVmpwZ2xRflyXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631768727,
+      "translated": false
+    },
+    {
+      "author_name": "David Choo",
+      "author_url": "https://www.google.com/maps/contrib/104688215829690239709/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcjvZvNJCht2rILI4Qv0_hGOR40lDcArTbcLQ0kZ5tP7hU2R8Ikw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489676344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1837752363534012861",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

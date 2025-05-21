@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Dulwich Coll/Blk 445, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3525355,
+      "lng": 103.738298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353880780291502,
+        "lng": 103.7396376302915
+      },
+      "southwest": {
+        "lat": 1.351182819708498,
+        "lng": 103.7369396697085
+      }
+    }
+  },
+  "name": "DCSG",
+  "place_id": "ChIJvdzLO4YR2jERWfXJvXn1sLM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ALI AHMED",
+      "author_url": "https://www.google.com/maps/contrib/114299395538945430096/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2Wye3lWOSy3tW6xvgOeQpFrNJv44LaGNjeSmLZNebE1fTlgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740699003,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12948118831914153305",
+  "user_ratings_total": 1,
+  "vicinity": "Dulwich Coll/Blk 445"
+}

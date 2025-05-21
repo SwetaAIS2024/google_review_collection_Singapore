@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Swan Lake Ave, Singapore 455702",
+  "geometry": {
+    "location": {
+      "lat": 1.3210535,
+      "lng": 103.9242616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322361930291502,
+        "lng": 103.9256330302915
+      },
+      "southwest": {
+        "lat": 1.319663969708498,
+        "lng": 103.9229350697085
+      }
+    }
+  },
+  "name": "Age Supplies",
+  "place_id": "ChIJdfSSc64i2jERQbT4J4-duz8",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4592437483210847297",
+  "vicinity": "3 Swan Lake Avenue, Singapore"
+}

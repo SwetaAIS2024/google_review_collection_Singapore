@@ -1,0 +1,29 @@
+{
+  "formatted_address": "71 Pioneer Road #01, K3 Tuas Amenity Centre, Singapore 639591",
+  "geometry": {
+    "location": {
+      "lat": 1.3171893,
+      "lng": 103.6522825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318521680291502,
+        "lng": 103.6537497302915
+      },
+      "southwest": {
+        "lat": 1.315823719708498,
+        "lng": 103.6510517697085
+      }
+    }
+  },
+  "name": "UOB ATM - Tuas Amenity Centre",
+  "place_id": "ChIJV5o676gF2jERY_V39jfB_pY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10880346195876115811",
+  "vicinity": "71 Pioneer Road #01, K3 Tuas Amenity Centre"
+}

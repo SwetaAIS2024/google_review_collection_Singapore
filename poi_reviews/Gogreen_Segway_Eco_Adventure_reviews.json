@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.25295,
+      "lng": 103.81583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.254267680291502,
+        "lng": 103.8171504802915
+      },
+      "southwest": {
+        "lat": 1.251569719708498,
+        "lng": 103.8144525197085
+      }
+    }
+  },
+  "name": "Gogreen Segway Eco Adventure",
+  "place_id": "ChIJUa2ySv8b2jERfOeBF2NUs0U",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5022450794021119868",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.286176,
+      "lng": 103.785622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287527030291502,
+        "lng": 103.7869763802915
+      },
+      "southwest": {
+        "lat": 1.284829069708498,
+        "lng": 103.7842784197085
+      }
+    }
+  },
+  "name": "Opp LP 31",
+  "place_id": "ChIJxdMolK0b2jERFsH8KJgTcdA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Mike",
+      "author_url": "https://www.google.com/maps/contrib/113719386694804497709/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa2TwjGb68gOq9n-GWMsb9yVNofq5euS_1GA4yNjMXFAq5A2lGVw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Have cover for the rain about not connected to any building so if it rains you have to bring umbrella. Nothing else here as it is small station. Nothing here so no need to get off.",
+      "time": 1566723354,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15019807776500924694",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

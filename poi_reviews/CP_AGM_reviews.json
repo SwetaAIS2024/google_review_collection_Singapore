@@ -1,0 +1,29 @@
+{
+  "formatted_address": "132 Sophia Rd, Singapore 228186",
+  "geometry": {
+    "location": {
+      "lat": 1.3033625,
+      "lng": 103.8460427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304655480291502,
+        "lng": 103.8473106302915
+      },
+      "southwest": {
+        "lat": 1.301957519708498,
+        "lng": 103.8446126697085
+      }
+    }
+  },
+  "name": "CP AGM",
+  "place_id": "ChIJXahUhkIZ2jER5yh8MhrpU9s",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15804231816098621671",
+  "vicinity": "132 Sophia Road"
+}

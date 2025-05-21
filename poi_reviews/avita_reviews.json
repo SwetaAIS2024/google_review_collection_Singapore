@@ -1,0 +1,86 @@
+{
+  "formatted_address": "401 Commonwealth Dr, #01-03 Haw Par Technocentre, Singapore 149598",
+  "geometry": {
+    "location": {
+      "lat": 1.3031724,
+      "lng": 103.7967768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304526730291502,
+        "lng": 103.7981921802915
+      },
+      "southwest": {
+        "lat": 1.301828769708498,
+        "lng": 103.7954942197085
+      }
+    }
+  },
+  "name": "avita",
+  "place_id": "ChIJpbqBNEca2jERGL_JyDIbuDk",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Malcolm Lu",
+      "author_url": "https://www.google.com/maps/contrib/117085661819649918018/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPZDgFt3QLss2IkXS115bamqI7K_HR5Pj9ZH9Q2RUSyOZvIw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good coffee, and fantastic products that helps in aging well.",
+      "time": 1712821322,
+      "translated": false
+    },
+    {
+      "author_name": "hung poew hong",
+      "author_url": "https://www.google.com/maps/contrib/107442617569751326919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUucBF6Wcsq6b3HVyxkdvdfzvz8za3gjw0SO4esjg5y1JQFRRwB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "The free cuppaccino is great!",
+      "time": 1575950661,
+      "translated": false
+    },
+    {
+      "author_name": "Toh Wei Jun",
+      "author_url": "https://www.google.com/maps/contrib/100349192611992136345/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ16-dZ8REyBzIADadAjB3UpOItFVmtWXBZcaxh_zJJKkFRzt13=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736419814,
+      "translated": false
+    },
+    {
+      "author_name": "Malcolm Lu",
+      "author_url": "https://www.google.com/maps/contrib/109963397657825740702/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaXKsKWJuYyk3mUA9i86RrcQ9to5WPlzaYc0XfApaCL5sqCgWX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712821355,
+      "translated": false
+    },
+    {
+      "author_name": "choon-ping Teoh",
+      "author_url": "https://www.google.com/maps/contrib/115778820199804875405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzv92oXJ93n9OUkFYxjGdwwHUsNmreGmMVuf_2qAmjLKAR_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1639632823,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4159104160807632664",
+  "user_ratings_total": 12,
+  "vicinity": "401 Commonwealth Drive, #01-03 Haw Par Technocentre"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "277 Toh Guan Rd, Singapore 600277",
+  "geometry": {
+    "location": {
+      "lat": 1.3414294,
+      "lng": 103.7468631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342856830291502,
+        "lng": 103.7482139802915
+      },
+      "southwest": {
+        "lat": 1.340158869708498,
+        "lng": 103.7455160197085
+      }
+    }
+  },
+  "name": "Aqzog",
+  "place_id": "ChIJ47FlBhQQ2jERxUu0kN_ycvA",
+  "types": [
+    "point_of_interest",
+    "health",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17326177758467083205",
+  "vicinity": "277 Toh Guan Road"
+}

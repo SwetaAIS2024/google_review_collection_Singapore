@@ -1,0 +1,30 @@
+{
+  "formatted_address": "HDB Marine #01-176, 13 Marine Terrace (S)440013, Singapore 440013",
+  "geometry": {
+    "location": {
+      "lat": 1.3040803,
+      "lng": 103.9156225
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305419880291502,
+        "lng": 103.9170557302915
+      },
+      "southwest": {
+        "lat": 1.302721919708498,
+        "lng": 103.9143577697085
+      }
+    }
+  },
+  "name": "Madina Palace",
+  "place_id": "ChIJYVKEPp4i2jERw8-pVlr0oIk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9917195048308035523",
+  "vicinity": "HDB Marine #01-176, 13 Marine Terrace (S)440013"
+}

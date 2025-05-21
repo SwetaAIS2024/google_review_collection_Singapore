@@ -1,0 +1,29 @@
+{
+  "formatted_address": "The Chinese High School Clock Tower Building, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3268529,
+      "lng": 103.8023255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328347580291502,
+        "lng": 103.8033816302915
+      },
+      "southwest": {
+        "lat": 1.325649619708498,
+        "lng": 103.8006836697085
+      }
+    }
+  },
+  "name": "HCI High School Reception",
+  "place_id": "ChIJxQ5XiagR2jER82xx-KOWcJ8",
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11488848280414153971",
+  "vicinity": "The Chinese High School Clock Tower Building"
+}

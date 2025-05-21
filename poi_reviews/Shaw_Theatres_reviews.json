@@ -1,0 +1,28 @@
+{
+  "formatted_address": "50 Jurong Gateway Rd, Level 5 Jem, Singapore 608549",
+  "geometry": {
+    "location": {
+      "lat": 1.3335322,
+      "lng": 103.7436859
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334340630291502,
+        "lng": 103.7448960802915
+      },
+      "southwest": {
+        "lat": 1.331642669708498,
+        "lng": 103.7421981197085
+      }
+    }
+  },
+  "name": "Shaw Theatres",
+  "place_id": "ChIJSTfDSAAR2jER-vNUaG_XY1c",
+  "types": [
+    "movie_theater",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6297113577485825018",
+  "vicinity": "50 Jurong Gateway Road, Level 5 Jem, Singapore"
+}

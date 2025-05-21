@@ -1,0 +1,53 @@
+{
+  "formatted_address": "325 Braddell Rd, Singapore 579710",
+  "geometry": {
+    "location": {
+      "lat": 1.343297,
+      "lng": 103.843104
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345045480291502,
+        "lng": 103.8446652802915
+      },
+      "southwest": {
+        "lat": 1.342347519708498,
+        "lng": 103.8419673197085
+      }
+    }
+  },
+  "name": "Braddell-Westlake Secondary School",
+  "place_id": "ChIJ38prSUAX2jERtPrs0uGEPnU",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Amel",
+      "author_url": "https://www.google.com/maps/contrib/108545278007006962594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUeKDKiaFz78G35CgWfxINf5B7DO0cB3ERqCGTLu8J4kI6oco=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727936538,
+      "translated": false
+    },
+    {
+      "author_name": "Nes Guru",
+      "author_url": "https://www.google.com/maps/contrib/115352323897332541552/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKTPJT3XsFB-RC3Qec9h22qciJhfOtbPJtxTiDD8j9ZttI9A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490227831,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8448336056434883252",
+  "user_ratings_total": 2,
+  "vicinity": "325 Braddell Road"
+}

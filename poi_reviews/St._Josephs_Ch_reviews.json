@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29771,
+      "lng": 103.853226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299021530291502,
+        "lng": 103.8546054802915
+      },
+      "southwest": {
+        "lat": 1.296323569708498,
+        "lng": 103.8519075197085
+      }
+    }
+  },
+  "name": "St. Joseph's Ch",
+  "place_id": "ChIJlQWX2aQZ2jERy7q7HTTcf5c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Robin AGPC",
+      "author_url": "https://www.google.com/maps/contrib/107706864360659116775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVajNdp8YJssFYRN-9BxZlqk_3FWWu4bAygfxBm00BcQ3PsntZZ0A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Beautiful Portuguese church, starting from 1821.",
+      "time": 1730893322,
+      "translated": false
+    },
+    {
+      "author_name": "Y Surmawan",
+      "author_url": "https://www.google.com/maps/contrib/102664645928399307742/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY4UpuWuxMdMVlG0MBF5wF6nHbKukfvc0ZsVxsEGCIyJD8vBE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743606314,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10916686138164624075",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

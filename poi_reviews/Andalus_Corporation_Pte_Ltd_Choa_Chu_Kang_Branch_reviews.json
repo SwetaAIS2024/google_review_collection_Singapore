@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Choa Chu Kang Central, B1-266 Block 218, Singapore 680220",
+  "geometry": {
+    "location": {
+      "lat": 1.3828623,
+      "lng": 103.7457727
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384288230291502,
+        "lng": 103.7470695802915
+      },
+      "southwest": {
+        "lat": 1.381590269708498,
+        "lng": 103.7443716197085
+      }
+    }
+  },
+  "name": "Andalus Corporation Pte Ltd (Choa Chu Kang Branch)",
+  "place_id": "ChIJbaHBI8IR2jERCzq2jwb44iU",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Budi hayat",
+      "author_url": "https://www.google.com/maps/contrib/106732632136557011207/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKhgD0P3oudyhDWk1Z3aCWz2WQcdU-jmqf3O9ms2eHotnMi5sX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Very good",
+      "time": 1546665133,
+      "translated": true
+    },
+    {
+      "author_name": "Rozana Md.Ghazali",
+      "author_url": "https://www.google.com/maps/contrib/101511678418838020114/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt04oT_xCDJVGnwINjt2jsA8sMHG7IxMfef78Awv3nERtilA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476883265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2730017031204518411",
+  "user_ratings_total": 2,
+  "vicinity": "Choa Chu Kang Central, B1-266 Block 218, Singapore"
+}

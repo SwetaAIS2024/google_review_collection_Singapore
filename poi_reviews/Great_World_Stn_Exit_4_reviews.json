@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2961596,
+      "lng": 103.8325351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297590430291502,
+        "lng": 103.8338312802915
+      },
+      "southwest": {
+        "lat": 1.294892469708498,
+        "lng": 103.8311333197085
+      }
+    }
+  },
+  "name": "Great World Stn Exit 4",
+  "place_id": "ChIJkxHi14QZ2jERWLV1P2Jl0lE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jason Gunawan",
+      "author_url": "https://www.google.com/maps/contrib/106813712986749829705/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGXmZFJUii9_6KmRtjAVVNVlxPKISQAoA7iH8nKLajefy7ig=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602173627,
+      "translated": false
+    },
+    {
+      "author_name": "Spark Wang",
+      "author_url": "https://www.google.com/maps/contrib/107260623333558967602/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCvwFbwvOaJVS8cVf-SAxX5tEqLIxh1GnXJ8GWxiTHY0ZYmA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513353331,
+      "translated": false
+    },
+    {
+      "author_name": "Belle Smith",
+      "author_url": "https://www.google.com/maps/contrib/108761531119550460422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICaQHnHJMSP8KxmEOd2x6BKs3Vs2-Sr-FpSnD6x94gXUR5_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484286771,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5895886334827279704",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

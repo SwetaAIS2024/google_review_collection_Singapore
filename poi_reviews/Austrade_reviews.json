@@ -1,0 +1,28 @@
+{
+  "formatted_address": "25 Napier Rd, Singapore 258507",
+  "geometry": {
+    "location": {
+      "lat": 1.3054896,
+      "lng": 103.8194271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306826980291502,
+        "lng": 103.8207758802915
+      },
+      "southwest": {
+        "lat": 1.304129019708498,
+        "lng": 103.8180779197085
+      }
+    }
+  },
+  "name": "Austrade",
+  "place_id": "ChIJAQAAWCAa2jERM3iPwiLGKhU",
+  "types": [
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1525249276413704243",
+  "vicinity": "25 Napier Road"
+}

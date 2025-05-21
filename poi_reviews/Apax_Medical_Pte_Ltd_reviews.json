@@ -1,0 +1,30 @@
+{
+  "formatted_address": "02-11 Woodlands Rd, Singapore 677899",
+  "geometry": {
+    "location": {
+      "lat": 1.3803855,
+      "lng": 103.7606825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381740480291502,
+        "lng": 103.7620435302915
+      },
+      "southwest": {
+        "lat": 1.379042519708498,
+        "lng": 103.7593455697085
+      }
+    }
+  },
+  "name": "Apax Medical Pte Ltd",
+  "place_id": "ChIJw12NV7wR2jER8dflizG5GcI",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13986413740227418097",
+  "vicinity": "02-11 Woodlands Road"
+}

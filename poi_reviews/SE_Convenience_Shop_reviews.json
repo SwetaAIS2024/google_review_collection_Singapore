@@ -1,0 +1,56 @@
+{
+  "formatted_address": "34 Upper Cross Street, Chin Swee Rd, #01-140 View, Singapore 050034",
+  "geometry": {
+    "location": {
+      "lat": 1.285532,
+      "lng": 103.843718
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286803230291502,
+        "lng": 103.8453649302915
+      },
+      "southwest": {
+        "lat": 1.284105269708498,
+        "lng": 103.8426669697085
+      }
+    }
+  },
+  "name": "SE Convenience Shop",
+  "place_id": "ChIJ3VG-4BQZ2jERR74o8PUKG7o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cường Mạnh",
+      "author_url": "https://www.google.com/maps/contrib/113101119575806568442/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5mn7DDJ6dXuaMdkFe_GNn6hpQzGFsyEpnyYzwncu5vfAzTX3RSg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1691203735,
+      "translated": false
+    },
+    {
+      "author_name": "张国发",
+      "author_url": "https://www.google.com/maps/contrib/107950161198593534568/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeQTx5QabRiMd4jA86bDUH69t-rRwdRnCFIGjLr-ldvEiVuRI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737181468,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13410324366838251079",
+  "user_ratings_total": 2,
+  "vicinity": "34 Upper Cross Street, Chin Swee Road, #01-140 View, Singapore"
+}

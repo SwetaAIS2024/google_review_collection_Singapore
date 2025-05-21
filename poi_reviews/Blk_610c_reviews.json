@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.364262,
+      "lng": 103.934776
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365609980291502,
+        "lng": 103.9361088802915
+      },
+      "southwest": {
+        "lat": 1.362912019708498,
+        "lng": 103.9334109197085
+      }
+    }
+  },
+  "name": "Blk 610c",
+  "place_id": "ChIJycHczJ892jERO0TjVuhTxFo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6540444816204055611",
+  "vicinity": "Singapore"
+}

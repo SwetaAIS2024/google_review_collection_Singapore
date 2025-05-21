@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3437378,
+      "lng": 103.9619382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345077230291502,
+        "lng": 103.9633217302915
+      },
+      "southwest": {
+        "lat": 1.342379269708498,
+        "lng": 103.9606237697085
+      }
+    }
+  },
+  "name": "Opp Changi Ct",
+  "place_id": "ChIJz_nn69882jERQFuj_xyGTjU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "david eldo",
+      "author_url": "https://www.google.com/maps/contrib/100010583063605289912/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqxbZVOWu-xhCOtYiNfAwq7q2NWDzUPoQeTfv2CV2f2IJPs4Q6=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Ok",
+      "time": 1699139957,
+      "translated": false
+    },
+    {
+      "author_name": "Cheng Loo",
+      "author_url": "https://www.google.com/maps/contrib/113462677657006335998/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrNweetz2Kklc4AbUc89gy4dzVvhholnSseJocNwKhw2dtZevO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489456016,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson Cheah",
+      "author_url": "https://www.google.com/maps/contrib/102733035798160435592/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX689GDLQpU_t9VarxkEsjW-_hGNCwXprf9PEp4a1LAqMYb5pgkAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484074313,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3841154991299713856",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

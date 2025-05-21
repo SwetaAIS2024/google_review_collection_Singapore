@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3865339,
+      "lng": 103.7588624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387893580291502,
+        "lng": 103.7601816802915
+      },
+      "southwest": {
+        "lat": 1.385195619708498,
+        "lng": 103.7574837197085
+      }
+    }
+  },
+  "name": "Bef Blk 629a Cp",
+  "place_id": "ChIJA7nBlpYR2jERioO2fvnjpCg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2928716318409917322",
+  "vicinity": "Singapore"
+}

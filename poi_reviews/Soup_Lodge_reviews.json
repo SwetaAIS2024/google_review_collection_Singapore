@@ -1,0 +1,57 @@
+{
+  "formatted_address": "17 Woodlands Dr 17, B1-03/04 Woodlands Health Campus, Singapore 737628",
+  "geometry": {
+    "location": {
+      "lat": 1.4246598,
+      "lng": 103.7945968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426368930291502,
+        "lng": 103.7959295302915
+      },
+      "southwest": {
+        "lat": 1.423670969708498,
+        "lng": 103.7932315697085
+      }
+    }
+  },
+  "name": "Soup Lodge",
+  "place_id": "ChIJAzwvbwAT2jERmGlKswcJcOY",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "HC Lum",
+      "author_url": "https://www.google.com/maps/contrib/107295031316336799609/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDOJg1i_sM4cjVmjKhPThReshPjzhOlNUrsNW38jDlP-Cxow=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Came here on Sunday for lunch and this place is still busy as it’s in the hospital. Ordered the chicken pig stomach soup with olive rice. Both go along very well, the soup is not really thick and not very peppery. The soup ingredients have chicken, pig stomach and fish maw. But it’s not much given considering the price paid $7.80 for the soup.",
+      "time": 1744504476,
+      "translated": false
+    },
+    {
+      "author_name": "Wayne Phang",
+      "author_url": "https://www.google.com/maps/contrib/106843121529443535765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXpdKuKQP1VClIqn4LTLX8bvSdjLpyhpaPp5TzHOe4fPvfFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Non existence",
+      "time": 1740151432,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16604781754792438168",
+  "user_ratings_total": 2,
+  "vicinity": "17 Woodlands Drive 17, B1-03/04 Woodlands Health Campus, Singapore"
+}

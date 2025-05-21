@@ -1,0 +1,28 @@
+{
+  "formatted_address": "50 Nanyang Ave, Block N3.1, Singapore 639798",
+  "geometry": {
+    "location": {
+      "lat": 1.3437648,
+      "lng": 103.6807383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345160280291502,
+        "lng": 103.6823200802915
+      },
+      "southwest": {
+        "lat": 1.342462319708498,
+        "lng": 103.6796221197085
+      }
+    }
+  },
+  "name": "Dauwels Lab",
+  "place_id": "ChIJz0NGonUP2jERDFhZ7T9rqGs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7757568280454846476",
+  "vicinity": "50 Nanyang Avenue, Block N3.1, Singapore"
+}

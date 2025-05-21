@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.273978,
+      "lng": 103.844894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275289330291502,
+        "lng": 103.8462722302915
+      },
+      "southwest": {
+        "lat": 1.272591369708498,
+        "lng": 103.8435742697085
+      }
+    }
+  },
+  "name": "Hub Synergy Pt",
+  "place_id": "ChIJtY_3tBQZ2jERALsQfWi0hpY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tham Weng Cheong",
+      "author_url": "https://www.google.com/maps/contrib/106435282494475864710/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUoNVGTQ6g4dqa08sTS_3bFF2d4A3QrTYi9rgoMKRSrPaNnhCF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I'm expecting to work in this building!😍😃",
+      "time": 1660653844,
+      "translated": false
+    },
+    {
+      "author_name": "md shohel",
+      "author_url": "https://www.google.com/maps/contrib/112569854247118321416/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJslkP2-4qHF1e2TdRIfy0RuubriU-MKRgr54cYAztgS68rFA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489884669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10846555113436265216",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

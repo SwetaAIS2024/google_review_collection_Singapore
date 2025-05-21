@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Rd, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3419181,
+      "lng": 103.8375243
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343273280291502,
+        "lng": 103.8390442802915
+      },
+      "southwest": {
+        "lat": 1.340575319708498,
+        "lng": 103.8363463197085
+      }
+    }
+  },
+  "name": "Nobel Chest & Internal Medicine Centre",
+  "place_id": "ChIJ5QKG6kYX2jERwJrYDhwbio4",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10271051707493948096",
+  "vicinity": "820 Thomson Road"
+}

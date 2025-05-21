@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337532,
+      "lng": 103.915329
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338929880291502,
+        "lng": 103.9166632802915
+      },
+      "southwest": {
+        "lat": 1.336231919708498,
+        "lng": 103.9139653197085
+      }
+    }
+  },
+  "name": "Aft Bedok Ind Pk C",
+  "place_id": "ChIJ4QWAZFg92jERlp9PQqkp8kc",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Uniq Me",
+      "author_url": "https://www.google.com/maps/contrib/112229657979017809356/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_qdSPj4IqUGJjHu-aiGGbIpSNC9B1ysSeCDGthnaL0TpqYpA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "This is one of two bus stops nearest to Masjid Alkaff Bedok Reservoir",
+      "time": 1506059843,
+      "translated": false
+    },
+    {
+      "author_name": "JAYSEN",
+      "author_url": "https://www.google.com/maps/contrib/113253776157690447937/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY3edrSDdOdumKFC1HL2BzNWI-t6REdbtmohIk20UfIgNQGQ6oKQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good",
+      "time": 1642245175,
+      "translated": false
+    },
+    {
+      "author_name": "Lee Yen Kai",
+      "author_url": "https://www.google.com/maps/contrib/106831000368010785611/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU084NIg3eLDMsY62ZMNf6H-w3PtHx2iATJhb2PaEd68pG_vGC3aw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523162557,
+      "translated": false
+    },
+    {
+      "author_name": "朱文卫",
+      "author_url": "https://www.google.com/maps/contrib/112111918443418723841/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjIat0jYT1xbZb5BLsR8qdPzrWI8BlUXfaEG__bri53nZhT0K2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499472927,
+      "translated": false
+    },
+    {
+      "author_name": "Sathish Chinnadurai",
+      "author_url": "https://www.google.com/maps/contrib/116909210751738733555/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBuNHKBW-ekTQK9OQjqAVaf1uHXViA9gx-fPsLr-QlOAe9sgyl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1470005172,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5184251927995588502",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

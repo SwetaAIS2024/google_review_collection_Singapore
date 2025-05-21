@@ -1,0 +1,45 @@
+{
+  "formatted_address": "79250 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.425493,
+      "lng": 103.617022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426804680291502,
+        "lng": 103.6183508802915
+      },
+      "southwest": {
+        "lat": 1.424106719708498,
+        "lng": 103.6156529197085
+      }
+    }
+  },
+  "name": "Opposite MyDin Anjung",
+  "place_id": "ChIJ0ftcOZQL2jER3FZ_aYvvnEU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee Oliver",
+      "author_url": "https://www.google.com/maps/contrib/109604923782172571257/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViOl5JIQpZLNNL1RxECt_0t-C4BEjchB9qBrinTZF8bau1Hydd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I would like to express my gratitude to the police officer Mr. Norman who gave me professional, efficient and quick help and guidance. Thank you!",
+      "time": 1605159483,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5016147467033335516",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

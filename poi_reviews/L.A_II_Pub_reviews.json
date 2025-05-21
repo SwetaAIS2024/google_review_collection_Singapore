@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Kramat Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3015973,
+      "lng": 103.8418398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302981930291502,
+        "lng": 103.8432012302915
+      },
+      "southwest": {
+        "lat": 1.300283969708498,
+        "lng": 103.8405032697085
+      }
+    }
+  },
+  "name": "L.A II Pub",
+  "place_id": "ChIJVVw8ESsZ2jERNt9UkRtzN6c",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Trung Pro",
+      "author_url": "https://www.google.com/maps/contrib/102303876615055388014/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9_ePxR8aNeTCoPz9mcBemoSB6zKHNLPBjHk99NtC9okFmiLbnsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687132505,
+      "translated": false
+    },
+    {
+      "author_name": "Karansingh Matharu",
+      "author_url": "https://www.google.com/maps/contrib/114689334142951778551/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNMNTOAppRg7VOLjGykCuoLeySJsaKRNMGdPvhZFf_lNGSiC9m=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530963413,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12049225890292621110",
+  "user_ratings_total": 2,
+  "vicinity": "Kramat Road"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "127 Lor 1 Toa Payoh, #02-19, Singapore 310127",
+  "geometry": {
+    "location": {
+      "lat": 1.338036,
+      "lng": 103.8447232
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339482730291502,
+        "lng": 103.8459442802915
+      },
+      "southwest": {
+        "lat": 1.336784769708498,
+        "lng": 103.8432463197085
+      }
+    }
+  },
+  "name": "GAGA CURRY",
+  "place_id": "ChIJ-_V1WIwX2jERRgSsQB1fmj8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gerald",
+      "author_url": "https://www.google.com/maps/contrib/116795626572665934660/reviews",
+      "language": "lus",
+      "original_language": "lus",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr7RTqW9XA4vFGTpmaT8G3xBQPTr7wurb2Zu9Tcg966p4eCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice leh",
+      "time": 1698890806,
+      "translated": false
+    },
+    {
+      "author_name": "Hongyuan Zhang",
+      "author_url": "https://www.google.com/maps/contrib/107519520100199774912/reviews",
+      "language": "zh",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDbiMWC2TKPYyJV-o7on12Vqs5QTuM79rxvImwvzNGvMCTwwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "赞👍",
+      "time": 1698226630,
+      "translated": false
+    },
+    {
+      "author_name": "yujia zhang",
+      "author_url": "https://www.google.com/maps/contrib/107295976825660600807/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7lEnKI34atRaMXV-riq-N2VLgRKxf8fT2tUTqloBfBwoKLcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698226722,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4583080150046606406",
+  "user_ratings_total": 3,
+  "vicinity": "127 Lorong 1 Toa Payoh, #02-19"
+}

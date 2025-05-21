@@ -1,0 +1,28 @@
+{
+  "formatted_address": "#01-316 Hougang Street 91, Blk 950, Singapore 530950",
+  "geometry": {
+    "location": {
+      "lat": 1.3756948,
+      "lng": 103.8787635
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377178580291502,
+        "lng": 103.8801718302915
+      },
+      "southwest": {
+        "lat": 1.374480619708498,
+        "lng": 103.8774738697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 950 Hougang",
+  "place_id": "ChIJxR42O1sW2jERV3RSYumzwBs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1999796049510822999",
+  "vicinity": "#01-316 Hougang Street 91, Blk 950"
+}

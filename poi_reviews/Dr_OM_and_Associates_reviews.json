@@ -1,0 +1,45 @@
+{
+  "formatted_address": "63b Temple St, Singapore 058608",
+  "geometry": {
+    "location": {
+      "lat": 1.2832604,
+      "lng": 103.8433265
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284647830291502,
+        "lng": 103.8446976802915
+      },
+      "southwest": {
+        "lat": 1.281949869708498,
+        "lng": 103.8419997197085
+      }
+    }
+  },
+  "name": "Dr OM & Associates",
+  "place_id": "ChIJE5D9aQkZ2jERkXNMKFEsnzU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Patou Chette",
+      "author_url": "https://www.google.com/maps/contrib/103782277728649925772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLobiETS51q3Ho3UNzpVJAMVlv2BP1SAnBWqXsi0C3czpu45w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Dr Oberdan has an extraordinary way with words and ability to read people and identify their blind spots quickly. There is no time wasted. He goes straight to the point skillfully.",
+      "time": 1666936414,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3863855732387246993",
+  "user_ratings_total": 1,
+  "vicinity": "63b Temple Street"
+}

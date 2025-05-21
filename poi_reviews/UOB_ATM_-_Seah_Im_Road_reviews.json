@@ -1,0 +1,30 @@
+{
+  "formatted_address": "4 Seah Im Rd, Singapore 099115",
+  "geometry": {
+    "location": {
+      "lat": 1.2645926,
+      "lng": 103.821554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266000780291502,
+        "lng": 103.8227004302915
+      },
+      "southwest": {
+        "lat": 1.263302819708498,
+        "lng": 103.8200024697085
+      }
+    }
+  },
+  "name": "UOB ATM - Seah Im Road",
+  "place_id": "ChIJwXRcmOEb2jER9p9lXnW2WpA",
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10401826904576729078",
+  "vicinity": "4 Seah Im Road"
+}

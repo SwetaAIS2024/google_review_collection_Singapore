@@ -1,0 +1,28 @@
+{
+  "formatted_address": "689578, 21 Choa Chu Kang North 6, B1-53, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3972432,
+      "lng": 103.7465648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398646180291502,
+        "lng": 103.7479325802915
+      },
+      "southwest": {
+        "lat": 1.395948219708498,
+        "lng": 103.7452346197085
+      }
+    }
+  },
+  "name": "Aroma Hub",
+  "place_id": "ChIJkX0w__MR2jERfyC9U8Xslq8",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12652560535401603199",
+  "vicinity": "21 Choa Chu Kang North 6, B1-53"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "30 Eastwood Rd, Singapore 486365",
+  "geometry": {
+    "location": {
+      "lat": 1.3210213,
+      "lng": 103.9561116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322426830291502,
+        "lng": 103.9575305802915
+      },
+      "southwest": {
+        "lat": 1.319728869708498,
+        "lng": 103.9548326197085
+      }
+    }
+  },
+  "name": "Global Resource Corporation. Ltd",
+  "place_id": "ChIJodLloNYi2jERSG_jnQfip68",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "billydakid akapaizan",
+      "author_url": "https://www.google.com/maps/contrib/105617043611545864703/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQlogS_zbE7TAK0-qQpgquZkbWHB4I5Z3asPljWWla2YeyaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689086253,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12657333800089644872",
+  "user_ratings_total": 1,
+  "vicinity": "30 Eastwood Road"
+}

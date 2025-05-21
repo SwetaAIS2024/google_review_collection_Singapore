@@ -1,0 +1,53 @@
+{
+  "formatted_address": "201 Boon Lay Wy, Singapore 649845",
+  "geometry": {
+    "location": {
+      "lat": 1.3442374,
+      "lng": 103.7207253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345748880291502,
+        "lng": 103.7220181302915
+      },
+      "southwest": {
+        "lat": 1.343050919708498,
+        "lng": 103.7193201697085
+      }
+    }
+  },
+  "name": "SimplyGo Ticketing Service Centre",
+  "place_id": "ChIJRbJiD-cP2jERiGnO4RaAc_Q",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Wilson Chang",
+      "author_url": "https://www.google.com/maps/contrib/102589058598808274925/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-vSXjFi0PgWtWv9WneTaljLWq2hldwR7n8loebb8nf3h2GWAe=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "Review is for the SimplyGo mobile app. Unlike the previous EZ-LINK app, SimplyGo is taking too long to show the updated balance.\n\nI top-up on the 14/4 and till date 17/4, it still does not show the actual and top-up value on my SimplyGo app. Does it take longer than 48 hours for the card value to be updated ?",
+      "time": 1744871863,
+      "translated": false
+    },
+    {
+      "author_name": "张培俊",
+      "author_url": "https://www.google.com/maps/contrib/101362592458368412798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHWvP6FPIMhycseG4X297fwI065_GxISwI2uHGMtgQfzaxmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1619599057,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17614563403342178696",
+  "user_ratings_total": 2,
+  "vicinity": "201 Boon Lay Way, Singapore"
+}

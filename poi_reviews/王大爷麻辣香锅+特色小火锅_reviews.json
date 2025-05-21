@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Elias Rd, Elias Mall, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3783052,
+      "lng": 103.9418722
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379700280291502,
+        "lng": 103.9431493302915
+      },
+      "southwest": {
+        "lat": 1.377002319708498,
+        "lng": 103.9404513697085
+      }
+    }
+  },
+  "name": "王大爷麻辣香锅+特色小火锅",
+  "place_id": "ChIJS3i9JQA92jERn5EE89SSWA8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "N",
+      "author_url": "https://www.google.com/maps/contrib/112820689936895245496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Z_GJZRCwzye03_Q2iJkcxnn2I8HZqBmOMRDG1PKPtJe1ow=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Tasty, value for money. The cook dishes are very good. Like restaurants",
+      "time": 1734523449,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1105795151827341727",
+  "user_ratings_total": 1,
+  "vicinity": "Elias Road, Elias Mall"
+}

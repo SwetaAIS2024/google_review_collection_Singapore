@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 20 Tampines Central 1, Tampines MRT Station, Singapore 529538",
+  "geometry": {
+    "location": {
+      "lat": 1.3535537,
+      "lng": 103.9449445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354643580291502,
+        "lng": 103.9463654302915
+      },
+      "southwest": {
+        "lat": 1.351945619708498,
+        "lng": 103.9436674697085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines MRT Station",
+  "place_id": "ChIJHZlX9IE92jERK_J5m3ecpu0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17124546670646391339",
+  "vicinity": "No. 20 Tampines Central 1, Tampines MRT Station"
+}

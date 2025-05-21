@@ -1,0 +1,30 @@
+{
+  "formatted_address": "51 Changi Business Park Central 2, Singapore 486066",
+  "geometry": {
+    "location": {
+      "lat": 1.3348353,
+      "lng": 103.9652112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336049380291502,
+        "lng": 103.9665768302915
+      },
+      "southwest": {
+        "lat": 1.333351419708498,
+        "lng": 103.9638788697085
+      }
+    }
+  },
+  "name": "Comstar Mobile",
+  "place_id": "ChIJ0bgrZ9c82jERncd9XRI0wB8",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2287885864186791837",
+  "vicinity": "51 Changi Business Park Central 2"
+}

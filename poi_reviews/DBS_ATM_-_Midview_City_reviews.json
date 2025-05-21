@@ -1,0 +1,45 @@
+{
+  "formatted_address": "28 Sin Ming Ln, Singapore 573970",
+  "geometry": {
+    "location": {
+      "lat": 1.3598954,
+      "lng": 103.8340355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361294880291502,
+        "lng": 103.8352777302915
+      },
+      "southwest": {
+        "lat": 1.358596919708498,
+        "lng": 103.8325797697085
+      }
+    }
+  },
+  "name": "DBS ATM - Midview City",
+  "place_id": "ChIJ283kDyYX2jERQPX63Sa8ORo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Spyder",
+      "author_url": "https://www.google.com/maps/contrib/113303686508191485341/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVMJzWbboyNoF0nNKYuZiRImwLhj9QDAyOWvw8Wtc7WicRRbDD=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "a convenient DBS self service location.it has a ATM machine and a cheque deposit box. you can draw money or drop a cheque without going to a crowded mall.",
+      "time": 1589263388,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1889748393777624384",
+  "user_ratings_total": 1,
+  "vicinity": "28 Sin Ming Lane, Singapore"
+}

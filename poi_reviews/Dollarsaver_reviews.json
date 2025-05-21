@@ -1,0 +1,28 @@
+{
+  "formatted_address": "60 Paya Lebar Rd, Singapore 409051",
+  "geometry": {
+    "location": {
+      "lat": 1.3191645,
+      "lng": 103.8925348
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320438380291502,
+        "lng": 103.8935901302915
+      },
+      "southwest": {
+        "lat": 1.317740419708498,
+        "lng": 103.8908921697085
+      }
+    }
+  },
+  "name": "Dollarsaver",
+  "place_id": "ChIJjyEmNzMZ2jERq0BV4xgVm4c",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9771427013147836587",
+  "vicinity": "60 Paya Lebar Road"
+}

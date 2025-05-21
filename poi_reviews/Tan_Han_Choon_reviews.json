@@ -1,0 +1,29 @@
+{
+  "formatted_address": "631 Bedok Reservoir Rd, Singapore 470631",
+  "geometry": {
+    "location": {
+      "lat": 1.3334111,
+      "lng": 103.9148982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334751430291502,
+        "lng": 103.9161786302915
+      },
+      "southwest": {
+        "lat": 1.332053469708498,
+        "lng": 103.9134806697085
+      }
+    }
+  },
+  "name": "Tan Han Choon",
+  "place_id": "ChIJmVNLLFY92jERI7lvkxy1si8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3437008599974394147",
+  "vicinity": "631 Bedok Reservoir Road"
+}

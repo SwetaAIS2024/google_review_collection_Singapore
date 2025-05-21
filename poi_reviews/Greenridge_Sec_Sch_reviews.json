@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382702,
+      "lng": 103.773094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384057330291502,
+        "lng": 103.7744096302915
+      },
+      "southwest": {
+        "lat": 1.381359369708498,
+        "lng": 103.7717116697085
+      }
+    }
+  },
+  "name": "Greenridge Sec Sch",
+  "place_id": "ChIJdTtgJaAR2jERM-BvMPsqXrQ",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12996872832975626291",
+  "vicinity": "Singapore"
+}

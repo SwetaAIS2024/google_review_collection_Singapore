@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Pasir Panjang Drive 3, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2821199,
+      "lng": 103.7616107
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283495980291502,
+        "lng": 103.7629757802915
+      },
+      "southwest": {
+        "lat": 1.280798019708498,
+        "lng": 103.7602778197085
+      }
+    }
+  },
+  "name": "PSA P10",
+  "place_id": "ChIJyXYaLAAb2jERlSPK-sDPylA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5821693896078009237",
+  "vicinity": "Pasir Panjang Drive 3"
+}

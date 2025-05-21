@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3069,
+      "lng": 103.91471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308460030291502,
+        "lng": 103.9159667802915
+      },
+      "southwest": {
+        "lat": 1.305762069708498,
+        "lng": 103.9132688197085
+      }
+    }
+  },
+  "name": "Opp Blk 57, Marine Parade Rd",
+  "place_id": "ChIJ3WC9_J8i2jERD_SFo_kLn4U",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Annahs Alecidnag",
+      "author_url": "https://www.google.com/maps/contrib/103990429699384740489/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlnrUm9HnvOKrTR2g3NC-gh6BH43LQf3UonFAnhIj9C96Xdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Stupid duplicate but Google refuse to remove",
+      "time": 1692461915,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9628427695159637007",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

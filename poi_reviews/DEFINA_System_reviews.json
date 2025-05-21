@@ -1,0 +1,29 @@
+{
+  "formatted_address": "438A Alexandra Rd, Singapore 119967",
+  "geometry": {
+    "location": {
+      "lat": 1.2777047,
+      "lng": 103.8008548
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278925480291502,
+        "lng": 103.8021414302915
+      },
+      "southwest": {
+        "lat": 1.276227519708498,
+        "lng": 103.7994434697085
+      }
+    }
+  },
+  "name": "DEFINA System",
+  "place_id": "ChIJdYu4qccb2jERZvZ1f_6GuN8",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16120783293790942822",
+  "vicinity": "438A Alexandra Road"
+}

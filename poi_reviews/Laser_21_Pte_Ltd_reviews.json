@@ -1,0 +1,43 @@
+{
+  "formatted_address": "63 Hillview Ave, #09-23 Lam Soon Industrial Building, Singapore 669569",
+  "geometry": {
+    "location": {
+      "lat": 1.3570307,
+      "lng": 103.763132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358502280291502,
+        "lng": 103.7644145802915
+      },
+      "southwest": {
+        "lat": 1.355804319708498,
+        "lng": 103.7617166197085
+      }
+    }
+  },
+  "name": "Laser 21 Pte Ltd",
+  "place_id": "ChIJtRCke24Q2jERxT1JpDnwnJA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Normal Tan",
+      "author_url": "https://www.google.com/maps/contrib/106639655844359794656/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVEAiadge_CatYmomVhtNSsXVSL-u8e7y9BK8Q3dDmUOZzNSTgow=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Best laser company",
+      "time": 1499585429,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10420467768188550597",
+  "user_ratings_total": 1,
+  "vicinity": "63 Hillview Avenue, #09-23 Lam Soon Industrial Building"
+}

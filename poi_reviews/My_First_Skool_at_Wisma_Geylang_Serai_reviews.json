@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Engku Aman Rd, #04-01 Turn, Singapore 408528",
+  "geometry": {
+    "location": {
+      "lat": 1.3166488,
+      "lng": 103.8962716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318022830291502,
+        "lng": 103.8975828802915
+      },
+      "southwest": {
+        "lat": 1.315324869708498,
+        "lng": 103.8948849197085
+      }
+    }
+  },
+  "name": "My First Skool at Wisma Geylang Serai",
+  "place_id": "ChIJVQB2uXYZ2jER-gNMLV2JzXA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pooja H",
+      "author_url": "https://www.google.com/maps/contrib/105985381858161541339/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-HHtqKGccPHVnzF-QkdCyyV0pHri9wWzkLDqAMkNhG3i2hw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Lovely childcare centre. The teachers are very caring, communicative, and flexible, and my child has learnt so much. The centre itself is also very new and modern, and bright and welcoming.",
+      "time": 1684249130,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8128303935758533626",
+  "user_ratings_total": 1,
+  "vicinity": "1 Engku Aman Road, #04-01 Turn"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 849 Yishun Ring Rd, #01-K1, Singapore 760849",
+  "geometry": {
+    "location": {
+      "lat": 1.4169654,
+      "lng": 103.8354208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418277830291502,
+        "lng": 103.8368411802915
+      },
+      "southwest": {
+        "lat": 1.415579869708498,
+        "lng": 103.8341432197085
+      }
+    }
+  },
+  "name": "UOB ATM - Yishun Ring Road",
+  "place_id": "ChIJRXMHTnUV2jER5Dk9BmJcmoM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9482993541463226852",
+  "vicinity": "Blk 849 Yishun Ring Road, #01-K1"
+}

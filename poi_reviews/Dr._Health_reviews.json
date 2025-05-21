@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Geylang Rd, Singapore 389649",
+  "geometry": {
+    "location": {
+      "lat": 1.3134257,
+      "lng": 103.8837629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314743880291502,
+        "lng": 103.8851179802915
+      },
+      "southwest": {
+        "lat": 1.312045919708498,
+        "lng": 103.8824200197085
+      }
+    }
+  },
+  "name": "Dr. Health",
+  "place_id": "ChIJ7yAEej0Y2jER_f-wc2PA9Ic",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9796666622812946429",
+  "vicinity": "Geylang Road"
+}

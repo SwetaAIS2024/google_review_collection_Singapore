@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.312047,
+      "lng": 103.938738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313374080291502,
+        "lng": 103.9400929302915
+      },
+      "southwest": {
+        "lat": 1.310676119708498,
+        "lng": 103.9373949697085
+      }
+    }
+  },
+  "name": "The Bayshore Condo, Bayshore Rd",
+  "place_id": "ChIJIa5oS8ci2jERMdXogy_oI-0",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Colin Chin",
+      "author_url": "https://www.google.com/maps/contrib/106447379008910085271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbel7HA4VJ6_doQBY88I9fkm-_Ti8aIeG5XvljYDgr0tA3R3wP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I guess this shuttle bus service will be withdrawn after TEL Stage 4 opens",
+      "time": 1643267381,
+      "translated": false
+    },
+    {
+      "author_name": "Vex Neuro",
+      "author_url": "https://www.google.com/maps/contrib/101291690056466521613/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-c-hKFz6kQfWmgZfpN5glAuxEN0jdJbstFrv6xQmRQb_3B6s=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "i almost got hit by a car",
+      "time": 1602150248,
+      "translated": false
+    },
+    {
+      "author_name": "Tony Thomas",
+      "author_url": "https://www.google.com/maps/contrib/110442914951021980040/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs1--AQNKTq2PWTIUmAeRB4jIIIBVgOEQ-F_ICGMS9W-7QBBjgZw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561227666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17087756701947974961",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

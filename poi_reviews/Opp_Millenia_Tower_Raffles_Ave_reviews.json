@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2928614,
+      "lng": 103.8609389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294202480291502,
+        "lng": 103.8622633802915
+      },
+      "southwest": {
+        "lat": 1.291504519708498,
+        "lng": 103.8595654197085
+      }
+    }
+  },
+  "name": "Opp Millenia Tower/Raffles Ave",
+  "place_id": "ChIJ_U4mSqkZ2jERLjUhj-4RPXs",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "J Ong",
+      "author_url": "https://www.google.com/maps/contrib/111528477878425379681/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9i9HmRSlhKG2poI3H7CdE5cK2P-XMrhxgh61FFMLd7iRX-6IrBg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Convenient Bus stop here",
+      "time": 1666631957,
+      "translated": false
+    },
+    {
+      "author_name": "Tanvi Mittra",
+      "author_url": "https://www.google.com/maps/contrib/107697944967359117959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQzgfxNjClzNF0_FItRXvUXev4hdWJAwRHs_IS_vUgs7BsDuYc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "It's good",
+      "time": 1668699406,
+      "translated": false
+    },
+    {
+      "author_name": "Sweet Flower",
+      "author_url": "https://www.google.com/maps/contrib/103351747361388051566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOj3M6UaBRFVE5xQbH7GmJHhCB4h1EPsKje41l9u_A0-UWsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491290800,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8880273756545692974",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

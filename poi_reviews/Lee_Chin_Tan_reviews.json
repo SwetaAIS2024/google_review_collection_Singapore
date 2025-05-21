@@ -1,0 +1,29 @@
+{
+  "formatted_address": "19 Lor 6 Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3354709,
+      "lng": 103.8570427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337039730291502,
+        "lng": 103.8586697302915
+      },
+      "southwest": {
+        "lat": 1.334341769708498,
+        "lng": 103.8559717697085
+      }
+    }
+  },
+  "name": "Lee Chin Tan",
+  "place_id": "ChIJfyaIrnoX2jERZoss27NYGbU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13049558924782242662",
+  "vicinity": "19 Lorong 6 Toa Payoh"
+}

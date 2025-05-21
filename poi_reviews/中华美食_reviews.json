@@ -1,0 +1,30 @@
+{
+  "formatted_address": "18 Tuas Ave 7, Singapore 639272",
+  "geometry": {
+    "location": {
+      "lat": 1.3329886,
+      "lng": 103.6447094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334245630291502,
+        "lng": 103.6459713802915
+      },
+      "southwest": {
+        "lat": 1.331547669708498,
+        "lng": 103.6432734197085
+      }
+    }
+  },
+  "name": "中华美食",
+  "place_id": "ChIJiQAoNgAP2jER8QYppWQFwnA",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8125062607555593969",
+  "vicinity": "18 Tuas Avenue 7, Singapore"
+}

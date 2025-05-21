@@ -1,0 +1,42 @@
+{
+  "formatted_address": "3 Tuas Ave 1, Singapore 639488",
+  "geometry": {
+    "location": {
+      "lat": 1.320512,
+      "lng": 103.6585491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321778280291502,
+        "lng": 103.6599906802915
+      },
+      "southwest": {
+        "lat": 1.319080319708498,
+        "lng": 103.6572927197085
+      }
+    }
+  },
+  "name": "TM Motor Works Pte Ltd",
+  "place_id": "ChIJ0X5q2PIF2jEReijpM2xhmy8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hazari Hashim",
+      "author_url": "https://www.google.com/maps/contrib/111740519665031828289/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrUXX_v-fKiTiZy_0FoUNW_W9FmparZ-AlwrkavFlbsUofuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703757210,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3430442658528045178",
+  "user_ratings_total": 1,
+  "vicinity": "3 Tuas Avenue 1, Singapore"
+}

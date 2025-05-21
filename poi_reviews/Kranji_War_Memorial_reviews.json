@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.421813,
+      "lng": 103.755974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423174530291502,
+        "lng": 103.7573006802915
+      },
+      "southwest": {
+        "lat": 1.420476569708498,
+        "lng": 103.7546027197085
+      }
+    }
+  },
+  "name": "Kranji War Memorial",
+  "place_id": "ChIJ61e5k0AS2jERVl7N2XhI5JY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "R How",
+      "author_url": "https://www.google.com/maps/contrib/110758099034915641963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrBV9JzJ3bPvXWCkJfUWNeu62qf8wMA-HjCiejIsV-iNmVgw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "A beautiful serene location. A fitting tribute to all those who lost their lives during Japanese invasion and occupation of Singapore. Thank you to all those workers and Singapore Military who help maintain this memorial.",
+      "time": 1742744135,
+      "translated": false
+    },
+    {
+      "author_name": "Rafael阿飛",
+      "author_url": "https://www.google.com/maps/contrib/115563276897032085623/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRCxPu2sB_4x2GyyF_rsf-1NWdu5emLGiFtUdWrvLklrxjejxa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "This is a good place . Help people to memory the people died in WWII aganist Japan.",
+      "time": 1501599684,
+      "translated": false
+    },
+    {
+      "author_name": "Noomery",
+      "author_url": "https://www.google.com/maps/contrib/112434870817764052641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hWFQH__0-nXCcWSbBrTUrdbCrW6s4OHLzjlZ1GZ-0e0W5tjz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607346517,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10872895084266610262",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

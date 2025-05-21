@@ -1,0 +1,44 @@
+{
+  "formatted_address": "East Ledang, 79250 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.42294,
+      "lng": 103.61472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424295680291502,
+        "lng": 103.6160735802915
+      },
+      "southwest": {
+        "lat": 1.421597719708498,
+        "lng": 103.6133756197085
+      }
+    }
+  },
+  "name": "East Ledang",
+  "place_id": "ChIJkSJxFZUL2jERXc3-L8I6M8A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rauf Rauf",
+      "author_url": "https://www.google.com/maps/contrib/102007057105791997954/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZwBdcTQIhJdwtYGB0KqkIOeJhXvxLPUrmW2cWmfe5M0myC1HO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Good",
+      "time": 1736347101,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13849477884797701469",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

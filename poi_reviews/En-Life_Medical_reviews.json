@@ -1,0 +1,30 @@
+{
+  "formatted_address": "8 Commonwealth Ln, Singapore 149555",
+  "geometry": {
+    "location": {
+      "lat": 1.3053749,
+      "lng": 103.7976062
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306868280291502,
+        "lng": 103.7987966802915
+      },
+      "southwest": {
+        "lat": 1.304170319708498,
+        "lng": 103.7960987197085
+      }
+    }
+  },
+  "name": "En-Life Medical",
+  "place_id": "ChIJq6pqj0Aa2jERP8axHtt2DAs",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=796141917622617663",
+  "vicinity": "8 Commonwealth Lane"
+}

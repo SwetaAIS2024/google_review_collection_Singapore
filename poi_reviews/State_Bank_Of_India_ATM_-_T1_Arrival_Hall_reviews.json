@@ -1,0 +1,29 @@
+{
+  "formatted_address": "65 Airport Blvd., Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.356549,
+      "lng": 103.9873537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357839080291502,
+        "lng": 103.9888293302915
+      },
+      "southwest": {
+        "lat": 1.355141119708498,
+        "lng": 103.9861313697085
+      }
+    }
+  },
+  "name": "State Bank Of India ATM - T1 Arrival Hall",
+  "place_id": "ChIJr0lLVYs82jERkcBpCEQdaww",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=894841128999305361",
+  "vicinity": "65 Airport Boulevard"
+}

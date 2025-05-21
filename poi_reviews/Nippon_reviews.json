@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324519,
+      "lng": 103.692764
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325903180291502,
+        "lng": 103.6941126302915
+      },
+      "southwest": {
+        "lat": 1.323205219708498,
+        "lng": 103.6914146697085
+      }
+    }
+  },
+  "name": "Nippon",
+  "place_id": "ChIJ61Fg3XwF2jERT8k9stFD8MU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14262974587799980367",
+  "vicinity": "Singapore"
+}

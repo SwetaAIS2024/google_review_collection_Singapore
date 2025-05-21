@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337033,
+      "lng": 103.837349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338381980291502,
+        "lng": 103.8386979802915
+      },
+      "southwest": {
+        "lat": 1.335684019708498,
+        "lng": 103.8360000197085
+      }
+    }
+  },
+  "name": "Aft Toa Payoh Rise",
+  "place_id": "ChIJx9i2wUQX2jERHwxIOl177YE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "Not connected by any shelters, and is a bus stop in the middle of nowhere. It's right across from Far East flora, which is good if you're trying to visit the flower wholesaler, but if not, there's honestly no reason you should be at this busstop.",
+      "time": 1600618884,
+      "translated": false
+    },
+    {
+      "author_name": "Prabhu Sathyamoorthy",
+      "author_url": "https://www.google.com/maps/contrib/109673199300677814404/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhnqccvJdrPrbvIPed8vUNx8iqdLqDdYi2j3noMBftzN0T2CG6_A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497057669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9362274840713104415",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

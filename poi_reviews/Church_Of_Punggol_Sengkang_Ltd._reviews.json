@@ -1,0 +1,45 @@
+{
+  "formatted_address": "66 Kallang Pudding Rd, #07-01, Singapore 349324",
+  "geometry": {
+    "location": {
+      "lat": 1.3272549,
+      "lng": 103.8789677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328671330291502,
+        "lng": 103.8802200302915
+      },
+      "southwest": {
+        "lat": 1.325973369708498,
+        "lng": 103.8775220697085
+      }
+    }
+  },
+  "name": "Church Of Punggol Sengkang Ltd.",
+  "place_id": "ChIJizoemlQX2jERw_oKZNjUVkg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "En Pa Wang 왕은파",
+      "author_url": "https://www.google.com/maps/contrib/117669522934755410858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcIgUGfdWdZKxZZTMCnm9M9m07awMaSwfN2ZJcJ58LCXJDJh64=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "My childhood Church in Singapore.",
+      "time": 1661317235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5212587644584393411",
+  "user_ratings_total": 1,
+  "vicinity": "66 Kallang Pudding Road, #07-01"
+}

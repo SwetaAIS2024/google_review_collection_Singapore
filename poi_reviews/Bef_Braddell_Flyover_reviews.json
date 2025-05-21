@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.343503,
+      "lng": 103.862633
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345003330291502,
+        "lng": 103.8642668802915
+      },
+      "southwest": {
+        "lat": 1.342305369708498,
+        "lng": 103.8615689197085
+      }
+    }
+  },
+  "name": "Bef Braddell Flyover",
+  "place_id": "ChIJAXJpm3QX2jERPkoCwJadY3s",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Alister",
+      "author_url": "https://www.google.com/maps/contrib/117225194078968416615/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKISr3nfa14qaC5UR_jCqZ6x7G0D7s51ucPtjSQlbXfPlMqajM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609525977,
+      "translated": false
+    },
+    {
+      "author_name": "Desmond Goh",
+      "author_url": "https://www.google.com/maps/contrib/105777095527000250103/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_RnghQQj-a1swhWfCP-5FN9xSnOIqUx4jvnt__8aclfmmvpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482298129,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8891123360151521854",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

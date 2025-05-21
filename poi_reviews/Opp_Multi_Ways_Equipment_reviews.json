@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.302438,
+      "lng": 103.661736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303809180291502,
+        "lng": 103.6631091802915
+      },
+      "southwest": {
+        "lat": 1.301111219708498,
+        "lng": 103.6604112197085
+      }
+    }
+  },
+  "name": "Opp Multi Ways Equipment",
+  "place_id": "ChIJt8ok5bgF2jERjiM-vYiwfnw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8970801609105613710",
+  "vicinity": "Singapore"
+}

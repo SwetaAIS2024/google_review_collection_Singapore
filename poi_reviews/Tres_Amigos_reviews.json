@@ -1,0 +1,90 @@
+{
+  "formatted_address": "5 Haji Ln, Singapore 189198",
+  "geometry": {
+    "location": {
+      "lat": 1.3003428,
+      "lng": 103.8593676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301696580291502,
+        "lng": 103.8607227802915
+      },
+      "southwest": {
+        "lat": 1.298998619708498,
+        "lng": 103.8580248197085
+      }
+    }
+  },
+  "name": "Tres Amigos",
+  "place_id": "ChIJyUKCSikZ2jERH-dPr3Ef0bo",
+  "rating": 4.1,
+  "reviews": [
+    {
+      "author_name": "Bahador Emrani",
+      "author_url": "https://www.google.com/maps/contrib/108380891260498370824/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8bX8aJsf3ZlO-f851HQCMuw70i3sIHWxfsljzuVzAh7SCm7QJvg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Friendly stuff, nice food with interesting environment, would suggest it for Mexican night",
+      "time": 1576417986,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Dallat",
+      "author_url": "https://www.google.com/maps/contrib/109866891652137094601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjF5PRd6WuqlEH5y6N2IaDMoWzJapmfb6gh8nBqTBh8ISQ6IoZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Inedible, left without finishing most of my meal.",
+      "time": 1658465562,
+      "translated": false
+    },
+    {
+      "author_name": "Vikash Rai",
+      "author_url": "https://www.google.com/maps/contrib/104710209546662215649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfxYnk-EwZ0g2b6BYh0RXUxZNUr6Kg2_C9jkmrA8M9CepVFhrUjQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Good food and nice ambience.",
+      "time": 1551766298,
+      "translated": false
+    },
+    {
+      "author_name": "Vidhi Bhatt",
+      "author_url": "https://www.google.com/maps/contrib/104196657646187524118/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVG6C-kKhSIZEtDZF5zP1XYSYVDaknv36nD2c7k0rbwJETR4EkaRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Amazing! A little expensive though",
+      "time": 1568087322,
+      "translated": false
+    },
+    {
+      "author_name": "Steven Ong",
+      "author_url": "https://www.google.com/maps/contrib/115080701712978764189/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZkcBAH7u_Dmz8E8P7biKVed3Rmi4Luj_pzvVPq0BuMrSUdRT0Xg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683029559,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13461575334320138015",
+  "user_ratings_total": 10,
+  "vicinity": "5 Haji Lane"
+}

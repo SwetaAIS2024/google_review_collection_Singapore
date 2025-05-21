@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314643,
+      "lng": 103.654259
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315972330291502,
+        "lng": 103.6555888802915
+      },
+      "southwest": {
+        "lat": 1.313274369708498,
+        "lng": 103.6528909197085
+      }
+    }
+  },
+  "name": "Tru-Marine",
+  "place_id": "ChIJFRxBGOwF2jERl0zLCz7JZ5w",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11270197860840983703",
+  "vicinity": "Singapore"
+}

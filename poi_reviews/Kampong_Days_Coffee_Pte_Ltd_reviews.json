@@ -1,0 +1,55 @@
+{
+  "formatted_address": "114 Neil Rd, Singapore 088852",
+  "geometry": {
+    "location": {
+      "lat": 1.2790735,
+      "lng": 103.8418222
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280398430291502,
+        "lng": 103.8431979302915
+      },
+      "southwest": {
+        "lat": 1.277700469708498,
+        "lng": 103.8404999697085
+      }
+    }
+  },
+  "name": "Kampong Days Coffee Pte Ltd",
+  "place_id": "ChIJ6YVFnW0Z2jERP2ZR-Yh7rSY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Stephen Orchard",
+      "author_url": "https://www.google.com/maps/contrib/103978491597088623689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0b4n5R7AB25BGLlT1WLuc84EdqU_HMxlgmZSxjUD3pynplw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Love the fact that this stall opens early so a jet lagged visitor can get a coffee. All the more fashionable coffee shops don’t open for another 3 hours or more. That alone gets 5* from me. It is authentic and is what it says on the packet.",
+      "time": 1705276127,
+      "translated": false
+    },
+    {
+      "author_name": "Brice Li",
+      "author_url": "https://www.google.com/maps/contrib/100603442612410033575/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe86Y3xtyajYOmTdZG1LZBN3_ZZrxl5watNX5Tl2lb_YxZHoZf=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1537683294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2787019572640835135",
+  "user_ratings_total": 2,
+  "vicinity": "114 Neil Road"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "18 Defu Ave 2, Singapore 539522",
+  "geometry": {
+    "location": {
+      "lat": 1.3597705,
+      "lng": 103.9007781
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361142280291502,
+        "lng": 103.9023064302915
+      },
+      "southwest": {
+        "lat": 1.358444319708498,
+        "lng": 103.8996084697085
+      }
+    }
+  },
+  "name": "Yew Guan Auto Co.",
+  "place_id": "ChIJgV5mxs0X2jERKFepmGogots",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Khaista Rehman",
+      "author_url": "https://www.google.com/maps/contrib/109256204431245682319/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwRzzbU-oRavclhL9drw8x80HP3JN2791_25_zGAOoAxpoLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477588471,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15826247682733201192",
+  "user_ratings_total": 1,
+  "vicinity": "18 Defu Avenue 2, Singapore"
+}

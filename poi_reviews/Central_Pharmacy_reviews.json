@@ -1,0 +1,44 @@
+{
+  "formatted_address": "378 Alexandra Rd, Alexandra Hospital, Singapore 159964",
+  "geometry": {
+    "location": {
+      "lat": 1.2865489,
+      "lng": 103.8013239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287838280291502,
+        "lng": 103.8027562302915
+      },
+      "southwest": {
+        "lat": 1.285140319708498,
+        "lng": 103.8000582697085
+      }
+    }
+  },
+  "name": "Central Pharmacy",
+  "place_id": "ChIJp7fHTY8b2jERmvYR3mxqQ-A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Katherine Lee",
+      "author_url": "https://www.google.com/maps/contrib/116210033373968169449/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC5e95QBllkrADpuuoAQ7q1w6KtRNQXveGGHeDpgtETxUrvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741845465,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16159876903750203034",
+  "user_ratings_total": 1,
+  "vicinity": "378 Alexandra Road, Alexandra Hospital, Singapore"
+}

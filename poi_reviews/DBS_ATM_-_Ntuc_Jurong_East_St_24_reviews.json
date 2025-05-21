@@ -1,0 +1,29 @@
+{
+  "formatted_address": "249 Jurong East St 24, Singapore 600249",
+  "geometry": {
+    "location": {
+      "lat": 1.3425343,
+      "lng": 103.7393451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343958930291502,
+        "lng": 103.7407384802915
+      },
+      "southwest": {
+        "lat": 1.341260969708498,
+        "lng": 103.7380405197085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Jurong East St 24",
+  "place_id": "ChIJ8xdtDI8R2jERagof5vKiiNo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15747015261227518570",
+  "vicinity": "249 Jurong East Street 24"
+}

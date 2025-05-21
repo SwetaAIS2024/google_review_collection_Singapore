@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1 Seletar West Link, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4032954,
+      "lng": 103.8626453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404918980291502,
+        "lng": 103.8641103802915
+      },
+      "southwest": {
+        "lat": 1.402221019708498,
+        "lng": 103.8614124197085
+      }
+    }
+  },
+  "name": "RR",
+  "place_id": "ChIJNwt1Q-EV2jERankJZZJKrV8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6894248597194897770",
+  "vicinity": "1 Seletar West Link"
+}

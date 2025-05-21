@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Bukit Purmei Rd, #01-213 Block 112, Singapore 090112",
+  "geometry": {
+    "location": {
+      "lat": 1.2745295,
+      "lng": 103.8259281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275962380291502,
+        "lng": 103.8272795802915
+      },
+      "southwest": {
+        "lat": 1.273264419708498,
+        "lng": 103.8245816197085
+      }
+    }
+  },
+  "name": "Hui Shang",
+  "place_id": "ChIJuX_dHvkZ2jERYyZgXvuwAH4",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "David Lim",
+      "author_url": "https://www.google.com/maps/contrib/113015809076678685697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLS3ZG_4tg4er1MEsAI1BWdOzZburAGUZEONTwR9LqHlrg1Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Great place to shop at. Drinks are delicious and cheap! The coke is 70 cents! Ice cream is great, gummies are in good condition. But there are very little snacks to buy from so please add some to your shop.",
+      "time": 1741178022,
+      "translated": false
+    },
+    {
+      "author_name": "vbzable S",
+      "author_url": "https://www.google.com/maps/contrib/114226160168882596401/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxwa09VdQChVwsG_8jM6HJ0hShXxLKKet9sQZFp65bWeu7gSgI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733532239,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9079451442445559395",
+  "user_ratings_total": 2,
+  "vicinity": "Bukit Purmei Road, #01-213 Block 112"
+}

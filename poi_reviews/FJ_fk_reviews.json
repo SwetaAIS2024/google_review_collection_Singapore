@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "FJ fk",
+  "place_id": "ChIJs3mSkEUR2jERUuI1rUBcGIM",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9446401651263267410",
+  "vicinity": "Singapore"
+}

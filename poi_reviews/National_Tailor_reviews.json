@@ -1,0 +1,41 @@
+{
+  "formatted_address": "1 Jalan Anak Bukit, Bukit Timah Rd, #02-09A, Singapore 588996",
+  "geometry": {
+    "location": {
+      "lat": 1.3386157,
+      "lng": 103.7786157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340047730291502,
+        "lng": 103.7800120802915
+      },
+      "southwest": {
+        "lat": 1.337349769708498,
+        "lng": 103.7773141197085
+      }
+    }
+  },
+  "name": "National Tailor",
+  "place_id": "ChIJJcNC9F8X2jERkXh7M_4Cwc4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joshua Lim",
+      "author_url": "https://www.google.com/maps/contrib/107248482263044171785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqF5ANhLfdeG32MJ9JTCkinmhXMHhi_MZYzB8nb_UVxvT8aA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672727067,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14898192333126989969",
+  "user_ratings_total": 1,
+  "vicinity": "1 Jalan Anak Bukit, Bukit Timah Road, #02-09A"
+}

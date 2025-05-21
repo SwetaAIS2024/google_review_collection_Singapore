@@ -1,0 +1,56 @@
+{
+  "formatted_address": "10 Haig Rd, Block 10, Singapore 430010",
+  "geometry": {
+    "location": {
+      "lat": 1.3150048,
+      "lng": 103.8961079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316286830291502,
+        "lng": 103.8975369802915
+      },
+      "southwest": {
+        "lat": 1.313588869708498,
+        "lng": 103.8948390197085
+      }
+    }
+  },
+  "name": "Thye Hin Tong",
+  "place_id": "ChIJl3Xd4RYY2jERUhnePKM8IJQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "YusLee 77",
+      "author_url": "https://www.google.com/maps/contrib/108203860361925283359/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwkSvvFuw6GlMlV11gvLoXn27mf2nGxQLeVME4uOb8CXQ77cUs9w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Good place to get your Chinese medicine and supplements.",
+      "time": 1656852781,
+      "translated": false
+    },
+    {
+      "author_name": "Ming",
+      "author_url": "https://www.google.com/maps/contrib/116860244042499502625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdxTqDsCefqi8S344h46oJkREPoB6s_EthIzFrWzO-7tWFyg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744445271,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10673597788666599762",
+  "user_ratings_total": 2,
+  "vicinity": "10 Haig Road, Block 10"
+}

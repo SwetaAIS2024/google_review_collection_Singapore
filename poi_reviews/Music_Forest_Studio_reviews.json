@@ -1,0 +1,53 @@
+{
+  "formatted_address": "401 Hougang Ave 10, #01-1162, Singapore 530401",
+  "geometry": {
+    "location": {
+      "lat": 1.3747936,
+      "lng": 103.8969292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376073880291502,
+        "lng": 103.8982787802915
+      },
+      "southwest": {
+        "lat": 1.373375919708498,
+        "lng": 103.8955808197085
+      }
+    }
+  },
+  "name": "Music Forest Studio",
+  "place_id": "ChIJY8PmJzoW2jER2xUbITisFhU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "darien",
+      "author_url": "https://www.google.com/maps/contrib/106420471448325996187/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtx_1QNSL9BbLqtaPPgDt45T91M0KDrk7Vgf_MQOMfqieTDSV7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645172662,
+      "translated": false
+    },
+    {
+      "author_name": "Ang Swee Keng",
+      "author_url": "https://www.google.com/maps/contrib/108768468166566363597/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQHS-Zbpp--lw_l_S-v5q6jms1ceLGOjSp4h7o-JGrCkOCVg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1629984392,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1519591281357690331",
+  "user_ratings_total": 2,
+  "vicinity": "401 Hougang Avenue 10, #01-1162, Singapore"
+}

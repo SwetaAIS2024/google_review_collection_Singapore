@@ -1,0 +1,43 @@
+{
+  "formatted_address": "660 Yishun Ave 4, Block 660, Singapore 760660",
+  "geometry": {
+    "location": {
+      "lat": 1.421775,
+      "lng": 103.839886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423163630291502,
+        "lng": 103.8412196302915
+      },
+      "southwest": {
+        "lat": 1.420465669708498,
+        "lng": 103.8385216697085
+      }
+    }
+  },
+  "name": "Kikabakes",
+  "place_id": "ChIJAU2UsZMV2jERODf7RP_jFf0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jumilah Ali",
+      "author_url": "https://www.google.com/maps/contrib/104700593241844525088/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLvPtT6aT2qye2sU6cPxXe31vrYRi7MN0GxShjHcRBNabJsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716470294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18236732951620171576",
+  "user_ratings_total": 1,
+  "vicinity": "660 Yishun Avenue 4, Block 660"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6 Tuas South Street 5, Singapore 637790",
+  "geometry": {
+    "location": {
+      "lat": 1.2972467,
+      "lng": 103.6262735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298550880291502,
+        "lng": 103.6277496802915
+      },
+      "southwest": {
+        "lat": 1.295852919708498,
+        "lng": 103.6250517197085
+      }
+    }
+  },
+  "name": "Qualitek S'pore Pte Ltd",
+  "place_id": "ChIJ2ypEHnsG2jER1G9tZ9OiSgg",
+  "types": [
+    "food",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=597468929437036500",
+  "vicinity": "6 Tuas South Street 5, Singapore"
+}

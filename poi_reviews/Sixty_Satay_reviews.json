@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1220 ECP, #60 East Coast Lagoon Food Village, Singapore 468960",
+  "geometry": {
+    "location": {
+      "lat": 1.3069299,
+      "lng": 103.9349594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308494780291502,
+        "lng": 103.9365041802915
+      },
+      "southwest": {
+        "lat": 1.305796819708498,
+        "lng": 103.9338062197085
+      }
+    }
+  },
+  "name": "Sixty Satay",
+  "place_id": "ChIJlX6DRQAj2jERAqHpefKFvvw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hariz Ikhwan",
+      "author_url": "https://www.google.com/maps/contrib/111030081992783717514/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVy6jc24YBlArvx4WJmoR7tqVPYURGaaQuUbpNAQUYIh_JAPR1n=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Good food, would recommend 10/10.",
+      "time": 1741430511,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18212141219606798594",
+  "user_ratings_total": 1,
+  "vicinity": "1220 East Coast Parkway, #60 East Coast Lagoon Food Village"
+}

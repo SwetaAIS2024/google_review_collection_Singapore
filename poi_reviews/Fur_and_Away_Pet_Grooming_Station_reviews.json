@@ -1,0 +1,45 @@
+{
+  "formatted_address": "19, Jalan Nadi 5, Taman Bukit Senadi, 79100 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4395412,
+      "lng": 103.6317597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440750330291502,
+        "lng": 103.6333826802915
+      },
+      "southwest": {
+        "lat": 1.438052369708498,
+        "lng": 103.6306847197085
+      }
+    }
+  },
+  "name": "Fur & Away Pet Grooming Station",
+  "place_id": "ChIJeYWVL0oL2jERDiG2mAB7pjM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wei Yi",
+      "author_url": "https://www.google.com/maps/contrib/102620837685198989544/reviews",
+      "language": "zh",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqvdzg6Y8CSoarBmrLCjQD7ku5Hb5cpexvTrDcuUdwnaOm1IDZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "这家宠物寄宿的环境真的超棒！房间干净整洁。我家狗狗住得很开心，接它的时候精神状态特别好，完全没有不适应。强烈推荐！",
+      "time": 1742814934,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pet_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3721797384560582926",
+  "user_ratings_total": 1,
+  "vicinity": "19, Jalan Nadi 5, Taman Bukit Senadi, Iskandar Puteri"
+}

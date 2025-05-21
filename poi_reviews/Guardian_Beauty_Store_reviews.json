@@ -1,0 +1,70 @@
+{
+  "formatted_address": "60 Airport Blvd., #02-13 Terminal 2 Singapore Changi Airport, Singapore 819643",
+  "geometry": {
+    "location": {
+      "lat": 1.356144,
+      "lng": 103.9862474
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357187330291502,
+        "lng": 103.9883495
+      },
+      "southwest": {
+        "lat": 1.354489369708498,
+        "lng": 103.9855467
+      }
+    }
+  },
+  "name": "Guardian Beauty Store",
+  "place_id": "ChIJK0a-0uwP2jERe_KVyF57x3U",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Meg van Gennip",
+      "author_url": "https://www.google.com/maps/contrib/106833408802378741689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5iUUDHCyomoGV-q0HqvapfMzq1wBoOMGx_4NzpiuSg4PF4WY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "4 weeks ago",
+      "text": "Had an awful experience with the cashier. We were given $15 vouchers from Malaysian Airlines due to a flight delay, but the cashier claimed they were only worth $5 (she kept the voucher with her). I didn’t question it at first, but when another voucher was scanned later, it correctly showed $15.\nTo make matters worse, I tried to purchase something for $4.75 and was told I couldn’t use the voucher unless the total was at least $5—which was also incorrect. Very disappointing service.",
+      "time": 1745229233,
+      "translated": false
+    },
+    {
+      "author_name": "WS",
+      "author_url": "https://www.google.com/maps/contrib/106940984667175449628/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7-kf-63iRDR9LnBW-0ZxeMDZcbmyUcJOnIxPjfAjK2yiaKS38=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Pharmacist Amirul is truly a slow poke, can take ten minutes to process 3 telfast. Imagine the queue before and after me. Whole 25 mins spent waiting for simple prescription.",
+      "time": 1664798596,
+      "translated": false
+    },
+    {
+      "author_name": "Chloe Chen",
+      "author_url": "https://www.google.com/maps/contrib/102094302807763431028/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlOa0WRrm02sV6vC2UbaFifMZ6Z4W_M6ubZcEqn7WoqmQA7Ng=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Awesome place",
+      "time": 1569251255,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8486887669825401467",
+  "user_ratings_total": 3,
+  "vicinity": "60 Airport Boulevard, #02-13 Terminal 2 Singapore Changi Airport"
+}

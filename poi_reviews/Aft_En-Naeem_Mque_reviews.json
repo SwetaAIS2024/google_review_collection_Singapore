@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3611565,
+      "lng": 103.891458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362497030291502,
+        "lng": 103.8928078802915
+      },
+      "southwest": {
+        "lat": 1.359799069708498,
+        "lng": 103.8901099197085
+      }
+    }
+  },
+  "name": "Aft En-Naeem Mque",
+  "place_id": "ChIJr-_mfsoX2jEREV_9KvOW4cM",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Leong Ming Poh",
+      "author_url": "https://www.google.com/maps/contrib/116207977061708642813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNdcmMDvCmBN-9RwZmeAxeI9kR1bOSPAT1SIi5EZ78X-MHqEM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Very small",
+      "time": 1567765871,
+      "translated": false
+    },
+    {
+      "author_name": "chunlei dai",
+      "author_url": "https://www.google.com/maps/contrib/101574671105450571997/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2vvmoF-5fV8lWIXr0-B_VgTJdl4fN4horcuURHv3_66KO_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "There are too few trains",
+      "time": 1725748017,
+      "translated": true
+    },
+    {
+      "author_name": "Vincent Wong",
+      "author_url": "https://www.google.com/maps/contrib/113494241290554323143/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6ayyutMMKy9Lawsstkl3uUIC9jyiLMUn--Ad6LP3buJgv_iNH=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679308937,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Firdaus",
+      "author_url": "https://www.google.com/maps/contrib/106868471219880237950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEbAbV-piPM7T0qC60vwUnNYUlLj-pYWbOOFoMMnxqrLg2zA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1622391365,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14114728678298312465",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

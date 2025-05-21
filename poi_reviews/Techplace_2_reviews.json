@@ -1,0 +1,84 @@
+{
+  "formatted_address": "5006 Ang Mo Kio Ave 5 Singapore 569873 Ang Mo Kio Ave 5, Singapore 569873",
+  "geometry": {
+    "location": {
+      "lat": 1.37834,
+      "lng": 103.866859
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379742780291502,
+        "lng": 103.8682065302915
+      },
+      "southwest": {
+        "lat": 1.377044819708497,
+        "lng": 103.8655085697085
+      }
+    }
+  },
+  "name": "Techplace 2",
+  "place_id": "ChIJFcgj5PUW2jER39VqosQOfHA",
+  "rating": 4.4,
+  "reviews": [
+    {
+      "author_name": "Pang Khai Muay",
+      "author_url": "https://www.google.com/maps/contrib/100849387624166405601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLAICy3mxlSB_LdzA9cI5-Mf3GLPvoQYrMlb7qyMk8dy24eA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Cosy place for breakfast.",
+      "time": 1640564561,
+      "translated": false
+    },
+    {
+      "author_name": "naing min zaw",
+      "author_url": "https://www.google.com/maps/contrib/100477251185927498462/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjcpxJn3w14m6oh1P2Fwjc7W2MyUJUuxARnMA6KWyk7cndePW4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1635584863,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Carabott",
+      "author_url": "https://www.google.com/maps/contrib/116949477301496701067/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9VqjSnriOCy_3nInEhwVO9oxxxpzGLCsPpPpitzfDmkShSg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560498999,
+      "translated": false
+    },
+    {
+      "author_name": "Grinad",
+      "author_url": "https://www.google.com/maps/contrib/101328240366877371831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnmy1D6-LAzUPTnR4yf_1bVAAYtJlcgoq9WpyOUDqicUrn6JWB=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542926852,
+      "translated": false
+    },
+    {
+      "author_name": "A.venkatasan chanduvenkat",
+      "author_url": "https://www.google.com/maps/contrib/102723187493178832983/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUDqKDamDbBaxKfSpEMVk9KpsaE41iJ9SnmcrHIztVuKDDzPM2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514189052,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8105369667061339615",
+  "user_ratings_total": 7,
+  "vicinity": "5006 Ang Mo Kio Ave 5 Singapore 569873 Ang Mo Kio Avenue 5, Singapore"
+}

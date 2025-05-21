@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3881779,
+      "lng": 103.9987563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.389559630291502,
+        "lng": 104.0001538302915
+      },
+      "southwest": {
+        "lat": 1.386861669708498,
+        "lng": 103.9974558697085
+      }
+    }
+  },
+  "name": "Opp SAF Ferry",
+  "place_id": "ChIJz6Xh9g482jERs3kT6Y257VY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Harsh Mahajan",
+      "author_url": "https://www.google.com/maps/contrib/108877818344738624427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6lBQjoyl8MoxWsCO9gAXfjIPGwUTX_EmiSMBp7T0bwrTyQw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "This bus stop has breath takin' views!",
+      "time": 1651407562,
+      "translated": false
+    },
+    {
+      "author_name": "wei yang ng",
+      "author_url": "https://www.google.com/maps/contrib/115253946620457971372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHHSTq4wtHYp8sT5mpANCp_xl96h2IN2IN2wkhfiDZvVSQTg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "very nice",
+      "time": 1621656868,
+      "translated": false
+    },
+    {
+      "author_name": "Travel Green (Worldwide)",
+      "author_url": "https://www.google.com/maps/contrib/102155490744788922648/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWorSdX6ypDfLqOPW9fB7efsASff8rawCCSFXuhTnX4aNx309ek=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "nice",
+      "time": 1480450017,
+      "translated": false
+    },
+    {
+      "author_name": "Jun Yip",
+      "author_url": "https://www.google.com/maps/contrib/104610842214620070452/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNbX9AF3eDhtqxS2bq590NxBdsmjlXbW_EwJzLQKtNPmFS7Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1494758546,
+      "translated": false
+    },
+    {
+      "author_name": "Habel Luo",
+      "author_url": "https://www.google.com/maps/contrib/106232958695831333663/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJublykHeOHb72fWia9GhA1-t2K7mTqUTJrpaXtcfGhdokq1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477312298,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6263866675894122931",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

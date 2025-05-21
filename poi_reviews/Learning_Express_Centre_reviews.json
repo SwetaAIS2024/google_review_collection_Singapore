@@ -1,0 +1,45 @@
+{
+  "formatted_address": "462 Tampines Street 44, Block 462, Singapore 520462",
+  "geometry": {
+    "location": {
+      "lat": 1.358986,
+      "lng": 103.9549893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360346030291502,
+        "lng": 103.9562991302915
+      },
+      "southwest": {
+        "lat": 1.357648069708498,
+        "lng": 103.9536011697085
+      }
+    }
+  },
+  "name": "Learning Express Centre",
+  "place_id": "ChIJN7tZvwY92jERoOX2x1Omaok",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "3DandIvy",
+      "author_url": "https://www.google.com/maps/contrib/100464007870113768069/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1jPpHjQ8DBwNL7coWuIj3NtnDSA8cRDSw85oHKMYQDCZY7TjX=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "bad store",
+      "time": 1635839856,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9901909609494799776",
+  "user_ratings_total": 1,
+  "vicinity": "462 Tampines Street 44, Block 462, Singapore"
+}

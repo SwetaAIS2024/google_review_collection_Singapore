@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 301 Boon Lay Wy, #01-36 MRT Station, Singapore 649846",
+  "geometry": {
+    "location": {
+      "lat": 1.3380848,
+      "lng": 103.7053608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339333580291502,
+        "lng": 103.7067368302915
+      },
+      "southwest": {
+        "lat": 1.336635619708498,
+        "lng": 103.7040388697085
+      }
+    }
+  },
+  "name": "UOB ATM - Boon Lay MRT Station Autolobby",
+  "place_id": "ChIJcfQjf5EP2jERnx6BExPIEcw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14704754242598543007",
+  "vicinity": "No. 301 Boon Lay Way, #01-36 MRT Station"
+}

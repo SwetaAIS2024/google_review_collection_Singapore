@@ -1,0 +1,57 @@
+{
+  "formatted_address": "325 Clementi Ave 5, Singapore 120324",
+  "geometry": {
+    "location": {
+      "lat": 1.3154818,
+      "lng": 103.7668012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316830980291502,
+        "lng": 103.7680802802915
+      },
+      "southwest": {
+        "lat": 1.314133019708498,
+        "lng": 103.7653823197085
+      }
+    }
+  },
+  "name": "DBS ATM - Clementi Avenue 5",
+  "place_id": "ChIJM1Kc3asb2jERRYYDbynUWD8",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "celinemy",
+      "author_url": "https://www.google.com/maps/contrib/113590329818045001653/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfsOxFKMmG7CxhHcbSTNq6Ax_wvSl3jGpvNetG9pDCazb6K07D=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "There are 2 ATMs at the place, there’s lights at night quite safe. Located next to block 325 food court, a bit far from the current pin on Maps",
+      "time": 1688739556,
+      "translated": false
+    },
+    {
+      "author_name": "xu junxiong",
+      "author_url": "https://www.google.com/maps/contrib/101835343157917910942/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbki2od0rFFENHrbCjLfa1Sy72qje5I8Gabk0FMIKr8sRxpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "All machine only can draw and can't put money into bank.",
+      "time": 1614125986,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4564631496761247301",
+  "user_ratings_total": 2,
+  "vicinity": "325 Clementi Avenue 5, Singapore"
+}

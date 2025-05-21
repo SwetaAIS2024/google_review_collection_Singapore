@@ -1,0 +1,65 @@
+{
+  "formatted_address": "100 Lor 23 Geylang, #04-01 D' Centennial Building, Singapore 388398",
+  "geometry": {
+    "location": {
+      "lat": 1.3177921,
+      "lng": 103.8812606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319100580291502,
+        "lng": 103.8825173802915
+      },
+      "southwest": {
+        "lat": 1.316402619708498,
+        "lng": 103.8798194197085
+      }
+    }
+  },
+  "name": "Mount Calvary Baptist Church",
+  "place_id": "ChIJ718pOSUY2jERLE43JRipi44",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "C. G.",
+      "author_url": "https://www.google.com/maps/contrib/117003795840548282649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5rYX8eWqfpBW5248SIueADIVIIyrjLvyaJ3d43eqw6zp9VQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Feels like home.",
+      "time": 1535275690,
+      "translated": false
+    },
+    {
+      "author_name": "Erlina Tabunan",
+      "author_url": "https://www.google.com/maps/contrib/104507087825160784377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk3_kqXfc4iDudz2hABdvRVkFH-2IO7s6q8reacjDXosxO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698546357,
+      "translated": false
+    },
+    {
+      "author_name": "zhe sun",
+      "author_url": "https://www.google.com/maps/contrib/117434368990386729429/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlenKOieHF5qXOrzFlk4Q7lCMdmzXsXCRuTJDrg8HGhEH_8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561964615,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10271489296317238828",
+  "user_ratings_total": 3,
+  "vicinity": "100 Lorong 23 Geylang, #04-01 D' Centennial Building"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.403786,
+      "lng": 103.863449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405128180291502,
+        "lng": 103.8649942302915
+      },
+      "southwest": {
+        "lat": 1.402430219708498,
+        "lng": 103.8622962697085
+      }
+    }
+  },
+  "name": "Rolls Royce Pte Ltd",
+  "place_id": "ChIJSbgsyysU2jERu6tHFd7WeUQ",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "QiLun",
+      "author_url": "https://www.google.com/maps/contrib/113694169816591191601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVva71E_hIcXdBg0Kxj4eNMNxQ7_nIg3NwoZ0dQyxf1mbpAyiCchg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Great working place.",
+      "time": 1512515374,
+      "translated": false
+    },
+    {
+      "author_name": "Venkatesh Poovanur Swaminathan",
+      "author_url": "https://www.google.com/maps/contrib/115044580575357902543/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPfWbci8JxrBwFix0ND5IOIkJPYHRPQJUJC68J0q1z7BpLEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515431141,
+      "translated": false
+    },
+    {
+      "author_name": "Saam H",
+      "author_url": "https://www.google.com/maps/contrib/114626764347146559617/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSSFZHprIkQcIRwBO8zu017eehNiOIGg2Fm-H7flRCQhV6Jg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1495009376,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4934211116089191355",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

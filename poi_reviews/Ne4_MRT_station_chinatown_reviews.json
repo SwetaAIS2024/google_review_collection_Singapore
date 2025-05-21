@@ -1,0 +1,45 @@
+{
+  "formatted_address": "68 Pagoda St, Singapore 059227",
+  "geometry": {
+    "location": {
+      "lat": 1.28387,
+      "lng": 103.8440042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285111630291502,
+        "lng": 103.8452930302915
+      },
+      "southwest": {
+        "lat": 1.282413669708498,
+        "lng": 103.8425950697085
+      }
+    }
+  },
+  "name": "Ne4 MRT station chinatown",
+  "place_id": "ChIJ29A-Ck4Z2jER0VD3FnlwXSc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aleksandr Korneliuk",
+      "author_url": "https://www.google.com/maps/contrib/114428643170607003798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnsBTQYU0yJkmKYJrhNJWSwyW5gZBZgxmqKq-qgxvLZD7NrEqo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1696298939,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2836547005691941073",
+  "user_ratings_total": 1,
+  "vicinity": "68 Pagoda Street"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.391498,
+      "lng": 103.877647
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.392853430291502,
+        "lng": 103.8789933802915
+      },
+      "southwest": {
+        "lat": 1.390155469708498,
+        "lng": 103.8762954197085
+      }
+    }
+  },
+  "name": "Fernvale Stn/Blk 439a",
+  "place_id": "ChIJye36MGUW2jER1iU0GE3sPYo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "KHURANA RYAN RAMNEEK 2024",
+      "author_url": "https://www.google.com/maps/contrib/103140501375708040128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEzg8B_a0x3amgoFiSRzwGy3IjoORyqbdh0H2WoZKDaAQ3m-s=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This bus stop is not bad, buses arrive on time but I suggest putting more bus services , so it would be more convenient for people.",
+      "time": 1708001721,
+      "translated": false
+    },
+    {
+      "author_name": "JunMing Chua",
+      "author_url": "https://www.google.com/maps/contrib/108163941363444762178/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWIVgRnVXFwSPRW49KylNUWqhXbgs1CWs7FqIp9gqvPKb5k_c=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "The bus service is not accurate! I saw the timing but they did not arrive twice!",
+      "time": 1559699452,
+      "translated": false
+    },
+    {
+      "author_name": "Kaizer",
+      "author_url": "https://www.google.com/maps/contrib/102376212389338245520/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUEAYaR8Ytb6AZtm3IJ2V31o3sKUMCzAMTZfe4kA6Sii6U69-T=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523826856,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9961377766676112854",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

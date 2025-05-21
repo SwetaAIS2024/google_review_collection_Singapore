@@ -1,0 +1,29 @@
+{
+  "formatted_address": "36 Telok Blangah Rise, Singapore 090036",
+  "geometry": {
+    "location": {
+      "lat": 1.2726147,
+      "lng": 103.8219831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273942930291502,
+        "lng": 103.8231549302915
+      },
+      "southwest": {
+        "lat": 1.271244969708498,
+        "lng": 103.8204569697085
+      }
+    }
+  },
+  "name": "DBS ATM - Telok Blangah Rise",
+  "place_id": "ChIJAWLM_7gZ2jERZz4nPuyBF-U",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16507805810804866663",
+  "vicinity": "36 Telok Blangah Rise, Singapore"
+}

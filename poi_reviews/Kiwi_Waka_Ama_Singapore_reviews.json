@@ -1,0 +1,27 @@
+{
+  "formatted_address": "East Coast Park, Area E2, Singapore 468960",
+  "geometry": {
+    "location": {
+      "lat": 1.306224,
+      "lng": 103.9348411
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307918880291502,
+        "lng": 103.9366096302915
+      },
+      "southwest": {
+        "lat": 1.305220919708498,
+        "lng": 103.9339116697085
+      }
+    }
+  },
+  "name": "Kiwi Waka Ama Singapore",
+  "place_id": "ChIJuXhMKjqkWQ8RDRBxi18Hc6w",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12426283903788060685",
+  "vicinity": "East Coast Park, Area E2"
+}

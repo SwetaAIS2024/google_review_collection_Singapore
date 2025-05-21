@@ -1,0 +1,29 @@
+{
+  "formatted_address": "27 Penjuru Walk, Singapore 603538",
+  "geometry": {
+    "location": {
+      "lat": 1.318557,
+      "lng": 103.7333616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319523630291502,
+        "lng": 103.7346300302915
+      },
+      "southwest": {
+        "lat": 1.316825669708498,
+        "lng": 103.7319320697085
+      }
+    }
+  },
+  "name": "DBS ATM-Penjuru Recreation Centre",
+  "place_id": "ChIJAQAAla0a2jER7325upIRGZQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10671580113926716911",
+  "vicinity": "27 Penjuru Walk, Singapore"
+}

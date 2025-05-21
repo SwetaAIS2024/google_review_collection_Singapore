@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3854125,
+      "lng": 103.9994162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386775080291502,
+        "lng": 104.0007340802915
+      },
+      "southwest": {
+        "lat": 1.384077119708498,
+        "lng": 103.9980361197085
+      }
+    }
+  },
+  "name": "Police Pass Off",
+  "place_id": "ChIJo01jOAw82jER_SKCOOs3PTU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3836283940994425597",
+  "vicinity": "Singapore"
+}

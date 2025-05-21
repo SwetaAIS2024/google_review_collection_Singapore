@@ -1,0 +1,47 @@
+{
+  "formatted_address": "809 French Rd, #01-39, Singapore 200808",
+  "geometry": {
+    "location": {
+      "lat": 1.3084069,
+      "lng": 103.8621719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309644580291502,
+        "lng": 103.8634032802915
+      },
+      "southwest": {
+        "lat": 1.306946619708498,
+        "lng": 103.8607053197085
+      }
+    }
+  },
+  "name": "The Greenleaf Hub",
+  "place_id": "ChIJxZlryUkX2jER1q0DjwrUvh8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Braun Chow",
+      "author_url": "https://www.google.com/maps/contrib/106873879425529000484/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrQACRHghlnbLn-x1CEk0gpyTbzpiXC4nlg92cv_z4oFzGlA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "The best choice for environmentally friendly and safe household necessities!",
+      "time": 1596201432,
+      "translated": true
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2287498802564935126",
+  "user_ratings_total": 1,
+  "vicinity": "809 French Road, #01-39, Singapore"
+}

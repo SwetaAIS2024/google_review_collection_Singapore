@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 86 Whampoa Dr, #01-945, Singapore 320086",
+  "geometry": {
+    "location": {
+      "lat": 1.3231637,
+      "lng": 103.8558876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324447680291502,
+        "lng": 103.8573149802915
+      },
+      "southwest": {
+        "lat": 1.321749719708498,
+        "lng": 103.8546170197085
+      }
+    }
+  },
+  "name": "UOB ATM - Whampoa Drive",
+  "place_id": "ChIJpREJ2NkZ2jER9oMyj8-k2Po",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18075378315819123702",
+  "vicinity": "Blk 86 Whampoa Drive, #01-945"
+}

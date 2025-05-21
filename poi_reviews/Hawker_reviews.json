@@ -1,0 +1,30 @@
+{
+  "formatted_address": "635C Senja Rd, Singapore 673635",
+  "geometry": {
+    "location": {
+      "lat": 1.3864883,
+      "lng": 103.7584569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387819880291502,
+        "lng": 103.7598768802915
+      },
+      "southwest": {
+        "lat": 1.385121919708498,
+        "lng": 103.7571789197085
+      }
+    }
+  },
+  "name": "Hawker",
+  "place_id": "ChIJq68jHwAR2jERAY5a_uR19FM",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6049589825845759489",
+  "vicinity": "635C Senja Road, Singapore"
+}

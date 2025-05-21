@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297196,
+      "lng": 103.873688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298568630291502,
+        "lng": 103.8750354802915
+      },
+      "southwest": {
+        "lat": 1.295870669708498,
+        "lng": 103.8723375197085
+      }
+    }
+  },
+  "name": "Tanjong Rhu Stn Exit 2",
+  "place_id": "ChIJQSy8H1IY2jERaGIbbr0R_Fo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6556134662838379112",
+  "vicinity": "Singapore"
+}

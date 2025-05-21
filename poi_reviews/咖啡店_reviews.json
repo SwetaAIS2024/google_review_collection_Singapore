@@ -1,0 +1,30 @@
+{
+  "formatted_address": "410 Hougang Ave 10, Block 410, Singapore 530410",
+  "geometry": {
+    "location": {
+      "lat": 1.373934,
+      "lng": 103.8945753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375324380291502,
+        "lng": 103.8958650802915
+      },
+      "southwest": {
+        "lat": 1.372626419708498,
+        "lng": 103.8931671197085
+      }
+    }
+  },
+  "name": "咖啡店",
+  "place_id": "ChIJFULNMQAX2jERU-xnFBFfhhA",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1190743678447512659",
+  "vicinity": "410 Hougang Avenue 10, Block 410, Singapore"
+}

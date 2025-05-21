@@ -1,0 +1,28 @@
+{
+  "formatted_address": "35 Airport Blvd., Singapore 819645",
+  "geometry": {
+    "location": {
+      "lat": 1.3431985,
+      "lng": 103.9807281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344339830291502,
+        "lng": 103.9823586802915
+      },
+      "southwest": {
+        "lat": 1.341641869708498,
+        "lng": 103.9796607197085
+      }
+    }
+  },
+  "name": "Airport Police Division",
+  "place_id": "ChIJdQpEtsE82jERR3VTA0xLjDY",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3930599364632999239",
+  "vicinity": "35 Airport Boulevard"
+}

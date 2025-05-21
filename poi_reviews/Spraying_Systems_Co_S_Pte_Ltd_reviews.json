@@ -1,0 +1,53 @@
+{
+  "formatted_address": "1 Clementi Loop, #02 01, Singapore 129808",
+  "geometry": {
+    "location": {
+      "lat": 1.3252217,
+      "lng": 103.7632599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326571430291501,
+        "lng": 103.7646431302915
+      },
+      "southwest": {
+        "lat": 1.323873469708498,
+        "lng": 103.7619451697085
+      }
+    }
+  },
+  "name": "Spraying Systems Co (S) Pte Ltd",
+  "place_id": "ChIJn9lEBXIQ2jERl7KU7rTt1Qo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ken Chin",
+      "author_url": "https://www.google.com/maps/contrib/112470629170758702732/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjbS301TA11JQDtNboS7LSIdg-P4OTEdNcctP2TtPQRcK-ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Great spray nozzle and system product line, helps to save water, promote sustainability and definitely improve productivity.",
+      "time": 1729674981,
+      "translated": false
+    },
+    {
+      "author_name": "Aloysius Wyx",
+      "author_url": "https://www.google.com/maps/contrib/114886045420516198722/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrISjm8csiHQFgdaVxAw07DmHhoXxfvVpzFykkAaqHZuraig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688547193,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=780791471771267735",
+  "user_ratings_total": 2,
+  "vicinity": "1 Clementi Loop, #02 01"
+}

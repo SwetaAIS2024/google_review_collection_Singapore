@@ -1,0 +1,52 @@
+{
+  "formatted_address": "269C New Bridge Rd, Singapore 088747",
+  "geometry": {
+    "location": {
+      "lat": 1.2824758,
+      "lng": 103.8422666
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283884730291502,
+        "lng": 103.8435416302915
+      },
+      "southwest": {
+        "lat": 1.281186769708498,
+        "lng": 103.8408436697085
+      }
+    }
+  },
+  "name": "1961",
+  "place_id": "ChIJ5y8FNwgX2jERfys-ucwA0f0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kathy Anne Lim",
+      "author_url": "https://www.google.com/maps/contrib/116991517956101657196/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFnBiXgipcu2ZButaIcUZnhfXlR5_tcctrhWQwC-q9JgmO9L6VKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613438451,
+      "translated": false
+    },
+    {
+      "author_name": "Rovik Robert",
+      "author_url": "https://www.google.com/maps/contrib/103521079678024458298/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1576813733,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18289400441009482623",
+  "user_ratings_total": 2,
+  "vicinity": "269C New Bridge Road"
+}

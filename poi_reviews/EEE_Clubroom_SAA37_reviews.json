@@ -1,0 +1,44 @@
+{
+  "formatted_address": "500 Dover Rd, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3087037,
+      "lng": 103.7779274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309868530291502,
+        "lng": 103.7793358802915
+      },
+      "southwest": {
+        "lat": 1.307170569708498,
+        "lng": 103.7766379197085
+      }
+    }
+  },
+  "name": "EEE Clubroom SAA37",
+  "place_id": "ChIJGQpgfGAa2jERhGBpC9f4e54",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Keng Yeow",
+      "author_url": "https://www.google.com/maps/contrib/109258242402207051097/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8_UCGELmK7ai22Uv0kGZTCroyIDJwQqiNhGPrAO9ssJsmam4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very good experience, aircon very cold and has ample seating",
+      "time": 1682596109,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11419994882621137028",
+  "user_ratings_total": 1,
+  "vicinity": "500 Dover Road, Singapore"
+}

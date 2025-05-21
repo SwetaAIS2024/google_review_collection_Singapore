@@ -1,0 +1,57 @@
+{
+  "formatted_address": "61 Choa Chu Kang Dr, #01-04 MRT Stn, Singapore 689715",
+  "geometry": {
+    "location": {
+      "lat": 1.3973666,
+      "lng": 103.7474715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398227030291502,
+        "lng": 103.7488162302915
+      },
+      "southwest": {
+        "lat": 1.395529069708498,
+        "lng": 103.7461182697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB YEW TEE BRANCH",
+  "place_id": "ChIJRTBD_eAR2jERlWDJCLaqwS8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Rainy Ow",
+      "author_url": "https://www.google.com/maps/contrib/103805625451291550283/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt0AB7MGfz_y1kCIugaxt3ZhRk-BImKzYuWGZG6cAcBVCFvppS=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Bad  service",
+      "time": 1740195737,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Soh",
+      "author_url": "https://www.google.com/maps/contrib/110089257240970517599/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3jt5cdjoBUj863nKY9IVWfrv65ZlyUZyeXKSb94--aCqkgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Poor service",
+      "time": 1667356901,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3441219289095954581",
+  "user_ratings_total": 2,
+  "vicinity": "61 Choa Chu Kang Drive, #01-04 MRT Stn"
+}

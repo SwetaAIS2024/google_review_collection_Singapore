@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322887,
+      "lng": 103.677284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324203980291502,
+        "lng": 103.6786353302915
+      },
+      "southwest": {
+        "lat": 1.321506019708498,
+        "lng": 103.6759373697085
+      }
+    }
+  },
+  "name": "Liang Huat Ind Cplx",
+  "place_id": "ChIJKQ46VoEF2jER4VdgxI4jNAU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Fami Arti",
+      "author_url": "https://www.google.com/maps/contrib/107892698880464063371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5MBzfIIU0xNoV7UTwmrrqcvHEzwFceuvS7EUJlvePb0ce0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624797063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=374963765065570273",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

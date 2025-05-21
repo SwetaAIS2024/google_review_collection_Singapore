@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34164,
+      "lng": 103.68449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343015380291502,
+        "lng": 103.6858189302915
+      },
+      "southwest": {
+        "lat": 1.340317419708498,
+        "lng": 103.6831209697085
+      }
+    }
+  },
+  "name": "Opp. Yunnan Garden",
+  "place_id": "ChIJkQledp4P2jERRRDf6-llY3Q",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8386658986453045317",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "113 Eunos Ave 3, Singapore 409838",
+  "geometry": {
+    "location": {
+      "lat": 1.3193274,
+      "lng": 103.8967728
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320660930291502,
+        "lng": 103.8980413802915
+      },
+      "southwest": {
+        "lat": 1.317962969708498,
+        "lng": 103.8953434197085
+      }
+    }
+  },
+  "name": "Potto Cafe",
+  "place_id": "ChIJBfkLInAZ2jERcqcCvrjT0Nk",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15695277491801466738",
+  "vicinity": "113 Eunos Avenue 3"
+}

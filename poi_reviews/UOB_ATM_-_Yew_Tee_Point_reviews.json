@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 21 Choa Chu Kang North 6 #B1-54, Yew Tee Point, Singapore 689578",
+  "geometry": {
+    "location": {
+      "lat": 1.3970058,
+      "lng": 103.7464759
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398371030291502,
+        "lng": 103.7477187302915
+      },
+      "southwest": {
+        "lat": 1.395673069708498,
+        "lng": 103.7450207697085
+      }
+    }
+  },
+  "name": "UOB ATM - Yew Tee Point",
+  "place_id": "ChIJi4bWJ6wR2jERnfWIn0QZFNA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14993636841948247453",
+  "vicinity": "No. 21 Choa Chu Kang North 6 #B1-54, Yew Tee Point"
+}

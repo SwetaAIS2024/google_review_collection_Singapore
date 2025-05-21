@@ -1,0 +1,41 @@
+{
+  "formatted_address": "79 Mimosa Cres, Singapore 808037",
+  "geometry": {
+    "location": {
+      "lat": 1.383047,
+      "lng": 103.8632357
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384387180291502,
+        "lng": 103.8645875302915
+      },
+      "southwest": {
+        "lat": 1.381689219708498,
+        "lng": 103.8618895697085
+      }
+    }
+  },
+  "name": "Marine Scouts Pte Ltd",
+  "place_id": "ChIJwTROT4sW2jERSFJtneEAVxw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "IT OCS",
+      "author_url": "https://www.google.com/maps/contrib/104995112804280989154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhf7X-B1Ys3uT1c00oaUwd-0nNHKgTUX3ItkT9J6bqB4QC-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1407813701,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2042101925044638280",
+  "user_ratings_total": 1,
+  "vicinity": "79 Mimosa Crescent, Singapore"
+}

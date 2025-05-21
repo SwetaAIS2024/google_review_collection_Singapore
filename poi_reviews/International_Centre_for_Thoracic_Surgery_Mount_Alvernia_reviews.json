@@ -1,0 +1,43 @@
+{
+  "formatted_address": "820 Thomson Rd, #06-70 Medical Centre D, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.341934,
+      "lng": 103.8378186
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343283530291502,
+        "lng": 103.8391835802915
+      },
+      "southwest": {
+        "lat": 1.340585569708498,
+        "lng": 103.8364856197085
+      }
+    }
+  },
+  "name": "International Centre for Thoracic Surgery (Mount Alvernia)",
+  "place_id": "ChIJ0UnHtV0X2jER81C-TpvO-gM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jasmine Lim",
+      "author_url": "https://www.google.com/maps/contrib/112945090075727027679/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1KCu1TDzJ9raraMwvjGB6mkSVTHv8bVct_uoVjbcLzmXyz2TZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1632366805,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=286768692727795955",
+  "user_ratings_total": 1,
+  "vicinity": "820 Thomson Road, #06-70 Medical Centre D"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "2 Tampines Street 92, Singapore 528889",
+  "geometry": {
+    "location": {
+      "lat": 1.3427721,
+      "lng": 103.9418152
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344112230291502,
+        "lng": 103.9430146802915
+      },
+      "southwest": {
+        "lat": 1.341414269708498,
+        "lng": 103.9403167197085
+      }
+    }
+  },
+  "name": "MPH@JoJoSiwaInternationaSchool",
+  "place_id": "ChIJDdNXDAA92jERcTwiU19XjI0",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10199623323015593073",
+  "vicinity": "2 Tampines Street 92, Singapore"
+}

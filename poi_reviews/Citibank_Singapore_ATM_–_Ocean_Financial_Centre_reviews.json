@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Collyer Quay, Ocean Financial Centre, Singapore 049315",
+  "geometry": {
+    "location": {
+      "lat": 1.2830123,
+      "lng": 103.852015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284342280291502,
+        "lng": 103.8533482802915
+      },
+      "southwest": {
+        "lat": 1.281644319708498,
+        "lng": 103.8506503197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM – Ocean Financial Centre",
+  "place_id": "ChIJX2dDKzcZ2jERqgn49ats0Yw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Haider Ali",
+      "author_url": "https://www.google.com/maps/contrib/116806928921247266637/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfCoOxG_RVLQzREjSlFu7jlLOEdnhk1v8zhr532okknROB8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731211101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10147010921264318890",
+  "user_ratings_total": 1,
+  "vicinity": "10 Collyer Quay, Ocean Financial Centre"
+}

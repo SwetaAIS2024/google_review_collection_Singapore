@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.40278,
+      "lng": 103.74602
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404128680291502,
+        "lng": 103.7473702302915
+      },
+      "southwest": {
+        "lat": 1.401430719708498,
+        "lng": 103.7446722697085
+      }
+    }
+  },
+  "name": "Blk 681, Choa Chu Kang Cres",
+  "place_id": "ChIJJ2hH4x0S2jERqRCwVp1hF6E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Izwan Azhar",
+      "author_url": "https://www.google.com/maps/contrib/101529885661154175023/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwyX0UKSApfhhV2CGJPJcGz2ghk5Z6LsgApJf42jw7MuBFhdc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very good bus stop, had a great view of the mountain alps\nand can be quite cold. Bring a jacket if ur waiting for bus here",
+      "time": 1714623291,
+      "translated": false
+    },
+    {
+      "author_name": "CHANNEL E.D.",
+      "author_url": "https://www.google.com/maps/contrib/100487493156712252142/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKGp_YMxV9LZv7zFI5T8ixpH5xgFR0UF24wYBTiPAzxVFPC6lO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Watch it, okay?",
+      "time": 1608732972,
+      "translated": true
+    },
+    {
+      "author_name": "Lee Chinnyok",
+      "author_url": "https://www.google.com/maps/contrib/101769510556243094899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB5yQBadArL8xHdEO7SyG_SAB86O_ldlNrFBGKXGi2ecr7CQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522244337,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11607853892962881705",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

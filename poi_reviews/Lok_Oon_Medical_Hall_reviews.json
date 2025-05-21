@@ -1,0 +1,30 @@
+{
+  "formatted_address": "139 Tampines St. 11, Singapore 521136",
+  "geometry": {
+    "location": {
+      "lat": 1.3464111,
+      "lng": 103.9445594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347746180291502,
+        "lng": 103.9459056302915
+      },
+      "southwest": {
+        "lat": 1.345048219708498,
+        "lng": 103.9432076697085
+      }
+    }
+  },
+  "name": "Lok Oon Medical Hall",
+  "place_id": "ChIJacItWxY92jER6c4oB3sagN0",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15960786195104452329",
+  "vicinity": "139 Tampines Street 11, Singapore"
+}

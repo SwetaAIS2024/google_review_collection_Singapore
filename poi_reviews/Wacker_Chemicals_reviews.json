@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375835,
+      "lng": 103.974258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377210330291502,
+        "lng": 103.9755815802915
+      },
+      "southwest": {
+        "lat": 1.374512369708498,
+        "lng": 103.9728836197085
+      }
+    }
+  },
+  "name": "Wacker Chemicals",
+  "place_id": "ChIJ5YqMu0U82jERqwZfvUPI6Ck",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3019883743417403051",
+  "vicinity": "Singapore"
+}

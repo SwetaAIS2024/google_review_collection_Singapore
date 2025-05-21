@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 61 Jurong West Central 3, Boon Lay Bus Interchange, Singapore 648330",
+  "geometry": {
+    "location": {
+      "lat": 1.3395138,
+      "lng": 103.7051864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340985030291502,
+        "lng": 103.7064889802915
+      },
+      "southwest": {
+        "lat": 1.338287069708498,
+        "lng": 103.7037910197085
+      }
+    }
+  },
+  "name": "UOB ATM - Boon Lay Bus Interchange",
+  "place_id": "ChIJn9zcPQYP2jERMqhr7hsv3YA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9285629803718486066",
+  "vicinity": "No. 61 Jurong West Central 3, Boon Lay Bus Interchange"
+}

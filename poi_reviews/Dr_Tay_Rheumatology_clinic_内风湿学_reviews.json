@@ -1,0 +1,43 @@
+{
+  "formatted_address": "SSC 401, 2, Jalan Medini Utara 4, 79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4260038,
+      "lng": 103.6367296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427386280291502,
+        "lng": 103.6380782302915
+      },
+      "southwest": {
+        "lat": 1.424688319708498,
+        "lng": 103.6353802697085
+      }
+    }
+  },
+  "name": "Dr Tay Rheumatology clinic (内风湿学)",
+  "place_id": "ChIJe9spDwAN2jER541enT3fu54",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Siti Nurhidayah Mohd Nasir",
+      "author_url": "https://www.google.com/maps/contrib/116278336573427848532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-ubub_xjmEsgtEaL-WyMogxiXbUC0Eqdrhs1nT5ST0LxOIww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725606099,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11437981134363725287",
+  "user_ratings_total": 1,
+  "vicinity": "SSC 401, 2, Jalan Medini Utara 4, Iskandar Puteri"
+}

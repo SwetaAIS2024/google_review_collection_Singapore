@@ -1,0 +1,43 @@
+{
+  "formatted_address": "3 Chin Cheng Ave, Singapore 429401",
+  "geometry": {
+    "location": {
+      "lat": 1.316641,
+      "lng": 103.906854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317879780291502,
+        "lng": 103.9082260802915
+      },
+      "southwest": {
+        "lat": 1.315181819708498,
+        "lng": 103.9055281197085
+      }
+    }
+  },
+  "name": "Telok Kurau Secondary School",
+  "place_id": "ChIJjWgDfg8Y2jERqGNjfdeyQZE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Muhammad Rayyan",
+      "author_url": "https://www.google.com/maps/contrib/111098746744667192898/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ089AeWuG7L1V-9ODxaP9wehq4eveQmRVut4nIZVGLOiKyKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699197953,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10466843647577121704",
+  "user_ratings_total": 1,
+  "vicinity": "3 Chin Cheng Avenue"
+}

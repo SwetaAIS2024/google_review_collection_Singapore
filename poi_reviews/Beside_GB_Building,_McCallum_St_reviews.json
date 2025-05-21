@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27885,
+      "lng": 103.84789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280208880291502,
+        "lng": 103.8492235302915
+      },
+      "southwest": {
+        "lat": 1.277510919708498,
+        "lng": 103.8465255697085
+      }
+    }
+  },
+  "name": "Beside GB Building, McCallum St",
+  "place_id": "ChIJk6csYhIZ2jERGcGvoWVetD0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Prakash Nayi",
+      "author_url": "https://www.google.com/maps/contrib/109207083560609559683/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9zri312acg-O1xbvjq1x7XgwxrzVSAUBjCcztP3a8m_gwwQlq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681741203,
+      "translated": false
+    },
+    {
+      "author_name": "Karthik Guldeep Suganya",
+      "author_url": "https://www.google.com/maps/contrib/111886703797112848576/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-69fBt6XGOfMQdViWKhbLljuXCRcGtEqVbGwwDKspL32hDqloog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1652932779,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4446282522718880025",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

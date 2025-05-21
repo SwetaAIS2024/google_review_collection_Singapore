@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Maju Ave, #02-10/13 Garden Treasures, Singapore 556679",
+  "geometry": {
+    "location": {
+      "lat": 1.3653332,
+      "lng": 103.8655068
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366682580291502,
+        "lng": 103.8668541302915
+      },
+      "southwest": {
+        "lat": 1.363984619708498,
+        "lng": 103.8641561697085
+      }
+    }
+  },
+  "name": "DBS ATM - Serangoon Garden Village Treasures",
+  "place_id": "ChIJnyTd--4X2jERQgVghyv6hdM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15241863578767066434",
+  "vicinity": "11 Maju Avenue, #02-10/13 Garden Treasures"
+}

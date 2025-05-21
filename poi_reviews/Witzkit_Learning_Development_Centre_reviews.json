@@ -1,0 +1,64 @@
+{
+  "formatted_address": "808 French Rd, Singapore 200808",
+  "geometry": {
+    "location": {
+      "lat": 1.3088064,
+      "lng": 103.8616134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.310040630291502,
+        "lng": 103.8630866302915
+      },
+      "southwest": {
+        "lat": 1.307342669708498,
+        "lng": 103.8603886697085
+      }
+    }
+  },
+  "name": "Witzkit Learning Development Centre",
+  "place_id": "ChIJS8L59skZ2jERmtQHG3xd3Rg",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Ezekiel Ng",
+      "author_url": "https://www.google.com/maps/contrib/116128282556878178511/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtpbMw3MDis2wYcd-KwwcRDCPBg9eM8a-79Z9NaNmA6slk8-Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715360232,
+      "translated": false
+    },
+    {
+      "author_name": "Elijah Ng",
+      "author_url": "https://www.google.com/maps/contrib/106206748445193344946/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTtWFySBkpCRpy4c_MIOuHsNT0QxNqBnh3PCQXMu1dxebo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715359836,
+      "translated": false
+    },
+    {
+      "author_name": "manna ahmed",
+      "author_url": "https://www.google.com/maps/contrib/104162842256919875124/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm5Q1tjoECIqLK_4fEIqnJxgQkC9Kbk7iaDApYsGSciwlqdhxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1444711572,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1791691014374151322",
+  "user_ratings_total": 3,
+  "vicinity": "808 French Road"
+}

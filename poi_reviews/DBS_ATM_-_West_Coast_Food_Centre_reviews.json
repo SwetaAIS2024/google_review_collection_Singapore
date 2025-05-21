@@ -1,0 +1,45 @@
+{
+  "formatted_address": "502 W Coast Dr, Singapore 120502",
+  "geometry": {
+    "location": {
+      "lat": 1.31172,
+      "lng": 103.75903
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312937380291502,
+        "lng": 103.7605135302915
+      },
+      "southwest": {
+        "lat": 1.310239419708498,
+        "lng": 103.7578155697085
+      }
+    }
+  },
+  "name": "DBS ATM - West Coast Food Centre",
+  "place_id": "ChIJXyj3LKob2jERwa8gpEv07mU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joe Ng",
+      "author_url": "https://www.google.com/maps/contrib/109434159714049459136/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD_rg7shIiq9RdWjWzg-xNZPse7vZ-YJk4CORo_LWzLd8HsyT2=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Great that there are quite a few ATM options right next to the Ayer Rajah Food Centre which is a must-see stop on a local food tour, which boasts one of the highest concentrations of local Malay and Indian Muslim food legacy food stalls outside of Geylang Serai.  Since many of the stalls still accept only cash, this POSB ATM is a godsend.",
+      "time": 1557627899,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7345076648001187777",
+  "user_ratings_total": 1,
+  "vicinity": "502 West Coast Drive, Singapore"
+}

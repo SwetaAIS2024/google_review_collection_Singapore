@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2789248,
+      "lng": 103.7993811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279881830291502,
+        "lng": 103.8004409802915
+      },
+      "southwest": {
+        "lat": 1.277183869708498,
+        "lng": 103.7977430197085
+      }
+    }
+  },
+  "name": "Flora Fancy",
+  "place_id": "ChIJNar77Mcb2jER55_D2TmBLAo",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=733102924821143527",
+  "vicinity": ""
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.365551,
+      "lng": 103.866409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366904130291502,
+        "lng": 103.8677322802915
+      },
+      "southwest": {
+        "lat": 1.364206169708498,
+        "lng": 103.8650343197085
+      }
+    }
+  },
+  "name": "S'Goon Gdns Country Club",
+  "place_id": "ChIJ6eECvf8W2jERFx8G3N3_7jA",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Foo jessie",
+      "author_url": "https://www.google.com/maps/contrib/101675985471260541000/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOofyh9DNdDoYp8Deisv1emYoe9-r-f_cxDtCT-B9qK23VxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524394709,
+      "translated": false
+    },
+    {
+      "author_name": "Ang K L",
+      "author_url": "https://www.google.com/maps/contrib/100970154748746100461/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJng8x_aoOsKoqK_n9lxZjQRX_r4GOwODUUh9nL29wCgBAnSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1455182693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3526036886621921047",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

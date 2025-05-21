@@ -1,0 +1,30 @@
+{
+  "formatted_address": "742 Bedok Reservoir Rd, #01-3103 Reservoir, Singapore 470742",
+  "geometry": {
+    "location": {
+      "lat": 1.3380331,
+      "lng": 103.9218953
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339441880291502,
+        "lng": 103.9233639802915
+      },
+      "southwest": {
+        "lat": 1.336743919708498,
+        "lng": 103.9206660197085
+      }
+    }
+  },
+  "name": "Health Trends",
+  "place_id": "ChIJn1lEtFs92jERx2YREGPGQZw",
+  "types": [
+    "food",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11259498672176588487",
+  "vicinity": "742 Bedok Reservoir Road, #01-3103 Reservoir, Singapore"
+}

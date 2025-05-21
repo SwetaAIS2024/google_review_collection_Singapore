@@ -1,0 +1,43 @@
+{
+  "formatted_address": "50 E Coast Rd, Singapore 428769",
+  "geometry": {
+    "location": {
+      "lat": 1.3033326,
+      "lng": 103.9046675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304541130291502,
+        "lng": 103.9061012802915
+      },
+      "southwest": {
+        "lat": 1.301843169708498,
+        "lng": 103.9034033197085
+      }
+    }
+  },
+  "name": "Licon Chinese Physician Service Centre",
+  "place_id": "ChIJBfW6JHIY2jERLMmhZIEsA8Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Doris Tiong",
+      "author_url": "https://www.google.com/maps/contrib/100053879385342046443/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw3RzmkQPy8WRDpoFHngLFdDCMulyb0_e2k0Oka9Y58DyxxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565154007,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14268296978690591020",
+  "user_ratings_total": 1,
+  "vicinity": "50 East Coast Road"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3360985,
+      "lng": 103.8778375
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337455330291502,
+        "lng": 103.8792202802915
+      },
+      "southwest": {
+        "lat": 1.334757369708498,
+        "lng": 103.8765223197085
+      }
+    }
+  },
+  "name": "Aft Joo Seng Rd",
+  "place_id": "ChIJFfRSz5oX2jERI_N38hffsiE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Lip Boon Ng",
+      "author_url": "https://www.google.com/maps/contrib/115419584001500701755/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3V1AwffP-W22tNR8TGGElnr5QKoWsHGjSA1GdQZzqaBhcyy0I=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672317988,
+      "translated": false
+    },
+    {
+      "author_name": "Dipesh Phagami",
+      "author_url": "https://www.google.com/maps/contrib/114721334680678266702/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtYb1cGbMNT8hnYuBGiqsQR-L8TTzmD0SawYQwNHWa9qi7Ko17cg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544680173,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2428248443051307811",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "148 Bishan St.11, Singapore 570148",
+  "geometry": {
+    "location": {
+      "lat": 1.344233,
+      "lng": 103.854642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345493330291502,
+        "lng": 103.8559934802915
+      },
+      "southwest": {
+        "lat": 1.342795369708498,
+        "lng": 103.8532955197085
+      }
+    }
+  },
+  "name": "Your Home Mart",
+  "place_id": "ChIJVQBvhncX2jERs2LI3fBPRvA",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17313613713404093107",
+  "vicinity": "148 Bishan Street 11"
+}

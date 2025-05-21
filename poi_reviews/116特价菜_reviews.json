@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3623317,
+      "lng": 103.8551415
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363850430291502,
+        "lng": 103.8563719302915
+      },
+      "southwest": {
+        "lat": 1.361152469708498,
+        "lng": 103.8536739697085
+      }
+    }
+  },
+  "name": "116特价菜",
+  "place_id": "ChIJQ-KCPh0X2jERXAdQ62i2zds",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15838516026272647004",
+  "vicinity": "Singapore"
+}

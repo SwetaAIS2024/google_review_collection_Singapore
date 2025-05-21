@@ -1,0 +1,29 @@
+{
+  "formatted_address": "134 Jurong Gateway Rd, Singapore 600134",
+  "geometry": {
+    "location": {
+      "lat": 1.3339033,
+      "lng": 103.7386292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335331830291502,
+        "lng": 103.7398765302915
+      },
+      "southwest": {
+        "lat": 1.332633869708498,
+        "lng": 103.7371785697085
+      }
+    }
+  },
+  "name": "Gateway Dental Center",
+  "place_id": "ChIJSesPoQUQ2jERlNJ96Z7VX_s",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18113431104806310548",
+  "vicinity": "134 Jurong Gateway Road, Singapore"
+}

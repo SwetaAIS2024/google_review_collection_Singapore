@@ -1,0 +1,59 @@
+{
+  "formatted_address": "1 Marne Rd, #01-11, Singapore 208380",
+  "geometry": {
+    "location": {
+      "lat": 1.3126006,
+      "lng": 103.8571813
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314013330291502,
+        "lng": 103.8584524802915
+      },
+      "southwest": {
+        "lat": 1.311315369708498,
+        "lng": 103.8557545197085
+      }
+    }
+  },
+  "name": "Agape Clinic",
+  "place_id": "ChIJnTr7GBkX2jERp9XuNwW9eq0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "davidking sg",
+      "author_url": "https://www.google.com/maps/contrib/101480179440241326601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVphavrBieRQjlOGCCjVPj-tzV33GWehERYJekPMNaGPlDPw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Home call for bed-ridden patient, clinic at basement CD shelter - NO lift.",
+      "time": 1529494110,
+      "translated": false
+    },
+    {
+      "author_name": "Fidelis Woo",
+      "author_url": "https://www.google.com/maps/contrib/102878336507468267368/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7SAHjJP1QZahy94uEKvNWIVzi98e6BQcZ8e0OPuoeOZrwmAei=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "5 stars",
+      "time": 1548429925,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "local_government_office",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12500511545831118247",
+  "user_ratings_total": 2,
+  "vicinity": "1 Marne Road, #01-11"
+}

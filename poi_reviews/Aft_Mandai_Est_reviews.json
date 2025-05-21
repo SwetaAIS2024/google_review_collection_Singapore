@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4061307,
+      "lng": 103.7563449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.407478180291502,
+        "lng": 103.7576444802915
+      },
+      "southwest": {
+        "lat": 1.404780219708498,
+        "lng": 103.7549465197085
+      }
+    }
+  },
+  "name": "Aft Mandai Est",
+  "place_id": "ChIJZSNU3iMS2jERd4XUG6ROV3w",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "Sakthivelan Suppiah",
+      "author_url": "https://www.google.com/maps/contrib/114379691840352639768/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgYZaHn_k2urwwSAvtdqeSHZVR7qh3yoruujGYfsfD-4SDYJ4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Great app",
+      "time": 1488763597,
+      "translated": false
+    },
+    {
+      "author_name": "Zhao Yun",
+      "author_url": "https://www.google.com/maps/contrib/110317978941407718600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcxNB-Gm4jX0GOjMYdN4yUP2EJYUq_S94IL_Ya3p9-Ai6zoQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747392347,
+      "translated": false
+    },
+    {
+      "author_name": "bharathi raja",
+      "author_url": "https://www.google.com/maps/contrib/108716087773905267431/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_Pjaa8HiThZnC9A_rA2NQ3U_z0i1Et60c8Da2z3_RZ4MKZjQz=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514590287,
+      "translated": false
+    },
+    {
+      "author_name": "kok sing choy",
+      "author_url": "https://www.google.com/maps/contrib/110568605101904328775/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN6AND-DKRgzNG7PRqG-YyHzC-cZNEOcYk554Fxm_BYUlxgQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501468872,
+      "translated": false
+    },
+    {
+      "author_name": "Ho",
+      "author_url": "https://www.google.com/maps/contrib/112081403959254019853/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxBpkJno0VT_ye-Iimt48qkNCavO_kYkwTIr2KnjcCxzXtsA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487734706,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8959716450425406839",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

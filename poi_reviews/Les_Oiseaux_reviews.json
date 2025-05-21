@@ -1,0 +1,87 @@
+{
+  "formatted_address": "30 Airport Blvd., #4 Changi Airport Singapore, Singapore 819662",
+  "geometry": {
+    "location": {
+      "lat": 1.3384839,
+      "lng": 103.983124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339886480291502,
+        "lng": 103.9843432302915
+      },
+      "southwest": {
+        "lat": 1.337188519708498,
+        "lng": 103.9816452697085
+      }
+    }
+  },
+  "name": "Les Oiseaux",
+  "place_id": "ChIJr_9UaMc82jERUMFV2yOXmOU",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Ben Toh",
+      "author_url": "https://www.google.com/maps/contrib/107514910859944307288/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6K5QgKyqNjiVLx-2fJEeOAPV9K2ZNiLinAsK8DOy-j5f8KA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Not sure why overall score is 3.5.\nThe terminal is beautiful, well designed, check in is clear, easy, fast, immigration is prompt (I use the auto gate though), lots of nice furnishing to relax on, visual stimulation everywhere, nice restaurants, everything you'll need from shops...\n\nIf my flights get delayed, there's no other better airports to be stuck in.",
+      "time": 1579140037,
+      "translated": false
+    },
+    {
+      "author_name": "haishan xu",
+      "author_url": "https://www.google.com/maps/contrib/112056342569351943255/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpYvLmO9lX9oFzdaRkwuhxQRcoUQmrAnh3G9pltCjG46oYpw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "clean beautiful",
+      "time": 1560696817,
+      "translated": true
+    },
+    {
+      "author_name": "kyung jeon",
+      "author_url": "https://www.google.com/maps/contrib/100109668387287896086/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9x8cphXlscDvLv-Y86eh5YpviytnG067cWnJ6DemBdyTSSOmK=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "T4",
+      "time": 1523099432,
+      "translated": true
+    },
+    {
+      "author_name": "Asheesh Gupta",
+      "author_url": "https://www.google.com/maps/contrib/103289634858636555331/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUg2W4Uc4njJoI8Mp2gTt9YM7tUykMpIVySo7wJ4tsiLmPQQ5D6=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745655321,
+      "translated": false
+    },
+    {
+      "author_name": "Travis Yap",
+      "author_url": "https://www.google.com/maps/contrib/109143581369898916844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2kzEKBHwv5PLcED1L5tRiyrb2UT5fD6LCrUshq1W5owUJCg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559822083,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16544139411404996944",
+  "user_ratings_total": 6,
+  "vicinity": "30 Airport Boulevard, #4 Changi Airport Singapore"
+}

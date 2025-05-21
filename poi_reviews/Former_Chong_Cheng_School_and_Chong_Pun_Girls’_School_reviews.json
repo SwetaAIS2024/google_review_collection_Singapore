@@ -1,0 +1,42 @@
+{
+  "formatted_address": "30 Aliwal St, Singapore 199920",
+  "geometry": {
+    "location": {
+      "lat": 1.3026648,
+      "lng": 103.8609618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303979730291502,
+        "lng": 103.8622563802915
+      },
+      "southwest": {
+        "lat": 1.301281769708498,
+        "lng": 103.8595584197085
+      }
+    }
+  },
+  "name": "Former Chong Cheng School and Chong Pun Girls’ School",
+  "place_id": "ChIJKX8GcHYZ2jERxq6t_eA6Mjw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kennis Ting",
+      "author_url": "https://www.google.com/maps/contrib/108104688699388757932/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBn1HZP3ySvnJwsZiTuCf6_Mm4o7J2_MNz7D0oFBE_6Jb80w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642292801,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4337594129114312390",
+  "user_ratings_total": 1,
+  "vicinity": "30 Aliwal Street, Singapore"
+}

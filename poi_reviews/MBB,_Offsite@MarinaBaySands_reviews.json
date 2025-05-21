@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Bayfront Avenue, L1, K4 The Shoppes at, Marina Bay Sands, Singapore 018956",
+  "geometry": {
+    "location": {
+      "lat": 1.2834492,
+      "lng": 103.8589451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285182180291502,
+        "lng": 103.86119305
+      },
+      "southwest": {
+        "lat": 1.282484219708498,
+        "lng": 103.85813125
+      }
+    }
+  },
+  "name": "MBB, Offsite@MarinaBaySands",
+  "place_id": "ChIJVVVVyQUZ2jERmVj-cznY0G4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7985119880598673561",
+  "vicinity": "10 Bayfront Avenue, L1, K4 The Shoppes at, Marina Bay Sands"
+}

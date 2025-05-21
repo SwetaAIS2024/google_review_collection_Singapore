@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37548,
+      "lng": 103.74224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376827580291502,
+        "lng": 103.7435931302915
+      },
+      "southwest": {
+        "lat": 1.374129619708498,
+        "lng": 103.7408951697085
+      }
+    }
+  },
+  "name": "Blks 801B & 801C, Choa Chu Kang Ave 6",
+  "place_id": "ChIJcb9PFsUR2jERkZbg3LP3IVM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5990341331256383121",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1092 Lower Delta Rd, Singapore 169203",
+  "geometry": {
+    "location": {
+      "lat": 1.2809125,
+      "lng": 103.8221505
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282336080291502,
+        "lng": 103.8235041302915
+      },
+      "southwest": {
+        "lat": 1.279638119708498,
+        "lng": 103.8208061697085
+      }
+    }
+  },
+  "name": "SG Racking",
+  "place_id": "ChIJ15D7XH0Z2jERY08c9-ZvWVk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jim McCarthy",
+      "author_url": "https://www.google.com/maps/contrib/113642453047831609592/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6x9Jqvzv89W0MtHRiG77VCDAqFLIYrD-sYbaYRJpoLz_8GQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Great selection of shelves!",
+      "time": 1572688545,
+      "translated": false
+    },
+    {
+      "author_name": "Aaron Mayes",
+      "author_url": "https://www.google.com/maps/contrib/104808077313441742785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOa6o_SbbcWqbQRklqGbn0MNjIjZfMXUIs-kvgxzxLf6ssbw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544504644,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6438300180081823587",
+  "user_ratings_total": 2,
+  "vicinity": "1092 Lower Delta Road"
+}

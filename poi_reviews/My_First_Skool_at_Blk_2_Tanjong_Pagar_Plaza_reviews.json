@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Blk 2 Tanjong Pagar Plz, #03-35, Singapore 082002",
+  "geometry": {
+    "location": {
+      "lat": 1.2752579,
+      "lng": 103.8425473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276373980291502,
+        "lng": 103.8439443302915
+      },
+      "southwest": {
+        "lat": 1.273676019708498,
+        "lng": 103.8412463697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 2 Tanjong Pagar Plaza",
+  "place_id": "ChIJiQbSnGwZ2jERJFNKccdSS3A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Justine Lim",
+      "author_url": "https://www.google.com/maps/contrib/110464328648311651557/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJklKzz3SaEshxbSEk3z8yCzEscGjYobk_0BysFpazcy1zL4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "One of our best decisions made to sending my child to this branch, compared to another branch.\n\nMy wife and I get frequent updates from the class teachers on my child's well-being and I feel that the learning has improved tremendously!\n\nThe staff in the centre are approachable and are always smiling most of the time. Thank you for always keeping my kid, happy and safe.\n\nKudos to the principal and teachers!!!",
+      "time": 1690295106,
+      "translated": false
+    },
+    {
+      "author_name": "Xavier Seow",
+      "author_url": "https://www.google.com/maps/contrib/105781018167392606693/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtwi-6ii_FzmzjxuGryaYCRXP8AVB_4Ytn25yMIYh6M_n_0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice and fun",
+      "time": 1684415231,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8091652172053893924",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 2 Tanjong Pagar Plaza, #03-35"
+}

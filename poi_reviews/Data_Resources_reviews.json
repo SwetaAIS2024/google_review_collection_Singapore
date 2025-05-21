@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 12, Tampines Central 1, #04-00, Dbs Tampines Centre, 529537, Singapore 529537",
+  "geometry": {
+    "location": {
+      "lat": 1.354312,
+      "lng": 103.945301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355580480291502,
+        "lng": 103.9467850802915
+      },
+      "southwest": {
+        "lat": 1.352882519708498,
+        "lng": 103.9440871197085
+      }
+    }
+  },
+  "name": "Data Resources",
+  "place_id": "ChIJbQu9Jg492jERg8goC2MXHUA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4619874506908420227",
+  "vicinity": "No. 12, Tampines Central 1, #04-00, Dbs Tampines Centre, 529537"
+}

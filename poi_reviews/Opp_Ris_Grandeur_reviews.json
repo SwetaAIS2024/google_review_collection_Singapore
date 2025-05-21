@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37415,
+      "lng": 103.940811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375496030291502,
+        "lng": 103.9421650802915
+      },
+      "southwest": {
+        "lat": 1.372798069708498,
+        "lng": 103.9394671197085
+      }
+    }
+  },
+  "name": "Opp Ris Grandeur",
+  "place_id": "ChIJewkh4bw92jERJ-_55o8wNcM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "kamarl jaafar",
+      "author_url": "https://www.google.com/maps/contrib/105306526785781826122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMpObBQPa5aZC8cFLS8pTSo5FylnWWeA1A-y68GVWKalTrwJ6o=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487675654,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14066202405775208231",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

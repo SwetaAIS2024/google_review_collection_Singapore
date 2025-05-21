@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.341603,
+      "lng": 103.775795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342955180291502,
+        "lng": 103.7771594302915
+      },
+      "southwest": {
+        "lat": 1.340257219708498,
+        "lng": 103.7744614697085
+      }
+    }
+  },
+  "name": "Beauty World Stn Exit A",
+  "place_id": "ChIJwap5D4oQ2jERaPko5BWr-9M",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "LL Low",
+      "author_url": "https://www.google.com/maps/contrib/113471370063333847519/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNJUzc66IZGaslEWKKLsFsh_siSrlNJnorC6TFGCC5dK54Wg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "One of the Downtown Line (DTL) stations, within walking distance to Beauty World Centre and Bukit Timah Nature Reserve. Well maintained and clean MRT station.",
+      "time": 1564905078,
+      "translated": false
+    },
+    {
+      "author_name": "maine onggayan",
+      "author_url": "https://www.google.com/maps/contrib/100528801922778743386/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ6orgReRfWRE_zoDucl-fhnG_EXX2TZX0Xn5RsYzzskznOzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1615969127,
+      "translated": false
+    },
+    {
+      "author_name": "Joseph MT",
+      "author_url": "https://www.google.com/maps/contrib/105804776628884173176/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2v3PXm45cvawXkCNjzDjhMvD3YYJPCGLJFmGHPEiwHd5lcp8hlg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1576044678,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15274990671667722600",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

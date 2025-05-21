@@ -1,0 +1,66 @@
+{
+  "formatted_address": "30 Pasir Panjang Rd, #17-31/32 Samsung Hub, Singapore 117440",
+  "geometry": {
+    "location": {
+      "lat": 1.2750164,
+      "lng": 103.7976514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276109780291502,
+        "lng": 103.7989176302915
+      },
+      "southwest": {
+        "lat": 1.273411819708498,
+        "lng": 103.7962196697085
+      }
+    }
+  },
+  "name": "Starbucks Samsung Hub",
+  "place_id": "ChIJadN0rcAb2jERuwhcv6BEDcs",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "jenny chua",
+      "author_url": "https://www.google.com/maps/contrib/105080625066581872228/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvK4-GQO6KXnuXa4jARJAPLvoDIlWumEUryQ3F3ceNELU6hVcccQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Awesome experience as the staffs are always helpful and friendly. Less crowded and nice chill out place. My first choice to go for Starsbuck always!",
+      "time": 1644336718,
+      "translated": false
+    },
+    {
+      "author_name": "Jeffrey Wong",
+      "author_url": "https://www.google.com/maps/contrib/110486540963621820440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC4H53pmQ99-ceOsRg1OfLWUgTL8syihDAhAwWbgMYVYAFdUOHnA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645985776,
+      "translated": false
+    },
+    {
+      "author_name": "Leon Chang",
+      "author_url": "https://www.google.com/maps/contrib/110010689425487842127/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-OOx7jB1qccs-q8_0aCQuDUTco371Wj8vPL0WtCfBwfXdev4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499911704,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14631426221592545467",
+  "user_ratings_total": 3,
+  "vicinity": "30 Pasir Panjang Road, #17-31/32 Samsung Hub"
+}

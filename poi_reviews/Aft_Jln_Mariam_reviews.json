@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362886,
+      "lng": 103.967155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364268980291502,
+        "lng": 103.9684862802915
+      },
+      "southwest": {
+        "lat": 1.361571019708498,
+        "lng": 103.9657883197085
+      }
+    }
+  },
+  "name": "Aft Jln Mariam",
+  "place_id": "ChIJlUZurvg82jERsDCIjyI1Gq4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12545398134547165360",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #16-04 Medical Centre, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3031392,
+      "lng": 103.8358318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304505530291502,
+        "lng": 103.8369273302915
+      },
+      "southwest": {
+        "lat": 1.301807569708498,
+        "lng": 103.8342293697085
+      }
+    }
+  },
+  "name": "Kl Ling Gastroenterology And Liver Clinic",
+  "place_id": "ChIJPQKIUJIZ2jERxRFjJk-sVvU",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17678506843235881413",
+  "vicinity": "3 Mount Elizabeth, #16-04 Medical Centre"
+}

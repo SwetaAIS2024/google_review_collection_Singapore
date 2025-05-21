@@ -1,0 +1,89 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3053392,
+      "lng": 103.8607914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306720030291502,
+        "lng": 103.8621122302915
+      },
+      "southwest": {
+        "lat": 1.304022069708498,
+        "lng": 103.8594142697085
+      }
+    }
+  },
+  "name": "Blk 461",
+  "place_id": "ChIJDwYu9bYZ2jERaxDYX7AUm8s",
+  "rating": 2.8,
+  "reviews": [
+    {
+      "author_name": "Made Gelgel",
+      "author_url": "https://www.google.com/maps/contrib/113603542809367685585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1wIdSshziw7uz0VBQ9QmwZu1_1dJaN52PY00b6CxzuBkV8B6yOw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "The driver very very not polite with tourist",
+      "time": 1726237954,
+      "translated": false
+    },
+    {
+      "author_name": "SNG Alex",
+      "author_url": "https://www.google.com/maps/contrib/105330403777165432746/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNh5vOebobw9XWQ06eKKp8q7OJ1_BWF7LUM0mpyBq_EcMvU-Bh=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Fabulous",
+      "time": 1683519299,
+      "translated": false
+    },
+    {
+      "author_name": "Keith Tew",
+      "author_url": "https://www.google.com/maps/contrib/100202936680857196352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9TWuLh1D0zTls8msbh16oUCY8G_STm67-HSgGuN2b6O_goyj2ow=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "Bus Station",
+      "time": 1523162226,
+      "translated": false
+    },
+    {
+      "author_name": "Dean Rafeal",
+      "author_url": "https://www.google.com/maps/contrib/109920176604045896166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxfIXUtzXRj7TUffSA9V2PU033bgoxpZhnteGch8vc5Rww90Gr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523500833,
+      "translated": false
+    },
+    {
+      "author_name": "Arison Babujon",
+      "author_url": "https://www.google.com/maps/contrib/112549931824444460931/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL6THc_dOQoY6GvBBbpZyTbfj-puukSku1Lt7OiuUaAl6d0lY=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521688906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14671342958844317803",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

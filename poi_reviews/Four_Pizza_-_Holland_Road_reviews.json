@@ -1,0 +1,30 @@
+{
+  "formatted_address": "293 Holland Rd, #02-17, Singapore 278628",
+  "geometry": {
+    "location": {
+      "lat": 1.3175779,
+      "lng": 103.7858566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318961330291502,
+        "lng": 103.7871285302915
+      },
+      "southwest": {
+        "lat": 1.316263369708498,
+        "lng": 103.7844305697085
+      }
+    }
+  },
+  "name": "Four Pizza - Holland Road",
+  "place_id": "ChIJS4eT8Lgb2jERnJY8fHEdSIc",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9748073766696294044",
+  "vicinity": "293 Holland Road, #02-17"
+}

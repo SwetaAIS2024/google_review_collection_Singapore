@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2741815,
+      "lng": 103.7984898
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275542580291502,
+        "lng": 103.7998432302915
+      },
+      "southwest": {
+        "lat": 1.272844619708498,
+        "lng": 103.7971452697085
+      }
+    }
+  },
+  "name": "Mapletree Biz City, Pasir Panjang Rd",
+  "place_id": "ChIJSQSMX78b2jER_j1AnUc_Tks",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rosnizam bin mdkassim Rosnizam",
+      "author_url": "https://www.google.com/maps/contrib/114070334957640129989/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1rk0E9M5SWNo37d7X3_w0Kg0Ev_BWSWmCIVq58KOtI9trrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729800637,
+      "translated": false
+    },
+    {
+      "author_name": "Piyush K (PKUMAR383)",
+      "author_url": "https://www.google.com/maps/contrib/116129438839845015042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrK6L2xGf8pYftGB9Xt-Ncew4mnxlVts6f46pyBoJU8GagOKBTMw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672894465,
+      "translated": false
+    },
+    {
+      "author_name": "copycat2000sg",
+      "author_url": "https://www.google.com/maps/contrib/114876113006656878909/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrFz0_jLbQ51ojT3jtkIUF2KnQyiScqXmum5YYDrR7_Sc5ZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522220967,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5426344177841487358",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

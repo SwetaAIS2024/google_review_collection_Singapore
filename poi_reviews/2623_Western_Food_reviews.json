@@ -1,0 +1,30 @@
+{
+  "formatted_address": "26 New Upper Changi Rd, Singapore 462026",
+  "geometry": {
+    "location": {
+      "lat": 1.3232987,
+      "lng": 103.9341774
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324837480291502,
+        "lng": 103.9353540802915
+      },
+      "southwest": {
+        "lat": 1.322139519708498,
+        "lng": 103.9326561197085
+      }
+    }
+  },
+  "name": "2623 Western Food",
+  "place_id": "ChIJ8WG65W0j2jERHDD82QvJx6o",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12306025559552176156",
+  "vicinity": "26 New Upper Changi Road"
+}

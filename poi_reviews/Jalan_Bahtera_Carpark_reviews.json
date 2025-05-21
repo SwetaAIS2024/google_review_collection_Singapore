@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jalan Bahtera, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4231826,
+      "lng": 103.7036516
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424626330291502,
+        "lng": 103.7050315802915
+      },
+      "southwest": {
+        "lat": 1.421928369708498,
+        "lng": 103.7023336197085
+      }
+    }
+  },
+  "name": "Jalan Bahtera Carpark",
+  "place_id": "ChIJHXMOWQAN2jERSWttKHo7rb4",
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13739703434027559753",
+  "vicinity": "Jalan Bahtera"
+}

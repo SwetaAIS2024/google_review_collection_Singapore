@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3115585,
+      "lng": 103.8016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312823530291502,
+        "lng": 103.8032098302915
+      },
+      "southwest": {
+        "lat": 1.310125569708498,
+        "lng": 103.8005118697085
+      }
+    }
+  },
+  "name": "Fairlodge",
+  "place_id": "ChIJA7caXhQa2jERSEbDGrOh3Os",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16995636884409632328",
+  "vicinity": "Singapore"
+}

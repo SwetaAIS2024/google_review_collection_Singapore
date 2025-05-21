@@ -1,0 +1,31 @@
+{
+  "formatted_address": "732 Bedok Reservoir Rd, B1-11 Waterfront Isle, Singapore 479262",
+  "geometry": {
+    "location": {
+      "lat": 1.3386445,
+      "lng": 103.9278055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340207980291502,
+        "lng": 103.9291610802915
+      },
+      "southwest": {
+        "lat": 1.337510019708498,
+        "lng": 103.9264631197085
+      }
+    }
+  },
+  "name": "RDK-B Mart",
+  "place_id": "ChIJ5a4iT0s92jER-KXnLU4wndo",
+  "types": [
+    "convenience_store",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15752800183947601400",
+  "vicinity": "732 Bedok Reservoir Road, B1-11 Waterfront Isle"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "8 temasek boulevard, Suntec Tower 3 #30-01, Singapore 038988",
+  "geometry": {
+    "location": {
+      "lat": 1.2953198,
+      "lng": 103.8596223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296692880291502,
+        "lng": 103.8608466302915
+      },
+      "southwest": {
+        "lat": 1.293994919708498,
+        "lng": 103.8581486697085
+      }
+    }
+  },
+  "name": "SW Interactive",
+  "place_id": "ChIJwx5s464Z2jERvMLqOEHtPl8",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6863183746542781116",
+  "vicinity": "8 temasek boulevard, Suntec Tower 3 #30-01"
+}

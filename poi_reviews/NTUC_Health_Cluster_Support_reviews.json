@@ -1,0 +1,27 @@
+{
+  "formatted_address": "361 Yung An Rd, #01-0111, Singapore 610361",
+  "geometry": {
+    "location": {
+      "lat": 1.3358801,
+      "lng": 103.7201393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337083930291502,
+        "lng": 103.7214308302915
+      },
+      "southwest": {
+        "lat": 1.334385969708498,
+        "lng": 103.7187328697085
+      }
+    }
+  },
+  "name": "NTUC Health Cluster Support",
+  "place_id": "ChIJt-H7ouUP2jERNb9BQ9nuWEw",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5501409561736757045",
+  "vicinity": "361 Yung An Road, #01-0111"
+}

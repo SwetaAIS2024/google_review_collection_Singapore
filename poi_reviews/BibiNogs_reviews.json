@@ -1,0 +1,44 @@
+{
+  "formatted_address": "10 Jln Serene, #02-05 Serene Center, Singapore 258748",
+  "geometry": {
+    "location": {
+      "lat": 1.3225835,
+      "lng": 103.81373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323800180291502,
+        "lng": 103.8150855302915
+      },
+      "southwest": {
+        "lat": 1.321102219708498,
+        "lng": 103.8123875697085
+      }
+    }
+  },
+  "name": "BibiNogs",
+  "place_id": "ChIJMzgfmgYa2jERuxxBCMcKokk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Janice Tan",
+      "author_url": "https://www.google.com/maps/contrib/101119883907062697248/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_s90pVCd7FyFWv1N5kLuOE-ImbRUSz8arlXxa4_i4JYare0xZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "My LO and I attend the parent accompanied Mandarin Babes class twice a week, 1.25h/session. Love the teachers as they are all very friendly and enthusiastic. My LO always looks forward to the class. I was so impressed that I signed up for their 3 hour programme, 4 times a week for the following year.",
+      "time": 1603933513,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5305815160949120187",
+  "user_ratings_total": 1,
+  "vicinity": "10 Jalan Serene, #02-05 Serene Center"
+}

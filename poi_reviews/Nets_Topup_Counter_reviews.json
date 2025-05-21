@@ -1,0 +1,29 @@
+{
+  "formatted_address": "86 Marine Parade Central, Singapore 440086",
+  "geometry": {
+    "location": {
+      "lat": 1.3016809,
+      "lng": 103.9066958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303129330291502,
+        "lng": 103.9079690302915
+      },
+      "southwest": {
+        "lat": 1.300431369708498,
+        "lng": 103.9052710697085
+      }
+    }
+  },
+  "name": "Nets Topup Counter",
+  "place_id": "ChIJm7qvKBcZ2jERDNMwqrG6e5s",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11203753770241544972",
+  "vicinity": "86 Marine Parade Central, Singapore"
+}

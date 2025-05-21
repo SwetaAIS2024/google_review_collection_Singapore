@@ -1,0 +1,30 @@
+{
+  "formatted_address": "258 Bukit Panjang Ring Rd, Singapore 670258",
+  "geometry": {
+    "location": {
+      "lat": 1.3778939,
+      "lng": 103.7732263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379241980291502,
+        "lng": 103.7745041802915
+      },
+      "southwest": {
+        "lat": 1.376544019708498,
+        "lng": 103.7718062197085
+      }
+    }
+  },
+  "name": "San Huat Mini Market",
+  "place_id": "ChIJ46JxMKcR2jER7DnCr2kFzEs",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5461746399572015596",
+  "vicinity": "258 Bukit Panjang Ring Road, Singapore"
+}

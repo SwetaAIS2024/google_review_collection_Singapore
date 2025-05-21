@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Orchard Rd, Singapore 237973",
+  "geometry": {
+    "location": {
+      "lat": 1.3037941,
+      "lng": 103.8318676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304929280291502,
+        "lng": 103.8333051302915
+      },
+      "southwest": {
+        "lat": 1.302231319708498,
+        "lng": 103.8306071697085
+      }
+    }
+  },
+  "name": "Atico & Ion Sky Museum",
+  "place_id": "ChIJzSFFJGcZ2jERbiWJHsvB7W0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "steven tan",
+      "author_url": "https://www.google.com/maps/contrib/103275301432936244691/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBI1AjtbXLxfXDenSMcVo5f_qYpNRAu3wCoA8KrXFnTexRyCJp=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729359850,
+      "translated": false
+    },
+    {
+      "author_name": "育宏",
+      "author_url": "https://www.google.com/maps/contrib/116181898530507780282/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8TEEXqO-cM5c11xcmnYRabrTg3Md68w_5AozjvsOzltiOmRVZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735907622,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7921200397749396846",
+  "user_ratings_total": 2,
+  "vicinity": "Orchard Road, Singapore"
+}

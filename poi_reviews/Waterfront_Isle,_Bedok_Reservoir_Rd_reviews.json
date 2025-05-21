@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33896,
+      "lng": 103.92749
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340355730291502,
+        "lng": 103.9288323302915
+      },
+      "southwest": {
+        "lat": 1.337657769708498,
+        "lng": 103.9261343697085
+      }
+    }
+  },
+  "name": "Waterfront Isle, Bedok Reservoir Rd",
+  "place_id": "ChIJeRhSlUQ92jERJ3Z31NFZreQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mihir Desai",
+      "author_url": "https://www.google.com/maps/contrib/104371106416894704451/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSmldLxu5u9isotQu_CQ2vabsxakz7HbI-bLTdGXJkS8QlJnE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744727736,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16477925369366148647",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

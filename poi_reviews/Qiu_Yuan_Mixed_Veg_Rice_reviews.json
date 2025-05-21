@@ -1,0 +1,45 @@
+{
+  "formatted_address": "17 Woodlands Dr 17, B1-03/04 Woodlands Health Campus, Singapore 737628",
+  "geometry": {
+    "location": {
+      "lat": 1.4247067,
+      "lng": 103.7945383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426391130291502,
+        "lng": 103.7958721302915
+      },
+      "southwest": {
+        "lat": 1.423693169708498,
+        "lng": 103.7931741697085
+      }
+    }
+  },
+  "name": "Qiu Yuan Mixed Veg Rice",
+  "place_id": "ChIJeysLRwAT2jERXdZXVnG1vzM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "CH Pow",
+      "author_url": "https://www.google.com/maps/contrib/105439485383217004780/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqKwIi4PIYRocl5bPkIb9_LfJwSqoLbnLmSDzkIaW6kttjCw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "Food is cold and taste bland.",
+      "time": 1734843859,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3728898514870589021",
+  "user_ratings_total": 1,
+  "vicinity": "17 Woodlands Drive 17, B1-03/04 Woodlands Health Campus, Singapore"
+}

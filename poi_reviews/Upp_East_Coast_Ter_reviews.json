@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31796,
+      "lng": 103.952568
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319244430291502,
+        "lng": 103.9539387302915
+      },
+      "southwest": {
+        "lat": 1.316546469708498,
+        "lng": 103.9512407697085
+      }
+    }
+  },
+  "name": "Upp East Coast Ter",
+  "place_id": "ChIJ5_al89Ai2jERcSobpvC1uao",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Mutalif Sulaemah",
+      "author_url": "https://www.google.com/maps/contrib/115121281016576387761/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlB3kzZOYqJgJWsIaj1K90ghsmFpvj4a7s-E1-Fka96fqx-o-F=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Peace of mind",
+      "time": 1518301191,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Soon",
+      "author_url": "https://www.google.com/maps/contrib/108872231610637037892/reviews",
+      "language": "en-US",
+      "original_language": "la",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9Am0cT5PzBUkytp8o3cJnEabCz81rMBfVCj5D5kjwfvmTEq4=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Nothing without hard work",
+      "time": 1494240607,
+      "translated": true
+    },
+    {
+      "author_name": "Xinghu Wang",
+      "author_url": "https://www.google.com/maps/contrib/101373339760356491292/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhfQ8gXLxgs5n73P1oh8OlgA8t3P2Buy-AROpFXckFyeBhCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679654644,
+      "translated": false
+    },
+    {
+      "author_name": "stuartkohlh",
+      "author_url": "https://www.google.com/maps/contrib/110793820033528753112/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJPJB5OMHenp7cGZyxtubR-ZakXpYq5fl-GWR15sTkrWG5kpUaCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667298047,
+      "translated": false
+    },
+    {
+      "author_name": "ZULKIFLI ABU HASSAN",
+      "author_url": "https://www.google.com/maps/contrib/117463902086333049758/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9EBIoXK86nClxhBhWGKirAApZ5Rk4XEuSxE1x8kE3Xoik4g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480562843,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12302063902322797169",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

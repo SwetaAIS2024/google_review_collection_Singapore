@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.316385,
+      "lng": 103.641296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317716230291502,
+        "lng": 103.6426281302915
+      },
+      "southwest": {
+        "lat": 1.315018269708498,
+        "lng": 103.6399301697085
+      }
+    }
+  },
+  "name": "Blasting Abrasives",
+  "place_id": "ChIJSZyFcOMF2jER3oYcUIBpPPI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Khant Yu",
+      "author_url": "https://www.google.com/maps/contrib/101315255439328708900/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_lguMwWxIczi_GzaDYqR9wj1MihDVCCft7nQYWoX89oyikA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533463906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17454942255601977054",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "161 Hougang St 21, Singapore 530161",
+  "geometry": {
+    "location": {
+      "lat": 1.3577886,
+      "lng": 103.8836904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359187180291502,
+        "lng": 103.8850887802915
+      },
+      "southwest": {
+        "lat": 1.356489219708498,
+        "lng": 103.8823908197085
+      }
+    }
+  },
+  "name": "Cafe @ Sin",
+  "place_id": "ChIJKVYmSLEX2jERc3o-ttqMWhk",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1826927469840464499",
+  "vicinity": "161 Hougang Street 21, Singapore"
+}

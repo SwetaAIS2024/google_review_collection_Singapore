@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.363025,
+      "lng": 103.903503
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364305480291502,
+        "lng": 103.9048595302915
+      },
+      "southwest": {
+        "lat": 1.361607519708498,
+        "lng": 103.9021615697085
+      }
+    }
+  },
+  "name": "Bef KPE",
+  "place_id": "ChIJKdjautIX2jERADLsnfWxSkU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Frederick Kang",
+      "author_url": "https://www.google.com/maps/contrib/116330506087196894978/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaYYnyYf8leKfVifZntgU0Ub9Vz8ceLJd49-Te9_6659UkcA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Bus 53 and 81 take forever like 20 minutes to come even at peak hour what is this? Why can't every 10 or 5minute",
+      "time": 1668678965,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Chia",
+      "author_url": "https://www.google.com/maps/contrib/105744172257980026913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtgVaX3AejT0HKZJlGb5psg5jgIQ0XXVjke_CEQ2TeKoyqu7CG=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nothing much",
+      "time": 1664250704,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4992998805368222208",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

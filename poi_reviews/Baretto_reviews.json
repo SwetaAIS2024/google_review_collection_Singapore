@@ -1,0 +1,29 @@
+{
+  "formatted_address": "46 Bukit Pasoh Rd, Singapore 089858",
+  "geometry": {
+    "location": {
+      "lat": 1.279795,
+      "lng": 103.840474
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281087030291502,
+        "lng": 103.8417703802915
+      },
+      "southwest": {
+        "lat": 1.278389069708498,
+        "lng": 103.8390724197085
+      }
+    }
+  },
+  "name": "Baretto",
+  "place_id": "ChIJFZtW9W0Z2jERaVZcHgM_Q9Y",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15439253230183011945",
+  "vicinity": "46 Bukit Pasoh Road, Singapore"
+}

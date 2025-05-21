@@ -1,0 +1,44 @@
+{
+  "formatted_address": "756 Upper Serangoon Rd, Singapore 534626",
+  "geometry": {
+    "location": {
+      "lat": 1.3539782,
+      "lng": 103.8786504
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355402080291502,
+        "lng": 103.8799372802915
+      },
+      "southwest": {
+        "lat": 1.352704119708498,
+        "lng": 103.8772393197085
+      }
+    }
+  },
+  "name": "Hirohisa Vending @ Upp Serangoon Shopping Cte",
+  "place_id": "ChIJk0R7Yk4X2jERt2K9fdSBVUA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Brian Wong",
+      "author_url": "https://www.google.com/maps/contrib/110852667585876545516/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMaBJBbuCy9-6PUY5lYbdGssDq2voedM0HyJOWSNjGlKF7W5XXBw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Drinks vending bar for the thirsty consumers\n\nJust located conveniently outside the grand old upper Serangoon Shopping centre\n\nSimilarly vending machines are not peppered all over Singapore , brought about by the covid19 pandemic, which has been taking away the human and personal touches of the famed food and beverages industry.",
+      "time": 1653915731,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4635754141090407095",
+  "user_ratings_total": 1,
+  "vicinity": "756 Upper Serangoon Road"
+}

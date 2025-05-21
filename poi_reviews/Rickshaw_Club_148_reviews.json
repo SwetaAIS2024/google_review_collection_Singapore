@@ -1,0 +1,46 @@
+{
+  "formatted_address": "1 Stadium Dr, Singapore 397629",
+  "geometry": {
+    "location": {
+      "lat": 1.3040323,
+      "lng": 103.8732311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305546580291502,
+        "lng": 103.8740337802915
+      },
+      "southwest": {
+        "lat": 1.302848619708498,
+        "lng": 103.8713358197085
+      }
+    }
+  },
+  "name": "Rickshaw Club 148",
+  "place_id": "ChIJVVVS5ksY2jERPLLsfvFf0Co",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jonathan Ng",
+      "author_url": "https://www.google.com/maps/contrib/107301414103209616348/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsrxsr3HTK93-FyI9fXaBf2KFWFTmZ1drqXRIrvuae9ROTFQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "Good stuff",
+      "time": 1457796555,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "meal_takeaway",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3085071235569988156",
+  "user_ratings_total": 1,
+  "vicinity": "1 Stadium Drive, Singapore"
+}

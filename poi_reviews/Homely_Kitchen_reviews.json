@@ -1,0 +1,30 @@
+{
+  "formatted_address": "675 Yishun Ave 4, Singapore 764675",
+  "geometry": {
+    "location": {
+      "lat": 1.4195894,
+      "lng": 103.8427651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420686830291502,
+        "lng": 103.8443787802915
+      },
+      "southwest": {
+        "lat": 1.417988869708498,
+        "lng": 103.8416808197085
+      }
+    }
+  },
+  "name": "Homely Kitchen",
+  "place_id": "ChIJ_28cdgAV2jERQ2qmv81xrzc",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4012550921507990083",
+  "vicinity": "675 Yishun Avenue 4"
+}

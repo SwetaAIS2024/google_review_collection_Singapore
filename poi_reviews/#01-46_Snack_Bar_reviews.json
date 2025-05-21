@@ -1,0 +1,46 @@
+{
+  "formatted_address": "22 Lor 7 Toa Payoh, #01-46, Singapore 310019",
+  "geometry": {
+    "location": {
+      "lat": 1.3353789,
+      "lng": 103.8568172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336709980291502,
+        "lng": 103.8579433802915
+      },
+      "southwest": {
+        "lat": 1.334012019708498,
+        "lng": 103.8552454197085
+      }
+    }
+  },
+  "name": "#01-46 Snack Bar",
+  "place_id": "ChIJt61krnoX2jER6xgVqMJAP6Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Garett Bradley",
+      "author_url": "https://www.google.com/maps/contrib/117049804663109456435/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKfxruRQfFkqiaiukgthJ0wwpIPObYDRGmhb-nJzemwaAtqMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "If you're looking for your cheat meal, look no further - here you can find one of the most authentic Youtiao (Chinese fried dough), fried Carrotcake, fried Butterfly bun, fried salted bun, fried green pea cake, fried red/black bean ball and more.",
+      "time": 1621048215,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11979364738616596715",
+  "user_ratings_total": 1,
+  "vicinity": "22 Lorong 7 Toa Payoh, #01-46, Singapore"
+}

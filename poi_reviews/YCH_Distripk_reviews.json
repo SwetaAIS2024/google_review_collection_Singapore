@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31765,
+      "lng": 103.656448
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319022430291502,
+        "lng": 103.6578193302915
+      },
+      "southwest": {
+        "lat": 1.316324469708498,
+        "lng": 103.6551213697085
+      }
+    }
+  },
+  "name": "YCH Distripk",
+  "place_id": "ChIJyXFAne0F2jERo9ol9GYj_tM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15275685911177058979",
+  "vicinity": "Singapore"
+}

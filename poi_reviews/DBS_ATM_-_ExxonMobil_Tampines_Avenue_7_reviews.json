@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Tampines Ave 7, Singapore 529619",
+  "geometry": {
+    "location": {
+      "lat": 1.3575598,
+      "lng": 103.9589617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358905780291502,
+        "lng": 103.9603182302915
+      },
+      "southwest": {
+        "lat": 1.356207819708498,
+        "lng": 103.9576202697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Tampines Avenue 7",
+  "place_id": "ChIJ86TyBNA92jERGce8rp3SgZc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10917238546406098713",
+  "vicinity": "9 Tampines Avenue 7, Singapore"
+}

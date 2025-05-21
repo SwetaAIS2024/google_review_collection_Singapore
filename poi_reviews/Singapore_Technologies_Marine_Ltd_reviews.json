@@ -1,0 +1,41 @@
+{
+  "formatted_address": "16 Benoi Rd, Singapore 629882",
+  "geometry": {
+    "location": {
+      "lat": 1.301279,
+      "lng": 103.679112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302433430291502,
+        "lng": 103.6804958802915
+      },
+      "southwest": {
+        "lat": 1.299735469708498,
+        "lng": 103.6777979197085
+      }
+    }
+  },
+  "name": "Singapore Technologies Marine Ltd",
+  "place_id": "ChIJ_6T5UKYF2jERPDJRhYLzfSk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Goli Maneendra",
+      "author_url": "https://www.google.com/maps/contrib/109323355190871731339/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7yoF1UzqpVhVhzpH9c3QLKfN6vl3SOrw0XoQA8kRiFQwesscE3w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674966651,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2989813469551866428",
+  "user_ratings_total": 1,
+  "vicinity": "16 Benoi Road, Singapore"
+}

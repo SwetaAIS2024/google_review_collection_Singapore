@@ -1,0 +1,46 @@
+{
+  "formatted_address": "37A Teban Gardens Rd, #01-15, Singapore 601037",
+  "geometry": {
+    "location": {
+      "lat": 1.3208952,
+      "lng": 103.7427647
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322235530291502,
+        "lng": 103.7439036802915
+      },
+      "southwest": {
+        "lat": 1.319537569708498,
+        "lng": 103.7412057197085
+      }
+    }
+  },
+  "name": "Mei Hoe Traditional Coffee",
+  "place_id": "ChIJQyc-XwAb2jERnlTDmw58xrA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wilson Foo",
+      "author_url": "https://www.google.com/maps/contrib/114263857328212431619/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIh7G1X_JZDJZgIL6xxNoM8CIfjOdDDN6tMUxtTdpzGnximA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Good and cheap coffee at Teban Gardens Food Center. Where else can you find coffee for $1.00 a cup??? And it was coffee with robust flavour, not some watered down version.",
+      "time": 1724113748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12738004998248682654",
+  "user_ratings_total": 1,
+  "vicinity": "37A Teban Gardens Road, #01-15, Singapore"
+}

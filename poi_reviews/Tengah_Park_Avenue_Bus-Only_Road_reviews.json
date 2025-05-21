@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Tengah Park Avenue, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3607303,
+      "lng": 103.7396103
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362301480291502,
+        "lng": 103.7407056802915
+      },
+      "southwest": {
+        "lat": 1.359603519708498,
+        "lng": 103.7380077197085
+      }
+    }
+  },
+  "name": "Tengah Park Avenue Bus-Only Road",
+  "place_id": "ChIJWwA5fQAR2jERQrOc2-pqKR8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2245443446160274242",
+  "vicinity": "Tengah Park Avenue"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "03-51, People's Park Centre, 101 Upper Cross St, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.2857619,
+      "lng": 103.8439529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286967230291502,
+        "lng": 103.8454820802915
+      },
+      "southwest": {
+        "lat": 1.284269269708498,
+        "lng": 103.8427841197085
+      }
+    }
+  },
+  "name": "Triple-Harmony TCM Medical Centre (Apollo)",
+  "place_id": "ChIJcf_XvnQZ2jERJz5ZcD_PHa0",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12474354414260928039",
+  "vicinity": "03-51, People's Park Centre, 101 Upper Cross Street"
+}

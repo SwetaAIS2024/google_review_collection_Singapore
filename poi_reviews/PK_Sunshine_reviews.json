@@ -1,0 +1,30 @@
+{
+  "formatted_address": "477 Tampines Street 43, #01-176, N 4 Neighbourhood Centre, Singapore 520477",
+  "geometry": {
+    "location": {
+      "lat": 1.3608946,
+      "lng": 103.9529318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362409730291502,
+        "lng": 103.9541531302915
+      },
+      "southwest": {
+        "lat": 1.359711769708498,
+        "lng": 103.9514551697085
+      }
+    }
+  },
+  "name": "PK Sunshine",
+  "place_id": "ChIJx81oHwA92jERZVxDxS7LFSQ",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2600207761614789733",
+  "vicinity": "477 Tampines Street 43, #01-176, N 4 Neighbourhood Centre"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "41 Bukit Panjang Ring Rd, Singapore 679945",
+  "geometry": {
+    "location": {
+      "lat": 1.3833523,
+      "lng": 103.7727523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384707530291502,
+        "lng": 103.7741596302915
+      },
+      "southwest": {
+        "lat": 1.382009569708498,
+        "lng": 103.7714616697085
+      }
+    }
+  },
+  "name": "DBS ATM - SPC Bukit Panjang",
+  "place_id": "ChIJyTj9HAUR2jERQxUKMPmiXEc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "VT Loh",
+      "author_url": "https://www.google.com/maps/contrib/113166848256896072270/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYsuSeHShrZpm5eOeQmxI8YE3rM_19RHGnt7vQdwfXVuBipqIxGw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607620431,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5142164065686787395",
+  "user_ratings_total": 1,
+  "vicinity": "41 Bukit Panjang Ring Road, Singapore"
+}

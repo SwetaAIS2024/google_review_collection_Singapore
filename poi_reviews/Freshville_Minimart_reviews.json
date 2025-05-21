@@ -1,0 +1,30 @@
+{
+  "formatted_address": "34 Marine Cres, #01-49 Block 34, Singapore 440034",
+  "geometry": {
+    "location": {
+      "lat": 1.3037039,
+      "lng": 103.9123734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305231830291502,
+        "lng": 103.9138580802915
+      },
+      "southwest": {
+        "lat": 1.302533869708498,
+        "lng": 103.9111601197085
+      }
+    }
+  },
+  "name": "Freshville Minimart",
+  "place_id": "ChIJDa2uKQAZ2jERrjezYvUbiT8",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4578221236935669678",
+  "vicinity": "34 Marine Crescent, #01-49 Block 34"
+}

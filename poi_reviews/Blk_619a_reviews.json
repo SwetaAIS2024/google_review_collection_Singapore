@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361776,
+      "lng": 103.938187
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363125530291502,
+        "lng": 103.9394989802915
+      },
+      "southwest": {
+        "lat": 1.360427569708498,
+        "lng": 103.9368010197085
+      }
+    }
+  },
+  "name": "Blk 619a",
+  "place_id": "ChIJAbTIzwo92jER_mqEdcvqrGk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7614719229547539198",
+  "vicinity": "Singapore"
+}

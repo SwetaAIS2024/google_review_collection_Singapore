@@ -1,0 +1,56 @@
+{
+  "formatted_address": "37 Teban Gardens Rd, #01-302, Singapore 600037",
+  "geometry": {
+    "location": {
+      "lat": 1.3204657,
+      "lng": 103.7428947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321791430291502,
+        "lng": 103.7441747802915
+      },
+      "southwest": {
+        "lat": 1.319093469708498,
+        "lng": 103.7414768197085
+      }
+    }
+  },
+  "name": "Coffee Brew",
+  "place_id": "ChIJaYP6NwAb2jER_bCaxExFQG8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Samuel Wong",
+      "author_url": "https://www.google.com/maps/contrib/113816589242209160796/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCAaCQOS0dUlEEGSipOLUJV2KYXyg1CT3ONpnegMPlja4ZA1xo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "They have one of the best ngoh hiang in this coffee shop !!",
+      "time": 1718719855,
+      "translated": false
+    },
+    {
+      "author_name": "Ang Stewart 8825",
+      "author_url": "https://www.google.com/maps/contrib/111899647487845031122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUSKG5nsbHrIshSga-nytcTLbX6bUhzkcae56pAIU_TelY5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717526353,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8016483532737786109",
+  "user_ratings_total": 2,
+  "vicinity": "37 Teban Gardens Road, #01-302"
+}

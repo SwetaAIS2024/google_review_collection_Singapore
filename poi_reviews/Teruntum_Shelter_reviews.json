@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Pasir Ris, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3794019,
+      "lng": 103.9520161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380497380291502,
+        "lng": 103.954688
+      },
+      "southwest": {
+        "lat": 1.377799419708498,
+        "lng": 103.9511224
+      }
+    }
+  },
+  "name": "Teruntum Shelter",
+  "place_id": "ChIJibeISgA92jERctyu_A00uP4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "One of the two Shelters at the Mangrove Boardwalk",
+      "time": 1734906424,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18354477516026993778",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

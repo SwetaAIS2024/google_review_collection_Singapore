@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3240668,
+      "lng": 103.8633689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325376580291502,
+        "lng": 103.8646805302915
+      },
+      "southwest": {
+        "lat": 1.322678619708498,
+        "lng": 103.8619825697085
+      }
+    }
+  },
+  "name": "NETS Flashpay Top-up",
+  "place_id": "ChIJG_xjCUAZ2jERrhpxldsXzlY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lee Philip",
+      "author_url": "https://www.google.com/maps/contrib/111632914572693481166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPvbnwnld9nLczm2GjN76aTjezQ5trEl1PvqIpJw43Z3kR6ntIKQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1732009106,
+      "translated": false
+    },
+    {
+      "author_name": "Sek Fai Wong",
+      "author_url": "https://www.google.com/maps/contrib/117741384329821466219/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3xVTswDTUm93ZhvOl32fe4GsO36H8D3K_pbG20BHr-6erq4Jc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1597457808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6254963164336691886",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

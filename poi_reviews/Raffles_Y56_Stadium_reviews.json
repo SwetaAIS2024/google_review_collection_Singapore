@@ -1,0 +1,52 @@
+{
+  "formatted_address": "50 Bishan Ln, Singapore 576498",
+  "geometry": {
+    "location": {
+      "lat": 1.3446587,
+      "lng": 103.8451881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346322180291502,
+        "lng": 103.8465768802915
+      },
+      "southwest": {
+        "lat": 1.343624219708498,
+        "lng": 103.8438789197085
+      }
+    }
+  },
+  "name": "Raffles Y56 Stadium",
+  "place_id": "ChIJWRan2YUX2jER4NfD2UBVcFI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jun jie Tan",
+      "author_url": "https://www.google.com/maps/contrib/106634561829649721785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1MuCkLYuSpj9iQEWPt8vHq_6Zn_TSvCdfSe5p63kc1lQQ8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736148409,
+      "translated": false
+    },
+    {
+      "author_name": "O S",
+      "author_url": "https://www.google.com/maps/contrib/102323458100560766645/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6N0JF7Iaq4F66YjL4teRnM1yS6_XAwdPzKMaucQR137YX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721474996,
+      "translated": false
+    }
+  ],
+  "types": [
+    "stadium",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5940341645521442784",
+  "user_ratings_total": 2,
+  "vicinity": "50 Bishan Lane, Singapore"
+}

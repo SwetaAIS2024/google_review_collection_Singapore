@@ -1,0 +1,42 @@
+{
+  "formatted_address": "10 Ubi Cres, Singapore 408564",
+  "geometry": {
+    "location": {
+      "lat": 1.3263074,
+      "lng": 103.8962547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327475630291502,
+        "lng": 103.8976784302915
+      },
+      "southwest": {
+        "lat": 1.324777669708498,
+        "lng": 103.8949804697085
+      }
+    }
+  },
+  "name": "51 Scuba Pte Ltd",
+  "place_id": "ChIJzbzF9_UX2jER1EH_a2gvpmA",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Loh David",
+      "author_url": "https://www.google.com/maps/contrib/117391244234307817891/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyBDVHQJZAdBajOgH2Pf4s14Qd9XBQjFNs71WKAfGw4Klhcg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1570141864,
+      "translated": false
+    }
+  ],
+  "types": [
+    "amusement_park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6964305999310045652",
+  "user_ratings_total": 1,
+  "vicinity": "10 Ubi Crescent"
+}

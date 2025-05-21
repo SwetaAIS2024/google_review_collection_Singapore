@@ -1,0 +1,56 @@
+{
+  "formatted_address": "10 Anson Rd, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.2761243,
+      "lng": 103.8458341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277329030291502,
+        "lng": 103.8473625802915
+      },
+      "southwest": {
+        "lat": 1.274631069708498,
+        "lng": 103.8446646197085
+      }
+    }
+  },
+  "name": "International Plaza",
+  "place_id": "ChIJ2-WvdwAZ2jERlGc-ALm9my8",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Teh C Gao Siew Dai",
+      "author_url": "https://www.google.com/maps/contrib/102646679801920717610/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3U0IC1aO9XdT3uEhdk3Fe8hnvCLrFkmiaAAAG_0icb_veGDuv=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Date visited: Wednesday 12 February 2025. A shopping complex located next to Tanjong Pagar MRT station. Most of the crowds are on the first of the total 3 levels. Many food and beverage options to choose from.",
+      "time": 1739589721,
+      "translated": false
+    },
+    {
+      "author_name": "Jolene Koh",
+      "author_url": "https://www.google.com/maps/contrib/117713691464095395734/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiiZXI_yy6zpjaK-lEWwcPa22lI8SRci3pq5gMStND9QZtQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Vsna gave a wonderful service",
+      "time": 1743671016,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3430544143443453844",
+  "user_ratings_total": 2,
+  "vicinity": "10 Anson Road"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "165 Bukit Merah Central, Singapore 150165",
+  "geometry": {
+    "location": {
+      "lat": 1.2831222,
+      "lng": 103.8166078
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284343330291502,
+        "lng": 103.8180930302915
+      },
+      "southwest": {
+        "lat": 1.281645369708498,
+        "lng": 103.8153950697085
+      }
+    }
+  },
+  "name": "Loyang Marine Pte Ltd",
+  "place_id": "ChIJQR7Ly9Yb2jERDc4XDQjSrkM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Bernard Chan",
+      "author_url": "https://www.google.com/maps/contrib/117409954797910122031/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL-sKAfHJ5Ie6a3PYcv1Xysw68HQ_A8BCdiIBAIIAyOGYdnOj-RA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Master of Yachts",
+      "time": 1620650699,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4877066378510061069",
+  "user_ratings_total": 1,
+  "vicinity": "165 Bukit Merah Central, Singapore"
+}

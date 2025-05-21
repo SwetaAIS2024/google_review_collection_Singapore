@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.392186,
+      "lng": 103.88018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393559780291502,
+        "lng": 103.8815285802915
+      },
+      "southwest": {
+        "lat": 1.390861819708498,
+        "lng": 103.8788306197085
+      }
+    }
+  },
+  "name": "Layar Stn Exit B",
+  "place_id": "ChIJx9mZA3AW2jERDhCuNnJ_Qvo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sbz",
+      "author_url": "https://www.google.com/maps/contrib/107040409333326472973/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaLijdEFW4wrA9lbfw0X9-kIV4ii0htmo-w5ZG6w4TzpZCH4lz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1493205886,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18033115986465263630",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325816,
+      "lng": 103.719063
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327161880291502,
+        "lng": 103.7204566802915
+      },
+      "southwest": {
+        "lat": 1.324463919708498,
+        "lng": 103.7177587197085
+      }
+    }
+  },
+  "name": "Opp Corp Pl",
+  "place_id": "ChIJAQajvlcF2jERw4cBN4-5I18",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6855527082542335939",
+  "vicinity": "Singapore"
+}

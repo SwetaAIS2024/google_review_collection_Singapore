@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322982,
+      "lng": 103.944214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324920180291502,
+        "lng": 103.9456625802915
+      },
+      "southwest": {
+        "lat": 1.322222219708498,
+        "lng": 103.9429646197085
+      }
+    }
+  },
+  "name": "ECO Condo",
+  "place_id": "ChIJeTvrb8wi2jERpJ3Ve4M-e30",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Love Batth",
+      "author_url": "https://www.google.com/maps/contrib/112755211333391923682/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWg-lD3YsFxedkLLmAvm0nxAnm9asfKyXgCZ7Avpux9MVD9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721733209,
+      "translated": false
+    },
+    {
+      "author_name": "Veronica Teo",
+      "author_url": "https://www.google.com/maps/contrib/100576125610038466566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY2ecyvp3-CS3-d_nQr6I2Ms7SVxdK3ukIxckZkJLi_lT7jw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530439141,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9041889411315637668",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

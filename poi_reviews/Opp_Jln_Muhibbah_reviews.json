@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3315774,
+      "lng": 103.8806176
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.332933730291502,
+        "lng": 103.8819650802915
+      },
+      "southwest": {
+        "lat": 1.330235769708498,
+        "lng": 103.8792671197085
+      }
+    }
+  },
+  "name": "Opp Jln Muhibbah",
+  "place_id": "ChIJi19mT48X2jEROv62WRVMF28",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8004950517257535034",
+  "vicinity": "Singapore"
+}

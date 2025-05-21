@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339147,
+      "lng": 103.763634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340547730291502,
+        "lng": 103.7649757802915
+      },
+      "southwest": {
+        "lat": 1.337849769708498,
+        "lng": 103.7622778197085
+      }
+    }
+  },
+  "name": "Aft Toh Tuck Rise",
+  "place_id": "ChIJI56Jh2UQ2jERbH0bws09Om8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ray",
+      "author_url": "https://www.google.com/maps/contrib/106234965948856359785/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPnAtB9yQSg-3o5mRmtC8mz4LCtO4d7rMtiFDjmDeKttjB2ZjH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "😱",
+      "time": 1740116122,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8014786440793390444",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

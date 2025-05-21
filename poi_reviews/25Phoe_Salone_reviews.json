@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Blk 126 Lor 1 Toa Payoh, #01-559, Singapore 310126",
+  "geometry": {
+    "location": {
+      "lat": 1.3377826,
+      "lng": 103.8452273
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339440230291502,
+        "lng": 103.8464866302915
+      },
+      "southwest": {
+        "lat": 1.336742269708498,
+        "lng": 103.8437886697085
+      }
+    }
+  },
+  "name": "25Phoe Salone",
+  "place_id": "ChIJH_shGt4X2jERRi6yJ7dA5cQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sithu Aung",
+      "author_url": "https://www.google.com/maps/contrib/112437653967279786870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUUAartijHzm2tDtNMq5GNGnroCZkqpUJIu4ETUWH3oABJDOdC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Good service",
+      "time": 1742401347,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14187817356489797190",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 126 Lorong 1 Toa Payoh, #01-559"
+}

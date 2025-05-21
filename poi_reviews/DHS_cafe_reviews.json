@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Tanjong Rhu Rd, Singapore 436895",
+  "geometry": {
+    "location": {
+      "lat": 1.3001648,
+      "lng": 103.8830092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301482530291502,
+        "lng": 103.8840863302915
+      },
+      "southwest": {
+        "lat": 1.298784569708498,
+        "lng": 103.8813883697085
+      }
+    }
+  },
+  "name": "DHS cafe",
+  "place_id": "ChIJ3yjjXgAZ2jERLDY4qvmaQ8I",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13998202463890978348",
+  "vicinity": "10 Tanjong Rhu Road, Singapore"
+}

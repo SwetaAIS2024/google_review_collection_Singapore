@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Tampines, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.358977,
+      "lng": 103.9447906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360613780291502,
+        "lng": 103.9466360302915
+      },
+      "southwest": {
+        "lat": 1.357915819708498,
+        "lng": 103.9439380697085
+      }
+    }
+  },
+  "name": "BBQ Pits",
+  "place_id": "ChIJU8zwbQA92jERbhiFrBCflfg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "BBQ pits complete with tables and benches under shelter and right below the HDB housing; and within the Park.\nHow great is that!",
+      "time": 1746950335,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17912397986898712686",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3461155,
+      "lng": 103.9835499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347418980291502,
+        "lng": 103.9849175802915
+      },
+      "southwest": {
+        "lat": 1.344721019708498,
+        "lng": 103.9822196197085
+      }
+    }
+  },
+  "name": "Bef Changi Airport PTB3",
+  "place_id": "ChIJTfPc0pQ82jERidvCrXoIkiQ",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Toru Yamashita",
+      "author_url": "https://www.google.com/maps/contrib/107450192936426208950/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZV-SNcot11CEjVwxfN6bM8vezMJhucUpodXHcoxKhPwP56Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "13 Feb 2025 @ 2300 bus 27 failed to stop again. This is my 2nd time the bus (27) didn’t stop to pick up passengers.",
+      "time": 1739372829,
+      "translated": false
+    },
+    {
+      "author_name": "Md Sumon Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/113444464575170491191/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi8b89BlYRyzBJ0N-DErB6Js_VWa66M9drgH-ZCQsx2YORhx5y=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725873317,
+      "translated": false
+    },
+    {
+      "author_name": "mrappelgebak",
+      "author_url": "https://www.google.com/maps/contrib/104038107782887832300/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7PRYpf0ARI8Y5i2YrVxM7Lg62Oc1NziUm4peRd3kO3YhUFyky=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572070530,
+      "translated": false
+    },
+    {
+      "author_name": "Ruian Ng",
+      "author_url": "https://www.google.com/maps/contrib/116276749362443653130/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxwwu7Zdswx-__Xl7jXPwdfrfYuKd_LaUXe-w45_KndcelzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559952439,
+      "translated": false
+    },
+    {
+      "author_name": "Naveen Meera",
+      "author_url": "https://www.google.com/maps/contrib/109998557751110127523/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZisHYL2frpZEF-lUXqVpP652jpLIJ8bDLoBvrexrFV6ojYkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557730543,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2635178054959422345",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

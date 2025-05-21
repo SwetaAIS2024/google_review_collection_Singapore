@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304568,
+      "lng": 103.684723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305917180291502,
+        "lng": 103.6860368302915
+      },
+      "southwest": {
+        "lat": 1.303219219708498,
+        "lng": 103.6833388697085
+      }
+    }
+  },
+  "name": "Opp Mooreast",
+  "place_id": "ChIJJ403JQoF2jERFmWr5gfszL8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dinesh Karthik",
+      "author_url": "https://www.google.com/maps/contrib/102599164003091353565/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTD_89hpcUKOA2gXO-FAs3wjBDxqidUaDwugFgH8iaqZu7W-bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692662061,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13820680875172128022",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

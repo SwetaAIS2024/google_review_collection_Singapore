@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.366058,
+      "lng": 103.875221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367388680291502,
+        "lng": 103.8766141302915
+      },
+      "southwest": {
+        "lat": 1.364690719708498,
+        "lng": 103.8739161697085
+      }
+    }
+  },
+  "name": "东丰花园",
+  "place_id": "ChIJWczYdFMW2jERRftMbqChcpk",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ali OZHELVACI",
+      "author_url": "https://www.google.com/maps/contrib/118168751253890211142/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_9qxU3dfMBk-9qE9PkBt39HgClctu0Qn5oDmNyn-NZtFdkpdTMw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This is Parkwood Residences Bus Stop, chinese name is not correct. Suggest Google to change it immediately.",
+      "time": 1745647815,
+      "translated": false
+    },
+    {
+      "author_name": "Chua Wing Fong Jaden (Montfortss)",
+      "author_url": "https://www.google.com/maps/contrib/116142966946821093756/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0dLKRSClT97Nz_nsWzM2yeLl9v6tAFHt7mn2l3fFzy28d2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I LOVEEEEE this bus stop i edge to it",
+      "time": 1707095439,
+      "translated": false
+    },
+    {
+      "author_name": "chen hm",
+      "author_url": "https://www.google.com/maps/contrib/108835774158470470932/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_jUD6lM1OjMDGT8UHjwZ19GlPiCX2tKwCAqAi-7pwPNV0rnlQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514194213,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11057077745565367109",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

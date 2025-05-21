@@ -1,0 +1,30 @@
+{
+  "formatted_address": "18 Cross Street, Cross Street Exchange, Singapore B1-110, Singapore 048423",
+  "geometry": {
+    "location": {
+      "lat": 1.2834706,
+      "lng": 103.8468928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284909530291502,
+        "lng": 103.8482227802915
+      },
+      "southwest": {
+        "lat": 1.282211569708498,
+        "lng": 103.8455248197085
+      }
+    }
+  },
+  "name": "Ko Shokudō",
+  "place_id": "ChIJLzr-MoUZ2jERpN3jnZYIkEE",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4724285452098723236",
+  "vicinity": "18 Cross Street, Cross Street Exchange, Singapore B1-110"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "820 Thomson Rd, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3419101,
+      "lng": 103.8378214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343259630291502,
+        "lng": 103.8391844802915
+      },
+      "southwest": {
+        "lat": 1.340561669708498,
+        "lng": 103.8364865197085
+      }
+    }
+  },
+  "name": "Alvernia Retail Pharmacy",
+  "place_id": "ChIJH-gLwEYX2jERDVGpGsLLtOc",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Jean Z",
+      "author_url": "https://www.google.com/maps/contrib/104264438975190056850/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_0lVqR2SP2sMDBWkQrx6xSTDujIQBjBIu-aO-evZowd3IEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Veryyy slow",
+      "time": 1678770065,
+      "translated": false
+    },
+    {
+      "author_name": "Karen Wong",
+      "author_url": "https://www.google.com/maps/contrib/103283090412667023187/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrFZ68BTq7rBZX9c_oemWlDfwpQ3M5KwaOe3xH9uCumt0fI58l9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1585880681,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16696193753100669197",
+  "user_ratings_total": 2,
+  "vicinity": "820 Thomson Road"
+}

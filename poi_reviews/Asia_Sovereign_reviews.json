@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Temasek Blvd, Singapore 038988",
+  "geometry": {
+    "location": {
+      "lat": 1.2952947,
+      "lng": 103.8596126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296681230291502,
+        "lng": 103.8608352802915
+      },
+      "southwest": {
+        "lat": 1.293983269708498,
+        "lng": 103.8581373197085
+      }
+    }
+  },
+  "name": "Asia Sovereign",
+  "place_id": "ChIJn3BjN68Z2jERcAxUvOu5pQ8",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1127511703854255216",
+  "vicinity": "8 Temasek Boulevard"
+}

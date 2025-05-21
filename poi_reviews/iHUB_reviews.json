@@ -1,0 +1,52 @@
+{
+  "formatted_address": "9 Jurong Town Hall Rd, Singapore 609431",
+  "geometry": {
+    "location": {
+      "lat": 1.3285473,
+      "lng": 103.7421449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329728880291502,
+        "lng": 103.7437525302915
+      },
+      "southwest": {
+        "lat": 1.327030919708498,
+        "lng": 103.7410545697085
+      }
+    }
+  },
+  "name": "iHUB",
+  "place_id": "ChIJW-w0aAgQ2jERohjpL5e-SuY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Damoder Kankanala",
+      "author_url": "https://www.google.com/maps/contrib/106013365198226059490/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7gWaJ1t6a3jbbOr3dTzJ0hM6aDIHWddp0qcLtlpl4IBJRsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745292872,
+      "translated": false
+    },
+    {
+      "author_name": "Auzana Group",
+      "author_url": "https://www.google.com/maps/contrib/103349259933713464783/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy91N48CenQ8zJKehblSej7mHefTv1qP_kIr0LmJbNXG6oEp9r4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604105081,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16594285333553158306",
+  "user_ratings_total": 2,
+  "vicinity": "9 Jurong Town Hall Road"
+}

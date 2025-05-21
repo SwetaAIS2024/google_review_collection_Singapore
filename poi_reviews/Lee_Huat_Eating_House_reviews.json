@@ -1,0 +1,29 @@
+{
+  "formatted_address": "148 Sims Ave, Singapore 387470",
+  "geometry": {
+    "location": {
+      "lat": 1.3143613,
+      "lng": 103.8792129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315762630291502,
+        "lng": 103.8805519802915
+      },
+      "southwest": {
+        "lat": 1.313064669708498,
+        "lng": 103.8778540197085
+      }
+    }
+  },
+  "name": "Lee Huat Eating House",
+  "place_id": "ChIJRa4ChDAY2jERNWfq0FITE-Y",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16578615899694196533",
+  "vicinity": "148 Sims Avenue, Singapore"
+}

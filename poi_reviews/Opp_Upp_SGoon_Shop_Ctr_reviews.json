@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3544404,
+      "lng": 103.8783853
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355775580291502,
+        "lng": 103.8797614302915
+      },
+      "southwest": {
+        "lat": 1.353077619708498,
+        "lng": 103.8770634697085
+      }
+    }
+  },
+  "name": "Opp Upp S'Goon Shop Ctr",
+  "place_id": "ChIJm1zKX6UX2jERtM8LF3Xc_Jg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "cindy chrisanty",
+      "author_url": "https://www.google.com/maps/contrib/114682255005567094489/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp09rBvVXHoVFVLM8vvXBq4H_2nFmZaMOxQdG7DmYQn0oGPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478401133,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11023928383352065972",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "45 Thomson Rd, #3rd Floor of Kindergarten Building, Singapore 307584",
+  "geometry": {
+    "location": {
+      "lat": 1.3151596,
+      "lng": 103.8447681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316545980291502,
+        "lng": 103.8462246302915
+      },
+      "southwest": {
+        "lat": 1.313848019708498,
+        "lng": 103.8435266697085
+      }
+    }
+  },
+  "name": "Judson Baptist Church Singapore",
+  "place_id": "ChIJN1X2qvYX2jERVME2k_6myew",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Moe Min Htwe",
+      "author_url": "https://www.google.com/maps/contrib/104285699426043348921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB0l_kY4pKBT1m-0kTHtumqslm6m-DwAx3fRLhxofTet6xDnUm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738917483,
+      "translated": false
+    },
+    {
+      "author_name": "PS AUNG",
+      "author_url": "https://www.google.com/maps/contrib/108642965515846268846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjJtZAs2_GD1H9Wa1zl3LeF3RQ1GrASgRzGtdC96U7P2xAtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685510342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17062352275591577940",
+  "user_ratings_total": 2,
+  "vicinity": "45 Thomson Road, #3rd Floor of Kindergarten Building"
+}

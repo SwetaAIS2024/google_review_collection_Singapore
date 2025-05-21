@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Orchard Blvd, Singapore 248649",
+  "geometry": {
+    "location": {
+      "lat": 1.3031601,
+      "lng": 103.8237124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304419680291502,
+        "lng": 103.8249425802915
+      },
+      "southwest": {
+        "lat": 1.301721719708498,
+        "lng": 103.8222446197085
+      }
+    }
+  },
+  "name": "Tmvc Singapore Pte Ltd",
+  "place_id": "ChIJKQCns3oa2jERblxS8YWicd8",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16100828838989290606",
+  "vicinity": "Orchard Boulevard, Singapore"
+}

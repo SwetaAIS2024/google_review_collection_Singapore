@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Commonwealth, Singapore 149596",
+  "geometry": {
+    "location": {
+      "lat": 1.3049,
+      "lng": 103.798052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306176330291502,
+        "lng": 103.7994744302915
+      },
+      "southwest": {
+        "lat": 1.303478369708498,
+        "lng": 103.7967764697085
+      }
+    }
+  },
+  "name": "DI4Y",
+  "place_id": "ChIJfTEknLEb2jERU5jqka8y1PM",
+  "types": [
+    "shopping_mall",
+    "furniture_store",
+    "home_goods_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17569723775927883859",
+  "vicinity": "Commonwealth"
+}

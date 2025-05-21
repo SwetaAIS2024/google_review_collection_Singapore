@@ -1,0 +1,46 @@
+{
+  "formatted_address": "12 Harper Rd, Singapore 369677",
+  "geometry": {
+    "location": {
+      "lat": 1.3349815,
+      "lng": 103.8867161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336194630291502,
+        "lng": 103.8880975302915
+      },
+      "southwest": {
+        "lat": 1.333496669708498,
+        "lng": 103.8853995697085
+      }
+    }
+  },
+  "name": "Apex Pharmacy Marketing Pte Ltd",
+  "place_id": "ChIJFfO0ko0X2jER6dSht1SGy2w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Armani O",
+      "author_url": "https://www.google.com/maps/contrib/114042700253762984084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcNcSzcuJbUPNf73M3GRtvl5BYD6f8AjmDcqvmNfhJADKQVwc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Good sales service from Sales representative, Mr Ken Ng and prompt delivery which always come in time when in need. Thanks Ken for your sourcing and help.",
+      "time": 1524390838,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7839507274784691433",
+  "user_ratings_total": 1,
+  "vicinity": "12 Harper Road, Singapore"
+}

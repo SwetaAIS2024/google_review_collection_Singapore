@@ -1,0 +1,46 @@
+{
+  "formatted_address": "476 Tampines Street 44, Singapore 520476",
+  "geometry": {
+    "location": {
+      "lat": 1.3609703,
+      "lng": 103.9533971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362447630291502,
+        "lng": 103.9547291302915
+      },
+      "southwest": {
+        "lat": 1.359749669708498,
+        "lng": 103.9520311697085
+      }
+    }
+  },
+  "name": "Lady Boss Mixed Vegetable Rice",
+  "place_id": "ChIJ48fVIQA92jERDFq8S6GKJe0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tsin W61",
+      "author_url": "https://www.google.com/maps/contrib/112246979209348273781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5fBvH1U0jQqk8eYJGcmDFRZR1lB_UlepRQGporkxzpFNDw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Located in HDB void deck coffee shop, convenience for residence staying in HDB flat nearby. There are many local dishes for selection and the food taste is nice. Reasonable price if you ordered two veg and one meat. there is a multistorey carpark  within walking distance. However, there are many coffee shop nearby that provided the same food and competition.",
+      "time": 1737523126,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17088216786492217868",
+  "user_ratings_total": 1,
+  "vicinity": "476 Tampines Street 44, Singapore"
+}

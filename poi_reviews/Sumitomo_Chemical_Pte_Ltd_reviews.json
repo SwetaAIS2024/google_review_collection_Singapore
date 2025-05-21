@@ -1,0 +1,41 @@
+{
+  "formatted_address": "17 Sakra Ave, Singapore 627886",
+  "geometry": {
+    "location": {
+      "lat": 1.2583679,
+      "lng": 103.7059422
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.259716880291502,
+        "lng": 103.7072911802915
+      },
+      "southwest": {
+        "lat": 1.257018919708498,
+        "lng": 103.7045932197085
+      }
+    }
+  },
+  "name": "Sumitomo Chemical Pte Ltd",
+  "place_id": "ChIJIwlAG6IE2jERR_sGuJWAr14",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Azman A",
+      "author_url": "https://www.google.com/maps/contrib/101923597223779868044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHePJl92PaJZMR3NJaV7V_HjuQx-Nfse_XsubrkaElxfmuf4Q0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508385272,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6822813341015538503",
+  "user_ratings_total": 1,
+  "vicinity": "17 Sakra Avenue, Singapore"
+}

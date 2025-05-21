@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.25589,
+      "lng": 103.81284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257231230291502,
+        "lng": 103.8141855302915
+      },
+      "southwest": {
+        "lat": 1.254533269708498,
+        "lng": 103.8114875697085
+      }
+    }
+  },
+  "name": "Opp Sapphire Pavilion",
+  "place_id": "ChIJWwE4nfkb2jERlH83D71VNDY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "arun vicky",
+      "author_url": "https://www.google.com/maps/contrib/103380005130666902759/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCpVD0ed65ZcCzJRh0lZODyXTG83T1Ma463rngmFR0VHr0USDj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735642511,
+      "translated": false
+    },
+    {
+      "author_name": "z无名",
+      "author_url": "https://www.google.com/maps/contrib/117523049723359687543/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNJrzYT45rGBdpc3QRXBNl7VPlrPy7nFqLKd3Ho36mfOZHkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712661222,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3905841047329537940",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "70 Airport Blvd., Singapore 819661",
+  "geometry": {
+    "location": {
+      "lat": 1.3569792,
+      "lng": 103.987924
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358342430291502,
+        "lng": 103.9892405802915
+      },
+      "southwest": {
+        "lat": 1.355644469708498,
+        "lng": 103.9865426197085
+      }
+    }
+  },
+  "name": "DBS ATM - Changi Airport Mrt Station",
+  "place_id": "ChIJxyk4GiM92jERAB4e8LqX8Zs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "shamil kuruppu",
+      "author_url": "https://www.google.com/maps/contrib/112592915882311962727/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiK01MQRebigDMYnhh-L7NuQUJmv-0c9RAXE5IZltT01m21Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It was hard to find this. Located in the departure hall in level 2",
+      "time": 1684998493,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11236929374414315008",
+  "user_ratings_total": 1,
+  "vicinity": "70 Airport Boulevard, Singapore"
+}

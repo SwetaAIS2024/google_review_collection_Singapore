@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Tampines Industrial Ave 1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3527524,
+      "lng": 103.9250068
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354715880291502,
+        "lng": 103.9267183802915
+      },
+      "southwest": {
+        "lat": 1.352017919708498,
+        "lng": 103.9240204197085
+      }
+    }
+  },
+  "name": "Tampines Quarry",
+  "place_id": "ChIJCcEgOQA92jERWKw-8Cp_J-A",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Patrick Chow",
+      "author_url": "https://www.google.com/maps/contrib/107156178807189532916/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKevW4cDroDQfGqywxp76r82h1PXYh-d0DFZo6GfYP0yDOJ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Nice place for my morning walk. Beautiful scenery.....",
+      "time": 1739535921,
+      "translated": false
+    },
+    {
+      "author_name": "Dex Tan",
+      "author_url": "https://www.google.com/maps/contrib/110737581442761685555/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINMcFvDLXABAxaM2AKneHDchOXly1eZsv7SNk5ZRM1zKfoog=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Nice little place, just lookout for the motorcyclist tracking there.",
+      "time": 1743305548,
+      "translated": false
+    },
+    {
+      "author_name": "HIN HOE CHEW",
+      "author_url": "https://www.google.com/maps/contrib/105790229950623596735/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjqodGKA-ADLO2NQYZUldrfXUs0dDl43-ug38ok3Xr3Fn5F5HY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Nice wilderness place to explore.\nU could see mountain bike move on rusty slope",
+      "time": 1747474867,
+      "translated": false
+    },
+    {
+      "author_name": "Shirley Ng",
+      "author_url": "https://www.google.com/maps/contrib/101662565096410575594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEAL-o6LQ2_cM_mZ0aRvqYTH_OLIs6KziuUikHV81kPyhnuus=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747494087,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16152018410983566424",
+  "user_ratings_total": 4,
+  "vicinity": "Tampines Industrial Avenue 1"
+}

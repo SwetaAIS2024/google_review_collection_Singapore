@@ -1,0 +1,27 @@
+{
+  "formatted_address": "65 Sungei Tengah Rd, Singapore 699000",
+  "geometry": {
+    "location": {
+      "lat": 1.384622,
+      "lng": 103.726462
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385967930291502,
+        "lng": 103.7278090802915
+      },
+      "southwest": {
+        "lat": 1.383269969708498,
+        "lng": 103.7251111197085
+      }
+    }
+  },
+  "name": "Fish City Pte Ltd",
+  "place_id": "ChIJBwAAkB8O2jERXvSsjwKwEkU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4977234063244719198",
+  "vicinity": "65 Sungei Tengah Road"
+}

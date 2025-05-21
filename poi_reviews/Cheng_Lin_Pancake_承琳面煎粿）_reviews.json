@@ -1,0 +1,55 @@
+{
+  "formatted_address": "407 Ang Mo Kio Ave 10, Singapore 560407",
+  "geometry": {
+    "location": {
+      "lat": 1.3619678,
+      "lng": 103.8554095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363390180291502,
+        "lng": 103.8565252302915
+      },
+      "southwest": {
+        "lat": 1.360692219708498,
+        "lng": 103.8538272697085
+      }
+    }
+  },
+  "name": "Cheng Lin Pancake (承琳面煎粿）",
+  "place_id": "ChIJs-g3-rQX2jERAcRtWY_ucnA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Handy Ong",
+      "author_url": "https://www.google.com/maps/contrib/106087368353816989275/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLg-esrRMYQKEUW0xr_aOHxN_PtZb9w2BcrYvKYceQyUoOEvQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Really tasty Mi Jian Kueh, generous fillings. Value for money too. Highly recommended.",
+      "time": 1614037625,
+      "translated": false
+    },
+    {
+      "author_name": "Shane Astar",
+      "author_url": "https://www.google.com/maps/contrib/107880449591480719836/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9z2YRMVCdXRvphLWF1NP2m8U7nnF7ii7sX-cQUfx18GmLng=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705724647,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8102800979041043457",
+  "user_ratings_total": 2,
+  "vicinity": "407 Ang Mo Kio Avenue 10, Singapore"
+}

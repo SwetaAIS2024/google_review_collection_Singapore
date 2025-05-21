@@ -1,0 +1,43 @@
+{
+  "formatted_address": "633 Tampines North Dr 2, #02-01, Singapore 520633",
+  "geometry": {
+    "location": {
+      "lat": 1.3644782,
+      "lng": 103.9415643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365891280291502,
+        "lng": 103.9433181302915
+      },
+      "southwest": {
+        "lat": 1.363193319708498,
+        "lng": 103.9406201697085
+      }
+    }
+  },
+  "name": "Sarawak Delicacy Laksa & Kolo Mee",
+  "place_id": "ChIJPeTSgrQ92jER4CjkAGXBdf8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Raja Puja",
+      "author_url": "https://www.google.com/maps/contrib/113384479202228783754/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5ZgDKqAK_EbhdKe3sN7cO1pGxBQIttBDZhVEDxfXGNgjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743756110,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18407831691497580768",
+  "user_ratings_total": 1,
+  "vicinity": "633 Tampines North Drive 2, #02-01"
+}

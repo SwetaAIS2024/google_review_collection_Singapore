@@ -1,0 +1,57 @@
+{
+  "formatted_address": "12 Science Drive 2, National University of Singapore, Singapore 117549",
+  "geometry": {
+    "location": {
+      "lat": 1.2965671,
+      "lng": 103.7806401
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297886180291502,
+        "lng": 103.7817674802915
+      },
+      "southwest": {
+        "lat": 1.295188219708498,
+        "lng": 103.7790695197085
+      }
+    }
+  },
+  "name": "Chicken rice nus frontier canteen",
+  "place_id": "ChIJ46LelLcb2jERDDoFtbFpp2o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nicolai Sigismund Wedell-Wedellsborg",
+      "author_url": "https://www.google.com/maps/contrib/100842017973217394626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqWXlOxS3cvm8jFpv9GDFOVnHUfVBVxXkZ-ablS6GFYj7yqycHfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Have been eating there every day for 30 days and will keep doing it for the entire semester - absolutely amazing",
+      "time": 1724820636,
+      "translated": false
+    },
+    {
+      "author_name": "YSV Q",
+      "author_url": "https://www.google.com/maps/contrib/113635450901943089399/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBIuNFQ_eSgIKmMAs5H4ALC7isMf0tLgQWjw4Qiw_D-NdIohM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Glad I chose to try this. Cheap and good.",
+      "time": 1711094539,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7685227501098187276",
+  "user_ratings_total": 2,
+  "vicinity": "12 Science Drive 2, National University of Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374883,
+      "lng": 103.878288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376206580291502,
+        "lng": 103.8796369802915
+      },
+      "southwest": {
+        "lat": 1.373508619708498,
+        "lng": 103.8769390197085
+      }
+    }
+  },
+  "name": "Regentville",
+  "place_id": "ChIJrdXnwloW2jERy1jnbB9ODHw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8938605257301645515",
+  "vicinity": "Singapore"
+}

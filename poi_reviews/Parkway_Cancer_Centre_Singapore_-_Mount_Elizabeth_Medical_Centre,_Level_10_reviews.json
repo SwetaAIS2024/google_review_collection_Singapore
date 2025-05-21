@@ -1,0 +1,58 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #10-11/12 Medical Centre, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.305492,
+      "lng": 103.8357696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306240580291502,
+        "lng": 103.8369061802915
+      },
+      "southwest": {
+        "lat": 1.303542619708498,
+        "lng": 103.8342082197085
+      }
+    }
+  },
+  "name": "Parkway Cancer Centre Singapore - Mount Elizabeth Medical Centre, Level 10",
+  "place_id": "ChIJC5F9WpIZ2jERSHLMPsq71gY",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Kellie W",
+      "author_url": "https://www.google.com/maps/contrib/111428942575943376304/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSbWt3xdpZuuYfUWi3bBgyZvGeIrhJr8uFPVo9YM_zUTPpdb3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Waited at the clinic for the Doctor for two whole hours, from 11:30am to 1:30pm. The receptionist said he had an emergency. And the receptionist was silent about this, did not provide updates and expected patients to keep waiting. Ridiculous and rubbish staff attitude.",
+      "time": 1687231590,
+      "translated": false
+    },
+    {
+      "author_name": "sg work",
+      "author_url": "https://www.google.com/maps/contrib/110540035699255945237/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmEsA20-YhhMA0-6mhSha1cgHe1DdCawuY6I864sUBLW_qTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "Dr is great, but the nurse",
+      "time": 1731895811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=492787686555021896",
+  "user_ratings_total": 2,
+  "vicinity": "3 Mount Elizabeth, #10-11/12 Medical Centre"
+}

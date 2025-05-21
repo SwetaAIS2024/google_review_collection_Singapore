@@ -1,0 +1,44 @@
+{
+  "formatted_address": "114 Pepys Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2760675,
+      "lng": 103.7933457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277382780291502,
+        "lng": 103.7945785302915
+      },
+      "southwest": {
+        "lat": 1.274684819708498,
+        "lng": 103.7918805697085
+      }
+    }
+  },
+  "name": "Oil shop",
+  "place_id": "ChIJeTfMRwAb2jER1Hq-k7VMrb0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Phan Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114209410219856400244/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqedkj630bKYmcLmPSmYbTQ8-MudeQ6S_d9lPtf7udvohUP_Eg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "I really like the place to buy oil. Team addicted to oil",
+      "time": 1720146650,
+      "translated": true
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13667664786890848980",
+  "user_ratings_total": 1,
+  "vicinity": "114 Pepys Road"
+}

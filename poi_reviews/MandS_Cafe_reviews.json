@@ -1,0 +1,65 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2639532,
+      "lng": 103.8230042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265330380291502,
+        "lng": 103.8246394302915
+      },
+      "southwest": {
+        "lat": 1.262632419708498,
+        "lng": 103.8219414697085
+      }
+    }
+  },
+  "name": "M&S Cafe",
+  "place_id": "ChIJU0uCKGkZ2jERiwNbsJpYjbg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Mason Tay",
+      "author_url": "https://www.google.com/maps/contrib/108195777674730720034/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3l4pFW9WlEHgxW0gH_IGJEwq0L2xp6TODRlTJg0TN4nYP7g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "M&S Café is my all-time favourite for a quick take away coffee. That’s hardly any space to sit and enjoy a coffee but the free seating high chairs are there in case you need a seat to sip your latte. There are lotsa pastries, muffins and shortbreads to go with your coffee.\n\nMy favourite are the cookies and shortbreads as they make a great combination with coffee.\n\nThis place gets very busy sometimes so don’t expect a friendly barista like Starbucks.",
+      "time": 1712891583,
+      "translated": false
+    },
+    {
+      "author_name": "Vikas",
+      "author_url": "https://www.google.com/maps/contrib/101905033524146898852/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBTA2JznQg12-TJvagH8D6iyMeaMXJQBfLlNyY4adWtbMpAyHCZA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739030035,
+      "translated": false
+    },
+    {
+      "author_name": "Isaac Torres",
+      "author_url": "https://www.google.com/maps/contrib/109700399965955041580/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYE_nE0BXfYd3wsq39NyRi7BwpGp2B2HmiZSz1vdKiTF1pRfoT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685778585,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13298382696101905291",
+  "user_ratings_total": 3,
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

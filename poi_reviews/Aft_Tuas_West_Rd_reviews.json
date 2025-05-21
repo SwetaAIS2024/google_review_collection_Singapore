@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339855,
+      "lng": 103.645355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340734830291502,
+        "lng": 103.6472692302915
+      },
+      "southwest": {
+        "lat": 1.338036869708498,
+        "lng": 103.6445712697085
+      }
+    }
+  },
+  "name": "Aft Tuas West Rd",
+  "place_id": "ChIJla6FBE8P2jER6cfSqdLY6TU",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Mohamad Yusoff",
+      "author_url": "https://www.google.com/maps/contrib/108920363767808882571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVGzJlUhKhlYhSzvwFihxv3fgm_R_L-jjjLMPIwlPeZllExcH_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "easy access to raffles",
+      "time": 1493607615,
+      "translated": false
+    },
+    {
+      "author_name": "Islam Mohammad afazul",
+      "author_url": "https://www.google.com/maps/contrib/115657723393336290847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVti0HJ_dyKEVrpSxbfWSHJnl5EPeHfc_VvWk1TCAQtRRQpSC3z1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488109157,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3884874552887658473",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

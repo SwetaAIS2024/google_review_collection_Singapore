@@ -1,0 +1,54 @@
+{
+  "formatted_address": "31 Tanjong Penjuru, Singapore 609027",
+  "geometry": {
+    "location": {
+      "lat": 1.3049068,
+      "lng": 103.7365871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306339730291502,
+        "lng": 103.7381544802915
+      },
+      "southwest": {
+        "lat": 1.303641769708498,
+        "lng": 103.7354565197085
+      }
+    }
+  },
+  "name": "Piaget Chemicals & Manufacturing Pte Ltd",
+  "place_id": "ChIJlwyUFska2jER6bHEE0WTzZ4",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "VI Anaqin",
+      "author_url": "https://www.google.com/maps/contrib/112311873997920428547/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVboo5J2l0slxmO91PRm6rc-8kXQ6we4ty6emfT0N95_FwWvXv9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721348382,
+      "translated": false
+    },
+    {
+      "author_name": "laison tan",
+      "author_url": "https://www.google.com/maps/contrib/106625412410578295403/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILdKMqVmymqdnh58evz95YZKOT_Z9pjqROsxCxN-JdKGmdqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624400579,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11442964153111982569",
+  "user_ratings_total": 2,
+  "vicinity": "31 Tanjong Penjuru"
+}

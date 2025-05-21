@@ -1,0 +1,63 @@
+{
+  "formatted_address": "10 Seraya Ave, Singapore 627730",
+  "geometry": {
+    "location": {
+      "lat": 1.2761428,
+      "lng": 103.7217211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277464580291502,
+        "lng": 103.7230995302915
+      },
+      "southwest": {
+        "lat": 1.274766619708498,
+        "lng": 103.7204015697085
+      }
+    }
+  },
+  "name": "Huntsman (S) Pte. Ltd.",
+  "place_id": "ChIJw4BQK8kE2jERfuaH0atlP5s",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Samuel Johansson",
+      "author_url": "https://www.google.com/maps/contrib/105089442683080531564/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWi0XFm0_X5rhgDwhXSJGxeaTCy92r3YdmPeMsdkBQJakjl4jfO=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "Bad quality.",
+      "time": 1588522815,
+      "translated": false
+    },
+    {
+      "author_name": "Ben",
+      "author_url": "https://www.google.com/maps/contrib/112553970152620676438/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWRPCU3HDRxxpcmkpGh5OxhWhAG8VxK_3j-JGNvGbg0YQOioia=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700526468,
+      "translated": false
+    },
+    {
+      "author_name": "Azman A",
+      "author_url": "https://www.google.com/maps/contrib/101923597223779868044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHePJl92PaJZMR3NJaV7V_HjuQx-Nfse_XsubrkaElxfmuf4Q0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508384524,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11186771788040758910",
+  "user_ratings_total": 3,
+  "vicinity": "10 Seraya Avenue"
+}

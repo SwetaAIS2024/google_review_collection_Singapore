@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340033,
+      "lng": 103.937912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341311630291502,
+        "lng": 103.9391898802915
+      },
+      "southwest": {
+        "lat": 1.338613669708498,
+        "lng": 103.9364919197085
+      }
+    }
+  },
+  "name": "Blk 969c",
+  "place_id": "ChIJZ25Oqzg92jER792j5TuySxc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1678631256451177967",
+  "vicinity": "Singapore"
+}

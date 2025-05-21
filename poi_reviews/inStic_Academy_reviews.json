@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Maritime Square, #04-01, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.264197,
+      "lng": 103.820116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265549030291502,
+        "lng": 103.8212700302915
+      },
+      "southwest": {
+        "lat": 1.262851069708498,
+        "lng": 103.8185720697085
+      }
+    }
+  },
+  "name": "inStic Academy",
+  "place_id": "ChIJDc2Rtnsb2jERxP4KJUK9Smo",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7659142208083918532",
+  "vicinity": "1 Maritime Square, #04-01"
+}

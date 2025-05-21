@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Pulau Ubin, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4000076,
+      "lng": 103.9582918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401356580291502,
+        "lng": 103.9596407802915
+      },
+      "southwest": {
+        "lat": 1.398658619708497,
+        "lng": 103.9569428197085
+      }
+    }
+  },
+  "name": "Tanjong Jelutong",
+  "place_id": "ChIJtbreFr492jERCrmtiJrup8Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Oksana Goncharova",
+      "author_url": "https://www.google.com/maps/contrib/111905733312385639831/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9e_KxpV5JJDhEVt3JYZeoZEL4JDD66-DfmkmBk2bgcwR-UFBx=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Best crabs’ meat I ever tried and nice bicicle experience",
+      "time": 1741625957,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14314672288105871626",
+  "user_ratings_total": 1,
+  "vicinity": "Pulau Ubin"
+}

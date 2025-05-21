@@ -1,0 +1,45 @@
+{
+  "formatted_address": "208c Clementi Ave 6, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3219144,
+      "lng": 103.7622317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323203330291502,
+        "lng": 103.7635823802915
+      },
+      "southwest": {
+        "lat": 1.320505369708498,
+        "lng": 103.7608844197085
+      }
+    }
+  },
+  "name": "Evergreen Mala Xiang Guo",
+  "place_id": "ChIJT2BpWQAb2jERSWa8oiUmKVg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Beng Yang Tan",
+      "author_url": "https://www.google.com/maps/contrib/114925555161655525610/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYvvPyZUom8r3zxh3khoJkZVWL1fyPmsZ2ncaSq-QnBPDqMQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The mala is extremely cheap at $1.80 for 100g, with only a separate price for seafood. The mala was decent, the chicken tasted bad and the vegetables were definitely not fresh and there was very little numb taste, but the price is definitely worth it! It was only $17.90 for two people with a large pile of food",
+      "time": 1741693007,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6352650692468696649",
+  "user_ratings_total": 1,
+  "vicinity": "208c Clementi Avenue 6"
+}

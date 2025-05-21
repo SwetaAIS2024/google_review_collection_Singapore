@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Gul Ln, Singapore 629418",
+  "geometry": {
+    "location": {
+      "lat": 1.3122162,
+      "lng": 103.6640121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313498580291502,
+        "lng": 103.6652991302915
+      },
+      "southwest": {
+        "lat": 1.310800619708498,
+        "lng": 103.6626011697085
+      }
+    }
+  },
+  "name": "Chin Yuan Metal",
+  "place_id": "ChIJJ2tbPpQF2jER9bwqJJl6jpA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10416397786309901557",
+  "vicinity": "Gul Lane"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333929,
+      "lng": 103.644951
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335314030291502,
+        "lng": 103.6462615302915
+      },
+      "southwest": {
+        "lat": 1.332616069708498,
+        "lng": 103.6435635697085
+      }
+    }
+  },
+  "name": "Opto-Pharm",
+  "place_id": "ChIJnxWIHVEP2jERHtxoZCOWxKg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12161009972559797278",
+  "vicinity": "Singapore"
+}

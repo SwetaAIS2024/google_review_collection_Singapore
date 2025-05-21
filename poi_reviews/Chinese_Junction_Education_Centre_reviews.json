@@ -1,0 +1,30 @@
+{
+  "formatted_address": "46 E Coast Rd, Singapore 428766",
+  "geometry": {
+    "location": {
+      "lat": 1.3045524,
+      "lng": 103.9033658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305920280291502,
+        "lng": 103.9047501302915
+      },
+      "southwest": {
+        "lat": 1.303222319708498,
+        "lng": 103.9020521697085
+      }
+    }
+  },
+  "name": "Chinese Junction Education Centre",
+  "place_id": "ChIJVeGHenIY2jERfz5lBAsa_fQ",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17653294748982918783",
+  "vicinity": "46 East Coast Road"
+}

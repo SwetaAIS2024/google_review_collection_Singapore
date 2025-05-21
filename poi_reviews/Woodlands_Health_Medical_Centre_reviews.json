@@ -1,0 +1,63 @@
+{
+  "formatted_address": "17 Woodlands Dr 17, Medical Centre, Singapore 737628",
+  "geometry": {
+    "location": {
+      "lat": 1.4253819,
+      "lng": 103.7936558
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426681980291502,
+        "lng": 103.7953856802915
+      },
+      "southwest": {
+        "lat": 1.423984019708498,
+        "lng": 103.7926877197085
+      }
+    }
+  },
+  "name": "Woodlands Health Medical Centre",
+  "place_id": "ChIJ6ciXIwAT2jERqDLTe_WGxdU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "REMON MONSHE",
+      "author_url": "https://www.google.com/maps/contrib/102922440376560222391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULsIKsPosrO8AxFVMMp8HF4O-NBV_tgHmgkEZ_OdpNAaaN14I=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734003108,
+      "translated": false
+    },
+    {
+      "author_name": "mpilahk m",
+      "author_url": "https://www.google.com/maps/contrib/101767087363067634638/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXMfsbal0IuSPE4iQDujFCxkz2paiQtm1Ju1lOsNU8g_57kRM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733710973,
+      "translated": false
+    },
+    {
+      "author_name": "A De",
+      "author_url": "https://www.google.com/maps/contrib/113346028732114035712/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIA_kUmTfUc4flUHR05POCsxYoIGpnY0LDXN7QH2aRoJpXAUlxPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721278295,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15403866489393197736",
+  "user_ratings_total": 3,
+  "vicinity": "17 Woodlands Drive 17, Medical Centre"
+}

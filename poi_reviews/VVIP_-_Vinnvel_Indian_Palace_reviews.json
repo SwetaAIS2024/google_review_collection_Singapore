@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Sunview Rd, Singapore 627615",
+  "geometry": {
+    "location": {
+      "lat": 1.3156475,
+      "lng": 103.6973133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316961930291502,
+        "lng": 103.6988904802915
+      },
+      "southwest": {
+        "lat": 1.314263969708498,
+        "lng": 103.6961925197085
+      }
+    }
+  },
+  "name": "VVIP - Vinnvel Indian Palace",
+  "place_id": "ChIJiefuGwAF2jERxO6xHiChytg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Amjad Shaikh",
+      "author_url": "https://www.google.com/maps/contrib/105644746907395444514/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6eAF5bOpgYWzauSmDInbtPDVtIAEOmxeWGzR1sInkDRAmC3oHyg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Marina Bay in Singapore is a stunning waterfront area that offers a mix of modern architecture, lush greenery, and vibrant nightlife. It’s a must-visit destination for both tourists and locals. Here are some highlights:\nThis iconic hotel features the world’s largest rooftop infinity pool, offering breathtaking views of the city The hotel is known for its luxurious rooms, exceptional service, and a variety of dining and entertainment options",
+      "time": 1738218264,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15621475416813989572",
+  "user_ratings_total": 1,
+  "vicinity": "1 Sunview Road"
+}

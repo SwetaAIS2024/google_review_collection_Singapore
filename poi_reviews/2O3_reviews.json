@@ -1,0 +1,29 @@
+{
+  "formatted_address": "The Chinese High School Clock Tower Building, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3262342,
+      "lng": 103.8034553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327716230291502,
+        "lng": 103.8049077302915
+      },
+      "southwest": {
+        "lat": 1.325018269708498,
+        "lng": 103.8022097697085
+      }
+    }
+  },
+  "name": "2O3",
+  "place_id": "ChIJ_4-udAAb2jER3xXB3jqjCIo",
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9946379250288367071",
+  "vicinity": "The Chinese High School Clock Tower Building"
+}

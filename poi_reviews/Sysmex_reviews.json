@@ -1,0 +1,28 @@
+{
+  "formatted_address": "9 Tampines Grande, #06-18, Singapore 528735",
+  "geometry": {
+    "location": {
+      "lat": 1.3557828,
+      "lng": 103.9415931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357161330291502,
+        "lng": 103.9430170302915
+      },
+      "southwest": {
+        "lat": 1.354463369708498,
+        "lng": 103.9403190697085
+      }
+    }
+  },
+  "name": "Sysmex",
+  "place_id": "ChIJu_JKug092jERN17J7WEktQY",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=483332538032021047",
+  "vicinity": "9 Tampines Grande, #06-18"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "375 Upper Aljunied Rd, Singapore 367860",
+  "geometry": {
+    "location": {
+      "lat": 1.3327193,
+      "lng": 103.8788712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334009630291502,
+        "lng": 103.8801511802915
+      },
+      "southwest": {
+        "lat": 1.331311669708498,
+        "lng": 103.8774532197085
+      }
+    }
+  },
+  "name": "Tan Kim Choon",
+  "place_id": "ChIJQ_r0kIUX2jERVz1dPKvRNm0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Francis Chan",
+      "author_url": "https://www.google.com/maps/contrib/106349630363282951925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN8T2VINlBwkIVDZNdjnIlRLAU3AOLp4EGmhpOsa95BwFk=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517320666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7869707932258876759",
+  "user_ratings_total": 1,
+  "vicinity": "375 Upper Aljunied Road, Singapore"
+}

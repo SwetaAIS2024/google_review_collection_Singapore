@@ -1,0 +1,53 @@
+{
+  "formatted_address": "845 Yishun Street 81, #03-186, Singapore 760845",
+  "geometry": {
+    "location": {
+      "lat": 1.4160375,
+      "lng": 103.8349706
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417350830291502,
+        "lng": 103.8364736802915
+      },
+      "southwest": {
+        "lat": 1.414652869708498,
+        "lng": 103.8337757197085
+      }
+    }
+  },
+  "name": "Heritage Academy",
+  "place_id": "ChIJ3d0RD8sV2jERbIGSsD7QMg8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lego Kid",
+      "author_url": "https://www.google.com/maps/contrib/100392372048835083899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKASc-Va10MLvx2RZqd1N3fxo-4FIzOM_uOGdFgfaFVuGEwDg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741569984,
+      "translated": false
+    },
+    {
+      "author_name": "HIDAYAH ZAINI Family",
+      "author_url": "https://www.google.com/maps/contrib/107349465502004317231/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgBxBgHjOFhCHrBRvDwdR2HeT4Ow1L6i2xqK6lcj-q8LTK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720515720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1095166627073393004",
+  "user_ratings_total": 1,
+  "vicinity": "845 Yishun Street 81, #03-186, Singapore"
+}

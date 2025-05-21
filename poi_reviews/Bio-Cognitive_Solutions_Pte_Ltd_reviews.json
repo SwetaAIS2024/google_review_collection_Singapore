@@ -1,0 +1,53 @@
+{
+  "formatted_address": "4008 Ang Mo Kio Ave 10, Singapore 569625",
+  "geometry": {
+    "location": {
+      "lat": 1.36003,
+      "lng": 103.85611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361452680291502,
+        "lng": 103.8572651302915
+      },
+      "southwest": {
+        "lat": 1.358754719708498,
+        "lng": 103.8545671697085
+      }
+    }
+  },
+  "name": "Bio-Cognitive Solutions Pte Ltd",
+  "place_id": "ChIJm8TOsxwX2jERT2tY15dZv24",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jingjing Zhong",
+      "author_url": "https://www.google.com/maps/contrib/108691882168167892761/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7osr6lwjpnG6RCJlJzQ3M3dojuQnRS0GhFK9RbXZMQeUT8GibxQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Amy is very knowledgeable in security systems.",
+      "time": 1746089145,
+      "translated": false
+    },
+    {
+      "author_name": "Candy KRISH",
+      "author_url": "https://www.google.com/maps/contrib/113874199339094461335/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWfUJ3cL8oq4HvnmPMh9Oq4gGHgyRAIs7UFrHS3li1h02cWtnE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727801076,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7980195573411638095",
+  "user_ratings_total": 2,
+  "vicinity": "4008 Ang Mo Kio Avenue 10"
+}

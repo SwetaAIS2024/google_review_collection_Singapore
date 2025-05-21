@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Clementi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3030255,
+      "lng": 103.7665578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303817230291502,
+        "lng": 103.7681753302915
+      },
+      "southwest": {
+        "lat": 1.301119269708498,
+        "lng": 103.7654773697085
+      }
+    }
+  },
+  "name": "Fitness Corner @ Clementi Woods",
+  "place_id": "ChIJf1NfJgAb2jERgdWNG3DpTTk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "To encourage active healthy lifestyle, many Fitness Corners had sprouted at neighbourhood parks.\nClementi Woods Park has one such Fitness Corner too.",
+      "time": 1712380666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4129213101076501889",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

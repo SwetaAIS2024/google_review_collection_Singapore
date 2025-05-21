@@ -1,0 +1,41 @@
+{
+  "formatted_address": "51 Bukit Batok Cres, Singapore 658077",
+  "geometry": {
+    "location": {
+      "lat": 1.3378558,
+      "lng": 103.7570318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339327480291502,
+        "lng": 103.7584197302915
+      },
+      "southwest": {
+        "lat": 1.336629519708498,
+        "lng": 103.7557217697085
+      }
+    }
+  },
+  "name": "AMKCO Pte Ltd",
+  "place_id": "ChIJU0Np3W0Q2jERaiTyG8rVoEo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "AMkfs1234",
+      "author_url": "https://www.google.com/maps/contrib/103811420689019251078/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcgqH-SBlowr2xlXolAW3Vd2J_UWOmpW3s9ABEHDAFY63iaBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731135065,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5377533019109336170",
+  "user_ratings_total": 1,
+  "vicinity": "51 Bukit Batok Crescent"
+}

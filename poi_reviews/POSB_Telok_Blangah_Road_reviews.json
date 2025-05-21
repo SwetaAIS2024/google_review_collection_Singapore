@@ -1,0 +1,29 @@
+{
+  "formatted_address": "81 Telok Blangah Rd, Singapore 098867",
+  "geometry": {
+    "location": {
+      "lat": 1.2655352,
+      "lng": 103.8212226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266852680291502,
+        "lng": 103.8225722802915
+      },
+      "southwest": {
+        "lat": 1.264154719708498,
+        "lng": 103.8198743197085
+      }
+    }
+  },
+  "name": "POSB Telok Blangah Road",
+  "place_id": "ChIJpzD4A-Ib2jERSnmzqCCl_3g",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8718868963300440394",
+  "vicinity": "81 Telok Blangah Road"
+}

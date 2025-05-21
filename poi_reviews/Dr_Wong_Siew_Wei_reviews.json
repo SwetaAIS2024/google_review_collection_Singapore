@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Napier Rd, Level 3 Gleneagles Hospital, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3073782,
+      "lng": 103.8198608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308722730291502,
+        "lng": 103.8212647302915
+      },
+      "southwest": {
+        "lat": 1.306024769708498,
+        "lng": 103.8185667697085
+      }
+    }
+  },
+  "name": "Dr Wong Siew Wei",
+  "place_id": "ChIJddxc5OQb2jER7V5ltqiDlis",
+  "types": [
+    "hospital",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3140842550775340781",
+  "vicinity": "6A Napier Road, Level 3 Gleneagles Hospital"
+}

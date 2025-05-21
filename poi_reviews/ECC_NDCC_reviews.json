@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Eu Tong Sen St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2838089,
+      "lng": 103.8427736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285131730291502,
+        "lng": 103.8441481302915
+      },
+      "southwest": {
+        "lat": 1.282433769708498,
+        "lng": 103.8414501697085
+      }
+    }
+  },
+  "name": "ECC/NDCC",
+  "place_id": "ChIJPbS7uTQZ2jERuvAJ7kL7w4c",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9782939080458891450",
+  "vicinity": "Eu Tong Sen Street"
+}

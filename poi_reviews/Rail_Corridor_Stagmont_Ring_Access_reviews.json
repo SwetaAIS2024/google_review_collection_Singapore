@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Rail Corridor, Singapore 688241",
+  "geometry": {
+    "location": {
+      "lat": 1.3944295,
+      "lng": 103.7530211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395747030291502,
+        "lng": 103.7544022802915
+      },
+      "southwest": {
+        "lat": 1.393049069708498,
+        "lng": 103.7517043197085
+      }
+    }
+  },
+  "name": "Rail Corridor (Stagmont Ring) Access",
+  "place_id": "ChIJN0ucPAAR2jERND2qUDiLGhw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2025084056444222772",
+  "vicinity": "Rail Corridor"
+}

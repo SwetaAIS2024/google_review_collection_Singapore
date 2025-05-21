@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324258,
+      "lng": 103.759148
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325642730291502,
+        "lng": 103.7605332302915
+      },
+      "southwest": {
+        "lat": 1.322944769708498,
+        "lng": 103.7578352697085
+      }
+    }
+  },
+  "name": "Bef Toh Tuck Ave",
+  "place_id": "ChIJF1z_Npwa2jERQf9VQI71cHA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ivan Lam",
+      "author_url": "https://www.google.com/maps/contrib/112403987693678430009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtkEYVZPu4dhGqMGbabgRFCzZgaASCDsKUoEL_3DEqFmBNzw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "A bus stop out of nowhere.",
+      "time": 1520154161,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8102245720953061185",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

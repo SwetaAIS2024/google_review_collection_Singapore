@@ -1,0 +1,30 @@
+{
+  "formatted_address": "735 Pasir Ris Street 72, #01-342B West Plaza, Singapore 510735",
+  "geometry": {
+    "location": {
+      "lat": 1.3797473,
+      "lng": 103.9363331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380999080291502,
+        "lng": 103.9375914302915
+      },
+      "southwest": {
+        "lat": 1.378301119708498,
+        "lng": 103.9348934697085
+      }
+    }
+  },
+  "name": "Coco Paradise",
+  "place_id": "ChIJA3d1TnA92jERAjuWJoUeKwU",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=372424951415061250",
+  "vicinity": "735 Pasir Ris Street 72, #01-342B West Plaza, Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.399297,
+      "lng": 103.911034
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400621230291502,
+        "lng": 103.9124452802915
+      },
+      "southwest": {
+        "lat": 1.397923269708498,
+        "lng": 103.9097473197085
+      }
+    }
+  },
+  "name": "Bet Blks 187/188",
+  "place_id": "ChIJQdZG-gAW2jERdxl_5IUjzGM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Maszarina Awang",
+      "author_url": "https://www.google.com/maps/contrib/101323375273916494409/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbc2LBoSLyoaQDgZIQB6UNNv0JKb44Ga77HeGPja81h5wp3bbF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Just an ordinary 🚌 stop",
+      "time": 1712989770,
+      "translated": false
+    },
+    {
+      "author_name": "Cedric Nunis",
+      "author_url": "https://www.google.com/maps/contrib/100541595595613983001/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZLB-PDVtbsrKLL5rixDMhYOHY3P6F_U1wcArNioEKJRmN8XhfdA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631931034,
+      "translated": false
+    },
+    {
+      "author_name": "Robi Omar",
+      "author_url": "https://www.google.com/maps/contrib/107567888162527910951/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEQK1BDNBPdfIlj1kPTZzLsY0k6l9PouZ0nVEu7VtrKc0gH360=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476834845,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7191161762974996855",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

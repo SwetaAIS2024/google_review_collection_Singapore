@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3436744,
+      "lng": 103.8825588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345172530291502,
+        "lng": 103.8838957802915
+      },
+      "southwest": {
+        "lat": 1.342474569708498,
+        "lng": 103.8811978197085
+      }
+    }
+  },
+  "name": "Wisma AUPE",
+  "place_id": "ChIJB2czS5YX2jER1zPCuRs3dx0",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Lay Hoon Ng",
+      "author_url": "https://www.google.com/maps/contrib/102113357527401856533/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJXdPvQrahHeiCnbG0kaSrhj3YZasACXbKIkE6B6rH8R5tEMdt=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581006984,
+      "translated": false
+    },
+    {
+      "author_name": "Abu Hassan Awang",
+      "author_url": "https://www.google.com/maps/contrib/100630789779317365555/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDZCPAB_0veXdFfvZqK-kXubID_g-KxtVfgkbV4B5azQQrtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507536625,
+      "translated": false
+    },
+    {
+      "author_name": "Yap BT",
+      "author_url": "https://www.google.com/maps/contrib/106972944177042771737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA-fx-BfzDQVy33HC7sIiLpwUQ877qvoZ9lIWc83A8ziRsFygl=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498012920,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2123226341548635095",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

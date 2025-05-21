@@ -1,0 +1,67 @@
+{
+  "formatted_address": "246 Hougang Street 22, #01-155, Singapore 530246",
+  "geometry": {
+    "location": {
+      "lat": 1.3586024,
+      "lng": 103.8914776
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359942280291502,
+        "lng": 103.8927773802915
+      },
+      "southwest": {
+        "lat": 1.357244319708498,
+        "lng": 103.8900794197085
+      }
+    }
+  },
+  "name": "Lim Teck Bee Enterprises",
+  "place_id": "ChIJGWGL2ckX2jERevUlgEXaICY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "marcus neo",
+      "author_url": "https://www.google.com/maps/contrib/107695514668694208981/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJP3cs-A8ljQmbwNZGARb1FcFl1ILqJIUJj9PAKNsJt0eG9lQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Sells cheap cigarettes, beer and many more",
+      "time": 1702742738,
+      "translated": false
+    },
+    {
+      "author_name": "shuan ng",
+      "author_url": "https://www.google.com/maps/contrib/114164885575580459993/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR1_EAmCflUEYBUEGY0ZlTXI2PJkLXpVWetKRskiX6yEzNLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637661568,
+      "translated": false
+    },
+    {
+      "author_name": "Kian Huang Lim",
+      "author_url": "https://www.google.com/maps/contrib/102588145922998581626/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_-SU0C6sLYB2OfMjmcc7Su_AD5ODFnt7nMaf6cipOoSJ9gI18=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1612503656,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2747435764733572474",
+  "user_ratings_total": 3,
+  "vicinity": "246 Hougang Street 22, #01-155"
+}

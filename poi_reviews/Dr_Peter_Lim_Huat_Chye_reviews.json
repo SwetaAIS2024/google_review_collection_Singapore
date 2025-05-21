@@ -1,0 +1,55 @@
+{
+  "formatted_address": "6A Napier Rd, #05-36D Gleneagles Hospital Annexe Block, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309068730291502,
+        "lng": 103.8211892302915
+      },
+      "southwest": {
+        "lat": 1.306370769708498,
+        "lng": 103.8184912697085
+      }
+    }
+  },
+  "name": "Dr Peter Lim Huat Chye",
+  "place_id": "ChIJ6cuDPiAa2jERL5En1JB8Asw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "siew neo",
+      "author_url": "https://www.google.com/maps/contrib/102868640871368141156/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHlL_blfuCikIIF3qA9CPmNNe37fUonassDDLPoNc1BptA-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Dr Lim is a very caring and dedicated doctor. My dad had severe enlarged prostrate and couldn't urinate for over a day. I walked into his practice by accident without any referral and when he saw the situation my dad was in. He quickly treated him. Dr Lim performed the TURP surgery on my dad on Christmas Eve and continue to visit my dad several times on Christmas to make sure he is doing well. His dedication as a doctor is amazing. I can't thank him enough for saving my dad.",
+      "time": 1482662098,
+      "translated": false
+    },
+    {
+      "author_name": "sonja gursuren",
+      "author_url": "https://www.google.com/maps/contrib/117684810061533167861/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAQVOlIMZU6R1n7_E9ytI7ngTtic7o81Rkv7qGBEtGsbKEiQ4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1468812935,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14700449095167217967",
+  "user_ratings_total": 2,
+  "vicinity": "6A Napier Road, #05-36D Gleneagles Hospital Annexe Block"
+}

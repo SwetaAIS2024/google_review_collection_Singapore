@@ -1,0 +1,44 @@
+{
+  "formatted_address": "461 Ang Mo Kio Ave 10, #01-1166, Singapore 560461",
+  "geometry": {
+    "location": {
+      "lat": 1.3675797,
+      "lng": 103.8572692
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368825880291502,
+        "lng": 103.8586058802915
+      },
+      "southwest": {
+        "lat": 1.366127919708498,
+        "lng": 103.8559079197085
+      }
+    }
+  },
+  "name": "Clover Artz",
+  "place_id": "ChIJzXWVuPwW2jERQSGS2vnCaYE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jung Woo",
+      "author_url": "https://www.google.com/maps/contrib/116116168703476772029/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmGm2NjhxzYZsemdcnAw3fCRxuuAoR-jMLn4pICk8yKLdXDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The art lessons conducted in this place is good and the teacher is very patient even tho i am a slow learner! Prices are also very affordable!",
+      "time": 1671272553,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9325198881816977729",
+  "user_ratings_total": 1,
+  "vicinity": "461 Ang Mo Kio Avenue 10, #01-1166"
+}

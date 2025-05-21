@@ -1,0 +1,30 @@
+{
+  "formatted_address": "110 Middle Rd, Singapore 188968",
+  "geometry": {
+    "location": {
+      "lat": 1.2988879,
+      "lng": 103.85377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300406280291502,
+        "lng": 103.8548760302915
+      },
+      "southwest": {
+        "lat": 1.297708319708498,
+        "lng": 103.8521780697085
+      }
+    }
+  },
+  "name": "Hanscape Education Centre",
+  "place_id": "ChIJ-4D91roZ2jERtU9-IsR4CMY",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14269788203111042997",
+  "vicinity": "110 Middle Road"
+}

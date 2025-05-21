@@ -1,0 +1,28 @@
+{
+  "formatted_address": "9012 Tampines Street 93, #03-225, Singapore 528845",
+  "geometry": {
+    "location": {
+      "lat": 1.3404064,
+      "lng": 103.9433288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341835930291502,
+        "lng": 103.9444866802915
+      },
+      "southwest": {
+        "lat": 1.339137969708498,
+        "lng": 103.9417887197085
+      }
+    }
+  },
+  "name": "bluewavetech",
+  "place_id": "ChIJ3WgIHa092jER8aONwaaalkM",
+  "types": [
+    "aquarium",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4870250088050303985",
+  "vicinity": "9012 Tampines Street 93, #03-225"
+}

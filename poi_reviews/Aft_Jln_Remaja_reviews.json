@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357962,
+      "lng": 103.761383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359302280291502,
+        "lng": 103.7627489302915
+      },
+      "southwest": {
+        "lat": 1.356604319708498,
+        "lng": 103.7600509697085
+      }
+    }
+  },
+  "name": "Aft Jln Remaja",
+  "place_id": "ChIJt51IUE4Q2jERN-ERw1XAOek",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joel Seet",
+      "author_url": "https://www.google.com/maps/contrib/113057474574871125746/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIu8gpA_vkfo5fPOf0NF2AbcV7Uf35cSDS5tcC94BAa1v8f6ca=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "5 Stars, would definitely use again!",
+      "time": 1607731564,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16805674959087198519",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

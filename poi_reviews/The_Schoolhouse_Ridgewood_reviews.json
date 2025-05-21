@@ -1,0 +1,54 @@
+{
+  "formatted_address": "61A Mount Sinai Dr, Ridgewood Condominium, Singapore 277114",
+  "geometry": {
+    "location": {
+      "lat": 1.3181664,
+      "lng": 103.7788396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319691930291502,
+        "lng": 103.7801844302915
+      },
+      "southwest": {
+        "lat": 1.316993969708498,
+        "lng": 103.7774864697085
+      }
+    }
+  },
+  "name": "The Schoolhouse Ridgewood",
+  "place_id": "ChIJAQAA0Hwa2jERF-oRbo76aJI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rachel Cheng",
+      "author_url": "https://www.google.com/maps/contrib/113256353312161726456/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9FlJb8CMOXO6no4X1H0ksmaS3N-178DQK1NGTMdoQ1IWvubVZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "We love Pats! The teachers we have simply love kids and are so patient especially with the little ones! My 2 years old’s learning was obvious - good manners and habits, most importantly at this age he enjoys go to school!",
+      "time": 1677130189,
+      "translated": false
+    },
+    {
+      "author_name": "Vina Wijaya",
+      "author_url": "https://www.google.com/maps/contrib/116989149234609951134/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpD7g3UkyyHyE-2282jduHyBO8yNd1fuBWOMbbSsm3lrFPiiZGOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702892039,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10549957616754354711",
+  "user_ratings_total": 2,
+  "vicinity": "61A Mount Sinai Drive, Ridgewood Condominium, Singapore"
+}

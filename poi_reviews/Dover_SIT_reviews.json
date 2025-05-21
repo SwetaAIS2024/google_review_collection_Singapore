@@ -1,0 +1,42 @@
+{
+  "formatted_address": "10 Dover Dr, Singapore 138683",
+  "geometry": {
+    "location": {
+      "lat": 1.3002499,
+      "lng": 103.7806123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301182380291502,
+        "lng": 103.7819648802915
+      },
+      "southwest": {
+        "lat": 1.298484419708498,
+        "lng": 103.7792669197085
+      }
+    }
+  },
+  "name": "Dover SIT",
+  "place_id": "ChIJJ71GEW0b2jER7OTEEFzvtlY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nirmal",
+      "author_url": "https://www.google.com/maps/contrib/107951316264751283355/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdd0cVjEneMk7Fm6tuV1k_-_17bYkDWCO0PgAbf_DWoP797A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698081924,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6248444711720510700",
+  "user_ratings_total": 1,
+  "vicinity": "10 Dover Drive"
+}

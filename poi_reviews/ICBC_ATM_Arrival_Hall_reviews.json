@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Airport Blvd., Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555528,
+      "lng": 103.9866086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356710480291502,
+        "lng": 103.9883986802915
+      },
+      "southwest": {
+        "lat": 1.354012519708498,
+        "lng": 103.9857007197085
+      }
+    }
+  },
+  "name": "ICBC ATM (Arrival Hall)",
+  "place_id": "ChIJCcC271c92jERTfNcCfeSOE4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5636416523365839693",
+  "vicinity": "21 Airport Boulevard, Singapore"
+}

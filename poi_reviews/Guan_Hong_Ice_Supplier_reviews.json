@@ -1,0 +1,30 @@
+{
+  "formatted_address": "28 Tuas Ave 12, Singapore 639043",
+  "geometry": {
+    "location": {
+      "lat": 1.3345831,
+      "lng": 103.6450128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335829780291502,
+        "lng": 103.6464694302915
+      },
+      "southwest": {
+        "lat": 1.333131819708498,
+        "lng": 103.6437714697085
+      }
+    }
+  },
+  "name": "Guan Hong Ice Supplier",
+  "place_id": "ChIJtSAj_FAP2jERO_8W-rAmAKc",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12033660745885876027",
+  "vicinity": "28 Tuas Avenue 12"
+}

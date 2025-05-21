@@ -1,0 +1,44 @@
+{
+  "formatted_address": "727 Clementi West Street 2, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3041605,
+      "lng": 103.7637291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305781630291502,
+        "lng": 103.7654308802915
+      },
+      "southwest": {
+        "lat": 1.303083669708498,
+        "lng": 103.7627329197085
+      }
+    }
+  },
+  "name": "Sichuan Style Dish 川香园",
+  "place_id": "ChIJrduqGwAb2jERjEbPhtB7dog",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "scp h",
+      "author_url": "https://www.google.com/maps/contrib/118002900570633091307/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVmRsDjapFiQDsjbH8Yn52i-1MJAL1oVw6954i0mdT3QVTGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724406189,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9833182971955201676",
+  "user_ratings_total": 1,
+  "vicinity": "727 Clementi West Street 2, Singapore"
+}

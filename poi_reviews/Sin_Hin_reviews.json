@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 5, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3785067,
+      "lng": 103.8758032
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379933030291502,
+        "lng": 103.8771865802915
+      },
+      "southwest": {
+        "lat": 1.377235069708498,
+        "lng": 103.8744886197085
+      }
+    }
+  },
+  "name": "Sin Hin",
+  "place_id": "ChIJy6tMZVwW2jERrSmymhOgDxg",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1733780387621120429",
+  "vicinity": "Ang Mo Kio Avenue 5"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "#01-500 Marine Parade Central, Blk, 87, Singapore 440087",
+  "geometry": {
+    "location": {
+      "lat": 1.3024183,
+      "lng": 103.9056083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303705880291502,
+        "lng": 103.9068390802915
+      },
+      "southwest": {
+        "lat": 1.301007919708498,
+        "lng": 103.9041411197085
+      }
+    }
+  },
+  "name": "Standard Chartered Bank ATM @ Marine Parade",
+  "place_id": "ChIJXUul4K8Z2jERGvCU3wnMzlU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Anand Krishnan",
+      "author_url": "https://www.google.com/maps/contrib/116660409428865290108/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlK_TIFeDZONMAZ3W2camTLXBL2t7QbetAyyMW_pLvb1zUXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726744353,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6183103681204121626",
+  "user_ratings_total": 1,
+  "vicinity": "#01-500 Marine Parade Central, Blk, 87"
+}

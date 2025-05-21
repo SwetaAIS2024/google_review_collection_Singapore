@@ -1,0 +1,29 @@
+{
+  "formatted_address": "100 Jln Sultan, Singapore 199001",
+  "geometry": {
+    "location": {
+      "lat": 1.302832,
+      "lng": 103.861969
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304129780291502,
+        "lng": 103.8633493802915
+      },
+      "southwest": {
+        "lat": 1.301431819708498,
+        "lng": 103.8606514197085
+      }
+    }
+  },
+  "name": "Am Credit",
+  "place_id": "ChIJ38pFVLEZ2jER-earGc0zmg4",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1052210418936440569",
+  "vicinity": "100 Jalan Sultan"
+}

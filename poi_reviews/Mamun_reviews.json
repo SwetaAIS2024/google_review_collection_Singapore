@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Tuas, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3155076,
+      "lng": 103.6259574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316298080291502,
+        "lng": 103.6274753802915
+      },
+      "southwest": {
+        "lat": 1.313600119708498,
+        "lng": 103.6247774197085
+      }
+    }
+  },
+  "name": "Mamun",
+  "place_id": "ChIJrcGrNwAH2jERcfzOrcgQa60",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mamun Ahammed",
+      "author_url": "https://www.google.com/maps/contrib/112862166253937831838/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVdJQfF44t5sosNvuclQDGsur9oreWjL6Fl1k0RvWtfoNETG7r=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733653990,
+      "translated": false
+    },
+    {
+      "author_name": "oli ahmed",
+      "author_url": "https://www.google.com/maps/contrib/114855845616777480960/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEDOdHdS2SAxugBMpXndYPyzwWFWg3BJPyzVbAiDccWZSpMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733653790,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12496100045165100145",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

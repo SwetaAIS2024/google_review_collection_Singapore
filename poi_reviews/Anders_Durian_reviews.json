@@ -1,0 +1,31 @@
+{
+  "formatted_address": "60 Paya Lebar Rd, #07-54 Paya Lebar Square, Singapore 409051",
+  "geometry": {
+    "location": {
+      "lat": 1.3184358,
+      "lng": 103.8927403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319948780291502,
+        "lng": 103.8937457802915
+      },
+      "southwest": {
+        "lat": 1.317250819708498,
+        "lng": 103.8910478197085
+      }
+    }
+  },
+  "name": "Anders Durian",
+  "place_id": "ChIJIwjdorkZ2jERMKIz9SYPyBM",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1425405942059737648",
+  "vicinity": "60 Paya Lebar Road, #07-54 Paya Lebar Square"
+}

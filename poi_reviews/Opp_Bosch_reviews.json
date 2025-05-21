@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3468236,
+      "lng": 103.8418491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348193380291502,
+        "lng": 103.8432017802915
+      },
+      "southwest": {
+        "lat": 1.345495419708498,
+        "lng": 103.8405038197085
+      }
+    }
+  },
+  "name": "Opp Bosch",
+  "place_id": "ChIJS9o-CT8X2jERRs7AYKXGEH4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9083978862001442374",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378592,
+      "lng": 103.865494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379892730291502,
+        "lng": 103.8668642302915
+      },
+      "southwest": {
+        "lat": 1.377194769708498,
+        "lng": 103.8641662697085
+      }
+    }
+  },
+  "name": "Opp Techplace 2",
+  "place_id": "ChIJqyzA0fUW2jERVr1HpxeOu-I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mason Tan",
+      "author_url": "https://www.google.com/maps/contrib/103261524171788855516/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKos2vLEUmnLTrMw70ftZGC2yZg5O13QsvWv8QZp_3NwdmlYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488375667,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16337808305458494806",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "No. 91 Joo Koon Cir, Joo Koon MRT Station, Singapore 629116",
+  "geometry": {
+    "location": {
+      "lat": 1.3271936,
+      "lng": 103.6783344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328760080291502,
+        "lng": 103.6796745802915
+      },
+      "southwest": {
+        "lat": 1.326062119708498,
+        "lng": 103.6769766197085
+      }
+    }
+  },
+  "name": "UOB ATM - Joo Koon MRT Station",
+  "place_id": "ChIJ-Rpih9MF2jER0FmfbfqG6YQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "啊辉",
+      "author_url": "https://www.google.com/maps/contrib/114841250826296474536/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU71azlJsMb8xiYxqcxKQhB5RQZS1oKZ1ZouVKL7XmGygHraeMz=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705545407,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9577334492719176144",
+  "user_ratings_total": 1,
+  "vicinity": "No. 91 Joo Koon Circle, Joo Koon MRT Station"
+}

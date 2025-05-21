@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.280375,
+      "lng": 103.823875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281698830291502,
+        "lng": 103.8252163302915
+      },
+      "southwest": {
+        "lat": 1.279000869708498,
+        "lng": 103.8225183697085
+      }
+    }
+  },
+  "name": "Opp Cendex Ctr",
+  "place_id": "ChIJs7vCL30Z2jER46uWYI4f_d0",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "James",
+      "author_url": "https://www.google.com/maps/contrib/107897813694823215404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYlG-f4knYUIXi9nxV0bpA4hNqi8rnfkQS_k1MFtq4vvA4_dGj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "Missing Bus Service 65",
+      "time": 1516361476,
+      "translated": false
+    },
+    {
+      "author_name": "Zidane Tan",
+      "author_url": "https://www.google.com/maps/contrib/102018117944174072175/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRB48StPJ4B_P8n26DLoGcGdoY4k4X1SRhnbn_0cI1sX1Ekw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505520802,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15995976147856174051",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

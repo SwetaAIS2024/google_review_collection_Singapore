@@ -1,0 +1,28 @@
+{
+  "formatted_address": "73 Maude Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3120767,
+      "lng": 103.8762958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313377680291502,
+        "lng": 103.8776643302915
+      },
+      "southwest": {
+        "lat": 1.310679719708498,
+        "lng": 103.8749663697085
+      }
+    }
+  },
+  "name": "Redleaf Karaoke",
+  "place_id": "ChIJF6v90zYY2jER2tFeh_eM_Q4",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1080174480394736090",
+  "vicinity": "73 Maude Road"
+}

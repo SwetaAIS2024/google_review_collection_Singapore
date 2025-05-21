@@ -1,0 +1,45 @@
+{
+  "formatted_address": "215 Jurong East Street 21, Block 215 Block 215, Singapore 600215",
+  "geometry": {
+    "location": {
+      "lat": 1.3400382,
+      "lng": 103.738457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341443930291502,
+        "lng": 103.7397834802915
+      },
+      "southwest": {
+        "lat": 1.338745969708498,
+        "lng": 103.7370855197085
+      }
+    }
+  },
+  "name": "Indian Empire",
+  "place_id": "ChIJIRiLTgAR2jER8QhizzMRMWU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Dhanan Jayan",
+      "author_url": "https://www.google.com/maps/contrib/118415604080753701246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-fwJd6jplzu8e3JVd17xgAn3slUdJSaU7xuitzW8WVgNbPCo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "I bought fried rice with chicken tikka, but it tasted average. The rice wasn't flavorful, it like white rice. When I asked for a spoon, they said they didn't have any and told me to get one from a nearby other Indian shop. Not impressed with the service.",
+      "time": 1746377201,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7291628185909856497",
+  "user_ratings_total": 1,
+  "vicinity": "215 Jurong East Street 21, Block 215 Block 215, Singapore"
+}

@@ -1,0 +1,79 @@
+{
+  "formatted_address": "3 Depot Cl, #04-01, Singapore 109840",
+  "geometry": {
+    "location": {
+      "lat": 1.2832241,
+      "lng": 103.8068716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284677230291502,
+        "lng": 103.8082758802915
+      },
+      "southwest": {
+        "lat": 1.281979269708498,
+        "lng": 103.8055779197085
+      }
+    }
+  },
+  "name": "Central Park Food Court",
+  "place_id": "ChIJdfC52tsb2jERw0jzuZlPsm4",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Jit Lim",
+      "author_url": "https://www.google.com/maps/contrib/106912197449963677052/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_pekpd2HQi_ZIYU64TBHZmZRTHuFFaF-osFz4bLeghfVp_Zy6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Spacious, chill place with sofas, outdoor seating, and a really nice view of greenery.",
+      "time": 1601534474,
+      "translated": false
+    },
+    {
+      "author_name": "J",
+      "author_url": "https://www.google.com/maps/contrib/112893739831932168888/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYEaEgCYOENp-ReSvcWKakvvkBH182Jm8Tqf77vR6rPJ1zgl0=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Food is goos. Coffee here sucks.",
+      "time": 1650344403,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Heng",
+      "author_url": "https://www.google.com/maps/contrib/101105482584160029308/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBDwUy6D_DURSqTMADzEc3cVmDKwoxr7Ih_E7Ja91TnFavYqup0w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "nice japan food and wanton mee.",
+      "time": 1572151051,
+      "translated": false
+    },
+    {
+      "author_name": "Sophia Ho",
+      "author_url": "https://www.google.com/maps/contrib/103908079170350202861/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcFZ-LC8ysiD5GCRNxWavxQytw4tTi_ld86UYJwsD97k-ObZYZqg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577337401,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7976525411694889155",
+  "user_ratings_total": 4,
+  "vicinity": "3 Depot Close, #04-01, Singapore"
+}

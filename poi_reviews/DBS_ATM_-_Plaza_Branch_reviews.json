@@ -1,0 +1,29 @@
+{
+  "formatted_address": "118 Rivervale Drive, Rivervale St, #01-21, Singapore 540118",
+  "geometry": {
+    "location": {
+      "lat": 1.38543,
+      "lng": 103.90158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386837080291502,
+        "lng": 103.9028282802915
+      },
+      "southwest": {
+        "lat": 1.384139119708498,
+        "lng": 103.9001303197085
+      }
+    }
+  },
+  "name": "DBS ATM - Plaza Branch",
+  "place_id": "ChIJuwmeFFYX2jERJDqf_G_lZjA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3487727230587451940",
+  "vicinity": "118 Rivervale Drive, Rivervale Street, #01-21"
+}

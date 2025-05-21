@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Alexandra Retail Centre, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2739866,
+      "lng": 103.8014103
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275136530291502,
+        "lng": 103.8029369302915
+      },
+      "southwest": {
+        "lat": 1.272438569708498,
+        "lng": 103.8002389697085
+      }
+    }
+  },
+  "name": "SBI ATM",
+  "place_id": "ChIJRfzLH8Eb2jERkb-jruOpXls",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Mohamad Yusoff",
+      "author_url": "https://www.google.com/maps/contrib/108920363767808882571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVGzJlUhKhlYhSzvwFihxv3fgm_R_L-jjjLMPIwlPeZllExcH_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "still there",
+      "time": 1489988500,
+      "translated": false
+    },
+    {
+      "author_name": "Ramesh Balan",
+      "author_url": "https://www.google.com/maps/contrib/111734110345067425955/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJhXre_qZJhAlsvCACQqDALhdAK7K1M8q_cqxicaT_BPLGeP9W=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1470533445,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6583886500614881169",
+  "user_ratings_total": 2,
+  "vicinity": "Alexandra Retail Centre"
+}

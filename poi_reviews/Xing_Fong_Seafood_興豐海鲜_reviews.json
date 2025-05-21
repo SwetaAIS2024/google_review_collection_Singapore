@@ -1,0 +1,43 @@
+{
+  "formatted_address": "664 Yishun Ave 4, #01-283, Singapore 760664",
+  "geometry": {
+    "location": {
+      "lat": 1.4202218,
+      "lng": 103.8406604
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421545230291502,
+        "lng": 103.8420156302915
+      },
+      "southwest": {
+        "lat": 1.418847269708498,
+        "lng": 103.8393176697085
+      }
+    }
+  },
+  "name": "Xing Fong Seafood 興豐海鲜",
+  "place_id": "ChIJ8XFiMLAV2jER9p4Hptc-Bd0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "XIN YI TAN",
+      "author_url": "https://www.google.com/maps/contrib/117102989097317409962/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkEdbXK5-yKQk9zpdmVxQWTZDZ9S8fBb080UeFqCqrZBWux-pD=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718294999,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15926204753190035190",
+  "user_ratings_total": 1,
+  "vicinity": "664 Yishun Avenue 4, #01-283"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "848 Yishun Street 81, #01-134, Singapore 750848",
+  "geometry": {
+    "location": {
+      "lat": 1.4162387,
+      "lng": 103.8350761
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417770430291502,
+        "lng": 103.8365821302915
+      },
+      "southwest": {
+        "lat": 1.415072469708498,
+        "lng": 103.8338841697085
+      }
+    }
+  },
+  "name": "Huang Mini Mart (Ah Siong Enterprise)",
+  "place_id": "ChIJ3_fOPhIU2jERDg4TykDEg80",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14808895782271520270",
+  "vicinity": "848 Yishun Street 81, #01-134, Singapore"
+}

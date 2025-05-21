@@ -1,0 +1,52 @@
+{
+  "formatted_address": "46 E Coast Rd, Singapore 428766",
+  "geometry": {
+    "location": {
+      "lat": 1.3043786,
+      "lng": 103.903353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305684130291502,
+        "lng": 103.9046162302915
+      },
+      "southwest": {
+        "lat": 1.302986169708498,
+        "lng": 103.9019182697085
+      }
+    }
+  },
+  "name": "Wilson Parking Singapore",
+  "place_id": "ChIJids9cXIY2jERGIiXDidukQg",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "WeiWah Ong",
+      "author_url": "https://www.google.com/maps/contrib/112084848206766144070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUVMJVOexa2HSbBEYIc8xa8o1laf1KdPlwqM2vKHVFzkjlI1T2=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636893548,
+      "translated": false
+    },
+    {
+      "author_name": "Donna Tan Kim Gaik",
+      "author_url": "https://www.google.com/maps/contrib/100098532911767995537/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK46nbj60H5XhCpIdNuv_OqRDWuuaTL1xIytxJF87TkNsMdUQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1525691219,
+      "translated": false
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=617395737954060312",
+  "user_ratings_total": 2,
+  "vicinity": "46 East Coast Road, Singapore"
+}

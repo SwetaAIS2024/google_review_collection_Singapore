@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30185,
+      "lng": 103.79291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303206230291502,
+        "lng": 103.7942326302915
+      },
+      "southwest": {
+        "lat": 1.300508269708498,
+        "lng": 103.7915346697085
+      }
+    }
+  },
+  "name": "Synapse, Biopolis Dr",
+  "place_id": "ChIJ_fpCnEYa2jERjmfeM3l4BtA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14989800871705864078",
+  "vicinity": "Singapore"
+}

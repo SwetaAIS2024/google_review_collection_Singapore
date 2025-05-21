@@ -1,0 +1,56 @@
+{
+  "formatted_address": "86 Redhill Cl, #01-596 Block 86, Singapore 150086",
+  "geometry": {
+    "location": {
+      "lat": 1.2869073,
+      "lng": 103.8188684
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288249830291502,
+        "lng": 103.8203546302915
+      },
+      "southwest": {
+        "lat": 1.285551869708498,
+        "lng": 103.8176566697085
+      }
+    }
+  },
+  "name": "Saastha Minimart (Redhill)",
+  "place_id": "ChIJM6Nnzpgb2jERv_kGQuCfWXY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Animesh Choudhary",
+      "author_url": "https://www.google.com/maps/contrib/113216341697580229375/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqw4_qWL20tqX6JyBxnDA5Cc7Vu0wKKH5WC2ViTeSQ-XpQiT5ryQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great place to buy your daily needs items. The cashier here is a gem of a person who goes out of his way to help in every situation!",
+      "time": 1744736498,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua",
+      "author_url": "https://www.google.com/maps/contrib/106308145293472542694/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrpsQXosZRqWDaSp8G3YAqd_JhZhgI4RA76A2WuWP03pcBHQUw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729665443,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8528023154931988927",
+  "user_ratings_total": 2,
+  "vicinity": "86 Redhill Close, #01-596 Block 86, Singapore"
+}

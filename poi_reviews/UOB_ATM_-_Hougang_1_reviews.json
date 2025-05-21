@@ -1,0 +1,43 @@
+{
+  "formatted_address": "No. 1 Hougang Street 91, Hougang 1, Singapore 538692",
+  "geometry": {
+    "location": {
+      "lat": 1.3754485,
+      "lng": 103.8791667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376612480291502,
+        "lng": 103.8805225302915
+      },
+      "southwest": {
+        "lat": 1.373914519708498,
+        "lng": 103.8778245697085
+      }
+    }
+  },
+  "name": "UOB ATM - Hougang 1",
+  "place_id": "ChIJ9eLEF0QX2jERQfjm0E_p0Yg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chia Zhi Jie",
+      "author_url": "https://www.google.com/maps/contrib/118048153979767703911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxFMkUW49iQ-zpmkjNl2FIulF1yb19gV8aJnpSiWxPVFqlD_KcwA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1677728483,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9858917588307212353",
+  "user_ratings_total": 1,
+  "vicinity": "No. 1 Hougang Street 91, Hougang 1"
+}

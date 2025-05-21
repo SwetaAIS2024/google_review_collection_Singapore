@@ -1,0 +1,42 @@
+{
+  "formatted_address": "644 Yishun Street 61, Block 644, Singapore 760644",
+  "geometry": {
+    "location": {
+      "lat": 1.4217439,
+      "lng": 103.8373836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423173830291502,
+        "lng": 103.8387300802915
+      },
+      "southwest": {
+        "lat": 1.420475869708498,
+        "lng": 103.8360321197085
+      }
+    }
+  },
+  "name": "Nee Soon Central Community Children's Library",
+  "place_id": "ChIJcaOg62wU2jERB6GKt4ELsEA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nimalan Gokul",
+      "author_url": "https://www.google.com/maps/contrib/109029187127710150591/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2KaugfhCv3rQdrD6-VsfHf5JX67rNac6gdNeUgPYH9cNTuw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1589892751,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4661238266086465799",
+  "user_ratings_total": 1,
+  "vicinity": "644 Yishun Street 61, Block 644"
+}

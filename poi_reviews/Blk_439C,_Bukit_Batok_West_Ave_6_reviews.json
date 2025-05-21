@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35732,
+      "lng": 103.73889
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358650280291502,
+        "lng": 103.7402216802915
+      },
+      "southwest": {
+        "lat": 1.355952319708498,
+        "lng": 103.7375237197085
+      }
+    }
+  },
+  "name": "Blk 439C, Bukit Batok West Ave 6",
+  "place_id": "ChIJn_LVtS8Q2jERqJj5BN4SytA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15044858249960069288",
+  "vicinity": "Singapore"
+}

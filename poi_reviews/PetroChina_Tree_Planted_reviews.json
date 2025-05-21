@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Bedok Reservoir Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3370403,
+      "lng": 103.9215479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338420330291502,
+        "lng": 103.9228919302915
+      },
+      "southwest": {
+        "lat": 1.335722369708498,
+        "lng": 103.9201939697085
+      }
+    }
+  },
+  "name": "PetroChina Tree Planted",
+  "place_id": "ChIJLb1oNwA92jERn_gRtFoYQ5M",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10611351924862220447",
+  "vicinity": "Bedok Reservoir Road"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "101 Victoria St, Singapore 188018",
+  "geometry": {
+    "location": {
+      "lat": 1.2972853,
+      "lng": 103.8527395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298686780291502,
+        "lng": 103.8541628302915
+      },
+      "southwest": {
+        "lat": 1.295988819708498,
+        "lng": 103.8514648697085
+      }
+    }
+  },
+  "name": "International Evangelical Church",
+  "place_id": "ChIJjYXxdBIZ2jERpiZ4DKnSE6w",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Clementi CA",
+      "author_url": "https://www.google.com/maps/contrib/109758766474676940379/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVdIAdM-FHfhmqIZaHvsO9oWiO7ZGy55-sjXFcDD8kyV5HjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1585450947,
+      "translated": false
+    },
+    {
+      "author_name": "ferdinand matondang",
+      "author_url": "https://www.google.com/maps/contrib/110901482484423967883/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDai9u5bvUmCNdImsMSZBPHwlw8dNH2XdVhz7Ea2wCwZCEWR8w4w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1579096791,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12399485822581614246",
+  "user_ratings_total": 2,
+  "vicinity": "101 Victoria Street"
+}

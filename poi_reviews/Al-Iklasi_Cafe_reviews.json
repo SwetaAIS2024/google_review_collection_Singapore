@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Bedok Rd, #01-06 Bedok Food Centre, Singapore 469572",
+  "geometry": {
+    "location": {
+      "lat": 1.3203848,
+      "lng": 103.9555055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321864780291502,
+        "lng": 103.9568062802915
+      },
+      "southwest": {
+        "lat": 1.319166819708498,
+        "lng": 103.9541083197085
+      }
+    }
+  },
+  "name": "Al-Iklasi Cafe",
+  "place_id": "ChIJewHZsNYi2jERK-SQK5jIg0g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Imran Bin Mohamed Noor (Imran)",
+      "author_url": "https://www.google.com/maps/contrib/103646845259818277264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo9jKOPrZXplNV8ejSKH5pvPv9Xv-kKCklZj2h0tS-4t5uFdU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Of all the drink stalls in Bedok Corner Food Centre, I will recommend this one.  Main reason is the consistency the stall has maintained over the years.  The teh tarik has been well made over the years...... thickness, sweetness, etc. Stall owned and runned by a humble Indian Muslim couple whose kids will come by on weekends to help out. Gets my vote for the best teh tarik in the eastbof the island.",
+      "time": 1604183037,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5225240548571407403",
+  "user_ratings_total": 1,
+  "vicinity": "1 Bedok Road, #01-06 Bedok Food Centre"
+}

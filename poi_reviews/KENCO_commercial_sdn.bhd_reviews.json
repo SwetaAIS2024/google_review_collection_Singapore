@@ -1,0 +1,56 @@
+{
+  "formatted_address": "81550 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3947645,
+      "lng": 103.6348708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396135530291502,
+        "lng": 103.6361899302915
+      },
+      "southwest": {
+        "lat": 1.393437569708498,
+        "lng": 103.6334919697085
+      }
+    }
+  },
+  "name": "KENCO commercial sdn.bhd",
+  "place_id": "ChIJK9KnLP4J2jERt76bZZpEB0U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Imon Chowdhury",
+      "author_url": "https://www.google.com/maps/contrib/104443038853110174068/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9Ls7JO7Q_Mg1HSWK4LdWy-TwOVdTr0cPb71nROA0iex5aQYM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good place",
+      "time": 1568888108,
+      "translated": false
+    },
+    {
+      "author_name": "alex26小熊工作室",
+      "author_url": "https://www.google.com/maps/contrib/107754594946109898945/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEjJajQ01BnD4YlFv8gEe2iq1xUnkEnM_j4pVum6KDwWnNx9aw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "A good place for tutoring and training has classroom rentals",
+      "time": 1562757334,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4974019743374360247",
+  "user_ratings_total": 2,
+  "vicinity": "Iskandar Puteri"
+}

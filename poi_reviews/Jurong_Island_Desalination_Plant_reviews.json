@@ -1,0 +1,51 @@
+{
+  "formatted_address": "20A Tembusu Cres, Singapore 627613",
+  "geometry": {
+    "location": {
+      "lat": 1.2742918,
+      "lng": 103.6665154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275567680291502,
+        "lng": 103.6679159302915
+      },
+      "southwest": {
+        "lat": 1.272869719708498,
+        "lng": 103.6652179697085
+      }
+    }
+  },
+  "name": "Jurong Island Desalination Plant",
+  "place_id": "ChIJNf-ds5kF2jERb6jCMJ6XEwo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kelvin Ong",
+      "author_url": "https://www.google.com/maps/contrib/116751048694852203200/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIed5T_ZqvuRI0twSIiilTfL9cqET8F-AF-qWyqfhL5Ww1lvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1680593765,
+      "translated": false
+    },
+    {
+      "author_name": "Surja Andriana",
+      "author_url": "https://www.google.com/maps/contrib/100425386097263443678/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4hEXRhD7Xm3EZhCFGBetO0-f5FioRq0ubqFBFOATpzEl4pA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1612496056,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=726090670615472239",
+  "user_ratings_total": 2,
+  "vicinity": "20A Tembusu Crescent"
+}

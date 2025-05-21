@@ -1,0 +1,27 @@
+{
+  "formatted_address": "25 Tagore Ln, #02, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3824518,
+      "lng": 103.8265553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383826130291502,
+        "lng": 103.8279191302915
+      },
+      "southwest": {
+        "lat": 1.381128169708498,
+        "lng": 103.8252211697085
+      }
+    }
+  },
+  "name": "Sappi S'pore Pte Ltd",
+  "place_id": "ChIJJ1vrQxMZ2jERsxxTFiPO3ag",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12168108418318671027",
+  "vicinity": "25 Tagore Lane, #02"
+}

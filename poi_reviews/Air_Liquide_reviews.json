@@ -1,0 +1,41 @@
+{
+  "formatted_address": "13 Tuas Ave 20, Singapore 638825",
+  "geometry": {
+    "location": {
+      "lat": 1.3259131,
+      "lng": 103.63754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327327480291502,
+        "lng": 103.6388181802915
+      },
+      "southwest": {
+        "lat": 1.324629519708498,
+        "lng": 103.6361202197085
+      }
+    }
+  },
+  "name": "Air Liquide",
+  "place_id": "ChIJq6qqWv4F2jERoQuaGjeJFo8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Willy Wong",
+      "author_url": "https://www.google.com/maps/contrib/110095652602725502571/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLNhkArNVbAa7h6IVfFRLfuWq1MOWYdnfgT5SI9PQ1GfW5MsKe=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546768017,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10310579266673839009",
+  "user_ratings_total": 1,
+  "vicinity": "13 Tuas Avenue 20"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "16 Collyer Quay, Singapore 049318",
+  "geometry": {
+    "location": {
+      "lat": 1.2841171,
+      "lng": 103.8526047
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285553380291502,
+        "lng": 103.8540530302915
+      },
+      "southwest": {
+        "lat": 1.282855419708498,
+        "lng": 103.8513550697085
+      }
+    }
+  },
+  "name": "AMEX ATM",
+  "place_id": "ChIJd9LMzQ4Z2jERTHsazAA1rAc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=552875131800288076",
+  "vicinity": "16 Collyer Quay"
+}

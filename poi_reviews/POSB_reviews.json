@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26 Sentosa Gateway, Basement 1 Forum, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2570312,
+      "lng": 103.8225171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258181330291502,
+        "lng": 103.8244527302915
+      },
+      "southwest": {
+        "lat": 1.255483369708498,
+        "lng": 103.8217547697085
+      }
+    }
+  },
+  "name": "POSB",
+  "place_id": "ChIJWep7ElYZ2jERYrxRytMo1tA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15048260095002655842",
+  "vicinity": "26 Sentosa Gateway, Basement 1 Forum"
+}

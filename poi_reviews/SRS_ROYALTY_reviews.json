@@ -1,0 +1,57 @@
+{
+  "formatted_address": "15 Lor 8 Toa Payoh, #01-01 Uncle Leong Seafood, tech 319262",
+  "geometry": {
+    "location": {
+      "lat": 1.3405232,
+      "lng": 103.8581914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341762580291502,
+        "lng": 103.8594510802915
+      },
+      "southwest": {
+        "lat": 1.339064619708498,
+        "lng": 103.8567531197085
+      }
+    }
+  },
+  "name": "SRS ROYALTY",
+  "place_id": "ChIJG-h8LhsX2jERoJMMczLcWJ0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Dennis Ng",
+      "author_url": "https://www.google.com/maps/contrib/109138909136991683491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmkMHiNeBqtjDgD6JK3Y2XWsoCsrorx9A-BFrod2HO4GS-Hw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "$3 for Thai milk tea, but horribly diluted. The base is probably just normal tea, can't taste the Thai. Wasted $3",
+      "time": 1735966698,
+      "translated": false
+    },
+    {
+      "author_name": "Diana Janelle",
+      "author_url": "https://www.google.com/maps/contrib/103072228061865148911/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBMircR3I50l-B29cyeALeGrJmCTiH_xFzY9LsHxGUxdGiqN1g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Horrible food and drinks. Refrain from coming to this place.",
+      "time": 1736225215,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11338054171141903264",
+  "user_ratings_total": 2,
+  "vicinity": "15 Lorong 8 Toa Payoh, #01-01 Uncle Leong Seafood, tech"
+}

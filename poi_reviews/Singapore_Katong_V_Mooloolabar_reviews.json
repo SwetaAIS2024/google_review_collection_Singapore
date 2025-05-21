@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304088,
+      "lng": 103.9025258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305450580291502,
+        "lng": 103.9039108302915
+      },
+      "southwest": {
+        "lat": 1.302752619708498,
+        "lng": 103.9012128697085
+      }
+    }
+  },
+  "name": "Singapore Katong V Mooloolabar",
+  "place_id": "ChIJy0CRi20Y2jERTjwSLqAbjTs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4291116394735615054",
+  "vicinity": "Singapore"
+}

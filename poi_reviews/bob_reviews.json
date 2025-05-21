@@ -1,0 +1,29 @@
+{
+  "formatted_address": "404 Sin Ming Ave, #22, Singapore 570404",
+  "geometry": {
+    "location": {
+      "lat": 1.3626052,
+      "lng": 103.8338424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363849580291502,
+        "lng": 103.8352045802915
+      },
+      "southwest": {
+        "lat": 1.361151619708498,
+        "lng": 103.8325066197085
+      }
+    }
+  },
+  "name": "bob",
+  "place_id": "ChIJVRTgnGgZ2jERR33-6Rm2ghU",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1550001444185079111",
+  "vicinity": "404 Sin Ming Avenue, #22"
+}

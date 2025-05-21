@@ -1,0 +1,29 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3430223,
+      "lng": 103.7759998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344715130291502,
+        "lng": 103.7773230802915
+      },
+      "southwest": {
+        "lat": 1.342017169708497,
+        "lng": 103.7746251197085
+      }
+    }
+  },
+  "name": "Church Of S'pore (bukit Timah)",
+  "place_id": "ChIJ____b4oQ2jEReT4hrN9mwmY",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7404593848202116729",
+  "vicinity": "170 Upper Bukit Timah Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 26 Sentosa Gateway, Basement 1 Forum, Resort World at Sentosa, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2563085,
+      "lng": 103.819981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257370130291502,
+        "lng": 103.8207905302915
+      },
+      "southwest": {
+        "lat": 1.254672169708498,
+        "lng": 103.8180925697085
+      }
+    }
+  },
+  "name": "UOB ATM - Resort World at Sentosa",
+  "place_id": "ChIJj9GBLXwb2jERrO4qTcxTw0c",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5171068934084554412",
+  "vicinity": "No. 26 Sentosa Gateway, Basement 1 Forum, Resort World at Sentosa"
+}

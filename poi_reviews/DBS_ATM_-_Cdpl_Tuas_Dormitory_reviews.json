@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Tuas South Street 15, Singapore 636906",
+  "geometry": {
+    "location": {
+      "lat": 1.2716262,
+      "lng": 103.6371522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.272972080291502,
+        "lng": 103.6385447802915
+      },
+      "southwest": {
+        "lat": 1.270274119708498,
+        "lng": 103.6358468197085
+      }
+    }
+  },
+  "name": "DBS ATM - Cdpl Tuas Dormitory",
+  "place_id": "ChIJFaCNFSAE2jERdyabd6pKI5g",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "V K",
+      "author_url": "https://www.google.com/maps/contrib/107668169387034718217/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVehDAzQ-7LVRrUBzQIpffLDFlH0tJ6ci110IL9uMGsdKNDS7-v9A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "Good",
+      "time": 1717589722,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10962688013961471607",
+  "user_ratings_total": 1,
+  "vicinity": "6 Tuas South Street 15"
+}

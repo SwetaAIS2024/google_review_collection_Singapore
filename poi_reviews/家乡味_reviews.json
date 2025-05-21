@@ -1,0 +1,57 @@
+{
+  "formatted_address": "4A Jln Batu, #01-25, Singapore 432004",
+  "geometry": {
+    "location": {
+      "lat": 1.3024306,
+      "lng": 103.8839057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303729430291502,
+        "lng": 103.8851763302915
+      },
+      "southwest": {
+        "lat": 1.301031469708498,
+        "lng": 103.8824783697085
+      }
+    }
+  },
+  "name": "家乡味",
+  "place_id": "ChIJ0fiNIkQY2jERxQLX8ZStwnY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Viwen Chee",
+      "author_url": "https://www.google.com/maps/contrib/100321330328688026078/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUslmfRS3pRRsmd_OE0gWr3zkb0EjRYLSYMripL5hzxHN0aYWHWOg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I love the puff and the yam cake, but looks like they close this outlet. May I know where they moved to ?",
+      "time": 1656632281,
+      "translated": false
+    },
+    {
+      "author_name": "Regina Davamoni",
+      "author_url": "https://www.google.com/maps/contrib/101288898838508918628/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpLYDNDCxsgv_92U84SpUUE1G6yZOBV8UtWtLATEKlollDKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Kampung-day Kueh at reasonable prices. Freshly steamed every day.",
+      "time": 1652585133,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8557593097181528773",
+  "user_ratings_total": 2,
+  "vicinity": "4A Jalan Batu, #01-25, Singapore"
+}

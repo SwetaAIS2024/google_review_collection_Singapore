@@ -1,0 +1,30 @@
+{
+  "formatted_address": "2 Blackmore Dr, Singapore 599987",
+  "geometry": {
+    "location": {
+      "lat": 1.335721,
+      "lng": 103.7830703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337152380291502,
+        "lng": 103.7844487802915
+      },
+      "southwest": {
+        "lat": 1.334454419708498,
+        "lng": 103.7817508197085
+      }
+    }
+  },
+  "name": "888 Minimart (King Albert Park MRT Station)",
+  "place_id": "ChIJk3rYDQAR2jERhSFxSju7IUE",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4693238150023160197",
+  "vicinity": "2 Blackmore Drive"
+}

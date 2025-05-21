@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.386922,
+      "lng": 103.837143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388296630291502,
+        "lng": 103.8384542802915
+      },
+      "southwest": {
+        "lat": 1.385598669708498,
+        "lng": 103.8357563197085
+      }
+    }
+  },
+  "name": "Aft Lentor Gr",
+  "place_id": "ChIJnQ9mb7kW2jERl5IfefJ4v0o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5386156662167933591",
+  "vicinity": "Singapore"
+}

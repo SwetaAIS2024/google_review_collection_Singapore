@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.376101,
+      "lng": 103.880203
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377449780291502,
+        "lng": 103.8815380802915
+      },
+      "southwest": {
+        "lat": 1.374751819708498,
+        "lng": 103.8788401197085
+      }
+    }
+  },
+  "name": "Opp Hougang 1",
+  "place_id": "ChIJA7El0EQW2jEREtZNCDZAAtw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15853304239109297682",
+  "vicinity": "Singapore"
+}

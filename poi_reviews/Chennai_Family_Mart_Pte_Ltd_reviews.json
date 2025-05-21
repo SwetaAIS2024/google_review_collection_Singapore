@@ -1,0 +1,30 @@
+{
+  "formatted_address": "253 Jurong East St 24, Singapore 600253",
+  "geometry": {
+    "location": {
+      "lat": 1.3439258,
+      "lng": 103.7372175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345255080291502,
+        "lng": 103.7385668302915
+      },
+      "southwest": {
+        "lat": 1.342557119708498,
+        "lng": 103.7358688697085
+      }
+    }
+  },
+  "name": "Chennai Family Mart Pte Ltd",
+  "place_id": "ChIJEcPd-xgQ2jER7Z1bb32ROAA",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15922566621011437",
+  "vicinity": "253 Jurong East Street 24"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "478 Tampines Street 45, Singapore 520478",
+  "geometry": {
+    "location": {
+      "lat": 1.3612264,
+      "lng": 103.9529043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362655630291502,
+        "lng": 103.9542077802915
+      },
+      "southwest": {
+        "lat": 1.359957669708498,
+        "lng": 103.9515098197085
+      }
+    }
+  },
+  "name": "Taste of Minang",
+  "place_id": "ChIJOygbDAA92jER0I7Jdoh3-SY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2808407270634393296",
+  "vicinity": "478 Tampines Street 45"
+}

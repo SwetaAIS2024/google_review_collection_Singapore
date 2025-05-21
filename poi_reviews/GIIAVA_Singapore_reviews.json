@@ -1,0 +1,55 @@
+{
+  "formatted_address": "10 Ayer Merbau Rd, Singapore 627719",
+  "geometry": {
+    "location": {
+      "lat": 1.2758056,
+      "lng": 103.7129596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277252880291502,
+        "lng": 103.7143654302915
+      },
+      "southwest": {
+        "lat": 1.274554919708498,
+        "lng": 103.7116674697085
+      }
+    }
+  },
+  "name": "GIIAVA Singapore",
+  "place_id": "ChIJT_UdKMQE2jER9gyijjqmxVU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "William ODwyer",
+      "author_url": "https://www.google.com/maps/contrib/112727841165408632205/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUnn7c8MjoWgvQLet516J5Q0ieuFiOxRJ2iLP-RBiM9yOTGVqL=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Excellent partner to work with and nothing but the highest praise for them.",
+      "time": 1636085497,
+      "translated": false
+    },
+    {
+      "author_name": "Utyesh Raj",
+      "author_url": "https://www.google.com/maps/contrib/112452828374736722778/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2HX7Gw0wvUToRbe5tW1Nj8ORU6vwpZ-u7e3cCeaKCAuCsEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good company 😍",
+      "time": 1632334819,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6180528834067172598",
+  "user_ratings_total": 2,
+  "vicinity": "10 Ayer Merbau Road"
+}

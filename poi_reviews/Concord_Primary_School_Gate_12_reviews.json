@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3810442,
+      "lng": 103.7357672
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382449080291502,
+        "lng": 103.7372198302915
+      },
+      "southwest": {
+        "lat": 1.379751119708498,
+        "lng": 103.7345218697085
+      }
+    }
+  },
+  "name": "Concord Primary School Gate 12",
+  "place_id": "ChIJp9sr6kwR2jERy3GyQTIBPUc",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5133260465634439627",
+  "vicinity": "Singapore"
+}

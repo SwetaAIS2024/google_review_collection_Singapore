@@ -1,0 +1,55 @@
+{
+  "formatted_address": "5 Poh Huat Rd, Singapore 546703",
+  "geometry": {
+    "location": {
+      "lat": 1.3650902,
+      "lng": 103.8847736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366507780291502,
+        "lng": 103.8861794302915
+      },
+      "southwest": {
+        "lat": 1.363809819708498,
+        "lng": 103.8834814697085
+      }
+    }
+  },
+  "name": "Bethel Presbyterian Church @ Poh Huat",
+  "place_id": "ChIJJVtImEwW2jERz0lHwHaZa0Y",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Yew Tiong Teo",
+      "author_url": "https://www.google.com/maps/contrib/110710016142516851067/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvMqIWn2ubugTWxs6Mlb9Ghf5UfDlErbKgLh7vSx80r9H29PF5=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Good Place",
+      "time": 1565406749,
+      "translated": true
+    },
+    {
+      "author_name": "Soewkeow Lim",
+      "author_url": "https://www.google.com/maps/contrib/117539142105216087378/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMteGO8s7Ga6aZMLzvGeI83H4mRM8gmrw62qyVUReRXqNQCvc=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678884226,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5074318140474083791",
+  "user_ratings_total": 2,
+  "vicinity": "5 Poh Huat Road"
+}

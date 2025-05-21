@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.363167,
+      "lng": 103.836746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364491930291502,
+        "lng": 103.8380846802915
+      },
+      "southwest": {
+        "lat": 1.361793969708498,
+        "lng": 103.8353867197085
+      }
+    }
+  },
+  "name": "Opp Bright Hill Tp",
+  "place_id": "ChIJf3FvcicX2jERo_8_EUYPn7Q",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13015138241735557027",
+  "vicinity": "Singapore"
+}

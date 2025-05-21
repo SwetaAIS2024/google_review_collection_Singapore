@@ -1,0 +1,29 @@
+{
+  "formatted_address": "279 Bishan Street 24, Singapore 570279",
+  "geometry": {
+    "location": {
+      "lat": 1.3576948,
+      "lng": 103.8441339
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359025230291502,
+        "lng": 103.8453873802915
+      },
+      "southwest": {
+        "lat": 1.356327269708498,
+        "lng": 103.8426894197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Bishan Street 24",
+  "place_id": "ChIJdZtTkJcX2jERpO6Fb9JZlGQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7247516460695023268",
+  "vicinity": "279 Bishan Street 24, Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "104 Jurong E St 13, Block 104, Singapore 600104",
+  "geometry": {
+    "location": {
+      "lat": 1.3366963,
+      "lng": 103.7376313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338157280291502,
+        "lng": 103.7388079802915
+      },
+      "southwest": {
+        "lat": 1.335459319708498,
+        "lng": 103.7361100197085
+      }
+    }
+  },
+  "name": "Block 104 HDB Jurong East",
+  "place_id": "ChIJY6xf1RoQ2jERN2m9U_yaQiM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Rajesh Bhat",
+      "author_url": "https://www.google.com/maps/contrib/100059225248246712757/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGhTtOMoz2jRuJCSt424NDsw5uRpCj2RSSVimrN0g9w0ipwpvP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Usual HDB block hosting business outlets near during east central.",
+      "time": 1682723593,
+      "translated": false
+    },
+    {
+      "author_name": "Noor HezAin",
+      "author_url": "https://www.google.com/maps/contrib/105492715591728697755/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnmhxbHD1UA8hPDRb8VyjFWzbSaaj4nv5oJriWrKedRrtCGGxp=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1585279418,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2540763548317739319",
+  "user_ratings_total": 2,
+  "vicinity": "104 Jurong East Street 13, Block 104"
+}

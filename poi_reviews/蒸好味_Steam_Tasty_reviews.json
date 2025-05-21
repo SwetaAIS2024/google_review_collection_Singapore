@@ -1,0 +1,30 @@
+{
+  "formatted_address": "278a Bukit Batok East Ave 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3484423,
+      "lng": 103.7575251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349681030291502,
+        "lng": 103.7590669802915
+      },
+      "southwest": {
+        "lat": 1.346983069708498,
+        "lng": 103.7563690197085
+      }
+    }
+  },
+  "name": "蒸好味 Steam Tasty",
+  "place_id": "ChIJU7d6EAAR2jERAfQDyeWppc8",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14962552141393425409",
+  "vicinity": "278a Bukit Batok East Avenue 4"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "No. 250 Thomson Road, Novena MRT Station, Singapore 307642",
+  "geometry": {
+    "location": {
+      "lat": 1.3202681,
+      "lng": 103.8435124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321468430291502,
+        "lng": 103.8447474802915
+      },
+      "southwest": {
+        "lat": 1.318770469708498,
+        "lng": 103.8420495197085
+      }
+    }
+  },
+  "name": "UOB ATM - Novena MRT Station",
+  "place_id": "ChIJeR_Kgl0Z2jEReaXypM-bHXM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Beautiful thing is that this is sheltered, and always opened 24/7, plus it's located right by 7 Eleven. It's right outside Novena MRT station, alongside all the other bank's ATM machines. If you need to draw some cash, here's your best bet especially late into the night.",
+      "time": 1624158897,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8294957404814222713",
+  "user_ratings_total": 1,
+  "vicinity": "No. 250 Thomson Road, Novena MRT Station"
+}

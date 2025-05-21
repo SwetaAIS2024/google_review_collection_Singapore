@@ -1,0 +1,42 @@
+{
+  "formatted_address": "25 International Business Park, Singapore 609916",
+  "geometry": {
+    "location": {
+      "lat": 1.3247372,
+      "lng": 103.7467805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326210830291502,
+        "lng": 103.7480580802915
+      },
+      "southwest": {
+        "lat": 1.323512869708498,
+        "lng": 103.7453601197085
+      }
+    }
+  },
+  "name": "Messe Berlin",
+  "place_id": "ChIJYZ7ZKaEa2jERAddjtPSmi4g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohammad Zaghloul",
+      "author_url": "https://www.google.com/maps/contrib/107330787498515867181/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-yinggRMd8PSIugh80RkoZ6jK1jO7Obnm-fABB04pe-RyP8Vf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607296217,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9839141380849653505",
+  "user_ratings_total": 1,
+  "vicinity": "25 International Business Park"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "237A Lavender St., Singapore 028106",
+  "geometry": {
+    "location": {
+      "lat": 1.3149378,
+      "lng": 103.8593177
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316286780291502,
+        "lng": 103.8606666802915
+      },
+      "southwest": {
+        "lat": 1.313588819708498,
+        "lng": 103.8579687197085
+      }
+    }
+  },
+  "name": "热度酒吧 Redu Bar",
+  "place_id": "ChIJEWuG6FwZ2jER9ok8P7Oig8o",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14592686108354316790",
+  "vicinity": "237A Lavender Street"
+}

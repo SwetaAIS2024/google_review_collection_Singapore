@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Pasir Ris Street 71, Singapore 510757",
+  "geometry": {
+    "location": {
+      "lat": 1.3755676,
+      "lng": 103.9373989
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376916580291502,
+        "lng": 103.9387478802915
+      },
+      "southwest": {
+        "lat": 1.374218619708498,
+        "lng": 103.9360499197085
+      }
+    }
+  },
+  "name": "Kudap-kudap",
+  "place_id": "ChIJZ1NgeF892jERJP_R7Fcubd8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16099575198089608996",
+  "vicinity": "Pasir Ris Street 71"
+}

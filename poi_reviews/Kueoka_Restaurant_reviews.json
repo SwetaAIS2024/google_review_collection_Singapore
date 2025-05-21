@@ -1,0 +1,29 @@
+{
+  "formatted_address": "215 Henderson Rd, Singapore 159554",
+  "geometry": {
+    "location": {
+      "lat": 1.2808534,
+      "lng": 103.8192261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282222530291502,
+        "lng": 103.8205609302915
+      },
+      "southwest": {
+        "lat": 1.279524569708498,
+        "lng": 103.8178629697085
+      }
+    }
+  },
+  "name": "Kueoka Restaurant",
+  "place_id": "ChIJpwhhmdcb2jERj1Ww5K2QXA8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1106918684966802831",
+  "vicinity": "215 Henderson Road"
+}

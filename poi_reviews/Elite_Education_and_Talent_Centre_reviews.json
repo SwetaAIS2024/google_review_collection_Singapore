@@ -1,0 +1,43 @@
+{
+  "formatted_address": "8 Lor 7 Toa Payoh, Singapore 310008",
+  "geometry": {
+    "location": {
+      "lat": 1.337857,
+      "lng": 103.856446
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339145330291502,
+        "lng": 103.8577955302915
+      },
+      "southwest": {
+        "lat": 1.336447369708498,
+        "lng": 103.8550975697085
+      }
+    }
+  },
+  "name": "Elite Education & Talent Centre",
+  "place_id": "ChIJvX5KD3AX2jER6XM7hvi6GMM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nawwara Eshal",
+      "author_url": "https://www.google.com/maps/contrib/117213257682084600155/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb7hksMjRg2ekA6mSI020G9fVNVvNQo9mSlYtKaPI5IzkKZQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731044315,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14058191813403702249",
+  "user_ratings_total": 1,
+  "vicinity": "8 Lorong 7 Toa Payoh"
+}

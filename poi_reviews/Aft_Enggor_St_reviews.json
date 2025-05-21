@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27456,
+      "lng": 103.845367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275878430291502,
+        "lng": 103.8467519802915
+      },
+      "southwest": {
+        "lat": 1.273180469708498,
+        "lng": 103.8440540197085
+      }
+    }
+  },
+  "name": "Aft Enggor St",
+  "place_id": "ChIJ5QGzrxQZ2jER303u6srYfj0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Happy Sky",
+      "author_url": "https://www.google.com/maps/contrib/112502322316985322544/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-135ihUWGC1J7oRCgvtqloMTyw_GidPgZj1eJwOjdl4pKS5bU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Is this bus stop seving us?",
+      "time": 1663071792,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4431217449415626207",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

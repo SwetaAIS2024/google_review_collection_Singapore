@@ -1,0 +1,46 @@
+{
+  "formatted_address": "633 Tampines North Dr 2, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.365676,
+      "lng": 103.9414077
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367090080291502,
+        "lng": 103.9428463302915
+      },
+      "southwest": {
+        "lat": 1.364392119708498,
+        "lng": 103.9401483697085
+      }
+    }
+  },
+  "name": "Ding Wang",
+  "place_id": "ChIJT5Y1SQA92jERCOwv6_EsdLE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "erica Kaka",
+      "author_url": "https://www.google.com/maps/contrib/102238379105440029871/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbagArlV04hYjq8ZN0VETBfYehvIirNF5TCbN0pQZCgNGg6A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "Tried the popiah not good.",
+      "time": 1731344115,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12786894659556207624",
+  "user_ratings_total": 1,
+  "vicinity": "633 Tampines North Drive 2"
+}

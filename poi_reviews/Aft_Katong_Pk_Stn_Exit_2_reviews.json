@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.299305,
+      "lng": 103.885277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300654480291502,
+        "lng": 103.8866648302915
+      },
+      "southwest": {
+        "lat": 1.297956519708498,
+        "lng": 103.8839668697085
+      }
+    }
+  },
+  "name": "Aft Katong Pk Stn Exit 2",
+  "place_id": "ChIJZ35soEQY2jEREyqe2INlTAI",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Astraeus Tu",
+      "author_url": "https://www.google.com/maps/contrib/112508317414544824402/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwOphHU7E9_7oWcCkydevlbP3B_ROeZxcGCYglSNF1qD-6dCU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "a small bus stop just outside several residential high-rise buildings\nwith bus 30 just passing the underwater long tunnel from marina bay side",
+      "time": 1661702198,
+      "translated": false
+    },
+    {
+      "author_name": "Dean Aw",
+      "author_url": "https://www.google.com/maps/contrib/103924329485141738611/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGFI4i7gk0Q4edOlfGIKLFo0q7V-TgvFTuH4KYGbCrnzWHfQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice",
+      "time": 1692374494,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688043119,
+      "translated": false
+    },
+    {
+      "author_name": "Li Ding",
+      "author_url": "https://www.google.com/maps/contrib/101352470679733659465/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqUk4rdd84fBa2p07O3KF6FyWFabbmWinMetKUtjj23hF-45I=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487303419,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=165618903255230995",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

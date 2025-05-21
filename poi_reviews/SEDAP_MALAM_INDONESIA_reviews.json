@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3143911,
+      "lng": 103.6535154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315969680291502,
+        "lng": 103.6550867302915
+      },
+      "southwest": {
+        "lat": 1.313271719708498,
+        "lng": 103.6523887697085
+      }
+    }
+  },
+  "name": "SEDAP MALAM INDONESIA",
+  "place_id": "ChIJDa1K7BcF2jERDvJmYR0xKA8",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1092176911895294478",
+  "vicinity": "Singapore"
+}

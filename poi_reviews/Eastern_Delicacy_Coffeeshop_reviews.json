@@ -1,0 +1,58 @@
+{
+  "formatted_address": "11 Kaki Bukit Rd 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3393621,
+      "lng": 103.912088
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340752030291502,
+        "lng": 103.9135185802915
+      },
+      "southwest": {
+        "lat": 1.338054069708498,
+        "lng": 103.9108206197085
+      }
+    }
+  },
+  "name": "Eastern Delicacy Coffeeshop",
+  "place_id": "ChIJM5EffAAX2jER_sMmA7kCFWg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jacob TAN",
+      "author_url": "https://www.google.com/maps/contrib/114080558508206655685/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUv7ChYSn_mkLArSNaLDWMUf1ZDQof9r4wk1hpAqCrkFj2Y3mn2=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "This is one of a few coffeeshops in the Kaki Bukit Industrial area. Came here to see whether anything interesting to eat after dropping my car for servicing. There were only 4 food stalls opened and I didn't find anything interesting so I just ordered a coffee and took a seat in the area with open space. It was quite warm. The coffee was quite mild but taste was fine.\nBusiness was slow as I was there before lunch time. Service was quick and polite.",
+      "time": 1718270858,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Chew",
+      "author_url": "https://www.google.com/maps/contrib/108814748949651289045/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc9SnEkjbiIxzyFpWHDKoi3nDHOLzauhjciJx_CwpXciYdI7C1-Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Labor Day Coffee Shop is open",
+      "time": 1714536418,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7499903748100506622",
+  "user_ratings_total": 2,
+  "vicinity": "11 Kaki Bukit Road 4"
+}

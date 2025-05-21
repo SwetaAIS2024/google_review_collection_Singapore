@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3130319,
+      "lng": 103.9009984
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314346130291502,
+        "lng": 103.9023013802915
+      },
+      "southwest": {
+        "lat": 1.311648169708498,
+        "lng": 103.8996034197085
+      }
+    }
+  },
+  "name": "Bef Joo Chiat Pl",
+  "place_id": "ChIJxUW5lhEY2jERUNg6CWIrXPk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Robert Lim",
+      "author_url": "https://www.google.com/maps/contrib/104859754957415942345/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB9k2eS6zHCsZHYW53QrawB3XW_qYbkqUMDA2xxappGjtFJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Clear picture of the bus stop near the shop.",
+      "time": 1508401460,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17968284313363077200",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Seletar Expw., Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3943043,
+      "lng": 103.8337502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395646580291502,
+        "lng": 103.8350949802915
+      },
+      "southwest": {
+        "lat": 1.392948619708498,
+        "lng": 103.8323970197085
+      }
+    }
+  },
+  "name": "Lentor Flyover",
+  "place_id": "ChIJIcD9-CYX2jERLQ4o2g6u_TQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aathi Aathi",
+      "author_url": "https://www.google.com/maps/contrib/106191805233124894180/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVT75RkNKhsdKu6U-lLmXazlo2VfL0Lm7LL6d-ZMXwYB40vSlNh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712410808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3818399437892881965",
+  "user_ratings_total": 1,
+  "vicinity": "Seletar Expressway"
+}

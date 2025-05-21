@@ -1,0 +1,42 @@
+{
+  "formatted_address": "771 Bedok Reservoir View, Block 771, Singapore 470771",
+  "geometry": {
+    "location": {
+      "lat": 1.3359611,
+      "lng": 103.9397791
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337193830291502,
+        "lng": 103.9408277302915
+      },
+      "southwest": {
+        "lat": 1.334495869708498,
+        "lng": 103.9381297697085
+      }
+    }
+  },
+  "name": "End of Park Connector",
+  "place_id": "ChIJs3loJAA92jEReUtpFDSbeME",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dave Seow",
+      "author_url": "https://www.google.com/maps/contrib/101229151590372939572/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf8ZLPAvTNxBTORWrGkNw84C1YDGW4WZUkIEG7OSjaiHDk0ESbug=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742789946,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13941063294508419961",
+  "user_ratings_total": 1,
+  "vicinity": "771 Bedok Reservoir View, Block 771, Singapore"
+}

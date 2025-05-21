@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3800 Jalan Bukit Merah, Singapore 159464",
+  "geometry": {
+    "location": {
+      "lat": 1.2842306,
+      "lng": 103.8183914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285450230291502,
+        "lng": 103.8197014802915
+      },
+      "southwest": {
+        "lat": 1.282752269708498,
+        "lng": 103.8170035197085
+      }
+    }
+  },
+  "name": "DBS ATM - SPC Jalan Bukit Merah",
+  "place_id": "ChIJmaFy8Owb2jERkiuTPcJBaTc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3992794847153171346",
+  "vicinity": "3800 Jalan Bukit Merah, Singapore"
+}

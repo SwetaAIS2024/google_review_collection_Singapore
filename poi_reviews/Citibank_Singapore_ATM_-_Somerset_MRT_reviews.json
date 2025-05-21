@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Somerset Rd, Somerset SMRT Station, Singapore 238162",
+  "geometry": {
+    "location": {
+      "lat": 1.3007485,
+      "lng": 103.8384629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302010730291502,
+        "lng": 103.8397707302915
+      },
+      "southwest": {
+        "lat": 1.299312769708498,
+        "lng": 103.8370727697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Somerset MRT",
+  "place_id": "ChIJ8R1JM5cZ2jER0QuSvIwHq_g",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512403462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17918423843464154065",
+  "user_ratings_total": 1,
+  "vicinity": "1 Somerset Road, Somerset SMRT Station"
+}

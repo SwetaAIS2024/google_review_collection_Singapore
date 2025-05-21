@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Bukit Timah Rd, Singapore 269734",
+  "geometry": {
+    "location": {
+      "lat": 1.3257156,
+      "lng": 103.8054424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326989180291502,
+        "lng": 103.8067622302915
+      },
+      "southwest": {
+        "lat": 1.324291219708498,
+        "lng": 103.8040642697085
+      }
+    }
+  },
+  "name": "Block E",
+  "place_id": "ChIJL1cxQAAb2jER9Tn5FKenuWA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nguyễn Quang Định",
+      "author_url": "https://www.google.com/maps/contrib/113025149793306168730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR7RLkmoa7YefU7hH_tV2laOsQiXmEg2AeSCQIrvHAufRfoU2E=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732353830,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6969786234385807861",
+  "user_ratings_total": 1,
+  "vicinity": "Bukit Timah Road, Singapore"
+}

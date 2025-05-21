@@ -1,0 +1,29 @@
+{
+  "formatted_address": "396 Alexandra Rd, Singapore 119957",
+  "geometry": {
+    "location": {
+      "lat": 1.277972,
+      "lng": 103.8023108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279359880291502,
+        "lng": 103.8035090802915
+      },
+      "southwest": {
+        "lat": 1.276661919708498,
+        "lng": 103.8008111197085
+      }
+    }
+  },
+  "name": "Reen's Cafe",
+  "place_id": "ChIJCaA1pGob2jERjg-aiaVAW9U",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15373952832681676686",
+  "vicinity": "396 Alexandra Road"
+}

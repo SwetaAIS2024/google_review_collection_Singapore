@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.327475,
+      "lng": 103.718086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328802380291502,
+        "lng": 103.7194402302915
+      },
+      "southwest": {
+        "lat": 1.326104419708498,
+        "lng": 103.7167422697085
+      }
+    }
+  },
+  "name": "Bef Chia Ping Rd",
+  "place_id": "ChIJmZeYCPgP2jER-QtHZ7Wg4MA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13898285151047584761",
+  "vicinity": "Singapore"
+}

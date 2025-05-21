@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Serimbun reservoir, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4214022,
+      "lng": 103.6812473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422524630291502,
+        "lng": 103.6826634302915
+      },
+      "southwest": {
+        "lat": 1.419826669708498,
+        "lng": 103.6799654697085
+      }
+    }
+  },
+  "name": "PUB Sarimbun Pumping Station",
+  "place_id": "ChIJg2NbWgAN2jER73iSNTRTDnA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8074482665624074479",
+  "vicinity": "Serimbun reservoir"
+}

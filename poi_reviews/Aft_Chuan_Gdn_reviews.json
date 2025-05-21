@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361475999999999,
+      "lng": 103.868095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362817480291502,
+        "lng": 103.8693977802915
+      },
+      "southwest": {
+        "lat": 1.360119519708498,
+        "lng": 103.8666998197085
+      }
+    }
+  },
+  "name": "Aft Chuan Gdn",
+  "place_id": "ChIJ7bxwf6oX2jERvsSICK0U6KE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mani Kandan",
+      "author_url": "https://www.google.com/maps/contrib/100796892845225847054/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUE1MtehXFAdt0y9WbgD323QdRAyVjKTfwqtrCjgQdZCzxTtPBv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1619088376,
+      "translated": false
+    },
+    {
+      "author_name": "dommy arnanta",
+      "author_url": "https://www.google.com/maps/contrib/108004783125630793201/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-yJA6FwFC8P9-Nspvu2OnhVDWHfLeONofvuHFnGizRlKtq4zw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505354423,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11666597568108348606",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

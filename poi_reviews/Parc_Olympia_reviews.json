@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.355878,
+      "lng": 103.965569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357245130291502,
+        "lng": 103.9669585302915
+      },
+      "southwest": {
+        "lat": 1.354547169708498,
+        "lng": 103.9642605697085
+      }
+    }
+  },
+  "name": "Parc Olympia",
+  "place_id": "ChIJ_YePjvw82jER9N_BdR6O-OA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md Raju Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/109277414431981531566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbsoI_JGDbw_jor2yuIPRMJsqB-qfOfE84asMD-cJSOtfcgcg-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682836628,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16210863120195903476",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

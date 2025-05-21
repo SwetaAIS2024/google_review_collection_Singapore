@@ -1,0 +1,29 @@
+{
+  "formatted_address": "4 Queen's Rd, #02-125 260004, Singapore 260004",
+  "geometry": {
+    "location": {
+      "lat": 1.3185758,
+      "lng": 103.8077787
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319952130291502,
+        "lng": 103.8091628302915
+      },
+      "southwest": {
+        "lat": 1.317254169708498,
+        "lng": 103.8064648697085
+      }
+    }
+  },
+  "name": "Le Paon",
+  "place_id": "ChIJ-9x1yw8a2jERwjmbQmiGxvk",
+  "types": [
+    "school",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17998220743184955842",
+  "vicinity": "4 Queen's Road, #02-125 260004"
+}

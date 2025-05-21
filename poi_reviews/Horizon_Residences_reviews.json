@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.281591,
+      "lng": 103.784004
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282900580291502,
+        "lng": 103.7853266802915
+      },
+      "southwest": {
+        "lat": 1.280202619708498,
+        "lng": 103.7826287197085
+      }
+    }
+  },
+  "name": "Horizon Residences",
+  "place_id": "ChIJO4dwoq8b2jERe-x4Xc9mQ3Q",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Damjan Cvetkov-Dimitrov",
+      "author_url": "https://www.google.com/maps/contrib/101685427424017274933/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDSR0P8fLnOVYHATUWPVtwsdmFJDcIOVSwRtYQbew0Go0anB_m=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "The number 10 bus almost always speeds through this station like its filled with hellfire. If you mistakenly blink, you’ll probably miss the number 10. A few times I even waved it but no stop. Can’t stop when you are maxing out the engine on this street.",
+      "time": 1543819912,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8377652772651723899",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

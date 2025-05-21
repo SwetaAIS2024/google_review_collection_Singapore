@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.36835,
+      "lng": 103.862625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369699730291502,
+        "lng": 103.8639687302915
+      },
+      "southwest": {
+        "lat": 1.367001769708498,
+        "lng": 103.8612707697085
+      }
+    }
+  },
+  "name": "Opp Portchester Ave",
+  "place_id": "ChIJ7WAarP4W2jERMP6Beyg-o6I",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jo Foong",
+      "author_url": "https://www.google.com/maps/contrib/102839821223736249395/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWij0PftMvQaqyBhKI4yhWR55RimLwK5lMasPtebT00ZDzPHSos=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515216693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11719278998939893296",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

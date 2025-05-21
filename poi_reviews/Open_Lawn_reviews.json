@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3403238,
+      "lng": 103.8754826
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341308430291502,
+        "lng": 103.8768889802915
+      },
+      "southwest": {
+        "lat": 1.338610469708498,
+        "lng": 103.8741910197085
+      }
+    }
+  },
+  "name": "Open Lawn",
+  "place_id": "ChIJc9w_cAAX2jERcp3zl1aMpXw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8981739335404723570",
+  "vicinity": ""
+}

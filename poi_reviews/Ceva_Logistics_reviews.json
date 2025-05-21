@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314276,
+      "lng": 103.704643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315559680291502,
+        "lng": 103.7060015802915
+      },
+      "southwest": {
+        "lat": 1.312861719708498,
+        "lng": 103.7033036197085
+      }
+    }
+  },
+  "name": "Ceva Logistics",
+  "place_id": "ChIJMc3W62kF2jERUPGCP1MGT58",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11479400929808281936",
+  "vicinity": "Singapore"
+}

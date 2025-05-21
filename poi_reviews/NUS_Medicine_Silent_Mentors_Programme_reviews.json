@@ -1,0 +1,42 @@
+{
+  "formatted_address": "4 Medical Dr, Singapore 117594",
+  "geometry": {
+    "location": {
+      "lat": 1.2966,
+      "lng": 103.7817166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297993880291502,
+        "lng": 103.7830821302915
+      },
+      "southwest": {
+        "lat": 1.295295919708498,
+        "lng": 103.7803841697085
+      }
+    }
+  },
+  "name": "NUS Medicine Silent Mentors Programme",
+  "place_id": "ChIJPfOg11Aa2jERmRdkQWkzyak",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sammy Leong",
+      "author_url": "https://www.google.com/maps/contrib/116026706591444901876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_Yz67wRONc-50VQB4jL2hevhziwAs-2hNNheUzv4HJmPiV02c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743572911,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12234366389890324377",
+  "user_ratings_total": 1,
+  "vicinity": "4 Medical Drive"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35859,
+      "lng": 103.93413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359953580291502,
+        "lng": 103.9354787802915
+      },
+      "southwest": {
+        "lat": 1.357255619708498,
+        "lng": 103.9327808197085
+      }
+    }
+  },
+  "name": "Opp Blk 734, Along Tampines St 71",
+  "place_id": "ChIJYz5nhnM92jERBmlf5JHnfkM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4863579261394446598",
+  "vicinity": "Singapore"
+}

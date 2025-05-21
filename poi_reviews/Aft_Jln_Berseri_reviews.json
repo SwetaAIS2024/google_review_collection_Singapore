@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.372231,
+      "lng": 103.703209
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373624730291502,
+        "lng": 103.7045592302915
+      },
+      "southwest": {
+        "lat": 1.370926769708498,
+        "lng": 103.7018612697085
+      }
+    }
+  },
+  "name": "Aft Jln Berseri",
+  "place_id": "ChIJt00nUEgO2jER0yw0SCZzkoY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Solehin Sabtu",
+      "author_url": "https://www.google.com/maps/contrib/113372326724951199749/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt7yBrRWm4i_xGPXLxlPpqks03IFhT7msDkJOqaZ0ushmaVdoY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505892100,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9696939555939429587",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

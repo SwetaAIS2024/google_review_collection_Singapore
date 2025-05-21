@@ -1,0 +1,29 @@
+{
+  "formatted_address": "301 Boon Keng Rd, Singapore 339779",
+  "geometry": {
+    "location": {
+      "lat": 1.3154101,
+      "lng": 103.8651508
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316599780291502,
+        "lng": 103.8667185302915
+      },
+      "southwest": {
+        "lat": 1.313901819708498,
+        "lng": 103.8640205697085
+      }
+    }
+  },
+  "name": "Yuros Beer",
+  "place_id": "ChIJ__8vCM0Z2jERlfB5B784eJk",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11058651278123593877",
+  "vicinity": "301 Boon Keng Road"
+}

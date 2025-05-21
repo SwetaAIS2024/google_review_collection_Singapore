@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334913,
+      "lng": 103.719528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336256780291502,
+        "lng": 103.7208699302915
+      },
+      "southwest": {
+        "lat": 1.333558819708498,
+        "lng": 103.7181719697085
+      }
+    }
+  },
+  "name": "Assyakirin Mque",
+  "place_id": "ChIJ2XtZ5foP2jERMQ4AxjhZqmM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jasim uddin",
+      "author_url": "https://www.google.com/maps/contrib/102739945804248884111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_ZkQLqIW0ule77tSPywA0r-JZA9ltFWegCkQzbHtxgGNfW3hh=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Very nice structure and clean mosque.",
+      "time": 1729832569,
+      "translated": false
+    },
+    {
+      "author_name": "Srinivasan V",
+      "author_url": "https://www.google.com/maps/contrib/104622806208813560245/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpWfuIurDVYHBvBe38kVkrS7z20B7whBSHDQ5zcBRpsNGyMQgrDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Next to Taman Jurong",
+      "time": 1607317407,
+      "translated": false
+    },
+    {
+      "author_name": "Julie Mohamed Ali",
+      "author_url": "https://www.google.com/maps/contrib/118123046606478212870/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM8YE_AJ3iHKwiXoZEbwOZJQsta4QjE4Da6Gi7t2GFEI6LE0Mt=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Mad ras ah",
+      "time": 1746984890,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7181650656170610225",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "31 Bukit Batok Cres, #01-01 The Splendour, Singapore 658070",
+  "geometry": {
+    "location": {
+      "lat": 1.3369497,
+      "lng": 103.7584546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338274430291502,
+        "lng": 103.7597938802915
+      },
+      "southwest": {
+        "lat": 1.335576469708498,
+        "lng": 103.7570959197085
+      }
+    }
+  },
+  "name": "NZ Foodiees",
+  "place_id": "ChIJTdjvLs0R2jERYz2VVqLHsqU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "William Win",
+      "author_url": "https://www.google.com/maps/contrib/113455741713196742765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMfEsAPuGmQ3UF8foiOfUdT3hM8R2IjCgYQbNClFBQe06dRUEk=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "A good location among the populated HDB blocks of Bukit Panjan, this foodcourt is thrived with customers when I made a visit in the morning. The foods are also varied to the choice of patrons similar to other popular eating places.",
+      "time": 1653819278,
+      "translated": false
+    },
+    {
+      "author_name": "Kajornsak Chaiyakong",
+      "author_url": "https://www.google.com/maps/contrib/112790157423385653391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2QCA8QB18OlXWBRRbxHqBcI2NL78WLaksyb4ITNnlVunO4dOP=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657531465,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11939825062163856739",
+  "user_ratings_total": 2,
+  "vicinity": "31 Bukit Batok Crescent, #01-01 The Splendour"
+}

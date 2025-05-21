@@ -1,0 +1,63 @@
+{
+  "formatted_address": "76 Nanyang Drive, Block N 2.1 Level B1, Singapore 637331",
+  "geometry": {
+    "location": {
+      "lat": 1.3471238,
+      "lng": 103.6799637
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348472730291502,
+        "lng": 103.6811363802915
+      },
+      "southwest": {
+        "lat": 1.345774769708498,
+        "lng": 103.6784384197085
+      }
+    }
+  },
+  "name": "Centre for IT Services (NTU)",
+  "place_id": "ChIJh0OR2goP2jERd-wAZorTuKk",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Yusuf Odin",
+      "author_url": "https://www.google.com/maps/contrib/116189225417757141747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK821lKy4i8AvU_xhPTehKWWT7NacchRmqVo9_neb2mQUc16ZD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "North Spine Food Hub",
+      "time": 1525603774,
+      "translated": false
+    },
+    {
+      "author_name": "Weilin Wang",
+      "author_url": "https://www.google.com/maps/contrib/101618300544271331546/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8QM9SRj65i8xYEY-0EEiUIdPyobM_NeTuY1Hye_ocgwIlag=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563462543,
+      "translated": false
+    },
+    {
+      "author_name": "Muru gan",
+      "author_url": "https://www.google.com/maps/contrib/104421009682433030830/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFU7ZQTIJzgOEfMDLBTNtoWqIZBROafn11OqeP3TESia7qNjvO=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522298355,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12229757379494866039",
+  "user_ratings_total": 3,
+  "vicinity": "76 Nanyang Drive, Block N 2.1 Level B1"
+}

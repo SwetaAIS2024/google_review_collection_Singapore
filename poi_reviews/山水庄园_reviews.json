@@ -1,0 +1,28 @@
+{
+  "formatted_address": "42 Jln Lokam, Singapore 537880",
+  "geometry": {
+    "location": {
+      "lat": 1.3467232,
+      "lng": 103.8844606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348098130291502,
+        "lng": 103.8857271802915
+      },
+      "southwest": {
+        "lat": 1.345400169708498,
+        "lng": 103.8830292197085
+      }
+    }
+  },
+  "name": "山水庄园",
+  "place_id": "ChIJZ2rZFgAX2jERAb-6LhRZ-jM",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3745403983330197249",
+  "vicinity": "42 Jalan Lokam, Singapore"
+}

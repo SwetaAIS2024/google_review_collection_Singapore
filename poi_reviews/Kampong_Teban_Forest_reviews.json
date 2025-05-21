@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Sengkang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3806434,
+      "lng": 103.9073305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381487730291502,
+        "lng": 103.9085049302915
+      },
+      "southwest": {
+        "lat": 1.378789769708498,
+        "lng": 103.9058069697085
+      }
+    }
+  },
+  "name": "Kampong Teban Forest",
+  "place_id": "ChIJ_807hlcX2jERVjVFOXWUpdA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Constantin Zhukov",
+      "author_url": "https://www.google.com/maps/contrib/108989207217759345404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlYI0ScBJMZ3FjvcV1i2Hdv0M60LSWvubhpQN21b-YjNGIaQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Beautiful piece of wilderness with views of Sengkang Estate. Trail is extremely muddy and wet, so be prepared to get dirty.",
+      "time": 1693236533,
+      "translated": false
+    },
+    {
+      "author_name": "Arnold Yeo",
+      "author_url": "https://www.google.com/maps/contrib/117811916041203639948/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUHNUSvrKZOG5dfmcsm-vfUafQuwQGzXlkomedXIVDNn79TrzQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "The east of original Raul Corridor type of trail",
+      "time": 1718943126,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15034586162239190358",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

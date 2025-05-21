@@ -1,0 +1,30 @@
+{
+  "formatted_address": "80 Marine Parade Road #B1 - 156/157/158 Parkway Parade, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302973680291502,
+        "lng": 103.9067344302915
+      },
+      "southwest": {
+        "lat": 1.300275719708498,
+        "lng": 103.9040364697085
+      }
+    }
+  },
+  "name": "Dr. Gabriel Tan Lye Heng",
+  "place_id": "ChIJM-vDkpMZ2jEROKtKxbewwB8",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2288022914039720760",
+  "vicinity": "80 Marine Parade Road #B1 - 156/157/158 Parkway Parade"
+}

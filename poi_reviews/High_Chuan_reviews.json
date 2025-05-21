@@ -1,0 +1,68 @@
+{
+  "formatted_address": "96 Punggol Dr., #01-15, Singapore 828797",
+  "geometry": {
+    "location": {
+      "lat": 1.3976159,
+      "lng": 103.9177172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398885230291502,
+        "lng": 103.9190195802915
+      },
+      "southwest": {
+        "lat": 1.396187269708498,
+        "lng": 103.9163216197085
+      }
+    }
+  },
+  "name": "High Chuan",
+  "place_id": "ChIJMYUMdZU92jER9zfygx8fx7U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "RenoMakeOver Sg",
+      "author_url": "https://www.google.com/maps/contrib/104913343945240880102/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzwCuTzw8ajPMyEp1xeUwSMrAPHqH9bX2L0HCp_N9Z_BVlnw6d=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Food was fast and hot. I like spicy chicken breast and pork belly! Portion is big.",
+      "time": 1747330815,
+      "translated": false
+    },
+    {
+      "author_name": "trenton leo",
+      "author_url": "https://www.google.com/maps/contrib/109529055337470524738/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhPlu6xl5Ya8ZtG-mmPPlj2mTDKQDjR72S_JeIRLI2q7D-nA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "awesome food with reasonable pricing, as well as free drinks! overall, food was amazing with perfect seasoning and size!",
+      "time": 1747301496,
+      "translated": false
+    },
+    {
+      "author_name": "evonne yang",
+      "author_url": "https://www.google.com/maps/contrib/118269955949120263587/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4apFBGBZexWA17jBoCHkIMVvLXQIpIemm-Z9r7cVmMto0DQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747300734,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13098472261448513527",
+  "user_ratings_total": 3,
+  "vicinity": "96 Punggol Drive, #01-15"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318686,
+      "lng": 103.720428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320037730291502,
+        "lng": 103.7217402802915
+      },
+      "southwest": {
+        "lat": 1.317339769708498,
+        "lng": 103.7190423197085
+      }
+    }
+  },
+  "name": "Sin Soon Huat",
+  "place_id": "ChIJVZ32zFEF2jER_nqYr6xb-d0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15994916348821535486",
+  "vicinity": "Singapore"
+}

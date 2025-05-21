@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.41288,
+      "lng": 103.8381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.414202930291502,
+        "lng": 103.8394568302915
+      },
+      "southwest": {
+        "lat": 1.411504969708498,
+        "lng": 103.8367588697085
+      }
+    }
+  },
+  "name": "Blk 871, Along Yishun Ave 1",
+  "place_id": "ChIJu2MA2xAU2jERBi3b-Xu3EPg",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Kinsoon Ang",
+      "author_url": "https://www.google.com/maps/contrib/110247625931813071400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt6wgDrIE0m4P8dUIq3EMhnfTs4NpB1qNCLmiviw7khXC-7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1651973551,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17874988664134249734",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

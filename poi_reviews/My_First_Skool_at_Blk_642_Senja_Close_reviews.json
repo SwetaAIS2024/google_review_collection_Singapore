@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Blk 642 Senja Close, Senja Rd, Singapore 670642",
+  "geometry": {
+    "location": {
+      "lat": 1.3874278,
+      "lng": 103.7622425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388801830291502,
+        "lng": 103.7635238802915
+      },
+      "southwest": {
+        "lat": 1.386103869708498,
+        "lng": 103.7608259197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 642 Senja Close",
+  "place_id": "ChIJ6cbPY7gR2jERIkD445JYLmU",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Rie Huang",
+      "author_url": "https://www.google.com/maps/contrib/105949012761277326200/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs6BvIEE7qXHgszuE1kXZNncXda2UstcZCTkg0jNVjPI2aBw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "N1 Very often HFMD. N2 sometimes. With spread of 8-9 students each wave. Unsure of actual sanitary condition or health check leniency. Curriculum is ok. Good field trip places. Depends on what you want for your child in their important years of growing up. You can pay the same for other centres with more facilities.",
+      "time": 1726891600,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7290862234672578594",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 642 Senja Close, Senja Road"
+}

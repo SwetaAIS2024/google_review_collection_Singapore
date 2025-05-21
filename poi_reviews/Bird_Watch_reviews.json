@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Yishun, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4001759,
+      "lng": 103.8201762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401718680291502,
+        "lng": 103.8221709802915
+      },
+      "southwest": {
+        "lat": 1.399020719708498,
+        "lng": 103.8194730197085
+      }
+    }
+  },
+  "name": "Bird Watch",
+  "place_id": "ChIJ1QgzFQAR2jERj7Ite2IxaRg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "🦅🐦‍⬛🦜Located along the Springleaf Nature Park Connector is an elevated Bird Watch deck where you can stop by, climb up the stairs, listen to the bird calls more intensely, admire the lush greenery and immerse in the great nature. 🍂🍀🍁",
+      "time": 1734445082,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1758991428508037775",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

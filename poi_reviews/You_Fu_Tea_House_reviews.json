@@ -1,0 +1,45 @@
+{
+  "formatted_address": "254 Jurong East St 24, Singapore 600254",
+  "geometry": {
+    "location": {
+      "lat": 1.3434637,
+      "lng": 103.7379182
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344966730291502,
+        "lng": 103.7392066802915
+      },
+      "southwest": {
+        "lat": 1.342268769708498,
+        "lng": 103.7365087197085
+      }
+    }
+  },
+  "name": "You Fu Tea House",
+  "place_id": "ChIJZZZoqxkQ2jERF-lGLn_JjqY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Marcus Goh",
+      "author_url": "https://www.google.com/maps/contrib/105182234976754893762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj43ufHYDqH445kafVqamAu1Rwq2ESoPhUs2MB8BinKz5anesl=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Decent coffee, good price.",
+      "time": 1654899779,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12001751605063379223",
+  "user_ratings_total": 1,
+  "vicinity": "254 Jurong East Street 24"
+}

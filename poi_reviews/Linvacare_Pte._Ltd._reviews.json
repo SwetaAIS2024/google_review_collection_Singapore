@@ -1,0 +1,30 @@
+{
+  "formatted_address": "865 Mountbatten Rd, Singapore 437839",
+  "geometry": {
+    "location": {
+      "lat": 1.3037031,
+      "lng": 103.9011097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305091480291502,
+        "lng": 103.9025201302915
+      },
+      "southwest": {
+        "lat": 1.302393519708497,
+        "lng": 103.8998221697085
+      }
+    }
+  },
+  "name": "Linvacare Pte. Ltd.",
+  "place_id": "ChIJr1DkRLkZ2jERxh2UR11QG8A",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13842746241216421318",
+  "vicinity": "865 Mountbatten Road, Singapore"
+}

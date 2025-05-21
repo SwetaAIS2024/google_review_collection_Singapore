@@ -1,0 +1,52 @@
+{
+  "formatted_address": "231 Bain St, #03-41, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.297126,
+      "lng": 103.8532867
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298536930291502,
+        "lng": 103.8545575802915
+      },
+      "southwest": {
+        "lat": 1.295838969708498,
+        "lng": 103.8518596197085
+      }
+    }
+  },
+  "name": "Fine Arts Development Global",
+  "place_id": "ChIJj1Xw4KQZ2jER5TKRGQsH4bU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Denice Liu",
+      "author_url": "https://www.google.com/maps/contrib/118230404916541027967/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGJlGIA-a001RMfn1XvDHx5xz7p0YYgMcad44QQ2SevHOZhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517057260,
+      "translated": false
+    },
+    {
+      "author_name": "禄亮",
+      "author_url": "https://www.google.com/maps/contrib/112872347920311644868/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL32F5ax8ZVgbzMUu2cNW2u31USLLq2woVID4qQIED-qxVw-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515043685,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13105764134879834853",
+  "user_ratings_total": 2,
+  "vicinity": "231 Bain Street, #03-41"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Ang Mo Kio Drive, #01-14/29, ITE, College Central, Block A - Campus Centre, Singapore 567720",
+  "geometry": {
+    "location": {
+      "lat": 1.376619,
+      "lng": 103.8569236
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377887480291502,
+        "lng": 103.8582959802915
+      },
+      "southwest": {
+        "lat": 1.375189519708498,
+        "lng": 103.8555980197085
+      }
+    }
+  },
+  "name": "The Food Hive",
+  "place_id": "ChIJHW08AAAX2jERxyUDiSMZuBw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2069431669189977543",
+  "vicinity": "2 Ang Mo Kio Drive, #01-14/29, ITE, College Central, Block A - Campus Centre, Singapore"
+}

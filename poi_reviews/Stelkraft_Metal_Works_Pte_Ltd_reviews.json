@@ -1,0 +1,63 @@
+{
+  "formatted_address": "9A Benoi Sector, Singapore 629862",
+  "geometry": {
+    "location": {
+      "lat": 1.320279,
+      "lng": 103.6840472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321629030291502,
+        "lng": 103.6852753802915
+      },
+      "southwest": {
+        "lat": 1.318931069708498,
+        "lng": 103.6825774197085
+      }
+    }
+  },
+  "name": "Stelkraft Metal Works Pte Ltd",
+  "place_id": "ChIJ0WSsYHgF2jEREfKaZegqFiA",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Andrew Sew",
+      "author_url": "https://www.google.com/maps/contrib/115790404198117469482/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH7WKGbOVMef9xNlbXahfDuQ9SE1ZWsJoKsJsocEE2F9d31_RrRg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Commercial building",
+      "time": 1517105942,
+      "translated": false
+    },
+    {
+      "author_name": "Xuecheng Zhou",
+      "author_url": "https://www.google.com/maps/contrib/105411609687496832859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXON4nmW_NqHU_32JktIWgrv3tkKUok2Qn_tF04x0Q7bbnvwzNy=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564381532,
+      "translated": false
+    },
+    {
+      "author_name": "Vincent Li",
+      "author_url": "https://www.google.com/maps/contrib/102326802324752294509/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMZp7G2095S916nBaCfnCT9h2zyn_w2V2DSBO3SQyPzgN2Duw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521792845,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2312082636326760977",
+  "user_ratings_total": 3,
+  "vicinity": "9A Benoi Sector, Singapore"
+}

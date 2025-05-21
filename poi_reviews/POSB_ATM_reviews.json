@@ -1,0 +1,65 @@
+{
+  "formatted_address": "370F Alexandra Rd, Singapore 159959",
+  "geometry": {
+    "location": {
+      "lat": 1.2870141,
+      "lng": 103.8042314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288092130291502,
+        "lng": 103.8053217802915
+      },
+      "southwest": {
+        "lat": 1.285394169708498,
+        "lng": 103.8026238197085
+      }
+    }
+  },
+  "name": "POSB ATM",
+  "place_id": "ChIJ9_Xif8sb2jER9BjPEPnd94o",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jack",
+      "author_url": "https://www.google.com/maps/contrib/109869422648472069453/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzYm78I-h-Ca7qw1yD8i3I8bvk-0VZYUglEPYnw7zqKfMujBTo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Machine not working and they removed the one at Queensway shopping mall too",
+      "time": 1737713853,
+      "translated": false
+    },
+    {
+      "author_name": "Kilian Schmidt",
+      "author_url": "https://www.google.com/maps/contrib/101480684397965563703/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVbljpSnfcp3n_lqduvGLCGL5MG_o26Ba6Cj2VLpsBxd9bhS0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712218118,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Darren",
+      "author_url": "https://www.google.com/maps/contrib/114638029351324245645/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT-r4azspPxkV_F_Bes8fG2iZg3uHOu1TTN-svshgpYKMmLQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656572190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10013716358280190196",
+  "user_ratings_total": 3,
+  "vicinity": "370F Alexandra Road"
+}

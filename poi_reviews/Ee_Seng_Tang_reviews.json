@@ -1,0 +1,44 @@
+{
+  "formatted_address": "524A Jelapang Rd, #02-12, Singapore 671524",
+  "geometry": {
+    "location": {
+      "lat": 1.3853755,
+      "lng": 103.7663006
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386711030291502,
+        "lng": 103.7676747302915
+      },
+      "southwest": {
+        "lat": 1.384013069708498,
+        "lng": 103.7649767697085
+      }
+    }
+  },
+  "name": "Ee Seng Tang",
+  "place_id": "ChIJF9AEVJgR2jER_C8WczpLGtE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Clarence",
+      "author_url": "https://www.google.com/maps/contrib/106176008716217899750/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhv6PD3_tYTWT7H1V7TF7ndH08b9WL54JY1kVU1nxhOk2g0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747447179,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15067438217732435964",
+  "user_ratings_total": 1,
+  "vicinity": "524A Jelapang Road, #02-12"
+}

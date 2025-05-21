@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.312009,
+      "lng": 103.65863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313330130291502,
+        "lng": 103.6599529302915
+      },
+      "southwest": {
+        "lat": 1.310632169708498,
+        "lng": 103.6572549697085
+      }
+    }
+  },
+  "name": "Opp Jurong Insp Ctr",
+  "place_id": "ChIJSyFrOusF2jERqb6nzd9vYtA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15015687114625367721",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "6 Napier Rd, #04-16 Gleneagles Hospital, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3071846,
+      "lng": 103.8202666
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308587630291502,
+        "lng": 103.8215623802915
+      },
+      "southwest": {
+        "lat": 1.305889669708498,
+        "lng": 103.8188644197085
+      }
+    }
+  },
+  "name": "Roger Kidney Clinic",
+  "place_id": "ChIJ1-H_JyAa2jERM_5PDmYpLX8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Deepak S",
+      "author_url": "https://www.google.com/maps/contrib/117349096732175036696/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaBU20t3wHdxKaF2hayC2avH8XqxZ_mlrp2lnjTExEzPcs9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1684196720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9164026335072353843",
+  "user_ratings_total": 1,
+  "vicinity": "6 Napier Road, #04-16 Gleneagles Hospital"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "304 Orchard Rd, #150 Lucky Plaza, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.3045649,
+      "lng": 103.8339296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306046430291502,
+        "lng": 103.8354215302915
+      },
+      "southwest": {
+        "lat": 1.303348469708498,
+        "lng": 103.8327235697085
+      }
+    }
+  },
+  "name": "Laura's Trading",
+  "place_id": "ChIJo1p0cpIZ2jERrPrRpaGyBSQ",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2595677167590439596",
+  "vicinity": "304 Orchard Road, #150 Lucky Plaza"
+}

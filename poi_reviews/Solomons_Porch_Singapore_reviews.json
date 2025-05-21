@@ -1,0 +1,53 @@
+{
+  "formatted_address": "405 Havelock Rd, Singapore 169633",
+  "geometry": {
+    "location": {
+      "lat": 1.2876551,
+      "lng": 103.8360934
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289151580291502,
+        "lng": 103.8374797802915
+      },
+      "southwest": {
+        "lat": 1.286453619708498,
+        "lng": 103.8347818197085
+      }
+    }
+  },
+  "name": "Solomon's Porch Singapore",
+  "place_id": "ChIJw9o5dYoZ2jERX1lrnDynXIg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Katherine Ng",
+      "author_url": "https://www.google.com/maps/contrib/109136998025626931421/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAY4ZOifKsSlx5CgShe-fkeDg5rMEo__frn1QDaenhe6EyCaBo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678350547,
+      "translated": false
+    },
+    {
+      "author_name": "Lourence 07",
+      "author_url": "https://www.google.com/maps/contrib/102423178841381244294/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2mrJOGCmyPsR2ZehqXJtfjmWhR95jmVYVC0sPyjmpFcZzSseM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656987516,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9825912365779736927",
+  "user_ratings_total": 2,
+  "vicinity": "405 Havelock Road, Singapore"
+}

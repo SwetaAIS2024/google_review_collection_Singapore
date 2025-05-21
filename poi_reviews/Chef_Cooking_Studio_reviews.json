@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Smith St, Singapore 058944",
+  "geometry": {
+    "location": {
+      "lat": 1.2822923,
+      "lng": 103.8442567
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283666280291502,
+        "lng": 103.8455928802915
+      },
+      "southwest": {
+        "lat": 1.280968319708498,
+        "lng": 103.8428949197085
+      }
+    }
+  },
+  "name": "Chef Cooking Studio",
+  "place_id": "ChIJj1rkKHMZ2jEROgoX2sXoRMw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14719145418618767930",
+  "vicinity": "30 Smith Street, Singapore"
+}

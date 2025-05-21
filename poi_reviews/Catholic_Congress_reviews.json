@@ -1,0 +1,29 @@
+{
+  "formatted_address": "51 Hume Ave, Singapore 598750",
+  "geometry": {
+    "location": {
+      "lat": 1.356854,
+      "lng": 103.765427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358103780291502,
+        "lng": 103.7667615802915
+      },
+      "southwest": {
+        "lat": 1.355405819708498,
+        "lng": 103.7640636197085
+      }
+    }
+  },
+  "name": "Catholic Congress",
+  "place_id": "ChIJSXocRlAQ2jER3kOlbeIB3mI",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7124133732560487390",
+  "vicinity": "51 Hume Avenue"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Kaki Bukit Rd 1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3328015,
+      "lng": 103.9021622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333984680291502,
+        "lng": 103.9036883802915
+      },
+      "southwest": {
+        "lat": 1.331286719708498,
+        "lng": 103.9009904197085
+      }
+    }
+  },
+  "name": "Eunice Cuisine",
+  "place_id": "ChIJvY2fhfAX2jER-KcIldy85r8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13827947361466886136",
+  "vicinity": "Kaki Bukit Road 1"
+}

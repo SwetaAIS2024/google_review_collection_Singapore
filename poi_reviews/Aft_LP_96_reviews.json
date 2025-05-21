@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39858,
+      "lng": 103.699883
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399934780291502,
+        "lng": 103.7011993802915
+      },
+      "southwest": {
+        "lat": 1.397236819708498,
+        "lng": 103.6985014197085
+      }
+    }
+  },
+  "name": "Aft LP 96",
+  "place_id": "ChIJpRNJp3YO2jER9l_hugRyN6I",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "PounRaj",
+      "author_url": "https://www.google.com/maps/contrib/106559336649758661230/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzG7Xdd9GOSz6BpmJPA0Bnl75Rxu2S2q3us-fiHeuJPf97tMod=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Bus stop",
+      "time": 1644499136,
+      "translated": false
+    },
+    {
+      "author_name": "min aung kyaw",
+      "author_url": "https://www.google.com/maps/contrib/112929095286535446814/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_h6JmtKYoP6fnLPju9_tpRTgQInkt_hfnIWZ6rKJ0jbQ9kdM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741402659,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11688936722504179702",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

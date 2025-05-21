@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318612,
+      "lng": 103.648064
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319957630291502,
+        "lng": 103.6494165802915
+      },
+      "southwest": {
+        "lat": 1.317259669708498,
+        "lng": 103.6467186197085
+      }
+    }
+  },
+  "name": "Progress Galvanizing",
+  "place_id": "ChIJTWfaBvAF2jEREv8Z7w3_bE8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5723229661792173842",
+  "vicinity": "Singapore"
+}

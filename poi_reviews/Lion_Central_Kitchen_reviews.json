@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Jln Bahar, Singapore 649730",
+  "geometry": {
+    "location": {
+      "lat": 1.3592218,
+      "lng": 103.6941777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360581980291502,
+        "lng": 103.6955574302915
+      },
+      "southwest": {
+        "lat": 1.357884019708498,
+        "lng": 103.6928594697085
+      }
+    }
+  },
+  "name": "Lion Central Kitchen",
+  "place_id": "ChIJK5zX4bEP2jERY8MbIaz8SZs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "พิศาล เอื้อศิริคูณ",
+      "author_url": "https://www.google.com/maps/contrib/114917661641781247939/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaWKDUECPPBvi88VxSjhhCbfzDkfjb_EoHGegEyaTB5Ivxnub0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732638084,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11189752565398750051",
+  "user_ratings_total": 1,
+  "vicinity": "Jalan Bahar"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1000 Upper Changi Rd N, Singapore 507707",
+  "geometry": {
+    "location": {
+      "lat": 1.362182,
+      "lng": 103.974029
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363735130291502,
+        "lng": 103.9752498302915
+      },
+      "southwest": {
+        "lat": 1.361037169708498,
+        "lng": 103.9725518697085
+      }
+    }
+  },
+  "name": "IVenture Card Singapore - The Changi Museum",
+  "place_id": "ChIJW79ewPc82jERakrFdh_W9qg",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12175154073267685994",
+  "vicinity": "1000 Upper Changi Road North"
+}

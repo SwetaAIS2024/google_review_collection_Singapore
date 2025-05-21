@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.36,
+      "lng": 103.96486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361341830291502,
+        "lng": 103.9662073302915
+      },
+      "southwest": {
+        "lat": 1.358643869708498,
+        "lng": 103.9635093697085
+      }
+    }
+  },
+  "name": "Before Avila Gdns, Flora Rd",
+  "place_id": "ChIJKRiR6_482jERxNZ9BrB59Ao",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=789389631626794692",
+  "vicinity": "Singapore"
+}

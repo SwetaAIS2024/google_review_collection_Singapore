@@ -1,0 +1,56 @@
+{
+  "formatted_address": "50 Serangoon North Ave 4, Singapore 555856",
+  "geometry": {
+    "location": {
+      "lat": 1.3756417,
+      "lng": 103.8762732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377018030291502,
+        "lng": 103.8777997802915
+      },
+      "southwest": {
+        "lat": 1.374320069708498,
+        "lng": 103.8751018197085
+      }
+    }
+  },
+  "name": "New Hope Mixed Rice 兴旺什菜饭",
+  "place_id": "ChIJY6ZUSuEX2jER0sy3UHQY8KA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "kenneth wong",
+      "author_url": "https://www.google.com/maps/contrib/102621860465848858390/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyCQYySSuvOwoh9vvYXnURVRsI_RH34D7HcILEm-9McyhWSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The food is nice and many choices 😋",
+      "time": 1683345974,
+      "translated": false
+    },
+    {
+      "author_name": "PS Ding",
+      "author_url": "https://www.google.com/maps/contrib/113341832891487469039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYyIFOYt5l8CLoC82R92-b28tBz1PU4eLMR6rlyZZZUdsM7n5f=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683345852,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11596795928328522962",
+  "user_ratings_total": 2,
+  "vicinity": "50 Serangoon North Avenue 4, Singapore"
+}

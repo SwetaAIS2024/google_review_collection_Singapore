@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379094,
+      "lng": 103.827591
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380450880291502,
+        "lng": 103.8289558302915
+      },
+      "southwest": {
+        "lat": 1.377752919708498,
+        "lng": 103.8262578697085
+      }
+    }
+  },
+  "name": "Opp Meadows @ Peirce",
+  "place_id": "ChIJtTkZX8kW2jERm01nzy_DFp8",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "This stop near Thomson park",
+      "time": 1654399858,
+      "translated": false
+    },
+    {
+      "author_name": "Tang Zheng Sim",
+      "author_url": "https://www.google.com/maps/contrib/103011184172890031856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVizrRmXqXs7qpoFlVvdiwlKhjkUAy-BDJ-UADkFybJARB-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724896643,
+      "translated": false
+    },
+    {
+      "author_name": "Girlie Gorgonio",
+      "author_url": "https://www.google.com/maps/contrib/103013006379048537455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqv6fZH31s0GjV-VahQ20aN8t0Vg3gZ-UF4qAXs7ZLMTztpA8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655689031,
+      "translated": false
+    },
+    {
+      "author_name": "A3 K8",
+      "author_url": "https://www.google.com/maps/contrib/117065196854160529320/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgqPbshad2SYeo8m1v7VFm6oN9mOoT5stsk6YueRnwM8mLnsuNYg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655464343,
+      "translated": false
+    },
+    {
+      "author_name": "Manlove Man",
+      "author_url": "https://www.google.com/maps/contrib/113464800854245644827/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTJV8-sJuKI1M6Al2VkAxMPSfiIKXA7gewlNW_NnMVgyFgvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548092291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11463564511628709275",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

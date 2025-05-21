@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338607,
+      "lng": 103.911499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339976230291502,
+        "lng": 103.9128380802915
+      },
+      "southwest": {
+        "lat": 1.337278269708498,
+        "lng": 103.9101401197085
+      }
+    }
+  },
+  "name": "Bartley Biz Ctr",
+  "place_id": "ChIJIzjVTOIX2jER2tS4CJYmAL8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hashim Husin",
+      "author_url": "https://www.google.com/maps/contrib/103816564135518969773/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVGGzF8oOLUVKnsS41n1qkGk9kdcXIgJN2yXcSSdvWw5aUL0ljeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1525406944,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13763042887077516506",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

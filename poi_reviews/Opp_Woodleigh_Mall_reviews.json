@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338895,
+      "lng": 103.872696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340215280291502,
+        "lng": 103.8739981802915
+      },
+      "southwest": {
+        "lat": 1.337517319708498,
+        "lng": 103.8713002197085
+      }
+    }
+  },
+  "name": "Opp Woodleigh Mall",
+  "place_id": "ChIJKQZKaZwX2jER94uMlSj0Cf0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18233373021531048951",
+  "vicinity": "Singapore"
+}

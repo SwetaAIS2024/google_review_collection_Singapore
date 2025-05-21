@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296737,
+      "lng": 103.766914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298081280291502,
+        "lng": 103.7683014302915
+      },
+      "southwest": {
+        "lat": 1.295383319708498,
+        "lng": 103.7656034697085
+      }
+    }
+  },
+  "name": "Waseda S Snr High Sch",
+  "place_id": "ChIJv4RCqfsa2jERYy2kw8IQc3E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Abdul Rahman Obayadulla",
+      "author_url": "https://www.google.com/maps/contrib/103198943517227324430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIABiCnfihFuCHKT_mDnzBBowAXMhj33UO-6vSZqRNQ0tdzJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1634780443,
+      "translated": false
+    },
+    {
+      "author_name": "awadh chaudhary",
+      "author_url": "https://www.google.com/maps/contrib/116717651229791698314/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsz-DL8ZLKt_iSBi7ih9Bb_9YEVjzp2YSAjgFuC1YYe1-K4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489624907,
+      "translated": false
+    },
+    {
+      "author_name": "shiva prakash",
+      "author_url": "https://www.google.com/maps/contrib/113162096591154132603/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYMHkUtSoYqf9BLmOV9Fi4t7DjtENZ4YBRsDJXfN4eE3hBig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477493809,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8174896177299598691",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

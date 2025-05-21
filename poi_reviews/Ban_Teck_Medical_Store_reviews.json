@@ -1,0 +1,30 @@
+{
+  "formatted_address": "14 Beach Rd, Singapore 190014",
+  "geometry": {
+    "location": {
+      "lat": 1.3040248,
+      "lng": 103.8632267
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305411180291502,
+        "lng": 103.8646394302915
+      },
+      "southwest": {
+        "lat": 1.302713219708498,
+        "lng": 103.8619414697085
+      }
+    }
+  },
+  "name": "Ban Teck Medical Store",
+  "place_id": "ChIJ37pdFLQZ2jERKei4odmYCXU",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8433439837716539433",
+  "vicinity": "14 Beach Road, Singapore"
+}

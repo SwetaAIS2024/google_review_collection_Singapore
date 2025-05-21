@@ -1,0 +1,55 @@
+{
+  "formatted_address": "49 Tuas South Ave 1, Singapore 637250",
+  "geometry": {
+    "location": {
+      "lat": 1.3182716,
+      "lng": 103.6287964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319652130291502,
+        "lng": 103.6300573302915
+      },
+      "southwest": {
+        "lat": 1.316954169708498,
+        "lng": 103.6273593697085
+      }
+    }
+  },
+  "name": "Eeloong Engineering Pte Ltd",
+  "place_id": "ChIJBetxmewF2jERQPbVkTZiL9w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Boli Cat",
+      "author_url": "https://www.google.com/maps/contrib/104746060285390604111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-aFJ6OQeP02eQcXF3B23sJ0k4M87iKitsuxtn8bI6DB1AyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Provide mechanical & electrical technical services. Able to design, fabricate, install and commissioning.\nThis company also venture into Solar Energy.\nSatisfied with the services provided.",
+      "time": 1553070686,
+      "translated": false
+    },
+    {
+      "author_name": "Bean Lee",
+      "author_url": "https://www.google.com/maps/contrib/114505289081143201597/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOuaFj21Di3jEepqSHBC9bVDotZ6gi3f1eCUcTTKUbCO02LQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Very good service",
+      "time": 1553436859,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15866007998764021312",
+  "user_ratings_total": 2,
+  "vicinity": "49 Tuas South Avenue 1"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Bedok S Rd, Block 18, Singapore 460018",
+  "geometry": {
+    "location": {
+      "lat": 1.3205036,
+      "lng": 103.9347465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321546280291502,
+        "lng": 103.9361106302915
+      },
+      "southwest": {
+        "lat": 1.318848319708497,
+        "lng": 103.9334126697085
+      }
+    }
+  },
+  "name": "Kopi Kia",
+  "place_id": "ChIJaeIPYrYi2jERSTaHd45lnrU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Joo Goh",
+      "author_url": "https://www.google.com/maps/contrib/114488259683915350290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9vYSTgo2oAXfVaAb95bikji8FeRIVLP-PIlO7gVzF2YeQqm2q6Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Better food now. The price of a cuppa has increased from 90 cents to $1.10 now. Expected as there are now more food choices.",
+      "time": 1618899786,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13087009229750351433",
+  "user_ratings_total": 1,
+  "vicinity": "Bedok South Road, Block 18, Singapore"
+}

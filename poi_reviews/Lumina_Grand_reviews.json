@@ -1,0 +1,63 @@
+{
+  "formatted_address": "7 Bukit Batok West Ave. 5, Singapore 659771",
+  "geometry": {
+    "location": {
+      "lat": 1.3600907,
+      "lng": 103.7410972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361355780291502,
+        "lng": 103.7423844302915
+      },
+      "southwest": {
+        "lat": 1.358657819708498,
+        "lng": 103.7396864697085
+      }
+    }
+  },
+  "name": "Lumina Grand",
+  "place_id": "ChIJV6bV6lcR2jERwpYM_IliMso",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Shahadat Hossain",
+      "author_url": "https://www.google.com/maps/contrib/109943034320814940695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR_oIOPpZUmb9gCPsSe7ubr-QxHN6-IE8ljltZMAgnjtvmTl4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Nice",
+      "time": 1744604262,
+      "translated": false
+    },
+    {
+      "author_name": "Rana Das",
+      "author_url": "https://www.google.com/maps/contrib/114835256992478770480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgiklZrGWDRt38TpDG-fuz2nj4vfCfXZF0caVOg4YIqGpNxKte=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743565464,
+      "translated": false
+    },
+    {
+      "author_name": "Karen Gan",
+      "author_url": "https://www.google.com/maps/contrib/116263188825859750108/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7JTYFjeDKfz0ehWUhtKJB1xxfjIkPoPnN684ZqPvCSjJQQg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709534106,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14569816089275700930",
+  "user_ratings_total": 3,
+  "vicinity": "7 Bukit Batok West Avenue 5, Singapore"
+}

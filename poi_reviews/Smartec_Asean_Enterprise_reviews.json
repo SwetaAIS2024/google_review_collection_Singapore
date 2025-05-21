@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Ubi Cres, Singapore 408558",
+  "geometry": {
+    "location": {
+      "lat": 1.3260059,
+      "lng": 103.8940574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327382280291502,
+        "lng": 103.8954902802915
+      },
+      "southwest": {
+        "lat": 1.324684319708498,
+        "lng": 103.8927923197085
+      }
+    }
+  },
+  "name": "Smartec Asean Enterprise",
+  "place_id": "ChIJdW2w1B8Y2jERQ-5bSdjxxV8",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6901187915261144643",
+  "vicinity": "3 Ubi Crescent"
+}

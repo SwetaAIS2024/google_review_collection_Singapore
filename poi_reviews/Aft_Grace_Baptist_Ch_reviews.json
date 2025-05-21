@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3252673,
+      "lng": 103.8819424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326650480291502,
+        "lng": 103.8832929802915
+      },
+      "southwest": {
+        "lat": 1.323952519708498,
+        "lng": 103.8805950197085
+      }
+    }
+  },
+  "name": "Aft Grace Baptist Ch",
+  "place_id": "ChIJST7wmCcY2jERhuUe0N_ep6Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Aryan Bhatia",
+      "author_url": "https://www.google.com/maps/contrib/104705095746331056197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1R2FXX_1CBN_k_gkPaVvELYJdapQKCXKVWAXgFUW-YRAeK4l7pg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Thankfully there is a bus stop here making it easy to go from one place to another",
+      "time": 1532168532,
+      "translated": false
+    },
+    {
+      "author_name": "librakutty",
+      "author_url": "https://www.google.com/maps/contrib/109459827952636318806/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhCBFB7XKq36Z_Of5tMYT7elMXfXDfuMG6Nl_ltjiXmh1PQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492598025,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12008811984257475974",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,68 @@
+{
+  "formatted_address": "2 Kallang Ave, #07-09 CT Hub, Singapore 339407",
+  "geometry": {
+    "location": {
+      "lat": 1.3123731,
+      "lng": 103.8629682
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313812530291502,
+        "lng": 103.8644038802915
+      },
+      "southwest": {
+        "lat": 1.311114569708498,
+        "lng": 103.8617059197085
+      }
+    }
+  },
+  "name": "Hopsfield Art",
+  "place_id": "ChIJsdAu7yQZ2jERoeghyeImhvA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "tammy gray",
+      "author_url": "https://www.google.com/maps/contrib/106505741814194753026/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJllDlEhqYspbtS7CJIcKCFQjpCMyxPH-Di89_dHt6c9TpnzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Fine quality artworks curated at this exhibition. This is a cool space for emerging and establishing artists to showcase their artworks.",
+      "time": 1729342762,
+      "translated": false
+    },
+    {
+      "author_name": "Raj Kamal",
+      "author_url": "https://www.google.com/maps/contrib/100573332531382732372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOxbq_SIF-mQN1JNOclym8C18f1hLqDVDa0TPvHhGOBs6arQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Great exhibition. Very classy. And curator, Raymond Yap's excellent exhibition design.",
+      "time": 1729322372,
+      "translated": false
+    },
+    {
+      "author_name": "Tony Benn",
+      "author_url": "https://www.google.com/maps/contrib/110343092280277615103/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNI6QzeGuwxgoY0wZ3Fm9C3bVneuztguQOgWJije05u9Fl4yM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "One of the best independent art galleries in Singapore.",
+      "time": 1741186839,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17331582971460839585",
+  "user_ratings_total": 3,
+  "vicinity": "2 Kallang Avenue, #07-09 CT Hub"
+}

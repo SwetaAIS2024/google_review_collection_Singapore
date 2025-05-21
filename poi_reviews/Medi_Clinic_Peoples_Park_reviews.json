@@ -1,0 +1,29 @@
+{
+  "formatted_address": "32 New Market Rd, #02-1038, Singapore 050032",
+  "geometry": {
+    "location": {
+      "lat": 1.2847915,
+      "lng": 103.8424432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286213080291502,
+        "lng": 103.8438808302915
+      },
+      "southwest": {
+        "lat": 1.283515119708498,
+        "lng": 103.8411828697085
+      }
+    }
+  },
+  "name": "Medi Clinic People's Park",
+  "place_id": "ChIJP36r4vYZ2jERl1husJDcd-s",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16967272635135056023",
+  "vicinity": "32 New Market Road, #02-1038, Singapore"
+}

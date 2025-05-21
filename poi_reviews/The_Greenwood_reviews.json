@@ -1,0 +1,81 @@
+{
+  "formatted_address": "245 Greenwood Ave, Singapore 286882",
+  "geometry": {
+    "location": {
+      "lat": 1.3373615,
+      "lng": 103.804956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338677080291502,
+        "lng": 103.8062745302915
+      },
+      "southwest": {
+        "lat": 1.335979119708498,
+        "lng": 103.8035765697085
+      }
+    }
+  },
+  "name": "The Greenwood",
+  "place_id": "ChIJ54uKM7sQ2jERANpeJwTyki8",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Alvin Lim",
+      "author_url": "https://www.google.com/maps/contrib/106383803272605904467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD7nyuCAvXHnW7k7fPfQz_3bWtJ9aT4XHWrYqpSFw60UsZWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607579740,
+      "translated": false
+    },
+    {
+      "author_name": "Sunand Razu",
+      "author_url": "https://www.google.com/maps/contrib/108172693469776577408/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy1RotAXrHS03Iqtogd2kw8EiiHMR1dFkykBNtCHtTkxYoDF2c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1597653074,
+      "translated": false
+    },
+    {
+      "author_name": "Raja M",
+      "author_url": "https://www.google.com/maps/contrib/108786886232453479283/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwadjkqVZFBSDOnweizGxvu6TiTH5P2n5oKnHF9TLMwA_aNlqi=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555596930,
+      "translated": false
+    },
+    {
+      "author_name": "Benjaminwee Yeongwen",
+      "author_url": "https://www.google.com/maps/contrib/108994000763777887233/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFkqjrMbyRZMVe0vrOm9OephYPnEDxSMxj6r5FjlTtmoEHcPhG=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1549113419,
+      "translated": false
+    },
+    {
+      "author_name": "thomas yush",
+      "author_url": "https://www.google.com/maps/contrib/107520175069815996170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIud5RjXLY8_Pj06rNU84zHoSj2LaOr18FM35rHQz1OehlK6w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548512947,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3428068366036687360",
+  "user_ratings_total": 6,
+  "vicinity": "245 Greenwood Avenue, Singapore"
+}

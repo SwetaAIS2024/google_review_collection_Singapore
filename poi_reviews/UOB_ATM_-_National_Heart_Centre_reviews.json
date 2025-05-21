@@ -1,0 +1,55 @@
+{
+  "formatted_address": "5 Hospital Dr, Level 2B Atrium, National Heart Centre, Singapore 169609",
+  "geometry": {
+    "location": {
+      "lat": 1.2784935,
+      "lng": 103.8361514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279771980291502,
+        "lng": 103.8374491802915
+      },
+      "southwest": {
+        "lat": 1.277074019708498,
+        "lng": 103.8347512197085
+      }
+    }
+  },
+  "name": "UOB ATM - National Heart Centre",
+  "place_id": "ChIJC2Kqbc8Z2jER12wHpTG8L5o",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Wilson Tham",
+      "author_url": "https://www.google.com/maps/contrib/110823756334226105850/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB6WLtrYncdPcjSYDYxZquJTz7p4kxhq7FYl5sC4mHz4Ph1ynQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "unable to see any ATM at level 2 Heart centre",
+      "time": 1739959437,
+      "translated": false
+    },
+    {
+      "author_name": "Jon Tan",
+      "author_url": "https://www.google.com/maps/contrib/104448499521420171914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjjJFpFjSdPBnMPIPkuzpcg50jdLywfB6Pp1-pSaBs7APYQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737003869,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11110305727154449623",
+  "user_ratings_total": 2,
+  "vicinity": "5 Hospital Drive, Level 2B Atrium, National Heart Centre"
+}

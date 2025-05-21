@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Punggol Coast Road, #01-10, Block E4 SIT Punggol, Singapore 828608",
+  "geometry": {
+    "location": {
+      "lat": 1.4134743,
+      "lng": 103.9142449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.414570330291502,
+        "lng": 103.9157118302915
+      },
+      "southwest": {
+        "lat": 1.411872369708498,
+        "lng": 103.9130138697085
+      }
+    }
+  },
+  "name": "A Nasi Biryani Story",
+  "place_id": "ChIJX78uRwAV2jERfR4r6ZKRbCw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3201093495316749949",
+  "vicinity": "1 Punggol Coast Road, #01-10, Block E4 SIT Punggol, Singapore"
+}

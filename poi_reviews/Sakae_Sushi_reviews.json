@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 King Albert Park, #01-39, Singapore 598332",
+  "geometry": {
+    "location": {
+      "lat": 1.3370239,
+      "lng": 103.7794324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338490330291502,
+        "lng": 103.7809203302915
+      },
+      "southwest": {
+        "lat": 1.335792369708498,
+        "lng": 103.7782223697085
+      }
+    }
+  },
+  "name": "Sakae Sushi",
+  "place_id": "ChIJQ1XahcgR2jERXcsh5c8oe48",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10338902242926644061",
+  "vicinity": "9 King Albert Park, #01-39"
+}

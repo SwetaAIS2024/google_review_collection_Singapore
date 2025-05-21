@@ -1,0 +1,57 @@
+{
+  "formatted_address": "500 Upper Jurong Rd, Singapore 638364",
+  "geometry": {
+    "location": {
+      "lat": 1.3371499,
+      "lng": 103.6792683
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338598330291502,
+        "lng": 103.6806154302915
+      },
+      "southwest": {
+        "lat": 1.335900369708498,
+        "lng": 103.6779174697085
+      }
+    }
+  },
+  "name": "SAFTI MI Medical Centre",
+  "place_id": "ChIJtzj2e3cP2jERH6DZicV8Q5A",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jiashen Lim",
+      "author_url": "https://www.google.com/maps/contrib/113107300494282391339/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2Gg6gMQzCYRAPwqk0oKm2___qbMvduEnsdB0m00RqGZV7Mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Horrible planning. Had me come all the way down from Sengkang for an 830am appointment only for me to see a piece of paper on the guardroom glass saying ‘the dentist is not in, please reschedule your appointment’. Quite unacceptable in my opinion.",
+      "time": 1686895629,
+      "translated": false
+    },
+    {
+      "author_name": "Adam Faiq Ataillah Bin Nor Salman (Adam)",
+      "author_url": "https://www.google.com/maps/contrib/115247424092282446341/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUg3EV1gKBBTPVxVGubxMzjQuBj1ZLJaSyVR-rOJatG6l08K4NTPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The medics here are very helpful and makes patients feel very comfortable.",
+      "time": 1700448028,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10395289552764379167",
+  "user_ratings_total": 2,
+  "vicinity": "500 Upper Jurong Road"
+}

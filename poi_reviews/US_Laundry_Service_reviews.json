@@ -1,0 +1,28 @@
+{
+  "formatted_address": "557 Jurong West Street 42, Block 557, Singapore 640557",
+  "geometry": {
+    "location": {
+      "lat": 1.3540096,
+      "lng": 103.718815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355281330291502,
+        "lng": 103.7200638802915
+      },
+      "southwest": {
+        "lat": 1.352583369708498,
+        "lng": 103.7173659197085
+      }
+    }
+  },
+  "name": "US Laundry Service",
+  "place_id": "ChIJQyL36doP2jEROHVvtDHV0PA",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17352603773715838264",
+  "vicinity": "557 Jurong West Street 42, Block 557, Singapore"
+}

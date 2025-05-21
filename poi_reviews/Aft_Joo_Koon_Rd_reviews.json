@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326842,
+      "lng": 103.676643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328192880291502,
+        "lng": 103.6780208302915
+      },
+      "southwest": {
+        "lat": 1.325494919708498,
+        "lng": 103.6753228697085
+      }
+    }
+  },
+  "name": "Aft Joo Koon Rd",
+  "place_id": "ChIJqbdlTYcF2jERAMyFDatUIT0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4404895004188068864",
+  "vicinity": "Singapore"
+}

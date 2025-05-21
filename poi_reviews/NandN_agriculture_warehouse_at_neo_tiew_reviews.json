@@ -1,0 +1,62 @@
+{
+  "formatted_address": "21 Neo Tiew Lane 1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4157568,
+      "lng": 103.718621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417133130291502,
+        "lng": 103.7198886302915
+      },
+      "southwest": {
+        "lat": 1.414435169708498,
+        "lng": 103.7171906697085
+      }
+    }
+  },
+  "name": "N&N agriculture warehouse at neo tiew",
+  "place_id": "ChIJPX0GbZYN2jER4evFKSOJ10k",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "soh cheng chuan",
+      "author_url": "https://www.google.com/maps/contrib/106124140183836900914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWebK4s8kJEY0uCz-0FJBkMcXwqK_912QNn-kVZ_-T9Ubz1dguA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701321760,
+      "translated": false
+    },
+    {
+      "author_name": "chuah jack",
+      "author_url": "https://www.google.com/maps/contrib/115863763306380573899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoVdN2T3okaG1U1UncSX_YcFQ4CVDuQsmnlNf_PvQGMyxlqQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1644909017,
+      "translated": false
+    },
+    {
+      "author_name": "Koing Nio",
+      "author_url": "https://www.google.com/maps/contrib/105350351039771923673/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWA3VnQVczn492x5oiqHRQezrZe2PrB2iQbLg9CODl6TgvJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631774759,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5320872268879227873",
+  "user_ratings_total": 3,
+  "vicinity": "21 Neo Tiew Lane 1"
+}

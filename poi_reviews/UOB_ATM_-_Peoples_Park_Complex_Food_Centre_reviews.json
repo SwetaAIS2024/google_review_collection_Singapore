@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Blk 32 New Market Rd, #01-K2 Food Centre, People's Park Complex, Singapore 050032",
+  "geometry": {
+    "location": {
+      "lat": 1.2841977,
+      "lng": 103.8425488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285394230291502,
+        "lng": 103.8440770802915
+      },
+      "southwest": {
+        "lat": 1.282696269708498,
+        "lng": 103.8413791197085
+      }
+    }
+  },
+  "name": "UOB ATM - People's Park Complex Food Centre",
+  "place_id": "ChIJUSfM53EZ2jERK5Q_mDeXDw8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "snap ple",
+      "author_url": "https://www.google.com/maps/contrib/114934933704289940900/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4G8agAilLj48aGWhbrOYJ5NznWM2gGnvUQriDZpjtAJ6COg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642211241,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1085252300252877867",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 32 New Market Road, #01-K2 Food Centre, People's Park Complex"
+}

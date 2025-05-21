@@ -1,0 +1,44 @@
+{
+  "formatted_address": "4 Tampines Central 5, Singapore 529510",
+  "geometry": {
+    "location": {
+      "lat": 1.3525,
+      "lng": 103.9442258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354000330291502,
+        "lng": 103.9455648802915
+      },
+      "southwest": {
+        "lat": 1.351302369708498,
+        "lng": 103.9428669197085
+      }
+    }
+  },
+  "name": "Open Plaza",
+  "place_id": "ChIJu9VOMAA92jERXsY61qDcn6E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "William Win",
+      "author_url": "https://www.google.com/maps/contrib/113455741713196742765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMfEsAPuGmQ3UF8foiOfUdT3hM8R2IjCgYQbNClFBQe06dRUEk=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "A nice and cool place to take a break after stretch of shopping in the Mall.",
+      "time": 1728520377,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11646269744750446174",
+  "user_ratings_total": 1,
+  "vicinity": "4 Tampines Central 5, Singapore"
+}

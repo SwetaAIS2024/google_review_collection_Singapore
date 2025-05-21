@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333462,
+      "lng": 103.9042128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334848280291502,
+        "lng": 103.9055324802915
+      },
+      "southwest": {
+        "lat": 1.332150319708498,
+        "lng": 103.9028345197085
+      }
+    }
+  },
+  "name": "Kaki Bt Ind Est",
+  "place_id": "ChIJ0-1xi_oX2jERil0f3xos8TE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Not bad",
+      "time": 1501176414,
+      "translated": false
+    },
+    {
+      "author_name": "Galaxy A",
+      "author_url": "https://www.google.com/maps/contrib/100458787883419716305/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2EHaJykeCINceIjzB_lyPGGARDE6zgG_DrCqO7ZkPUnvQLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511044853,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3598706071169883530",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "35A Yio Chu Kang Rd, Singapore 545552",
+  "geometry": {
+    "location": {
+      "lat": 1.3572,
+      "lng": 103.874574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358404930291502,
+        "lng": 103.8759673302915
+      },
+      "southwest": {
+        "lat": 1.355706969708498,
+        "lng": 103.8732693697085
+      }
+    }
+  },
+  "name": "Serangoon Swimming Lessons",
+  "place_id": "ChIJf4lt2q4X2jERrnnXN537uRk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Clara Law",
+      "author_url": "https://www.google.com/maps/contrib/106229058662182300114/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoY5i1cwUFqTe3sR6U5uWo01u51pCPx45ckroLkKx8bLqSbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "Cam my son join the swimming lessons???",
+      "time": 1359728227,
+      "translated": false
+    },
+    {
+      "author_name": "wanem D Dilkumar",
+      "author_url": "https://www.google.com/maps/contrib/102543551991226734986/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcsJkP1Xi1B17hdGhS3ePnan3O8Y_ShaHrDIHwH2vrBYfBZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690512702,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1853789374304975278",
+  "user_ratings_total": 2,
+  "vicinity": "35A Yio Chu Kang Road"
+}

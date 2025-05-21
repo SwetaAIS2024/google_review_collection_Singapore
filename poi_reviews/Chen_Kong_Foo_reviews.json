@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3368045,
+      "lng": 103.9050645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338099680291502,
+        "lng": 103.9064570802915
+      },
+      "southwest": {
+        "lat": 1.335401719708498,
+        "lng": 103.9037591197085
+      }
+    }
+  },
+  "name": "Chen Kong Foo",
+  "place_id": "ChIJKZEzGOUX2jERtUVi8AHOD0g",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5192595403104732597",
+  "vicinity": "Singapore"
+}

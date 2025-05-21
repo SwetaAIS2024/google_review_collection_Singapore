@@ -1,0 +1,45 @@
+{
+  "formatted_address": "66 E Coast Rd, #03-07, Singapore 428778",
+  "geometry": {
+    "location": {
+      "lat": 1.3049829,
+      "lng": 103.903945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306427580291502,
+        "lng": 103.9052310302915
+      },
+      "southwest": {
+        "lat": 1.303729619708498,
+        "lng": 103.9025330697085
+      }
+    }
+  },
+  "name": "Book Cafe",
+  "place_id": "ChIJMxRKz8sZ2jER_wanjj_Z-qc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrew Ong",
+      "author_url": "https://www.google.com/maps/contrib/104349359417205622667/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmEig1tntXYRpdyQLY2XuPtHmj5Xffw3ExaG4BpFPKokecI06Z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Came for dinner. Their 1-for-1 dinner promo which include a glass of wine and a scoop of gelato was really value for money. Their service was exceptional. Joy and Mala were very friendly and helpful!",
+      "time": 1725452009,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12104225815511107327",
+  "user_ratings_total": 1,
+  "vicinity": "66 East Coast Road, #03-07"
+}

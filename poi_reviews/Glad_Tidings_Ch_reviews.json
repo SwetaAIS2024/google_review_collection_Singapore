@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362192,
+      "lng": 103.88752
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363573280291502,
+        "lng": 103.8888390802915
+      },
+      "southwest": {
+        "lat": 1.360875319708498,
+        "lng": 103.8861411197085
+      }
+    }
+  },
+  "name": "Glad Tidings Ch",
+  "place_id": "ChIJ7yNw77QX2jERQ_2I1gh_ltA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15030340482331376963",
+  "vicinity": "Singapore"
+}

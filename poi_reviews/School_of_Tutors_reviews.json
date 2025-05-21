@@ -1,0 +1,29 @@
+{
+  "formatted_address": "20 Maxwell Rd, Singapore 069113",
+  "geometry": {
+    "location": {
+      "lat": 1.279136,
+      "lng": 103.844656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280593930291502,
+        "lng": 103.8461799302915
+      },
+      "southwest": {
+        "lat": 1.277895969708498,
+        "lng": 103.8434819697085
+      }
+    }
+  },
+  "name": "School of Tutors",
+  "place_id": "ChIJS9l9TW0Z2jERqP-1k9Tq8k4",
+  "types": [
+    "point_of_interest",
+    "school",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5688867478054502312",
+  "vicinity": "20 Maxwell Road"
+}

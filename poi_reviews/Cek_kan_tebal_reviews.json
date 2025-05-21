@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Hougang Ave 3, Block 1, Singapore 530001",
+  "geometry": {
+    "location": {
+      "lat": 1.3641651,
+      "lng": 103.8929442
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365402430291502,
+        "lng": 103.8940880802915
+      },
+      "southwest": {
+        "lat": 1.362704469708498,
+        "lng": 103.8913901197085
+      }
+    }
+  },
+  "name": "Cek kan tebal",
+  "place_id": "ChIJIcroeRoX2jERNKS_pTd4lqs",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12364202007391609908",
+  "vicinity": "1 Hougang Avenue 3, Block 1, Singapore"
+}

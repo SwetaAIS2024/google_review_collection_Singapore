@@ -1,0 +1,52 @@
+{
+  "formatted_address": "3A Adam Rd, Singapore 289878",
+  "geometry": {
+    "location": {
+      "lat": 1.3244866,
+      "lng": 103.8131967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325823030291502,
+        "lng": 103.8146580802915
+      },
+      "southwest": {
+        "lat": 1.323125069708498,
+        "lng": 103.8119601197085
+      }
+    }
+  },
+  "name": "Shelford Rolling Hills Park",
+  "place_id": "ChIJncuiAQca2jERzR59WSyObOA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "YS",
+      "author_url": "https://www.google.com/maps/contrib/116727431065584538729/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyd_Iu1ladAkuxZI9m2ItOc5FiiYfyAGjwbRcf3ySFPCh_nZdMyw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743216890,
+      "translated": false
+    },
+    {
+      "author_name": "tan edwin",
+      "author_url": "https://www.google.com/maps/contrib/114535897915880952944/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpUi1hWV80IXkhBYJFwzXWKXULD90xD2N5cIua0-tGLxKVjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552400382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16171456683111685837",
+  "user_ratings_total": 2,
+  "vicinity": "3A Adam Road, Singapore"
+}

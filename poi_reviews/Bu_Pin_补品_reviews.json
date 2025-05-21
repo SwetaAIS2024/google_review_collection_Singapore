@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Marina Blvd, #01-03, Singapore 018989",
+  "geometry": {
+    "location": {
+      "lat": 1.2825024,
+      "lng": 103.8524692
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283914630291502,
+        "lng": 103.8538433302915
+      },
+      "southwest": {
+        "lat": 1.281216669708498,
+        "lng": 103.8511453697085
+      }
+    }
+  },
+  "name": "Bu Pin 补品",
+  "place_id": "ChIJt1GDEwAZ2jER1yQQOaT2oqg",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12151545929791448279",
+  "vicinity": "1 Marina Boulevard, #01-03, Singapore"
+}

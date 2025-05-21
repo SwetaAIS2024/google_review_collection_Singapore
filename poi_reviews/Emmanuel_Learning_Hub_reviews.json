@@ -1,0 +1,28 @@
+{
+  "formatted_address": "605C Tampines Street 61, Singapore 523605",
+  "geometry": {
+    "location": {
+      "lat": 1.3619327,
+      "lng": 103.9354518
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363352730291502,
+        "lng": 103.9366418802915
+      },
+      "southwest": {
+        "lat": 1.360654769708498,
+        "lng": 103.9339439197085
+      }
+    }
+  },
+  "name": "Emmanuel Learning Hub",
+  "place_id": "ChIJd8a7VO892jERStOB-sO6vM8",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14969044612356887370",
+  "vicinity": "605C Tampines Street 61"
+}

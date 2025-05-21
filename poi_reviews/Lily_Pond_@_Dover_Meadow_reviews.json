@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Dover Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3044832,
+      "lng": 103.7779015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305618530291502,
+        "lng": 103.7786728802915
+      },
+      "southwest": {
+        "lat": 1.302920569708498,
+        "lng": 103.7759749197085
+      }
+    }
+  },
+  "name": "Lily Pond @ Dover Meadow",
+  "place_id": "ChIJ35PHewAb2jERv9wbJRqp6Uw",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Dani Baal",
+      "author_url": "https://www.google.com/maps/contrib/103357020897930875043/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd5F4_0jTgLXfmVTKm-2qvHv52-mDsO2tP9IWzdgV09PasJeSo=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "The Lily Pond at Dover Meadow is a peaceful and scenic spot in Singapore, located within the Dover Meadow area. This pond is a tranquil retreat surrounded by lush greenery, offering a serene environment to relax and enjoy nature. The pond is adorned with beautiful water lilies, adding to the visual appeal and calming atmosphere.\n\nAs part of the larger green space in Dover, the Lily Pond is popular among visitors looking for a quiet space to unwind, enjoy nature walks, or practice photography. It also contributes to the local biodiversity, supporting various plants and wildlife, including birds and insects attracted to the water. The area provides a perfect blend of natural beauty and tranquility, making it a hidden gem for nature lovers in Singapore.",
+      "time": 1736108991,
+      "translated": false
+    },
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707962980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5542146746212932799",
+  "user_ratings_total": 2,
+  "vicinity": "Dover Road"
+}

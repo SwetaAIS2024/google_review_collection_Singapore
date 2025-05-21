@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Oxford Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3164833,
+      "lng": 103.8528447
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317736980291502,
+        "lng": 103.8542794302915
+      },
+      "southwest": {
+        "lat": 1.315039019708498,
+        "lng": 103.8515814697085
+      }
+    }
+  },
+  "name": "Russia Culture Centre",
+  "place_id": "ChIJTXZdGgAZ2jERtyfI4GIYLEY",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5056443294587299767",
+  "vicinity": "Oxford Road"
+}

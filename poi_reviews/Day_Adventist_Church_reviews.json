@@ -1,0 +1,45 @@
+{
+  "formatted_address": "120 Balestier Rd, Singapore 329680",
+  "geometry": {
+    "location": {
+      "lat": 1.319395,
+      "lng": 103.8542696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320686680291502,
+        "lng": 103.8555832802915
+      },
+      "southwest": {
+        "lat": 1.317988719708498,
+        "lng": 103.8528853197085
+      }
+    }
+  },
+  "name": "Day Adventist Church",
+  "place_id": "ChIJVe5899oZ2jERRCtm3mWyXrI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Quân Phạm Thanh",
+      "author_url": "https://www.google.com/maps/contrib/102187781645518184976/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6fi5gHjsYwBDqgquXQSpTEbY8ww6dERBjTFY-hCyhs9Sy7qA02A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "AMEN",
+      "time": 1702082909,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12852906537154652996",
+  "user_ratings_total": 1,
+  "vicinity": "120 Balestier Road, Singapore"
+}

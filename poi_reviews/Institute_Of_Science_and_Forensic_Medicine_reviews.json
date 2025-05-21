@@ -1,0 +1,44 @@
+{
+  "formatted_address": "11 Outram Rd, Singapore 169078",
+  "geometry": {
+    "location": {
+      "lat": 1.280434,
+      "lng": 103.8384389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281669280291502,
+        "lng": 103.8397841802915
+      },
+      "southwest": {
+        "lat": 1.278971319708498,
+        "lng": 103.8370862197085
+      }
+    }
+  },
+  "name": "Institute Of Science and Forensic Medicine",
+  "place_id": "ChIJiVn6jHEZ2jERQJO_wHwuExI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "irv kashyap",
+      "author_url": "https://www.google.com/maps/contrib/114329340170167716130/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUml7HYxQQ9DLZSD71QansIrSr_fRTy3bwF-EiLcvOnNZvBLgl6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655836824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1302435830584808256",
+  "user_ratings_total": 1,
+  "vicinity": "11 Outram Road, Singapore"
+}

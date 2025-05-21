@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377488,
+      "lng": 103.881493
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378836930291502,
+        "lng": 103.8828416302915
+      },
+      "southwest": {
+        "lat": 1.376138969708498,
+        "lng": 103.8801436697085
+      }
+    }
+  },
+  "name": "Hougang Pr Sch",
+  "place_id": "ChIJFd_Gm0QW2jERScU20649978",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "David Hoe",
+      "author_url": "https://www.google.com/maps/contrib/113112291707928886586/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJueVzuj7T2UrmUWaXkGp6rj4Uio_63blocmJfxncVsizQf0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483060045,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13832592601568953673",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

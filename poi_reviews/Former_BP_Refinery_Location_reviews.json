@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Port Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2655259,
+      "lng": 103.8059759
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266672830291502,
+        "lng": 103.8071280302915
+      },
+      "southwest": {
+        "lat": 1.263974869708498,
+        "lng": 103.8044300697085
+      }
+    }
+  },
+  "name": "Former BP Refinery Location",
+  "place_id": "ChIJDS09GwAb2jERxOt5LDIl92s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pak Soon Lau",
+      "author_url": "https://www.google.com/maps/contrib/107524637554500568527/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAupFwdFRgcaHdmSx9fyYJLiukGKqr9fA_TPJ9aT1_jX8gbgHU=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This piece of empty land used to be the location of a BP refinery or storage facilities.  It has been cleared and waiting for future developments.",
+      "time": 1710498537,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7779727778730601412",
+  "user_ratings_total": 1,
+  "vicinity": "Port Road"
+}

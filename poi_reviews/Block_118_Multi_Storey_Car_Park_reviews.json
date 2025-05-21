@@ -1,0 +1,53 @@
+{
+  "formatted_address": "118 Aljunied Ave 2, Singapore 380118",
+  "geometry": {
+    "location": {
+      "lat": 1.3201559,
+      "lng": 103.887714
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321634730291502,
+        "lng": 103.8890580802915
+      },
+      "southwest": {
+        "lat": 1.318936769708498,
+        "lng": 103.8863601197085
+      }
+    }
+  },
+  "name": "Block 118 (Multi Storey Car Park)",
+  "place_id": "ChIJyRX7uyMY2jERmpchZwoWVA0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Multi storey car park with wheelchair parking space. Conveniently located opposite of Geylang East Market & Food Centre. Rain or shine, it provides easy access to the HDB Geylang Branch Office, shops at the lower level and especially the newly opened Sheng Siong Supermarket at level 1. Drive carefully as the road leading to the car park entrance is narrow.",
+      "time": 1598199704,
+      "translated": false
+    },
+    {
+      "author_name": "Darlord Eld",
+      "author_url": "https://www.google.com/maps/contrib/105768084500117548036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1h_HPE4yH4N9Fb2q-og-XdqTBLYtkprXu5Ufv96ingEaEm3cP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1633862096,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=960416854472497050",
+  "user_ratings_total": 2,
+  "vicinity": "118 Aljunied Avenue 2"
+}

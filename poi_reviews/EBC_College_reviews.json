@@ -1,0 +1,42 @@
+{
+  "formatted_address": "49 Beach Rd, Singapore 189685",
+  "geometry": {
+    "location": {
+      "lat": 1.2965901,
+      "lng": 103.8560009
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297861380291502,
+        "lng": 103.8574676302915
+      },
+      "southwest": {
+        "lat": 1.295163419708498,
+        "lng": 103.8547696697085
+      }
+    }
+  },
+  "name": "EBC College",
+  "place_id": "ChIJvTTjEjYZ2jERnhS0m2mVW5I",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "LX Meng",
+      "author_url": "https://www.google.com/maps/contrib/100022068741174613779/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCRN6pCM06lhlZNPniBDpnG-w9DKtpVdO-Z9wNftdb6DWOmw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563534039,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10546187233234523294",
+  "user_ratings_total": 1,
+  "vicinity": "49 Beach Road"
+}

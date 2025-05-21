@@ -1,0 +1,44 @@
+{
+  "formatted_address": "661 Bukit Timah Rd, Hwa Chong Institution, Singapore 269734",
+  "geometry": {
+    "location": {
+      "lat": 1.3258897,
+      "lng": 103.8039384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327399930291502,
+        "lng": 103.8053614302915
+      },
+      "southwest": {
+        "lat": 1.324701969708498,
+        "lng": 103.8026634697085
+      }
+    }
+  },
+  "name": "Tech Centre",
+  "place_id": "ChIJ9Z1j92ob2jER1ObTXSL-Dvw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Paper Shredder",
+      "author_url": "https://www.google.com/maps/contrib/101891069652762865833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4WK2Jc7hGNOHitrIX8KzA3P5VCExfT5kF2YmnHq-eNNq1LxRn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "A total of 8 computers labs",
+      "time": 1716270675,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18162733770788300500",
+  "user_ratings_total": 1,
+  "vicinity": "661 Bukit Timah Road, Hwa Chong Institution, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 11 Bayfront Ave, Bayfront, Singapore 018957",
+  "geometry": {
+    "location": {
+      "lat": 1.2813332,
+      "lng": 103.8589238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282527180291502,
+        "lng": 103.8601190802915
+      },
+      "southwest": {
+        "lat": 1.279829219708498,
+        "lng": 103.8574211197085
+      }
+    }
+  },
+  "name": "UOB ATM - Bayfront MRT Station",
+  "place_id": "ChIJ78VYQfwZ2jERiJTOyzMBcO4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17181233900392715400",
+  "vicinity": "No. 11 Bayfront Avenue, Bayfront"
+}

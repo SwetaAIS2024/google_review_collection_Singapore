@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.33177,
+      "lng": 103.7418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333045980291502,
+        "lng": 103.7433270302915
+      },
+      "southwest": {
+        "lat": 1.330348019708498,
+        "lng": 103.7406290697085
+      }
+    }
+  },
+  "name": "The JTC Summit (Lobby), Jurong Town Hall Rd",
+  "place_id": "ChIJr5AltQgQ2jER-tqo85Z9Ry4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3334772136377637626",
+  "vicinity": "Singapore"
+}

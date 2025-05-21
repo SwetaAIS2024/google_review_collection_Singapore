@@ -1,0 +1,45 @@
+{
+  "formatted_address": "409 Ang Mo Kio Ave 10, #01-11, 409 Market & Food Centre, Singapore 560409",
+  "geometry": {
+    "location": {
+      "lat": 1.3627445,
+      "lng": 103.8554335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363875780291502,
+        "lng": 103.8566893302915
+      },
+      "southwest": {
+        "lat": 1.361177819708498,
+        "lng": 103.8539913697085
+      }
+    }
+  },
+  "name": "Xiang Ji Ji Fan",
+  "place_id": "ChIJf2CDMwAX2jERJTdmkatoqiM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Javier Chang",
+      "author_url": "https://www.google.com/maps/contrib/100424745523612700006/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYtyRTUsttNhnM01M8zts35X5ue6TPn0CShqW3t-b8Ys74STRIlg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Scam uncle and auntie portion give like 3.5 4.5 charge you 5.5",
+      "time": 1728433423,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2569981623456380709",
+  "user_ratings_total": 1,
+  "vicinity": "409 Ang Mo Kio Avenue 10, #01-11, 409 Market & Food Centre"
+}

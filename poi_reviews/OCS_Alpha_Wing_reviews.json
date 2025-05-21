@@ -1,0 +1,64 @@
+{
+  "formatted_address": "500 Upper Jurong Rd, Singapore 638364",
+  "geometry": {
+    "location": {
+      "lat": 1.3366367,
+      "lng": 103.6804073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338338930291502,
+        "lng": 103.6817583302915
+      },
+      "southwest": {
+        "lat": 1.335640969708498,
+        "lng": 103.6790603697085
+      }
+    }
+  },
+  "name": "OCS Alpha Wing",
+  "place_id": "ChIJBdYpAa4P2jERgrK_IQnSGuY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chong How",
+      "author_url": "https://www.google.com/maps/contrib/116852952092019913610/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU30d-aia2XQtae66-H_qyPhdtOH9jkRaY8xLWurjWy6FjrFFLA2g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent Food",
+      "time": 1695304182,
+      "translated": false
+    },
+    {
+      "author_name": "angga kusuma",
+      "author_url": "https://www.google.com/maps/contrib/100307265875447282974/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsI8ZAGSOzkdOBWUXC5FlUQ2ynPI_aYFT23do_4DXv335kBLzo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747100959,
+      "translated": false
+    },
+    {
+      "author_name": "Yi Kang Ng",
+      "author_url": "https://www.google.com/maps/contrib/108619597284500748522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImXzn2rKEhjiwj8vdSXNZU8mIfK3mVNP8Lzgr1AI9NpVckPw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681095343,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16580795914780652162",
+  "user_ratings_total": 3,
+  "vicinity": "500 Upper Jurong Road"
+}

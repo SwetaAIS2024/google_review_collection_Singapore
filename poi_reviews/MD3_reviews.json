@@ -1,0 +1,28 @@
+{
+  "formatted_address": "16 Medical Dr, Singapore 117600",
+  "geometry": {
+    "location": {
+      "lat": 1.2954192,
+      "lng": 103.7812337
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296568080291502,
+        "lng": 103.7827930302915
+      },
+      "southwest": {
+        "lat": 1.293870119708498,
+        "lng": 103.7800950697085
+      }
+    }
+  },
+  "name": "MD3",
+  "place_id": "ChIJfZMKNVEa2jERm5q5vDOOapY",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10838631806081276571",
+  "vicinity": "16 Medical Drive"
+}

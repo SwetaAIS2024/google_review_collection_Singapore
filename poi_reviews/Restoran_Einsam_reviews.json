@@ -1,0 +1,29 @@
+{
+  "formatted_address": "81550 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4085463,
+      "lng": 103.620366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.409857080291502,
+        "lng": 103.6217427302915
+      },
+      "southwest": {
+        "lat": 1.407159119708498,
+        "lng": 103.6190447697085
+      }
+    }
+  },
+  "name": "Restoran Einsam",
+  "place_id": "ChIJHZ41a-QL2jER4KT5o0RZdKc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12066367452976096480",
+  "vicinity": "Malaysia"
+}

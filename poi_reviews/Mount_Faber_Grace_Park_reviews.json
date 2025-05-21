@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Telok Blangah Rise, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2729695,
+      "lng": 103.8207484
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274395380291502,
+        "lng": 103.8221666302915
+      },
+      "southwest": {
+        "lat": 1.271697419708498,
+        "lng": 103.8194686697085
+      }
+    }
+  },
+  "name": "Mount Faber Grace Park",
+  "place_id": "ChIJx0mpd98b2jERsaXOHQUzR6A",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Tomáš Chvojka",
+      "author_url": "https://www.google.com/maps/contrib/112947834646425705477/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEB4CA6AAASAdkvOD9LJmjjJAf_4oDDWkQJRiY1QuI4PzTHQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658658929,
+      "translated": false
+    },
+    {
+      "author_name": "Makmon Rahman",
+      "author_url": "https://www.google.com/maps/contrib/102958318962335958719/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2OIWahtjgxUN_xs26_w9JUQsn7E2YDetDe_d6w_iXgXldmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563236115,
+      "translated": false
+    },
+    {
+      "author_name": "HMS24",
+      "author_url": "https://www.google.com/maps/contrib/116157512751217530681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxwb2kjpfwFOQEwkNTbfAxZ_chWbpZVaJ9w1xIO0iXJD1Yjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545829625,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11549255866482861489",
+  "user_ratings_total": 3,
+  "vicinity": "Telok Blangah Rise"
+}

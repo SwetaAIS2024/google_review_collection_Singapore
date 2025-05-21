@@ -1,0 +1,29 @@
+{
+  "formatted_address": "NUH Medical Centre (NUHMC) @ Levels 10 Corridor A, 5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2934082,
+      "lng": 103.7845638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294976880291502,
+        "lng": 103.7858831802915
+      },
+      "southwest": {
+        "lat": 1.292278919708498,
+        "lng": 103.7831852197085
+      }
+    }
+  },
+  "name": "Gynaecological Cancer Clinic (NCIS) Level 10A",
+  "place_id": "ChIJ6wV_c44b2jERDHaFaId5sTU",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3869007177369089548",
+  "vicinity": "NUH Medical Centre (NUHMC) @ Levels 10 Corridor A, 5 Lower Kent Ridge Road, Singapore"
+}

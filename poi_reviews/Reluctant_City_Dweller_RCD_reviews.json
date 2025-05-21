@@ -1,0 +1,64 @@
+{
+  "formatted_address": "9 Seletar West Farmway 7, Singapore 798017",
+  "geometry": {
+    "location": {
+      "lat": 1.3989579,
+      "lng": 103.8681894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400379380291502,
+        "lng": 103.8695511302915
+      },
+      "southwest": {
+        "lat": 1.397681419708498,
+        "lng": 103.8668531697085
+      }
+    }
+  },
+  "name": "Reluctant City Dweller (RCD)",
+  "place_id": "ChIJd2Da3Y4X2jERN3hEjiU5jTc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "KH Li",
+      "author_url": "https://www.google.com/maps/contrib/117472326860879862869/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHJ0h1titMUgdCPIVinDCXZTMtvYaPWa7ml2-tlneJ_VLeRqg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent Plants! Great local business!",
+      "time": 1684741831,
+      "translated": false
+    },
+    {
+      "author_name": "Mani A",
+      "author_url": "https://www.google.com/maps/contrib/114903990812991504581/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgS2AvKuiZreIch-Ksu_-LQRs0hxdh7gIguHSXtoilBI2TbT8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676262817,
+      "translated": false
+    },
+    {
+      "author_name": "Scott Szeto",
+      "author_url": "https://www.google.com/maps/contrib/107348873606119416927/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWON1Uyv0iveZUTblXZungepVI-yLSEvKM7P0hGpbtF-dy07erY5w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638374939,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4002918477265664055",
+  "user_ratings_total": 3,
+  "vicinity": "9 Seletar West Farmway 7, Singapore"
+}

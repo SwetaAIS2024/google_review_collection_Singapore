@@ -1,0 +1,29 @@
+{
+  "formatted_address": "90 Jln Besar, Singapore 208826",
+  "geometry": {
+    "location": {
+      "lat": 1.3057342,
+      "lng": 103.8553994
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306967180291502,
+        "lng": 103.8567169802915
+      },
+      "southwest": {
+        "lat": 1.304269219708498,
+        "lng": 103.8540190197085
+      }
+    }
+  },
+  "name": "POSB Jalan Besar",
+  "place_id": "ChIJ94VzLbgZ2jERHSvdA6FsAUY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5044432496442026781",
+  "vicinity": "90 Jalan Besar"
+}

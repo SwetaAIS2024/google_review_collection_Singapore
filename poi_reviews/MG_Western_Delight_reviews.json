@@ -1,0 +1,46 @@
+{
+  "formatted_address": "435 Clementi Ave 3, Singapore 120428",
+  "geometry": {
+    "location": {
+      "lat": 1.3132454,
+      "lng": 103.7631611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314799880291502,
+        "lng": 103.7645686802915
+      },
+      "southwest": {
+        "lat": 1.312101919708498,
+        "lng": 103.7618707197085
+      }
+    }
+  },
+  "name": "MG Western Delight",
+  "place_id": "ChIJvdEjGQAb2jERf9tW69z0z-g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yvette Ho",
+      "author_url": "https://www.google.com/maps/contrib/101966270751486952808/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX41w64uylF0pqkNLxtTKpirxkVLPAx0d-TIg5DzoSy0nfC3bkn=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Ordered Pork Chop $9.50\nPortion : Great\nTaste : Super nice ! meat super tender and sauce is great!\nHighly recommended!",
+      "time": 1731224896,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16775896366656707455",
+  "user_ratings_total": 1,
+  "vicinity": "435 Clementi Avenue 3, Singapore"
+}

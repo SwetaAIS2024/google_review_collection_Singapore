@@ -1,0 +1,67 @@
+{
+  "formatted_address": "964 Jurong West Street 91, #01-342 Block 964, Singapore 640964",
+  "geometry": {
+    "location": {
+      "lat": 1.3421125,
+      "lng": 103.6929219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343428680291502,
+        "lng": 103.6941221802915
+      },
+      "southwest": {
+        "lat": 1.340730719708498,
+        "lng": 103.6914242197085
+      }
+    }
+  },
+  "name": "OCBC ATM - Jurong West Street 91",
+  "place_id": "ChIJ9880k5kP2jERZBbtCq_hIwQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Abhishek PH",
+      "author_url": "https://www.google.com/maps/contrib/115642360312342894885/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSWzIShcnlusb_SGwKuPBKW1rASz8A2-rRVm9xqmf6I18ZtVYItQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "ATM very convenient if you stay near block 836. No problems with withdrawing money.",
+      "time": 1489787368,
+      "translated": false
+    },
+    {
+      "author_name": "Jeslyn Lim",
+      "author_url": "https://www.google.com/maps/contrib/105517902595193685726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_jsLGJDiJ3dCqvi5W6jUpUDYwEVNwXtDEGDGxPIl8tNZ7y8_K=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Convenient location and typically doesn't have a queue.",
+      "time": 1497596464,
+      "translated": false
+    },
+    {
+      "author_name": "Han Chong",
+      "author_url": "https://www.google.com/maps/contrib/100303551597369744622/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZwgVO9fzNBZnRDi7GEaQL0EhjvjsungSLyIKO5o_4yihmqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480153463,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=298330142255421028",
+  "user_ratings_total": 3,
+  "vicinity": "964 Jurong West Street 91, #01-342 Block 964, Singapore"
+}

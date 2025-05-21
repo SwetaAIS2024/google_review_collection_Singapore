@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337935,
+      "lng": 103.718163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339248330291502,
+        "lng": 103.7195348302915
+      },
+      "southwest": {
+        "lat": 1.336550369708498,
+        "lng": 103.7168368697085
+      }
+    }
+  },
+  "name": "Aft Corp Rd",
+  "place_id": "ChIJdzNOaOUP2jERXuPJzMFB_qo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12321357931152532318",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "68 Orchard Rd, B2-K1 Plaza Singapura, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3007111,
+      "lng": 103.844904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301974180291502,
+        "lng": 103.8464529302915
+      },
+      "southwest": {
+        "lat": 1.299276219708498,
+        "lng": 103.8437549697085
+      }
+    }
+  },
+  "name": "Maybank ATM@Plaza Singapura",
+  "place_id": "ChIJdeUXCC4Z2jERKc4eENxxlwE",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=114685505498435113",
+  "vicinity": "68 Orchard Road, B2-K1 Plaza Singapura, Singapore"
+}

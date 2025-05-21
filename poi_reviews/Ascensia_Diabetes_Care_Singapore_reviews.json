@@ -1,0 +1,29 @@
+{
+  "formatted_address": "600 N Bridge Rd, #06-05 Parkview Square, Singapore 188778",
+  "geometry": {
+    "location": {
+      "lat": 1.300164,
+      "lng": 103.8577305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301435030291502,
+        "lng": 103.8591398802915
+      },
+      "southwest": {
+        "lat": 1.298737069708498,
+        "lng": 103.8564419197085
+      }
+    }
+  },
+  "name": "Ascensia Diabetes Care Singapore",
+  "place_id": "ChIJKalH1-YZ2jERxwm50So0yvQ",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17638968249061804487",
+  "vicinity": "600 North Bridge Road, #06-05 Parkview Square, Singapore"
+}

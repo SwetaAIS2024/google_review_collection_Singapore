@@ -1,0 +1,30 @@
+{
+  "formatted_address": "17 Old Airport Road, Kallang Estate, #01-24 Market, Singapore 397972",
+  "geometry": {
+    "location": {
+      "lat": 1.3073665,
+      "lng": 103.8840416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308830130291502,
+        "lng": 103.8852834802915
+      },
+      "southwest": {
+        "lat": 1.306132169708498,
+        "lng": 103.8825855197085
+      }
+    }
+  },
+  "name": "Jia Yuan Store",
+  "place_id": "ChIJ2xBqXkcY2jERUQVl3FXhfFY",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6232103743260001617",
+  "vicinity": "17 Old Airport Road, Kallang Estate, #01-24 Market, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2991503,
+      "lng": 103.7941274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300485230291502,
+        "lng": 103.7954552802915
+      },
+      "southwest": {
+        "lat": 1.297787269708498,
+        "lng": 103.7927573197085
+      }
+    }
+  },
+  "name": "Bef Weyhill Cl",
+  "place_id": "ChIJ44MFIkYa2jERYZNhmb6HnYY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Joni Oscar",
+      "author_url": "https://www.google.com/maps/contrib/111424019184174251582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKYYJea7Itdgh0ndeZ1AfbQ1FUG2vOtS3zu1FK0QB5LWSWCMWY=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Lot of colonial building amidst trees and greeeries with a handy shortcut to One North MRT station.",
+      "time": 1556052103,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9700058425112761185",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "56 Serangoon North Ave 4, Singapore 555851",
+  "geometry": {
+    "location": {
+      "lat": 1.3769549,
+      "lng": 103.8760878
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378218280291502,
+        "lng": 103.8774309802915
+      },
+      "southwest": {
+        "lat": 1.375520319708498,
+        "lng": 103.8747330197085
+      }
+    }
+  },
+  "name": "Bar Essentials",
+  "place_id": "ChIJI_aVmVsW2jERj40F4eoe778",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13830306974824500623",
+  "vicinity": "56 Serangoon North Avenue 4"
+}

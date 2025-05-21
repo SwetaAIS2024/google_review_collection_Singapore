@@ -1,0 +1,28 @@
+{
+  "formatted_address": "519 Serangoon Rd, Singapore 218157",
+  "geometry": {
+    "location": {
+      "lat": 1.3148263,
+      "lng": 103.8575493
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316175280291502,
+        "lng": 103.8588982802915
+      },
+      "southwest": {
+        "lat": 1.313477319708498,
+        "lng": 103.8562003197085
+      }
+    }
+  },
+  "name": "酒瘾bar",
+  "place_id": "ChIJUcNpRNIZ2jERyssVOdh15eU",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16565776375883353034",
+  "vicinity": "519 Serangoon Road"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "440 Pasir Ris Drive 4, #01-01, Singapore 510440",
+  "geometry": {
+    "location": {
+      "lat": 1.3688113,
+      "lng": 103.9586786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369974380291502,
+        "lng": 103.9599544302915
+      },
+      "southwest": {
+        "lat": 1.367276419708498,
+        "lng": 103.9572564697085
+      }
+    }
+  },
+  "name": "The Soy Inc @ Giant 440 Pasir Ris",
+  "place_id": "ChIJzZfm9DI92jER6-Vihmif4kc",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5179877792709535211",
+  "vicinity": "440 Pasir Ris Drive 4, #01-01"
+}

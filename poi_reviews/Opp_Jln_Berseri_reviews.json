@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.372408,
+      "lng": 103.704185
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373711530291502,
+        "lng": 103.7055237802915
+      },
+      "southwest": {
+        "lat": 1.371013569708498,
+        "lng": 103.7028258197085
+      }
+    }
+  },
+  "name": "Opp Jln Berseri",
+  "place_id": "ChIJ6RKsSEgO2jERZ4TyhPoxk5w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "OY JC",
+      "author_url": "https://www.google.com/maps/contrib/102796243558553783152/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXErLi3T9lWe-iOFF_JRSTG3Uv0scfYj4WTGlRfYmkLu8oFnF4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Bus stop..",
+      "time": 1496327447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11282416443535295591",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

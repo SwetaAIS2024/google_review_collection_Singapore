@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3385807,
+      "lng": 103.8579902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340032030291502,
+        "lng": 103.8593477302915
+      },
+      "southwest": {
+        "lat": 1.337334069708498,
+        "lng": 103.8566497697085
+      }
+    }
+  },
+  "name": "Kalai's Mini Mart",
+  "place_id": "ChIJ_8qwt3EX2jERzZ1ukj_mBSA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zane Ng (Mayflowerss)",
+      "author_url": "https://www.google.com/maps/contrib/115237240320460055571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwLyfg5XY5Oyy0dCOasliBKh8fE8p8y7XJQC45QbLQG7BR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "very nice smell in the shop. Sells so many things including spices so i can cook curry everyday for the whole block at an affordable price. Friendly Indian men as well.",
+      "time": 1745818727,
+      "translated": false
+    },
+    {
+      "author_name": "zannang46",
+      "author_url": "https://www.google.com/maps/contrib/114990526105981569873/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBWzjc-T_5SYGZjZLQyFq2n1Olu_VcHfkHtNiaogTtTkLyf5yS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679719438,
+      "translated": false
+    },
+    {
+      "author_name": "mayil seelan",
+      "author_url": "https://www.google.com/maps/contrib/113191035369700837928/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbA-vbupYXMml-z-gIbFiXYXnvBTwiiVNH871Syh_KIPSejWLH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667825118,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2307503544811298253",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

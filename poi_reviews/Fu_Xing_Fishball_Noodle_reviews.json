@@ -1,0 +1,46 @@
+{
+  "formatted_address": "21 Hougang St 51, #01-42 FoodLoft Coffeeshop, Singapore 538719",
+  "geometry": {
+    "location": {
+      "lat": 1.3792995,
+      "lng": 103.8878572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380524280291502,
+        "lng": 103.8891857802915
+      },
+      "southwest": {
+        "lat": 1.377826319708498,
+        "lng": 103.8864878197085
+      }
+    }
+  },
+  "name": "Fu Xing Fishball Noodle",
+  "place_id": "ChIJDSKmGAAX2jERhI2fBx1DoeI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lena Ong",
+      "author_url": "https://www.google.com/maps/contrib/116538563501118620322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRUhSZwDVyrfl9c7Ayuswxis9tb7KbGqW9sOAb_TvKM2zjxO1x=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The noodles are generous in portion. Love the kway tiao mee with the Teochew fishball. I always order my favourite combination with ketchup and a little chill.\nTwo sisters run the stall and the sister who normally cooks at the front remembers her regular customers order.",
+      "time": 1744495032,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16330407515783138692",
+  "user_ratings_total": 1,
+  "vicinity": "21 Hougang Street 51, #01-42 FoodLoft Coffeeshop, Singapore"
+}

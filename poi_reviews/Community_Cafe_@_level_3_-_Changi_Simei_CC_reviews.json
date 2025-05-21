@@ -1,0 +1,45 @@
+{
+  "formatted_address": "10 Simei Street 2, Singapore 529915",
+  "geometry": {
+    "location": {
+      "lat": 1.3449742,
+      "lng": 103.955191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346184430291502,
+        "lng": 103.9564829802915
+      },
+      "southwest": {
+        "lat": 1.343486469708498,
+        "lng": 103.9537850197085
+      }
+    }
+  },
+  "name": "Community Cafe @ level 3 - Changi Simei CC",
+  "place_id": "ChIJz4c3PgA92jER-TsJh80l8_8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Agus Wiwanto",
+      "author_url": "https://www.google.com/maps/contrib/110241388732088945315/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu-IeeKcdFRJ0vtUN5FHvlsHIy6Qzrs0_Gb2Psj11SDQvSCFZvCw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "It's a 'self service' community cafe with an air-conditioned room, vending machines and free dispensers.\nA cozy and relaxing place to catch up with friends if you want a more private place than the commercial food court or kopitiam.\nIt's on the 3rd floor of the Changi Simei Community Club and you can go there by using the two elevators in front of the Community Centre.",
+      "time": 1739077452,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18443126463676365817",
+  "user_ratings_total": 1,
+  "vicinity": "10 Simei Street 2, Singapore"
+}

@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2767267,
+      "lng": 103.8405767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278083530291502,
+        "lng": 103.8419488802915
+      },
+      "southwest": {
+        "lat": 1.275385569708498,
+        "lng": 103.8392509197085
+      }
+    }
+  },
+  "name": "Maritime Hse",
+  "place_id": "ChIJS3rGR2wZ2jERPa5eNHIAEjI",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Dean Aw",
+      "author_url": "https://www.google.com/maps/contrib/103924329485141738611/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGFI4i7gk0Q4edOlfGIKLFo0q7V-TgvFTuH4KYGbCrnzWHfQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Closed permenantly?",
+      "time": 1701052646,
+      "translated": false
+    },
+    {
+      "author_name": "Royen Lock",
+      "author_url": "https://www.google.com/maps/contrib/100950568320423553402/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV08X_NPpMkpPlOKPrJ9jZdElJ2oCECPKmllqIFudQkhlXIlsVdAw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "· passing by",
+      "time": 1686583565,
+      "translated": true
+    },
+    {
+      "author_name": "Tan Wee Yong",
+      "author_url": "https://www.google.com/maps/contrib/105714429866934785472/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnkSFoMQFbUlD2YuxXEkKqmpP_nLkLw27GtNbZQP9I26U5CQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522805309,
+      "translated": false
+    },
+    {
+      "author_name": "Dang Quoc Thinh",
+      "author_url": "https://www.google.com/maps/contrib/111431193359163159605/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu0fOHPWT9b057pq6nmbcugdpaZkRdzjdCS_8DXhBfVhKc7g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510454266,
+      "translated": false
+    },
+    {
+      "author_name": "Fiona Ong",
+      "author_url": "https://www.google.com/maps/contrib/108791556684611110657/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf5isySGXQGla_J4Surn55ut30TAvP4cBY2NRpdO01oNppX_AIfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483240853,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3607946741982080573",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

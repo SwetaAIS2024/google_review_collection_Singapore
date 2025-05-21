@@ -1,0 +1,88 @@
+{
+  "formatted_address": "37 Kallang Pudding Rd, Singapore 349315",
+  "geometry": {
+    "location": {
+      "lat": 1.3258944,
+      "lng": 103.7193512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327248630291502,
+        "lng": 103.7206443302915
+      },
+      "southwest": {
+        "lat": 1.324550669708498,
+        "lng": 103.7179463697085
+      }
+    }
+  },
+  "name": "Corp Pl",
+  "place_id": "ChIJ27cMuVcF2jERoptUI6LR4Ac",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Wilson Chang",
+      "author_url": "https://www.google.com/maps/contrib/102589058598808274925/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-vSXjFi0PgWtWv9WneTaljLWq2hldwR7n8loebb8nf3h2GWAe=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Bus Stop Number 21179\nalong Corporation Road\n\nserving bus numbers 30, 79, 98, 98M, 154, 178 and 240",
+      "time": 1644037957,
+      "translated": false
+    },
+    {
+      "author_name": "THampS Singapore",
+      "author_url": "https://www.google.com/maps/contrib/109590408150898016884/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkekWZXP7GwMd88RXLx1YfkaILdwJeNuZrh50f07tw32n5Jg21=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "This bus stop is located at 2 Corporation Road in Jurong, and not Kallang Pudding as wrongly indicated by Google Map.",
+      "time": 1644038188,
+      "translated": false
+    },
+    {
+      "author_name": "Hari Sundaram",
+      "author_url": "https://www.google.com/maps/contrib/117039409327767788663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8_iWII9rjeK3K6yNvomXObwF7N2oH2xSuIqIPPSSFXCcKKBu4=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Goood",
+      "time": 1654580449,
+      "translated": false
+    },
+    {
+      "author_name": "Jenny Mok",
+      "author_url": "https://www.google.com/maps/contrib/100429034002149929677/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5leyBgjwdLl46s0I3ogwnKtMB9B7Zh3wrQ9GyggTUVM5zHQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1590129525,
+      "translated": false
+    },
+    {
+      "author_name": "budak nakal",
+      "author_url": "https://www.google.com/maps/contrib/102901377673529478119/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3JptqIjCWc7Zm33V7IMswEpEYHIah-vgceRre5xVjSRQc0lIZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505224244,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=567684047356337058",
+  "user_ratings_total": 5,
+  "vicinity": "37 Kallang Pudding Road, Singapore"
+}

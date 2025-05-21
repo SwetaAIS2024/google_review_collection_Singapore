@@ -1,0 +1,45 @@
+{
+  "formatted_address": "11 Telok Blangah Cres, #01-121, Singapore 090011",
+  "geometry": {
+    "location": {
+      "lat": 1.2774012,
+      "lng": 103.8188384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278808080291502,
+        "lng": 103.8203157802915
+      },
+      "southwest": {
+        "lat": 1.276110119708498,
+        "lng": 103.8176178197085
+      }
+    }
+  },
+  "name": "Teochew Carrot Cake",
+  "place_id": "ChIJWYRsMy4b2jERQuV5TIy_W5Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aeron Leong",
+      "author_url": "https://www.google.com/maps/contrib/102022284756840570490/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKffj_NAABVvJHthKsU-nrmXSghi2ZXxzp9-cYk3KqHO5cpLQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Hidden gems. Slight crisp on the outside with \"wok hey\"",
+      "time": 1629262672,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10834463937869243714",
+  "user_ratings_total": 1,
+  "vicinity": "11 Telok Blangah Crescent, #01-121, Singapore"
+}

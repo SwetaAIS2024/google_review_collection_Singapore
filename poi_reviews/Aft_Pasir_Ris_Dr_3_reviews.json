@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38027,
+      "lng": 103.94265
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381628030291502,
+        "lng": 103.9439963302915
+      },
+      "southwest": {
+        "lat": 1.378930069708498,
+        "lng": 103.9412983697085
+      }
+    }
+  },
+  "name": "Aft Pasir Ris Dr 3",
+  "place_id": "ChIJK-lgL7892jERXcYGNaTF3a0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12528387047469532765",
+  "vicinity": "Singapore"
+}

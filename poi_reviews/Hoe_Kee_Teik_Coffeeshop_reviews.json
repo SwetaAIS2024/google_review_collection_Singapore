@@ -1,0 +1,65 @@
+{
+  "formatted_address": "55 Sungei Kadut Dr, Singapore 729563",
+  "geometry": {
+    "location": {
+      "lat": 1.4185644,
+      "lng": 103.7437748
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420018880291502,
+        "lng": 103.7450942302915
+      },
+      "southwest": {
+        "lat": 1.417320919708498,
+        "lng": 103.7423962697085
+      }
+    }
+  },
+  "name": "Hoe Kee Teik Coffeeshop",
+  "place_id": "ChIJTX7DHlsT2jERXMaZyzUSdzI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md sumon sumon",
+      "author_url": "https://www.google.com/maps/contrib/117169293915570929042/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3slZm64Lh_iSPv8LCU_DuMuGJF_4yhNIRoN2g7L-y-1ZLp4sX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good",
+      "time": 1670848755,
+      "translated": false
+    },
+    {
+      "author_name": "Simbu Rajendran",
+      "author_url": "https://www.google.com/maps/contrib/116848186956410593159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6CW18gNgzctjqP4lu4o20cl7COBRcsXalOp4QoXrORMRxXDE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678022666,
+      "translated": false
+    },
+    {
+      "author_name": "arinna tay",
+      "author_url": "https://www.google.com/maps/contrib/101455146677481065333/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCYi2AokL9WtZ7ZfA1B0S5nu5SBW0SIRhykZa5o0PKhAZKzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1618911258,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3636395246383384156",
+  "user_ratings_total": 3,
+  "vicinity": "55 Sungei Kadut Drive, Singapore"
+}

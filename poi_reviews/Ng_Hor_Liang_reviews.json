@@ -1,0 +1,45 @@
+{
+  "formatted_address": "HDB Bukit Batok #01-106, 323 Bukit Batok Street 33, S)650323, Singapore 650323",
+  "geometry": {
+    "location": {
+      "lat": 1.3610442,
+      "lng": 103.7480775
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362464680291502,
+        "lng": 103.7493886302915
+      },
+      "southwest": {
+        "lat": 1.359766719708498,
+        "lng": 103.7466906697085
+      }
+    }
+  },
+  "name": "Ng Hor Liang",
+  "place_id": "ChIJq1NQPzQQ2jERkOM4C0-7NZc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "周先生",
+      "author_url": "https://www.google.com/maps/contrib/104747569555298318983/reviews",
+      "language": "en-US",
+      "original_language": "fil",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9ntMfhXRBJ8BewDrz7-RdnMgP4Sz2KyYOJ2WUbY4JzwJasVHtpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Great Doctor Ng. Recommended for you.",
+      "time": 1608397682,
+      "translated": true
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10895820821657871248",
+  "user_ratings_total": 1,
+  "vicinity": "HDB Bukit Batok #01-106, 323 Bukit Batok Street 33, S)650323"
+}

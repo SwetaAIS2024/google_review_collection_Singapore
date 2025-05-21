@@ -1,0 +1,45 @@
+{
+  "formatted_address": "460 Alexandra Rd, Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.2737016,
+      "lng": 103.8012777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274935730291502,
+        "lng": 103.8025960302915
+      },
+      "southwest": {
+        "lat": 1.272237769708498,
+        "lng": 103.7998980697085
+      }
+    }
+  },
+  "name": "OCBC ATM (Fairprice)",
+  "place_id": "ChIJ3Thk4sAb2jER5SxRx01WjVs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Perc",
+      "author_url": "https://www.google.com/maps/contrib/106418815976212607483/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZeR-k6LjC-0SbFA-pCOs0qZRyh60BlMFEVA9XMTXEgcdij4s=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "This is not 24hours. Fairprice closes at 10pm",
+      "time": 1619973177,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6597023921224101093",
+  "user_ratings_total": 1,
+  "vicinity": "460 Alexandra Road"
+}

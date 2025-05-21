@@ -1,0 +1,30 @@
+{
+  "formatted_address": "89 Circuit Rd, #01-92 MacPherson Market & Food Centre, Singapore 370089",
+  "geometry": {
+    "location": {
+      "lat": 1.3236672,
+      "lng": 103.8855345
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325132630291502,
+        "lng": 103.8870562302915
+      },
+      "southwest": {
+        "lat": 1.322434669708498,
+        "lng": 103.8843582697085
+      }
+    }
+  },
+  "name": "Lim Guan Huat",
+  "place_id": "ChIJQ5YkQuAZ2jERwcA8uAOotWU",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7328948702544707777",
+  "vicinity": "89 Circuit Road, #01-92 MacPherson Market & Food Centre"
+}

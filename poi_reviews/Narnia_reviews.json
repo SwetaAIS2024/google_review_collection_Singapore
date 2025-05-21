@@ -1,0 +1,77 @@
+{
+  "formatted_address": "18 Emerald Hill Rd, Singapore 229300",
+  "geometry": {
+    "location": {
+      "lat": 1.3019053,
+      "lng": 103.8392252
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303255880291502,
+        "lng": 103.8405423302915
+      },
+      "southwest": {
+        "lat": 1.300557919708498,
+        "lng": 103.8378443697085
+      }
+    }
+  },
+  "name": "Narnia",
+  "place_id": "ChIJ_Y1juacZ2jER1HREbdqKEOM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Steve Chan",
+      "author_url": "https://www.google.com/maps/contrib/109128018196677393699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpg2wm4ac7mJeOQsAapZSRQuJRJYq4lOI757jjgR--9MfbnA2Syw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good vibes and even better people!",
+      "time": 1672107794,
+      "translated": false
+    },
+    {
+      "author_name": "Joey Chao",
+      "author_url": "https://www.google.com/maps/contrib/108127036684983169509/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoXwrl-xen_E8q69gMrUl-RFCPQeWJMR1dQ6f5103N01Mc8rR4cA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Amazing place for food, good company, and conversations.",
+      "time": 1580994518,
+      "translated": false
+    },
+    {
+      "author_name": "calvin ow yong",
+      "author_url": "https://www.google.com/maps/contrib/113671368312731915497/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbbYZq1y92VNZ9enPhmH45vHvTbK2DlfcLHlFce33_bTZXWu1_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1680183050,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle Chong",
+      "author_url": "https://www.google.com/maps/contrib/113228216705712766550/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLzXNoSXhVpiVmKTU0eXZ1kwHuJnT1FhvkvqlGKpURTYKevX3T=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1580994509,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16361730116977718484",
+  "user_ratings_total": 4,
+  "vicinity": "18 Emerald Hill Road"
+}

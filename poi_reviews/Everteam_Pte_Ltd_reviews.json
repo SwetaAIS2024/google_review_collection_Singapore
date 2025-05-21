@@ -1,0 +1,63 @@
+{
+  "formatted_address": "12 Sungei Kadut Street 4, Singapore 729042",
+  "geometry": {
+    "location": {
+      "lat": 1.4190574,
+      "lng": 103.7459431
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420385730291502,
+        "lng": 103.7472271302915
+      },
+      "southwest": {
+        "lat": 1.417687769708498,
+        "lng": 103.7445291697085
+      }
+    }
+  },
+  "name": "Everteam Pte Ltd",
+  "place_id": "ChIJXVrUB3oT2jER_bLpIzcbhuE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Emran Rokstar",
+      "author_url": "https://www.google.com/maps/contrib/114752734737213999238/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs3jknE0w_YCwqomxyfqjYz6QksRS025NSPn9xTnDiYDXW7uHMsw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good company",
+      "time": 1642283664,
+      "translated": false
+    },
+    {
+      "author_name": "Wai choong Lim",
+      "author_url": "https://www.google.com/maps/contrib/112510129779261190870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUDYPx4OSu_yySF19PmcjKv05AL5UBjg_a9IrSygeLBNndP2Vb=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658405219,
+      "translated": false
+    },
+    {
+      "author_name": "黑龙",
+      "author_url": "https://www.google.com/maps/contrib/117506914147923209819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmmEYsRxUV2prJTO0UuyipeiWFbj7w2JeRRi_ztfo-9VF8Q1yo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553127306,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16250706229052683005",
+  "user_ratings_total": 3,
+  "vicinity": "12 Sungei Kadut Street 4"
+}

@@ -1,0 +1,70 @@
+{
+  "formatted_address": "151 Bishan St.11, #01- 195 Block 151, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.3451427,
+      "lng": 103.8555932
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346565080291502,
+        "lng": 103.8571085802915
+      },
+      "southwest": {
+        "lat": 1.343867119708498,
+        "lng": 103.8544106197085
+      }
+    }
+  },
+  "name": "Rojak & Satay Stall",
+  "place_id": "ChIJF_ZiPiAX2jERrGvoOLvTj-I",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "J C",
+      "author_url": "https://www.google.com/maps/contrib/116952722861631945204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbUtfQWfSlET-a-DGAIk25zThLQawqPHX1ySjuJyUgGYIE4A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Seems decent and clean. Not so crowded on a Friday evening",
+      "time": 1689934410,
+      "translated": false
+    },
+    {
+      "author_name": "Kyle Ng Heng Khai",
+      "author_url": "https://www.google.com/maps/contrib/116674306253055128761/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRGYHWZlPd1r6_5FGUv69tdxfweDzWttpoUtPOW2lPVEv2Clt6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Delicious rojak with generous serving of ingredients. Recommended.",
+      "time": 1686893557,
+      "translated": false
+    },
+    {
+      "author_name": "Koo Hanjie",
+      "author_url": "https://www.google.com/maps/contrib/105417375562433300620/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXNa2g7q0uLkzwXLR8-6uZ0-R4JKzkXrL_JHeLcAI9H9TE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Salty , too watery.",
+      "time": 1727592178,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16325499975308438444",
+  "user_ratings_total": 3,
+  "vicinity": "151 Bishan Street 11, #01- 195 Block 151, Singapore"
+}

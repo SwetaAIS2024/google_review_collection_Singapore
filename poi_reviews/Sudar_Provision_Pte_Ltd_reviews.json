@@ -1,0 +1,58 @@
+{
+  "formatted_address": "224 Geylang Rd, Singapore 389286",
+  "geometry": {
+    "location": {
+      "lat": 1.3121507,
+      "lng": 103.8771486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313549630291502,
+        "lng": 103.8784846302915
+      },
+      "southwest": {
+        "lat": 1.310851669708498,
+        "lng": 103.8757866697085
+      }
+    }
+  },
+  "name": "Sudar Provision Pte Ltd",
+  "place_id": "ChIJbd1XLDcY2jERf23rxfOVwWA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Edwin Petrus",
+      "author_url": "https://www.google.com/maps/contrib/114785935323023325370/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViVW8tEXRYc3BatiNcUhGofE27kumEgAfonPrCpL4BlwYPaqBsCw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Sudar Provision is a small convenience store which is located at Geylang vicinity. It provides groceries as well daily needs. Pricing was reasonable. Payment could be made by cash and electronic modes.  It is located within walking distance from some budget hotels at Geylang so tourists may get their necessities here as well.",
+      "time": 1729647040,
+      "translated": false
+    },
+    {
+      "author_name": "ぎゅうたんぺろり",
+      "author_url": "https://www.google.com/maps/contrib/106505302738405669905/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVJEiQC0aJJw8rEm_R4GDTu7YpYcI_PP8Y2CEmADKmUSu9LV4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Drinks in Singapore are expensive, but here they are about the same as in Japan.\nWater starts from 0.6SGD",
+      "time": 1696627784,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6972018572376370559",
+  "user_ratings_total": 2,
+  "vicinity": "224 Geylang Road"
+}

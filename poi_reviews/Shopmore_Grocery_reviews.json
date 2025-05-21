@@ -1,0 +1,30 @@
+{
+  "formatted_address": "168 Lor 1 Toa Payoh, #01-1038, Singapore 310168",
+  "geometry": {
+    "location": {
+      "lat": 1.3319248,
+      "lng": 103.8434952
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333194480291502,
+        "lng": 103.8448604802915
+      },
+      "southwest": {
+        "lat": 1.330496519708498,
+        "lng": 103.8421625197085
+      }
+    }
+  },
+  "name": "Shopmore Grocery",
+  "place_id": "ChIJK56z1UIX2jER71OIoLr3sPg",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17920095298236470255",
+  "vicinity": "168 Lorong 1 Toa Payoh, #01-1038, Singapore"
+}

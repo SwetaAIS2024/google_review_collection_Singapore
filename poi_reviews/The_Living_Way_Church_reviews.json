@@ -1,0 +1,53 @@
+{
+  "formatted_address": "18 Howard Rd, #06-10 Novelty BizCentre, Singapore 369585",
+  "geometry": {
+    "location": {
+      "lat": 1.3339878,
+      "lng": 103.8858538
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335718130291502,
+        "lng": 103.8870931802915
+      },
+      "southwest": {
+        "lat": 1.333020169708498,
+        "lng": 103.8843952197085
+      }
+    }
+  },
+  "name": "The Living Way Church",
+  "place_id": "ChIJe7lIiz4X2jERa24j_aLIcv4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Rebecca Lim",
+      "author_url": "https://www.google.com/maps/contrib/115299146789527965448/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBjAG1PnWjSU_G2r-D42Cj9KIDnjJp-W_QtXmCO8GhE5Z-pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728125076,
+      "translated": false
+    },
+    {
+      "author_name": "Paisem Lin",
+      "author_url": "https://www.google.com/maps/contrib/108758019479083102059/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnjwc-037MG8X08BHuUAyc4ySs1gmurDLPg40hq5edIr-OECNM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1573354401,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18334937635335925355",
+  "user_ratings_total": 2,
+  "vicinity": "18 Howard Road, #06-10 Novelty BizCentre"
+}

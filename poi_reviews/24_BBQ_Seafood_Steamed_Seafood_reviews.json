@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1220 ECP, #01-24 East Coast Lagoon Food Village, Singapore 468960",
+  "geometry": {
+    "location": {
+      "lat": 1.3069452,
+      "lng": 103.9349911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308502430291502,
+        "lng": 103.9365200302915
+      },
+      "southwest": {
+        "lat": 1.305804469708498,
+        "lng": 103.9338220697085
+      }
+    }
+  },
+  "name": "24 BBQ Seafood Steamed Seafood",
+  "place_id": "ChIJ7ZnpUQAj2jERKD7CKWShzlM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Busi",
+      "author_url": "https://www.google.com/maps/contrib/102344095315845543724/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2MCNPfPhDh5GMnJUVgUt1zZnifDxSeGq68c3GTMOAEVyegtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Fantastic flavours, just a little pricey but still worth it.",
+      "time": 1729346647,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6038941601919811112",
+  "user_ratings_total": 1,
+  "vicinity": "1220 East Coast Parkway, #01-24 East Coast Lagoon Food Village"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2837663,
+      "lng": 103.8427302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285108480291502,
+        "lng": 103.8441129302915
+      },
+      "southwest": {
+        "lat": 1.282410519708498,
+        "lng": 103.8414149697085
+      }
+    }
+  },
+  "name": "AAA money 霸王汇款",
+  "place_id": "ChIJXZThtG8Z2jERoKgb_o9PAEc",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5116176656555026592",
+  "vicinity": "1 Park Road"
+}

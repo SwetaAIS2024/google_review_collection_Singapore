@@ -1,0 +1,29 @@
+{
+  "formatted_address": "People's Park Complex #04-01, 1 Park Road (S)059108, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2836902,
+      "lng": 103.8422522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284995130291502,
+        "lng": 103.8436356802915
+      },
+      "southwest": {
+        "lat": 1.282297169708498,
+        "lng": 103.8409377197085
+      }
+    }
+  },
+  "name": "Chan Jong Dr",
+  "place_id": "ChIJcxrtfHMZ2jERqi6T_Xpsc3k",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8751457776407097002",
+  "vicinity": "People's Park Complex #04-01, 1 Park Road (S)059108"
+}

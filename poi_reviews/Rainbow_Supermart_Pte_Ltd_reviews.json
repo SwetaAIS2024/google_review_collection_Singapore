@@ -1,0 +1,79 @@
+{
+  "formatted_address": "6 Hougang Ave 3, Block 6, Singapore 530006",
+  "geometry": {
+    "location": {
+      "lat": 1.3624112,
+      "lng": 103.8939719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364195980291502,
+        "lng": 103.8954161802915
+      },
+      "southwest": {
+        "lat": 1.361498019708498,
+        "lng": 103.8927182197085
+      }
+    }
+  },
+  "name": "Rainbow Supermart Pte Ltd",
+  "place_id": "ChIJwSEc38oX2jER6J13GpozEFM",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Vimal Raj",
+      "author_url": "https://www.google.com/maps/contrib/116411425159557912048/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiYOuSc2WMZVcv0slYz2R57RP5bgIhKNuIhWG_gytHYpTJUtXbaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good response... All fresh vegetables ✨",
+      "time": 1714928186,
+      "translated": false
+    },
+    {
+      "author_name": "Soosairaj Johnson (John)",
+      "author_url": "https://www.google.com/maps/contrib/108869507158546390006/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4xPlcrEAb8ljLwrLyGMRfpp_P4Cqd2IBEFQzM2OgQB8GGXga8=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "Ok",
+      "time": 1732429996,
+      "translated": false
+    },
+    {
+      "author_name": "mohan sundran",
+      "author_url": "https://www.google.com/maps/contrib/103117442882928307853/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_hfdxAI0Pv2aULmnHEnpStsrNsrROexhWa22_OhUZCaUGcQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637406919,
+      "translated": false
+    },
+    {
+      "author_name": "Veera Sekar",
+      "author_url": "https://www.google.com/maps/contrib/109498261316640587898/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULweZlkyIvFHAXLiFNuf-DKr5gSQARt1-GwrNUlWqOEPQnGLh0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608546519,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5985340641737416168",
+  "user_ratings_total": 4,
+  "vicinity": "6 Hougang Avenue 3, Block 6, Singapore"
+}

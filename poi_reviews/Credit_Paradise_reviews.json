@@ -1,0 +1,29 @@
+{
+  "formatted_address": "20 Maxwell Rd, Singapore 069113",
+  "geometry": {
+    "location": {
+      "lat": 1.2792508,
+      "lng": 103.8447681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280678480291502,
+        "lng": 103.8462276802915
+      },
+      "southwest": {
+        "lat": 1.277980519708498,
+        "lng": 103.8435297197085
+      }
+    }
+  },
+  "name": "Credit Paradise",
+  "place_id": "ChIJS9l9TW0Z2jER4tLxIeQ7Zyg",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2911361535126393570",
+  "vicinity": "20 Maxwell Road"
+}

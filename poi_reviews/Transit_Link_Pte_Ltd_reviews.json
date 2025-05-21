@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Woodlands Ave 3, Singapore 738702",
+  "geometry": {
+    "location": {
+      "lat": 1.4252011,
+      "lng": 103.7620534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426656980291502,
+        "lng": 103.7632530302915
+      },
+      "southwest": {
+        "lat": 1.423959019708498,
+        "lng": 103.7605550697085
+      }
+    }
+  },
+  "name": "Transit Link Pte Ltd",
+  "place_id": "ChIJ54GIcUYS2jERX44kjYzCFsQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jroden Wnog",
+      "author_url": "https://www.google.com/maps/contrib/109769620159593822145/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY7NBJM-mZNMRMCBEGXN11AVVEpxpE_mof5dGdXcipl0FRvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Trash",
+      "time": 1597551434,
+      "translated": false
+    },
+    {
+      "author_name": "Samuel Alex",
+      "author_url": "https://www.google.com/maps/contrib/116072438341986168521/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_ZQdUtR3onauZcvqwzgVGwTrB0ImHPuRTuo2DHUeUnxdBpkI=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584761736,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14129694789840703071",
+  "user_ratings_total": 2,
+  "vicinity": "Woodlands Ave 3"
+}

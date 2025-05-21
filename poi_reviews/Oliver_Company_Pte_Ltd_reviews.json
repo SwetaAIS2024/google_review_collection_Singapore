@@ -1,0 +1,27 @@
+{
+  "formatted_address": "10 Kaki Bukit Rd 1, #01 10, Singapore 416175",
+  "geometry": {
+    "location": {
+      "lat": 1.3353186,
+      "lng": 103.9025724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336761480291502,
+        "lng": 103.9038244302915
+      },
+      "southwest": {
+        "lat": 1.334063519708498,
+        "lng": 103.9011264697085
+      }
+    }
+  },
+  "name": "Oliver Company Pte Ltd",
+  "place_id": "ChIJ2R8o-tA82jERNmehx3BOREA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4630912563136259894",
+  "vicinity": "10 Kaki Bukit Road 1, #01 10"
+}

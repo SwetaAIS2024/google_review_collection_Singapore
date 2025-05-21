@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore 528597",
+  "geometry": {
+    "location": {
+      "lat": 1.35754,
+      "lng": 103.93892
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358866330291502,
+        "lng": 103.9402681302915
+      },
+      "southwest": {
+        "lat": 1.356168369708498,
+        "lng": 103.9375701697085
+      }
+    }
+  },
+  "name": "Blk 522B, Along Tampines Ctrl 7",
+  "place_id": "ChIJ1bpCwAw92jER53Vm-jmHHRQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Mark Teo",
+      "author_url": "https://www.google.com/maps/contrib/102854444664112792164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc_DEj11vN12WddIRrS-bF-wGAKdwng9GP6FoSFDfZEumYkE4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "There is no bus stop here.  There is also already another marker for the actual building of 522B",
+      "time": 1745503693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1449463338167072231",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "53 Cairnhill Rd, Singapore 229664",
+  "geometry": {
+    "location": {
+      "lat": 1.3066127,
+      "lng": 103.8369793
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307986380291502,
+        "lng": 103.8384072802915
+      },
+      "southwest": {
+        "lat": 1.305288419708498,
+        "lng": 103.8357093197085
+      }
+    }
+  },
+  "name": "Ritle Trading",
+  "place_id": "ChIJfUI2EJMZ2jERuRYQF2mag4k",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9908933381294397113",
+  "vicinity": "53 Cairnhill Road"
+}

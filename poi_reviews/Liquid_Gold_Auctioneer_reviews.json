@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Buroh Ln, Singapore 618309",
+  "geometry": {
+    "location": {
+      "lat": 1.3144498,
+      "lng": 103.7241904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316083280291502,
+        "lng": 103.7255948802915
+      },
+      "southwest": {
+        "lat": 1.313385319708498,
+        "lng": 103.7228969197085
+      }
+    }
+  },
+  "name": "Liquid Gold Auctioneer",
+  "place_id": "ChIJJVkXGw8F2jERo3bjbvYFHDY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "J N Z C",
+      "author_url": "https://www.google.com/maps/contrib/113227836557273556700/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy7vcynX_bJ7EeiyDibHjixIdBry22quH0gbKMN88oNWpSzWSd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Awesome place to trade buy sell whisky!",
+      "time": 1576215324,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3898997933376501411",
+  "user_ratings_total": 1,
+  "vicinity": "1 Buroh Lane"
+}

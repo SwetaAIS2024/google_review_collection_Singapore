@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Marine Vista, Singapore 449031",
+  "geometry": {
+    "location": {
+      "lat": 1.3074737,
+      "lng": 103.9216169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308766030291502,
+        "lng": 103.9229670302915
+      },
+      "southwest": {
+        "lat": 1.306068069708498,
+        "lng": 103.9202690697085
+      }
+    }
+  },
+  "name": "ABI-Showatech Pte Ltd",
+  "place_id": "ChIJSRipCqIi2jER4G13OGZo76g",
+  "types": [
+    "convenience_store",
+    "hardware_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12173063106049043936",
+  "vicinity": "Marine Vista"
+}

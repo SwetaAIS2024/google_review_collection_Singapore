@@ -1,0 +1,41 @@
+{
+  "formatted_address": "56 Seletar North Link, Singapore 797589",
+  "geometry": {
+    "location": {
+      "lat": 1.423059,
+      "lng": 103.8882597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424342230291502,
+        "lng": 103.8897099802915
+      },
+      "southwest": {
+        "lat": 1.421644269708498,
+        "lng": 103.8870120197085
+      }
+    }
+  },
+  "name": "GREYFORM PTE LTD (TOL)",
+  "place_id": "ChIJ7cmZsOYV2jERsRCwuOvkgWI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mokul Al Mamun",
+      "author_url": "https://www.google.com/maps/contrib/118237071358700507440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiBW0EpYVotRDYrs-jz4EmioSQwNCWHJ1X-DSsUhVlN4BkJ6lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711895808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7098206188779606193",
+  "user_ratings_total": 1,
+  "vicinity": "56 Seletar North Link, Singapore"
+}

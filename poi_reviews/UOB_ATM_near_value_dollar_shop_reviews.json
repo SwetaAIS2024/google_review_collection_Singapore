@@ -1,0 +1,29 @@
+{
+  "formatted_address": "727 Clementi West Street 2, #01-258, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3045757,
+      "lng": 103.7641874
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305943930291502,
+        "lng": 103.7655791802915
+      },
+      "southwest": {
+        "lat": 1.303245969708498,
+        "lng": 103.7628812197085
+      }
+    }
+  },
+  "name": "UOB ATM (near value dollar shop)",
+  "place_id": "ChIJcePKBs0b2jERPKYCsZfGjIo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9983572828785649212",
+  "vicinity": "727 Clementi West Street 2, #01-258, Singapore"
+}

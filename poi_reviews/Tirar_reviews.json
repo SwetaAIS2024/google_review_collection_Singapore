@@ -1,0 +1,29 @@
+{
+  "formatted_address": "18 Kaki Bukit Rd 3, Singapore 415978",
+  "geometry": {
+    "location": {
+      "lat": 1.3372562,
+      "lng": 103.9028896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338742830291502,
+        "lng": 103.9043255302915
+      },
+      "southwest": {
+        "lat": 1.336044869708498,
+        "lng": 103.9016275697085
+      }
+    }
+  },
+  "name": "Tirar",
+  "place_id": "ChIJAQDAYuUX2jERjNZEbbZKSws",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=813826305048237708",
+  "vicinity": "18 Kaki Bukit Road 3"
+}

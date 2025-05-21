@@ -1,0 +1,31 @@
+{
+  "formatted_address": "2 Jurong East Street 21, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.334938,
+      "lng": 103.746872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336322730291502,
+        "lng": 103.7485418302915
+      },
+      "southwest": {
+        "lat": 1.333624769708498,
+        "lng": 103.7458438697085
+      }
+    }
+  },
+  "name": "Oriental Herbal Tea",
+  "place_id": "ChIJa2nb2g0Q2jERNqlPq8bEJtQ",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15287122342712420662",
+  "vicinity": "2 Jurong East Street 21"
+}

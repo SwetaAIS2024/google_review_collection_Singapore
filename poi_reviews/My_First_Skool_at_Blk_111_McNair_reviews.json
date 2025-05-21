@@ -1,0 +1,56 @@
+{
+  "formatted_address": "McNair Rd, #01-238 Block 111, Singapore 320111",
+  "geometry": {
+    "location": {
+      "lat": 1.3213845,
+      "lng": 103.8582792
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322768430291502,
+        "lng": 103.8595845802915
+      },
+      "southwest": {
+        "lat": 1.320070469708498,
+        "lng": 103.8568866197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 111 McNair",
+  "place_id": "ChIJVVXFztAZ2jERTVzy8zfNfD4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shandi Tng",
+      "author_url": "https://www.google.com/maps/contrib/114582379703858834202/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu56XP-ZgCl_Z4boW-qhGZlUzs_XLMoj3BD_22Qrbgj10elWRf=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "My daughter just started PG class at Block 111 McNair for about 2 weeks. She is very happy and has already learnt many new things. I love how friendly all the staff are. Auntie cooks yummy food for the children, another auntie keeps it clean and tidy. Most importantly, the teachers. Teacher Eli helps with the check in & check out. She always greets all parents and is so patient with my girl even though she cries at times. Lu Laoshi, Fang Laoshi, Teacher Lina & Teacher Zaf are awesome! Special shoutout to Teacher Zaf & Lu Laoshi. From the very first day, they have been so kind and supportive. Always so meticulous in their updates, suggestions, what to expect. As a first-time mother, it is a relief to send my child to a happy learning environment. I love that there is a good mix of different ethnicities both among staff and students. Thank you so much teachers!!! ❤️",
+      "time": 1736996039,
+      "translated": false
+    },
+    {
+      "author_name": "lew zhengxi",
+      "author_url": "https://www.google.com/maps/contrib/118268461385394187709/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8b7L8Q63sfanWfcllw5fcp93G-by-QbDzvQPPHXQu5VATySU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Omg.",
+      "time": 1630319794,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4502699367663295565",
+  "user_ratings_total": 2,
+  "vicinity": "McNair Road, #01-238 Block 111"
+}

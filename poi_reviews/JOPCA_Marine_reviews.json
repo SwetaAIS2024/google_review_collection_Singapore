@@ -1,0 +1,41 @@
+{
+  "formatted_address": "71 Tuas View Pl, #01-06 Westlink Two, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2976655,
+      "lng": 103.6323179
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299078430291502,
+        "lng": 103.6334909802915
+      },
+      "southwest": {
+        "lat": 1.296380469708498,
+        "lng": 103.6307930197085
+      }
+    }
+  },
+  "name": "JOPCA Marine",
+  "place_id": "ChIJXSC0ZF4F2jERHSIVEmrhL68",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sukumaranj Jayandran",
+      "author_url": "https://www.google.com/maps/contrib/109300521485296661287/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkRU-ZCDMVB8noNbWpiKZtWiiWrWoplK76552wHoFmAAFl2DHe=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501516608,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12623556126228947485",
+  "user_ratings_total": 1,
+  "vicinity": "71 Tuas View Place, #01-06 Westlink Two"
+}

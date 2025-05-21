@@ -1,0 +1,43 @@
+{
+  "formatted_address": "59 Chartwell Dr, Singapore 558753",
+  "geometry": {
+    "location": {
+      "lat": 1.3604164,
+      "lng": 103.864074
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361793730291502,
+        "lng": 103.8653812302915
+      },
+      "southwest": {
+        "lat": 1.359095769708498,
+        "lng": 103.8626832697085
+      }
+    }
+  },
+  "name": "Glory Place",
+  "place_id": "ChIJXVRjFgEX2jERrctOGLpkE2A",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Lone Sharp",
+      "author_url": "https://www.google.com/maps/contrib/102560354736821184797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvP-DAUJtP6neBSdjUqnIQToZhIW-SNYPOBVyTmV-cSlxz9b7E8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477969073,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6922987802633096109",
+  "user_ratings_total": 1,
+  "vicinity": "59 Chartwell Drive"
+}

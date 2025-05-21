@@ -1,0 +1,54 @@
+{
+  "formatted_address": "63 Hillview Ave, Singapore 669569",
+  "geometry": {
+    "location": {
+      "lat": 1.3570686,
+      "lng": 103.7630855
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358633480291502,
+        "lng": 103.7642364302915
+      },
+      "southwest": {
+        "lat": 1.355935519708498,
+        "lng": 103.7615384697085
+      }
+    }
+  },
+  "name": "Apotheca Marketing Pte Ltd",
+  "place_id": "ChIJ8yZ80U8Q2jERCLLCTUAzNg4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Kok Tiang",
+      "author_url": "https://www.google.com/maps/contrib/115377013782872440627/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPzhquuJxQalqAdbKYDSwlGvwX4pASaonb7-3JW-bVe8HR4Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Yip Pak Kuin, 9745, seriously",
+      "time": 1701775041,
+      "translated": true
+    },
+    {
+      "author_name": "Jor dan",
+      "author_url": "https://www.google.com/maps/contrib/104881308117191771564/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPZIZBcFnbQxkjJxcF5yMt-gefTaSvd6qrBnUlqXvRldgzkw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548812196,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1024062316548895240",
+  "user_ratings_total": 2,
+  "vicinity": "63 Hillview Avenue, Singapore"
+}

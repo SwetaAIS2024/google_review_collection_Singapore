@@ -1,0 +1,68 @@
+{
+  "formatted_address": "112 McNair Rd, Singapore 320122",
+  "geometry": {
+    "location": {
+      "lat": 1.3208404,
+      "lng": 103.8589166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322130480291502,
+        "lng": 103.8603434302915
+      },
+      "southwest": {
+        "lat": 1.319432519708498,
+        "lng": 103.8576454697085
+      }
+    }
+  },
+  "name": "100 Super Mini Mart",
+  "place_id": "ChIJzfG9X9AZ2jEReAh5AAzybk0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sherine Tang",
+      "author_url": "https://www.google.com/maps/contrib/117514626125295311464/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAvvW0s-HmMFsJ602WWEJeH4oxDO0pZRelvgxTMZ5tcHMilaQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "The oldest store in the neighborhood. Used to sell many essential items but now it’s just snacks and drinks mainly. The owner is quite old but still very active. Do visit the store to help sustain her business.",
+      "time": 1609217198,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammad Arif",
+      "author_url": "https://www.google.com/maps/contrib/109464345040970260318/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmfXXBNXtAbtB8YsiSaAJjG_Bc7ewdxWae2AgAuNkqLcZ6BtN17A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Gd",
+      "time": 1676896433,
+      "translated": false
+    },
+    {
+      "author_name": "Lex Lim",
+      "author_url": "https://www.google.com/maps/contrib/102051889920028907509/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvZw5dKGB42KzH9SUnCsEOF50L973o963JSbm6F2caRrWGgg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1652344354,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5579663121720084600",
+  "user_ratings_total": 3,
+  "vicinity": "112 McNair Road, Singapore"
+}

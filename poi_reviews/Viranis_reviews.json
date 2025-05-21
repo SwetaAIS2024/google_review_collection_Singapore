@@ -1,0 +1,43 @@
+{
+  "formatted_address": "18 Cross St, #01-108 Exchange, Singapore 048423",
+  "geometry": {
+    "location": {
+      "lat": 1.2838157,
+      "lng": 103.8467955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285183730291502,
+        "lng": 103.8482102302915
+      },
+      "southwest": {
+        "lat": 1.282485769708498,
+        "lng": 103.8455122697085
+      }
+    }
+  },
+  "name": "Viranis",
+  "place_id": "ChIJb-iV9D8Z2jERIU8CxN-Poq8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "DANIEL XIAN",
+      "author_url": "https://www.google.com/maps/contrib/102137509795005895876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7R2SVwDropuDTCc4bGSyoGgnYD0GP9LjjWLciKlihbkzRUS8i=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721563796,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12655836094093479713",
+  "user_ratings_total": 1,
+  "vicinity": "18 Cross Street, #01-108 Exchange"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "38 Telok Blangah Rise, #01-327, Singapore 090038",
+  "geometry": {
+    "location": {
+      "lat": 1.2723668,
+      "lng": 103.8221563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273629030291502,
+        "lng": 103.8235538302915
+      },
+      "southwest": {
+        "lat": 1.270931069708498,
+        "lng": 103.8208558697085
+      }
+    }
+  },
+  "name": "Welcome Supermarket",
+  "place_id": "ChIJp8OaBAAZ2jERclq_iempp8M",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14098423979010120306",
+  "vicinity": "38 Telok Blangah Rise, #01-327, Singapore"
+}

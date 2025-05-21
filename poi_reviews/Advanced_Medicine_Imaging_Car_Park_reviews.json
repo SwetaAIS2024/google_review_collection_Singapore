@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Biopolis Dr, Singapore 138622",
+  "geometry": {
+    "location": {
+      "lat": 1.3012325,
+      "lng": 103.7931984
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302690630291502,
+        "lng": 103.7943176802915
+      },
+      "southwest": {
+        "lat": 1.299992669708498,
+        "lng": 103.7916197197085
+      }
+    }
+  },
+  "name": "Advanced Medicine Imaging Car Park",
+  "place_id": "ChIJu3AhKgAb2jERdb-ehHkj9HQ",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8427399807540051829",
+  "vicinity": "1 Biopolis Drive, Singapore"
+}

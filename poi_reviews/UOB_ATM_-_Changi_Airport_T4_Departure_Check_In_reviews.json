@@ -1,0 +1,45 @@
+{
+  "formatted_address": "No. 10 Airport Boulevard, #02-K5, Departure Check In, Singapore Changi Airport, Terminal 4, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3384416,
+      "lng": 103.9836789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339945130291502,
+        "lng": 103.9846536802915
+      },
+      "southwest": {
+        "lat": 1.337247169708498,
+        "lng": 103.9819557197085
+      }
+    }
+  },
+  "name": "UOB ATM - Changi Airport T4 Departure Check In",
+  "place_id": "ChIJ4b9Jc6A92jERODYlnwDocsQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Little hard to find, especially if you need some cash right before you fly off. It's past the immigrations, through the hall way, nearer to the side where the International Food Hall / lounges are at. Ground floor, next to the escalator, next to the other banks' ATM machines.",
+      "time": 1691810649,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14155631668146550328",
+  "user_ratings_total": 1,
+  "vicinity": "No. 10 Airport Boulevard, #02-K5, Departure Check In, Singapore Changi Airport, Terminal 4"
+}

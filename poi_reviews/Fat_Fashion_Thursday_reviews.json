@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Alexandra Rd, Singapore 119968",
+  "geometry": {
+    "location": {
+      "lat": 1.27696,
+      "lng": 103.799746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278257930291502,
+        "lng": 103.8010691302915
+      },
+      "southwest": {
+        "lat": 1.275559969708498,
+        "lng": 103.7983711697085
+      }
+    }
+  },
+  "name": "Fat Fashion Thursday",
+  "place_id": "ChIJL8jGdscb2jEREPzqdGZToB8",
+  "types": [
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2278913110962797584",
+  "vicinity": "Alexandra Road"
+}

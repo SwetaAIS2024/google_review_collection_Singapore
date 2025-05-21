@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2998627,
+      "lng": 103.7929948
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301257580291502,
+        "lng": 103.7943453302915
+      },
+      "southwest": {
+        "lat": 1.298559619708498,
+        "lng": 103.7916473697085
+      }
+    }
+  },
+  "name": "Opp Weyhill Cl",
+  "place_id": "ChIJ52auDEYa2jERKZc6RiGB5i0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Muditha Nakandala",
+      "author_url": "https://www.google.com/maps/contrib/111482487510013780813/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKDXLbV6TOtxV1WJ4E4LY3nFEgMhdLFsZxZt07LpL8hY69-egG=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693315079,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3307472956262356777",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

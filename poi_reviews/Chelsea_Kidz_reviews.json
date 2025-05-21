@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Hougang Street 91, #01-44, Singapore 538692",
+  "geometry": {
+    "location": {
+      "lat": 1.3759872,
+      "lng": 103.8792977
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377129730291502,
+        "lng": 103.8805570302915
+      },
+      "southwest": {
+        "lat": 1.374431769708498,
+        "lng": 103.8778590697085
+      }
+    }
+  },
+  "name": "Chelsea Kidz",
+  "place_id": "ChIJy9vMLVsW2jER0-RmQ8mxkr8",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13804291285821351123",
+  "vicinity": "1 Hougang Street 91, #01-44"
+}

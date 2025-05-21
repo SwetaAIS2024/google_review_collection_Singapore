@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Yishun Street 81, #01-04 South CC, Singapore 768455",
+  "geometry": {
+    "location": {
+      "lat": 1.414923,
+      "lng": 103.8348632
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416246480291502,
+        "lng": 103.8363518802915
+      },
+      "southwest": {
+        "lat": 1.413548519708498,
+        "lng": 103.8336539197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB NEE SOON SOUTH DIGITAL LOBBY",
+  "place_id": "ChIJKcpPEvwV2jER2NnXJrpDU-E",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16236395548395428312",
+  "vicinity": "30 Yishun Street 81, #01-04 South CC"
+}

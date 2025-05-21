@@ -1,0 +1,46 @@
+{
+  "formatted_address": "433 Tampines Street 43, #01-59, 520433, Singapore 520433",
+  "geometry": {
+    "location": {
+      "lat": 1.3590631,
+      "lng": 103.9510862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360377230291502,
+        "lng": 103.9524951802915
+      },
+      "southwest": {
+        "lat": 1.357679269708498,
+        "lng": 103.9497972197085
+      }
+    }
+  },
+  "name": "Zheng De Medical Hall",
+  "place_id": "ChIJESf3dgY92jEReOaCoqdUDqs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "David Loh",
+      "author_url": "https://www.google.com/maps/contrib/104000029000925731475/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNZwdKhRfQ65viqYYbXLSdBOKjH7F5MHnz9LUtQgfIS8GnOJCcVw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Good service",
+      "time": 1697017769,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12325882309122385528",
+  "user_ratings_total": 1,
+  "vicinity": "433 Tampines Street 43, #01-59, 520433"
+}

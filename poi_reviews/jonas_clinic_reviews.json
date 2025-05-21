@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3578642,
+      "lng": 103.8835456
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359278830291502,
+        "lng": 103.8849684302915
+      },
+      "southwest": {
+        "lat": 1.356580869708498,
+        "lng": 103.8822704697085
+      }
+    }
+  },
+  "name": "jonas clinic",
+  "place_id": "ChIJl6hYCrEX2jERw5m8NH24okQ",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4945718188701424067",
+  "vicinity": "Singapore"
+}

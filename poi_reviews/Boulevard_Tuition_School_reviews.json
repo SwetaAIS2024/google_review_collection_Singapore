@@ -1,0 +1,30 @@
+{
+  "formatted_address": "304 Orchard Rd, Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3014945,
+      "lng": 103.8384907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302843180291502,
+        "lng": 103.8398395302915
+      },
+      "southwest": {
+        "lat": 1.300145219708498,
+        "lng": 103.8371415697085
+      }
+    }
+  },
+  "name": "Boulevard Tuition School",
+  "place_id": "ChIJjQ20MZEZ2jERZnUy2ItXl1c",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6311609660922295654",
+  "vicinity": "304 Orchard Road, Lucky Plaza"
+}

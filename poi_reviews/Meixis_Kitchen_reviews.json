@@ -1,0 +1,46 @@
+{
+  "formatted_address": "259 Bukit Panjang Ring Rd, #01-34, Singapore 671259",
+  "geometry": {
+    "location": {
+      "lat": 1.3773085,
+      "lng": 103.7730453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378785630291502,
+        "lng": 103.7743663802915
+      },
+      "southwest": {
+        "lat": 1.376087669708498,
+        "lng": 103.7716684197085
+      }
+    }
+  },
+  "name": "Meixi's Kitchen",
+  "place_id": "ChIJdzDvVrQR2jERG7y6JTvXWFE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ian Heng",
+      "author_url": "https://www.google.com/maps/contrib/109433312110942599622/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXk2oiaK1IEEk7JX3bpnmVDe0v6nuGGJ5vXgfYXzUAtqGpsyxE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Had a great meal at their Toa Payoh outlet, having a wide variety of options, including special uncommon items, maintaining its freshness for dinner. Fried items are re-fried for crispiness, separately serve from the wet items and noodles. Though the queue seems long, the service was actually prompt and staff well-mannered.\nHad the laksa version, perfect for a rainy day. Bonus that the stall operates 24hrs!",
+      "time": 1668261076,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5861671564058737691",
+  "user_ratings_total": 1,
+  "vicinity": "259 Bukit Panjang Ring Road, #01-34, Singapore"
+}

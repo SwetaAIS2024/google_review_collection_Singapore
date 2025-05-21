@@ -1,0 +1,43 @@
+{
+  "formatted_address": "4A Jln Batu, #01-32, Singapore 432004",
+  "geometry": {
+    "location": {
+      "lat": 1.3024306,
+      "lng": 103.8839057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303726480291502,
+        "lng": 103.8851808302915
+      },
+      "southwest": {
+        "lat": 1.301028519708498,
+        "lng": 103.8824828697085
+      }
+    }
+  },
+  "name": "Meng Fruits",
+  "place_id": "ChIJ-evPIkQY2jERsyKblYMnorU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Charles Ngoi",
+      "author_url": "https://www.google.com/maps/contrib/105162689256920416366/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG3bLD9OlWZ8vSuV24v_MdZmmcoS5z0wyHedrizP9renyXDs6bAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624799991,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13088066913196253875",
+  "user_ratings_total": 1,
+  "vicinity": "4A Jalan Batu, #01-32, Singapore"
+}

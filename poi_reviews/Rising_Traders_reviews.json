@@ -1,0 +1,44 @@
+{
+  "formatted_address": "274 Bukit Batok East Ave 4, Singapore 650274",
+  "geometry": {
+    "location": {
+      "lat": 1.3478523,
+      "lng": 103.7581598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349405930291502,
+        "lng": 103.7593816802915
+      },
+      "southwest": {
+        "lat": 1.346707969708498,
+        "lng": 103.7566837197085
+      }
+    }
+  },
+  "name": "Rising Traders",
+  "place_id": "ChIJFz0n1UMQ2jERBZ3C9p7Re9g",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Eng Alih",
+      "author_url": "https://www.google.com/maps/contrib/113482777445965236856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_5NEkR0K1XaEcKusDj9VSaVGhx8RBZEpc8xn3HS9_9PCIrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599228638,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15599292215002832133",
+  "user_ratings_total": 1,
+  "vicinity": "274 Bukit Batok East Avenue 4, Singapore"
+}

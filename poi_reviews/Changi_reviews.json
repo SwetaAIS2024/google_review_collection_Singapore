@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Changi, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3450101,
+      "lng": 103.9832089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393181969622062,
+        "lng": 104.0335508601833
+      },
+      "southwest": {
+        "lat": 1.310677955330719,
+        "lng": 103.9642029745907
+      }
+    }
+  },
+  "name": "Changi",
+  "place_id": "ChIJH62Razk82jERfy5drfN5HZI",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Changi,+Singapore&ftid=0x31da3c396b91ad1f:0x921d79f3ad5d2e7f",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,83 @@
+{
+  "formatted_address": "123 Sims Ave, #01-02, Singapore 387446",
+  "geometry": {
+    "location": {
+      "lat": 1.3142168,
+      "lng": 103.8778333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315521330291502,
+        "lng": 103.8791979802915
+      },
+      "southwest": {
+        "lat": 1.312823369708498,
+        "lng": 103.8765000197085
+      }
+    }
+  },
+  "name": "Tasty Munch Kitchen & Bar",
+  "place_id": "ChIJ-amibigZ2jERGtKtm8Fwv5w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Na Di",
+      "author_url": "https://www.google.com/maps/contrib/111758847942959680862/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7spy2hEvrTQAuHVf3ybuYkg-5KSvoxyZ0HIPsf9pfg9iRZR8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "In every dim morning, when the first ray of sunshine penetrates the clouds gently and touches the earth, a carefully prepared breakfast is like the prelude of love, quietly playing; it is not only a pampering for the taste buds, but also a pampering for the taste buds. It is an affectionate confession to the soul.\n\nThe exquisite tableware and colorful food are as pleasing to the eye as works of art. They not only nourish the body, but also awaken the soul that has been sleeping all night, making every ordinary day shine with this sense of ritual. Hui.\n\nThus, a beautiful day slowly kicked off with this delicate care and romantic expectations.",
+      "time": 1727329441,
+      "translated": false
+    },
+    {
+      "author_name": "xyvian lee",
+      "author_url": "https://www.google.com/maps/contrib/100247383889412647960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS7cxdr0sVcL2oTbDqHR1t_LMDAImvMlbYQ1v0to8TCl2IWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Nice environment, very clean and tidy, and the food is not only beautiful in appearance, tastes also fantastic. My friends and I love the food so much, it's worth going back for more.",
+      "time": 1727344090,
+      "translated": false
+    },
+    {
+      "author_name": "徐敬美",
+      "author_url": "https://www.google.com/maps/contrib/107410647425734937088/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXRB2nIL2Edc_gRDY4ZeuIVG1Jx92ASO7-3oGxqNOrYITRLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The restaurant's specialties are colorful and unique, making it a great place for food lovers.",
+      "time": 1727332244,
+      "translated": true
+    },
+    {
+      "author_name": "Kristina M.",
+      "author_url": "https://www.google.com/maps/contrib/108690606505530552070/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyIeRNx0t0h31_DvILUtfCydG3b447SvA7j3epiZD1lBDOhg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Nice restaurant, prices are also excellent for Singapore, it’s clean inside, we liked it",
+      "time": 1736836547,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11294870367311352346",
+  "user_ratings_total": 4,
+  "vicinity": "123 Sims Avenue, #01-02"
+}

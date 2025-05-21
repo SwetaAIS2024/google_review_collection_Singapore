@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31657,
+      "lng": 103.933342
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317911830291502,
+        "lng": 103.9346313802915
+      },
+      "southwest": {
+        "lat": 1.315213869708498,
+        "lng": 103.9319334197085
+      }
+    }
+  },
+  "name": "Casafina",
+  "place_id": "ChIJr_vY37ki2jERRNGU2Rewbbg",
+  "rating": 4.4,
+  "reviews": [
+    {
+      "author_name": "Rainie Green",
+      "author_url": "https://www.google.com/maps/contrib/106666114218032786518/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjEu5cBoV9rfbsE-3txhdKAAApMhpc7gRVd1_2-ez0ENNKQDSt=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The overhead bridge next to the bus stop doesnt have way for wheelchair",
+      "time": 1705290201,
+      "translated": false
+    },
+    {
+      "author_name": "Astraeus Tu",
+      "author_url": "https://www.google.com/maps/contrib/112508317414544824402/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwOphHU7E9_7oWcCkydevlbP3B_ROeZxcGCYglSNF1qD-6dCU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "at the back gate of temasek junior college\nalways a good spot for escapism\nnah",
+      "time": 1661734538,
+      "translated": false
+    },
+    {
+      "author_name": "ohpolary",
+      "author_url": "https://www.google.com/maps/contrib/106412652093061706985/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsFtNYglgZTUU5ACO6UORMINfNJr1YJHvAmcxDWPUE8RZajD8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712998795,
+      "translated": false
+    },
+    {
+      "author_name": "Raju Mopidevi",
+      "author_url": "https://www.google.com/maps/contrib/109068398538510055408/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-uaaGeWfH-Om7DVMQNVh31ZB5pijJhAIJUAvP8Prrmif1JNA-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502193957,
+      "translated": false
+    },
+    {
+      "author_name": "Samuel J P",
+      "author_url": "https://www.google.com/maps/contrib/102278698419498906877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg_lq_OF2MeYGOwOg1y_AWKKkVERBWpgvt8oydtl9qXZ1qxei4=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1407250550,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13289471691921346884",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

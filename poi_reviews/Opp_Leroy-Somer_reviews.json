@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.32455,
+      "lng": 103.685646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325931630291502,
+        "lng": 103.6869951802915
+      },
+      "southwest": {
+        "lat": 1.323233669708498,
+        "lng": 103.6842972197085
+      }
+    }
+  },
+  "name": "Opp Leroy-Somer",
+  "place_id": "ChIJ6wk5_X4F2jERXVg_MjW0eLQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13004342064601585757",
+  "vicinity": "Singapore"
+}

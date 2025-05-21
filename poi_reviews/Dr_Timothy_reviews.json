@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 248839",
+  "geometry": {
+    "location": {
+      "lat": 1.3804917,
+      "lng": 103.7370844
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381838180291502,
+        "lng": 103.7383565802915
+      },
+      "southwest": {
+        "lat": 1.379140219708498,
+        "lng": 103.7356586197085
+      }
+    }
+  },
+  "name": "Dr Timothy",
+  "place_id": "ChIJW7jrYrkR2jERLds-VxasxD4",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4522929137739815725",
+  "vicinity": ""
+}

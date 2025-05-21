@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317353,
+      "lng": 103.844215
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318709980291502,
+        "lng": 103.8456176802915
+      },
+      "southwest": {
+        "lat": 1.316012019708498,
+        "lng": 103.8429197197085
+      }
+    }
+  },
+  "name": "United Sq/Bef Novena Stn",
+  "place_id": "ChIJmWKK_OcZ2jER2g6-6fi6Mw0",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Sunil NK",
+      "author_url": "https://www.google.com/maps/contrib/115104139539163437238/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYA2gRkgBOG6mD_MDyhnf6hPsCS7yeo4EaaaTWLdXfGci9oPb3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Nice mall",
+      "time": 1491735719,
+      "translated": false
+    },
+    {
+      "author_name": "Harry Gondo",
+      "author_url": "https://www.google.com/maps/contrib/106376704285746238360/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIJGR_viiCr9EMN2jSGJj2S6yxJZF0XHCZjTzPiK4Q1dPY5eJiOA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689938898,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Hsieh",
+      "author_url": "https://www.google.com/maps/contrib/106065710062516757314/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQIjnUnunH_W9rGNETBCIGWQU-dJ_s8KtxEVK-f8W2ao-eKXFVfA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476878379,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=951309524541509338",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

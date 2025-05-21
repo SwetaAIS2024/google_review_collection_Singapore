@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Upper Serangoon Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3796647,
+      "lng": 103.903334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380749880291502,
+        "lng": 103.9047578802915
+      },
+      "southwest": {
+        "lat": 1.378051919708498,
+        "lng": 103.9020599197085
+      }
+    }
+  },
+  "name": "Serangoon Park Connector (Sungei Pinang)",
+  "place_id": "ChIJ-_Q06DwW2jERZez8PEDvAGc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ant Tan (Ant)",
+      "author_url": "https://www.google.com/maps/contrib/116001171041763971352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhpOn0UWZPLwp6vIWLV9Z5IddkOcvktapwMfK9jOIOXQifK-uz=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Nice place for running minus e scooter which is annoying.",
+      "time": 1601110208,
+      "translated": false
+    },
+    {
+      "author_name": "Wendy Sim",
+      "author_url": "https://www.google.com/maps/contrib/114736216456494531522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk-NZJD6SVvGdW6CygNNvsJdtPhidtXHAIiPwzifyvwiYmxGCRIg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1651312567,
+      "translated": false
+    },
+    {
+      "author_name": "Peifeng (amzg. com)",
+      "author_url": "https://www.google.com/maps/contrib/116675207955272717700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfASHwTjRIDZtW_AQMDbr7ZpSeTZV2FWq31PNdnBV9FvKowQVu=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613195519,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7422195245086731365",
+  "user_ratings_total": 3,
+  "vicinity": "Upper Serangoon Crescent"
+}

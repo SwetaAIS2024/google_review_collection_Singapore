@@ -1,0 +1,29 @@
+{
+  "formatted_address": "121 Lor 2 Toa Payoh, Singapore 310121",
+  "geometry": {
+    "location": {
+      "lat": 1.3391224,
+      "lng": 103.8463168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340417430291502,
+        "lng": 103.8477806302915
+      },
+      "southwest": {
+        "lat": 1.337719469708498,
+        "lng": 103.8450826697085
+      }
+    }
+  },
+  "name": "gwnzhomecafe",
+  "place_id": "ChIJewFsE8cX2jERycu0hwERtP0",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18281255485673098185",
+  "vicinity": "121 Lorong 2 Toa Payoh"
+}

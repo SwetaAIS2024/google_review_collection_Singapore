@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.425696,
+      "lng": 103.843605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427030480291502,
+        "lng": 103.8449396302915
+      },
+      "southwest": {
+        "lat": 1.424332519708498,
+        "lng": 103.8422416697085
+      }
+    }
+  },
+  "name": "Bet Blks 349/350",
+  "place_id": "ChIJcUq87WkU2jER4QIQGeC39aQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Connie Chong",
+      "author_url": "https://www.google.com/maps/contrib/110080322625293842739/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK5JACypeiE8R3f7lZYJLspUzl00KQoInVhafoVev-EN0Erw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "9 years ago",
+      "text": "is it nice to stay there",
+      "time": 1433467714,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11886608964635329249",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

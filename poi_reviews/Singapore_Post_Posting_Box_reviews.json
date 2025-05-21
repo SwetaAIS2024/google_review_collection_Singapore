@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Jurong West Street 25, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35401,
+      "lng": 103.7038569
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355390280291502,
+        "lng": 103.7052030302915
+      },
+      "southwest": {
+        "lat": 1.352692319708498,
+        "lng": 103.7025050697085
+      }
+    }
+  },
+  "name": "Singapore Post Posting Box",
+  "place_id": "ChIJZ18G4WgP2jER_qduCTsPiHM",
+  "types": [
+    "post_office",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8324920657430095870",
+  "vicinity": "Jurong West Street 25"
+}

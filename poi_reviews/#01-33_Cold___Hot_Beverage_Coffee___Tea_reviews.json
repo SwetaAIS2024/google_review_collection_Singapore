@@ -1,0 +1,57 @@
+{
+  "formatted_address": "495 Tampines Ave 5, #01-33 Hawker Centre @ Our Tampines Hub, Singapore 529649",
+  "geometry": {
+    "location": {
+      "lat": 1.353828,
+      "lng": 103.9399475
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355264030291502,
+        "lng": 103.9409123802915
+      },
+      "southwest": {
+        "lat": 1.352566069708498,
+        "lng": 103.9382144197085
+      }
+    }
+  },
+  "name": "#01-33 Cold / Hot Beverage Coffee / Tea",
+  "place_id": "ChIJpwJ5gxI92jERZhTbkpq8oLM",
+  "rating": 1.5,
+  "reviews": [
+    {
+      "author_name": "Eddy HG Ng",
+      "author_url": "https://www.google.com/maps/contrib/109275011164598150126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ75uc_XyXG60jfCB4qsWYelP3RyElJsGOZTY2Quhnm8LLOAg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Just now saw a young man ask for some ice due to injury. Uncle in the stall reply that they don’t sell ice and the injury is nothing to do with him and reluctantly to give some ice. End up the young man buy a drink with ice.",
+      "time": 1664618103,
+      "translated": false
+    },
+    {
+      "author_name": "Eddie Tan",
+      "author_url": "https://www.google.com/maps/contrib/102752163856741220937/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqdf5PBKvwdkP50E1pSvzxzqLvGTYu4eKuZVavPQuDQ2ucghw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "Worst coffee ever",
+      "time": 1730000887,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12943552701137622118",
+  "user_ratings_total": 2,
+  "vicinity": "495 Tampines Avenue 5, #01-33 Hawker Centre @ Our Tampines Hub"
+}

@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3264905,
+      "lng": 103.8441703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327877380291502,
+        "lng": 103.8455163302915
+      },
+      "southwest": {
+        "lat": 1.325179419708498,
+        "lng": 103.8428183697085
+      }
+    }
+  },
+  "name": "Aft Irrawaddy Rd",
+  "place_id": "ChIJVdvsAuAZ2jERIGSWgaRoiKI",
+  "rating": 3.2,
+  "reviews": [
+    {
+      "author_name": "WANG",
+      "author_url": "https://www.google.com/maps/contrib/112060982896943211204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_4ikKj7DBge5r5qj1gcnHDJlOvQUjvFEluwtKvxyPWfpccb0Dw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "Bus stop is very small. No seating is available and boarding the bus is inconvenient during rainy weather.\n\n*Bus stop is not accessible to wheelchair users.",
+      "time": 1598777199,
+      "translated": false
+    },
+    {
+      "author_name": "Kaleb Marciano Ma",
+      "author_url": "https://www.google.com/maps/contrib/107243183341843917608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3wpL6Uz6GqfjiJVhI_115fxLHR690iTNHZNmhoWICm4QvXvBSdA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Small bus stop. Not available for wheel chair boarding.",
+      "time": 1647334180,
+      "translated": false
+    },
+    {
+      "author_name": "ALI MD. TUHIN",
+      "author_url": "https://www.google.com/maps/contrib/115520370980953651397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWux7a1pXzH32jSFJFljIXhIeQS1G-RjAyLbdd0BIPzC82BX3wa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693091157,
+      "translated": false
+    },
+    {
+      "author_name": "JP Lim",
+      "author_url": "https://www.google.com/maps/contrib/114190711004456794754/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXpmj54MYJuKrIQ1QIGiY9DxdK-jH74ggJvCAwtdwd1lnNwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1653182841,
+      "translated": false
+    },
+    {
+      "author_name": "Pjpj Jacky Kwan",
+      "author_url": "https://www.google.com/maps/contrib/111469348427385957698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ9MMnoKmdG8iakI2yJWP8pgUE3DhGLKZbLSUMVZGpyMKzIRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1591574166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11711725886735016992",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "3 Tampines Central 1, #01-01 Abacus Plaza, Singapore 529540",
+  "geometry": {
+    "location": {
+      "lat": 1.352687,
+      "lng": 103.9429503
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354019080291502,
+        "lng": 103.9444458302915
+      },
+      "southwest": {
+        "lat": 1.351321119708498,
+        "lng": 103.9417478697085
+      }
+    }
+  },
+  "name": "Standard Chartered Bank, Tampines Central",
+  "place_id": "ChIJAQDAIxI92jERAIirG5xlo64",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Alex Densum",
+      "author_url": "https://www.google.com/maps/contrib/108493669949912845235/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIia1Yg8cKpiaLflr622HArJb2mmcP6Hvf0R4tK6gk_gsTEZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "Staff were super friendly and sorted out my issue with my account in 5 minutes.",
+      "time": 1745212918,
+      "translated": false
+    },
+    {
+      "author_name": "Manoj Wickrematunge",
+      "author_url": "https://www.google.com/maps/contrib/109847033203141370977/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrU6cZqGe8jtp2IXVl5-BKqcMICImGmh9j4WatBImcdW2-OA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Worst possible service. Several counters are closed (with staff behind the counter looking at their phones etc) with so many customers in queue. Be prepared to wait at least 30 minutes for the simplest of tasks.",
+      "time": 1682399844,
+      "translated": false
+    },
+    {
+      "author_name": "Thanoj KamiReddy",
+      "author_url": "https://www.google.com/maps/contrib/117502545328370642635/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Kf55ni_Ye14M5Ld4Tn3wewKp6HrevGG_bMP3Fo_9h8fhYw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1616635889,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12584013504956827648",
+  "user_ratings_total": 3,
+  "vicinity": "3 Tampines Central 1, #01-01 Abacus Plaza"
+}

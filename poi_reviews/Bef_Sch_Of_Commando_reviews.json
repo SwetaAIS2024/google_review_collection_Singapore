@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38336,
+      "lng": 103.97818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384712080291502,
+        "lng": 103.9795787802915
+      },
+      "southwest": {
+        "lat": 1.382014119708498,
+        "lng": 103.9768808197085
+      }
+    }
+  },
+  "name": "Bef Sch Of Commando",
+  "place_id": "ChIJyf8nyzg82jERqEi_94i39kM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4897303443711936680",
+  "vicinity": "Singapore"
+}

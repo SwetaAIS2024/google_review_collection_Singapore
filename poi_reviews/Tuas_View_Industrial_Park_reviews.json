@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296193,
+      "lng": 103.624881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297620980291502,
+        "lng": 103.6260163802915
+      },
+      "southwest": {
+        "lat": 1.294923019708498,
+        "lng": 103.6233184197085
+      }
+    }
+  },
+  "name": "Tuas View Industrial Park",
+  "place_id": "ChIJTXKdNXsG2jERianFH2Jg52E",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Amanulla Aman",
+      "author_url": "https://www.google.com/maps/contrib/108698750929860520228/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4rYK4fj2v2WrAhbdZyvOthh-UEuaQOx98ohX3OwniNsOioEpD=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724575907,
+      "translated": false
+    },
+    {
+      "author_name": "Redmi 9",
+      "author_url": "https://www.google.com/maps/contrib/102373741566789352159/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzVv67getDhim-_pvNzlRJtlSn0YMlo-KJ7ztX_ChFtM4R9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1663327984,
+      "translated": false
+    }
+  ],
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7054713315855280521",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

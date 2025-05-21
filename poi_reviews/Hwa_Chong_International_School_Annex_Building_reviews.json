@@ -1,0 +1,64 @@
+{
+  "formatted_address": "663 Bukit Timah Rd, Singapore 269783",
+  "geometry": {
+    "location": {
+      "lat": 1.3262981,
+      "lng": 103.8012977
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327654180291502,
+        "lng": 103.8026545802915
+      },
+      "southwest": {
+        "lat": 1.324956219708498,
+        "lng": 103.7999566197085
+      }
+    }
+  },
+  "name": "Hwa Chong International School (Annex Building)",
+  "place_id": "ChIJ5XaoiQoa2jERxLYeLj0BW7M",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "Astrid",
+      "author_url": "https://www.google.com/maps/contrib/100326337212569161510/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4KQs_fvlDHTljifOTMYvNY0H7VLtng8hk5JV5NL4ThBBFLzwO=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "Broken school",
+      "time": 1730778649,
+      "translated": true
+    },
+    {
+      "author_name": "Zixin Zeng",
+      "author_url": "https://www.google.com/maps/contrib/113001419881999756164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKl30LgvpDRjPvGNfUM8WXGecGElSv0WvmX9lfgeD47HHMog=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725791256,
+      "translated": false
+    },
+    {
+      "author_name": "Littlegreen",
+      "author_url": "https://www.google.com/maps/contrib/100256724150383357704/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSnow3AOKIkuwoRD2eFEZMLTeinY7dZ-TN4ASEoFLtkmM84ao=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720738538,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12923924917948167876",
+  "user_ratings_total": 3,
+  "vicinity": "663 Bukit Timah Road, Singapore"
+}

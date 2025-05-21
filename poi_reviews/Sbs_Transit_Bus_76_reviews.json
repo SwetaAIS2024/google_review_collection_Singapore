@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Rosyth Rd, Singapore 546133",
+  "geometry": {
+    "location": {
+      "lat": 1.362897,
+      "lng": 103.873579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364229030291502,
+        "lng": 103.8749233302915
+      },
+      "southwest": {
+        "lat": 1.361531069708498,
+        "lng": 103.8722253697085
+      }
+    }
+  },
+  "name": "Sbs Transit: Bus 76",
+  "place_id": "ChIJ7dLnXqsX2jERPnct8o9rFdE",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15066066394425423678",
+  "vicinity": "1 Rosyth Road, Singapore"
+}

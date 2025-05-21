@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Blk 119 Aljunied Ave 2, #01-80/82/84, Singapore 380119",
+  "geometry": {
+    "location": {
+      "lat": 1.319151,
+      "lng": 103.8862896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320616230291502,
+        "lng": 103.8876464302915
+      },
+      "southwest": {
+        "lat": 1.317918269708498,
+        "lng": 103.8849484697085
+      }
+    }
+  },
+  "name": "UOB ATM - Aljunied Autolobby",
+  "place_id": "ChIJ24Zin0sZ2jERGBKdD4sW7lQ",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Kai Yong",
+      "author_url": "https://www.google.com/maps/contrib/117224371636972535563/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLupV11yqqeNoLS_GT2VlR3ESS1DLW-vS6_Pz_I8Z7eQYkTzg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "This is how it looks bro",
+      "time": 1653720198,
+      "translated": false
+    },
+    {
+      "author_name": "lim teck seng",
+      "author_url": "https://www.google.com/maps/contrib/112392446696071700347/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSKiCBh6E5_x7_4gAqzVNbwHlCeardUaIJcxHrp5f7Dt-kBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716625583,
+      "translated": false
+    },
+    {
+      "author_name": "Siew Soon Seng",
+      "author_url": "https://www.google.com/maps/contrib/113132369364002972213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJs-OZ0ukQU0tIgy2_bf82EX-CWg16olVGx7vHj50v4GcmWpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643995239,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6119853730161299992",
+  "user_ratings_total": 3,
+  "vicinity": "Blk 119 Aljunied Avenue 2, #01-80/82/84"
+}

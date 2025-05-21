@@ -1,0 +1,31 @@
+{
+  "formatted_address": "33 Borthwick Dr, Singapore 559536",
+  "geometry": {
+    "location": {
+      "lat": 1.3611074,
+      "lng": 103.8623399
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362485330291502,
+        "lng": 103.8637111802915
+      },
+      "southwest": {
+        "lat": 1.359787369708498,
+        "lng": 103.8610132197085
+      }
+    }
+  },
+  "name": "Eden Life",
+  "place_id": "ChIJVeuyfAEX2jER48iDSqNADuw",
+  "types": [
+    "beauty_salon",
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17009603912698939619",
+  "vicinity": "33 Borthwick Drive"
+}

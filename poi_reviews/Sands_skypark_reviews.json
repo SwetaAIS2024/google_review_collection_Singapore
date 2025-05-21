@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Suntec Twr Two, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2959558,
+      "lng": 103.859276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297253630291502,
+        "lng": 103.8608967302915
+      },
+      "southwest": {
+        "lat": 1.294555669708498,
+        "lng": 103.8581987697085
+      }
+    }
+  },
+  "name": "Sands skypark",
+  "place_id": "ChIJQXKRPgAZ2jERuhmiSbbN8FY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Olivier Gretler",
+      "author_url": "https://www.google.com/maps/contrib/116656728663660907472/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJubW4YTzGhD5qin-LiIjoIYUEeId3Ff2oidTB9WExQClhEHg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743026031,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6264733264475462074",
+  "user_ratings_total": 1,
+  "vicinity": "Suntec Twr Two"
+}

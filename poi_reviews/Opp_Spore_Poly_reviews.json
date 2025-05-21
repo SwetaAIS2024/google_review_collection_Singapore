@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306971,
+      "lng": 103.781914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308335480291502,
+        "lng": 103.7832461302915
+      },
+      "southwest": {
+        "lat": 1.305637519708498,
+        "lng": 103.7805481697085
+      }
+    }
+  },
+  "name": "Opp S'pore Poly",
+  "place_id": "ChIJhaiFwl0a2jERzDAK6XrPLg8",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Peng Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/105469780318854300502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlmebiPaGWWXkJmXcHijD51DcOSWecSAsReVmpwZ2xRflyXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1650673591,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1094039886300328140",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

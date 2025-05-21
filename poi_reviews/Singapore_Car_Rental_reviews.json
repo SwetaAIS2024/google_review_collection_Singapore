@@ -1,0 +1,45 @@
+{
+  "formatted_address": "51 Ubi Ave 1, #02-17/18, Singapore 408933",
+  "geometry": {
+    "location": {
+      "lat": 1.325096,
+      "lng": 103.898223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326358230291502,
+        "lng": 103.8995884302915
+      },
+      "southwest": {
+        "lat": 1.323660269708498,
+        "lng": 103.8968904697085
+      }
+    }
+  },
+  "name": "Singapore Car Rental",
+  "place_id": "ChIJA_a77R0Y2jERfZQ7C5zirBM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bruce LEE",
+      "author_url": "https://www.google.com/maps/contrib/104780322532019535213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxnji8rcoz3bNf-g9-f_TUsPZXA8FNaq5zuN_hfXJpJiAusA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731600165,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_rental",
+    "local_government_office",
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1417757142546093181",
+  "user_ratings_total": 1,
+  "vicinity": "51 Ubi Avenue 1, #02-17/18, Singapore"
+}

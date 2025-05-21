@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2918369,
+      "lng": 103.8027622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293116430291502,
+        "lng": 103.8041091802915
+      },
+      "southwest": {
+        "lat": 1.290418469708498,
+        "lng": 103.8014112197085
+      }
+    }
+  },
+  "name": "Toto",
+  "place_id": "ChIJnUMvXjQa2jERBEpEh_C1vvg",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17923963611647330820",
+  "vicinity": "Singapore"
+}

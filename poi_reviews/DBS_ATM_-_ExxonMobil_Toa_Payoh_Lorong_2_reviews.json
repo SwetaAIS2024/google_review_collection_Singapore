@@ -1,0 +1,29 @@
+{
+  "formatted_address": "399 Lor 2 Toa Payoh, Singapore 319640",
+  "geometry": {
+    "location": {
+      "lat": 1.3362265,
+      "lng": 103.846492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337526230291502,
+        "lng": 103.8477829302915
+      },
+      "southwest": {
+        "lat": 1.334828269708498,
+        "lng": 103.8450849697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Toa Payoh Lorong 2",
+  "place_id": "ChIJ_xe6r6EX2jERolOASGUY2HQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8419506326656275362",
+  "vicinity": "399 Lorong 2 Toa Payoh, Singapore"
+}

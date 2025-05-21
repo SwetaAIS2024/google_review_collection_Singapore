@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50A Marine Ter, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.3056956,
+      "lng": 103.9156908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307021730291502,
+        "lng": 103.9172658802915
+      },
+      "southwest": {
+        "lat": 1.304323769708498,
+        "lng": 103.9145679197085
+      }
+    }
+  },
+  "name": "Food Era Gourmet",
+  "place_id": "ChIJjzRtOwAj2jERvBsKfVpYT6A",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11551548714896726972",
+  "vicinity": "50A Marine Terrace"
+}

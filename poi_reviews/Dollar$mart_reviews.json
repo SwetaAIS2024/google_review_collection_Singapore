@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1005 Serangoon Rd, Singapore 328167",
+  "geometry": {
+    "location": {
+      "lat": 1.3226243,
+      "lng": 103.8638419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323936430291502,
+        "lng": 103.8652353302915
+      },
+      "southwest": {
+        "lat": 1.321238469708498,
+        "lng": 103.8625373697085
+      }
+    }
+  },
+  "name": "Dollar$mart",
+  "place_id": "ChIJtw_PZAAZ2jER_uLCMh9FeKw",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12427759172026819326",
+  "vicinity": "1005 Serangoon Road, Singapore"
+}

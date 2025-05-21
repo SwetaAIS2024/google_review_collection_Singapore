@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3381,
+      "lng": 103.93396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339468930291502,
+        "lng": 103.9353020802915
+      },
+      "southwest": {
+        "lat": 1.336770969708498,
+        "lng": 103.9326041197085
+      }
+    }
+  },
+  "name": "The Clearwater Condo",
+  "place_id": "ChIJe96h8EY92jER2qOVSJ-r270",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Leong Ming Poh",
+      "author_url": "https://www.google.com/maps/contrib/116207977061708642813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNdcmMDvCmBN-9RwZmeAxeI9kR1bOSPAT1SIi5EZ78X-MHqEM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Seats limited, but shady enough for waiting buses",
+      "time": 1638328947,
+      "translated": false
+    },
+    {
+      "author_name": "muhd khidhir",
+      "author_url": "https://www.google.com/maps/contrib/102543142421489281416/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqxSmEm9nXHhKC7FIIrcKnI3dVejyDVqUNTNMeWeayT86t14xl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740446503,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13680716993673929690",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

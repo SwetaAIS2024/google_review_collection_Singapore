@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.42549,
+      "lng": 103.84022
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426828130291502,
+        "lng": 103.8416130802915
+      },
+      "southwest": {
+        "lat": 1.424130169708498,
+        "lng": 103.8389151197085
+      }
+    }
+  },
+  "name": "Opp Safra Yishun, Yishun Central",
+  "place_id": "ChIJCxH2XGkU2jERS9qQ1u3z4rM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12962190880358324811",
+  "vicinity": "Singapore"
+}

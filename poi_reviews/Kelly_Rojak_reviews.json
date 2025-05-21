@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Blk 323 Bukit Batok Street 31, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3614241,
+      "lng": 103.7482194
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362773030291502,
+        "lng": 103.7494797302915
+      },
+      "southwest": {
+        "lat": 1.360075069708498,
+        "lng": 103.7467817697085
+      }
+    }
+  },
+  "name": "Kelly Rojak",
+  "place_id": "ChIJseBdYgAR2jEROs8oc1ntU-M",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16380697238116552506",
+  "vicinity": "Blk 323 Bukit Batok Street 31"
+}

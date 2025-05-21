@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.294142,
+      "lng": 103.842316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295465530291502,
+        "lng": 103.8436332802915
+      },
+      "southwest": {
+        "lat": 1.292767569708498,
+        "lng": 103.8409353197085
+      }
+    }
+  },
+  "name": "Opp Mohd Sultan Rd",
+  "place_id": "ChIJty1I0ZgZ2jERPrfNUIjjLck",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ash Dev",
+      "author_url": "https://www.google.com/maps/contrib/101525811749199229377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoOSd_qx7rdyM1Y8Jb1tijx1ftHGWGvgMKMzTqOUsq-pKlgA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657846584,
+      "translated": false
+    },
+    {
+      "author_name": "LUCAS LEE YU KUAN",
+      "author_url": "https://www.google.com/maps/contrib/104782167053883155527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVp4PJA1DIOhbqD7fYkLT_YCYHxnhxrqZFGrMSXAjg6Ra9XA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489407125,
+      "translated": false
+    },
+    {
+      "author_name": "Alan Pon",
+      "author_url": "https://www.google.com/maps/contrib/116664866600265788797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ8Zlvt3guF3XNbYeGMD3UCVKyE8_T7RdKGHPdcpQx7XAwycCA_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483160130,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14496492950186211134",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

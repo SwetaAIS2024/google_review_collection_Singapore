@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306843,
+      "lng": 103.675819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308196380291502,
+        "lng": 103.6772031302915
+      },
+      "southwest": {
+        "lat": 1.305498419708498,
+        "lng": 103.6745051697085
+      }
+    }
+  },
+  "name": "Opp JP Nelson",
+  "place_id": "ChIJ-8zvMKIF2jERxkti4jqTKNI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15143515628148771782",
+  "vicinity": "Singapore"
+}

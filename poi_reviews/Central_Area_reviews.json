@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Central Area, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2789227,
+      "lng": 103.8536113
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317277899849666,
+        "lng": 103.8805369678518
+      },
+      "southwest": {
+        "lat": 1.269092920956224,
+        "lng": 103.8227860576008
+      }
+    }
+  },
+  "name": "Central Area",
+  "place_id": "ChIJ98TwBAgZ2jERDemIweIVO70",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Central+Area,+Singapore&ftid=0x31da190804f0c4f7:0xbd3b15e2c188e90d",
+  "vicinity": "Singapore"
+}

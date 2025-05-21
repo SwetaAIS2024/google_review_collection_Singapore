@@ -1,0 +1,45 @@
+{
+  "formatted_address": "289H Bukit Batok Street 25, Singapore 657289",
+  "geometry": {
+    "location": {
+      "lat": 1.3443014,
+      "lng": 103.7602144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345745180291502,
+        "lng": 103.7615737802915
+      },
+      "southwest": {
+        "lat": 1.343047219708498,
+        "lng": 103.7588758197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bukit Batok Street 25",
+  "place_id": "ChIJx6xwFs4R2jERsAAHhTnxU0c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohamad Yusoff",
+      "author_url": "https://www.google.com/maps/contrib/108920363767808882571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVGzJlUhKhlYhSzvwFihxv3fgm_R_L-jjjLMPIwlPeZllExcH_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "open 24 hours",
+      "time": 1489978361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5139716829107126448",
+  "user_ratings_total": 1,
+  "vicinity": "289H Bukit Batok Street 25, Singapore"
+}

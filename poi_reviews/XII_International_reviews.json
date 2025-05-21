@@ -1,0 +1,53 @@
+{
+  "formatted_address": "617A Punggol Drive #05-797, Singapore 821617",
+  "geometry": {
+    "location": {
+      "lat": 1.402865,
+      "lng": 103.911625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404189380291502,
+        "lng": 103.9129564802915
+      },
+      "southwest": {
+        "lat": 1.401491419708498,
+        "lng": 103.9102585197085
+      }
+    }
+  },
+  "name": "XII International",
+  "place_id": "ChIJh_xO5-4X2jEREqxWgCrtaSA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Nuwan Dm",
+      "author_url": "https://www.google.com/maps/contrib/104140836343694998416/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIISomKtWb0PFznbAXT_qpzaamaTPApmbWFBmWutNWXZR9K1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice one",
+      "time": 1697813185,
+      "translated": false
+    },
+    {
+      "author_name": "MuGen:Simon",
+      "author_url": "https://www.google.com/maps/contrib/117609995485075096931/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSIBr-ah8izIZc7_Nl9-0BVMq9SovezSB5pDlnO_DXfiEjwzOd=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1621666648,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2335658648565885970",
+  "user_ratings_total": 2,
+  "vicinity": "617A Punggol Drive #05-797"
+}

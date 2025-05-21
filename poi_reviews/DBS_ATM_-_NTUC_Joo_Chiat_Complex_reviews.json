@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Joo Chiat Rd, Singapore 420002",
+  "geometry": {
+    "location": {
+      "lat": 1.3155916,
+      "lng": 103.8990688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316870180291502,
+        "lng": 103.9004643802915
+      },
+      "southwest": {
+        "lat": 1.314172219708498,
+        "lng": 103.8977664197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Joo Chiat Complex",
+  "place_id": "ChIJIWkRCAcZ2jER6l0iw31INIo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9958664381004930538",
+  "vicinity": "2 Joo Chiat Road, Singapore"
+}

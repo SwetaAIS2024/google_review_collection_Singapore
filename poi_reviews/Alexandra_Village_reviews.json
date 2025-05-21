@@ -1,0 +1,42 @@
+{
+  "formatted_address": "123 Bukit Merah Lane 1, Singapore 150123",
+  "geometry": {
+    "location": {
+      "lat": 1.2866279,
+      "lng": 103.8036456
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288025130291502,
+        "lng": 103.8049666802915
+      },
+      "southwest": {
+        "lat": 1.285327169708498,
+        "lng": 103.8022687197085
+      }
+    }
+  },
+  "name": "Alexandra Village",
+  "place_id": "ChIJc9jAagAb2jERbnL-LUEewvg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tamilmaran Devadas",
+      "author_url": "https://www.google.com/maps/contrib/117425221600399259918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH7u5j5Fjfedp-ChhqYCnwdFtgdDJ93zektSBlftuO5B-4uS4O=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745334309,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17924922732181353070",
+  "user_ratings_total": 1,
+  "vicinity": "123 Bukit Merah Lane 1, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "2 Jln Lokam, #01-27, Kensington 537846",
+  "geometry": {
+    "location": {
+      "lat": 1.3457541,
+      "lng": 103.8827277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347143680291502,
+        "lng": 103.8839377802915
+      },
+      "southwest": {
+        "lat": 1.344445719708498,
+        "lng": 103.8812398197085
+      }
+    }
+  },
+  "name": "Pastry Delights",
+  "place_id": "ChIJQUBj8coX2jERQfxnWhQCBoM",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9441235955268189249",
+  "vicinity": "2 Jalan Lokam, #01-27, Kensington"
+}

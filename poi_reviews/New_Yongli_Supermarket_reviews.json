@@ -1,0 +1,58 @@
+{
+  "formatted_address": "292a Lavender St., Singapore 338806",
+  "geometry": {
+    "location": {
+      "lat": 1.3146411,
+      "lng": 103.8600821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315955930291502,
+        "lng": 103.8613853802915
+      },
+      "southwest": {
+        "lat": 1.313257969708498,
+        "lng": 103.8586874197085
+      }
+    }
+  },
+  "name": "New Yongli Supermarket",
+  "place_id": "ChIJ0cXfOQAZ2jER4uYcH53kJZM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Clins Tan",
+      "author_url": "https://www.google.com/maps/contrib/114414268617032929314/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxSrABS7KZy_w6W1cv0OWm4Vhx89Lz10TPSgHju9KWscotrw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Awesome place to grab stuff if u forgotten to buy!",
+      "time": 1743345690,
+      "translated": false
+    },
+    {
+      "author_name": "Zoe Dong",
+      "author_url": "https://www.google.com/maps/contrib/115398520958642103568/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtWdHBoTeu0BZIec-4CpNis6RWW7m4lCy_a3IeOnfzj-0490JY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "From what time to what time are the opening hours?",
+      "time": 1746024784,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10603132261196687074",
+  "user_ratings_total": 2,
+  "vicinity": "292a Lavender Street, Singapore"
+}

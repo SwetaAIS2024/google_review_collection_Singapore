@@ -1,0 +1,42 @@
+{
+  "formatted_address": "324 Hougang Ave 5, Block 324, Singapore 530324",
+  "geometry": {
+    "location": {
+      "lat": 1.3674994,
+      "lng": 103.8968994
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368712930291502,
+        "lng": 103.8980433302915
+      },
+      "southwest": {
+        "lat": 1.366014969708498,
+        "lng": 103.8953453697085
+      }
+    }
+  },
+  "name": "Bird Singing Corner (Hougang Ave 5)",
+  "place_id": "ChIJH7KqlQwX2jERBN4e96pi-UQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kristian Paolo Rosales",
+      "author_url": "https://www.google.com/maps/contrib/109071000665299924875/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWNlI-_Vva7ftBvIVUFUOeydrRBbxWWAPzZDX3cSmYZcrc7w0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729994589,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4970112150210010628",
+  "user_ratings_total": 1,
+  "vicinity": "324 Hougang Avenue 5, Block 324, Singapore"
+}

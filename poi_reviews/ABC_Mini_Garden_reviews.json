@@ -1,0 +1,42 @@
+{
+  "formatted_address": "140111 Commonwealth Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3065245,
+      "lng": 103.7999982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307841980291502,
+        "lng": 103.8013482802915
+      },
+      "southwest": {
+        "lat": 1.305144019708498,
+        "lng": 103.7986503197085
+      }
+    }
+  },
+  "name": "ABC Mini Garden",
+  "place_id": "ChIJWcnhKwAb2jERLlu-VV24vQA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wilson Ang",
+      "author_url": "https://www.google.com/maps/contrib/109847640295624947764/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU45phwa7mpJJLJolTqTtF0XTmfgkpCf7FLmo-IIBrQ9ZWr9vHR=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722012150,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=53401481608321838",
+  "user_ratings_total": 1,
+  "vicinity": "140111 Commonwealth Crescent"
+}

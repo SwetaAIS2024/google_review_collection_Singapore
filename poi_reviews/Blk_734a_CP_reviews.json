@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.345205,
+      "lng": 103.700798
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346570080291502,
+        "lng": 103.7021062302915
+      },
+      "southwest": {
+        "lat": 1.343872119708498,
+        "lng": 103.6994082697085
+      }
+    }
+  },
+  "name": "Blk 734a CP",
+  "place_id": "ChIJxbXO6JUP2jERQiJUQCiYxNQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "chia han bing",
+      "author_url": "https://www.google.com/maps/contrib/111280736239419090538/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWssK3A1HPJX4Rty0beF_iYlaMw6az0JfE2d4oGuD2Gptis3iF8Ww=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1598033102,
+      "translated": false
+    },
+    {
+      "author_name": "Xuewen Liu",
+      "author_url": "https://www.google.com/maps/contrib/101645236211337289089/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmOJnT8WUAOIyIn1-dZqVtR4zqt7WHNVgj5tsa7KU9IyCY9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515599935,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15331546330121380418",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

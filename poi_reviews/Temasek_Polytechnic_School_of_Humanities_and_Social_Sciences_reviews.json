@@ -1,0 +1,44 @@
+{
+  "formatted_address": "21 Tampines Ave 1, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.345013,
+      "lng": 103.9351021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346244380291502,
+        "lng": 103.9364056802915
+      },
+      "southwest": {
+        "lat": 1.343546419708498,
+        "lng": 103.9337077197085
+      }
+    }
+  },
+  "name": "Temasek Polytechnic School of Humanities & Social Sciences",
+  "place_id": "ChIJJQAAAGo92jER2aGrhCrMa80",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sean McKinney",
+      "author_url": "https://www.google.com/maps/contrib/112944570043133900577/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZdrc6G20K8RN2RQqYYg7iroAyO4tOfpIeatutTI-QlgG7lw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Canopy canteen has good coffee",
+      "time": 1504579377,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14802149083269800409",
+  "user_ratings_total": 1,
+  "vicinity": "21 Tampines Avenue 1"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333722,
+      "lng": 103.898521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335095580291502,
+        "lng": 103.8998495802915
+      },
+      "southwest": {
+        "lat": 1.332397619708498,
+        "lng": 103.8971516197085
+      }
+    }
+  },
+  "name": "Aft Regent Motors",
+  "place_id": "ChIJ4SuMovEX2jERBu7MxFxqUgs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=815831429178781190",
+  "vicinity": "Singapore"
+}

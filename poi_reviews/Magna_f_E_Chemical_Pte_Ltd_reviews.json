@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Tampines Street 93, Singapore 528839",
+  "geometry": {
+    "location": {
+      "lat": 1.339254,
+      "lng": 103.941341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340712130291502,
+        "lng": 103.9426053802915
+      },
+      "southwest": {
+        "lat": 1.338014169708498,
+        "lng": 103.9399074197085
+      }
+    }
+  },
+  "name": "Magna (f E) Chemical Pte Ltd",
+  "place_id": "ChIJBxACMTk92jERDRZL8VhQtN4",
+  "types": [
+    "health",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16047539715163493901",
+  "vicinity": "Tampines Street 93, Singapore"
+}

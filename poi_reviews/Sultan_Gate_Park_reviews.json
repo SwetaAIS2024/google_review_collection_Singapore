@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Sultan Gate Park, Sultan Gate, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3019018,
+      "lng": 103.8602565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303314230291502,
+        "lng": 103.8616985802915
+      },
+      "southwest": {
+        "lat": 1.300616269708498,
+        "lng": 103.8590006197085
+      }
+    }
+  },
+  "name": "Sultan Gate Park",
+  "place_id": "ChIJ2VEa-HMZ2jER_tf6-gRjxXY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Matthew Hyland",
+      "author_url": "https://www.google.com/maps/contrib/107115078534689432403/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMFtmhJrPiwoeDQbwZ_Jndgy-bdWD2RsX_SoTKyheeQV686vMP=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice little park. Nowhere to sit. Bring your own chairs.",
+      "time": 1660744813,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8558355539929257982",
+  "user_ratings_total": 1,
+  "vicinity": "Sultan Gate Park, Sultan Gate"
+}

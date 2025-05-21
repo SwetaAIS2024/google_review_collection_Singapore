@@ -1,0 +1,53 @@
+{
+  "formatted_address": "600 W Camp Rd, Singapore 797654",
+  "geometry": {
+    "location": {
+      "lat": 1.4183199,
+      "lng": 103.862688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419583980291502,
+        "lng": 103.8639768802915
+      },
+      "southwest": {
+        "lat": 1.416886019708498,
+        "lng": 103.8612789197085
+      }
+    }
+  },
+  "name": "STA Supplies",
+  "place_id": "ChIJGf07LjQU2jER7Uhu3IiIMRs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Manvinderpal Singh Dhillon",
+      "author_url": "https://www.google.com/maps/contrib/110687030950794342762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6-6fuZcXNs1T50rLt8kDFVo3pjbRYWrdKrz6DNFFsdndcE6I=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "An aerospace company",
+      "time": 1547711314,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Chua",
+      "author_url": "https://www.google.com/maps/contrib/109544782295147543971/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwms2obuJRq6zaQuTDYvCaB7CkUpM_12p8SEKbpcV_6SdIbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1591336077,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1959497434278021357",
+  "user_ratings_total": 2,
+  "vicinity": "600 West Camp Road"
+}

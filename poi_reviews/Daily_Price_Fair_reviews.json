@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Jln Mas Puteh, Singapore 128611",
+  "geometry": {
+    "location": {
+      "lat": 1.3084596,
+      "lng": 103.7615609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309787230291502,
+        "lng": 103.7628884802915
+      },
+      "southwest": {
+        "lat": 1.307089269708498,
+        "lng": 103.7601905197085
+      }
+    }
+  },
+  "name": "Daily Price Fair",
+  "place_id": "ChIJAYRxVSob2jERGKBa8rlKmIA",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9266238395810226200",
+  "vicinity": "5 Jalan Mas Puteh, Singapore"
+}

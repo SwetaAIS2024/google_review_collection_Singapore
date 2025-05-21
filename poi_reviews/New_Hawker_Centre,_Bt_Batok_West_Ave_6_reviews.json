@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35544,
+      "lng": 103.74091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356769080291502,
+        "lng": 103.7422404802915
+      },
+      "southwest": {
+        "lat": 1.354071119708498,
+        "lng": 103.7395425197085
+      }
+    }
+  },
+  "name": "New Hawker Centre, Bt Batok West Ave 6",
+  "place_id": "ChIJ0VnFBjAQ2jERb3ga19W0fdQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ricky Seah",
+      "author_url": "https://www.google.com/maps/contrib/101460107607368257900/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJav3JT1OxMP94oaarC2MFN--wGSuMXdJIhc1ecIfAeBDjL7A=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very clean and airy, but to clear the utensils especially when seated far away need to carry back to one end for the elderly is not so good. Also no soap to wash hands or they forgotten to refill.",
+      "time": 1743494111,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15311593138659424367",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

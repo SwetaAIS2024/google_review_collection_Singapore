@@ -1,0 +1,41 @@
+{
+  "formatted_address": "58 Defu Ln 1, Singapore 539498",
+  "geometry": {
+    "location": {
+      "lat": 1.3614139,
+      "lng": 103.902499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362716180291502,
+        "lng": 103.9038538302915
+      },
+      "southwest": {
+        "lat": 1.360018219708498,
+        "lng": 103.9011558697085
+      }
+    }
+  },
+  "name": "National Taxi Association",
+  "place_id": "ChIJ6UFHf80X2jEROLxL9M4e9RQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Johnson Yeo",
+      "author_url": "https://www.google.com/maps/contrib/104091135384890011342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYZNW5O0VjWJyxcufS7gDgT9S6pBe6gRSe7m9fi6Is25lNUNIucg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544448029,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1510147124263369784",
+  "user_ratings_total": 1,
+  "vicinity": "58 Defu Lane 1"
+}

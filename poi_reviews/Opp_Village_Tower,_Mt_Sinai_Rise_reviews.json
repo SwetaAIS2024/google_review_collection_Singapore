@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31548,
+      "lng": 103.7782062
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316816780291502,
+        "lng": 103.7795552302915
+      },
+      "southwest": {
+        "lat": 1.314118819708498,
+        "lng": 103.7768572697085
+      }
+    }
+  },
+  "name": "Opp Village Tower, Mt Sinai Rise",
+  "place_id": "ChIJq0LuAWMa2jEReJHsuQL0JkM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ngdanny hwaleng",
+      "author_url": "https://www.google.com/maps/contrib/107825364091384635129/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvW2vkJyhWnfTPixbEU-XmQxePu8Bej8HZerqr3PjFJS_tMttBOg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Beautiful Sunrise\nMorning Break",
+      "time": 1656025056,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4838823142202577272",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

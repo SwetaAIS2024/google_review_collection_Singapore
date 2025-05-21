@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Biopolis Dr, Singapore 138622",
+  "geometry": {
+    "location": {
+      "lat": 1.3012793,
+      "lng": 103.793013
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302715480291502,
+        "lng": 103.7942430302915
+      },
+      "southwest": {
+        "lat": 1.300017519708498,
+        "lng": 103.7915450697085
+      }
+    }
+  },
+  "name": "Proton Therapy SG",
+  "place_id": "ChIJbSwWTAAb2jERY_YcRElT6HY",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8568189865212835427",
+  "vicinity": "1 Biopolis Drive, Singapore"
+}

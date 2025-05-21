@@ -1,0 +1,41 @@
+{
+  "formatted_address": "81 Tuas South Street 5, Singapore 637651",
+  "geometry": {
+    "location": {
+      "lat": 1.298573,
+      "lng": 103.624083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300150180291502,
+        "lng": 103.6255177302915
+      },
+      "southwest": {
+        "lat": 1.297452219708498,
+        "lng": 103.6228197697085
+      }
+    }
+  },
+  "name": "Lesoon Equipment Pte Ltd",
+  "place_id": "ChIJgVWWzXoG2jERJf0cwsrIDaE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Google User",
+      "author_url": "https://www.google.com/maps/contrib/101120627113519169811/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJL7lw714KsBsbd06UfmEE6yxEBxUkDniwTIhIXTGRc3TDX_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1574321182,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11605152587969264933",
+  "user_ratings_total": 1,
+  "vicinity": "81 Tuas South Street 5, Singapore"
+}

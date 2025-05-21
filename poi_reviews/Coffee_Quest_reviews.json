@@ -1,0 +1,30 @@
+{
+  "formatted_address": "865 Mountbatten Rd, #02-62 Katong Shopping Centre, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.3041899,
+      "lng": 103.9009008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305438080291502,
+        "lng": 103.9022916302915
+      },
+      "southwest": {
+        "lat": 1.302740119708498,
+        "lng": 103.8995936697085
+      }
+    }
+  },
+  "name": "Coffee Quest",
+  "place_id": "ChIJaY6skfEZ2jERsoBzih7Bfic",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2845924351460737202",
+  "vicinity": "865 Mountbatten Road, #02-62 Katong Shopping Centre"
+}

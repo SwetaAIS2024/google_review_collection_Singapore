@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.301468,
+      "lng": 103.752708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302845680291502,
+        "lng": 103.7541253302915
+      },
+      "southwest": {
+        "lat": 1.300147719708498,
+        "lng": 103.7514273697085
+      }
+    }
+  },
+  "name": "Swanson Plastics",
+  "place_id": "ChIJD0Bc0uka2jERHZ5no2LDHHw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8943237788466650653",
+  "vicinity": "Singapore"
+}

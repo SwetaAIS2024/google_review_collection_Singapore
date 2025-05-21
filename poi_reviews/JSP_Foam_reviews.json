@@ -1,0 +1,41 @@
+{
+  "formatted_address": "19 Tuas Link 2, Singapore 638564",
+  "geometry": {
+    "location": {
+      "lat": 1.3373211,
+      "lng": 103.6364633
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338849780291502,
+        "lng": 103.6379828302915
+      },
+      "southwest": {
+        "lat": 1.336151819708498,
+        "lng": 103.6352848697085
+      }
+    }
+  },
+  "name": "JSP Foam",
+  "place_id": "ChIJCxQ8UU0P2jER0NrjPKZXANI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Din Rsai",
+      "author_url": "https://www.google.com/maps/contrib/112755894923606311950/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1bSG5dagXdiJX4BevJI3UFM7Jn9UjcJq9cHXIMK-qw_Pt2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1540810441,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15132191119462619856",
+  "user_ratings_total": 1,
+  "vicinity": "19 Tuas Link 2, Singapore"
+}

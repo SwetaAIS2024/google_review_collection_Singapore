@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314866,
+      "lng": 103.642754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316225180291502,
+        "lng": 103.6441124302915
+      },
+      "southwest": {
+        "lat": 1.313527219708498,
+        "lng": 103.6414144697085
+      }
+    }
+  },
+  "name": "Damen Shipyard",
+  "place_id": "ChIJD6OdcuQF2jERBCSzwjo1D08",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Steven Chiu",
+      "author_url": "https://www.google.com/maps/contrib/111104830591527180257/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpVMMXvlwvND_IWfnPa8ho1QZzadV53eVH6pGsTVe_hPoE-hA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501797965,
+      "translated": false
+    },
+    {
+      "author_name": "Syamsul Bahri",
+      "author_url": "https://www.google.com/maps/contrib/112083640984010585432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMbYBlh2mvjKsEmRDrRnv_VcqPs3u0yenk70xmj1T36im6NA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485332720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5696830580137862148",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

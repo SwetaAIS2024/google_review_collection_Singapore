@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3612567,
+      "lng": 103.8319617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362605580291502,
+        "lng": 103.8333207802915
+      },
+      "southwest": {
+        "lat": 1.359907619708498,
+        "lng": 103.8306228197085
+      }
+    }
+  },
+  "name": "Opp Ai Tong Sch",
+  "place_id": "ChIJLeOgjSgX2jER5OgALXoJmeY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "LouisL",
+      "author_url": "https://www.google.com/maps/contrib/107008254241480664833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0qiQkk0tlvcQP4AEyfejvG-uZq-NMh2lBDFyhvOKO7MRmvjmE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "This bus stop is good. It's sheltered and has seats. It's a good bus stop",
+      "time": 1615084416,
+      "translated": false
+    },
+    {
+      "author_name": "Kj Rihun",
+      "author_url": "https://www.google.com/maps/contrib/115256790457922337515/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxuOUr8P5VaXcUsd4ZZIE9PDiGhMrLATWhkvJ9KEy_wZBTUg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728382478,
+      "translated": false
+    },
+    {
+      "author_name": "MissSJ",
+      "author_url": "https://www.google.com/maps/contrib/109991902747940877682/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyiqioZvD0IqejA7OCH8b8rtLVD6Y9wTUbkmmqPPjIXSmoDn6F=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542747143,
+      "translated": false
+    },
+    {
+      "author_name": "Boh William",
+      "author_url": "https://www.google.com/maps/contrib/111953147301777696808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKttPRpkbVxUcojqzw949wpjjpCBRnI0224RwHtMr97tCuxfw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499356514,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16616322720505850084",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

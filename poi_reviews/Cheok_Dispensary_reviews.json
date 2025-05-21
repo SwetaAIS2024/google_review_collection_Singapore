@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore, Tg Katong Rd5号, #5",
+  "geometry": {
+    "location": {
+      "lat": 1.316645,
+      "lng": 103.892698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317809780291502,
+        "lng": 103.8939264802915
+      },
+      "southwest": {
+        "lat": 1.315111819708498,
+        "lng": 103.8912285197085
+      }
+    }
+  },
+  "name": "Cheok Dispensary",
+  "place_id": "ChIJgXHDwhcY2jERqh_cFlQtkh8",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2274930600959549354",
+  "vicinity": "5 Tg Katong Rd, #5"
+}

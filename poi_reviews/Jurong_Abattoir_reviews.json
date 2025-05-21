@@ -1,0 +1,82 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313942,
+      "lng": 103.722267
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315235980291502,
+        "lng": 103.7236055302915
+      },
+      "southwest": {
+        "lat": 1.312538019708498,
+        "lng": 103.7209075697085
+      }
+    }
+  },
+  "name": "Jurong Abattoir",
+  "place_id": "ChIJUTfyuk4F2jERjEkYdxzIk2M",
+  "rating": 3.4,
+  "reviews": [
+    {
+      "author_name": "arunselvan A",
+      "author_url": "https://www.google.com/maps/contrib/103615324809070046069/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNBIkdRC5DeloIwt5ufOs-0HbGrWd5mZ7P59BSznKpvCoVQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707663809,
+      "translated": false
+    },
+    {
+      "author_name": "Hyper Tension",
+      "author_url": "https://www.google.com/maps/contrib/101421775775501399655/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ4StvneEjcNnvt_TvCptnhANn5ZZxxVpxlKX8y-qJr1D_Kg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1606388186,
+      "translated": false
+    },
+    {
+      "author_name": "Ponnusamy Samy",
+      "author_url": "https://www.google.com/maps/contrib/106366245129244813113/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKynqx4uv-wrJofWc9BN7nTut2v0iOlH1_JCCqGHSKAZKxNKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502246965,
+      "translated": false
+    },
+    {
+      "author_name": "Jupri Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/113485246527193406980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlHhDvvpxFr14IGLQt_VGzqjujQ3_D24BzLyP_Tq2YY-DzW9Md7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485077312,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Tee",
+      "author_url": "https://www.google.com/maps/contrib/103195864397987308468/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz9-n5nV0iAV1hQFZecBetnUH9_Vrixn7O38P5_FGG8-zGIauo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484182447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7175298655914051980",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "460 Alexandra Rd, Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.273644,
+      "lng": 103.8015935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274939380291502,
+        "lng": 103.8030582802915
+      },
+      "southwest": {
+        "lat": 1.272241419708498,
+        "lng": 103.8003603197085
+      }
+    }
+  },
+  "name": "AXS - Alexandra Retail Centre",
+  "place_id": "ChIJwz3yHMEb2jERIiYjTpx0yPc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "ARC is one of the more passed through malls for people working at Mapletree Business City. For the fact that there's an AXS machine here, it's convenient and accessible on your way to work and home.\n\nThis machine is located on the ground floor, right by the escalator. You wouldn't naturally find it, unless you're passing by. Follow the images and you shouldnt go too wrong.",
+      "time": 1689403444,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17854648937384977954",
+  "user_ratings_total": 1,
+  "vicinity": "460 Alexandra Road"
+}

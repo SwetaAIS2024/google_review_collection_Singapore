@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore, Paya Lebar Way, 123号, Block 123, #01-2909 邮政编码: 381123",
+  "geometry": {
+    "location": {
+      "lat": 1.3227516,
+      "lng": 103.8832487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324093380291502,
+        "lng": 103.8846985802915
+      },
+      "southwest": {
+        "lat": 1.321395419708498,
+        "lng": 103.8820006197085
+      }
+    }
+  },
+  "name": "民英公司",
+  "place_id": "ChIJQ0RqMa8Z2jER3TtcVqnjIpE",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10458171601145576413",
+  "vicinity": "123 Paya Lebar Way, #01-2909 Block 123, 新加坡"
+}

@@ -1,0 +1,51 @@
+{
+  "formatted_address": "625 Elias Rd, Singapore 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.378514,
+      "lng": 103.942048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379774330291502,
+        "lng": 103.9435301802915
+      },
+      "southwest": {
+        "lat": 1.377076369708498,
+        "lng": 103.9408322197085
+      }
+    }
+  },
+  "name": "United Home Employment Agency Pte. Ltd.‎",
+  "place_id": "ChIJpZuslr492jERWEqjLg7HYQg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jasmine Teng",
+      "author_url": "https://www.google.com/maps/contrib/101860280157365029303/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJoLygTkIwNGGWpX_qYm5tfj9uKEA6soFaioWf8gkeyZVUC6U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602585801,
+      "translated": false
+    },
+    {
+      "author_name": "LEE YANPING SAMANTHA",
+      "author_url": "https://www.google.com/maps/contrib/105134002330492172690/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNZ9UsPGZA-uK6hMlRZ-9ne_EHu-6xlKvE6EoPb4T9U2C0ljs=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552210399,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=603982688770280024",
+  "user_ratings_total": 2,
+  "vicinity": "625 Elias Road"
+}

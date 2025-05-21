@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.295527,
+      "lng": 103.627266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296860280291502,
+        "lng": 103.6286576802915
+      },
+      "southwest": {
+        "lat": 1.294162319708498,
+        "lng": 103.6259597197085
+      }
+    }
+  },
+  "name": "Edgen Murray",
+  "place_id": "ChIJL60ld3sG2jERGgMPxZtfNXU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Babu Kaleeshwaren",
+      "author_url": "https://www.google.com/maps/contrib/114070349605545130582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMW8F4m3kuIRxtR-HGGW43aAbkS1XcfwJcv5CT9WSlj7T0mIk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728783710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8445761798833898266",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "537 Bedok North Street 3, Singapore 460537",
+  "geometry": {
+    "location": {
+      "lat": 1.3323406,
+      "lng": 103.9237936
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333755780291502,
+        "lng": 103.9251305302915
+      },
+      "southwest": {
+        "lat": 1.331057819708498,
+        "lng": 103.9224325697085
+      }
+    }
+  },
+  "name": "Astique Medical",
+  "place_id": "ChIJf_DJpFE92jERlgNNYpN80OQ",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16487815208254636950",
+  "vicinity": "537 Bedok North Street 3"
+}

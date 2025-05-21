@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9003 Tampines Street 93, Singapore 528837",
+  "geometry": {
+    "location": {
+      "lat": 1.339975,
+      "lng": 103.941108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341412230291502,
+        "lng": 103.9424255302915
+      },
+      "southwest": {
+        "lat": 1.338714269708498,
+        "lng": 103.9397275697085
+      }
+    }
+  },
+  "name": "Castelli Building Supplies",
+  "place_id": "ChIJ1UM8LTk92jERNOu7zG6AjuQ",
+  "types": [
+    "hardware_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16469242100710107956",
+  "vicinity": "9003 Tampines Street 93, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "313 Orchard Rd, Singapore 238895",
+  "geometry": {
+    "location": {
+      "lat": 1.3009665,
+      "lng": 103.8384727
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302068330291502,
+        "lng": 103.8397893802915
+      },
+      "southwest": {
+        "lat": 1.299370369708498,
+        "lng": 103.8370914197085
+      }
+    }
+  },
+  "name": "Snack Attack (313 Somerset)",
+  "place_id": "ChIJx9jGLwAZ2jERsxAlVmLwFeQ",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16435306720301224115",
+  "vicinity": "313 Orchard Road"
+}

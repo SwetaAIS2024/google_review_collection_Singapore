@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Bukit Timah Rd, Cluny Court, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3226927,
+      "lng": 103.8142865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324125830291502,
+        "lng": 103.8157989802915
+      },
+      "southwest": {
+        "lat": 1.321427869708498,
+        "lng": 103.8131010197085
+      }
+    }
+  },
+  "name": "Munchsters",
+  "place_id": "ChIJ__-_lwYa2jERs75ZAQpdaSE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2407557773359955635",
+  "vicinity": "Bukit Timah Road, Cluny Court"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "48 Sims Pl, #01-00, Singapore 380048",
+  "geometry": {
+    "location": {
+      "lat": 1.317619,
+      "lng": 103.8794115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318950930291502,
+        "lng": 103.8807057802915
+      },
+      "southwest": {
+        "lat": 1.316252969708498,
+        "lng": 103.8780078197085
+      }
+    }
+  },
+  "name": "UOB ATM - Sims Place",
+  "place_id": "ChIJidQG_i8Y2jERiECf0RoAOyo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3043026088404926600",
+  "vicinity": "48 Sims Place, #01-00"
+}

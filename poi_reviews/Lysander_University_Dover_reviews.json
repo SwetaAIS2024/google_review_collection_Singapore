@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Dover Dr, Singapore 138683",
+  "geometry": {
+    "location": {
+      "lat": 1.3011816,
+      "lng": 103.7804409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302551530291502,
+        "lng": 103.7818098802915
+      },
+      "southwest": {
+        "lat": 1.299853569708498,
+        "lng": 103.7791119197085
+      }
+    }
+  },
+  "name": "Lysander University (Dover)",
+  "place_id": "ChIJRfUdPwAb2jERRlAEU5BTosw",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14745440009297612870",
+  "vicinity": "10 Dover Drive"
+}

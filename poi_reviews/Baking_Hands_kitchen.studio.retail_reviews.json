@@ -1,0 +1,28 @@
+{
+  "formatted_address": "W Coast Dr, #01-71, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3161586,
+      "lng": 103.7577908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317363130291502,
+        "lng": 103.7591127302915
+      },
+      "southwest": {
+        "lat": 1.314665169708498,
+        "lng": 103.7564147697085
+      }
+    }
+  },
+  "name": "Baking Hands (kitchen.studio.retail)",
+  "place_id": "ChIJBQhPQT4b2jER0AMKSlnNBWs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7711795720319796176",
+  "vicinity": "West Coast Drive, #01-71"
+}

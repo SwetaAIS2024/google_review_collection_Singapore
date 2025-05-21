@@ -1,0 +1,42 @@
+{
+  "formatted_address": "192 Pasir Ris Street 12, #01-06 Block 192, Singapore 510192",
+  "geometry": {
+    "location": {
+      "lat": 1.3664493,
+      "lng": 103.9590429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367876830291502,
+        "lng": 103.9602823302915
+      },
+      "southwest": {
+        "lat": 1.365178869708498,
+        "lng": 103.9575843697085
+      }
+    }
+  },
+  "name": "Lynn Tuition Centre - Pasir Ris",
+  "place_id": "ChIJJQZiKrw92jERpakpk9x7KzU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Doy Teo",
+      "author_url": "https://www.google.com/maps/contrib/116682451519562245042/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-5b5xda4X9RIsnZSGp2ty5RLVnLFlp6WZ9mfOBHRmOCi92eo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1578123598,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3831292095300741541",
+  "user_ratings_total": 1,
+  "vicinity": "192 Pasir Ris Street 12, #01-06 Block 192, Singapore"
+}

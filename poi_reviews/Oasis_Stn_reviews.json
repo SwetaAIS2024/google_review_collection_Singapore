@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4022966,
+      "lng": 103.912651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403726280291502,
+        "lng": 103.9139792802915
+      },
+      "southwest": {
+        "lat": 1.401028319708498,
+        "lng": 103.9112813197085
+      }
+    }
+  },
+  "name": "Oasis Stn",
+  "place_id": "ChIJ0bqmwP8V2jERR5Op-EXOKOc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16656790021749707591",
+  "vicinity": "Singapore"
+}

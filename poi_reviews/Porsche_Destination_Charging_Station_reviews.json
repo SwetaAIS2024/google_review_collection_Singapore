@@ -1,0 +1,27 @@
+{
+  "formatted_address": "25 Changi Coast Road, Singapore 499803",
+  "geometry": {
+    "location": {
+      "lat": 1.328199,
+      "lng": 103.979898
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329548780291502,
+        "lng": 103.9812282802915
+      },
+      "southwest": {
+        "lat": 1.326850819708498,
+        "lng": 103.9785303197085
+      }
+    }
+  },
+  "name": "Porsche Destination Charging Station",
+  "place_id": "ChIJqRHuoMs82jERjbFo2BaMY5w",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11269004722359021965",
+  "vicinity": "25 Changi Coast Road, Singapore"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "1 Bukit Batok West Ave 2, Singapore 659203",
+  "geometry": {
+    "location": {
+      "lat": 1.3630194,
+      "lng": 103.7437432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363951980291502,
+        "lng": 103.7447925302915
+      },
+      "southwest": {
+        "lat": 1.361254019708498,
+        "lng": 103.7420945697085
+      }
+    }
+  },
+  "name": "Eden School (Campus 2)",
+  "place_id": "ChIJgd7ZeAAR2jER_u500rDy8zM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee Wen Shan",
+      "author_url": "https://www.google.com/maps/contrib/102605591752727684438/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Lm4roqMzTbNVUOQz9ZmD3YcumanGQc4S8KY-AQeZ3tDP2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721126682,
+      "translated": false
+    },
+    {
+      "author_name": "Jordan",
+      "author_url": "https://www.google.com/maps/contrib/114979575128395036077/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFn48lNHLKohMFYZJi3lun3zQqsLyD5tlOqL3ndFhDYg16x30wmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715257189,
+      "translated": false
+    },
+    {
+      "author_name": "nina pratomo",
+      "author_url": "https://www.google.com/maps/contrib/112286947774583968486/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlYpqBSAE84MkeagIBpvN9iJmDPPUiQfOU9sX26eH6i9p44gk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712970298,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3743602556534058750",
+  "user_ratings_total": 3,
+  "vicinity": "1 Bukit Batok West Avenue 2"
+}

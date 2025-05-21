@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339599,
+      "lng": 103.76535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340979580291502,
+        "lng": 103.7666961802915
+      },
+      "southwest": {
+        "lat": 1.338281619708498,
+        "lng": 103.7639982197085
+      }
+    }
+  },
+  "name": "Opp Highgate Pk",
+  "place_id": "ChIJabmcvmUQ2jER1YH7yq2aI4g",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Vincent Ko",
+      "author_url": "https://www.google.com/maps/contrib/102264424733216770255/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzNzZWIEjodnBT0x1vMuOKXb3OzecambElBiK-AAg1XRqV2IHGlw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730441846,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9809854484568572373",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

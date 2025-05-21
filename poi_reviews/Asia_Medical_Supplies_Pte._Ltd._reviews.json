@@ -1,0 +1,44 @@
+{
+  "formatted_address": "7 Kallang Pl, #07-10, Singapore 339153",
+  "geometry": {
+    "location": {
+      "lat": 1.316913,
+      "lng": 103.8673677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318303180291502,
+        "lng": 103.8687865802915
+      },
+      "southwest": {
+        "lat": 1.315605219708498,
+        "lng": 103.8660886197085
+      }
+    }
+  },
+  "name": "Asia Medical Supplies Pte. Ltd.",
+  "place_id": "ChIJSYEdV80Z2jERulInlOGQ4kI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lameck Mwape",
+      "author_url": "https://www.google.com/maps/contrib/110875469952032728980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-fCPWOFgxVM0Nm42rS9FCNlFLfhDHnIxVJOxA6VXPEG5JlUlY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565854122,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4819573849767498426",
+  "user_ratings_total": 1,
+  "vicinity": "7 Kallang Place, #07-10, Singapore"
+}

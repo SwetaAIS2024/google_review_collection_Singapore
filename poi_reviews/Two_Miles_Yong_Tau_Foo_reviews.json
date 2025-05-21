@@ -1,0 +1,29 @@
+{
+  "formatted_address": "58 New Upper Changi Rd, #01-155 The Marketplace@58, Singapore 461058",
+  "geometry": {
+    "location": {
+      "lat": 1.324093,
+      "lng": 103.9411161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325763430291502,
+        "lng": 103.9424960802915
+      },
+      "southwest": {
+        "lat": 1.323065469708498,
+        "lng": 103.9397981197085
+      }
+    }
+  },
+  "name": "Two Miles Yong Tau Foo",
+  "place_id": "ChIJe4reHAAj2jERBL1WwRtYAVA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5764985874241993988",
+  "vicinity": "58 New Upper Changi Road, #01-155 The Marketplace@58, Singapore"
+}

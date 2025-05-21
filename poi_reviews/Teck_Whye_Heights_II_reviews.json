@@ -1,0 +1,41 @@
+{
+  "formatted_address": "10 Teck Whye Ave, Singapore 680010",
+  "geometry": {
+    "location": {
+      "lat": 1.3802835,
+      "lng": 103.7554258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381802930291502,
+        "lng": 103.7566498802915
+      },
+      "southwest": {
+        "lat": 1.379104969708498,
+        "lng": 103.7539519197085
+      }
+    }
+  },
+  "name": "Teck Whye Heights II",
+  "place_id": "ChIJ-auN3b4R2jERJid_gCOJD90",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohd Zainal",
+      "author_url": "https://www.google.com/maps/contrib/114705450717682297623/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPuYyOk0LCpIuPBLdnPtmhG9wk310HNYGHF9BnhLMTb_at0hp2Yg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1616825861,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15929101192605411110",
+  "user_ratings_total": 1,
+  "vicinity": "10 Teck Whye Avenue, Singapore"
+}

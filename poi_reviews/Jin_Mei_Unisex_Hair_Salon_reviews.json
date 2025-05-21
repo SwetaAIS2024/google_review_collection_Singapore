@@ -1,0 +1,42 @@
+{
+  "formatted_address": "406 Jurong West Street 42, Block 406, Singapore 640406",
+  "geometry": {
+    "location": {
+      "lat": 1.3543178,
+      "lng": 103.7223628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355586930291502,
+        "lng": 103.7237018802915
+      },
+      "southwest": {
+        "lat": 1.352888969708498,
+        "lng": 103.7210039197085
+      }
+    }
+  },
+  "name": "Jin Mei Unisex Hair Salon",
+  "place_id": "ChIJTwwrGtoP2jERvrt5OWz4khU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "TAYAGAM தாயகம்",
+      "author_url": "https://www.google.com/maps/contrib/114358681535329425171/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiAsrNoUXvByJXOMjd8CJAJvs_1ZEIqRAT_kK2QXeJMaxqu7-A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1595732568,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hair_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1554577965100678078",
+  "user_ratings_total": 1,
+  "vicinity": "406 Jurong West Street 42, Block 406"
+}

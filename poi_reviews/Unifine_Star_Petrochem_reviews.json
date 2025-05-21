@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320508,
+      "lng": 103.637024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321825330291502,
+        "lng": 103.6383425302915
+      },
+      "southwest": {
+        "lat": 1.319127369708498,
+        "lng": 103.6356445697085
+      }
+    }
+  },
+  "name": "Unifine Star Petrochem",
+  "place_id": "ChIJiQx7d_0F2jERH9hajnB0JBI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Balaji Ranjitha Nisha",
+      "author_url": "https://www.google.com/maps/contrib/106834856582504646245/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxkl2iaPZjb8a2ZPgChkFn-D2RsVzORYVeSE4t_X_WvAwbrv-lYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697685484,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1307297818617763871",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

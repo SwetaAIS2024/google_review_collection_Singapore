@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore 820665",
+  "geometry": {
+    "location": {
+      "lat": 1.402015,
+      "lng": 103.912857
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403393580291502,
+        "lng": 103.9142270802915
+      },
+      "southwest": {
+        "lat": 1.400695619708498,
+        "lng": 103.9115291197085
+      }
+    }
+  },
+  "name": "Oasis Stn Exit B/Blk 617d",
+  "place_id": "ChIJiRsgwv8V2jERWX-vuB5OQ10",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Peter Tan Kim Wah",
+      "author_url": "https://www.google.com/maps/contrib/113412784458576371293/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHUzR2I3c5qHbMnKNWTTQbsEleytkxCvz3HpbckvHwJYm74Z_Xrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Because the description is very clear!",
+      "time": 1489196489,
+      "translated": true
+    },
+    {
+      "author_name": "Won Casey",
+      "author_url": "https://www.google.com/maps/contrib/104629185283193302841/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-9p604RXm5fGIyUrYthlnCyGOLHnFnH1fTieBU1kqwh5V_NLi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516590173,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6720300962821406553",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

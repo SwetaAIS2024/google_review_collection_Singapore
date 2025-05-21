@@ -1,0 +1,43 @@
+{
+  "formatted_address": "57 New Upper Changi Rd, Block 57, Singapore 461057",
+  "geometry": {
+    "location": {
+      "lat": 1.3246341,
+      "lng": 103.9414425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326040780291502,
+        "lng": 103.9428278302915
+      },
+      "southwest": {
+        "lat": 1.323342819708498,
+        "lng": 103.9401298697085
+      }
+    }
+  },
+  "name": "OCBC ATM - New Upper Changi Road - FairPrice",
+  "place_id": "ChIJzdYAEssi2jERI_4cHOiaWhM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Khair Firdaus",
+      "author_url": "https://www.google.com/maps/contrib/116697887819805953980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzrRebZDK89ykZv8sh9zcNS4fqBgKJEcH1MWK4MVjbAKCzrEUK=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697595609,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1394597356319342115",
+  "user_ratings_total": 1,
+  "vicinity": "57 New Upper Changi Road, Block 57"
+}

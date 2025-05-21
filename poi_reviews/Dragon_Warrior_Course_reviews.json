@@ -1,0 +1,44 @@
+{
+  "formatted_address": "River Valley Rd, Jubilee Park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.293622,
+      "lng": 103.84469
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295002930291502,
+        "lng": 103.8460775802915
+      },
+      "southwest": {
+        "lat": 1.292304969708498,
+        "lng": 103.8433796197085
+      }
+    }
+  },
+  "name": "Dragon Warrior Course",
+  "place_id": "ChIJJ0p2ZQAZ2jERhpDjgqdZ7GI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Notur Dumas",
+      "author_url": "https://www.google.com/maps/contrib/105831274831020427968/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjRhHu2tW66NcpevBwx0R1DtdaaoTJ1zN342Q0MqdQBC1HEg_M=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "This is a great \"confidence course,\" designed for young children.  The log placements at different heights  and slopes are placed at just the right spots. Any observer can see the obstacles are achievable, but when standing in and on the obstacles, the challenge becomes evident.",
+      "time": 1718115253,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7128170886211014790",
+  "user_ratings_total": 1,
+  "vicinity": "River Valley Road, Jubilee Park"
+}

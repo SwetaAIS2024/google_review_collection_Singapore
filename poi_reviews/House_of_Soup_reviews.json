@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2647313,
+      "lng": 103.8193854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266067630291502,
+        "lng": 103.8208652302915
+      },
+      "southwest": {
+        "lat": 1.263369669708498,
+        "lng": 103.8181672697085
+      }
+    }
+  },
+  "name": "House of Soup",
+  "place_id": "ChIJ50xVUgAb2jERNEjwPkZ15h0",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2154538416307456052",
+  "vicinity": "1 Maritime Square, Singapore"
+}

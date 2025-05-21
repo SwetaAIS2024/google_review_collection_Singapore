@@ -1,0 +1,28 @@
+{
+  "formatted_address": "20 Chai Chee Dr, Singapore 469045",
+  "geometry": {
+    "location": {
+      "lat": 1.32372,
+      "lng": 103.919797
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325076130291502,
+        "lng": 103.9209790302915
+      },
+      "southwest": {
+        "lat": 1.322378169708498,
+        "lng": 103.9182810697085
+      }
+    }
+  },
+  "name": "Bedok South Neighbourhood Police Post",
+  "place_id": "ChIJC3xBgqsi2jER-vKGrkM7b1o",
+  "types": [
+    "police",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6516492347705324282",
+  "vicinity": "20 Chai Chee Drive"
+}

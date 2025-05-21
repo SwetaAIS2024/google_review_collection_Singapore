@@ -1,0 +1,30 @@
+{
+  "formatted_address": "727 Clementi West Street 2, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.3045346,
+      "lng": 103.7641257
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305943930291502,
+        "lng": 103.7655814302915
+      },
+      "southwest": {
+        "lat": 1.303245969708498,
+        "lng": 103.7628834697085
+      }
+    }
+  },
+  "name": "Guan An Chan",
+  "place_id": "ChIJxZZDhO0a2jERlEvCxRrc9AQ",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=357152278014217108",
+  "vicinity": "727 Clementi West Street 2, Singapore"
+}

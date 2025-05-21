@@ -1,0 +1,31 @@
+{
+  "formatted_address": "#04-01 N Bridge Rd, No. 600 Parkview Square, Singapore 188778",
+  "geometry": {
+    "location": {
+      "lat": 1.300164,
+      "lng": 103.8577221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301435030291502,
+        "lng": 103.8591356802915
+      },
+      "southwest": {
+        "lat": 1.298737069708498,
+        "lng": 103.8564377197085
+      }
+    }
+  },
+  "name": "W & W Grains Arco",
+  "place_id": "ChIJucjD4T8Q2jERHG3zO0bGbF4",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6804031142005796124",
+  "vicinity": "#04-01 North Bridge Road, No. 600 Parkview Square"
+}

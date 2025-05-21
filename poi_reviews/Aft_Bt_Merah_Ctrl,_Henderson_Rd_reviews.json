@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28116,
+      "lng": 103.81853
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282522280291502,
+        "lng": 103.8198639302915
+      },
+      "southwest": {
+        "lat": 1.279824319708498,
+        "lng": 103.8171659697085
+      }
+    }
+  },
+  "name": "Aft Bt Merah Ctrl, Henderson Rd",
+  "place_id": "ChIJA6IDC9cb2jER4N0l2JgJMys",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Rahim Jalil",
+      "author_url": "https://www.google.com/maps/contrib/117422845989513216805/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7hqIpiYCZ1mKX4V4EPOmPZl5jtyNVwSs33Vv6_ETFzYImcLrh=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744008201,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3112842319509183968",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

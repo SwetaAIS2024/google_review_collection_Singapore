@@ -1,0 +1,51 @@
+{
+  "formatted_address": "186 Gul Cir, Singapore 629631",
+  "geometry": {
+    "location": {
+      "lat": 1.3193835,
+      "lng": 103.6763641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320739630291502,
+        "lng": 103.6778120302915
+      },
+      "southwest": {
+        "lat": 1.318041669708498,
+        "lng": 103.6751140697085
+      }
+    }
+  },
+  "name": "Azuma Engrg (s) Pte Ltd",
+  "place_id": "ChIJy1m-mIQF2jER4J8QK6a1_iY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "AMUL ARUN",
+      "author_url": "https://www.google.com/maps/contrib/112133361789453021114/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUWmidQCW2ydji_vqh9kD1lxHAubllIgyiJl4Ac_J1ABMFIaAm=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699783053,
+      "translated": false
+    },
+    {
+      "author_name": "KARNAN R",
+      "author_url": "https://www.google.com/maps/contrib/116152549510945401157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHPKJgUvE3a8PuwqpGZpum0K728zRxpWt64jCx0WipOiLIh9Xd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510989499,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2809882942817476576",
+  "user_ratings_total": 2,
+  "vicinity": "186 Gul Circle"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Marine Parade Central, Singapore 449408",
+  "geometry": {
+    "location": {
+      "lat": 1.3018671,
+      "lng": 103.9061067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303144280291502,
+        "lng": 103.9075057302915
+      },
+      "southwest": {
+        "lat": 1.300446319708498,
+        "lng": 103.9048077697085
+      }
+    }
+  },
+  "name": "Writing Invent School",
+  "place_id": "ChIJL_1McXEY2jER1rg4nQbrJKg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Royal z",
+      "author_url": "https://www.google.com/maps/contrib/114526966426306231735/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnBwC9F2nbiT6ca3q4Vjlg3ds9doYvtr1YlSiJ0lQXJVAZ8Aj0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1458813404,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12116067311173548246",
+  "user_ratings_total": 1,
+  "vicinity": "1 Marine Parade Central, Singapore"
+}

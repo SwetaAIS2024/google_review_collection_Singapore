@@ -1,0 +1,57 @@
+{
+  "formatted_address": "25 Bendemeer Rd, Singapore 330025",
+  "geometry": {
+    "location": {
+      "lat": 1.3185113,
+      "lng": 103.8625217
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319902080291502,
+        "lng": 103.8639035802915
+      },
+      "southwest": {
+        "lat": 1.317204119708498,
+        "lng": 103.8612056197085
+      }
+    }
+  },
+  "name": "Tea Talk (Bendemeer Road)",
+  "place_id": "ChIJuU9zDV0Z2jERwbCGdEY8Icg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "La Madame NomNom",
+      "author_url": "https://www.google.com/maps/contrib/118395200523287063467/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDfQfgprvRaZdvRDFsjb0ZJZxu0qLB4GQ_2STz7h1qkjmEb4aQ2A=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Plenty of options for a bubble tea fix. Had brown sugar milk tea. Tasted ok, nothing special. There’s at least 3 bubble tea shops within a few steps. Need improvement on taste if you want business competitive advantage",
+      "time": 1579600726,
+      "translated": false
+    },
+    {
+      "author_name": "Shuyue Yan",
+      "author_url": "https://www.google.com/maps/contrib/108141486125719549296/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5VgIxcHBEVBSdTHfBYKV7MKo3JcqhUzkseTCZgAom3WcxWQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Black tea milk cap is delicious, add two portions of milk cap, trust me!",
+      "time": 1698320177,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14420873755117400257",
+  "user_ratings_total": 2,
+  "vicinity": "25 Bendemeer Road, Singapore"
+}

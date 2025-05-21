@@ -1,0 +1,27 @@
+{
+  "formatted_address": "28 Medical Dr, Singapore 117456",
+  "geometry": {
+    "location": {
+      "lat": 1.2944006,
+      "lng": 103.7807099
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295868280291502,
+        "lng": 103.7820998802915
+      },
+      "southwest": {
+        "lat": 1.293170319708498,
+        "lng": 103.7794019197085
+      }
+    }
+  },
+  "name": "Grotenbreg Lab",
+  "place_id": "ChIJh_FDqVYa2jERAaqkL82yPj8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4557276467282881025",
+  "vicinity": "28 Medical Drive, Singapore"
+}

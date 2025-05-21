@@ -1,0 +1,43 @@
+{
+  "formatted_address": "13 Leedon Heights, Singapore 266224",
+  "geometry": {
+    "location": {
+      "lat": 1.3159507,
+      "lng": 103.8038412
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317440530291502,
+        "lng": 103.8051970302915
+      },
+      "southwest": {
+        "lat": 1.314742569708498,
+        "lng": 103.8024990697085
+      }
+    }
+  },
+  "name": "My Gift Mall Pte. Ltd.",
+  "place_id": "ChIJjanWawkZ2jERfokNzldBOMc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mercedes Nicolau-Blair",
+      "author_url": "https://www.google.com/maps/contrib/109041412924798736150/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnRmgZo8Ho0P9PWdvY_zRMlTKASLDw5VHV2nVyMaSWDd7mBtM_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "One of the best online shopping experiences I’ve had in Singapore. Top quality luxury products, speedy delivery at your own convenient time. Personalized treatment and top notch customer care, I am now a loyal customer and will definitely continue to shop at MGM. Highly recommended!",
+      "time": 1574299173,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14355295657618409854",
+  "user_ratings_total": 1,
+  "vicinity": "13 Leedon Heights"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.321413,
+      "lng": 103.927574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322787480291502,
+        "lng": 103.9289333302915
+      },
+      "southwest": {
+        "lat": 1.320089519708498,
+        "lng": 103.9262353697085
+      }
+    }
+  },
+  "name": "Opp Panasonic",
+  "place_id": "ChIJach9ILIi2jEROpyJ2PJVlyY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "RANJITH M “சோழ தேசம்”",
+      "author_url": "https://www.google.com/maps/contrib/106698295442216438830/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW95XzScNMsPm0yccfcP5xMsnPWrvejgzRw2LJStl6CC5uSgMaG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1694770688,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2780785796427914298",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

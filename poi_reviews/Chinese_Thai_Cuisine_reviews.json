@@ -1,0 +1,45 @@
+{
+  "formatted_address": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.3544504,
+      "lng": 103.9602053
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355931130291502,
+        "lng": 103.9618340802915
+      },
+      "southwest": {
+        "lat": 1.353233169708498,
+        "lng": 103.9591361197085
+      }
+    }
+  },
+  "name": "Chinese Thai Cuisine",
+  "place_id": "ChIJoZ-3DQA92jERN9WrToaI1BU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jason Lim",
+      "author_url": "https://www.google.com/maps/contrib/105077761621672750125/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhI9V-QxiLvqVs3Iqyzd2UkiIBAKuef0f-tAwBhTvR3mz4Dg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "See attached I ordered w prawn but inside doesn't have prawn. No contact detailed either from this stall",
+      "time": 1739099833,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1573032280286025015",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore"
+}

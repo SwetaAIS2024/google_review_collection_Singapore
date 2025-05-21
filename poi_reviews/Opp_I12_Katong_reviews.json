@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3047777,
+      "lng": 103.905871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306122930291502,
+        "lng": 103.9072010802915
+      },
+      "southwest": {
+        "lat": 1.303424969708498,
+        "lng": 103.9045031197085
+      }
+    }
+  },
+  "name": "Opp I12 Katong",
+  "place_id": "ChIJxdNnrHMY2jERWu9y7bQAecQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tanvi Mittra",
+      "author_url": "https://www.google.com/maps/contrib/107697944967359117959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQzgfxNjClzNF0_FItRXvUXev4hdWJAwRHs_IS_vUgs7BsDuYc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "It was good, too crowded.",
+      "time": 1691928264,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Lam",
+      "author_url": "https://www.google.com/maps/contrib/112403987693678430009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtkEYVZPu4dhGqMGbabgRFCzZgaASCDsKUoEL_3DEqFmBNzw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Recently reopened.",
+      "time": 1523802130,
+      "translated": false
+    },
+    {
+      "author_name": "jessica wong",
+      "author_url": "https://www.google.com/maps/contrib/117455829819968167430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnTp7czckZg_r83wJb_anRvo0xLHYXo-xhrnv8OxqkQsK2tA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1540205049,
+      "translated": false
+    },
+    {
+      "author_name": "Elson Khoo",
+      "author_url": "https://www.google.com/maps/contrib/108469167850746208587/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjjrs4rsN_i-KxUlST4PDhIku-nQNrVxQkWuydto0wFRCHfiw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506255777,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14157347680693710682",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

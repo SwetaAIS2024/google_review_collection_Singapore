@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.364398,
+      "lng": 103.89682
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365780480291502,
+        "lng": 103.8981380802915
+      },
+      "southwest": {
+        "lat": 1.363082519708498,
+        "lng": 103.8954401197085
+      }
+    }
+  },
+  "name": "Opp Blk 316",
+  "place_id": "ChIJoXZGpjQW2jERvSvAmEwMAHM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yuli Tari",
+      "author_url": "https://www.google.com/maps/contrib/110691113072709741036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9NNTEnwavIelUNGrHcqV0pH2AlG2MDtSN4lj8cjCJ2QxMCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1536065710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8286636837481491389",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

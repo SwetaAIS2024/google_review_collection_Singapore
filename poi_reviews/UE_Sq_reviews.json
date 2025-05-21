@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29214,
+      "lng": 103.843033
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293472180291502,
+        "lng": 103.8444203802915
+      },
+      "southwest": {
+        "lat": 1.290774219708498,
+        "lng": 103.8417224197085
+      }
+    }
+  },
+  "name": "UE Sq",
+  "place_id": "ChIJ7wNNEp8Z2jER3TTpuLeYOkg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tan Tupoh Mike",
+      "author_url": "https://www.google.com/maps/contrib/100101505149618532173/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJSkLFx4M2zH7Dpwppp8VBhOKgHtEuTlLttPQHoAPi0e6j-g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Ok",
+      "time": 1496903173,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson Buco",
+      "author_url": "https://www.google.com/maps/contrib/111667398451296226814/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInQ81slxajOJ2NfMyiPnPZVayFShFmm4kGhpk4tQ1J7iNP9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479475893,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5204640234228757725",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

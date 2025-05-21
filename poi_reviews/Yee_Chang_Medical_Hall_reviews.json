@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Everton Park, Singapore 081001",
+  "geometry": {
+    "location": {
+      "lat": 1.2774397,
+      "lng": 103.8400926
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278751230291502,
+        "lng": 103.8414479802915
+      },
+      "southwest": {
+        "lat": 1.276053269708498,
+        "lng": 103.8387500197085
+      }
+    }
+  },
+  "name": "Yee Chang Medical Hall",
+  "place_id": "ChIJRxCdNGwZ2jERgyChmqKhmUI",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4799044597690998915",
+  "vicinity": "1 Everton Park, Singapore"
+}

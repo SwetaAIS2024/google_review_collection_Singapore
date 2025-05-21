@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Unnamed Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3426242,
+      "lng": 103.8237054
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.34343945,
+        "lng": 103.8252775802915
+      },
+      "southwest": {
+        "lat": 1.340304450000001,
+        "lng": 103.8225796197085
+      }
+    }
+  },
+  "name": "Chemperai Hut",
+  "place_id": "ChIJ_Svz4E8X2jEROUS_9LvOveg",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "CZC",
+      "author_url": "https://www.google.com/maps/contrib/114228349954221708385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgeV0ZnaS3lAx8MBBHwgu8vpsbwpFvUKvCY7hVRmxlNLW9g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Standard shelter for hikers.",
+      "time": 1596005829,
+      "translated": false
+    },
+    {
+      "author_name": "Tejas Lende",
+      "author_url": "https://www.google.com/maps/contrib/118248754436469250048/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsmEct-20C0sv5lbAAcFM5A4P_fHBXJsgRMshFd-1IsHRpJvgw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I love Singapore",
+      "time": 1610250329,
+      "translated": false
+    },
+    {
+      "author_name": "Dika Ajah",
+      "author_url": "https://www.google.com/maps/contrib/105327632709306810960/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_vAptBBkpF4EHIy2Fnyk8izMZEX3Kclg5hZN9JcpnxLaklQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638108814,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16770787894057976889",
+  "user_ratings_total": 3,
+  "vicinity": "Unnamed Road"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "531 Upper Cross St, Singapore 050531",
+  "geometry": {
+    "location": {
+      "lat": 1.2842384,
+      "lng": 103.8457241
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285594380291502,
+        "lng": 103.8470117802915
+      },
+      "southwest": {
+        "lat": 1.282896419708498,
+        "lng": 103.8443138197085
+      }
+    }
+  },
+  "name": "Chop Tye Ah",
+  "place_id": "ChIJO1MHWQsZ2jERKy2T_k8MvaY",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12014772918607359275",
+  "vicinity": "531 Upper Cross Street, Singapore"
+}

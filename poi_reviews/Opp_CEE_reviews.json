@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34586,
+      "lng": 103.67839
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347208680291502,
+        "lng": 103.6797671802915
+      },
+      "southwest": {
+        "lat": 1.344510719708498,
+        "lng": 103.6770692197085
+      }
+    }
+  },
+  "name": "Opp CEE",
+  "place_id": "ChIJwf-iyXQP2jER1V6etq3Fjog",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9840019585734958805",
+  "vicinity": "Singapore"
+}

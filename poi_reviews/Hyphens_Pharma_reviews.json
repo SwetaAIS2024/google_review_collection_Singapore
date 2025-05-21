@@ -1,0 +1,30 @@
+{
+  "formatted_address": "138 Joo Seng Rd, Singapore 368361",
+  "geometry": {
+    "location": {
+      "lat": 1.337801,
+      "lng": 103.8845852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339321030291502,
+        "lng": 103.8859241302915
+      },
+      "southwest": {
+        "lat": 1.336623069708498,
+        "lng": 103.8832261697085
+      }
+    }
+  },
+  "name": "Hyphens Pharma",
+  "place_id": "ChIJq6rqnJEX2jERW2VIEUWGqxk",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1849719703166543195",
+  "vicinity": "138 Joo Seng Road"
+}

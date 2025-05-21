@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Sengkang Central, Singapore 545061",
+  "geometry": {
+    "location": {
+      "lat": 1.3832033,
+      "lng": 103.8929537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384547530291502,
+        "lng": 103.8943534302915
+      },
+      "southwest": {
+        "lat": 1.381849569708498,
+        "lng": 103.8916554697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Buangkok MRT",
+  "place_id": "ChIJjQtOZRUW2jEReQmluO8A9vg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17939527195271956857",
+  "vicinity": "10 Sengkang Central, Singapore"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "27 W Coast Hwy, Singapore 117867",
+  "geometry": {
+    "location": {
+      "lat": 1.2830764,
+      "lng": 103.7806052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284421180291502,
+        "lng": 103.7820536302915
+      },
+      "southwest": {
+        "lat": 1.281723219708498,
+        "lng": 103.7793556697085
+      }
+    }
+  },
+  "name": "SEObusiness",
+  "place_id": "ChIJUZlgMakb2jER04i2gxV9OgI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=160578268082637011",
+  "vicinity": "27 West Coast Highway"
+}

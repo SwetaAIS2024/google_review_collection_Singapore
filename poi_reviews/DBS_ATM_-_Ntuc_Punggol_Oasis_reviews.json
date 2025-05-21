@@ -1,0 +1,55 @@
+{
+  "formatted_address": "681 Punggol Dr., #B1-01 Oasis Terraces, Singapore 820681",
+  "geometry": {
+    "location": {
+      "lat": 1.4027135,
+      "lng": 103.9135896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403754630291502,
+        "lng": 103.9148054302915
+      },
+      "southwest": {
+        "lat": 1.401056669708498,
+        "lng": 103.9121074697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Punggol Oasis",
+  "place_id": "ChIJ00em7f0V2jER_PTcJjK-1PQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ranjith M.Ranjith",
+      "author_url": "https://www.google.com/maps/contrib/116218975029706494179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfsvyCeaduz0wsFkyFQ39Pbg0s6vAmh8hRHTZ-ZezwEUzZL-90=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1695992397,
+      "translated": false
+    },
+    {
+      "author_name": "Zenden Ng",
+      "author_url": "https://www.google.com/maps/contrib/117765672699078585357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbfJw9rcRVGfLcAHjjatFS5dZR_eFVqUHYr-kq9KyZi8KDPCM=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602835692,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17641934762926732540",
+  "user_ratings_total": 2,
+  "vicinity": "681 Punggol Drive, #B1-01 Oasis Terraces"
+}

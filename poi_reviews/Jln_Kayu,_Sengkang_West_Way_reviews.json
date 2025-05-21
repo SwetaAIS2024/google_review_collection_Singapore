@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39474,
+      "lng": 103.87479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396122730291502,
+        "lng": 103.8761409802915
+      },
+      "southwest": {
+        "lat": 1.393424769708498,
+        "lng": 103.8734430197085
+      }
+    }
+  },
+  "name": "Jln Kayu, Sengkang West Way",
+  "place_id": "ChIJ3aO3m3sW2jER2B3a7OSIaXU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8460443891799825880",
+  "vicinity": "Singapore"
+}

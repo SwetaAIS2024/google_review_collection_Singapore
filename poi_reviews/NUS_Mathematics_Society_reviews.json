@@ -1,0 +1,53 @@
+{
+  "formatted_address": "21 Lower Kent Ridge Road, NUS, Singapore 119077",
+  "geometry": {
+    "location": {
+      "lat": 1.2976862,
+      "lng": 103.7807031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299134730291502,
+        "lng": 103.7820031802915
+      },
+      "southwest": {
+        "lat": 1.296436769708498,
+        "lng": 103.7793052197085
+      }
+    }
+  },
+  "name": "NUS Mathematics Society",
+  "place_id": "ChIJITtnSlca2jERpPYEbpf7DGc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ivan Tan",
+      "author_url": "https://www.google.com/maps/contrib/116315853954232917392/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Hmx_1qeJNcMW2dt4gRPNCpfy-KMfdW53UNgoU3oIUeaPqHTe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Place to meet new kor kor",
+      "time": 1668090397,
+      "translated": false
+    },
+    {
+      "author_name": "Nerob rehan",
+      "author_url": "https://www.google.com/maps/contrib/101061299667460179994/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW1KDutY3oydHd8W2kdvpNfKzZ71yZo0iG4iBNWqmjvjbYLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608201303,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7425586513431557796",
+  "user_ratings_total": 2,
+  "vicinity": "21 Lower Kent Ridge Road, NUS"
+}

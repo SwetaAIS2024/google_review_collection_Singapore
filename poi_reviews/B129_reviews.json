@@ -1,0 +1,32 @@
+{
+  "formatted_address": "150 South Bridge Rd, B1-29 Fook Hai Building, Singapore 058727",
+  "geometry": {
+    "location": {
+      "lat": 1.2850702,
+      "lng": 103.8465494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286376480291502,
+        "lng": 103.8480446302915
+      },
+      "southwest": {
+        "lat": 1.283678519708498,
+        "lng": 103.8453466697085
+      }
+    }
+  },
+  "name": "B129",
+  "place_id": "ChIJD6A8DIIZ2jERQ1idDl9pGMU",
+  "types": [
+    "store",
+    "art_gallery",
+    "electronics_store",
+    "clothing_store",
+    "point_of_interest",
+    "home_goods_store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14202217281900861507",
+  "vicinity": "150 South Bridge Road, B1-29 Fook Hai Building"
+}

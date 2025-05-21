@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3367689,
+      "lng": 103.9036914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338149930291502,
+        "lng": 103.9050055802915
+      },
+      "southwest": {
+        "lat": 1.335451969708498,
+        "lng": 103.9023076197085
+      }
+    }
+  },
+  "name": "Srivathi Bhavan",
+  "place_id": "ChIJC57OaeUX2jERuvgFejbwNwI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=159860428561053882",
+  "vicinity": "Singapore"
+}

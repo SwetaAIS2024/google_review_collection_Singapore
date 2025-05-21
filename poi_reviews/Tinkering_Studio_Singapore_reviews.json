@@ -1,0 +1,44 @@
+{
+  "formatted_address": "15 Science Centre Rd, Hall E, Singapore 609081",
+  "geometry": {
+    "location": {
+      "lat": 1.3330955,
+      "lng": 103.7356863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334123780291502,
+        "lng": 103.7368401302915
+      },
+      "southwest": {
+        "lat": 1.331425819708498,
+        "lng": 103.7341421697085
+      }
+    }
+  },
+  "name": "Tinkering Studio Singapore",
+  "place_id": "ChIJMcpMeXQR2jER3CBO34Wdq7M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Simple Life",
+      "author_url": "https://www.google.com/maps/contrib/108648917713191446336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYea9EUIISfkgWx_BstGGyCyhsh769k-R4HZe8BoJyPH9bKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Excellent place for kids to be imaginative, creative and inventive!",
+      "time": 1644308488,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12946614752109273308",
+  "user_ratings_total": 1,
+  "vicinity": "15 Science Centre Road, Hall E"
+}

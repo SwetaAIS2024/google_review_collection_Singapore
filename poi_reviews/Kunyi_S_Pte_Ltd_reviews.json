@@ -1,0 +1,51 @@
+{
+  "formatted_address": "27A Jurong Port Rd, Singapore 619101",
+  "geometry": {
+    "location": {
+      "lat": 1.3157141,
+      "lng": 103.7202737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317127030291502,
+        "lng": 103.7216342802915
+      },
+      "southwest": {
+        "lat": 1.314429069708498,
+        "lng": 103.7189363197085
+      }
+    }
+  },
+  "name": "Kunyi (S) Pte Ltd",
+  "place_id": "ChIJKYL9TU4F2jER2U6HQYWpYA4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Dev das",
+      "author_url": "https://www.google.com/maps/contrib/112982664864430328820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKEf_StIaprYZT8Gnc-bmVEQA0c1yq2cxno0BN2IWGIMhIR31o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693168530,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Cheong",
+      "author_url": "https://www.google.com/maps/contrib/106909524653421901830/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVco5XCLetEOKsK40RCnLJfeeVFKDDJB-T9ugI7w9qG0aD0zTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567820035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1036014304090345177",
+  "user_ratings_total": 2,
+  "vicinity": "27A Jurong Port Road, Singapore"
+}

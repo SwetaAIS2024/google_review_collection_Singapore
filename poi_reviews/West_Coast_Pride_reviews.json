@@ -1,0 +1,63 @@
+{
+  "formatted_address": "515 W Coast Rd, Singapore 120515",
+  "geometry": {
+    "location": {
+      "lat": 1.3083936,
+      "lng": 103.7597373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309866530291502,
+        "lng": 103.7609164802915
+      },
+      "southwest": {
+        "lat": 1.307168569708498,
+        "lng": 103.7582185197085
+      }
+    }
+  },
+  "name": "West Coast Pride",
+  "place_id": "ChIJSStWtOwa2jER7i8yvuKuf6Y",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ivy, Guat Chiew Yeo",
+      "author_url": "https://www.google.com/maps/contrib/108083505621459573712/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4JSN8DxXJPB5I3y8opJfp6VKd0ns30HtrW-h6BMYotLL_1w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Affected by en bloc, the residents are to be moved out by end 2023.",
+      "time": 1561460595,
+      "translated": false
+    },
+    {
+      "author_name": "yingnan wu",
+      "author_url": "https://www.google.com/maps/contrib/108946194949266413009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5mJiuPdS2oWRmDBQpgcHHJLPtl_ThxuStVWzNvlXCKbOk-17k8g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523352598,
+      "translated": false
+    },
+    {
+      "author_name": "kerta kerta",
+      "author_url": "https://www.google.com/maps/contrib/103173404779201958974/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbtvn2m1tfPWGVm7n-AigsyFsnnve0nkZMHnE1GOFM9l6LHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1493099272,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11997500221215092718",
+  "user_ratings_total": 3,
+  "vicinity": "515 West Coast Road, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "87 Bedok North Street 4, Singapore 460087",
+  "geometry": {
+    "location": {
+      "lat": 1.332575,
+      "lng": 103.9385447
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333914480291502,
+        "lng": 103.9398346302915
+      },
+      "southwest": {
+        "lat": 1.331216519708498,
+        "lng": 103.9371366697085
+      }
+    }
+  },
+  "name": "李家小厨 Li Family Kitchen",
+  "place_id": "ChIJgZxNcgA92jERbKzfcaME_6g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Junxian Ma",
+      "author_url": "https://www.google.com/maps/contrib/112887762166136916675/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwdyAInq-VxXiQf38R8O4YDsis18q92tDxjbgdqq2NM21dxfRv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734498120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12177457017469774956",
+  "user_ratings_total": 1,
+  "vicinity": "87 Bedok North Street 4"
+}

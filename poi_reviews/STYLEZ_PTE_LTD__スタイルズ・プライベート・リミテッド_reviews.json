@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Koek road, #06-05 Cuppage Plaza, Singapore 228796",
+  "geometry": {
+    "location": {
+      "lat": 1.301978,
+      "lng": 103.840708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303558380291502,
+        "lng": 103.8419542302915
+      },
+      "southwest": {
+        "lat": 1.300860419708498,
+        "lng": 103.8392562697085
+      }
+    }
+  },
+  "name": "STYLEZ PTE LTD | スタイルズ・プライベート・リミテッド",
+  "place_id": "ChIJM8vMlJYZ2jERyLhqPoVBQ8k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "John Lee",
+      "author_url": "https://www.google.com/maps/contrib/104900877968218270089/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhjZQrpiZ62QPvJ0mxGuy8uWMx7Q0LVsnn5RVSa8ejehFh1WOQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689088934,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14502507265596766408",
+  "user_ratings_total": 1,
+  "vicinity": "5 Koek road, #06-05 Cuppage Plaza"
+}

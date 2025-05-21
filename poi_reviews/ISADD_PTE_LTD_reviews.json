@@ -1,0 +1,52 @@
+{
+  "formatted_address": "314 Tanglin Rd, #01-03 Phoenix Park, Singapore 247977",
+  "geometry": {
+    "location": {
+      "lat": 1.297563,
+      "lng": 103.815458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299003180291502,
+        "lng": 103.8168242302915
+      },
+      "southwest": {
+        "lat": 1.296305219708498,
+        "lng": 103.8141262697085
+      }
+    }
+  },
+  "name": "ISADD PTE LTD",
+  "place_id": "ChIJwQs3_dAb2jERyQ0zx_0oM80",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kaleidoscope",
+      "author_url": "https://www.google.com/maps/contrib/114441560580858449660/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIlsFqIcC-KcHAfmpca7hMIyTzRl2T_cg07vPV95v372Zo4vje=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733913896,
+      "translated": false
+    },
+    {
+      "author_name": "Eve T",
+      "author_url": "https://www.google.com/maps/contrib/108237362960272099813/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLky8VkTEZByv5mOWQENkDhlSIR2qASLABtXsfaIpPvc7Pfgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723647828,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14786207072021319113",
+  "user_ratings_total": 1,
+  "vicinity": "314 Tanglin Road, #01-03 Phoenix Park"
+}

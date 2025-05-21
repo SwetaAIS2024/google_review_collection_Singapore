@@ -1,0 +1,27 @@
+{
+  "formatted_address": "9 Changi Coast Walk, Singapore 499741",
+  "geometry": {
+    "location": {
+      "lat": 1.3170158,
+      "lng": 103.977802
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318475280291502,
+        "lng": 103.9790785302915
+      },
+      "southwest": {
+        "lat": 1.315777319708498,
+        "lng": 103.9763805697085
+      }
+    }
+  },
+  "name": "No Mans Land",
+  "place_id": "ChIJaQWaeQAj2jER71bAHEoscWU",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7309672367020594927",
+  "vicinity": "9 Changi Coast Walk"
+}

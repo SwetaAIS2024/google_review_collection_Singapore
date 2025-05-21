@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3151384,
+      "lng": 103.8938192
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316509180291502,
+        "lng": 103.8948527302915
+      },
+      "southwest": {
+        "lat": 1.313811219708498,
+        "lng": 103.8921547697085
+      }
+    }
+  },
+  "name": "Mo Mart",
+  "place_id": "ChIJRYSgqBcY2jERJlB37NORfAM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "牙楓AFung",
+      "author_url": "https://www.google.com/maps/contrib/105752857882995563927/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkoPTzBOCe-06gXxaU661OLvVSnDhwMrPs8GdlbFqR36YncdZZ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "not 24hrs",
+      "time": 1747145850,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=251236018617274406",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

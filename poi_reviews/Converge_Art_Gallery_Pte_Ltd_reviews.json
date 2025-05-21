@@ -1,0 +1,56 @@
+{
+  "formatted_address": "231 Bain St, #01-59A, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2969044,
+      "lng": 103.8535693
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298409480291502,
+        "lng": 103.8550475802915
+      },
+      "southwest": {
+        "lat": 1.295711519708498,
+        "lng": 103.8523496197085
+      }
+    }
+  },
+  "name": "Converge Art Gallery Pte Ltd",
+  "place_id": "ChIJgXTBnbwZ2jERGmsuca4FrxA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Miss FL",
+      "author_url": "https://www.google.com/maps/contrib/108868746277450777856/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDX8tUW3VitZnE1xtmk0xbdgeVk2HrxU1hzjHGoquAyjWRdDM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "9 months ago",
+      "text": "Went there during supposed opening hours but it’s not open",
+      "time": 1724405303,
+      "translated": false
+    },
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Friendly seller.",
+      "time": 1721459263,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1202185872312527642",
+  "user_ratings_total": 2,
+  "vicinity": "231 Bain Street, #01-59A"
+}

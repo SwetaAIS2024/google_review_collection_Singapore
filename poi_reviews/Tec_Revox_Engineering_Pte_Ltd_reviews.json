@@ -1,0 +1,53 @@
+{
+  "formatted_address": "18 Kaki Bukit Rd 3, #03-12, Singapore 415978",
+  "geometry": {
+    "location": {
+      "lat": 1.3374463,
+      "lng": 103.9027718
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338862330291502,
+        "lng": 103.9041826802915
+      },
+      "southwest": {
+        "lat": 1.336164369708498,
+        "lng": 103.9014847197085
+      }
+    }
+  },
+  "name": "Tec Revox Engineering Pte Ltd",
+  "place_id": "ChIJ6wiAie8X2jERczdO0K9wc_I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Peacemaker",
+      "author_url": "https://www.google.com/maps/contrib/107687777969570747729/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkxzNBAAUZKRI_F6U9681t4dccBuNRLE1k5IpzrqLq21UfvvxomA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "It’s a good company.. whose project are reliable & upkeep the current security trend..",
+      "time": 1745756059,
+      "translated": false
+    },
+    {
+      "author_name": "Jerry Dogta",
+      "author_url": "https://www.google.com/maps/contrib/106743468362210579158/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5CqNmJlFoeqn-vpDSDxcN7kKPOfxpb2tbILDNf9dP896Pww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728619541,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17470431279916660595",
+  "user_ratings_total": 2,
+  "vicinity": "18 Kaki Bukit Road 3, #03-12"
+}

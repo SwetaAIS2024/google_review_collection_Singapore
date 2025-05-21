@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1 Fusionopolis Way, #B1-03/04, Fusionopolis One, Singapore 138632",
+  "geometry": {
+    "location": {
+      "lat": 1.2989175,
+      "lng": 103.7876488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300488430291502,
+        "lng": 103.7888853802915
+      },
+      "southwest": {
+        "lat": 1.297790469708498,
+        "lng": 103.7861874197085
+      }
+    }
+  },
+  "name": "Guardian Health & Beauty – Fusionopolis",
+  "place_id": "ChIJJ9Ka05wb2jERGSkJ7kUe7Gc",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "jessica",
+      "author_url": "https://www.google.com/maps/contrib/105901336763190928315/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGLJYHH5Nb2W7X9SVWG9OeqX_y8uJfML7JUlOTW7W4ugoSMuTW=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "No pharmacy services here.",
+      "time": 1718264791,
+      "translated": false
+    },
+    {
+      "author_name": "Wee Yang Lim",
+      "author_url": "https://www.google.com/maps/contrib/110703408081401536790/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUizBgeIfLgFE9zsPwp1qOk3LxOZgsDLlik_idhCL4pBYNDoW4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637374958,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7488393566105446681",
+  "user_ratings_total": 2,
+  "vicinity": "1 Fusionopolis Way, #B1-03/04, Fusionopolis One, Singapore"
+}

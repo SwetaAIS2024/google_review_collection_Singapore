@@ -1,0 +1,53 @@
+{
+  "formatted_address": "1C Cluny Rd, House 5, Singapore 259599",
+  "geometry": {
+    "location": {
+      "lat": 1.3175831,
+      "lng": 103.8168661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318983430291502,
+        "lng": 103.8182534802915
+      },
+      "southwest": {
+        "lat": 1.316285469708498,
+        "lng": 103.8155555197085
+      }
+    }
+  },
+  "name": "Institute of Policy Studies (IPS), Singapore",
+  "place_id": "ChIJ3ZcHRwAEBBARXWaFVSHOTzA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Melvin Tay",
+      "author_url": "https://www.google.com/maps/contrib/105552874752612099071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtfuHd5JsxAciDtwoUQUOmZ-mpAvfUB37a5tR16xq6rwT89B0m=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "This is a veritable place of interest with the wonders of Singapore's colonial past and technocratic policymaking present coalesced under one (or rather, two) roofs.\n\nPrivate tours can be arranged by email in advance, where the sagely matron will embark on a 2h walkthrough of the building and surroundings with you, and throw in memorable documentary to boot.",
+      "time": 1590654375,
+      "translated": false
+    },
+    {
+      "author_name": "Shane Pereira",
+      "author_url": "https://www.google.com/maps/contrib/118248683449987322061/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh1rJPVXl_CxksVlqQYOo_AtWsJhqBrhaxbXOu5j1StSNzBvA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1590654420,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3481227679544731229",
+  "user_ratings_total": 2,
+  "vicinity": "1C Cluny Road, House 5"
+}

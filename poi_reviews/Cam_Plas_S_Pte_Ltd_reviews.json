@@ -1,0 +1,51 @@
+{
+  "formatted_address": "750A Chai Chee Rd, #04-02/03, Singapore 469001",
+  "geometry": {
+    "location": {
+      "lat": 1.3230967,
+      "lng": 103.9221028
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324389630291502,
+        "lng": 103.9237436302915
+      },
+      "southwest": {
+        "lat": 1.321691669708498,
+        "lng": 103.9210456697085
+      }
+    }
+  },
+  "name": "Cam Plas (S) Pte Ltd",
+  "place_id": "ChIJC1QJRawi2jERDPgzxEf3b7Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Brandon Khor",
+      "author_url": "https://www.google.com/maps/contrib/105727323749042585389/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXipPziLLhDjQKs120XyFSSWaVlDMlIril8-ApOvu9BXI3ivYo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654851273,
+      "translated": false
+    },
+    {
+      "author_name": "Sunil Gupta",
+      "author_url": "https://www.google.com/maps/contrib/115076338336182465254/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0DO0QjXxjufQHcLAnbj49lIimIVZKc8nGK7kkUiUHtJqbSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1596730003,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13145997724924246028",
+  "user_ratings_total": 2,
+  "vicinity": "750A Chai Chee Road, #04-02/03, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "81 Serangoon Garden Way, No. 81, Singapore 555977",
+  "geometry": {
+    "location": {
+      "lat": 1.3638667,
+      "lng": 103.864983
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365245880291502,
+        "lng": 103.8663488302915
+      },
+      "southwest": {
+        "lat": 1.362547919708498,
+        "lng": 103.8636508697085
+      }
+    }
+  },
+  "name": "The Brew Pub",
+  "place_id": "ChIJM01s1QEX2jERJhYRr4z5qBk",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1849002029663458854",
+  "vicinity": "81 Serangoon Garden Way, No. 81, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "500 Dover Rd, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3082304,
+      "lng": 103.7824489
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309606880291502,
+        "lng": 103.7837354302915
+      },
+      "southwest": {
+        "lat": 1.306908919708498,
+        "lng": 103.7810374697085
+      }
+    }
+  },
+  "name": "Applied Materials Engineering Centre (AMEC)",
+  "place_id": "ChIJTeviYGca2jERcanntTwvgL4",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13727023602021673329",
+  "vicinity": "500 Dover Road, Singapore"
+}

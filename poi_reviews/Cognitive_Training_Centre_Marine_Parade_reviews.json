@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Marine Parade Central, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3018671,
+      "lng": 103.9061067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303144280291502,
+        "lng": 103.9075057302915
+      },
+      "southwest": {
+        "lat": 1.300446319708498,
+        "lng": 103.9048077697085
+      }
+    }
+  },
+  "name": "Cognitive Training Centre (Marine Parade)",
+  "place_id": "ChIJae_Lc3EY2jERK-wdyq3cVBQ",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1465038417780665387",
+  "vicinity": "Marine Parade Central"
+}

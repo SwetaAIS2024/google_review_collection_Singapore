@@ -1,0 +1,34 @@
+{
+  "formatted_address": "32 Maxwell Rd, Singapore 069115",
+  "geometry": {
+    "location": {
+      "lat": 1.2772797,
+      "lng": 103.8465299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278666680291502,
+        "lng": 103.8479218302915
+      },
+      "southwest": {
+        "lat": 1.275968719708498,
+        "lng": 103.8452238697085
+      }
+    }
+  },
+  "name": "International Tree Of Life",
+  "place_id": "ChIJP2lCHhMZ2jERxRnb2nevUbY",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "laundry",
+    "car_dealer",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13137474517324208581",
+  "vicinity": "32 Maxwell Road"
+}

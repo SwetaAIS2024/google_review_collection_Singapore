@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338347,
+      "lng": 103.911705
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339680830291502,
+        "lng": 103.9130612302915
+      },
+      "southwest": {
+        "lat": 1.336982869708498,
+        "lng": 103.9103632697085
+      }
+    }
+  },
+  "name": "Shun Li Ind Pk",
+  "place_id": "ChIJq-dbUuIX2jER3xMzHPwlG_o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18022040098588267487",
+  "vicinity": "Singapore"
+}

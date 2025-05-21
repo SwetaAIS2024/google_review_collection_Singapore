@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318693,
+      "lng": 103.883003
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319995580291502,
+        "lng": 103.8843167802915
+      },
+      "southwest": {
+        "lat": 1.317297619708498,
+        "lng": 103.8816188197085
+      }
+    }
+  },
+  "name": "Opp Geylang Meth Sec Sch",
+  "place_id": "ChIJ1ybS5CQY2jERwZB7xAUa1vM",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "John Dooley",
+      "author_url": "https://www.google.com/maps/contrib/117463890031998316324/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuBQfzq3FXzEipXzPfLMI6Yx4CJjlO6E94J-T60nk1l1Z-F4S8=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Handy bus stop in a nice neighbourhood. The locals here are very welcoming.",
+      "time": 1655124969,
+      "translated": false
+    },
+    {
+      "author_name": "awdy apriliyani",
+      "author_url": "https://www.google.com/maps/contrib/104551744041821568294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHy-Vscbg0-1wXSFMzvBh_l65mSBzjtd_HNMUGThijU9ehudJh=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Good",
+      "time": 1513823860,
+      "translated": false
+    },
+    {
+      "author_name": "Wee Tiong Siah",
+      "author_url": "https://www.google.com/maps/contrib/114580950862008920722/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs8O6OgazUAdV-EyoK7wLEswneDnOPvgc_z0Am8Hf9yWWKF5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609528893,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17570259608306159809",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

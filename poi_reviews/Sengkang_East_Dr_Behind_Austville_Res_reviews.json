@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38018,
+      "lng": 103.90139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381481030291502,
+        "lng": 103.9027454802915
+      },
+      "southwest": {
+        "lat": 1.378783069708498,
+        "lng": 103.9000475197085
+      }
+    }
+  },
+  "name": "Sengkang East Dr (Behind Austville Res)",
+  "place_id": "ChIJUb8iID0W2jERRxz2Ilctdpo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11130133381364718663",
+  "vicinity": "Singapore"
+}

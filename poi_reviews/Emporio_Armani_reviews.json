@@ -1,0 +1,85 @@
+{
+  "formatted_address": "2 Bayfront Ave, B2-17/17A The Shoppes at Marina Bay Sands, Singapore 018972",
+  "geometry": {
+    "location": {
+      "lat": 1.2836602,
+      "lng": 103.8592707
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285198080291502,
+        "lng": 103.8611050302915
+      },
+      "southwest": {
+        "lat": 1.282500119708498,
+        "lng": 103.8584070697085
+      }
+    }
+  },
+  "name": "Emporio Armani",
+  "place_id": "ChIJiQAAMAQZ2jERXEINLYoGsxo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mars Demidov",
+      "author_url": "https://www.google.com/maps/contrib/101151494667431663364/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuvTdFNwMy438iY_J9tHzf67rRc7jo6ZwSNWFC3jAiak6flJHA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Great !!!",
+      "time": 1556745340,
+      "translated": true
+    },
+    {
+      "author_name": "Y T",
+      "author_url": "https://www.google.com/maps/contrib/114348448308775577026/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8QjePQa9EE6CctTYMIdm1funYdo3P0sHIWyrDOqdDLdSo9ubZ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534341038,
+      "translated": false
+    },
+    {
+      "author_name": "ornatic",
+      "author_url": "https://www.google.com/maps/contrib/113824037389357474586/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfZLQ6xHb2OiXk0Kezck5gJRZ6xpZ07JDlRcYIYYBRYKdDXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697880245,
+      "translated": false
+    },
+    {
+      "author_name": "Ranjeet Kumar Singh",
+      "author_url": "https://www.google.com/maps/contrib/108821539157791967922/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz-6K0fI2xfbNw3CC6ZxaciklIGPXUYDgczOUAgsCzdegHDw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637152559,
+      "translated": false
+    },
+    {
+      "author_name": "Fabiha Raina",
+      "author_url": "https://www.google.com/maps/contrib/108959830853129750931/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRCQrL88J4F7nQPE7vn2N1tHluTVOr5jjdhivP-ZYGzEFGskM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563992363,
+      "translated": false
+    }
+  ],
+  "types": [
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1923888656348430940",
+  "user_ratings_total": 6,
+  "vicinity": "2 Bayfront Avenue, B2-17/17A The Shoppes at Marina Bay Sands, Singapore"
+}

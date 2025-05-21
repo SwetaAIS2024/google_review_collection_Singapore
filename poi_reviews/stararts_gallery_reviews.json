@@ -1,0 +1,28 @@
+{
+  "formatted_address": "blk 285, Singapore 680285",
+  "geometry": {
+    "location": {
+      "lat": 1.380069,
+      "lng": 103.741801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381355430291502,
+        "lng": 103.7431910802915
+      },
+      "southwest": {
+        "lat": 1.378657469708498,
+        "lng": 103.7404931197085
+      }
+    }
+  },
+  "name": "stararts gallery",
+  "place_id": "ChIJX3MQFgQR2jERII2twCR6CSs",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3101144116691307808",
+  "vicinity": "blk 285"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "59 Tuas South Ave 1, Singapore 637401",
+  "geometry": {
+    "location": {
+      "lat": 1.3175753,
+      "lng": 103.6283073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318921880291502,
+        "lng": 103.6296629302915
+      },
+      "southwest": {
+        "lat": 1.316223919708498,
+        "lng": 103.6269649697085
+      }
+    }
+  },
+  "name": "Soh Tong Heng & Co",
+  "place_id": "ChIJfx17FboZ2jERg0ozIRRIaJ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PONRAJ R",
+      "author_url": "https://www.google.com/maps/contrib/102740226685227873265/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSB7ATnNK1_kDfVo_HPmF_OHB6EmHfBEAbZSnOrAOQmVWMvU9t=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581676086,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11342394912826149507",
+  "user_ratings_total": 1,
+  "vicinity": "59 Tuas South Avenue 1, Singapore"
+}

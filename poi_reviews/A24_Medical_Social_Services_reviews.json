@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jurong East Street 21, Singapore 609606",
+  "geometry": {
+    "location": {
+      "lat": 1.3345194,
+      "lng": 103.7443897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335874580291502,
+        "lng": 103.7454318802915
+      },
+      "southwest": {
+        "lat": 1.333176619708498,
+        "lng": 103.7427339197085
+      }
+    }
+  },
+  "name": "A24 Medical Social Services",
+  "place_id": "ChIJH8R6M_0R2jER7WgsXkCjjyU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2706561397926160621",
+  "vicinity": "1 Jurong East Street 21"
+}

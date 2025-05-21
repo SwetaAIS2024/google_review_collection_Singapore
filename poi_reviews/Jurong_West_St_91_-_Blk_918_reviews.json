@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3405501,
+      "lng": 103.6870453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341904280291502,
+        "lng": 103.6883273302915
+      },
+      "southwest": {
+        "lat": 1.339206319708498,
+        "lng": 103.6856293697085
+      }
+    }
+  },
+  "name": "Jurong West St 91 - Blk 918",
+  "place_id": "ChIJa_mNFZwP2jERb0slL8zY_oA",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Eswaraiah Varrla",
+      "author_url": "https://www.google.com/maps/contrib/107411339684032754890/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3YpnfaK7U8Nnye6L9cGVZ4W4khuoFFdLHz0TmDC7eRKZoKuIY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487940486,
+      "translated": false
+    },
+    {
+      "author_name": "李路",
+      "author_url": "https://www.google.com/maps/contrib/104359257313713017974/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjESPjZ3s-U9TCz6fNEk_Rt3p8CWHwc48QD_NOIuX0ywUTdoZZ2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601336521,
+      "translated": false
+    },
+    {
+      "author_name": "John Doe",
+      "author_url": "https://www.google.com/maps/contrib/109312676124673092150/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWRBESaBMath1-j7IyJYV_OxzDH1IKuH0pWU5rCcLf3zll=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484535617,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9295105052415183727",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

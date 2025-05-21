@@ -1,0 +1,41 @@
+{
+  "formatted_address": "8 Sennett Terrace, Singapore 466703",
+  "geometry": {
+    "location": {
+      "lat": 1.3193291,
+      "lng": 103.9383383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320758430291502,
+        "lng": 103.9396723302915
+      },
+      "southwest": {
+        "lat": 1.318060469708498,
+        "lng": 103.9369743697085
+      }
+    }
+  },
+  "name": "Applied Computing (s) Pte Ltd",
+  "place_id": "ChIJIUbU0cki2jERDdob0pq0qdM",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Simon Lee",
+      "author_url": "https://www.google.com/maps/contrib/110788473495481954601/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBNj7Z7uGqSlncfqN2l3zVHE8pkt7UCUWUBz2mIDXsIRespA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602831000,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15251920190109899277",
+  "user_ratings_total": 1,
+  "vicinity": "8 Sennett Terrace"
+}

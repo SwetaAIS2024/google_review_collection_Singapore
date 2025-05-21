@@ -1,0 +1,53 @@
+{
+  "formatted_address": "495 Margaret Dr, Level 3, Singapore 149305",
+  "geometry": {
+    "location": {
+      "lat": 1.2970695,
+      "lng": 103.8085055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298291080291502,
+        "lng": 103.8098112802915
+      },
+      "southwest": {
+        "lat": 1.295593119708498,
+        "lng": 103.8071133197085
+      }
+    }
+  },
+  "name": "Hội Thánh Tin Lành Việt Nam (Singapore)",
+  "place_id": "ChIJ4Y2RSAAb2jERneKp5w5qTbo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "RED SKY BCF",
+      "author_url": "https://www.google.com/maps/contrib/109549322717106391598/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX19hA9EXStCo4HfFqvtbU0UVwv62E9RwRdzTauYhIYP-j2BRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746361132,
+      "translated": false
+    },
+    {
+      "author_name": "Dang Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/105769130222633836765/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULnHdvR-uAlVdP3C5CHSjJ_4XHgeWzhHSScsRoKZiwzgl-wAk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746350834,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13424502676510073501",
+  "user_ratings_total": 2,
+  "vicinity": "495 Margaret Drive, Level 3, Singapore"
+}

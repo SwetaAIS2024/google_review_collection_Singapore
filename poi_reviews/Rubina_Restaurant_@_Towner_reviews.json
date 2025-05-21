@@ -1,0 +1,29 @@
+{
+  "formatted_address": "101 Towner Rd, Block 101, Singapore 322101",
+  "geometry": {
+    "location": {
+      "lat": 1.3193077,
+      "lng": 103.8609838
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320632980291502,
+        "lng": 103.8624022302915
+      },
+      "southwest": {
+        "lat": 1.317935019708498,
+        "lng": 103.8597042697085
+      }
+    }
+  },
+  "name": "Rubina Restaurant @ Towner",
+  "place_id": "ChIJuyN0GwAZ2jER9g7N-iPNubQ",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13022665351933791990",
+  "vicinity": "101 Towner Road, Block 101, Singapore"
+}

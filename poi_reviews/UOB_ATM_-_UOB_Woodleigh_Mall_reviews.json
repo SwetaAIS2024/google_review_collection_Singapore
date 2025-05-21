@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Bidadari Park Dr, #01-43 Woodleigh Mall, Singapore 367803",
+  "geometry": {
+    "location": {
+      "lat": 1.3379161,
+      "lng": 103.8723492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339263830291502,
+        "lng": 103.8737102302915
+      },
+      "southwest": {
+        "lat": 1.336565869708498,
+        "lng": 103.8710122697085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Woodleigh Mall",
+  "place_id": "ChIJqeljprIX2jEROl2WI9hUeVg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6375220034806373690",
+  "vicinity": "11 Bidadari Park Drive, #01-43 Woodleigh Mall"
+}

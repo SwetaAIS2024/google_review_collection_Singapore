@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3161209,
+      "lng": 103.8053898
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317313630291502,
+        "lng": 103.8069195302915
+      },
+      "southwest": {
+        "lat": 1.314615669708498,
+        "lng": 103.8042215697085
+      }
+    }
+  },
+  "name": "Nur Alishah Musim Food",
+  "place_id": "ChIJdYqRlBEa2jER5m75NrlOkaw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Shaolin Leong",
+      "author_url": "https://www.google.com/maps/contrib/116211953093285724040/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd35Nxhj-DJ2pFKcEVDReCa1lgxg-H-dhaj6t5yHhw0hXLlMjs3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Best Mee Rebus & Mee Soto at $4 in this area ! Besides Adam Rd .\nCome try it !!! One of those little hidden secrets here ! Don't let too many people know ok ???\nUpdated 13 Jan 2025\nMee soto is so good ! 🥰😋\n3rd Feb 2025\nBeef Rendang & Mee Rebus are still very good !!! Consistency wins the game !",
+      "time": 1739294475,
+      "translated": false
+    },
+    {
+      "author_name": "Mickey Mouse",
+      "author_url": "https://www.google.com/maps/contrib/102524457165816620080/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf-OKAxPI0683p3hXpAFY3Ow9OrBCJA_78Rmv7aW4cRCq1J4q9=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Great Food",
+      "time": 1717727070,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12434806603544882918",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

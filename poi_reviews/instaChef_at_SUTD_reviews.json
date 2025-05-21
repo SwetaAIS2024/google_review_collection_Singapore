@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Somapah Rd, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3412593,
+      "lng": 103.9637385
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342583230291502,
+        "lng": 103.9651259802915
+      },
+      "southwest": {
+        "lat": 1.339885269708498,
+        "lng": 103.9624280197085
+      }
+    }
+  },
+  "name": "instaChef at SUTD",
+  "place_id": "ChIJKYqxmDQ92jERsW9hRVCJ5e0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17142258534510063537",
+  "vicinity": "8 Somapah Road"
+}

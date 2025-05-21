@@ -1,0 +1,27 @@
+{
+  "formatted_address": "3 Tampines Grande, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545664,
+      "lng": 103.942316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355768730291502,
+        "lng": 103.9437486302915
+      },
+      "southwest": {
+        "lat": 1.353070769708498,
+        "lng": 103.9410506697085
+      }
+    }
+  },
+  "name": "E-Cop.Net Pte Ltd",
+  "place_id": "ChIJr-GI8Q092jERSk4z233RWFM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6005780441577246282",
+  "vicinity": "3 Tampines Grande"
+}

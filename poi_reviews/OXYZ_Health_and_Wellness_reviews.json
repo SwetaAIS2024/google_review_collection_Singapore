@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Irving Pl, #1-26, Singapore 369546",
+  "geometry": {
+    "location": {
+      "lat": 1.3374628,
+      "lng": 103.8859384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338937430291502,
+        "lng": 103.8872649302915
+      },
+      "southwest": {
+        "lat": 1.336239469708498,
+        "lng": 103.8845669697085
+      }
+    }
+  },
+  "name": "OXYZ Health & Wellness",
+  "place_id": "ChIJZ6siWAAX2jER51iULmEk3s4",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14906391816454822119",
+  "vicinity": "Irving Place, #1-26, Singapore"
+}

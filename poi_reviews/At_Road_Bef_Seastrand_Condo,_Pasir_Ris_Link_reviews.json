@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37701,
+      "lng": 103.96095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378357480291502,
+        "lng": 103.9622985802915
+      },
+      "southwest": {
+        "lat": 1.375659519708498,
+        "lng": 103.9596006197085
+      }
+    }
+  },
+  "name": "At Road Bef Seastrand Condo, Pasir Ris Link",
+  "place_id": "ChIJy8vxrEw82jERGLyM5MbkTrM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12920515923861617688",
+  "vicinity": "Singapore"
+}

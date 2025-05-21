@@ -1,0 +1,63 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.275916,
+      "lng": 103.819206
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277242130291502,
+        "lng": 103.8205375302915
+      },
+      "southwest": {
+        "lat": 1.274544169708498,
+        "lng": 103.8178395697085
+      }
+    }
+  },
+  "name": "Blk 25",
+  "place_id": "ChIJOXc02tgb2jERTk7Sjwr8f6E",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Robert Li",
+      "author_url": "https://www.google.com/maps/contrib/111733976718276618181/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbWUAQHHwAg7qa3yh8RXBVh0jD41iDl7wZZqwKI5gjD4rPz5yj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705402739,
+      "translated": false
+    },
+    {
+      "author_name": "Puvan Michael",
+      "author_url": "https://www.google.com/maps/contrib/103479830522969492786/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaXQAblRfNYArygTIXak2vJcb-c985JMITYZw478KuyXch=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693144885,
+      "translated": false
+    },
+    {
+      "author_name": "Joelle Ong",
+      "author_url": "https://www.google.com/maps/contrib/103088575174747542164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5LzTrcUfO-vA0DAbFvAunkMeRFT5HmbICGeP_n9d73aICTQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486710646,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11637297084441448014",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

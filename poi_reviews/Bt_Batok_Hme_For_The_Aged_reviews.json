@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361785,
+      "lng": 103.743584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363152480291502,
+        "lng": 103.7449405802915
+      },
+      "southwest": {
+        "lat": 1.360454519708498,
+        "lng": 103.7422426197085
+      }
+    }
+  },
+  "name": "Bt Batok Hme For The Aged",
+  "place_id": "ChIJVWKnrTMQ2jERncveYIIRALs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13474789336761158557",
+  "vicinity": "Singapore"
+}

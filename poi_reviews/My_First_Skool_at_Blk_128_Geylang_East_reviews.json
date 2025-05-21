@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Geylang East Ave 1, #01-125 Block 128, Singapore 380128",
+  "geometry": {
+    "location": {
+      "lat": 1.3185969,
+      "lng": 103.887522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320156680291502,
+        "lng": 103.8889190802915
+      },
+      "southwest": {
+        "lat": 1.317458719708498,
+        "lng": 103.8862211197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 128 Geylang East",
+  "place_id": "ChIJVVXlGiMY2jERHbDoHCVPOrc",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13202952278407426077",
+  "vicinity": "Geylang East Avenue 1, #01-125 Block 128"
+}

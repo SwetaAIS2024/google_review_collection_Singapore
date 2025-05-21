@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.315647,
+      "lng": 103.719872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317005230291502,
+        "lng": 103.7211757802915
+      },
+      "southwest": {
+        "lat": 1.314307269708498,
+        "lng": 103.7184778197085
+      }
+    }
+  },
+  "name": "Jurong Port Workshops",
+  "place_id": "ChIJaWgoqk8F2jERVQR0ifOTKjw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "YusLee 77",
+      "author_url": "https://www.google.com/maps/contrib/108203860361925283359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwkSvvFuw6GlMlV11gvLoXn27mf2nGxQLeVME4uOb8CXQ77cUs9w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669021060,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4335440265489941589",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

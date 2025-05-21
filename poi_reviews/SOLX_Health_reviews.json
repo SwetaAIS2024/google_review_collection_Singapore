@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore, Jurong East Street 21, 2号IMM Building#04-10 邮政编码: 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.3349575,
+      "lng": 103.7468492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336343330291502,
+        "lng": 103.7485292302915
+      },
+      "southwest": {
+        "lat": 1.333645369708498,
+        "lng": 103.7458312697085
+      }
+    }
+  },
+  "name": "SOLX Health",
+  "place_id": "ChIJCRytmvoR2jER7YElePH6kZM",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10633556110208238061",
+  "vicinity": "2 Jurong East Street 21, #04-10 IMM Building"
+}

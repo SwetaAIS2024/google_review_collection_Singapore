@@ -1,0 +1,28 @@
+{
+  "formatted_address": "8 Tuas S Ln, Singapore 637302",
+  "geometry": {
+    "location": {
+      "lat": 1.2819201,
+      "lng": 103.6406806
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283080580291502,
+        "lng": 103.6420087802915
+      },
+      "southwest": {
+        "lat": 1.280382619708498,
+        "lng": 103.6393108197085
+      }
+    }
+  },
+  "name": "HLG Warehouse 2",
+  "place_id": "ChIJxeYSRwAF2jERkKaAH2vkP6g",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12123659870645823120",
+  "vicinity": "8 Tuas South Lane, Singapore"
+}

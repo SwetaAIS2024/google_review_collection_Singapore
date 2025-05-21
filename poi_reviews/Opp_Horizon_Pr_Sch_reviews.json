@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.399462,
+      "lng": 103.913956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400822030291502,
+        "lng": 103.9152895302915
+      },
+      "southwest": {
+        "lat": 1.398124069708498,
+        "lng": 103.9125915697085
+      }
+    }
+  },
+  "name": "Opp Horizon Pr Sch",
+  "place_id": "ChIJh8_AJQAW2jERxYRwd7LVkqI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "#Hisham Ahmad",
+      "author_url": "https://www.google.com/maps/contrib/113350871955124937270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSzMrMxOB-MeYU_RGyVmHRjPAXwh8kA2ZulkQaECex4ljVrGGH=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Wrong locations,  the marker put on an empty plot of land besides the e bridge school,  but 56 edgedale plains is actually River Isles condo... Blk 56 inside the River Isles condo at sengkang area",
+      "time": 1634640485,
+      "translated": false
+    },
+    {
+      "author_name": "Zai Binte",
+      "author_url": "https://www.google.com/maps/contrib/105047960573542424769/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdyqDQ4HplckKdUInZ9zHU4k7oPgzxjb5bvXqR7m1QQ1yKDA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545434406,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Qinfang",
+      "author_url": "https://www.google.com/maps/contrib/112681637326617563581/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIejALv5WFxal627g08COtDxmqp-zP-EhVUJYb6iVJ9LHfqCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501850587,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11714660543228839109",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "56 Loyang Way, Singapore 508775",
+  "geometry": {
+    "location": {
+      "lat": 1.3804581,
+      "lng": 103.9766755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381574630291502,
+        "lng": 103.9777387302915
+      },
+      "southwest": {
+        "lat": 1.378876669708498,
+        "lng": 103.9750407697085
+      }
+    }
+  },
+  "name": "Zao Dian Jian Mian",
+  "place_id": "ChIJE86v7uw92jERqSbCBFSSQLA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ingress Wang",
+      "author_url": "https://www.google.com/maps/contrib/110967758929729813995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJow9TuIUqo0V2N_SuSwVHpwVhRqjVN8MqUlycxeqXLW5krzA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "For an authentic Penang Char Koay Teow, this one is great! The cook try to make it less salty so if you’re one of those who like more salt, let him know.",
+      "time": 1679706015,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12700311838739539625",
+  "user_ratings_total": 1,
+  "vicinity": "56 Loyang Way, Singapore"
+}

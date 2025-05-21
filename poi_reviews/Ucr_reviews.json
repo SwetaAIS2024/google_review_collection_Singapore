@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Kaki Bukit Ave 4, Singapore 415875",
+  "geometry": {
+    "location": {
+      "lat": 1.338698,
+      "lng": 103.9066958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340139780291502,
+        "lng": 103.9078714302915
+      },
+      "southwest": {
+        "lat": 1.337441819708498,
+        "lng": 103.9051734697085
+      }
+    }
+  },
+  "name": "Ucr",
+  "place_id": "ChIJVVUVROQX2jERKId2LW4xxCw",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3225757582383023912",
+  "vicinity": "10 Kaki Bukit Avenue 4"
+}

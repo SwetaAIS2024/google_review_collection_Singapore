@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Hougang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3612182,
+      "lng": 103.8862529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388383992950653,
+        "lng": 103.9099610219008
+      },
+      "southwest": {
+        "lat": 1.33346296485012,
+        "lng": 103.8732878974549
+      }
+    }
+  },
+  "name": "Hougang",
+  "place_id": "ChIJWTovwj4W2jERY886y1DJqnk",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Hougang,+Singapore&ftid=0x31da163ec22f3a59:0x79aac950cb3acf63",
+  "vicinity": "Singapore"
+}

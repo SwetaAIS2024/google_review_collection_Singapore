@@ -1,0 +1,43 @@
+{
+  "formatted_address": "63 Ubi Ave 1, #05-04, Singapore 408937",
+  "geometry": {
+    "location": {
+      "lat": 1.3246128,
+      "lng": 103.8939474
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325991530291502,
+        "lng": 103.8954189302915
+      },
+      "southwest": {
+        "lat": 1.323293569708498,
+        "lng": 103.8927209697085
+      }
+    }
+  },
+  "name": "Eastside Church of Christ",
+  "place_id": "ChIJRZRK7noZ2jERS60CyJGFuug",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yan Ling Tan",
+      "author_url": "https://www.google.com/maps/contrib/117990031852976703810/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTQK0tMByxBEOendqzx9-yyIRj1B9FF5d-ca37e-7oBtYMQ7sg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1616545652,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16769863023639833931",
+  "user_ratings_total": 1,
+  "vicinity": "63 Ubi Avenue 1, #05-04, Singapore"
+}

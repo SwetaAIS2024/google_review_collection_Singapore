@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Joo Chiat Rd, Singapore 420002",
+  "geometry": {
+    "location": {
+      "lat": 1.3156101,
+      "lng": 103.8990191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316879430291502,
+        "lng": 103.9004375802915
+      },
+      "southwest": {
+        "lat": 1.314181469708498,
+        "lng": 103.8977396197085
+      }
+    }
+  },
+  "name": "YTL",
+  "place_id": "ChIJKz5VjBAY2jERhb9-s7TGJAo",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=730927518948704133",
+  "vicinity": "2 Joo Chiat Road, Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "7 Fraser St, Singapore 189356",
+  "geometry": {
+    "location": {
+      "lat": 1.299559,
+      "lng": 103.8575893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300901480291502,
+        "lng": 103.8589280802915
+      },
+      "southwest": {
+        "lat": 1.298203519708498,
+        "lng": 103.8562301197085
+      }
+    }
+  },
+  "name": "DUO Galleria drop-off / pick-up point on Fraser Street",
+  "place_id": "ChIJt3pnAh8Z2jERdDLIlk0COKw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Rznnxr Rsd",
+      "author_url": "https://www.google.com/maps/contrib/110568588188545452842/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLujwHEg_dxjHXE88T4eDWB-jrydgl5K47lAHgN_4xk_ZIFpDU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Delivery duties. So nice and pleasant place",
+      "time": 1700937486,
+      "translated": false
+    },
+    {
+      "author_name": "M. Mushfiqur Rahman",
+      "author_url": "https://www.google.com/maps/contrib/106363202464461041492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwzqv9EiWkCjQxFdhiMjrN5ZHlmr-CzqRvyeLihKwRzc2pCo3d=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744640032,
+      "translated": false
+    },
+    {
+      "author_name": "kywe thong",
+      "author_url": "https://www.google.com/maps/contrib/102404202310583299572/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrMcT1-5rUMvcoEEOPK7LKZmMDTy51wwVk3uLHlLl-bi_E-Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727883291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12409671305484841588",
+  "user_ratings_total": 3,
+  "vicinity": "7 Fraser Street, Singapore"
+}

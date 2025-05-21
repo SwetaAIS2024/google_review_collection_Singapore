@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.328539,
+      "lng": 103.922523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329873380291502,
+        "lng": 103.9238721302915
+      },
+      "southwest": {
+        "lat": 1.327175419708498,
+        "lng": 103.9211741697085
+      }
+    }
+  },
+  "name": "Blk 51, Chai Chee St",
+  "place_id": "ChIJdUxOqFM92jERP_dlyHmSVaA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11553301470839699263",
+  "vicinity": "Singapore"
+}

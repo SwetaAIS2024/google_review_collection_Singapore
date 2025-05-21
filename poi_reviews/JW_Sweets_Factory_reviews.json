@@ -1,0 +1,43 @@
+{
+  "formatted_address": "37 MacTaggart Rd, LIREA INDUSTRIAL BUILDING, Singapore 368083",
+  "geometry": {
+    "location": {
+      "lat": 1.3339835,
+      "lng": 103.8834936
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335427230291502,
+        "lng": 103.8848210802915
+      },
+      "southwest": {
+        "lat": 1.332729269708498,
+        "lng": 103.8821231197085
+      }
+    }
+  },
+  "name": "JW Sweets Factory",
+  "place_id": "ChIJ_47tRI4X2jERHeHVQsHwPZg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kelvin Lim",
+      "author_url": "https://www.google.com/maps/contrib/106548709464751659222/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe6Iln4EUPuzDZSX5HyA86eDUFjsLIwR0b5X93AvgmGmGK1U4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519592290,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10970188980185063709",
+  "user_ratings_total": 1,
+  "vicinity": "37 MacTaggart Road, LIREA INDUSTRIAL BUILDING, Singapore"
+}

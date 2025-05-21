@@ -1,0 +1,77 @@
+{
+  "formatted_address": "10 Bayfront Ave, Level B01 Marina Bay Sands, Singapore 018971",
+  "geometry": {
+    "location": {
+      "lat": 1.2839292,
+      "lng": 103.8596783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285888380291502,
+        "lng": 103.8615341302915
+      },
+      "southwest": {
+        "lat": 1.283190419708498,
+        "lng": 103.8588361697085
+      }
+    }
+  },
+  "name": "State Bank of India",
+  "place_id": "ChIJ__8_VgYZ2jERx4vp6aEjXMU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Vyacheslav Golik",
+      "author_url": "https://www.google.com/maps/contrib/103467911048979028035/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcJ3qbUzz6hvF4M1EkFrgtFEm8lhSR4K8lGwhO4-rVl2DuldQZEg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Terrible service and experience!",
+      "time": 1696854115,
+      "translated": false
+    },
+    {
+      "author_name": "Sumukh Ramprasad",
+      "author_url": "https://www.google.com/maps/contrib/111675243363060678952/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH5R16OfQG23oowRQr9rlxC6Wlltf7tKpberKIPq1jobWiX2Y0BQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Good",
+      "time": 1557944005,
+      "translated": false
+    },
+    {
+      "author_name": "TaoRui Wang",
+      "author_url": "https://www.google.com/maps/contrib/112714576041461003306/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt6qyNGTiFBPcBBI7xLy6YEqbQQknQlPuVRNpZUa1WNpdgfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714822565,
+      "translated": false
+    },
+    {
+      "author_name": "Ibrahim Paredath",
+      "author_url": "https://www.google.com/maps/contrib/107500021789638369920/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdYE5wg0iWsMBX45Q2SKHXRUMto5BDhWSRDIeMjeTpq8Ets9xa=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557908090,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14221280901650287559",
+  "user_ratings_total": 4,
+  "vicinity": "10 Bayfront Ave, Level B01 Marina Bay Sands"
+}

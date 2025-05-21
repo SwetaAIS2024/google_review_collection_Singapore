@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334936,
+      "lng": 103.8406495
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336289580291502,
+        "lng": 103.8420293302915
+      },
+      "southwest": {
+        "lat": 1.333591619708498,
+        "lng": 103.8393313697085
+      }
+    }
+  },
+  "name": "School",
+  "place_id": "ChIJoxjYLQAX2jER3diED3TyYEQ",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4927204572633815261",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "9 Yio Chu Kang Rd, Singapore 545523",
+  "geometry": {
+    "location": {
+      "lat": 1.3545406,
+      "lng": 103.877006
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355921330291502,
+        "lng": 103.8784324302915
+      },
+      "southwest": {
+        "lat": 1.353223369708498,
+        "lng": 103.8757344697085
+      }
+    }
+  },
+  "name": "Oh My Bistro",
+  "place_id": "ChIJTy_Yu0oX2jERn0BHv1NrtCI",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Duyen Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/114618336185107377023/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVShi0ANC8iBDegRmOdJbcU9pW3vrxrYrvMfXzrBt3i4zjcM3tM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Already closed.  Can not find",
+      "time": 1742899049,
+      "translated": false
+    },
+    {
+      "author_name": "KC",
+      "author_url": "https://www.google.com/maps/contrib/115628026928713552302/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLapgVtvS4wcs-0ttdQ3ktIDRLeF11Uob__8wunDpBQ-SZsw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nice cozy and relaxing place to drink beer and enjoy jumbo size oysters or nice burger cooked by owner..\n\nFriendly owner and staffs...",
+      "time": 1629984026,
+      "translated": false
+    },
+    {
+      "author_name": "Matt",
+      "author_url": "https://www.google.com/maps/contrib/115064804226640993283/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Y5Bp0qVtQAsfec-OFzlC_DhwoH1MFjbjC6_Z93K8PNPMP4o--w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1640842269,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2500741700533043359",
+  "user_ratings_total": 3,
+  "vicinity": "9 Yio Chu Kang Road, Singapore"
+}

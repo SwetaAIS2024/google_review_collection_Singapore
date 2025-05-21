@@ -1,0 +1,30 @@
+{
+  "formatted_address": "134 Jurong Gateway Rd, Singapore 600134",
+  "geometry": {
+    "location": {
+      "lat": 1.3339508,
+      "lng": 103.7387821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335280680291502,
+        "lng": 103.7402554302915
+      },
+      "southwest": {
+        "lat": 1.332582719708498,
+        "lng": 103.7375574697085
+      }
+    }
+  },
+  "name": "SmartLab Education Centre",
+  "place_id": "ChIJRcqHowUQ2jERANDkc84MrUA",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4660395270245502976",
+  "vicinity": "134 Jurong Gateway Road, Singapore"
+}

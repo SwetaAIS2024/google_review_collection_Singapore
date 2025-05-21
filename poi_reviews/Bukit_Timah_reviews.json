@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bukit Timah, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3294113,
+      "lng": 103.8020777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349522942336152,
+        "lng": 103.8185660224775
+      },
+      "southwest": {
+        "lat": 1.307176022988952,
+        "lng": 103.7629641633705
+      }
+    }
+  },
+  "name": "Bukit Timah",
+  "place_id": "ChIJr22ZHtQP2jERJ_neATHOhTQ",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Bukit+Timah,+Singapore&ftid=0x31da0fd41e996daf:0x3485ce3101def927",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "18 Kaki Bukit Rd 3, Singapore 415978",
+  "geometry": {
+    "location": {
+      "lat": 1.3372562,
+      "lng": 103.9028896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338742830291502,
+        "lng": 103.9043255302915
+      },
+      "southwest": {
+        "lat": 1.336044869708498,
+        "lng": 103.9016275697085
+      }
+    }
+  },
+  "name": "18kakibukit",
+  "place_id": "ChIJS90sfgAX2jERyFYWHxpdwhM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1423802798974588616",
+  "vicinity": "18 Kaki Bukit Road 3"
+}

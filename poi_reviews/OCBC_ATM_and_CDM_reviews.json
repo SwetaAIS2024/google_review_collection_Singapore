@@ -1,0 +1,69 @@
+{
+  "formatted_address": "80 Marine Parade Rd, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3016552,
+      "lng": 103.9051221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303147530291502,
+        "lng": 103.9066840302915
+      },
+      "southwest": {
+        "lat": 1.300449569708498,
+        "lng": 103.9039860697085
+      }
+    }
+  },
+  "name": "OCBC ATM & CDM",
+  "place_id": "ChIJt-40mHEY2jERA5o6t3VU_0c",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lawrence Leo",
+      "author_url": "https://www.google.com/maps/contrib/101005925535013895474/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-oaoVR1A0lueMEfVhwG73yXYg1xJlNAflQHHgrE9rR4J1wGKtBA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "ATM is at level 3\n\nAdded photos to show location",
+      "time": 1696137296,
+      "translated": false
+    },
+    {
+      "author_name": "JP",
+      "author_url": "https://www.google.com/maps/contrib/103380708597997056993/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN0mhiNZecpeyZCTSdW0OCHqliGxpYZbZ5-AeuyZcWgiIarA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "Service is good but you guys need to post your holiday schedule changes here",
+      "time": 1549262268,
+      "translated": false
+    },
+    {
+      "author_name": "Dusty F1",
+      "author_url": "https://www.google.com/maps/contrib/108234988583497599038/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlg95vndy5TJ0CyVPHg1l6XVh8tWmPFK8_bYFH8lhWptkGyC3S=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "ATM machine updated to include cash deposit machine :)",
+      "time": 1636525035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5187958160316078595",
+  "user_ratings_total": 3,
+  "vicinity": "80 Marine Parade Road, Singapore"
+}

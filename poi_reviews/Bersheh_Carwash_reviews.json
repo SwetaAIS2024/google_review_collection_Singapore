@@ -1,0 +1,44 @@
+{
+  "formatted_address": "9, Jln Niaga Aspira 1/2, Gerbang Nusajaya, 79200 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4195016,
+      "lng": 103.5938467
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420835830291502,
+        "lng": 103.5952235302915
+      },
+      "southwest": {
+        "lat": 1.418137869708498,
+        "lng": 103.5925255697085
+      }
+    }
+  },
+  "name": "Bersheh Carwash",
+  "place_id": "ChIJ68JrayQL2jER14mevKqzPDs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hairil Zain",
+      "author_url": "https://www.google.com/maps/contrib/105484316556883955772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX-mIt84zRQ7ABDwdE9w4cKoE78TxQhZniHYpvcWa9hvU7gQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Excellent service very precise",
+      "time": 1746189127,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4268484092730706391",
+  "user_ratings_total": 1,
+  "vicinity": "9, Jalan Niaga Aspira 1/2, Gerbang Nusajaya, Gelang Patah"
+}

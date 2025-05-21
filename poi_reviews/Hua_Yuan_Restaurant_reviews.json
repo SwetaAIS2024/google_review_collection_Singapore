@@ -1,0 +1,29 @@
+{
+  "formatted_address": "472 Tampines Street 44, Singapore 520472",
+  "geometry": {
+    "location": {
+      "lat": 1.3600632,
+      "lng": 103.9537133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361308430291502,
+        "lng": 103.9551377302915
+      },
+      "southwest": {
+        "lat": 1.358610469708498,
+        "lng": 103.9524397697085
+      }
+    }
+  },
+  "name": "Hua Yuan Restaurant",
+  "place_id": "ChIJk7vK6gY92jERK0MxT17mtig",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2933785500008399659",
+  "vicinity": "472 Tampines Street 44"
+}

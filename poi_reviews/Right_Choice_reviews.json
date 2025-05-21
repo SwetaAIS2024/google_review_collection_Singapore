@@ -1,0 +1,30 @@
+{
+  "formatted_address": "810 Geylang Rd, #01-60/61 City Plaza, Singapore 409286",
+  "geometry": {
+    "location": {
+      "lat": 1.3149968,
+      "lng": 103.8935559
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316526730291502,
+        "lng": 103.8947183302915
+      },
+      "southwest": {
+        "lat": 1.313828769708498,
+        "lng": 103.8920203697085
+      }
+    }
+  },
+  "name": "Right Choice",
+  "place_id": "ChIJ5aKtP50Z2jERZccDTpgYNZE",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10463296351688181605",
+  "vicinity": "810 Geylang Road, #01-60/61 City Plaza, Singapore"
+}

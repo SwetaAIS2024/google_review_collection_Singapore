@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325172,
+      "lng": 103.684151
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326521080291502,
+        "lng": 103.6854905802915
+      },
+      "southwest": {
+        "lat": 1.323823119708498,
+        "lng": 103.6827926197085
+      }
+    }
+  },
+  "name": "Bef Lok Yang Way",
+  "place_id": "ChIJjYZpoH8F2jERwhdP3ntaYHA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8097571618069354434",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Brooke Rd, #03-02, Singapore 429979",
+  "geometry": {
+    "location": {
+      "lat": 1.304203,
+      "lng": 103.903807
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305519530291502,
+        "lng": 103.9051196302915
+      },
+      "southwest": {
+        "lat": 1.302821569708498,
+        "lng": 103.9024216697085
+      }
+    }
+  },
+  "name": "Apex Credit",
+  "place_id": "ChIJ-30WbHIY2jERIy4UqR6waIk",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9901357426506214947",
+  "vicinity": "1 Brooke Road, #03-02"
+}

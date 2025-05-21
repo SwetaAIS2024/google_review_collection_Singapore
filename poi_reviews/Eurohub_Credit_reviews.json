@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Ubi Cres, Singapore 408564",
+  "geometry": {
+    "location": {
+      "lat": 1.3263137,
+      "lng": 103.8961912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327471580291502,
+        "lng": 103.8976466802915
+      },
+      "southwest": {
+        "lat": 1.324773619708498,
+        "lng": 103.8949487197085
+      }
+    }
+  },
+  "name": "Eurohub Credit",
+  "place_id": "ChIJ3RlN8PUX2jERpoY4Js9JCuA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16143796968311260838",
+  "vicinity": "10 Ubi Crescent, Singapore"
+}

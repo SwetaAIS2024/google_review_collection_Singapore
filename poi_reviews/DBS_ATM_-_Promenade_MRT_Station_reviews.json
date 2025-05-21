@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Temasek Ave, Singapore 039193",
+  "geometry": {
+    "location": {
+      "lat": 1.2924504,
+      "lng": 103.8604405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.29456635,
+        "lng": 103.8617211802915
+      },
+      "southwest": {
+        "lat": 1.29174495,
+        "lng": 103.8590232197085
+      }
+    }
+  },
+  "name": "DBS ATM - Promenade MRT Station",
+  "place_id": "ChIJc7jaR9AZ2jERf7ktCHC-gJM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10628704508977199487",
+  "vicinity": "2 Temasek Avenue, Singapore"
+}

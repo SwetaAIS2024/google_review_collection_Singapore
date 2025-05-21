@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4203929,
+      "lng": 103.8634184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421716330291502,
+        "lng": 103.8648117802915
+      },
+      "southwest": {
+        "lat": 1.419018369708498,
+        "lng": 103.8621138197085
+      }
+    }
+  },
+  "name": "Opp JTC Aviation Two",
+  "place_id": "ChIJeVt1C0oU2jERl9Y4zZM8jdg",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Himanshu Gupta",
+      "author_url": "https://www.google.com/maps/contrib/118250571431034454418/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsDlWdGDu3VwAexlYBW9jV6hdDkGQ4lFRPi_LTi8ET5DM-dk-D=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice place to jog n walk around the sea",
+      "time": 1689509489,
+      "translated": false
+    },
+    {
+      "author_name": "Leona du",
+      "author_url": "https://www.google.com/maps/contrib/103368631967437569190/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvav80YFqKd97OoISFlcPdQIplcH9pY1A9qlL3iAAtKeSEVria=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Seletar Airport",
+      "time": 1732350157,
+      "translated": true
+    },
+    {
+      "author_name": "Melodie Garcia Ballesteros",
+      "author_url": "https://www.google.com/maps/contrib/100180831940611275036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjCQ0pG1Lo8FVjOnwNtN9cO_NuKd4fsumSXcZ03GHqLwXU0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485055192,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15604194889409549975",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

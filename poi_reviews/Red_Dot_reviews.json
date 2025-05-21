@@ -1,0 +1,77 @@
+{
+  "formatted_address": "301 Dover Rd, Singapore 139644",
+  "geometry": {
+    "location": {
+      "lat": 1.3056618,
+      "lng": 103.779214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307131280291502,
+        "lng": 103.7804678302915
+      },
+      "southwest": {
+        "lat": 1.304433319708498,
+        "lng": 103.7777698697085
+      }
+    }
+  },
+  "name": "Red Dot",
+  "place_id": "ChIJY6SksE8b2jERw_c7bQO7SBY",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Robin Wood",
+      "author_url": "https://www.google.com/maps/contrib/116839408863044250262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9i1zAiRGJde5BBHbiGLnMWrOJ27BC05Ftp-8c6ZDktmUL2-qQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Food is ok but severely overpriced to the point where a lukewarm burger with the most basic fillings costs $8.50 to buy. One waffle smothered in plastic with no toppings will cost you $2.50. Overuse of non-disposable plastic wrapping in both cookies and waffles. Muffins are delicious however.",
+      "time": 1669794658,
+      "translated": false
+    },
+    {
+      "author_name": "Bruno REVERSADE",
+      "author_url": "https://www.google.com/maps/contrib/103727486598324264482/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1zNoBSq0r-ulyalNm2R1Yrd9XnonYL-92FdRZq5hjXUNbIR0hCA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "The Dover Court school cantine in all its breadth and inherent culinary impediments",
+      "time": 1601455709,
+      "translated": false
+    },
+    {
+      "author_name": "Elly Maslin",
+      "author_url": "https://www.google.com/maps/contrib/117639416138372408835/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoAvGO5YMepfaq695zpya9BsUmh72bWZoLH6mLOkn_drE6DTCE2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744766438,
+      "translated": false
+    },
+    {
+      "author_name": "Tonka Lange",
+      "author_url": "https://www.google.com/maps/contrib/116152654909634928660/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCZQB-L83AcU-HZxKp7tA1x9DfRRT3GGTSeXoH8ozGLM_uHR6m=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1671570032,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1605738890549524419",
+  "user_ratings_total": 4,
+  "vicinity": "301 Dover Road"
+}

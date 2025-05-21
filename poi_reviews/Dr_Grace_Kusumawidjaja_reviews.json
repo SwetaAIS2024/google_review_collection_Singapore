@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Napier Road, Gleneagles Hospital, Level 1 Radiation Oncology Centre, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309068730291502,
+        "lng": 103.8211892302915
+      },
+      "southwest": {
+        "lat": 1.306370769708498,
+        "lng": 103.8184912697085
+      }
+    }
+  },
+  "name": "Dr Grace Kusumawidjaja",
+  "place_id": "ChIJmxvGXDsb2jERrVNIh4ncP9Q",
+  "types": [
+    "hospital",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15294185342811788205",
+  "vicinity": "6A Napier Road, Gleneagles Hospital, Level 1 Radiation Oncology Centre"
+}

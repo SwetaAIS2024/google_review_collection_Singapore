@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.344487,
+      "lng": 103.953178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345845930291502,
+        "lng": 103.9545186302915
+      },
+      "southwest": {
+        "lat": 1.343147969708498,
+        "lng": 103.9518206697085
+      }
+    }
+  },
+  "name": "Simei Stn/Blk 247",
+  "place_id": "ChIJq3CBdiI92jERp1vDirzyz7Y",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "It's just ok..",
+      "time": 1501192717,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13173014326677822375",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

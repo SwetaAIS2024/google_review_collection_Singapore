@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bukit Timah Expy, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4232169,
+      "lng": 103.7718083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.42708415,
+        "lng": 103.7735288802915
+      },
+      "southwest": {
+        "lat": 1.421779149999999,
+        "lng": 103.7708309197085
+      }
+    }
+  },
+  "name": "PUB WH2",
+  "place_id": "ChIJqesTIwAT2jERazvnpufTj_M",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17550479264777190251",
+  "vicinity": "Bukit Timah Expressway"
+}

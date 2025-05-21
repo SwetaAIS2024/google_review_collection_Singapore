@@ -1,0 +1,89 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3044483,
+      "lng": 103.8523114
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305705280291502,
+        "lng": 103.8535756302915
+      },
+      "southwest": {
+        "lat": 1.303007319708498,
+        "lng": 103.8508776697085
+      }
+    }
+  },
+  "name": "Bef Rochor Stn Exit B",
+  "place_id": "ChIJ-fnsPbkZ2jERV6QkEH0qt78",
+  "rating": 4.1,
+  "reviews": [
+    {
+      "author_name": "Yatin Jayawant",
+      "author_url": "https://www.google.com/maps/contrib/114445350595565767616/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItU5pjXMkziWKoY2IqFndiYYWvlGGwM526XPIgWEcBne8WsQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Singapore bus stop number 07539, opposite Rocher station",
+      "time": 1545707665,
+      "translated": false
+    },
+    {
+      "author_name": "murugan amar",
+      "author_url": "https://www.google.com/maps/contrib/103306335046777764251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBw7up5gTL2wxJaeXzp2Y7uCcwliRvMpWWMwjzGICGkgi5aMR7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very nice",
+      "time": 1644312466,
+      "translated": false
+    },
+    {
+      "author_name": "Ghozy Naim",
+      "author_url": "https://www.google.com/maps/contrib/101357734273360149310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcGQHGtVcD12rXh_2x0HuVcM5JuPY5SSwDw9tlsILqUP6q6L39=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "great bus station",
+      "time": 1690515511,
+      "translated": false
+    },
+    {
+      "author_name": "Jeffrey Ng",
+      "author_url": "https://www.google.com/maps/contrib/108809881754940124809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJLTcyvHB1P40vomb9R8milxUMysl5UV_KdRDOwtvQO5EoMkm90A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666109034,
+      "translated": false
+    },
+    {
+      "author_name": "anand raghu",
+      "author_url": "https://www.google.com/maps/contrib/102334614214587935096/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi--0cKyzsfG9U0QaCb1xvA7EpUdZ_mf4wEXX3sqN47OwxBygn=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605879887,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13814557098612401239",
+  "user_ratings_total": 9,
+  "vicinity": "Singapore"
+}

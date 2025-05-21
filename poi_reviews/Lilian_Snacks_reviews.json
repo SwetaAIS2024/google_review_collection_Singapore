@@ -1,0 +1,46 @@
+{
+  "formatted_address": "25 Ubi Rd 1, #5, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3358668,
+      "lng": 103.8965722
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337264180291502,
+        "lng": 103.8979222802915
+      },
+      "southwest": {
+        "lat": 1.334566219708498,
+        "lng": 103.8952243197085
+      }
+    }
+  },
+  "name": "Lilian Snacks",
+  "place_id": "ChIJqZhm9zkX2jER_-KAU0wgGhs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "tsuki",
+      "author_url": "https://www.google.com/maps/contrib/107278515718010702301/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdTkhJOsLSByDImDbJ1s9FC_OV5QDP24JbqNBb4xnwHfwQgH-A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Place to get coffee/tea at CDC driving centre!",
+      "time": 1695640833,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1952908900609090303",
+  "user_ratings_total": 1,
+  "vicinity": "25 Ubi Road 1, #5"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "L01-01A, 1Medini Hub, 2, Persiaran Medini, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4196504,
+      "lng": 103.636571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420944980291502,
+        "lng": 103.6379296802915
+      },
+      "southwest": {
+        "lat": 1.418247019708498,
+        "lng": 103.6352317197085
+      }
+    }
+  },
+  "name": "ZEMPOT MALAYSIA SDN BHD",
+  "place_id": "ChIJB4Q8828L2jERZrdS5odYhoo",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9981762964821292902",
+  "vicinity": "L01-01A, 1Medini Hub, 2, Persiaran Medini, Bandar Medini Iskandar, Iskandar Puteri"
+}

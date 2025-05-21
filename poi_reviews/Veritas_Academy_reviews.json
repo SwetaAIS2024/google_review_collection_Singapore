@@ -1,0 +1,28 @@
+{
+  "formatted_address": "123 Bukit Merah Lane 1, Singapore 150123",
+  "geometry": {
+    "location": {
+      "lat": 1.2867152,
+      "lng": 103.8037402
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288025130291502,
+        "lng": 103.8049769302915
+      },
+      "southwest": {
+        "lat": 1.285327169708498,
+        "lng": 103.8022789697085
+      }
+    }
+  },
+  "name": "Veritas Academy",
+  "place_id": "ChIJj14hmQwb2jERgWO3U7AJzGQ",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7263190951965188993",
+  "vicinity": "123 Bukit Merah Lane 1"
+}

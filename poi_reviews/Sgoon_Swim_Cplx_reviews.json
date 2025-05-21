@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357173,
+      "lng": 103.875305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358545930291502,
+        "lng": 103.8766942302915
+      },
+      "southwest": {
+        "lat": 1.355847969708498,
+        "lng": 103.8739962697085
+      }
+    }
+  },
+  "name": "S'goon Swim Cplx",
+  "place_id": "ChIJIRpy564X2jERb0t7fC5p3z4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "yang jiaxuan",
+      "author_url": "https://www.google.com/maps/contrib/102885905299321260615/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYi8WdBPBg-oEuilSv9rPLTdRgTkfNEB6GiRFf_pBThxg-bjk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545647592,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4530455398535875439",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

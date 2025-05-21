@@ -1,0 +1,57 @@
+{
+  "formatted_address": "3 Kallang Way 2A, Singapore 347493",
+  "geometry": {
+    "location": {
+      "lat": 1.3233535,
+      "lng": 103.8771554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324872230291502,
+        "lng": 103.8785728802915
+      },
+      "southwest": {
+        "lat": 1.322174269708498,
+        "lng": 103.8758749197085
+      }
+    }
+  },
+  "name": "Aspac F & B Pte Ltd",
+  "place_id": "ChIJi-GH5CgY2jER78U1Lad-L_Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jia Jin NGANG",
+      "author_url": "https://www.google.com/maps/contrib/103701825507706669746/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK769saPRWVxTULOA2BuPVXm2zqdV5wJpWXGFk6QzXEEfIpBQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Okay",
+      "time": 1538520997,
+      "translated": false
+    },
+    {
+      "author_name": "Kelly Tan",
+      "author_url": "https://www.google.com/maps/contrib/107134044044236673128/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0Hnhah9TbZNk-vy4_2k9pFeIghpDI2xwugLb8f3tNcBwKf00T=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Super big and super delicious",
+      "time": 1571894326,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17595421525642954223",
+  "user_ratings_total": 2,
+  "vicinity": "3 Kallang Way 2A, Singapore"
+}

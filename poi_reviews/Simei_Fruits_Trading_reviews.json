@@ -1,0 +1,30 @@
+{
+  "formatted_address": "139 Simei Street 1, #01-14 Block 139, Singapore 520139",
+  "geometry": {
+    "location": {
+      "lat": 1.3469355,
+      "lng": 103.9564122
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348288780291502,
+        "lng": 103.9576919802915
+      },
+      "southwest": {
+        "lat": 1.345590819708498,
+        "lng": 103.9549940197085
+      }
+    }
+  },
+  "name": "Simei Fruits Trading",
+  "place_id": "ChIJCedEIh892jERe9u8flxUwgM",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=270871683835681659",
+  "vicinity": "139 Simei Street 1, #01-14 Block 139, Singapore"
+}

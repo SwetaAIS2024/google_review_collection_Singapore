@@ -1,0 +1,53 @@
+{
+  "formatted_address": "10 Defu Ln 1, Singapore 539485",
+  "geometry": {
+    "location": {
+      "lat": 1.361425,
+      "lng": 103.897478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362895580291502,
+        "lng": 103.8988112802915
+      },
+      "southwest": {
+        "lat": 1.360197619708498,
+        "lng": 103.8961133197085
+      }
+    }
+  },
+  "name": "Hoong Thye Furniture & Renovation",
+  "place_id": "ChIJDUege8wX2jERMYjVq9oOWUw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Haiqal",
+      "author_url": "https://www.google.com/maps/contrib/101724313247086960224/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRHdDXEiU7TQECZg5OeJuJGPiCio8Qq-K_K8pRrd2VFRjUjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Carpenters Professionals here for all homes, hotels, offices furniture needs.Custom built or bulk order any Designs.",
+      "time": 1563183035,
+      "translated": false
+    },
+    {
+      "author_name": "Joanne Fu",
+      "author_url": "https://www.google.com/maps/contrib/108888675624366804276/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkYrBNj1pnq5RQBrdGsN-iS9nWMi8OWq-xfIdT8a7fBDhbgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609160114,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5501444752158328881",
+  "user_ratings_total": 2,
+  "vicinity": "10 Defu Lane 1"
+}

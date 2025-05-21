@@ -1,0 +1,46 @@
+{
+  "formatted_address": "11 Telok Blangah Cres, #01-129 Market & Food Centre, Singapore 090011",
+  "geometry": {
+    "location": {
+      "lat": 1.277271,
+      "lng": 103.8187789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278676380291502,
+        "lng": 103.8202861802915
+      },
+      "southwest": {
+        "lat": 1.275978419708498,
+        "lng": 103.8175882197085
+      }
+    }
+  },
+  "name": "129 Coffee Stall",
+  "place_id": "ChIJWUZEpEUb2jERmHS9CyjoLhk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jolene",
+      "author_url": "https://www.google.com/maps/contrib/110272563675333007956/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-uFnRB7oDIghDJUZzkH0IXOY186wwELr_6ijTTajF_cC3Nw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Super generous portion of soya beancurd at $1.20. Clean surroundings.",
+      "time": 1725668361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1814642958570189976",
+  "user_ratings_total": 1,
+  "vicinity": "11 Telok Blangah Crescent, #01-129 Market & Food Centre"
+}

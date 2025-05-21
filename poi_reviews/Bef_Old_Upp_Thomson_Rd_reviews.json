@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.387177,
+      "lng": 103.819649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388574880291502,
+        "lng": 103.8210310302915
+      },
+      "southwest": {
+        "lat": 1.385876919708498,
+        "lng": 103.8183330697085
+      }
+    }
+  },
+  "name": "Bef Old Upp Thomson Rd",
+  "place_id": "ChIJaSsGZUsR2jERMCazTArlZgk",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724570740,
+      "translated": false
+    },
+    {
+      "author_name": "ANG H W",
+      "author_url": "https://www.google.com/maps/contrib/115987919992415551485/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdNb5W12nsUQRlWoRiQ8zXMbc2Mo8FX_drSaSodIjsxXUSrv9h=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681513737,
+      "translated": false
+    },
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654399725,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=677480626365081136",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

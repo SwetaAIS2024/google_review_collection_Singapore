@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Singapore, 巴耶利巴路上段145号145号 邮政编码: 534848",
+  "geometry": {
+    "location": {
+      "lat": 1.3390289,
+      "lng": 103.8860412
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340402230291502,
+        "lng": 103.8874210302915
+      },
+      "southwest": {
+        "lat": 1.337704269708498,
+        "lng": 103.8847230697085
+      }
+    }
+  },
+  "name": "Golden Claypot Rice 黄金煲仔饭",
+  "place_id": "ChIJWy-mCwAX2jERc-5yzDS_WuY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wai Lee",
+      "author_url": "https://www.google.com/maps/contrib/111040227075746749503/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSVS3HIP_Ej2xkHwYA2f2d-dLl6pPOIWWQ6800ErTPNNevpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The coffee shop environment is very clean and the claypot rice tastes good. The golden rice cake is crunchy and crispy",
+      "time": 1741963721,
+      "translated": true
+    },
+    {
+      "author_name": "hmong6688",
+      "author_url": "https://www.google.com/maps/contrib/108735497589588223152/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1aoxcyxL5BGsZ1VZxPCX0gYLD-R-CCgEx2g6BM6z3IKNNlmE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "tasty! ! ! ! !",
+      "time": 1741763204,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16598789610116673139",
+  "user_ratings_total": 2,
+  "vicinity": "145 巴耶利巴路上段, 145号"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "550 Serangoon Rd, Singapore 550000",
+  "geometry": {
+    "location": {
+      "lat": 1.3141594,
+      "lng": 103.8570238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315480330291502,
+        "lng": 103.8582633302915
+      },
+      "southwest": {
+        "lat": 1.312782369708498,
+        "lng": 103.8555653697085
+      }
+    }
+  },
+  "name": "Lumi Dots",
+  "place_id": "ChIJhxcibs8Z2jERBx9PldBYsCw",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3220171386451336967",
+  "vicinity": "550 Serangoon Road"
+}

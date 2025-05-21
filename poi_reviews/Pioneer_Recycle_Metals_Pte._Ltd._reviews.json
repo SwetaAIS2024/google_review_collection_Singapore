@@ -1,0 +1,51 @@
+{
+  "formatted_address": "33 Tampines Industrial Ave 5, Singapore 528626",
+  "geometry": {
+    "location": {
+      "lat": 1.3756586,
+      "lng": 103.9209119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376844530291502,
+        "lng": 103.9220967302915
+      },
+      "southwest": {
+        "lat": 1.374146569708498,
+        "lng": 103.9193987697085
+      }
+    }
+  },
+  "name": "Pioneer Recycle Metals Pte. Ltd.",
+  "place_id": "ChIJTzELJ4892jER8glEJb5zjKo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Madasamy Johnkirubakaran",
+      "author_url": "https://www.google.com/maps/contrib/106579354167783054995/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhNWFzzWWZkum60K1H_YE3YKJ-QjkLjzRaFG7QeZW1INIApInSCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1615216973,
+      "translated": false
+    },
+    {
+      "author_name": "HENRY LEE",
+      "author_url": "https://www.google.com/maps/contrib/100894265153678597501/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4KtYyaqxQOF_p2oadfNBdDEGzprx0TL4u0w5vRDJGn86xIHy1PQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609840556,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12289324743693437426",
+  "user_ratings_total": 2,
+  "vicinity": "33 Tampines Industrial Avenue 5"
+}

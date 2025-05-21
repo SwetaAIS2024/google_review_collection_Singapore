@@ -1,0 +1,29 @@
+{
+  "formatted_address": "29 Harrison Rd, Singapore 369648",
+  "geometry": {
+    "location": {
+      "lat": 1.3364274,
+      "lng": 103.8851766
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337751380291502,
+        "lng": 103.8865742302915
+      },
+      "southwest": {
+        "lat": 1.335053419708498,
+        "lng": 103.8838762697085
+      }
+    }
+  },
+  "name": "central kitchen and food factory Singapore",
+  "place_id": "ChIJ_cGq95EX2jERhGfXrIm2D80",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14776229604852459396",
+  "vicinity": "29 Harrison Road"
+}

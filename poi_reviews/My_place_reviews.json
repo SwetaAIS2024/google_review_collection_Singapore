@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Woodlands Height, Singapore 737859",
+  "geometry": {
+    "location": {
+      "lat": 1.4282221,
+      "lng": 103.7990613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.429493080291502,
+        "lng": 103.8003449302915
+      },
+      "southwest": {
+        "lat": 1.426795119708498,
+        "lng": 103.7976469697085
+      }
+    }
+  },
+  "name": "My place",
+  "place_id": "ChIJo_-LXgAT2jERuRMeirurXQw",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=891057123253687225",
+  "vicinity": "1 Woodlands Height, Singapore"
+}

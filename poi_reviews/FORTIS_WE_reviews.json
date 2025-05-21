@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Sunview Way, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3188363,
+      "lng": 103.7006881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320274930291502,
+        "lng": 103.7020471302915
+      },
+      "southwest": {
+        "lat": 1.317576969708498,
+        "lng": 103.6993491697085
+      }
+    }
+  },
+  "name": "FORTIS 'WE'",
+  "place_id": "ChIJjx9feToF2jER3H3J2xScmK8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "George MC",
+      "author_url": "https://www.google.com/maps/contrib/115586198575344293321/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQRH9tSu_BoaaYWml8CcjcuzxWhft8Tp_B2P3PkKwW-393nR8v4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Sentosa",
+      "time": 1583481662,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12653034766498102748",
+  "user_ratings_total": 1,
+  "vicinity": "Sunview Way"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334083,
+      "lng": 103.715096
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335483730291502,
+        "lng": 103.7164296302915
+      },
+      "southwest": {
+        "lat": 1.332785769708498,
+        "lng": 103.7137316697085
+      }
+    }
+  },
+  "name": "Aft Third Chin Bee Rd",
+  "place_id": "ChIJGYOW-fAP2jERU2SaN3mPIUg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "J Lee (Jelly)",
+      "author_url": "https://www.google.com/maps/contrib/105417002540148643455/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6oyxd8LZtUMj3ZDvbt8yPH6sQcDJcNI-fC2bqHtKIF6mhFu7u=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Snoopy waits with u at this bus stop. Comforting",
+      "time": 1620454805,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5197593195748942931",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "639 Yishun Street 61, Singapore 760639",
+  "geometry": {
+    "location": {
+      "lat": 1.4205573,
+      "lng": 103.8384177
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421952480291502,
+        "lng": 103.8397206302915
+      },
+      "southwest": {
+        "lat": 1.419254519708498,
+        "lng": 103.8370226697085
+      }
+    }
+  },
+  "name": "Le Champ-NKF Dialysis Centre",
+  "place_id": "ChIJxQH1rWwU2jERG-OmgpAhLEo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Shafie",
+      "author_url": "https://www.google.com/maps/contrib/113834202124038950467/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJtNqtbwCfFpRDFxizgStPH9cstfd5yLe4kGgy8VZ4KsUDYsht=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521554614,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5344683762332918555",
+  "user_ratings_total": 1,
+  "vicinity": "639 Yishun Street 61"
+}

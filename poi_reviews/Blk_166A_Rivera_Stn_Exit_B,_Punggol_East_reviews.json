@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39429,
+      "lng": 103.91575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.395663430291502,
+        "lng": 103.9171509802915
+      },
+      "southwest": {
+        "lat": 1.392965469708498,
+        "lng": 103.9144530197085
+      }
+    }
+  },
+  "name": "Blk 166A (Rivera Stn Exit B), Punggol East",
+  "place_id": "ChIJAcYVi_g92jER4qQuCjU8Bpg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10954509342127072482",
+  "vicinity": "Singapore"
+}

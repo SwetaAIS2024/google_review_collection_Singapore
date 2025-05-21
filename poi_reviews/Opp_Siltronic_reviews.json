@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37507,
+      "lng": 103.921303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376444780291502,
+        "lng": 103.9226616802915
+      },
+      "southwest": {
+        "lat": 1.373746819708498,
+        "lng": 103.9199637197085
+      }
+    }
+  },
+  "name": "Opp Siltronic",
+  "place_id": "ChIJEVxKIY892jERQdsrjKsPoSs",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Laavan Veerappan",
+      "author_url": "https://www.google.com/maps/contrib/117001145702380538829/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbf0TlHasx7TJjDWvyaTnp7RdimaucCcIUBchg_2i-1Gsl0ST91w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739196342,
+      "translated": false
+    },
+    {
+      "author_name": "Vee Pin Tong",
+      "author_url": "https://www.google.com/maps/contrib/106101628381843318425/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5G78s2gVkl9sFoDYMY0KpnrLwktlknfDubkRj5GxsoffBEw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524717673,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3143811244346825537",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

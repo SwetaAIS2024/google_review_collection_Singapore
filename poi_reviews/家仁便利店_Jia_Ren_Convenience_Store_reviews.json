@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Blk 46 Sims Pl, #01-185, Singapore 380046",
+  "geometry": {
+    "location": {
+      "lat": 1.3174492,
+      "lng": 103.8788297
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319087080291502,
+        "lng": 103.8800309302915
+      },
+      "southwest": {
+        "lat": 1.316389119708498,
+        "lng": 103.8773329697085
+      }
+    }
+  },
+  "name": "家仁便利店 Jia Ren Convenience Store",
+  "place_id": "ChIJ1XZI6GQZ2jERQza8qX6yu6Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Seet Rae",
+      "author_url": "https://www.google.com/maps/contrib/105656912885857379359/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX4tGnilTZ5lePIBAMtwYpVw1rpAvC2alaZQyyVFPUF1uSKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Reasonable price if you are looking for household items, and the shop owner is very nice! The shop is well-lighted, and clean, definitely worth a visit if you are around the vicinity.",
+      "time": 1688961159,
+      "translated": false
+    },
+    {
+      "author_name": "Backyard Xplorer",
+      "author_url": "https://www.google.com/maps/contrib/102260626085916018032/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeAsxA0ZL92WBe1c9egfujwIiv91L1o5erLeWy9caKKn3I8Q5Y=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Air con convenient store at the corner",
+      "time": 1696675644,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11870277499948381763",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 46 Sims Place, #01-185"
+}

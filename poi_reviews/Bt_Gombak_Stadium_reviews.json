@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357412,
+      "lng": 103.753113
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358744780291502,
+        "lng": 103.7544438302915
+      },
+      "southwest": {
+        "lat": 1.356046819708498,
+        "lng": 103.7517458697085
+      }
+    }
+  },
+  "name": "Bt Gombak Stadium",
+  "place_id": "ChIJzZBxM0gQ2jERrPz9ZTuFeHQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8392604395765628076",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "154 W Coast Rd, Singapore 127371",
+  "geometry": {
+    "location": {
+      "lat": 1.303843,
+      "lng": 103.766292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304931130291502,
+        "lng": 103.7671884302915
+      },
+      "southwest": {
+        "lat": 1.302233169708498,
+        "lng": 103.7644904697085
+      }
+    }
+  },
+  "name": "Bryan Bren Family Doctors",
+  "place_id": "ChIJ7ZpMKPIa2jERS32q3ZO3W4I",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9393303293518314827",
+  "vicinity": "154 West Coast Road"
+}

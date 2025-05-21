@@ -1,0 +1,28 @@
+{
+  "formatted_address": "99 Parbury Ave, Singapore 467331",
+  "geometry": {
+    "location": {
+      "lat": 1.3192342,
+      "lng": 103.9428178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320584780291502,
+        "lng": 103.9441356302915
+      },
+      "southwest": {
+        "lat": 1.317886819708498,
+        "lng": 103.9414376697085
+      }
+    }
+  },
+  "name": "Parbury Avenue Stairway",
+  "place_id": "ChIJk5iEFAAj2jERhdx8PNaYi1U",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6164188560891894917",
+  "vicinity": "99 Parbury Avenue, Singapore"
+}

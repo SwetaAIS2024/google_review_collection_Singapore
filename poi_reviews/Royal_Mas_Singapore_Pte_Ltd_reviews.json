@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5 Ridgewood Cl, g4, Singapore 276696",
+  "geometry": {
+    "location": {
+      "lat": 1.316644,
+      "lng": 103.7789729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318096830291502,
+        "lng": 103.7801816302915
+      },
+      "southwest": {
+        "lat": 1.315398869708498,
+        "lng": 103.7774836697085
+      }
+    }
+  },
+  "name": "Royal Mas Singapore Pte Ltd",
+  "place_id": "ChIJNw6iPGMa2jERycZx5uqe6ds",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15846371495605552841",
+  "vicinity": "5 Ridgewood Close, g4"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "335 Smith St, Singapore 050335",
+  "geometry": {
+    "location": {
+      "lat": 1.2819276,
+      "lng": 103.8434423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283531480291502,
+        "lng": 103.8449642802915
+      },
+      "southwest": {
+        "lat": 1.280833519708498,
+        "lng": 103.8422663197085
+      }
+    }
+  },
+  "name": "Li Feng Sundries Co",
+  "place_id": "ChIJAenlH3MZ2jER_FS9UXG-qzE",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3579163722787935484",
+  "vicinity": "335 Smith Street"
+}

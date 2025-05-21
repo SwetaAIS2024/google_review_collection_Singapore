@@ -1,0 +1,30 @@
+{
+  "formatted_address": "205D Compassvale Ln, Singapore 544205",
+  "geometry": {
+    "location": {
+      "lat": 1.3858256,
+      "lng": 103.8974935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387147330291502,
+        "lng": 103.8987946802915
+      },
+      "southwest": {
+        "lat": 1.384449369708498,
+        "lng": 103.8960967197085
+      }
+    }
+  },
+  "name": "Chicken Rice Stall",
+  "place_id": "ChIJ4wracwAX2jERzhaqqcYfVMI",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14002852079512196814",
+  "vicinity": "205D Compassvale Lane, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Bedok South Ave 3, #01-452 Block 72, Singapore 460072",
+  "geometry": {
+    "location": {
+      "lat": 1.3204633,
+      "lng": 103.9436587
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321865730291502,
+        "lng": 103.9452245802915
+      },
+      "southwest": {
+        "lat": 1.319167769708498,
+        "lng": 103.9425266197085
+      }
+    }
+  },
+  "name": "Nice Prata",
+  "place_id": "ChIJHTrVcwAj2jERkZMppS0NCa4",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12540569127085511569",
+  "vicinity": "Bedok South Avenue 3, #01-452 Block 72"
+}

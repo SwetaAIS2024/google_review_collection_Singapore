@@ -1,0 +1,42 @@
+{
+  "formatted_address": "01-51 Tampines Central 7, BLK 524A, Singapore 521524",
+  "geometry": {
+    "location": {
+      "lat": 1.35848,
+      "lng": 103.9388341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359411280291502,
+        "lng": 103.9401253302915
+      },
+      "southwest": {
+        "lat": 1.356713319708498,
+        "lng": 103.9374273697085
+      }
+    }
+  },
+  "name": "Skool4Kidz Preschool @ Tampines GreenLeaf",
+  "place_id": "ChIJR1XCpQw92jERN5l4rvFh0Vk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "One Clan",
+      "author_url": "https://www.google.com/maps/contrib/118217329376499213891/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjNuO5NsFmMKsmfA6lxdZgdNXq1Yw--4JUKymNynqb5y3Mp0FK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563429757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6472061830150265143",
+  "user_ratings_total": 1,
+  "vicinity": "01-51 Tampines Central 7, BLK 524A"
+}

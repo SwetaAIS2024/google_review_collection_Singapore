@@ -1,0 +1,29 @@
+{
+  "formatted_address": "111 Somerset Rd, Singapore 238164",
+  "geometry": {
+    "location": {
+      "lat": 1.3001685,
+      "lng": 103.8372952
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301313180291502,
+        "lng": 103.8384902302915
+      },
+      "southwest": {
+        "lat": 1.298615219708498,
+        "lng": 103.8357922697085
+      }
+    }
+  },
+  "name": "Puja",
+  "place_id": "ChIJ4yw8m9QZ2jERqmGf9xopKfU",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17665696209137787306",
+  "vicinity": "111 Somerset Road"
+}

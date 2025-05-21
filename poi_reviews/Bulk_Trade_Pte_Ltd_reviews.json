@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2643246,
+      "lng": 103.8203062
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265504880291502,
+        "lng": 103.8217862802915
+      },
+      "southwest": {
+        "lat": 1.262806919708498,
+        "lng": 103.8190883197085
+      }
+    }
+  },
+  "name": "Bulk Trade Pte Ltd",
+  "place_id": "ChIJAybKOeIb2jERiNQUzYNTjoI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Zalvin Koh",
+      "author_url": "https://www.google.com/maps/contrib/106218816742063291161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj0uJpqZ5MKYtl_EVY6q9kxDQlBZKYPlmiX11pkvN9fKnUkzbN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Office",
+      "time": 1563110095,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9407548497170060424",
+  "user_ratings_total": 1,
+  "vicinity": "1 Maritime Square, Singapore"
+}

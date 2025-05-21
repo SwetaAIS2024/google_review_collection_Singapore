@@ -1,0 +1,44 @@
+{
+  "formatted_address": "34 Amber Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3006071,
+      "lng": 103.900603
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301859330291502,
+        "lng": 103.9020125802915
+      },
+      "southwest": {
+        "lat": 1.299161369708498,
+        "lng": 103.8993146197085
+      }
+    }
+  },
+  "name": "3 Bars",
+  "place_id": "ChIJuU-5ZK8Z2jERHPwqRWMBfhg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrew Koh",
+      "author_url": "https://www.google.com/maps/contrib/113568021113331476484/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMpsAWZTQ_ibEtNHJithaqMqjvlL3Q6NWppN3eu0EtguRfVhQe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Wonderful experience",
+      "time": 1685449365,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1764849629849648156",
+  "user_ratings_total": 1,
+  "vicinity": "34 Amber Road"
+}

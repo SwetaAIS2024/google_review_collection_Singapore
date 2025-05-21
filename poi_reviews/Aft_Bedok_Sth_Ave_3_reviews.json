@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3161644,
+      "lng": 103.9448211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317509230291502,
+        "lng": 103.9461714302915
+      },
+      "southwest": {
+        "lat": 1.314811269708498,
+        "lng": 103.9434734697085
+      }
+    }
+  },
+  "name": "Aft Bedok Sth Ave 3",
+  "place_id": "ChIJ79Up88Ui2jERUrQHJQOtQYg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "jaeden jamal",
+      "author_url": "https://www.google.com/maps/contrib/101565031020579719365/reviews",
+      "language": "en-US",
+      "original_language": "sq",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-LWi8bt7Ohl4zp8qfK_-ojwzZ--91FgnY2alpINvhw5NTdQE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Pppppppapappanda",
+      "time": 1489792608,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9818318891662160978",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Singapore 530317",
+  "geometry": {
+    "location": {
+      "lat": 1.365257,
+      "lng": 103.89618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366524480291502,
+        "lng": 103.8975323302915
+      },
+      "southwest": {
+        "lat": 1.363826519708498,
+        "lng": 103.8948343697085
+      }
+    }
+  },
+  "name": "Arafath Enterprise",
+  "place_id": "ChIJaaf0H80X2jERDTF7C7wj1so",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ong Junfeng",
+      "author_url": "https://www.google.com/maps/contrib/108282401401187412534/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcudzWDS79vCUEt9icMNrCiZ8tTInM8YkYtxeT6oou8FEWVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Rubbish opening hours do not use their shopee collection services",
+      "time": 1738907206,
+      "translated": false
+    },
+    {
+      "author_name": "Lindsy Puah",
+      "author_url": "https://www.google.com/maps/contrib/110469755645514391318/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_JpWrOKgtFuCkSQxUEQId8JCP0am9VCPGtMkZIDIj4cF-mQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Supposed to collect my shoppee parcel but it remained shut on 4 days. Irresponsible. At least post a notice to inform.",
+      "time": 1712900454,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14615908931230970125",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

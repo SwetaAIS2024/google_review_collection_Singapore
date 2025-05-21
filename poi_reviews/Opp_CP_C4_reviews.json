@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30334,
+      "lng": 103.917931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304661630291502,
+        "lng": 103.9192875302915
+      },
+      "southwest": {
+        "lat": 1.301963669708498,
+        "lng": 103.9165895697085
+      }
+    }
+  },
+  "name": "Opp CP C4",
+  "place_id": "ChIJZ7SSj54i2jERAgUE2-WwBtE",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "TW Tan",
+      "author_url": "https://www.google.com/maps/contrib/118129725624939012688/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi3tntMXfYATzPfxOm36TdzKaXdJ9j8fLVwkJEzoh2abJ32A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Only weekends and public holidays. Near GoCycle (bicycle rental) heading to Bedok Interchange. See photo of the bus timings.\n\nLeave a like if this was helpful.",
+      "time": 1620874772,
+      "translated": false
+    },
+    {
+      "author_name": "Xiaoyuan Wang",
+      "author_url": "https://www.google.com/maps/contrib/117707995454888118113/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXZjuzHI--VjHnF68Gy-m0d9dkDytDp6dqUdydrg3baA0pOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "I waited for half and hour and there is not any bus",
+      "time": 1603002057,
+      "translated": false
+    },
+    {
+      "author_name": "Zie Hao Kek",
+      "author_url": "https://www.google.com/maps/contrib/102617341797447061021/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViPlbVvUZ0F7SwFh3A0vcoynmpRYl3S511Wf7jMMSYzM_r0OQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1558331523,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick George",
+      "author_url": "https://www.google.com/maps/contrib/115031604648837364425/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKGFPiCGp8dDMcT5RuOzXdQQZZZIR5qdLpmEWrEAImWu46BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497186771,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15061920505055675650",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

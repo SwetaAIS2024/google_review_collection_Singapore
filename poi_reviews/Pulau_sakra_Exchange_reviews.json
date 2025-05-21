@@ -1,0 +1,43 @@
+{
+  "formatted_address": "15 Pulau Sakra, Singapore 628227",
+  "geometry": {
+    "location": {
+      "lat": 1.2631296,
+      "lng": 103.7025878
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.264555130291502,
+        "lng": 103.7040203802915
+      },
+      "southwest": {
+        "lat": 1.261857169708498,
+        "lng": 103.7013224197085
+      }
+    }
+  },
+  "name": "Pulau sakra Exchange",
+  "place_id": "ChIJUyytqfsF2jERfvtdVU6n_2g",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Siew Leong Soh",
+      "author_url": "https://www.google.com/maps/contrib/108181902308875570122/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-UU76PFPL3r_28gjpKLn2Jfbsj6qVDSbVIHxNMNNT7ui3AWZ5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "The routes you gave are all wrong. Some places can’t be found after calling them. In the past, Google on mobile phones was just fine. Now, Google Maps on mobile phones can’t find local routes and gives the wrong route.",
+      "time": 1734749336,
+      "translated": true
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7565949853887232894",
+  "user_ratings_total": 1,
+  "vicinity": "15 Pulau Sakra, Singapore"
+}

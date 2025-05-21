@@ -1,0 +1,75 @@
+{
+  "formatted_address": "20 Pasir Panjang Rd, Singapore 117439",
+  "geometry": {
+    "location": {
+      "lat": 1.2752412,
+      "lng": 103.7991378
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276717980291502,
+        "lng": 103.8005387802915
+      },
+      "southwest": {
+        "lat": 1.274020019708498,
+        "lng": 103.7978408197085
+      }
+    }
+  },
+  "name": "Foodnation 2 Pte. Ltd.",
+  "place_id": "ChIJvR-TrsAb2jERXPCb_OeJbiY",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Ember Shen",
+      "author_url": "https://www.google.com/maps/contrib/117465885711011307889/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTDsusnetYbY0hLczH1lIOHCatqSOTs-gwxdOqaEw5c2XKknU=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "$6.2. Portion is too small.",
+      "time": 1677131161,
+      "translated": false
+    },
+    {
+      "author_name": "Lan Buncit",
+      "author_url": "https://www.google.com/maps/contrib/101845319857265599895/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp_8VC8rFkV9w-IwxoSYLmvaSRq0LQSVbFTiSQRARsjTaPGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743556541,
+      "translated": false
+    },
+    {
+      "author_name": "myotun thein",
+      "author_url": "https://www.google.com/maps/contrib/108720996831909660288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJirn1q-Yp9yjm_4SEAzI57feUQDmDOSA13f5YhQCLD5TYu1LSQw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584452927,
+      "translated": false
+    },
+    {
+      "author_name": "A R S Abdul",
+      "author_url": "https://www.google.com/maps/contrib/116801186672564898037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWp-FqraZiYtBZGfNhED6Xl8T2DQu5U1GYCmfSow4hb7TG6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561458064,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2769302450347962460",
+  "user_ratings_total": 4,
+  "vicinity": "20 Pasir Panjang Road"
+}

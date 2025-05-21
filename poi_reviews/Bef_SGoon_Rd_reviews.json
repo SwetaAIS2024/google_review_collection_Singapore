@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3156327,
+      "lng": 103.8589636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317139130291502,
+        "lng": 103.8602012302915
+      },
+      "southwest": {
+        "lat": 1.314441169708498,
+        "lng": 103.8575032697085
+      }
+    }
+  },
+  "name": "Bef S'Goon Rd",
+  "place_id": "ChIJzQAMtM8Z2jERPu6Z-Ex0dZI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Yuhana Yusoff",
+      "author_url": "https://www.google.com/maps/contrib/115820532009838491850/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ68SC3HFLFvkugsMh-2D5vlWlyGMVnt2ktZqWvXEwOLAK2Tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503978428,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10553469175749799486",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

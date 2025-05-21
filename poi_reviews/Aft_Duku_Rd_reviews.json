@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.308036,
+      "lng": 103.903496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309363430291502,
+        "lng": 103.9048162802915
+      },
+      "southwest": {
+        "lat": 1.306665469708498,
+        "lng": 103.9021183197085
+      }
+    }
+  },
+  "name": "Aft Duku Rd",
+  "place_id": "ChIJj28EUA0Y2jERlkmLa-0-oJg",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Richard ang",
+      "author_url": "https://www.google.com/maps/contrib/115429039839048391831/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj6YNvR8dmMnexSQzrAHdskPSl0h17otE8k7fwPGamFC0G2Ro=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "Not enough bus stops.",
+      "time": 1743824377,
+      "translated": false
+    },
+    {
+      "author_name": "Ramya SNair",
+      "author_url": "https://www.google.com/maps/contrib/109283757817609506379/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0QAPS-kVMmWhLR2Afu6HUpckryzCPQKyuKj1QCvibombCuYBa3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Less crowded only 1 bus route, well located in front of shop houses.",
+      "time": 1647218664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10997859479471212950",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

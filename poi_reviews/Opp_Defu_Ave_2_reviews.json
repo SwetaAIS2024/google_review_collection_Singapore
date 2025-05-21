@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.36264,
+      "lng": 103.900864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363928530291502,
+        "lng": 103.9022211302915
+      },
+      "southwest": {
+        "lat": 1.361230569708498,
+        "lng": 103.8995231697085
+      }
+    }
+  },
+  "name": "Opp Defu Ave 2",
+  "place_id": "ChIJG4uwPc0X2jER99VF03WPjZE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "KOKHIN LIM",
+      "author_url": "https://www.google.com/maps/contrib/103844871049690560847/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9-9n-5Fohc7Yw8yzZRyUgofVpzFW6TQhqQxruaupCp8Byxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Why, there has been no signal?",
+      "time": 1478220622,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10488196843434268151",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

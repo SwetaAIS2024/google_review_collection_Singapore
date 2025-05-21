@@ -1,0 +1,44 @@
+{
+  "formatted_address": "26A Chai Chee Rd, Singapore 461026",
+  "geometry": {
+    "location": {
+      "lat": 1.3239352,
+      "lng": 103.9235018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325138280291502,
+        "lng": 103.9247061302915
+      },
+      "southwest": {
+        "lat": 1.322440319708498,
+        "lng": 103.9220081697085
+      }
+    }
+  },
+  "name": "HeXin Herbal Soup",
+  "place_id": "ChIJj45VaAAj2jER5Xbbg7FEZH4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alvin Loo",
+      "author_url": "https://www.google.com/maps/contrib/107089137843210981949/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILP6ZCDF3IHijiojkRNhy0OD9IjgYacsJuCbr3qNxhQI0MNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741503300,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9107479875662083813",
+  "user_ratings_total": 1,
+  "vicinity": "26A Chai Chee Road"
+}

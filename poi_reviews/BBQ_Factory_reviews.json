@@ -1,0 +1,64 @@
+{
+  "formatted_address": "15 Jln Tepong, #04-01, Singapore 619336",
+  "geometry": {
+    "location": {
+      "lat": 1.3086107,
+      "lng": 103.7223592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309914380291502,
+        "lng": 103.7236891802915
+      },
+      "southwest": {
+        "lat": 1.307216419708498,
+        "lng": 103.7209912197085
+      }
+    }
+  },
+  "name": "BBQ Factory",
+  "place_id": "ChIJTzid4kkF2jER-8zQl-tfuPg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kevin",
+      "author_url": "https://www.google.com/maps/contrib/110093968437284893636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2PMyK92iKVU7n4iTUQVZsnyQC_4zMW-kxPj7EmVf4dpjcIA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Very rude when I ordered for pick up the following day. Told me on WhatsApp not to pull such stunts although dates on the website were for delivery only. Taste is okay only.",
+      "time": 1687678870,
+      "translated": false
+    },
+    {
+      "author_name": "Suzy Ng",
+      "author_url": "https://www.google.com/maps/contrib/101983815490556840381/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLarr8mQvHlXZtJcONtd8aIFMJEIECW8ki0PP7eoWla3Onymw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1566739410,
+      "translated": false
+    },
+    {
+      "author_name": "Seng Chan Ng",
+      "author_url": "https://www.google.com/maps/contrib/113593151875882956736/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIekqvLoViiQ7095ltjyaDlKtYv1kHEkRAAyKNhiAVHt1TY4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1419395214,
+      "translated": false
+    }
+  ],
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17922180182589885691",
+  "user_ratings_total": 3,
+  "vicinity": "15 Jalan Tepong, #04-01"
+}

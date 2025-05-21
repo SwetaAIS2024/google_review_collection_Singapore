@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Cargo Agents Building D #02-13, 9 Airline Road (S)819827, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384423630291502,
+        "lng": 104.0009958802915
+      },
+      "southwest": {
+        "lat": 1.381725669708498,
+        "lng": 103.9982979197085
+      }
+    }
+  },
+  "name": "JAS Forwarding (Singapore) Pte Ltd",
+  "place_id": "ChIJK8nGwww82jERq9iP5Fr4jTM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "RAJ 5525",
+      "author_url": "https://www.google.com/maps/contrib/118225053071051369843/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcYoNarl1rj0xblWrddtOYPLQpHCa5zGrcXFMvZkkKJNN3DQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very informative",
+      "time": 1669607627,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3714898336915904683",
+  "user_ratings_total": 1,
+  "vicinity": "Cargo Agents Building D #02-13, 9 Airline Road (S)819827"
+}

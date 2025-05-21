@@ -1,0 +1,46 @@
+{
+  "formatted_address": "371 Beach Rd, B1-12 City Gate, Singapore 199597",
+  "geometry": {
+    "location": {
+      "lat": 1.3022946,
+      "lng": 103.8623895
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303646430291502,
+        "lng": 103.8634903802915
+      },
+      "southwest": {
+        "lat": 1.300948469708498,
+        "lng": 103.8607924197085
+      }
+    }
+  },
+  "name": "Manapharma Pharmacy",
+  "place_id": "ChIJ_04imjAW2jERWhvONsxYOeI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "pb law",
+      "author_url": "https://www.google.com/maps/contrib/114786900639209183919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKTNEtQ0x-fg1bBE2p0m9odIU--IS0g_C3tH-tLsBv3h40hnHz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice and cozy, staff are friendly",
+      "time": 1712898008,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16301157960360270682",
+  "user_ratings_total": 1,
+  "vicinity": "371 Beach Road, B1-12 City Gate, Singapore"
+}

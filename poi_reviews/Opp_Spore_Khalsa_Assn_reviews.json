@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317248,
+      "lng": 103.857277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318554380291502,
+        "lng": 103.8585980302915
+      },
+      "southwest": {
+        "lat": 1.315856419708498,
+        "lng": 103.8559000697085
+      }
+    }
+  },
+  "name": "Opp S'pore Khalsa Assn",
+  "place_id": "ChIJfw8LHdAZ2jERTVodsivP5cE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Aldrin Tee",
+      "author_url": "https://www.google.com/maps/contrib/116246378829443489863/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMl0L2_O24vCaVL-NCKK9tMVgTqv8MdjKps_yn7dShX7ClwB1E4g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "The average bus stop.",
+      "time": 1513244592,
+      "translated": false
+    },
+    {
+      "author_name": "KK Koe",
+      "author_url": "https://www.google.com/maps/contrib/109848224760232879455/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFwhRVE-PO50lI_FEarLYsIzG3WQ5YJqED53onVNiTEwQzEg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543314684,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13971801205565643341",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "1 Maritime Square, #01-07, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2638895,
+      "lng": 103.8198937
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265224430291502,
+        "lng": 103.8212195302915
+      },
+      "southwest": {
+        "lat": 1.262526469708498,
+        "lng": 103.8185215697085
+      }
+    }
+  },
+  "name": "Tikam Tikam",
+  "place_id": "ChIJ4UiQv-Ib2jERL9OdDKjjStc",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15513462177336775471",
+  "vicinity": "1 Maritime Square, #01-07, Singapore"
+}

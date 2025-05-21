@@ -1,0 +1,44 @@
+{
+  "formatted_address": "80 Changi Rd, #02-45, Singapore 419715",
+  "geometry": {
+    "location": {
+      "lat": 1.3163423,
+      "lng": 103.9005373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317724980291502,
+        "lng": 103.9017475302915
+      },
+      "southwest": {
+        "lat": 1.315027019708498,
+        "lng": 103.8990495697085
+      }
+    }
+  },
+  "name": "So Clever English Classroom",
+  "place_id": "ChIJleO_ehAY2jERh5f59UzmkiE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "wei xuan pang",
+      "author_url": "https://www.google.com/maps/contrib/106454345197230675710/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRgXhIJeg-KgYqeW0WwiOcYRuKLvcKD8R_ACLLYPZayQCrOA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Great classroom setting!",
+      "time": 1506948585,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2419249168070055815",
+  "user_ratings_total": 1,
+  "vicinity": "80 Changi Road, #02-45"
+}

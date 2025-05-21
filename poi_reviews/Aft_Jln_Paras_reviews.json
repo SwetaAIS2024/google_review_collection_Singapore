@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326246,
+      "lng": 103.915382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327590530291502,
+        "lng": 103.9166989802915
+      },
+      "southwest": {
+        "lat": 1.324892569708498,
+        "lng": 103.9140010197085
+      }
+    }
+  },
+  "name": "Aft Jln Paras",
+  "place_id": "ChIJY3PyTFU92jERbpjeKKedmZo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11140108494548408430",
+  "vicinity": "Singapore"
+}

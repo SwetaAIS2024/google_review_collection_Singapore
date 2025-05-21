@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50A, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4399296,
+      "lng": 103.6193086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.441328930291502,
+        "lng": 103.6206932802915
+      },
+      "southwest": {
+        "lat": 1.438630969708498,
+        "lng": 103.6179953197085
+      }
+    }
+  },
+  "name": "AlaM'sia",
+  "place_id": "ChIJyzSfrW8L2jERMFNQEEl_CVw",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6631971878062805808",
+  "vicinity": "50A, Jalan Eko Botani 3/2, Taman Eko Botani, Iskandar Puteri"
+}

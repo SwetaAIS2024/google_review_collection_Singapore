@@ -1,0 +1,54 @@
+{
+  "formatted_address": "1 Kaki Bukit Rd 1, #01-10 Enterprise One, Singapore 415934",
+  "geometry": {
+    "location": {
+      "lat": 1.3333047,
+      "lng": 103.9029221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334375380291502,
+        "lng": 103.9042123802915
+      },
+      "southwest": {
+        "lat": 1.331677419708498,
+        "lng": 103.9015144197085
+      }
+    }
+  },
+  "name": "Hanis",
+  "place_id": "ChIJ168Hm_AX2jERdeDjSvUOccQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Irfan Hanif",
+      "author_url": "https://www.google.com/maps/contrib/107931539380678026614/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJP7glPE4_yGxPocHws5ml71mA6uBOiRqjQOb85rHfMsyR3sdE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583187643,
+      "translated": false
+    },
+    {
+      "author_name": "steven teo",
+      "author_url": "https://www.google.com/maps/contrib/112556827143215639987/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3m3raThftX2p_JhNw1KVo2zYeyZp6kY8WZX9VmppKBQaaWbER=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1459657965,
+      "translated": false
+    }
+  ],
+  "types": [
+    "home_goods_store",
+    "school",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14155111550488404085",
+  "user_ratings_total": 2,
+  "vicinity": "1 Kaki Bukit Road 1, #01-10 Enterprise One"
+}

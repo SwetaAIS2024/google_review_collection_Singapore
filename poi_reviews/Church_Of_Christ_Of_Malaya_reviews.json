@@ -1,0 +1,57 @@
+{
+  "formatted_address": "54 Sophia Rd, Singapore 228150",
+  "geometry": {
+    "location": {
+      "lat": 1.301872,
+      "lng": 103.8485906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303182530291502,
+        "lng": 103.8499347302915
+      },
+      "southwest": {
+        "lat": 1.300484569708498,
+        "lng": 103.8472367697085
+      }
+    }
+  },
+  "name": "Church Of Christ Of Malaya",
+  "place_id": "ChIJXWttOLwZ2jERm0zMr--Aceg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joanne Loy",
+      "author_url": "https://www.google.com/maps/contrib/113177980009920221035/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWV47uHB4MKdWU5cwJUwp7Aapi6WuRXJUo86qvh1SeOBXIGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "A great family church.",
+      "time": 1583646850,
+      "translated": false
+    },
+    {
+      "author_name": "Mark Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/117215418400704804964/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRHLbbi4Y9vmJrBs1whewJ24uLzAESojpI8ZyM9LfA_z_SaCXB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good",
+      "time": 1603465123,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16749310256102526107",
+  "user_ratings_total": 2,
+  "vicinity": "54 Sophia Road"
+}

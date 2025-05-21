@@ -1,0 +1,93 @@
+{
+  "formatted_address": "5 Stadium Walk, #02-36/37/38, Singapore 397693",
+  "geometry": {
+    "location": {
+      "lat": 1.3021918,
+      "lng": 103.876502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303398430291502,
+        "lng": 103.8779187802915
+      },
+      "southwest": {
+        "lat": 1.300700469708498,
+        "lng": 103.8752208197085
+      }
+    }
+  },
+  "name": "L3 Homeation -Smart Home Automation Singapore",
+  "place_id": "ChIJlxLf2U4Y2jERy9c92V4Fwao",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Xante Koh",
+      "author_url": "https://www.google.com/maps/contrib/111197919988181279588/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOMjMl7AXp3sB5tzwlomuV1H_LxnRvYL7ZCJdtRIqZ7V5zCn1X=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I researched many smart home firms and it was challenging as a tech noob from China tech to high end versions. Some high reviewed firms even demand a deposit before going on site without providing advice. Alan and the wonderful team was super helpful throughout the entire process and gave great advice. Highly recommend the fibaro system that allows you the flexibility of using your normal switch without buying expensive smart switches. Post service  support has been really awesome too",
+      "time": 1694241932,
+      "translated": false
+    },
+    {
+      "author_name": "KM Wong",
+      "author_url": "https://www.google.com/maps/contrib/107844603979870446816/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL81TPrfjJoYvNQgPgptIHIyNkC1yP_cLnB9cS4p0-0ZMM35w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Visited their shop a year back to ask about smart home setup. Their staff (sorry I didn’t catch your name!) was very enthusiastic and gave me a 45 min crash course on a smart home set up. I didn’t engage them for the set up in the end (decided not to use Fibaro hub)  but their advice was truly helpful for me to set up a limited system for my home. I did return to buy a smoke detector from them a few months back.",
+      "time": 1675826414,
+      "translated": false
+    },
+    {
+      "author_name": "Mondster Ng",
+      "author_url": "https://www.google.com/maps/contrib/114081227663558639012/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoNEintiqvHzj1EdSL-LbV4ke7Tz4b9JxKxDgxKEctY6bCigk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "L3 Homeation has been my choice to get the most reliable services and product from. Owner Mr Khoo have given many sound advice and also share many experience on the past projects on smart condos that he was setting up. Together with all these, i have successfully setup my Fibaro system running on HC2 with mixture of MCO switchs, Fibaro 2 Gang controller, Water Heater controller and many of the automation scenes, on top of that Amazon Alexa is helping me to get all the voice command to do many wonders.\n\nAdditionally I have written api codes to forward the power usage to my splunk instance, and i realize that during the day Voltage will drop below 236v but in night it raise back up to 240v, and this could be the heat causing a higher resistant to transmit energy hence at night it will be more efficient due to lower temperature.",
+      "time": 1612146715,
+      "translated": false
+    },
+    {
+      "author_name": "Goh CL",
+      "author_url": "https://www.google.com/maps/contrib/107497520547275979538/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGyGc6-A5KoRWRIwTOEm2kRtS_2KUmatMcwLUCNZBwW_54Gg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Huge range of smart home product. Good technical support. Will definitely buy from them again if i need anything for smart home.",
+      "time": 1546351348,
+      "translated": false
+    },
+    {
+      "author_name": "Lee Richard",
+      "author_url": "https://www.google.com/maps/contrib/114159348801609595477/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs7Qj3REBiwg5cEEMSDP8lA34j2y9NRh5RckWQ8YaE5c0f9w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Huge range of home automation products with reasonable prices to choose from. After sales service was excellent and will definitively patronize them again for future needs!",
+      "time": 1546334365,
+      "translated": false
+    }
+  ],
+  "types": [
+    "home_goods_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12304121561882679243",
+  "user_ratings_total": 19,
+  "vicinity": "5 Stadium Walk, #02-36/37/38"
+}

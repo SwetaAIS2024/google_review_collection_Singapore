@@ -1,0 +1,30 @@
+{
+  "formatted_address": "756 Upper Serangoon Rd, #02-14, Singapore 534626",
+  "geometry": {
+    "location": {
+      "lat": 1.3534992,
+      "lng": 103.8789383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354713430291502,
+        "lng": 103.8804031302915
+      },
+      "southwest": {
+        "lat": 1.352015469708498,
+        "lng": 103.8777051697085
+      }
+    }
+  },
+  "name": "Ban Choon Wah",
+  "place_id": "ChIJzTajXKUX2jERxFUaBTPyvH0",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9060382851305461188",
+  "vicinity": "756 Upper Serangoon Road, #02-14, Singapore"
+}

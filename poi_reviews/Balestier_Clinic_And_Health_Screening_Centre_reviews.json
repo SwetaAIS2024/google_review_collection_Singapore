@@ -1,0 +1,29 @@
+{
+  "formatted_address": "221 Balestier Rd, Singapore 329928",
+  "geometry": {
+    "location": {
+      "lat": 1.3212679,
+      "lng": 103.8525599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322720630291502,
+        "lng": 103.8539104802915
+      },
+      "southwest": {
+        "lat": 1.320022669708498,
+        "lng": 103.8512125197085
+      }
+    }
+  },
+  "name": "Balestier Clinic And Health Screening Centre",
+  "place_id": "ChIJVVUl29sZ2jERKGK1DY-sKfI",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17449667961633989160",
+  "vicinity": "221 Balestier Road, Singapore"
+}

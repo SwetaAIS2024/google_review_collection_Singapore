@@ -1,0 +1,41 @@
+{
+  "formatted_address": "51 Benoi Rd, Singapore 629908",
+  "geometry": {
+    "location": {
+      "lat": 1.323261,
+      "lng": 103.677672
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324406130291502,
+        "lng": 103.6790359302915
+      },
+      "southwest": {
+        "lat": 1.321708169708498,
+        "lng": 103.6763379697085
+      }
+    }
+  },
+  "name": "Ftv Proclad (Singapore) Pte Ltd",
+  "place_id": "ChIJMV7LNYEF2jERotU63MQS6jM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohd Faizal",
+      "author_url": "https://www.google.com/maps/contrib/111054244593369539527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCALCJci6rxVBIvOvNbrUK57eKozXv4eG718YQ3-ZgWZn5CLY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1431390065,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3740823077202351522",
+  "user_ratings_total": 1,
+  "vicinity": "51 Benoi Road, Singapore"
+}

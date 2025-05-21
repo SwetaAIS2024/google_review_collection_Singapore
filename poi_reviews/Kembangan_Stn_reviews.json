@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3213282,
+      "lng": 103.913491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322861680291502,
+        "lng": 103.9149441302915
+      },
+      "southwest": {
+        "lat": 1.320163719708498,
+        "lng": 103.9122461697085
+      }
+    }
+  },
+  "name": "Kembangan Stn",
+  "place_id": "ChIJQS_-TAcY2jER6vzqEPTxRhU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1533178753724382442",
+  "vicinity": "Singapore"
+}

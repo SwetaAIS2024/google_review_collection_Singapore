@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 84 Redhill Ln, #01-356, Singapore 150084",
+  "geometry": {
+    "location": {
+      "lat": 1.2872357,
+      "lng": 103.8187554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288581280291502,
+        "lng": 103.8201677802915
+      },
+      "southwest": {
+        "lat": 1.285883319708498,
+        "lng": 103.8174698197085
+      }
+    }
+  },
+  "name": "UOB ATM - Redhill Lane",
+  "place_id": "ChIJr0pSvOAb2jERG2mVzUToUBk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1824213231289592091",
+  "vicinity": "Blk 84 Redhill Lane, #01-356"
+}

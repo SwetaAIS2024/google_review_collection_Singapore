@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3967926,
+      "lng": 103.9175095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398105680291502,
+        "lng": 103.9189084802915
+      },
+      "southwest": {
+        "lat": 1.395407719708498,
+        "lng": 103.9162105197085
+      }
+    }
+  },
+  "name": "Atf Punggol Central",
+  "place_id": "ChIJeynv1v492jERMO0ooVdcGIY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Xavier Antony",
+      "author_url": "https://www.google.com/maps/contrib/108777103362794889048/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMarOYKrYyfopWmkn3axNQa8xslDNwGYKx_UTxaE4LuIRybg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517661226,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9662574531959123248",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

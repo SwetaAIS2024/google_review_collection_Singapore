@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2645607,
+      "lng": 103.8204891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265875880291502,
+        "lng": 103.8219083802915
+      },
+      "southwest": {
+        "lat": 1.263177919708498,
+        "lng": 103.8192104197085
+      }
+    }
+  },
+  "name": "UOB Auto Lobby",
+  "place_id": "ChIJZTd8Z-Ib2jERxg20aZwsK2g",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7506142254242991558",
+  "vicinity": "1 Maritime Square"
+}

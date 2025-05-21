@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Toh Yi Dr, #01-127 Block 19, Singapore 590019",
+  "geometry": {
+    "location": {
+      "lat": 1.339938,
+      "lng": 103.7739506
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341220980291502,
+        "lng": 103.7752282302915
+      },
+      "southwest": {
+        "lat": 1.338523019708498,
+        "lng": 103.7725302697085
+      }
+    }
+  },
+  "name": "LaiJi来记包点点心",
+  "place_id": "ChIJ1e3zg2IR2jERVPqXFiE83i4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chong Bee Tan",
+      "author_url": "https://www.google.com/maps/contrib/108844503169486493343/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWQPY2CU0GeTJ5RZHrPSzOTVk6FyL6pLfni-_NDDzkQFCJoQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "The food is still pretty good, but the taste could be improved and the portions are a bit small.",
+      "time": 1735424148,
+      "translated": true
+    },
+    {
+      "author_name": "Alankie Tiong",
+      "author_url": "https://www.google.com/maps/contrib/102197410540500902898/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAq1dK6EOHpEa4BWJzKkrGuB1UxVqfg8I9fUBfZMEBsWk3_g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692501733,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3377202883385096788",
+  "user_ratings_total": 2,
+  "vicinity": "Toh Yi Drive, #01-127 Block 19"
+}

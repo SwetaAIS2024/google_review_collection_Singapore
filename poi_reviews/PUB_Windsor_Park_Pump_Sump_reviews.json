@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Windsor Park Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3563677,
+      "lng": 103.8232613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357685780291502,
+        "lng": 103.8246262802915
+      },
+      "southwest": {
+        "lat": 1.354987819708498,
+        "lng": 103.8219283197085
+      }
+    }
+  },
+  "name": "PUB Windsor Park Pump Sump",
+  "place_id": "ChIJgfb1YAAX2jERnWForxMByms",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7767021691412701597",
+  "vicinity": "Windsor Park Road"
+}

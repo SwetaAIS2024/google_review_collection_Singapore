@@ -1,0 +1,30 @@
+{
+  "formatted_address": "245 Victoria St, Singapore 188032",
+  "geometry": {
+    "location": {
+      "lat": 1.300452,
+      "lng": 103.855312
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301721830291502,
+        "lng": 103.8567581302915
+      },
+      "southwest": {
+        "lat": 1.299023869708498,
+        "lng": 103.8540601697085
+      }
+    }
+  },
+  "name": "Csi Store",
+  "place_id": "ChIJP4zli7oZ2jER_jKaq_oSKSk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2965922697430315774",
+  "vicinity": "245 Victoria Street, Singapore"
+}

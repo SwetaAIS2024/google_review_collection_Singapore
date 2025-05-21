@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Eastwood Pl, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3221148,
+      "lng": 103.9562737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323463780291502,
+        "lng": 103.9576226802915
+      },
+      "southwest": {
+        "lat": 1.320765819708498,
+        "lng": 103.9549247197085
+      }
+    }
+  },
+  "name": "Spheroid Studio",
+  "place_id": "ChIJZbqNFtQi2jERsiAI6MMWpoQ",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9558352289807737010",
+  "vicinity": "Eastwood Place"
+}

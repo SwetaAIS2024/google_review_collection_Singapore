@@ -1,0 +1,30 @@
+{
+  "formatted_address": "10 Ubi Cres, Singapore 408564",
+  "geometry": {
+    "location": {
+      "lat": 1.3269856,
+      "lng": 103.8976984
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328337230291502,
+        "lng": 103.8990513302915
+      },
+      "southwest": {
+        "lat": 1.325639269708498,
+        "lng": 103.8963533697085
+      }
+    }
+  },
+  "name": "Natural Pharmacia",
+  "place_id": "ChIJh1MpDvYX2jERR1uR4ZdwZrQ",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12999201172078287687",
+  "vicinity": "10 Ubi Crescent, Singapore"
+}

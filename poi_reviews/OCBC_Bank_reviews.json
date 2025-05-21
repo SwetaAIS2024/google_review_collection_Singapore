@@ -1,0 +1,45 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2560704,
+      "lng": 103.8200123
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257265930291502,
+        "lng": 103.8208232302915
+      },
+      "southwest": {
+        "lat": 1.254567969708498,
+        "lng": 103.8181252697085
+      }
+    }
+  },
+  "name": "OCBC Bank",
+  "place_id": "ChIJ2ZbEcv4b2jERxXXnuz8u4eI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ah Meng",
+      "author_url": "https://www.google.com/maps/contrib/109903146824616172743/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUj58tyPJMJ-neMq-gL6eUj6Z_rm3k1krpXRhloIyKX0BJBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Fantastic. No queue",
+      "time": 1482973031,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16348398973601936837",
+  "user_ratings_total": 1,
+  "vicinity": "8 Sentosa Gateway"
+}

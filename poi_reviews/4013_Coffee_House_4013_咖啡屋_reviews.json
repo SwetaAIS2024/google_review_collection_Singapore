@@ -1,0 +1,58 @@
+{
+  "formatted_address": "4013 Ang Mo Kio Industrial Park 1, Singapore 569629",
+  "geometry": {
+    "location": {
+      "lat": 1.3586162,
+      "lng": 103.854918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359998080291502,
+        "lng": 103.8563314302915
+      },
+      "southwest": {
+        "lat": 1.357300119708498,
+        "lng": 103.8536334697085
+      }
+    }
+  },
+  "name": "4013 Coffee House (4013 咖啡屋)",
+  "place_id": "ChIJY5MRFhsX2jER2ZpzrFQTLas",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Yiwei Lin",
+      "author_url": "https://www.google.com/maps/contrib/102426248893742327543/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7mSfD6DD1TABy_pe3Mtbyb0nu3IMkAYs4zr1m4bMhLfsoxg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "Both coffee and tea are diluted. Tea is tasteless....",
+      "time": 1537681172,
+      "translated": false
+    },
+    {
+      "author_name": "Martin Lin",
+      "author_url": "https://www.google.com/maps/contrib/111168587357955191946/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKevPVIpRg08TxlMb_G5knrZ88JzDU3rERnum8Nk6QDKubGpA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "So So good and expensive.",
+      "time": 1710215641,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12334536208829094617",
+  "user_ratings_total": 2,
+  "vicinity": "4013 Ang Mo Kio Industrial Park 1"
+}

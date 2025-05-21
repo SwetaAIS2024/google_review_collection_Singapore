@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 83 Telok Blangah Rd, CCL Station, Singapore 098886",
+  "geometry": {
+    "location": {
+      "lat": 1.2650372,
+      "lng": 103.8215381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266648080291502,
+        "lng": 103.8230264302915
+      },
+      "southwest": {
+        "lat": 1.263950119708498,
+        "lng": 103.8203284697085
+      }
+    }
+  },
+  "name": "UOB ATM - Harbourfront CCL Station",
+  "place_id": "ChIJXWNXIcob2jERXs5m25JeNAY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=447086247855705694",
+  "vicinity": "No. 83 Telok Blangah Road, CCL Station"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "#01-135 Yishun Central 1, Block 928, Singapore 760928",
+  "geometry": {
+    "location": {
+      "lat": 1.4270808,
+      "lng": 103.8375217
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428354830291502,
+        "lng": 103.8388689802915
+      },
+      "southwest": {
+        "lat": 1.425656869708498,
+        "lng": 103.8361710197085
+      }
+    }
+  },
+  "name": "SAMS CO ESSENTIAL STORE",
+  "place_id": "ChIJBQh2-ooV2jERoNE7jiyxMoE",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9309698184651198880",
+  "vicinity": "#01-135 Yishun Central 1, Block 928"
+}

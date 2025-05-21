@@ -1,0 +1,28 @@
+{
+  "formatted_address": "7 Soon Lee St, Ispace, Singapore 628718",
+  "geometry": {
+    "location": {
+      "lat": 1.3339512,
+      "lng": 103.7001383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335458180291502,
+        "lng": 103.7017538302915
+      },
+      "southwest": {
+        "lat": 1.332760219708498,
+        "lng": 103.6990558697085
+      }
+    }
+  },
+  "name": "KGM",
+  "place_id": "ChIJSfbKdAAP2jERxNQmxpBymY4",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10275369990947787972",
+  "vicinity": "7 Soon Lee Street, Ispace, Singapore"
+}

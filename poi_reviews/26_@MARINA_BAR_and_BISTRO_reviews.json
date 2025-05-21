@@ -1,0 +1,64 @@
+{
+  "formatted_address": "18 Marina Gardens Dr, #01-26 Gardens by the Bay, Singapore 018953",
+  "geometry": {
+    "location": {
+      "lat": 1.2815683,
+      "lng": 103.8636132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282317430291502,
+        "lng": 103.8653275302915
+      },
+      "southwest": {
+        "lat": 1.279619469708498,
+        "lng": 103.8626295697085
+      }
+    }
+  },
+  "name": "26 @MARINA BAR & BISTRO",
+  "place_id": "ChIJj7JRVHgZ2jERMo8gtkYKHhY",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "V L",
+      "author_url": "https://www.google.com/maps/contrib/104168013017365677219/reviews",
+      "language": "en-US",
+      "original_language": "de",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlgTD7NA5WEh-gc14Z0q3SGE0aSxJe9MezTSHp_s6lEHVrdQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "So so, ah sor….",
+      "time": 1690438368,
+      "translated": true
+    },
+    {
+      "author_name": "Dongkyu KIM",
+      "author_url": "https://www.google.com/maps/contrib/106411991695394837266/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlkzUTuXiqPnECzvAkFkp0U8WqfDnASPoKvUV23OyHL7BUJq_5=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744827555,
+      "translated": false
+    },
+    {
+      "author_name": "jacob",
+      "author_url": "https://www.google.com/maps/contrib/103085865785563606961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmgtdYh_6NxliS_m8Xx-KqH0i-RwFsMOgRZsxeUnT2pmOy5cSrjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703935680,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1593722616955309874",
+  "user_ratings_total": 3,
+  "vicinity": "18 Marina Gardens Drive, #01-26 Gardens by the Bay"
+}

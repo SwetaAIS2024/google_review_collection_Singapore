@@ -1,0 +1,30 @@
+{
+  "formatted_address": "SIT@DV, 10 Dover Drive, University Resource Centre, URC, B1-01, Singapore 138683",
+  "geometry": {
+    "location": {
+      "lat": 1.2999397,
+      "lng": 103.7798638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301197880291502,
+        "lng": 103.7813553302915
+      },
+      "southwest": {
+        "lat": 1.298499919708498,
+        "lng": 103.7786573697085
+      }
+    }
+  },
+  "name": "Cheers SIT Dover",
+  "place_id": "ChIJYaIp0G8b2jEREXjUDWgeSlg",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6361930855871707153",
+  "vicinity": "SIT@DV, 10 Dover Drive, University Resource Centre, URC, B1-01"
+}

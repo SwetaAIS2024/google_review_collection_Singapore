@@ -1,0 +1,44 @@
+{
+  "formatted_address": "5 Raffles Institution Ln, Singapore 575955",
+  "geometry": {
+    "location": {
+      "lat": 1.3464174,
+      "lng": 103.8448347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347862580291502,
+        "lng": 103.8461885802915
+      },
+      "southwest": {
+        "lat": 1.345164619708498,
+        "lng": 103.8434906197085
+      }
+    }
+  },
+  "name": "Sheares Block",
+  "place_id": "ChIJ_zugv-YX2jER0CmWBeKakxE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Matthew Crawley",
+      "author_url": "https://www.google.com/maps/contrib/114555602794143632785/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJvXWTU9-2AE2BiAzXtLQeUo4usglaeOK0Q_dFAdO0ixMCKeU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Didn’t know this was a school by itself, but the architecture is very nice",
+      "time": 1727765604,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1266526215768254928",
+  "user_ratings_total": 1,
+  "vicinity": "5 Raffles Institution Lane, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3166761,
+      "lng": 103.8362946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318013980291502,
+        "lng": 103.8376120802915
+      },
+      "southwest": {
+        "lat": 1.315316019708498,
+        "lng": 103.8349141197085
+      }
+    }
+  },
+  "name": "Chancery Ct",
+  "place_id": "ChIJe8t8d-8Z2jERxHVnmgArIOk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md Mazniul Hasan",
+      "author_url": "https://www.google.com/maps/contrib/118030296272835888111/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKj1f-nwOfIOYl_W1cfuk3p1wCJEaruNO-9r0jkovjEb_ldQtR7g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512908866,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16798473891682416068",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

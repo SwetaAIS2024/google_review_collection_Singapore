@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3157173,
+      "lng": 103.7824652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317068130291502,
+        "lng": 103.7838147802915
+      },
+      "southwest": {
+        "lat": 1.314370169708498,
+        "lng": 103.7811168197085
+      }
+    }
+  },
+  "name": "Opp Henry Pk",
+  "place_id": "ChIJkyNkjWQa2jERKtSI96wZhiQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2631819262922642474",
+  "vicinity": "Singapore"
+}

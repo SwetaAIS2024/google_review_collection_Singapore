@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2642133,
+      "lng": 103.8198342
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265744430291502,
+        "lng": 103.8211401802915
+      },
+      "southwest": {
+        "lat": 1.263046469708498,
+        "lng": 103.8184422197085
+      }
+    }
+  },
+  "name": "Indrawan Cafe",
+  "place_id": "ChIJVf_IIOMb2jERKRfIV0egmyc",
+  "types": [
+    "restaurant",
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2854051017145194281",
+  "vicinity": "1 Maritime Square"
+}

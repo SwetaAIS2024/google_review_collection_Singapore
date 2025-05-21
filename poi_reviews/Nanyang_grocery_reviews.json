@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3415364,
+      "lng": 103.5946466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342949880291502,
+        "lng": 103.5959964302915
+      },
+      "southwest": {
+        "lat": 1.340251919708498,
+        "lng": 103.5932984697085
+      }
+    }
+  },
+  "name": "Nanyang grocery",
+  "place_id": "ChIJq5D9j-IJ2jERdfveGmsix_w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "刘江",
+      "author_url": "https://www.google.com/maps/contrib/117338465150861872450/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2p2660Fa9YdjQviqTqqd3TUDGBTGu8VQeZXO9O-ZbUzUMNA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Good prices, fewer categories",
+      "time": 1730369528,
+      "translated": true
+    },
+    {
+      "author_name": "林海鹏",
+      "author_url": "https://www.google.com/maps/contrib/113794012977888304918/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUCPeeaRnWreIAmiCApds9Q3XGbt727uA1ZlwrU1VNGXv_DA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "There are many dishes here, the price is favorable, and it is more convenient",
+      "time": 1717033480,
+      "translated": true
+    },
+    {
+      "author_name": "Mokhlesh Md",
+      "author_url": "https://www.google.com/maps/contrib/113875343984232944758/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdcolrbhd3TDxUf3iQioiZlt4R-QUgvLsDRl0V9LTfOKeBn0g_=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747373288,
+      "translated": false
+    }
+  ],
+  "types": [
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18214565061330926453",
+  "user_ratings_total": 3,
+  "vicinity": "Gelang Patah"
+}

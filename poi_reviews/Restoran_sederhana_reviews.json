@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10F Braddell Hill, Singapore 579725",
+  "geometry": {
+    "location": {
+      "lat": 1.3415747,
+      "lng": 103.8407219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342927830291502,
+        "lng": 103.8421608302915
+      },
+      "southwest": {
+        "lat": 1.340229869708498,
+        "lng": 103.8394628697085
+      }
+    }
+  },
+  "name": "Restoran sederhana",
+  "place_id": "ChIJYdahIQAX2jERWMyr7J6HVcA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13859132544947833944",
+  "vicinity": "10F Braddell Hill"
+}

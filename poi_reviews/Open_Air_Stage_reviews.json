@@ -1,0 +1,28 @@
+{
+  "formatted_address": "62 Chai Chee Rd, Block 62, Singapore 460062",
+  "geometry": {
+    "location": {
+      "lat": 1.3258719,
+      "lng": 103.92076
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327307980291502,
+        "lng": 103.9221391802915
+      },
+      "southwest": {
+        "lat": 1.324610019708498,
+        "lng": 103.9194412197085
+      }
+    }
+  },
+  "name": "Open Air Stage",
+  "place_id": "ChIJV3kS37wj2jEREW7KP29SgjY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3927792462785572369",
+  "vicinity": "62 Chai Chee Road, Block 62, Singapore"
+}

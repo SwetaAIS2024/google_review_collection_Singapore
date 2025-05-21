@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1063 Eunos Ave 4, Singapore 409797",
+  "geometry": {
+    "location": {
+      "lat": 1.3199835,
+      "lng": 103.894396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321088680291502,
+        "lng": 103.8957916302915
+      },
+      "southwest": {
+        "lat": 1.318390719708498,
+        "lng": 103.8930936697085
+      }
+    }
+  },
+  "name": "EC Building Services Pte Ltd",
+  "place_id": "ChIJV9uNGxkY2jER-6KgU1xt8OU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Justin Goh",
+      "author_url": "https://www.google.com/maps/contrib/117753524036069258197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIKKEmEIKZU5JIzleb25haggbOt1mCaErKRS77nkSaDTm-WQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Number stated is wrong. Company has not updated their number in ages. Probably dead.",
+      "time": 1467700086,
+      "translated": false
+    }
+  ],
+  "types": [
+    "mosque",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16568863272403510011",
+  "user_ratings_total": 1,
+  "vicinity": "1063 Eunos Avenue 4"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317336,
+      "lng": 103.916283
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318687880291502,
+        "lng": 103.9176332302915
+      },
+      "southwest": {
+        "lat": 1.315989919708498,
+        "lng": 103.9149352697085
+      }
+    }
+  },
+  "name": "Aft Frankel Dr",
+  "place_id": "ChIJPUPhcagi2jERHQgw05Z4YLc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13213693895888603165",
+  "vicinity": "Singapore"
+}

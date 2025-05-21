@@ -1,0 +1,29 @@
+{
+  "formatted_address": "20 Jln Afifi, Singapore 409179",
+  "geometry": {
+    "location": {
+      "lat": 1.3224149,
+      "lng": 103.8920821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323654280291502,
+        "lng": 103.8933617802915
+      },
+      "southwest": {
+        "lat": 1.320956319708498,
+        "lng": 103.8906638197085
+      }
+    }
+  },
+  "name": "EPic Asia Pte Ltd",
+  "place_id": "ChIJ1c2ORB8Y2jERPiZlkt2MTu0",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17099759718444115518",
+  "vicinity": "20 Jalan Afifi"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3050752,
+      "lng": 103.8829915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306469780291502,
+        "lng": 103.8843794802915
+      },
+      "southwest": {
+        "lat": 1.303771819708498,
+        "lng": 103.8816815197085
+      }
+    }
+  },
+  "name": "Opp Mountbatten Stn",
+  "place_id": "ChIJXfYe_UYY2jERCNiaRszOg2k",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "JaiSungMa888",
+      "author_url": "https://www.google.com/maps/contrib/101490385146695479899/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo0uJk4LG_k17ZrjEaG6MqVo4KliZkRM2y9leQcWHogI_Zzay9=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Why like that cut off to decathlon …",
+      "time": 1696908776,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688043199,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7603147972684732424",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

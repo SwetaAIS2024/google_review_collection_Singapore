@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296566,
+      "lng": 103.772545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297952030291502,
+        "lng": 103.7738614802915
+      },
+      "southwest": {
+        "lat": 1.295254069708498,
+        "lng": 103.7711635197085
+      }
+    }
+  },
+  "name": "Ctrl Lib",
+  "place_id": "ChIJ-ZR1Vfga2jERBfPhNofJyQc",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Andrew Chou",
+      "author_url": "https://www.google.com/maps/contrib/105412612362157183742/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFEYaOv5bimLHvHHoFn_v78VotTmEBCFwXB_w3ZsLDPL7ABBW4-w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Plenty of waiting seats",
+      "time": 1618506666,
+      "translated": false
+    },
+    {
+      "author_name": "فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَنْ شَيْءٍ حَتَّىٰ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+      "author_url": "https://www.google.com/maps/contrib/110389086728427419131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcnY3py2LrHW_72-AKPiHswW4ik3GL_Wwot8OQT5ZcA205V1U=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553213887,
+      "translated": false
+    },
+    {
+      "author_name": "Zachary K",
+      "author_url": "https://www.google.com/maps/contrib/115756369744116282124/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf9xqPL8csjyu3buaogQtHfkL7jELKgM_4sMf0f4aSl5E1LZGg2A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504062037,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=561201211162882821",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

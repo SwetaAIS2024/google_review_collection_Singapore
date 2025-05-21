@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Raffles Place 14-20/21 Republic Plaza 2, Singapore 048619",
+  "geometry": {
+    "location": {
+      "lat": 1.2819423,
+      "lng": 103.8517468
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283273580291502,
+        "lng": 103.8531225302915
+      },
+      "southwest": {
+        "lat": 1.280575619708498,
+        "lng": 103.8504245697085
+      }
+    }
+  },
+  "name": "kbc Bank N V",
+  "place_id": "ChIJl0KfJAwZ2jERvqOScYTrbpo",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11128090683352720318",
+  "vicinity": "9 Raffles Place 14-20/21 Republic Plaza 2, Singapore"
+}

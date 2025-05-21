@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317805,
+      "lng": 103.647255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319128230291502,
+        "lng": 103.6486314802915
+      },
+      "southwest": {
+        "lat": 1.316430269708498,
+        "lng": 103.6459335197085
+      }
+    }
+  },
+  "name": "Chia Hock Trading Co",
+  "place_id": "ChIJsVtFUOUF2jER6NrxzT3jqtA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15036080160517511912",
+  "vicinity": "Singapore"
+}

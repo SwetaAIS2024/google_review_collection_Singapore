@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Bishan Street 22, #01-149 Blk 282, Singapore 570282",
+  "geometry": {
+    "location": {
+      "lat": 1.3579846,
+      "lng": 103.8446775
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359256180291502,
+        "lng": 103.8458611802915
+      },
+      "southwest": {
+        "lat": 1.356558219708498,
+        "lng": 103.8431632197085
+      }
+    }
+  },
+  "name": "UOB ATM - Bishan Street 22",
+  "place_id": "ChIJrzn2WhkX2jERqCtPdtCizjc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4021330533510228904",
+  "vicinity": "Bishan Street 22, #01-149 Blk 282"
+}

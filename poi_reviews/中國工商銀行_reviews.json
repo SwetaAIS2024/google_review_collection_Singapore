@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3350897,
+      "lng": 103.7391287
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336491980291502,
+        "lng": 103.7404753302915
+      },
+      "southwest": {
+        "lat": 1.333794019708498,
+        "lng": 103.7377773697085
+      }
+    }
+  },
+  "name": "中國工商銀行",
+  "place_id": "ChIJ5WHaFAUQ2jERpLR2z4kAQkI",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4774379146857329828",
+  "vicinity": "Singapore"
+}

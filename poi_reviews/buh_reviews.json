@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 528810",
+  "geometry": {
+    "location": {
+      "lat": 1.348933,
+      "lng": 103.9605009
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.350313180291502,
+        "lng": 103.9619493302915
+      },
+      "southwest": {
+        "lat": 1.347615219708498,
+        "lng": 103.9592513697085
+      }
+    }
+  },
+  "name": "buh",
+  "place_id": "ChIJSyQAbQA92jERSNymEdJOl3E",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8185097511915412552",
+  "vicinity": "Singapore"
+}

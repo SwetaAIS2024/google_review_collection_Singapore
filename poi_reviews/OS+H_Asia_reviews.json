@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Harbourfront Pl, #09-02 HarbourFront Tower Two, Singapore 099254",
+  "geometry": {
+    "location": {
+      "lat": 1.2649131,
+      "lng": 103.8187738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266249130291502,
+        "lng": 103.8201551802915
+      },
+      "southwest": {
+        "lat": 1.263551169708498,
+        "lng": 103.8174572197085
+      }
+    }
+  },
+  "name": "OS+H Asia",
+  "place_id": "ChIJU2sQf30Z2jERJVheZYy7Pt0",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15942385942608631845",
+  "vicinity": "3 Harbourfront Place, #09-02 HarbourFront Tower Two"
+}

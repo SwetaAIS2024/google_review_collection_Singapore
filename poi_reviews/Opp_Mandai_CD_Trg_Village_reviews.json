@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4116528,
+      "lng": 103.7612516
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.412945230291502,
+        "lng": 103.7625803802915
+      },
+      "southwest": {
+        "lat": 1.410247269708498,
+        "lng": 103.7598824197085
+      }
+    }
+  },
+  "name": "Opp Mandai CD Trg Village",
+  "place_id": "ChIJYd4L0zoS2jERF2XFjphehHY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1728921379,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8540054802724644119",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

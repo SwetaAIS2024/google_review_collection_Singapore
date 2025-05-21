@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.354656,
+      "lng": 103.865723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355970580291502,
+        "lng": 103.8670870302915
+      },
+      "southwest": {
+        "lat": 1.353272619708498,
+        "lng": 103.8643890697085
+      }
+    }
+  },
+  "name": "Cardiff Residence",
+  "place_id": "ChIJO9yj1wcX2jERtZ6ZeQ60_yc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Md Jobayer Islam",
+      "author_url": "https://www.google.com/maps/contrib/101646631257137789183/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBeu1m0h_BXHxDHx4fW947v8lDd4_XDTafpPFTmJQGkGTFeG0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Cardiff Ct good",
+      "time": 1511411523,
+      "translated": false
+    },
+    {
+      "author_name": "wesley ler",
+      "author_url": "https://www.google.com/maps/contrib/110712237665318404348/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHYdLUxpES68RCi5z5p_PqmhB4MP63klzFzJPU43nN-VwdQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485773777,
+      "translated": false
+    },
+    {
+      "author_name": "Simon Baxter",
+      "author_url": "https://www.google.com/maps/contrib/114232073967243350493/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsodf4bhR_t3g8xzakkFhdHPm7Bc4Mzj0oRQfMFeiL0Kgb-5518A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1447370375,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2882220260803059381",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Whampoa Rd, Whampoa Park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3253728,
+      "lng": 103.8565305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326869280291502,
+        "lng": 103.8579956302915
+      },
+      "southwest": {
+        "lat": 1.324171319708498,
+        "lng": 103.8552976697085
+      }
+    }
+  },
+  "name": "Whampoa Park Pet Park",
+  "place_id": "ChIJSVKSqVMZ2jER9Dj_e6ktZls",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "M lee",
+      "author_url": "https://www.google.com/maps/contrib/111993674092242325363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZw_TOttWP1hlCVGtnlu4kM6dtCgwkfHYeEr4Y59mYVBHwPikd=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "👍🏻👍🏻",
+      "time": 1703481756,
+      "translated": false
+    },
+    {
+      "author_name": "Sunshine Wei",
+      "author_url": "https://www.google.com/maps/contrib/111061971384106439064/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpfVwZk2FWLKgJl4v0nRW2fHWKosMVy7OhyWkKLMJDaUL8oxrzGA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700912154,
+      "translated": false
+    },
+    {
+      "author_name": "Camille Villagonza",
+      "author_url": "https://www.google.com/maps/contrib/114778491465090631894/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNzdXw767x6PIsua-wotBvMe5o3X8G3f9n2HF2OMuQ2--bek5y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726655009,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6586001711028975860",
+  "user_ratings_total": 3,
+  "vicinity": "Whampoa Road, Whampoa Park"
+}

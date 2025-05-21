@@ -1,0 +1,30 @@
+{
+  "formatted_address": "133 Sims Ave, Singapore 387455",
+  "geometry": {
+    "location": {
+      "lat": 1.3142541,
+      "lng": 103.8779849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315564730291502,
+        "lng": 103.8793457802915
+      },
+      "southwest": {
+        "lat": 1.312866769708497,
+        "lng": 103.8766478197085
+      }
+    }
+  },
+  "name": "Asef",
+  "place_id": "ChIJYzOP9DAY2jERxWHiXIiAH5M",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10601333371015684549",
+  "vicinity": "133 Sims Avenue"
+}

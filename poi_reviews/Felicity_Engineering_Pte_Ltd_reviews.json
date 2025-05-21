@@ -1,0 +1,42 @@
+{
+  "formatted_address": "35 Abingdon Rd, Singapore 499941",
+  "geometry": {
+    "location": {
+      "lat": 1.3678882,
+      "lng": 103.980934
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369275580291502,
+        "lng": 103.9822592302915
+      },
+      "southwest": {
+        "lat": 1.366577619708498,
+        "lng": 103.9795612697085
+      }
+    }
+  },
+  "name": "Felicity Engineering Pte Ltd",
+  "place_id": "ChIJOcd3hF482jERWrDun8qSXMQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "AK CONSULTANCY SERVICE",
+      "author_url": "https://www.google.com/maps/contrib/117919451830125900017/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmB5N29NMxqdT6nlqosyLrCyQauk0EKmvKcpfyeYNRSTjLSDeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685720262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14149345528255524954",
+  "user_ratings_total": 1,
+  "vicinity": "35 Abingdon Road, Singapore"
+}

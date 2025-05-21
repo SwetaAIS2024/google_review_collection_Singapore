@@ -1,0 +1,46 @@
+{
+  "formatted_address": "399 Yung Sheng Rd, #01-09, Singapore 610399",
+  "geometry": {
+    "location": {
+      "lat": 1.3345452,
+      "lng": 103.7210168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335972180291502,
+        "lng": 103.7224912302915
+      },
+      "southwest": {
+        "lat": 1.333274219708498,
+        "lng": 103.7197932697085
+      }
+    }
+  },
+  "name": "Charming Store",
+  "place_id": "ChIJcx48DPsP2jERgT7N-kwjfqs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Syndie Yeo",
+      "author_url": "https://www.google.com/maps/contrib/113172044741091687550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6_sjAiSUAyxuoZ-x8x3tvWeiRjp8PbW-a2I6Jv9nNbITJGw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Not really patience in service. Shoes are not allow to try and walk a little in the shop. Seller complaint shoe may get dirty cannot sell in future.",
+      "time": 1620480872,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12357353241083461249",
+  "user_ratings_total": 1,
+  "vicinity": "399 Yung Sheng Road, #01-09, Singapore"
+}

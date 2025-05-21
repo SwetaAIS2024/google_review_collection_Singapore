@@ -1,0 +1,31 @@
+{
+  "formatted_address": "505 Tampines Central 1, #01-333/335, Tampines Central, Shopping, Street, Singapore 520505",
+  "geometry": {
+    "location": {
+      "lat": 1.3553578,
+      "lng": 103.9450178
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356934280291502,
+        "lng": 103.9467013802915
+      },
+      "southwest": {
+        "lat": 1.354236319708498,
+        "lng": 103.9440034197085
+      }
+    }
+  },
+  "name": "Jo Market @ 505",
+  "place_id": "ChIJeYnhUwA92jERkctJz_UEBIU",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9584791360742476689",
+  "vicinity": "505 Tampines Central 1, #01-333/335, Tampines Central, Shopping, Street, Singapore"
+}

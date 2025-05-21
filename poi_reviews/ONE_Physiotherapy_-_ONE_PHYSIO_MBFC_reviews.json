@@ -1,0 +1,30 @@
+{
+  "formatted_address": "10 Marina Boulevard Marina Bay Financial Centre Tower 2 Level 39, Suite 22 Servcorp Office, Singapore 018983",
+  "geometry": {
+    "location": {
+      "lat": 1.2795092,
+      "lng": 103.8541591
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280958880291502,
+        "lng": 103.8555092302915
+      },
+      "southwest": {
+        "lat": 1.278260919708498,
+        "lng": 103.8528112697085
+      }
+    }
+  },
+  "name": "ONE Physiotherapy - ONE PHYSIO (MBFC)",
+  "place_id": "ChIJ73YiKRAZ2jEROW3x3aL6Kls",
+  "types": [
+    "physiotherapist",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6569338583888522553",
+  "vicinity": "10 Marina Boulevard Marina Bay Financial Centre Tower 2 Level 39, Suite 22 Servcorp Office"
+}

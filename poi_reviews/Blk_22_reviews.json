@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3072715,
+      "lng": 103.8850301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308637480291502,
+        "lng": 103.8863356802915
+      },
+      "southwest": {
+        "lat": 1.305939519708498,
+        "lng": 103.8836377197085
+      }
+    }
+  },
+  "name": "Blk 22",
+  "place_id": "ChIJ-fS1VkcY2jERALCpjV_q2cw",
+  "rating": 4.4,
+  "reviews": [
+    {
+      "author_name": "Justin Xiao",
+      "author_url": "https://www.google.com/maps/contrib/114147367394477307367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_-a4NnLA931UIXHgFK91lHpXvPQ23HvtNypf36FQyK6iFu2zotQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "9 months ago",
+      "text": "There’s lots of construction over here because the HDB blocks are being renovated, so be careful of works around this area",
+      "time": 1723254336,
+      "translated": false
+    },
+    {
+      "author_name": "Ronin",
+      "author_url": "https://www.google.com/maps/contrib/101420896254600503496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFPNWHmMaczCTcuoDRknILaA3qj9UQUMhwMww46bqfit8KmBWGbg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "It has everything that you need. From many convenience stores to multiple branches of ATMs nearby, this place is a go to 🥳",
+      "time": 1620680755,
+      "translated": false
+    },
+    {
+      "author_name": "TL",
+      "author_url": "https://www.google.com/maps/contrib/104180129822588579712/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS7kDWCBC8srBmH4moVpkhsGxvQmlnwO9ki2pRJYTIO1tSZ_4D=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "awesome location",
+      "time": 1657270537,
+      "translated": false
+    },
+    {
+      "author_name": "Fei Wu",
+      "author_url": "https://www.google.com/maps/contrib/105949646784049534094/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9JDBgV-pKpbL6FCHHfEqxpqhAUVqoX6Z7ITsZGzSF4ryliQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503301813,
+      "translated": false
+    },
+    {
+      "author_name": "Jo Jo",
+      "author_url": "https://www.google.com/maps/contrib/116779992589922178782/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbtEKV4CCbqK-rO5FlirpGEofuW7Gvpq2zkUtbxtNPgjpc_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483415903,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14761086949803012096",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

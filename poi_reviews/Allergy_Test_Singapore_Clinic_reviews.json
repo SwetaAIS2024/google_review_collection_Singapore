@@ -1,0 +1,57 @@
+{
+  "formatted_address": "72 Anson Rd, #01-02 Anson House, Singapore 079911",
+  "geometry": {
+    "location": {
+      "lat": 1.2739669,
+      "lng": 103.8444453
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275311030291502,
+        "lng": 103.8457060802915
+      },
+      "southwest": {
+        "lat": 1.272613069708498,
+        "lng": 103.8430081197085
+      }
+    }
+  },
+  "name": "Allergy Test Singapore Clinic",
+  "place_id": "ChIJrUsdetAZ2jERqp5_BM__bzw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Brian Lee",
+      "author_url": "https://www.google.com/maps/contrib/104029158650005208105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ485FIXHLrN3Most1Z_PiPmONxrxCsq8w_NLUZEzQpJpMm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Recently went for allergy testing at this clinic. Very satisfied with the entire process as it was fast and efficient. They have other medical services as well such as health screening and ultrasound tests. Will definitely come back here next time to do a full body check up.",
+      "time": 1672971355,
+      "translated": false
+    },
+    {
+      "author_name": "john tang",
+      "author_url": "https://www.google.com/maps/contrib/115909693901214346026/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJU2XGAkgpiOfyJ24io1zuJVJlVMoEMvkPvQTq-DbWWGrzvzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Went for allergy testing recently. Very happy with the process.",
+      "time": 1673020303,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4354980629289344682",
+  "user_ratings_total": 2,
+  "vicinity": "72 Anson Road, #01-02 Anson House"
+}

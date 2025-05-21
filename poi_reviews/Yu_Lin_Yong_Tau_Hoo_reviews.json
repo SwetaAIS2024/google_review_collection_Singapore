@@ -1,0 +1,30 @@
+{
+  "formatted_address": "204 New Upper Changi Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3256786,
+      "lng": 103.9423819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326997680291502,
+        "lng": 103.9437408302915
+      },
+      "southwest": {
+        "lat": 1.324299719708498,
+        "lng": 103.9410428697085
+      }
+    }
+  },
+  "name": "Yu Lin Yong Tau Hoo",
+  "place_id": "ChIJhTRUKQAj2jERRs77gh77nQc",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=548870838074199622",
+  "vicinity": "204 New Upper Changi Road"
+}

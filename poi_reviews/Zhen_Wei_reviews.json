@@ -1,0 +1,45 @@
+{
+  "formatted_address": "429A Choa Chu Kang Ave 4, Singapore 681429",
+  "geometry": {
+    "location": {
+      "lat": 1.38353,
+      "lng": 103.74046
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384761530291502,
+        "lng": 103.7416735802915
+      },
+      "southwest": {
+        "lat": 1.382063569708498,
+        "lng": 103.7389756197085
+      }
+    }
+  },
+  "name": "Zhen Wei",
+  "place_id": "ChIJt_fR_-cR2jERhxEDUY3EhS0",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Ricky Goh",
+      "author_url": "https://www.google.com/maps/contrib/102570055865367466229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX2An44i0uhu7g-yC02xL4FNeHk9VARihe2z_R1r539pOC6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Server needs to be attentive to customer order. Found that in several instances she was defending her ground she was right. She needs to listen prudently. With this correction, customer satisfaction would improves.",
+      "time": 1689470340,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3280244014837862791",
+  "user_ratings_total": 1,
+  "vicinity": "429A Choa Chu Kang Avenue 4, Singapore"
+}

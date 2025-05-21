@@ -1,0 +1,51 @@
+{
+  "formatted_address": "20 Choa Chu Kang Street 52, #03-05 CC Building, Singapore 689286",
+  "geometry": {
+    "location": {
+      "lat": 1.3948751,
+      "lng": 103.744688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396325230291502,
+        "lng": 103.7460265302915
+      },
+      "southwest": {
+        "lat": 1.393627269708498,
+        "lng": 103.7433285697085
+      }
+    }
+  },
+  "name": "The Enrichment Classroom @ Yew Tee",
+  "place_id": "ChIJdaA9ovER2jERd9plNY2m_Bg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Norlela Hamad",
+      "author_url": "https://www.google.com/maps/contrib/111680656236040581651/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKucBEKPW0-Sw4zbFQzWxf8CdJg-BbB4VeQnAFf7cSiQI_x6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610286200,
+      "translated": false
+    },
+    {
+      "author_name": "Mee Mee KidKalay",
+      "author_url": "https://www.google.com/maps/contrib/107600954899157504038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyOfD2SQZmcfdx1Gl0Te9y8vYJHkX57byVSLdIA3_ymXkcLUAz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533211184,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1800497076457822839",
+  "user_ratings_total": 2,
+  "vicinity": "20 Choa Chu Kang Street 52, #03-05 CC Building"
+}

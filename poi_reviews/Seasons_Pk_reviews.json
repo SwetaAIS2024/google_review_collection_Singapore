@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.385652,
+      "lng": 103.839172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386971680291502,
+        "lng": 103.8405554802915
+      },
+      "southwest": {
+        "lat": 1.384273719708498,
+        "lng": 103.8378575197085
+      }
+    }
+  },
+  "name": "Seasons Pk",
+  "place_id": "ChIJydSG0r4W2jERWGv295GNco8",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Kok Seng Ng (Paschen)",
+      "author_url": "https://www.google.com/maps/contrib/115547351276037607529/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu9JFlc7aocXwmjo2_mSGYNbxYUGVIO8yu8Q_h33IIz3-oQJi0dQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Great Ambience and Conveniently Located",
+      "time": 1571787586,
+      "translated": false
+    },
+    {
+      "author_name": "Khandukar Raju",
+      "author_url": "https://www.google.com/maps/contrib/113392333370803579668/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsedk8DyGBeRxFcU3X3L8zu8hNLq62XYRS7fZwbnxtGDMEn0hK=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "My working Palace",
+      "time": 1482102497,
+      "translated": false
+    },
+    {
+      "author_name": "Joey Tay",
+      "author_url": "https://www.google.com/maps/contrib/112714790074213479432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWESPhQroeKo31dBB_22ybD3m4BNAvyZFEOC4sFYgWNcrbqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592103288,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10336479752838605656",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

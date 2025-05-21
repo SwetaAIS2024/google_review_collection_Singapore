@@ -1,0 +1,45 @@
+{
+  "formatted_address": "203 Henderson Rd, #06-05, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.281749,
+      "lng": 103.8212455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283104180291502,
+        "lng": 103.8225867802915
+      },
+      "southwest": {
+        "lat": 1.280406219708498,
+        "lng": 103.8198888197085
+      }
+    }
+  },
+  "name": "Church Arise",
+  "place_id": "ChIJYz2309cb2jERZFx6S6xNppc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tame Ng",
+      "author_url": "https://www.google.com/maps/contrib/116419978811884383314/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvRCNGt3lXCyg4PPYgKfxcvaLZiZVf1IPHd5wXfZQm9A4quQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Stays true to the Word of God, nothing less, nothing more.",
+      "time": 1719307314,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10927506948257111140",
+  "user_ratings_total": 1,
+  "vicinity": "203 Henderson Road, #06-05, Singapore"
+}

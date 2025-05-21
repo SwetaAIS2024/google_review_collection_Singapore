@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3547254,
+      "lng": 103.8437484
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355930380291502,
+        "lng": 103.8450428802915
+      },
+      "southwest": {
+        "lat": 1.353232419708498,
+        "lng": 103.8423449197085
+      }
+    }
+  },
+  "name": "Catholic High School Eco Garden",
+  "place_id": "ChIJqwMIT8kX2jERTrR10-KxbWY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chace",
+      "author_url": "https://www.google.com/maps/contrib/111880818509237536286/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb-J5-_RWDFJTcXQNhCpJOsqsHSgURVhQEXFNTUrtjZMA1qNz5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743601135,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7380750952098542670",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

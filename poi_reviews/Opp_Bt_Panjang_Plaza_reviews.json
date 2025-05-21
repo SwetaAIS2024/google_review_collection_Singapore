@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379617,
+      "lng": 103.763908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380958680291502,
+        "lng": 103.7652416802915
+      },
+      "southwest": {
+        "lat": 1.378260719708498,
+        "lng": 103.7625437197085
+      }
+    }
+  },
+  "name": "Opp Bt Panjang Plaza",
+  "place_id": "ChIJrxlbSqMR2jERQSELLa5LEFE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yoder Peng",
+      "author_url": "https://www.google.com/maps/contrib/105567941165225123238/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXchU-k3ieh6p5Kc1NYgr61-ua9R4KhU-5bHiNgGzYjU78wA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "There are only 920 and 922 parking vehicles.",
+      "time": 1517577738,
+      "translated": true
+    },
+    {
+      "author_name": "Chris Loh",
+      "author_url": "https://www.google.com/maps/contrib/113991192055310028916/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIU6c3yjr3Oh2MZtrEMhtfAo6Bh2_Liwz8umNxsau5SZmq_HA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564114614,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5841251928151630145",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

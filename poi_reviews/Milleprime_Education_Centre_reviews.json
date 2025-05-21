@@ -1,0 +1,41 @@
+{
+  "formatted_address": "20 Choa Chu Kang Street 52, Singapore 689286",
+  "geometry": {
+    "location": {
+      "lat": 1.3948528,
+      "lng": 103.7447108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396314080291502,
+        "lng": 103.7460467302915
+      },
+      "southwest": {
+        "lat": 1.393616119708498,
+        "lng": 103.7433487697085
+      }
+    }
+  },
+  "name": "Milleprime Education Centre",
+  "place_id": "ChIJqQr7ofER2jER1qNkFMf4EYo",
+  "reviews": [
+    {
+      "author_name": "Jolin Tang",
+      "author_url": "https://www.google.com/maps/contrib/100390478030231170031/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDvq4_7m2ydeKAQSgqEGHH2djqB6k0pq_2heY0drcBHtJvJ7mu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1671507118,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9949006585762456534",
+  "vicinity": "20 Choa Chu Kang Street 52, Singapore"
+}

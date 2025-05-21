@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3003524,
+      "lng": 103.7885713
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301742080291502,
+        "lng": 103.7899274802915
+      },
+      "southwest": {
+        "lat": 1.299044119708498,
+        "lng": 103.7872295197085
+      }
+    }
+  },
+  "name": "One-North Stn/Galaxis",
+  "place_id": "ChIJ8dLdFkUa2jEROGrodwUHoOo",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Hdhdyr Bshdhdhd",
+      "author_url": "https://www.google.com/maps/contrib/117355272562906899330/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2dUwqZbQ1OWp5qpbqYs3fhltlDPIADX-hvlm6JwsZp1gmYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710540125,
+      "translated": false
+    },
+    {
+      "author_name": "CH 13",
+      "author_url": "https://www.google.com/maps/contrib/107604640808621024683/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUua6SnkO-TZMepDs3_2axnN41ih-lC8EHjx2jN2buSTA60LEI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1557774946,
+      "translated": false
+    },
+    {
+      "author_name": "ah tee",
+      "author_url": "https://www.google.com/maps/contrib/103538471272109394215/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcg3ksuYwBq3sTY_hcUWyXW3dTAylGPUjaJK-Eg_c41OINbrN_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544034315,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16906520721216793144",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

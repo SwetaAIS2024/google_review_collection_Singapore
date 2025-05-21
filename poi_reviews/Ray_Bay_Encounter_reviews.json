@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Sentosa, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2590995,
+      "lng": 103.819168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.260039730291502,
+        "lng": 103.8203717802915
+      },
+      "southwest": {
+        "lat": 1.257341769708498,
+        "lng": 103.8176738197085
+      }
+    }
+  },
+  "name": "Ray Bay Encounter",
+  "place_id": "ChIJS54XMgAb2jERJ5eHxKJvu1E",
+  "types": [
+    "amusement_park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5889423682589660967",
+  "vicinity": "Sentosa"
+}

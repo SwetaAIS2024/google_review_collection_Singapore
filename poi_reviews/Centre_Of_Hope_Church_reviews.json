@@ -1,0 +1,65 @@
+{
+  "formatted_address": "203 Henderson Rd, #04-06, Singapore 159548",
+  "geometry": {
+    "location": {
+      "lat": 1.2816745,
+      "lng": 103.8208933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282953030291502,
+        "lng": 103.8221696802915
+      },
+      "southwest": {
+        "lat": 1.280255069708498,
+        "lng": 103.8194717197085
+      }
+    }
+  },
+  "name": "Centre Of Hope Church",
+  "place_id": "ChIJWc_X9HIZ2jER4xyYhqq--pw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sarah Chui",
+      "author_url": "https://www.google.com/maps/contrib/116262950420678927698/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUHGeOtKf8KVV57z1bFY3DCKNnBO0qquPl-vYAP_DndvXug=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "People affecting people for the glory of God",
+      "time": 1566220307,
+      "translated": false
+    },
+    {
+      "author_name": "Gulwant Kaur",
+      "author_url": "https://www.google.com/maps/contrib/110669184421795553330/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgax7V0VVb1l5a8fNNPZOOro7aUk4GAZ6i5tDkwX3VcQw-PpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572167750,
+      "translated": false
+    },
+    {
+      "author_name": "Sean Cheng",
+      "author_url": "https://www.google.com/maps/contrib/104199681435083442860/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsLKY4NxKsbgyFcNpdY31m7twlcoB86WpLaHgDwBa22zOMs4Nw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483092203,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11311563053706255587",
+  "user_ratings_total": 3,
+  "vicinity": "203 Henderson Road, #04-06"
+}

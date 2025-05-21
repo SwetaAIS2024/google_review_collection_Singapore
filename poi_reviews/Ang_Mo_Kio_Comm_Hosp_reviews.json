@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.383394,
+      "lng": 103.840332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384749830291502,
+        "lng": 103.8416770802915
+      },
+      "southwest": {
+        "lat": 1.382051869708498,
+        "lng": 103.8389791197085
+      }
+    }
+  },
+  "name": "Ang Mo Kio Comm Hosp",
+  "place_id": "ChIJtxiVQr8W2jER4yfYj3CHM6g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Carlos Hedriana",
+      "author_url": "https://www.google.com/maps/contrib/107301422399173218082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2b9t7PmqA9o_CpDCRGeOkI5gZgcPm9u-o67mh7_otp2Sr=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1591602972,
+      "translated": false
+    },
+    {
+      "author_name": "Ng Mei yin",
+      "author_url": "https://www.google.com/maps/contrib/105716454476599307760/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMAA4EVflZ8CBgBxJ7TUycIiLNlUlYhDvufbRCAera5Hy3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511008226,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12120179939703531491",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

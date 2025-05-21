@@ -1,0 +1,28 @@
+{
+  "formatted_address": "134 Potong Pasir Ave 3, #01-180 Block 134, Singapore 350134",
+  "geometry": {
+    "location": {
+      "lat": 1.3345316,
+      "lng": 103.8663194
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335935430291502,
+        "lng": 103.8676040302915
+      },
+      "southwest": {
+        "lat": 1.333237469708498,
+        "lng": 103.8649060697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 134 Potong Pasir",
+  "place_id": "ChIJOQkvPXgX2jERFSAS9ZrKrZg",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11001672231621369877",
+  "vicinity": "134 Potong Pasir Avenue 3, #01-180 Block 134"
+}

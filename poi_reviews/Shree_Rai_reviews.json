@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25 Duxton Rd, Singapore 089489",
+  "geometry": {
+    "location": {
+      "lat": 1.2793029,
+      "lng": 103.8434413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280646980291502,
+        "lng": 103.8447308802915
+      },
+      "southwest": {
+        "lat": 1.277949019708498,
+        "lng": 103.8420329197085
+      }
+    }
+  },
+  "name": "Shree Rai",
+  "place_id": "ChIJyT6BZ20Z2jERRLGwWVkMFuM",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16363279873993650500",
+  "vicinity": "25 Duxton Road"
+}

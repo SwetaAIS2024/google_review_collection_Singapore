@@ -1,0 +1,30 @@
+{
+  "formatted_address": "521 Bukit Batok Street 23, Singapore 659544",
+  "geometry": {
+    "location": {
+      "lat": 1.3413759,
+      "lng": 103.756106
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342362680291502,
+        "lng": 103.7573136802915
+      },
+      "southwest": {
+        "lat": 1.339664719708498,
+        "lng": 103.7546157197085
+      }
+    }
+  },
+  "name": "Singdental Pte. Ltd.",
+  "place_id": "ChIJkyv6i2sQ2jER8VGTZ4MtSJU",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10756897752376103409",
+  "vicinity": "521 Bukit Batok Street 23"
+}

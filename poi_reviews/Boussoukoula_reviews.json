@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore 059501",
+  "geometry": {
+    "location": {
+      "lat": 1.283692,
+      "lng": 103.84466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285210030291502,
+        "lng": 103.8458813802915
+      },
+      "southwest": {
+        "lat": 1.282512069708498,
+        "lng": 103.8431834197085
+      }
+    }
+  },
+  "name": "Boussoukoula",
+  "place_id": "ChIJWTn33YsZ2jERmg57xwWLWjw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Koffi Dah",
+      "author_url": "https://www.google.com/maps/contrib/118014733587103890039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb0XkvcY-GH3PpO1dgmOZDbE7PleYYk0YeFJZLWLW0uYZn=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725905257,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4348941247117463194",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

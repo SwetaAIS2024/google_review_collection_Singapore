@@ -1,0 +1,30 @@
+{
+  "formatted_address": "408 Ang Mo Kio Ave 10, Singapore 560408",
+  "geometry": {
+    "location": {
+      "lat": 1.3622756,
+      "lng": 103.8544163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363677930291502,
+        "lng": 103.8557113802915
+      },
+      "southwest": {
+        "lat": 1.360979969708498,
+        "lng": 103.8530134197085
+      }
+    }
+  },
+  "name": "The Learning Axis",
+  "place_id": "ChIJxz2BGR0X2jERQsI8D-w105Q",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10723974425683477058",
+  "vicinity": "408 Ang Mo Kio Avenue 10"
+}

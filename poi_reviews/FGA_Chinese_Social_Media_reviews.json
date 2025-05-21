@@ -1,0 +1,45 @@
+{
+  "formatted_address": "15 Playfair Rd, Singapore 367987",
+  "geometry": {
+    "location": {
+      "lat": 1.3340284,
+      "lng": 103.8863336
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335359680291502,
+        "lng": 103.8878291302915
+      },
+      "southwest": {
+        "lat": 1.332661719708498,
+        "lng": 103.8851311697085
+      }
+    }
+  },
+  "name": "FGA Chinese Social Media",
+  "place_id": "ChIJOf60U1MX2jER1y6zpIHn6Aw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Go West",
+      "author_url": "https://www.google.com/maps/contrib/113423421081996799767/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKL2dUIbzNJdXkcqC8Q2E1xH3-qcIQQZcyJt95AaljRy2pmgqW=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Love to spend my Sunday morning here with my brother and sister",
+      "time": 1684824137,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=930247867052011223",
+  "user_ratings_total": 1,
+  "vicinity": "15 Playfair Road"
+}

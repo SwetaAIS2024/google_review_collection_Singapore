@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Kallang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304323,
+      "lng": 103.867543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305376080291502,
+        "lng": 103.8685137302915
+      },
+      "southwest": {
+        "lat": 1.302678119708498,
+        "lng": 103.8658157697085
+      }
+    }
+  },
+  "name": "Viewing Deck @ Kallang Basin",
+  "place_id": "ChIJb5ewFgAZ2jER3SOb2XOX2gI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Another great viewing spot at Kallang Basin.",
+      "time": 1713949189,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=205643256826635229",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

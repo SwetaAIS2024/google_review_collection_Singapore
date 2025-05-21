@@ -1,0 +1,30 @@
+{
+  "formatted_address": "52 Chin Swee Rd, Block 51, Singapore 160052",
+  "geometry": {
+    "location": {
+      "lat": 1.2873614,
+      "lng": 103.8416688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288491580291502,
+        "lng": 103.8431754802915
+      },
+      "southwest": {
+        "lat": 1.285793619708498,
+        "lng": 103.8404775197085
+      }
+    }
+  },
+  "name": "Hospeco",
+  "place_id": "ChIJTQCfw3UZ2jEROmRG_t6pPjw",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4341093866045596730",
+  "vicinity": "52 Chin Swee Road, Block 51, Singapore"
+}

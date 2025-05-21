@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3223863,
+      "lng": 103.6926285
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323783730291502,
+        "lng": 103.6939784302915
+      },
+      "southwest": {
+        "lat": 1.321085769708498,
+        "lng": 103.6912804697085
+      }
+    }
+  },
+  "name": "Carrier Transicold P/L",
+  "place_id": "ChIJD9nTZnsF2jERMJ7gRqi-yl4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "chunhua li",
+      "author_url": "https://www.google.com/maps/contrib/113729324790406898760/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUcqL5KAP9qruitdr836FtUIuPJAfUz0HdpVsjqyyeNn3T4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506432235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6830481414813687344",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

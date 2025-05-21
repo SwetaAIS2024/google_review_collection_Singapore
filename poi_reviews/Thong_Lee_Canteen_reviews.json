@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Kaki Bukit Rd 3, Singapore 417819",
+  "geometry": {
+    "location": {
+      "lat": 1.3366234,
+      "lng": 103.9037583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338086180291502,
+        "lng": 103.9052148302915
+      },
+      "southwest": {
+        "lat": 1.335388219708498,
+        "lng": 103.9025168697085
+      }
+    }
+  },
+  "name": "Thong Lee Canteen",
+  "place_id": "ChIJmQ97ROUX2jERqYOsNcawtik",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3005784166666896297",
+  "vicinity": "30 Kaki Bukit Road 3"
+}

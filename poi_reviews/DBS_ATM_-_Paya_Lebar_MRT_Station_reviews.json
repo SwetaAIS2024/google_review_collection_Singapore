@@ -1,0 +1,29 @@
+{
+  "formatted_address": "30 Paya Lebar Rd, Singapore 409006",
+  "geometry": {
+    "location": {
+      "lat": 1.31818,
+      "lng": 103.89318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320182480291502,
+        "lng": 103.8943963802915
+      },
+      "southwest": {
+        "lat": 1.317484519708498,
+        "lng": 103.8916984197085
+      }
+    }
+  },
+  "name": "DBS ATM - Paya Lebar MRT Station",
+  "place_id": "ChIJi0PEzXMZ2jERiIBCXtcORFg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6360224891916157064",
+  "vicinity": "30 Paya Lebar Road, Singapore"
+}

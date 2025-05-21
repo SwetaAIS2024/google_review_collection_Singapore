@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3743015,
+      "lng": 103.7238729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375695980291502,
+        "lng": 103.7252250302915
+      },
+      "southwest": {
+        "lat": 1.372998019708498,
+        "lng": 103.7225270697085
+      }
+    }
+  },
+  "name": "Sharafat Ali",
+  "place_id": "ChIJ8UgiG9UP2jERpZloi2f3Nuw",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17021063865785948581",
+  "vicinity": "Singapore"
+}

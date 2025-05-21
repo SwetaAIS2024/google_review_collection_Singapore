@@ -1,0 +1,57 @@
+{
+  "formatted_address": "60 Stevens Rd, Singapore 257854",
+  "geometry": {
+    "location": {
+      "lat": 1.316545,
+      "lng": 103.826449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317783480291502,
+        "lng": 103.8277959302915
+      },
+      "southwest": {
+        "lat": 1.315085519708498,
+        "lng": 103.8250979697085
+      }
+    }
+  },
+  "name": "Church of Christ",
+  "place_id": "ChIJWwf2RPcZ2jERwrVOnqsy9V4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Henry Kong",
+      "author_url": "https://www.google.com/maps/contrib/113366169548333246516/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxlZuqo2xgjnwhdu_V0haYBJtWL_xkrQtP_zKP5_mbmIWAlp4T7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Household of Faith, who used to meet at the Metropolitan YMCA - now meets at 67 Ayer Rajah Crescent #07-10 on Sundays at 10:30am",
+      "time": 1718403217,
+      "translated": false
+    },
+    {
+      "author_name": "Marcos Valdes",
+      "author_url": "https://www.google.com/maps/contrib/112641664131490973681/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdS_OPiOTHg95t9c1Si0FF4MflEhF5VU4OFh4py6B1hUn61b_9CA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Is the church inside YMCA?",
+      "time": 1688697153,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6842430921536091586",
+  "user_ratings_total": 2,
+  "vicinity": "60 Stevens Road, Singapore"
+}

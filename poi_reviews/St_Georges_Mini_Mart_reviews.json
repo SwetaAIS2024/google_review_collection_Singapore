@@ -1,0 +1,46 @@
+{
+  "formatted_address": "14 St George's Rd, Block 14, Singapore 320014",
+  "geometry": {
+    "location": {
+      "lat": 1.3237797,
+      "lng": 103.8620035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325037280291502,
+        "lng": 103.8632744802915
+      },
+      "southwest": {
+        "lat": 1.322339319708498,
+        "lng": 103.8605765197085
+      }
+    }
+  },
+  "name": "St George's Mini Mart",
+  "place_id": "ChIJiS-cgdYZ2jERA2qH7qB3o6I",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Glow",
+      "author_url": "https://www.google.com/maps/contrib/112495284789601748059/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBLHq4xKmGUL9m43OgH9l5pELAxdRQIDVKjuGa9H3bLLfsoSY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Got sng pao",
+      "time": 1741854764,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11719342188428487171",
+  "user_ratings_total": 1,
+  "vicinity": "14 Saint George's Road, Block 14"
+}

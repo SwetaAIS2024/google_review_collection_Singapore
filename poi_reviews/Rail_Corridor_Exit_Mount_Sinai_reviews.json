@@ -1,0 +1,28 @@
+{
+  "formatted_address": "11G Mount Sinai Ln, Singapore 277056",
+  "geometry": {
+    "location": {
+      "lat": 1.3172886,
+      "lng": 103.7853403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319026480291502,
+        "lng": 103.7866311802915
+      },
+      "southwest": {
+        "lat": 1.316328519708498,
+        "lng": 103.7839332197085
+      }
+    }
+  },
+  "name": "Rail Corridor Exit (Mount Sinai)",
+  "place_id": "ChIJZTpzZxgb2jERpaaJIG1EFbY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13120468324901824165",
+  "vicinity": "11G Mount Sinai Lane, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2875602,
+      "lng": 103.8163376
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288944830291502,
+        "lng": 103.8176884302915
+      },
+      "southwest": {
+        "lat": 1.286246869708498,
+        "lng": 103.8149904697085
+      }
+    }
+  },
+  "name": "Blk 72",
+  "place_id": "ChIJGzvcmtQb2jERqrit6gddyWE",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7046265380581259434",
+  "vicinity": "Singapore"
+}

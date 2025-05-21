@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Ang Mo Kio Street 62, #08-17, Singapore 569139",
+  "geometry": {
+    "location": {
+      "lat": 1.3858946,
+      "lng": 103.8454928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387298280291502,
+        "lng": 103.8469286802915
+      },
+      "southwest": {
+        "lat": 1.384600319708498,
+        "lng": 103.8442307197085
+      }
+    }
+  },
+  "name": "My Child's Story",
+  "place_id": "ChIJa8g635gX2jER1ln-XPT6JK0",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12476372795162253782",
+  "vicinity": "3 Ang Mo Kio Street 62, #08-17, Singapore"
+}

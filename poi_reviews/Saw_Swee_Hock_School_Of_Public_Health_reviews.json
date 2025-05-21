@@ -1,0 +1,44 @@
+{
+  "formatted_address": "12 Science Drive 2, #10-01, Singapore 117549",
+  "geometry": {
+    "location": {
+      "lat": 1.2956536,
+      "lng": 103.7802971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297012430291502,
+        "lng": 103.7815210802915
+      },
+      "southwest": {
+        "lat": 1.294314469708498,
+        "lng": 103.7788231197085
+      }
+    }
+  },
+  "name": "Saw Swee Hock School Of Public Health",
+  "place_id": "ChIJ90rzxlYa2jERKheMspKJPOI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Monica Cheng",
+      "author_url": "https://www.google.com/maps/contrib/101766877259455309179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ50mefqccOaj4w4umavR3VmnQw50iagv3kaqgDw-yzooQkkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very nice place.",
+      "time": 1682954947,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16302056014328108842",
+  "user_ratings_total": 1,
+  "vicinity": "12 Science Drive 2, #10-01, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "11 Canning Walk, Singapore 178881",
+  "geometry": {
+    "location": {
+      "lat": 1.2961929,
+      "lng": 103.8453889
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297794080291502,
+        "lng": 103.8465674302915
+      },
+      "southwest": {
+        "lat": 1.295096119708498,
+        "lng": 103.8438694697085
+      }
+    }
+  },
+  "name": "Tisettanta Lounge",
+  "place_id": "ChIJBXmkh6IZ2jERb630NpXZE3c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Slugrr310 LA",
+      "author_url": "https://www.google.com/maps/contrib/101218800252978003815/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQcOQq0yQT-lTCBJIuvbYpRbgcphA23TssRWnZB4HjphnqzA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Best Margarita pizza in town in my opinion",
+      "time": 1735396801,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8580440949966286191",
+  "user_ratings_total": 1,
+  "vicinity": "11 Canning Walk"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "537 Bedok North Street 3, Singapore 460537",
+  "geometry": {
+    "location": {
+      "lat": 1.332415,
+      "lng": 103.9238701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333810730291502,
+        "lng": 103.9252080802915
+      },
+      "southwest": {
+        "lat": 1.331112769708498,
+        "lng": 103.9225101197085
+      }
+    }
+  },
+  "name": "Yuan Dong Medical Hall",
+  "place_id": "ChIJVVVVpVE92jERs26LXvD3Kwc",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=516779194014461619",
+  "vicinity": "537 Bedok North Street 3"
+}

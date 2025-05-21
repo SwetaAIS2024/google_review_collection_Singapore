@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.32693,
+      "lng": 103.715439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328214580291502,
+        "lng": 103.7168023802915
+      },
+      "southwest": {
+        "lat": 1.325516619708498,
+        "lng": 103.7141044197085
+      }
+    }
+  },
+  "name": "Aft Tukang Innovation Lane",
+  "place_id": "ChIJlyOec1gF2jERmM2zafOnk0Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chinta moni66",
+      "author_url": "https://www.google.com/maps/contrib/105375703443166921284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwVSgoDzoLOsM8cRk0y9O8NuDNUi1dCFUuRDI0H4W86cBc4Wzg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Love",
+      "time": 1721229884,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4941477880047848856",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

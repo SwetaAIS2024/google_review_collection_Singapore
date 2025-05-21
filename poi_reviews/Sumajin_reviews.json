@@ -1,0 +1,42 @@
+{
+  "formatted_address": "115A Commonwealth Dr, Singapore 149596",
+  "geometry": {
+    "location": {
+      "lat": 1.3048868,
+      "lng": 103.7980353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306215030291502,
+        "lng": 103.7994955802915
+      },
+      "southwest": {
+        "lat": 1.303517069708498,
+        "lng": 103.7967976197085
+      }
+    }
+  },
+  "name": "Sumajin",
+  "place_id": "ChIJwbWam0Aa2jERRa-iXIBcm54",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Philippe Daniel",
+      "author_url": "https://www.google.com/maps/contrib/100519365550243176479/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhX1wY5dm9qUiL10t9bTSb0eF7jfEW4uPJOJAVbqIdZ-6QyUMQrw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486772292,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11428830185762500421",
+  "user_ratings_total": 1,
+  "vicinity": "115A Commonwealth Drive"
+}

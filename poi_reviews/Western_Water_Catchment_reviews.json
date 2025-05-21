@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Western Water Catchment, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3471977,
+      "lng": 103.682541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.43410199076463,
+        "lng": 103.7461048595808
+      },
+      "southwest": {
+        "lat": 1.327835927627484,
+        "lng": 103.6390707485529
+      }
+    }
+  },
+  "name": "Western Water Catchment",
+  "place_id": "ChIJwxMDomcO2jERsKbarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Western+Water+Catchment,+Singapore&ftid=0x31da0e67a20313c3:0x500f7acaedaa6b0",
+  "vicinity": "Singapore"
+}

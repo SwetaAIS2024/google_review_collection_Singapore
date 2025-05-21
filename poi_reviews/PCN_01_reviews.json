@@ -1,0 +1,68 @@
+{
+  "formatted_address": "105 Prince Charles Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2926055,
+      "lng": 103.8188284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293957280291502,
+        "lng": 103.8201459802915
+      },
+      "southwest": {
+        "lat": 1.291259319708498,
+        "lng": 103.8174480197085
+      }
+    }
+  },
+  "name": "PCN 01",
+  "place_id": "ChIJ4XnUyegb2jERgHf0HMk0HdY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Martin Tay",
+      "author_url": "https://www.google.com/maps/contrib/109432325641310216806/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyGSo8eipJPS7sLKXUf-prHqprS9HGj1q7r80qZvEFlA7268Wysg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Pleasant little trail with views of the canal and the surrounding area. Soak in the local flora and fauna and if you're lucky you'll see an otter family going about their activities!",
+      "time": 1696827792,
+      "translated": false
+    },
+    {
+      "author_name": "Wolfgang Mueller",
+      "author_url": "https://www.google.com/maps/contrib/102244040771220220946/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUusOqqq4DPMLIFqkVR6HcrGmZjocSlbp7XPW66-dx3FacBnmob=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "well build walkway along Alexandra Park Connector which you can follow all the way down to marina bay with plenty of refreshment locations on the way",
+      "time": 1699354113,
+      "translated": false
+    },
+    {
+      "author_name": "Willy Hioe",
+      "author_url": "https://www.google.com/maps/contrib/114488433996586242966/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYov35jaK44IAUTUMBa13C8UPsyR6OYtWpbQhO_ZIBM9S3hQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A quiet walking path in Singapore",
+      "time": 1710290011,
+      "translated": true
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15428545936820041600",
+  "user_ratings_total": 3,
+  "vicinity": "105 Prince Charles Crescent"
+}

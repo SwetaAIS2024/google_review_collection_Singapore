@@ -1,0 +1,28 @@
+{
+  "formatted_address": "42 Yio Chu Kang Rd, Singapore 545556",
+  "geometry": {
+    "location": {
+      "lat": 1.356877,
+      "lng": 103.8759127
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358205680291502,
+        "lng": 103.8772258302915
+      },
+      "southwest": {
+        "lat": 1.355507719708498,
+        "lng": 103.8745278697085
+      }
+    }
+  },
+  "name": "The Pub Entertainment",
+  "place_id": "ChIJp9784q4X2jERO6GrznQ1_nc",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8646407110397763899",
+  "vicinity": "42 Yio Chu Kang Road, Singapore"
+}

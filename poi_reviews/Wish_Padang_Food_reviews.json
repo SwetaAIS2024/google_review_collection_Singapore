@@ -1,0 +1,63 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3411052,
+      "lng": 103.9629755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342578730291502,
+        "lng": 103.9643012802915
+      },
+      "southwest": {
+        "lat": 1.339880769708498,
+        "lng": 103.9616033197085
+      }
+    }
+  },
+  "name": "Wish Padang Food",
+  "place_id": "ChIJ03EUGwA92jERahPzNwu3Kdk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Steven Gerry",
+      "author_url": "https://www.google.com/maps/contrib/109960290568144968542/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBA4VOlAkrfCul4FycMXotoG97cWG72Wyzpm20zkZ0hpm0Pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744601288,
+      "translated": false
+    },
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736482823,
+      "translated": false
+    },
+    {
+      "author_name": "Azman",
+      "author_url": "https://www.google.com/maps/contrib/102793917169892483430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKur6k236mnF0f3dB3iOFzdwTHPwK9W-qsQH7OmSL8pok_EOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734151019,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15648239639086699370",
+  "user_ratings_total": 3,
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

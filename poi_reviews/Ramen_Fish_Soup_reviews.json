@@ -1,0 +1,30 @@
+{
+  "formatted_address": "29B Chai Chee Ave, Singapore 462029",
+  "geometry": {
+    "location": {
+      "lat": 1.3241254,
+      "lng": 103.9239044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325387080291502,
+        "lng": 103.9253274802915
+      },
+      "southwest": {
+        "lat": 1.322689119708498,
+        "lng": 103.9226295197085
+      }
+    }
+  },
+  "name": "Ramen Fish Soup",
+  "place_id": "ChIJj2RmIwAj2jERR7JbjQ-mLCk",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2966928840256631367",
+  "vicinity": "29B Chai Chee Avenue, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.284095,
+      "lng": 103.8425309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285308330291502,
+        "lng": 103.8440387302915
+      },
+      "southwest": {
+        "lat": 1.282610369708498,
+        "lng": 103.8413407697085
+      }
+    }
+  },
+  "name": "Great Wall Enterprise Investment Pte. Ltd.",
+  "place_id": "ChIJ126ffHMZ2jERB3OhcbAsAQI",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=144445799384838919",
+  "vicinity": "1 Park Road, Singapore"
+}

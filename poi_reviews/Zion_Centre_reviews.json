@@ -1,0 +1,29 @@
+{
+  "formatted_address": "208 Hougang St 21, Singapore 530208",
+  "geometry": {
+    "location": {
+      "lat": 1.3586983,
+      "lng": 103.8866334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359947430291502,
+        "lng": 103.8880644802915
+      },
+      "southwest": {
+        "lat": 1.357249469708498,
+        "lng": 103.8853665197085
+      }
+    }
+  },
+  "name": "Zion Centre",
+  "place_id": "ChIJoUywo7YX2jERMvcPTUf9Xok",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9898627513684326194",
+  "vicinity": "208 Hougang Street 21"
+}

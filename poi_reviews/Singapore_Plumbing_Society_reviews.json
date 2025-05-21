@@ -1,0 +1,75 @@
+{
+  "formatted_address": "200 Braddell Rd, Block B #02-15, Singapore 579700",
+  "geometry": {
+    "location": {
+      "lat": 1.3446128,
+      "lng": 103.8585827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345707630291502,
+        "lng": 103.8599650802915
+      },
+      "southwest": {
+        "lat": 1.343009669708498,
+        "lng": 103.8572671197085
+      }
+    }
+  },
+  "name": "Singapore Plumbing Society",
+  "place_id": "ChIJyaMSI7gZ2jER5TCBO1oRfZw",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "GL",
+      "author_url": "https://www.google.com/maps/contrib/116665935499124905197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQL6OD9en8UFc5FNupP9EDhrjybaH3VTgAjlX-E6NnMkmBSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Service is worth for the money paid.",
+      "time": 1659680732,
+      "translated": false
+    },
+    {
+      "author_name": "LY Ng",
+      "author_url": "https://www.google.com/maps/contrib/101517312756587847948/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpndQrdLlpk4VyESqCPvb2krFKv639-OS7i9Bb2BEpHabxMyh_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Helpful, friendly and efficient.",
+      "time": 1582268467,
+      "translated": false
+    },
+    {
+      "author_name": "Dk. Nayak",
+      "author_url": "https://www.google.com/maps/contrib/106686746491227052983/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqqN6DYFt95F3v_AVIMSF2HjFWuznEsaJkUfZbBDScBIseKFU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1621863448,
+      "translated": false
+    },
+    {
+      "author_name": "Albert Per",
+      "author_url": "https://www.google.com/maps/contrib/114076375673734470566/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyfdaAFIZWJgce9oKuWwoDSqjYP_lCJuZVT3gjdxfXk4b9F9KO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545052361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11276188121248641253",
+  "user_ratings_total": 4,
+  "vicinity": "200 Braddell Road, Block B #02-15, Singapore"
+}

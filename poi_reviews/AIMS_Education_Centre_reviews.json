@@ -1,0 +1,30 @@
+{
+  "formatted_address": "12 N Bridge Rd, Singapore 190012",
+  "geometry": {
+    "location": {
+      "lat": 1.3043127,
+      "lng": 103.8627805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305826430291502,
+        "lng": 103.8640927802915
+      },
+      "southwest": {
+        "lat": 1.303128469708498,
+        "lng": 103.8613948197085
+      }
+    }
+  },
+  "name": "AIMS Education Centre",
+  "place_id": "ChIJ-2CjI7QZ2jERuDuDz_ewGy8",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3394501322538695608",
+  "vicinity": "12 North Bridge Road"
+}

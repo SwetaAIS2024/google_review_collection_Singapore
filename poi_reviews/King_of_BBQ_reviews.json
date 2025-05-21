@@ -1,0 +1,29 @@
+{
+  "formatted_address": "125 Pasir Ris Rd, Singapore 519121",
+  "geometry": {
+    "location": {
+      "lat": 1.3863746,
+      "lng": 103.9414438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387764180291502,
+        "lng": 103.9427487802915
+      },
+      "southwest": {
+        "lat": 1.385066219708498,
+        "lng": 103.9400508197085
+      }
+    }
+  },
+  "name": "King of BBQ",
+  "place_id": "ChIJl_rqZAA92jERYLS6GALKJ4c",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9738974829565621344",
+  "vicinity": "125 Pasir Ris Road, Singapore"
+}

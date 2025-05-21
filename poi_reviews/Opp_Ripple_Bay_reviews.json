@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378658,
+      "lng": 103.960617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379971030291502,
+        "lng": 103.9619782802915
+      },
+      "southwest": {
+        "lat": 1.377273069708498,
+        "lng": 103.9592803197085
+      }
+    }
+  },
+  "name": "Opp Ripple Bay",
+  "place_id": "ChIJx_X5yrQ92jERkmSJgVirBu8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chris Chin",
+      "author_url": "https://www.google.com/maps/contrib/112409462966827364667/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOSaYSpSbNNBzIXH4RixbcXdCbyGRU1yQEfHcl0Uvc0ng3ig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484400024,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17223642221543777426",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "531 Upper Cross St, #01-05, Singapore 050531",
+  "geometry": {
+    "location": {
+      "lat": 1.2844656,
+      "lng": 103.8454538
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285771730291502,
+        "lng": 103.8467971802915
+      },
+      "southwest": {
+        "lat": 1.283073769708498,
+        "lng": 103.8440992197085
+      }
+    }
+  },
+  "name": "Dragon Door Medical Hall",
+  "place_id": "ChIJmUwGpwwZ2jERKzKJlnofuYI",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9419594706994147883",
+  "vicinity": "531 Upper Cross Street, #01-05"
+}

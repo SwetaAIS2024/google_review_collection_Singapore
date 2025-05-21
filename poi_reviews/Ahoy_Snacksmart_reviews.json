@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Manhattan House #01-23, 151 Chin Swee Road (S)169876, Singapore 169876",
+  "geometry": {
+    "location": {
+      "lat": 1.2870826,
+      "lng": 103.8408451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288570830291502,
+        "lng": 103.8422332802915
+      },
+      "southwest": {
+        "lat": 1.285872869708498,
+        "lng": 103.8395353197085
+      }
+    }
+  },
+  "name": "Ahoy Snacksmart",
+  "place_id": "ChIJ13nXs3UZ2jER2bffSjLth4M",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9477804741084821465",
+  "vicinity": "Manhattan House #01-23, 151 Chin Swee Road (S)169876"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25 New Upper Changi Rd, Singapore 462025",
+  "geometry": {
+    "location": {
+      "lat": 1.3235071,
+      "lng": 103.9337097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324851180291502,
+        "lng": 103.9350198302915
+      },
+      "southwest": {
+        "lat": 1.322153219708498,
+        "lng": 103.9323218697085
+      }
+    }
+  },
+  "name": "Dermatology clinic",
+  "place_id": "ChIJD720vWcj2jER6rUw34dOtlw",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6680613442722772458",
+  "vicinity": "25 New Upper Changi Road, Singapore"
+}

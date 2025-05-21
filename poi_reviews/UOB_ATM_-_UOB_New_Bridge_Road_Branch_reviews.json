@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 1 Park Road, #01-01/02 People's Park Complex, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2841977,
+      "lng": 103.8425488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285394230291502,
+        "lng": 103.8440770802915
+      },
+      "southwest": {
+        "lat": 1.282696269708498,
+        "lng": 103.8413791197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB New Bridge Road Branch",
+  "place_id": "ChIJEbR5HXQZ2jERzEm13tI5x0M",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4883935898748930508",
+  "vicinity": "No. 1 Park Road, #01-01/02 People's Park Complex"
+}

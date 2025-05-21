@@ -1,0 +1,62 @@
+{
+  "formatted_address": "571 Balestier Rd, Singapore 329887",
+  "geometry": {
+    "location": {
+      "lat": 1.3264812,
+      "lng": 103.8441945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327873480291502,
+        "lng": 103.8455409302915
+      },
+      "southwest": {
+        "lat": 1.325175519708498,
+        "lng": 103.8428429697085
+      }
+    }
+  },
+  "name": "Ban Zui 半醉",
+  "place_id": "ChIJpWwsTAAZ2jERsW7OynkajU0",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Yuan Hon",
+      "author_url": "https://www.google.com/maps/contrib/102371630932192258093/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhL5YUcic_DCMonw8Im_BtLdKE3D4WTW5DAxpEF5At71Wc1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741922992,
+      "translated": false
+    },
+    {
+      "author_name": "Chan Tze Hui",
+      "author_url": "https://www.google.com/maps/contrib/103188300122776435883/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYizoaQf8ybEgLHgkdHTcvy9RDtG8VlGvtFEg4wBnotN8c9p8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718282185,
+      "translated": false
+    },
+    {
+      "author_name": "Vincent Chua",
+      "author_url": "https://www.google.com/maps/contrib/115193755243280494537/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJIrZ8H5HcHHQ0AbF2aIVDgsIBNa4yJQmjw1iehrTWpFIbHQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718458237,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5588151823032544945",
+  "user_ratings_total": 3,
+  "vicinity": "571 Balestier Road"
+}

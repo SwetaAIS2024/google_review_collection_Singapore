@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Jurong West Street 81, Block 815, Singapore 640815",
+  "geometry": {
+    "location": {
+      "lat": 1.345314,
+      "lng": 103.6958129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346754580291502,
+        "lng": 103.6971732302915
+      },
+      "southwest": {
+        "lat": 1.344056619708498,
+        "lng": 103.6944752697085
+      }
+    }
+  },
+  "name": "815 Coffeeshop",
+  "place_id": "ChIJM-soPQAP2jER9t1xDyAY2Ww",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7843326752019570166",
+  "vicinity": "Jurong West Street 81, Block 815"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2791601,
+      "lng": 103.7999915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280641530291502,
+        "lng": 103.8013236302915
+      },
+      "southwest": {
+        "lat": 1.277943569708498,
+        "lng": 103.7986256697085
+      }
+    }
+  },
+  "name": "Balinese Garden",
+  "place_id": "ChIJ8a4_wscb2jERrF6s3uMmmQQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dj fIsH",
+      "author_url": "https://www.google.com/maps/contrib/100217522508524873444/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz4P99fhmwyUwe_NCa2BDcAstApap-YSEg24N3GqR9LthQPf_e=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568548031,
+      "translated": false
+    },
+    {
+      "author_name": "PS AUNG",
+      "author_url": "https://www.google.com/maps/contrib/108642965515846268846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjJtZAs2_GD1H9Wa1zl3LeF3RQ1GrASgRzGtdC96U7P2xAtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1556712889,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=331338807723712172",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

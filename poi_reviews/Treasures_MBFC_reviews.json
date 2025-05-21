@@ -1,0 +1,29 @@
+{
+  "formatted_address": "12 Marina Blvd, Tower 3, #3 Marina Bay Financial Centre, Singapore 018982",
+  "geometry": {
+    "location": {
+      "lat": 1.2791344,
+      "lng": 103.8544793
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280485230291502,
+        "lng": 103.8559545802915
+      },
+      "southwest": {
+        "lat": 1.277787269708498,
+        "lng": 103.8532566197085
+      }
+    }
+  },
+  "name": "Treasures MBFC",
+  "place_id": "ChIJq5mtV6cZ2jER6TD3OIugdbE",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12787303236805013737",
+  "vicinity": "12 Marina Boulevard, Tower 3, #3 Marina Bay Financial Centre"
+}

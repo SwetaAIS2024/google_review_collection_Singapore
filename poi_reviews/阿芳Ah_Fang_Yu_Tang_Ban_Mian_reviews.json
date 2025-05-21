@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Elias Rd, Elias Mall, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3778212,
+      "lng": 103.9423642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379059930291502,
+        "lng": 103.9436341302915
+      },
+      "southwest": {
+        "lat": 1.376361969708498,
+        "lng": 103.9409361697085
+      }
+    }
+  },
+  "name": "阿芳Ah Fang Yu Tang Ban Mian",
+  "place_id": "ChIJp6ozBwA92jERIbBt-x2-ykY",
+  "rating": 1.5,
+  "reviews": [
+    {
+      "author_name": "Pauline Gan",
+      "author_url": "https://www.google.com/maps/contrib/103907046188660938665/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRsT6jDLMaRiDlDW1LXBGy0Ai9yYem1fs9UKsV5gh3_Q5KTg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Daylight robbery..ordered through food delivery platform. $6.80 ban mian hardly any ingredient, few tiny ikan billis. I opted to add fishball..they charged $2.50 for 1 fishball!!!",
+      "time": 1738230509,
+      "translated": false
+    },
+    {
+      "author_name": "Nobita C",
+      "author_url": "https://www.google.com/maps/contrib/115632465584200727905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmPB8qEnoPhsZxbXIEBPTGhMqXo4oJsUa_z5O-2zVyIBoKz2B=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "This did not seem to taste as well as the last time I patronised this stall... but that was more than a year ago.\n\nAdded $1 worth of additional thick bee hoon - It was too much!",
+      "time": 1715250874,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5101098563932106785",
+  "user_ratings_total": 2,
+  "vicinity": "Elias Road, Elias Mall"
+}

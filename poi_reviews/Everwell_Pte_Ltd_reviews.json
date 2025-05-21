@@ -1,0 +1,43 @@
+{
+  "formatted_address": "32 Tuas Ave 12, Singapore 639045",
+  "geometry": {
+    "location": {
+      "lat": 1.335155,
+      "lng": 103.645963
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336526280291502,
+        "lng": 103.6472886302915
+      },
+      "southwest": {
+        "lat": 1.333828319708498,
+        "lng": 103.6445906697085
+      }
+    }
+  },
+  "name": "Everwell Pte Ltd",
+  "place_id": "ChIJ7YdzW1AP2jERfCgCmPLngbs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Barbette Strauss",
+      "author_url": "https://www.google.com/maps/contrib/116995110127835257886/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuhTf0XC653nqDCuCf7__t00whHKlJZmoOd7-dgo4OzJjxZdF6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "I was never a fan of Cowhead brand of products until I tried out its lactose free fresh milk from Australia.  It catered to the likes of my taste buds.  However I was concerned due to the high content of sugar present in the product as 12.5 grams of sugar per serving is relatively high given my elderly age and a higher risk to be diabetic. As such, I hope that it can be reformulated further to reduce its sugar content.  For now, I would still recommend this to those who do not have an issue with its high sugar content.",
+      "time": 1633609899,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13511335386206578812",
+  "user_ratings_total": 1,
+  "vicinity": "32 Tuas Avenue 12"
+}

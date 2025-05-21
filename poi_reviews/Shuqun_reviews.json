@@ -1,0 +1,29 @@
+{
+  "formatted_address": "121 Yuan Ching Rd, Block 121, Singapore 610121",
+  "geometry": {
+    "location": {
+      "lat": 1.3357804,
+      "lng": 103.7240521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337093630291502,
+        "lng": 103.7256548302915
+      },
+      "southwest": {
+        "lat": 1.334395669708498,
+        "lng": 103.7229568697085
+      }
+    }
+  },
+  "name": "Shuqun",
+  "place_id": "ChIJK6_3aQAP2jERkfFTUJjYGBw",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2024606181197345169",
+  "vicinity": "121 Yuan Ching Road, Block 121, Singapore"
+}

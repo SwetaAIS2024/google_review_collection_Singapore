@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2821033,
+      "lng": 103.7050409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283568280291502,
+        "lng": 103.7063207802915
+      },
+      "southwest": {
+        "lat": 1.280870319708498,
+        "lng": 103.7036228197085
+      }
+    }
+  },
+  "name": "CAA63",
+  "place_id": "ChIJk2FBGAAF2jERpQXForgG0U0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5607270401127548325",
+  "vicinity": "Jurong Island"
+}

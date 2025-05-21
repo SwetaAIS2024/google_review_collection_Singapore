@@ -1,0 +1,89 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4024322,
+      "lng": 103.8967918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403791730291502,
+        "lng": 103.8980916302915
+      },
+      "southwest": {
+        "lat": 1.401093769708498,
+        "lng": 103.8953936697085
+      }
+    }
+  },
+  "name": "Twin Waterfalls",
+  "place_id": "ChIJyQP-iuEV2jERw3BgKdeWyJ8",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Chuming SG",
+      "author_url": "https://www.google.com/maps/contrib/113742129711505548166/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAGh9yr-v6pswDBnYyoRnwAx4kh4vNZDmweTr9O9pfUW-1bAw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "\"Shared Bike Parking Zone\" by LTA is available here. It is big enough for 4~5 bikes. Usually, it is fully occupied.",
+      "time": 1548582673,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriel Lim",
+      "author_url": "https://www.google.com/maps/contrib/115653562449669638496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLcg6P9RRUIp_fYUP0FuehsJAYcQnXJPbnP1fLJzedXa0cJacYxg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Why do you schedule the bus to come every 20mins during peak hours, are you crazy?",
+      "time": 1666053446,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Woon",
+      "author_url": "https://www.google.com/maps/contrib/117077578874172559797/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ_hhi5vKE2gC0NWJGNdzXbD_Dq-abd8lbBRO8FFiBPLARyg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "cannot tell bus timing",
+      "time": 1635823757,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Chua",
+      "author_url": "https://www.google.com/maps/contrib/114470076234237579777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqtWfofVBwS3KF_r5Lkew0Hu_kN49cXGwPEiwrizYL0W14P3DV=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712549337,
+      "translated": false
+    },
+    {
+      "author_name": "ONG LEK LONG",
+      "author_url": "https://www.google.com/maps/contrib/100675999689789409058/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2Gfn5FvU9pVHI4_UdidCUZeAJrelK2aaxzEYSOCGgxHzrG3Sd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514647382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11513618298228994243",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

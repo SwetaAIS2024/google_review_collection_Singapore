@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Tanjong Pagar Plz, Singapore 081005",
+  "geometry": {
+    "location": {
+      "lat": 1.27628,
+      "lng": 103.84285
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.27705685,
+        "lng": 103.8442921802915
+      },
+      "southwest": {
+        "lat": 1.27402625,
+        "lng": 103.8415942197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Tanjong Pagar",
+  "place_id": "ChIJe-5S3soZ2jERCr4g12dCFGs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "fong waiwai",
+      "author_url": "https://www.google.com/maps/contrib/117344657260215319222/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXi3fYPEFPk0KI7atgyJ1wSoD_-xkByflsZJO-EBpMvUMA9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690807174,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7715865075350814218",
+  "user_ratings_total": 1,
+  "vicinity": "5 Tanjong Pagar Plaza, Singapore"
+}

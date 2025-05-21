@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.305956,
+      "lng": 103.916992
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307295580291502,
+        "lng": 103.9183080302915
+      },
+      "southwest": {
+        "lat": 1.304597619708498,
+        "lng": 103.9156100697085
+      }
+    }
+  },
+  "name": "CHIJ Katong Convent - Sec",
+  "place_id": "ChIJRXROoZ8i2jERZtJoWmZ89Ko",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "TERRENCE KUEK",
+      "author_url": "https://www.google.com/maps/contrib/107915059640067502895/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ8eG3yOsk8trml05CcuMib1VK54zVVzZgLbcSrfv3Mgk7DhmM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539768256,
+      "translated": false
+    },
+    {
+      "author_name": "Eustacia Low",
+      "author_url": "https://www.google.com/maps/contrib/107016717514656188713/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvOrn0hAHBcktjzKee7wjKMZhywXL0QHNpeivO_rvr3fLaYNE=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1493359296,
+      "translated": false
+    },
+    {
+      "author_name": "Charmaine k",
+      "author_url": "https://www.google.com/maps/contrib/104711163382011947429/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3ov0VhtU4yCidl_iL6dZMV__e7CDTNAUQT-Yje42cHb3euQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487760430,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12318607659810476646",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

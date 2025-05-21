@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Hougang Ave 8, #01-273 Block 644, Singapore 530644",
+  "geometry": {
+    "location": {
+      "lat": 1.3714742,
+      "lng": 103.881001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.372928830291502,
+        "lng": 103.8824827802915
+      },
+      "southwest": {
+        "lat": 1.370230869708498,
+        "lng": 103.8797848197085
+      }
+    }
+  },
+  "name": "UOB ATM - Hougang Avenue 8",
+  "place_id": "ChIJ9XPJuU8W2jERnsytXHgw-wE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Duy Tran ngoc",
+      "author_url": "https://www.google.com/maps/contrib/117594871067101440834/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc3bLlOMbxC-ewqYfVrWCwOiUzKbUrbbB3B-UGfNkj8zwWQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1661077810,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=142761106701405342",
+  "user_ratings_total": 1,
+  "vicinity": "Hougang Avenue 8, #01-273 Block 644"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "25 Jurong Port Rd, Singapore 619098",
+  "geometry": {
+    "location": {
+      "lat": 1.3167545,
+      "lng": 103.7211516
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318084480291502,
+        "lng": 103.7225775302915
+      },
+      "southwest": {
+        "lat": 1.315386519708498,
+        "lng": 103.7198795697085
+      }
+    }
+  },
+  "name": "Skychem Pte. Ltd.",
+  "place_id": "ChIJH1iWSk4F2jER2Q2AYvmQ3w4",
+  "types": [
+    "store",
+    "health",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1071734637111283161",
+  "vicinity": "25 Jurong Port Road, Singapore"
+}

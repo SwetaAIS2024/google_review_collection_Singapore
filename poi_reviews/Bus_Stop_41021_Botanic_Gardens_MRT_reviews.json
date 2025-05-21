@@ -1,0 +1,30 @@
+{
+  "formatted_address": "501 Bukit Timah Rd, Singapore 259760",
+  "geometry": {
+    "location": {
+      "lat": 1.3226927,
+      "lng": 103.8142865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324125830291502,
+        "lng": 103.8157989802915
+      },
+      "southwest": {
+        "lat": 1.321427869708498,
+        "lng": 103.8131010197085
+      }
+    }
+  },
+  "name": "Bus Stop 41021 (Botanic Gardens MRT)",
+  "place_id": "ChIJ8fQVsAYa2jER26r7dPFLTcc",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14361218287176231643",
+  "vicinity": "501 Bukit Timah Rd"
+}

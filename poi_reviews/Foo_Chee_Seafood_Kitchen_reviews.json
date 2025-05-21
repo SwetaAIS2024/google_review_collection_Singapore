@@ -1,0 +1,30 @@
+{
+  "formatted_address": "26A Chai Chee Rd, Singapore 461026",
+  "geometry": {
+    "location": {
+      "lat": 1.3236335,
+      "lng": 103.9236305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324971330291502,
+        "lng": 103.9247012302915
+      },
+      "southwest": {
+        "lat": 1.322273369708498,
+        "lng": 103.9220032697085
+      }
+    }
+  },
+  "name": "Foo Chee Seafood Kitchen",
+  "place_id": "ChIJJ_EGqa0i2jER6Y9G7GE8hRY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1622769632010473449",
+  "vicinity": "26A Chai Chee Road, Singapore"
+}

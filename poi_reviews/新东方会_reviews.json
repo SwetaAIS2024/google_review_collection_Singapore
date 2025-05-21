@@ -1,0 +1,30 @@
+{
+  "formatted_address": "2-4 Foch Rd, Singapore 209252",
+  "geometry": {
+    "location": {
+      "lat": 1.3118403,
+      "lng": 103.8596408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313208880291502,
+        "lng": 103.8609720802915
+      },
+      "southwest": {
+        "lat": 1.310510919708498,
+        "lng": 103.8582741197085
+      }
+    }
+  },
+  "name": "新东方会",
+  "place_id": "ChIJp02Eq28Z2jERsWHs25rKrNw",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15901307150801854897",
+  "vicinity": "2-4 Foch Road"
+}

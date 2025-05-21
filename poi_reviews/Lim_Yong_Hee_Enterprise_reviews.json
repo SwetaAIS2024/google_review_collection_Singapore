@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.323865,
+      "lng": 103.8997698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325243680291502,
+        "lng": 103.9011129302915
+      },
+      "southwest": {
+        "lat": 1.322545719708498,
+        "lng": 103.8984149697085
+      }
+    }
+  },
+  "name": "Lim Yong Hee Enterprise",
+  "place_id": "ChIJScwkqh0Y2jERxEIFcMVjirQ",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13009320173252199108",
+  "vicinity": "Singapore"
+}

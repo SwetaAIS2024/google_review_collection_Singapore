@@ -1,0 +1,29 @@
+{
+  "formatted_address": "351 Chai Chee St, SATA CommHealth Building, Singapore 468982",
+  "geometry": {
+    "location": {
+      "lat": 1.3279741,
+      "lng": 103.9211413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329030230291502,
+        "lng": 103.9227492302915
+      },
+      "southwest": {
+        "lat": 1.326332269708498,
+        "lng": 103.9200512697085
+      }
+    }
+  },
+  "name": "SATA CommHealth Corporate HQ",
+  "place_id": "ChIJtzEadoY92jERitQtxttqhvw",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18196348836592342154",
+  "vicinity": "351 Chai Chee Street, SATA CommHealth Building"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "104 Joo Chiat Rd, Singapore 427397",
+  "geometry": {
+    "location": {
+      "lat": 1.3141123,
+      "lng": 103.8989478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315488430291502,
+        "lng": 103.9003348802915
+      },
+      "southwest": {
+        "lat": 1.312790469708498,
+        "lng": 103.8976369197085
+      }
+    }
+  },
+  "name": "Thin Seng Co",
+  "place_id": "ChIJBQPaGxEY2jER0SIsdhWsB1Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "CK C",
+      "author_url": "https://www.google.com/maps/contrib/114345555265183607362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0m70NQj0bnpa391gSdR9Fgk6LU3yy-v_P_hMWOqmVM9s3nYJM=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Old school provision shop.",
+      "time": 1680948454,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6054997432199815889",
+  "user_ratings_total": 1,
+  "vicinity": "104 Joo Chiat Road"
+}

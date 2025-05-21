@@ -1,0 +1,42 @@
+{
+  "formatted_address": "475 Tampines Street 44, Singapore 520475",
+  "geometry": {
+    "location": {
+      "lat": 1.360422,
+      "lng": 103.9532611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361770980291502,
+        "lng": 103.9546100802915
+      },
+      "southwest": {
+        "lat": 1.359073019708498,
+        "lng": 103.9519121197085
+      }
+    }
+  },
+  "name": "Mural: Tampines Mural by Nicia Lam, WONTONICIA",
+  "place_id": "ChIJz7okewA92jERNevVX8zPHy8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dandy Hartono",
+      "author_url": "https://www.google.com/maps/contrib/104652464171600935693/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7l9-iGdJww804Kzei_921qIiPXpkY4ZtwRDVa3wCB9R6HQm6YBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747801703,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3395661120748776245",
+  "user_ratings_total": 1,
+  "vicinity": "475 Tampines Street 44"
+}

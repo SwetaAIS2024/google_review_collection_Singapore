@@ -1,0 +1,65 @@
+{
+  "formatted_address": "47 Pandan Rd, Singapore 609288",
+  "geometry": {
+    "location": {
+      "lat": 1.3017874,
+      "lng": 103.7466201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303170980291502,
+        "lng": 103.7482325802915
+      },
+      "southwest": {
+        "lat": 1.300473019708498,
+        "lng": 103.7455346197085
+      }
+    }
+  },
+  "name": "Singapore Asahi Chemical & Solder Industries Pte Ltd",
+  "place_id": "ChIJkfs2m8Ma2jERW7GXPPcm5jo",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Faisal Alsagoff",
+      "author_url": "https://www.google.com/maps/contrib/106524898064123276928/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc5m_2Utn9jQ4TYSJjHanbPyMJAfTxwDhwEsv3aAcc7TxqHcyYpg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very professional",
+      "time": 1637894034,
+      "translated": false
+    },
+    {
+      "author_name": "Alex",
+      "author_url": "https://www.google.com/maps/contrib/108848337221609842439/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9zGkc5h9jYpDBihpDKbkXQdnZwbGoSeoyapD_gvl8RNEUTuwUTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "13 years ago",
+      "text": "World-class quality solders and fluxes",
+      "time": 1333392050,
+      "translated": true
+    },
+    {
+      "author_name": "Andy Tan",
+      "author_url": "https://www.google.com/maps/contrib/111548393596467670817/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2QJfXw0JMenl-qzMXk3XZBLKZi4Gs8BYWfZLNxxi8EaK7tLM8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565025194,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4244122542158623067",
+  "user_ratings_total": 3,
+  "vicinity": "47 Pandan Road, Singapore"
+}

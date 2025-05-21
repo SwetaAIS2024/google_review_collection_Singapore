@@ -1,0 +1,66 @@
+{
+  "formatted_address": "8 Somapah Rd, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3407596,
+      "lng": 103.9633404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341887380291502,
+        "lng": 103.9645515802915
+      },
+      "southwest": {
+        "lat": 1.339189419708498,
+        "lng": 103.9618536197085
+      }
+    }
+  },
+  "name": "SUTD One-Stop Centre",
+  "place_id": "ChIJV4rpJd882jERvcYb_bF3gQ4",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Salem Saberhagen",
+      "author_url": "https://www.google.com/maps/contrib/102365211844580840201/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN1MI2UXxgIajLdQjYbp3oOyDdjAL6FbpmWi4z8432-QteOA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "What an irony that a design school is so poorly designed. Just visit the premise and experience for yourself. It's opened to public.",
+      "time": 1728630756,
+      "translated": false
+    },
+    {
+      "author_name": "SeeKiat SK KOH",
+      "author_url": "https://www.google.com/maps/contrib/112696991715580767538/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs1POK0PbfPPFHLMKplAXHO5-cb6VTMFLxfNwZyrWXxYlZwjWq=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Wonderful concept of food in a university. Go support",
+      "time": 1572349593,
+      "translated": false
+    },
+    {
+      "author_name": "Massimiliano Colla",
+      "author_url": "https://www.google.com/maps/contrib/111160208704227151312/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvHS6qe89epJ-zeSOSJO1767b_1VSGPvS1aOCEm7K-6sogWiWM0Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504857278,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1045248194866038461",
+  "user_ratings_total": 3,
+  "vicinity": "8 Somapah Road, Singapore"
+}

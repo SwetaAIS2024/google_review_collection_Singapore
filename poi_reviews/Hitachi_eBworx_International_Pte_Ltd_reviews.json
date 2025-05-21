@@ -1,0 +1,41 @@
+{
+  "formatted_address": "9 Tampines Grande, Singapore 528735",
+  "geometry": {
+    "location": {
+      "lat": 1.3553941,
+      "lng": 103.94171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356806130291502,
+        "lng": 103.9430139802915
+      },
+      "southwest": {
+        "lat": 1.354108169708498,
+        "lng": 103.9403160197085
+      }
+    }
+  },
+  "name": "Hitachi eBworx International Pte Ltd",
+  "place_id": "ChIJFyr5vg092jERlCF7UcWUFEM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Willy Prawira Limarno",
+      "author_url": "https://www.google.com/maps/contrib/107479929392714408716/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBz98H4GrrlerARuMd2RggaTcBP5negQAauGhkTbjJLaSWzN8=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523832919,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4833651875271877012",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tampines Grande, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3238514,
+      "lng": 103.9194017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325197830291502,
+        "lng": 103.9207847802915
+      },
+      "southwest": {
+        "lat": 1.322499869708498,
+        "lng": 103.9180868197085
+      }
+    }
+  },
+  "name": "Opp Bedok Sth NPC",
+  "place_id": "ChIJD6jwd6si2jERg2SsJ-Pfzdg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15622388849134298243",
+  "vicinity": "Singapore"
+}

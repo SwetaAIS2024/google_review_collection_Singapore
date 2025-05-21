@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Lebuhraya Sultan Iskandar, 79250 Nusajaya, Johor, Malaysia, East Ledang, 79250 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.424174,
+      "lng": 103.6172658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.425597230291502,
+        "lng": 103.6186669302915
+      },
+      "southwest": {
+        "lat": 1.422899269708498,
+        "lng": 103.6159689697085
+      }
+    }
+  },
+  "name": "RHB & CIMB ATM",
+  "place_id": "ChIJJylUXpQL2jERwH3Wt0PRK8o",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Abi Zarrin",
+      "author_url": "https://www.google.com/maps/contrib/108616702668713249151/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk84NFq45awbRI7Z1s7Ih8AgLCg9-9zzzkbge1720s0IO33JCo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Reliable. At entrance of Mydin.",
+      "time": 1660896849,
+      "translated": false
+    },
+    {
+      "author_name": "Sugeng Riyanto",
+      "author_url": "https://www.google.com/maps/contrib/113666497961613044218/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJQcpzlo2QUlSFvHFLmTletJTKFCqjIpsse9HhIukmgkJ5Lw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733046218,
+      "translated": false
+    },
+    {
+      "author_name": "Deen",
+      "author_url": "https://www.google.com/maps/contrib/109515804208185612820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqlbsppJGjBFi1hoiYjTUha8xbrro01xG7YwTjfXtoTE37MA8wAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1616848954,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14567967508437302720",
+  "user_ratings_total": 3,
+  "vicinity": "Lebuhraya Sultan Iskandar, 79250 Nusajaya, Johor, Malaysia"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "465A Upper Serangoon Rd, Singapore 531465",
+  "geometry": {
+    "location": {
+      "lat": 1.3724346,
+      "lng": 103.8972712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373814430291502,
+        "lng": 103.8985944802915
+      },
+      "southwest": {
+        "lat": 1.371116469708498,
+        "lng": 103.8958965197085
+      }
+    }
+  },
+  "name": "Cat @ 465A Upper Serangoon Rd Bus Stop",
+  "place_id": "ChIJ-RlrYgAX2jERJ1BE2jj_EZ4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Xue Li Won",
+      "author_url": "https://www.google.com/maps/contrib/111879052374211832395/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc9a8IkbUpCgs3PeLA45zlTi7yw9KSv_U7rcW0eGBgQyJZ6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Such a good cat",
+      "time": 1710044464,
+      "translated": false
+    },
+    {
+      "author_name": "Ahmad Syahmii",
+      "author_url": "https://www.google.com/maps/contrib/105706663496616856531/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8bQomkLzMWjXV-aHGkkSyfY4PbqEIB1Lrzdo_sMwrzAnfMFUibg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "good cat",
+      "time": 1710504363,
+      "translated": false
+    },
+    {
+      "author_name": "Philip T",
+      "author_url": "https://www.google.com/maps/contrib/102249400882879512899/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0QKT75-_iTtO4yzD7JXyeXF4hHy7lO4iUGpLG7ty4dv9gZVE_MQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714269992,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11390165552241856551",
+  "user_ratings_total": 3,
+  "vicinity": "465A Upper Serangoon Road"
+}

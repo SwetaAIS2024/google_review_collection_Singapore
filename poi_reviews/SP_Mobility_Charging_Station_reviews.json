@@ -1,0 +1,27 @@
+{
+  "formatted_address": "10 Changi Coast Walk, Singapore 499739",
+  "geometry": {
+    "location": {
+      "lat": 1.31815,
+      "lng": 103.9753238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319500130291502,
+        "lng": 103.9766701802915
+      },
+      "southwest": {
+        "lat": 1.316802169708498,
+        "lng": 103.9739722197085
+      }
+    }
+  },
+  "name": "SP Mobility Charging Station",
+  "place_id": "ChIJ020GWDAj2jERaQCXjNORV7U",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13067073181621616745",
+  "vicinity": "10 Changi Coast Walk, Singapore"
+}

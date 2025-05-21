@@ -1,0 +1,56 @@
+{
+  "formatted_address": "24 Serangoon Ave 1 Singapore 556140 Serangoon Ave 1, Singapore 556140",
+  "geometry": {
+    "location": {
+      "lat": 1.3469648,
+      "lng": 103.8749133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348315580291502,
+        "lng": 103.8763979802915
+      },
+      "southwest": {
+        "lat": 1.345617619708498,
+        "lng": 103.8737000197085
+      }
+    }
+  },
+  "name": "SGSS Field",
+  "place_id": "ChIJwYkxN6IX2jERjfiL8Bc1cHk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Matt Wee",
+      "author_url": "https://www.google.com/maps/contrib/117508051917404142902/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWR-jB4EspF5QvoIM3nDYmt8myFCQRg9nwvbbozBEdYp34Fh8I=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Pretty fun place",
+      "time": 1727497285,
+      "translated": false
+    },
+    {
+      "author_name": "trigga bigga",
+      "author_url": "https://www.google.com/maps/contrib/107924315456972354456/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5AUl2ksCnKU2NkUtIq2NRDqOvChhm8r1LplyRZdeEW2Wwhg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "looks like diabities",
+      "time": 1712643829,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8750552452917098637",
+  "user_ratings_total": 2,
+  "vicinity": "24 Serangoon Ave 1 Singapore 556140 Serangoon Avenue 1, Singapore"
+}

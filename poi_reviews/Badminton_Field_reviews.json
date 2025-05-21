@@ -1,0 +1,28 @@
+{
+  "formatted_address": "534 Bedok North Street 3, Block 534, Singapore 460534",
+  "geometry": {
+    "location": {
+      "lat": 1.333142,
+      "lng": 103.9246859
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334560980291502,
+        "lng": 103.9260521302915
+      },
+      "southwest": {
+        "lat": 1.331863019708498,
+        "lng": 103.9233541697085
+      }
+    }
+  },
+  "name": "Badminton Field",
+  "place_id": "ChIJi-nWSbc92jERCvwQccXgd_M",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17543738012055174154",
+  "vicinity": "534 Bedok North Street 3, Block 534, Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "6 Temasek Blvd, Singapore 038986",
+  "geometry": {
+    "location": {
+      "lat": 1.2950035,
+      "lng": 103.8597702
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296290280291502,
+        "lng": 103.8609775802915
+      },
+      "southwest": {
+        "lat": 1.293592319708498,
+        "lng": 103.8582796197085
+      }
+    }
+  },
+  "name": "Medisource Pte Ltd",
+  "place_id": "ChIJD07g5q4Z2jER7WNgz4OSRko",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Aaron Drake",
+      "author_url": "https://www.google.com/maps/contrib/117875961663801672519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb7OWsv8GI_uSIu5xXThSclqRpzzXiEo-xhH1B14G17tt-nQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562204723,
+      "translated": false
+    },
+    {
+      "author_name": "Double Joy",
+      "author_url": "https://www.google.com/maps/contrib/108674950197311653808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLyut02ZRpRNY3FAt6EyCpKSlod1fE31gZMJGoExu46pa3roh4=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1525930329,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5352126301993985005",
+  "user_ratings_total": 2,
+  "vicinity": "6 Temasek Boulevard"
+}

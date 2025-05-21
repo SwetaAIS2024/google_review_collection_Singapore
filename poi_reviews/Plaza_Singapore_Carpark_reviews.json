@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Handy Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.300573,
+      "lng": 103.845281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301915480291502,
+        "lng": 103.8466750302915
+      },
+      "southwest": {
+        "lat": 1.299217519708498,
+        "lng": 103.8439770697085
+      }
+    }
+  },
+  "name": "Plaza Singapore Carpark",
+  "place_id": "ChIJb1BvJAAZ2jERXCtZJtvWDzM",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3679395657314544476",
+  "vicinity": "Handy Road"
+}

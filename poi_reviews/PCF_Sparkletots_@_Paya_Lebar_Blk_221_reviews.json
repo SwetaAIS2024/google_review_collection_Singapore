@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Blk 221 Hougang St 21, #01-90, Singapore 530221",
+  "geometry": {
+    "location": {
+      "lat": 1.3565848,
+      "lng": 103.8836567
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357883430291502,
+        "lng": 103.8850311802915
+      },
+      "southwest": {
+        "lat": 1.355185469708498,
+        "lng": 103.8823332197085
+      }
+    }
+  },
+  "name": "PCF Sparkletots @ Paya Lebar Blk 221",
+  "place_id": "ChIJJ3ZGH7EX2jERT5R7iUeK824",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "kevin yew jui hong",
+      "author_url": "https://www.google.com/maps/contrib/118171885992714737943/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe1sFY1azifbvTFS0QwAa7lR6XWPiRuB45cbZMMneBBJfaF0I=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Not recommended!",
+      "time": 1741189703,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7994885803366650959",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 221 Hougang Street 21, #01-90"
+}

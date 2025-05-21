@@ -1,0 +1,55 @@
+{
+  "formatted_address": "38 Nanyang Cres, Singapore 637121",
+  "geometry": {
+    "location": {
+      "lat": 1.3551073,
+      "lng": 103.6847682
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356434680291502,
+        "lng": 103.6860713302915
+      },
+      "southwest": {
+        "lat": 1.353736719708498,
+        "lng": 103.6833733697085
+      }
+    }
+  },
+  "name": "Foodelicia",
+  "place_id": "ChIJBX2Z2qcP2jERy3LilQEXFH8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Miss FL",
+      "author_url": "https://www.google.com/maps/contrib/108868746277450777856/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDX8tUW3VitZnE1xtmk0xbdgeVk2HrxU1hzjHGoquAyjWRdDM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Suspended for 2 weeks in 2023 from 25 Oct to 6 Nov for failing to register assistant and infestation on premises",
+      "time": 1698283739,
+      "translated": false
+    },
+    {
+      "author_name": "Crispus Tan",
+      "author_url": "https://www.google.com/maps/contrib/104663355997442730923/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj1P1Y6uiOPlu4hU0okcbTIjg4dEI9dotpCZn_T-caFdVwnAxw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605593254,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9156969237928112843",
+  "user_ratings_total": 2,
+  "vicinity": "38 Nanyang Crescent"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "21 Hillside Dr, Singapore 548940",
+  "geometry": {
+    "location": {
+      "lat": 1.3575559,
+      "lng": 103.877314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358969180291502,
+        "lng": 103.8787220302915
+      },
+      "southwest": {
+        "lat": 1.356271219708498,
+        "lng": 103.8760240697085
+      }
+    }
+  },
+  "name": "Tabernacle Baptist Church",
+  "place_id": "ChIJSfg6PJIX2jER0dxFyBaI6nY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Efren Cuerdo",
+      "author_url": "https://www.google.com/maps/contrib/114945104296542235395/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb1QPvvbeMib4t5rleMJe14iZpoKmYcHlaDZB2YIQGzf76zKZglg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I love this church",
+      "time": 1609288879,
+      "translated": false
+    },
+    {
+      "author_name": "Lloyd Cadag",
+      "author_url": "https://www.google.com/maps/contrib/105904861335461341097/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqxURzlWI-SLQLqKv63R2vF5ot0dpm3vd1o3K-rr0poQc3MA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610270739,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8568810872456469713",
+  "user_ratings_total": 2,
+  "vicinity": "21 Hillside Drive, Singapore"
+}

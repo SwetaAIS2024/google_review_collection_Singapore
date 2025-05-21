@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 417 Fernvale Link, #01-K2 Fernvale Riverwalk, Singapore 790417",
+  "geometry": {
+    "location": {
+      "lat": 1.3916445,
+      "lng": 103.8797684
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.392832230291502,
+        "lng": 103.8809479302915
+      },
+      "southwest": {
+        "lat": 1.390134269708498,
+        "lng": 103.8782499697085
+      }
+    }
+  },
+  "name": "UOB ATM - Blk 417 Fernvale Link",
+  "place_id": "ChIJrboKZo8X2jERxmvbDoJuqE4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5667901635919834054",
+  "vicinity": "Blk 417 Fernvale Link, #01-K2 Fernvale Riverwalk"
+}

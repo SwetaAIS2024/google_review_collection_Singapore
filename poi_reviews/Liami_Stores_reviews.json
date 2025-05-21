@@ -1,0 +1,47 @@
+{
+  "formatted_address": "271 Bukit Batok East Ave 4, Block 271, Singapore 650271",
+  "geometry": {
+    "location": {
+      "lat": 1.348301,
+      "lng": 103.7585876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349740880291502,
+        "lng": 103.7599821302915
+      },
+      "southwest": {
+        "lat": 1.347042919708498,
+        "lng": 103.7572841697085
+      }
+    }
+  },
+  "name": "Liami Stores",
+  "place_id": "ChIJLQl5h6ER2jERC4PKTqHhYjs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrey",
+      "author_url": "https://www.google.com/maps/contrib/105291770304356633675/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEoZ_xpoJjVAydGLW-kSocFQHeE1TZEuMCX16m95oLzy1M-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "A really nice market. Very clean, neat and well organized. Staff very friendly and professional. Highly recommended!",
+      "time": 1613653447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4279230678883271435",
+  "user_ratings_total": 1,
+  "vicinity": "271 Bukit Batok East Avenue 4, Block 271, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "64 Hillside Dr, Singapore 549014",
+  "geometry": {
+    "location": {
+      "lat": 1.360624,
+      "lng": 103.8746929
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361982680291502,
+        "lng": 103.8760540802915
+      },
+      "southwest": {
+        "lat": 1.359284719708498,
+        "lng": 103.8733561197085
+      }
+    }
+  },
+  "name": "Hillside Gardens",
+  "place_id": "ChIJM77VbawX2jERYvkeBG_TWXM",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8311907061052930402",
+  "vicinity": "64 Hillside Drive, Singapore"
+}

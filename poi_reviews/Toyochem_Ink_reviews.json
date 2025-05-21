@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.327354,
+      "lng": 103.655106
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328673680291502,
+        "lng": 103.6564267802915
+      },
+      "southwest": {
+        "lat": 1.325975719708498,
+        "lng": 103.6537288197085
+      }
+    }
+  },
+  "name": "Toyochem Ink",
+  "place_id": "ChIJkfGujPUF2jERNanGL6VeHLU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13050409883777018165",
+  "vicinity": "Singapore"
+}

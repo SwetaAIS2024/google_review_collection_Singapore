@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Lorong 7 Geylang, Singapura 388790",
+  "geometry": {
+    "location": {
+      "lat": 1.3125468,
+      "lng": 103.8760976
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313789680291502,
+        "lng": 103.8773272802915
+      },
+      "southwest": {
+        "lat": 1.311091719708498,
+        "lng": 103.8746293197085
+      }
+    }
+  },
+  "name": "Covenant Church of Christ",
+  "place_id": "ChIJnQVlLTEY2jERE3iZI3NPqns",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8911022168643041299",
+  "vicinity": "6 Lorong 7 Geylang, Singapura"
+}

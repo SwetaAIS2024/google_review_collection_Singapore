@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320305,
+      "lng": 103.747276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321708680291502,
+        "lng": 103.7486376302915
+      },
+      "southwest": {
+        "lat": 1.319010719708498,
+        "lng": 103.7459396697085
+      }
+    }
+  },
+  "name": "Opp Ayer Rajah CC",
+  "place_id": "ChIJo01xnKMa2jER4VYeL_Mf2Ys",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "GBC CHUA",
+      "author_url": "https://www.google.com/maps/contrib/103660656883175704393/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR5gpRU3sfbRLg-Q5DOpqc3ui1f6bPROGbtEk9_mU9LB0r3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Quiet, comfortable place and like a small village. Cheer5",
+      "time": 1510439748,
+      "translated": false
+    },
+    {
+      "author_name": "Swee Heng Toh",
+      "author_url": "https://www.google.com/maps/contrib/112285235354599302779/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJ8d6BfCQE4QlV-rzkjayRQYBByNGS3Q4UlQm_c3koe5WvbA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1551797731,
+      "translated": false
+    },
+    {
+      "author_name": "Khor Bee Eng Khor",
+      "author_url": "https://www.google.com/maps/contrib/105291963157554169001/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM669IvSVyVr1ySg414Otb2z-Ty3eSjNqbcMmjnBr2tH94rw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501729608,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10077120770546226913",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

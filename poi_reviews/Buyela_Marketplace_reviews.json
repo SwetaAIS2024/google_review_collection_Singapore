@@ -1,0 +1,71 @@
+{
+  "formatted_address": "4012 Ang Mo Kio Ave 10, #02-03, Singapore 569628",
+  "geometry": {
+    "location": {
+      "lat": 1.3609427,
+      "lng": 103.8568807
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362389780291502,
+        "lng": 103.8582641802915
+      },
+      "southwest": {
+        "lat": 1.359691819708498,
+        "lng": 103.8555662197085
+      }
+    }
+  },
+  "name": "Buyela Marketplace",
+  "place_id": "ChIJN4oJKvAX2jER-VvXtTFphc8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Claire",
+      "author_url": "https://www.google.com/maps/contrib/107720304667384592831/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKymk7brABo4cnoeUCTl2KCagta8aGBPWtxbq9zEy7dQUrS7A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Fast delivery. Finally get to buy the super yummy Yimei Crunchoco cookies. Bought at a very good price under opening promotion.",
+      "time": 1637815074,
+      "translated": false
+    },
+    {
+      "author_name": "AiPing Lee",
+      "author_url": "https://www.google.com/maps/contrib/103459237726094215485/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4pOFwsyJqmMt-A_KQZsBzKyH_M30GnzkfGSVK-ImpZPAkdeI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very good service",
+      "time": 1676092338,
+      "translated": false
+    },
+    {
+      "author_name": "Wei Chow",
+      "author_url": "https://www.google.com/maps/contrib/112262246700980936752/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3HKkZR_RPwgoJCnaYXH9ePFg0OXIXh_7GfP2YyzzLgWCkBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Amazing experience",
+      "time": 1676196858,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14953473799978703865",
+  "user_ratings_total": 3,
+  "vicinity": "4012 Ang Mo Kio Avenue 10, #02-03"
+}

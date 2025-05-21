@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375265,
+      "lng": 103.740311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376579330291502,
+        "lng": 103.7416478802915
+      },
+      "southwest": {
+        "lat": 1.373881369708498,
+        "lng": 103.7389499197085
+      }
+    }
+  },
+  "name": "Blk 489a",
+  "place_id": "ChIJvcRVytoR2jERvWfMZimbizI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3642175325779814333",
+  "vicinity": "Singapore"
+}

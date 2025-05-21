@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2793746,
+      "lng": 103.8527473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280763030291502,
+        "lng": 103.8541211802915
+      },
+      "southwest": {
+        "lat": 1.278065069708498,
+        "lng": 103.8514232197085
+      }
+    }
+  },
+  "name": "Downtown",
+  "place_id": "ChIJj24D2hEZ2jER-kTuCz6okk8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5733830260037666042",
+  "vicinity": "Singapore"
+}

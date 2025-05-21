@@ -1,0 +1,43 @@
+{
+  "formatted_address": "The Vein Clinic & Surgery 11-08 Paragon, 290 Orchard Road Singapore 238859, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30451,
+      "lng": 103.836184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305680480291502,
+        "lng": 103.8376787302915
+      },
+      "southwest": {
+        "lat": 1.302982519708498,
+        "lng": 103.8349807697085
+      }
+    }
+  },
+  "name": "John Tan Dr",
+  "place_id": "ChIJVQ5qMpIZ2jER9e-7jn2qfA4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jason Lee",
+      "author_url": "https://www.google.com/maps/contrib/100334604544612778384/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDAXJpYZ6zNoEnKMej6F_vAtBvdC6VqmtEhQpEQ_sqHXWGqTc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688836342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1043896669885427701",
+  "user_ratings_total": 1,
+  "vicinity": "The Vein Clinic & Surgery 11-08 Paragon, 290 Orchard Road Singapore 238859"
+}

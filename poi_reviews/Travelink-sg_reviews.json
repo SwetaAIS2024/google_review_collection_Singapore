@@ -1,0 +1,28 @@
+{
+  "formatted_address": "101 Kitchener Road, Jln Besar, #03-16, Singapore 208511",
+  "geometry": {
+    "location": {
+      "lat": 1.3087214,
+      "lng": 103.8581075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.310152230291502,
+        "lng": 103.8595309802915
+      },
+      "southwest": {
+        "lat": 1.307454269708498,
+        "lng": 103.8568330197085
+      }
+    }
+  },
+  "name": "Travelink-sg",
+  "place_id": "ChIJlwsXupQZ2jERrYO1sXVSlPw",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18200262659557131181",
+  "vicinity": "101 Kitchener Road, Jalan Besar, #03-16"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "89 Eastwood Rd, Singapore 486598",
+  "geometry": {
+    "location": {
+      "lat": 1.3223219,
+      "lng": 103.958384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323595180291502,
+        "lng": 103.9597817802915
+      },
+      "southwest": {
+        "lat": 1.320897219708498,
+        "lng": 103.9570838197085
+      }
+    }
+  },
+  "name": "SM.CO",
+  "place_id": "ChIJJfVlj_oj2jER1FCmslhyToY",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9677798374545707220",
+  "vicinity": "89 Eastwood Road"
+}

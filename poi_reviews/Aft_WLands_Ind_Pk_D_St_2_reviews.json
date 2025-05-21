@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.428614,
+      "lng": 103.762268
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.429959830291502,
+        "lng": 103.7636077302915
+      },
+      "southwest": {
+        "lat": 1.427261869708498,
+        "lng": 103.7609097697085
+      }
+    }
+  },
+  "name": "Aft W'Lands Ind Pk D St 2",
+  "place_id": "ChIJ7TYwbUUS2jERe4jZm5h2-gM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Neo",
+      "author_url": "https://www.google.com/maps/contrib/116117641949495586862/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7gMWcc1mFxqKLVq-hvdCR1k3pC9FdCy0mwfhc0tPwr397MYu2YQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Waiting a long period only can get a bus",
+      "time": 1662609518,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=286671924113279099",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

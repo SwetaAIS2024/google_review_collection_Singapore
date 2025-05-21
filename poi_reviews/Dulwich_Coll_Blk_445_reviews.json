@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.351514,
+      "lng": 103.737816
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.352848830291502,
+        "lng": 103.7391174302915
+      },
+      "southwest": {
+        "lat": 1.350150869708498,
+        "lng": 103.7364194697085
+      }
+    }
+  },
+  "name": "Dulwich Coll/Blk 445",
+  "place_id": "ChIJ58bOiyQQ2jERXVJNVDfLtpA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10427745425720955485",
+  "vicinity": "Singapore"
+}

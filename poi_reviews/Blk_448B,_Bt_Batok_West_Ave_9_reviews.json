@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35343,
+      "lng": 103.74089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354730880291502,
+        "lng": 103.7422448802915
+      },
+      "southwest": {
+        "lat": 1.352032919708498,
+        "lng": 103.7395469197085
+      }
+    }
+  },
+  "name": "Blk 448B, Bt Batok West Ave 9",
+  "place_id": "ChIJNXDz0ToQ2jERJZRM6tC8uBI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1349035693867570213",
+  "vicinity": "Singapore"
+}

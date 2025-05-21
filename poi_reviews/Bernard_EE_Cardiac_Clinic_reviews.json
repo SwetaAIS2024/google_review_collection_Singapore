@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.30752,
+      "lng": 103.82035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308926030291502,
+        "lng": 103.8217675802915
+      },
+      "southwest": {
+        "lat": 1.306228069708498,
+        "lng": 103.8190696197085
+      }
+    }
+  },
+  "name": "Bernard EE Cardiac Clinic",
+  "place_id": "ChIJvY5xIiAa2jERrwfIbXjvV2A",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6942280651131848623",
+  "vicinity": "6 Napier Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Tampines Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3615398,
+      "lng": 103.8950631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362928580291502,
+        "lng": 103.8964082802915
+      },
+      "southwest": {
+        "lat": 1.360230619708498,
+        "lng": 103.8937103197085
+      }
+    }
+  },
+  "name": "Hougang Avenue 3 PCN",
+  "place_id": "ChIJs0u_cYQX2jERi4JwtbWz6l0",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6767418983092093579",
+  "vicinity": "Tampines Road"
+}

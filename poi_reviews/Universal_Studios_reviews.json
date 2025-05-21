@@ -1,0 +1,28 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Canopy Flyer, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2540431,
+      "lng": 103.8238082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.255218980291502,
+        "lng": 103.8254935302915
+      },
+      "southwest": {
+        "lat": 1.252521019708498,
+        "lng": 103.8227955697085
+      }
+    }
+  },
+  "name": "Universal Studios",
+  "place_id": "ChIJpeUgeAAZ2jERLK3EsnDFlI4",
+  "types": [
+    "amusement_park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10274053737765186860",
+  "vicinity": "8 Sentosa Gateway, Canopy Flyer, Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "475 Upper Serangoon Cres, Singapore 530475",
+  "geometry": {
+    "location": {
+      "lat": 1.3754906,
+      "lng": 103.9006169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376763030291502,
+        "lng": 103.9018512302915
+      },
+      "southwest": {
+        "lat": 1.374065069708498,
+        "lng": 103.8991532697085
+      }
+    }
+  },
+  "name": "You fu seafood restuarant",
+  "place_id": "ChIJA44bdAAX2jER99dlhGE5PEw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Backyard Xplorer",
+      "author_url": "https://www.google.com/maps/contrib/102260626085916018032/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeAsxA0ZL92WBe1c9egfujwIiv91L1o5erLeWy9caKKn3I8Q5Y=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Local zichar stall. Tried their fried rice, came in big portion. Taste not too bad, just like any fried rice from any zichar stall",
+      "time": 1715689946,
+      "translated": false
+    },
+    {
+      "author_name": "Chin Huat Lee",
+      "author_url": "https://www.google.com/maps/contrib/117318677024889040968/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIi46ne8jXkLsPo7psWl76uPosn8u8VH7o68uzJuWNPpzGQY0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742638464,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5493328736481040375",
+  "user_ratings_total": 2,
+  "vicinity": "475 Upper Serangoon Crescent, Singapore"
+}

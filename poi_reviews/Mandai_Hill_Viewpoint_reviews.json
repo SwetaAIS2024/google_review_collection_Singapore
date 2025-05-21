@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Mandai Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4060864,
+      "lng": 103.7737847
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.407836780291502,
+        "lng": 103.7752908302915
+      },
+      "southwest": {
+        "lat": 1.405138819708498,
+        "lng": 103.7725928697085
+      }
+    }
+  },
+  "name": "Mandai Hill Viewpoint",
+  "place_id": "ChIJE-NDlDoT2jERWnpOvD0SY8E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Constantin Zhukov",
+      "author_url": "https://www.google.com/maps/contrib/108989207217759345404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlYI0ScBJMZ3FjvcV1i2Hdv0M60LSWvubhpQN21b-YjNGIaQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Scenic views of the hills around Mandai and Johor Bahru. Requires a short hike from Mandai Road but the view is rewarding.",
+      "time": 1685854366,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13935001728376011354",
+  "user_ratings_total": 1,
+  "vicinity": "Mandai Road"
+}

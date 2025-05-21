@@ -1,0 +1,44 @@
+{
+  "formatted_address": "735 Jurong West Street 75, Singapore 640735",
+  "geometry": {
+    "location": {
+      "lat": 1.3458533,
+      "lng": 103.7014002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347188030291502,
+        "lng": 103.7027341802915
+      },
+      "southwest": {
+        "lat": 1.344490069708498,
+        "lng": 103.7000362197085
+      }
+    }
+  },
+  "name": "Evelyn's Schoolhouse",
+  "place_id": "ChIJR2Cs9ZUP2jERc9QO64rZMNk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vitha Mani",
+      "author_url": "https://www.google.com/maps/contrib/110053585223778823604/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCTWgB4LPdDbeUKNVThFP0xEMrc2MifGrLN5jcEQZsBfPDL-r6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I like",
+      "time": 1696651423,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15650247895784805491",
+  "user_ratings_total": 1,
+  "vicinity": "735 Jurong West Street 75"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Pasir Ris, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3766779,
+      "lng": 103.9519457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377550980291502,
+        "lng": 103.9531582802915
+      },
+      "southwest": {
+        "lat": 1.374853019708498,
+        "lng": 103.9504603197085
+      }
+    }
+  },
+  "name": "Pasir Ris park carpark B",
+  "place_id": "ChIJi34sTwA92jER9R8VZidlu0U",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5024721029152710645",
+  "vicinity": ""
+}

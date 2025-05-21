@@ -1,0 +1,88 @@
+{
+  "formatted_address": "20 Havelock Rd, Singapore 059765",
+  "geometry": {
+    "location": {
+      "lat": 1.2882882,
+      "lng": 103.8432735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289783430291502,
+        "lng": 103.8444676302915
+      },
+      "southwest": {
+        "lat": 1.287085469708498,
+        "lng": 103.8417696697085
+      }
+    }
+  },
+  "name": "Central Square",
+  "place_id": "ChIJs3oNr74Z2jERL2CxyTQ9bKE",
+  "rating": 2.8,
+  "reviews": [
+    {
+      "author_name": "Cute Love zuly",
+      "author_url": "https://www.google.com/maps/contrib/109305090215729616371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaNKKicFxcHLxLu28oipHIIxR6gfE1SAYgiZflaE2C-uUsrGg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Good place",
+      "time": 1740836305,
+      "translated": false
+    },
+    {
+      "author_name": "Piet Der",
+      "author_url": "https://www.google.com/maps/contrib/102076904607202385033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzNglo1paAyg4fDDjYv0Hr8Kneb4kkcIYz4S6Kk6R8Fibm70nW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Most tenants have moved out",
+      "time": 1696475475,
+      "translated": false
+    },
+    {
+      "author_name": "HM Lee",
+      "author_url": "https://www.google.com/maps/contrib/111584650863076615550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX41AtsgvDT_pTgw3tlxQoXA7jnn-oo6Ed8cpl5SdEaIMAt8JKK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Redevelopment",
+      "time": 1712976247,
+      "translated": false
+    },
+    {
+      "author_name": "Yendong",
+      "author_url": "https://www.google.com/maps/contrib/109503369931527092060/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx3g8e1-o8_JqEtreFHv4VQbPf08rTAk1LG3M03Go4c1o5bQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735664405,
+      "translated": false
+    },
+    {
+      "author_name": "Mahmaradhab Saidaminov",
+      "author_url": "https://www.google.com/maps/contrib/117091503354407417384/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2-OFo0hfNR-Kr1Q3XoZYN7JJzWm4AvK7Zad_wQvVFc43dqw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687554100,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11631739234522587183",
+  "user_ratings_total": 5,
+  "vicinity": "20 Havelock Road, Singapore"
+}

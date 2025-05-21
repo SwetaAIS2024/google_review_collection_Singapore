@@ -1,0 +1,62 @@
+{
+  "formatted_address": "21 Tampines Ave 1 Block 8, Level 3, Unit 43, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.3453525,
+      "lng": 103.9336349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346694580291502,
+        "lng": 103.9349815302915
+      },
+      "southwest": {
+        "lat": 1.343996619708498,
+        "lng": 103.9322835697085
+      }
+    }
+  },
+  "name": "School of Applied Science",
+  "place_id": "ChIJsyKXvVE92jERJx5CNRi4DB0",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Caden Liang",
+      "author_url": "https://www.google.com/maps/contrib/112045029130420822154/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtg1vs4g9gZk7nD1o6ARWykGtokbddwMWoioStHNkxi2HOYpb3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739529483,
+      "translated": false
+    },
+    {
+      "author_name": "Teo Beng Teck Vincent",
+      "author_url": "https://www.google.com/maps/contrib/118289423235494961518/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ76bhj0tp6aQOpyNZ-bN34hsFybwMHwFZ7EikO148_7QHNhQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1633667544,
+      "translated": false
+    },
+    {
+      "author_name": "Lai Lai",
+      "author_url": "https://www.google.com/maps/contrib/102238014567557166700/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGikGAPRKwrUmv2sePopzjbVcLlw8iz1tl-L-fBvvhnmGI9g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1627023761,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2093250340932689447",
+  "user_ratings_total": 3,
+  "vicinity": "21 Tampines Ave 1 Block 8, Level 3, Unit 43"
+}

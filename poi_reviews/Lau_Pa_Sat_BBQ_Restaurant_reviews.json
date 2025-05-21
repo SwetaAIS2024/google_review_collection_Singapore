@@ -1,0 +1,75 @@
+{
+  "formatted_address": "418 Northshore Dr, #02-07/08/09 Northshore Plaza II, Singapore 820418",
+  "geometry": {
+    "location": {
+      "lat": 1.4176931,
+      "lng": 103.9011355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418849230291502,
+        "lng": 103.9026673802915
+      },
+      "southwest": {
+        "lat": 1.416151269708498,
+        "lng": 103.8999694197085
+      }
+    }
+  },
+  "name": "Lau Pa Sat BBQ Restaurant",
+  "place_id": "ChIJSVOoaQAV2jERAfJDV0rB0qs",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "小幸运",
+      "author_url": "https://www.google.com/maps/contrib/117240615253972460131/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCTw0_DQ2Vrdw6945qs2y3waepvzt2_BMFiKrUldiJZkTsIV-Z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "Waiting time is too long for one dish (waited around 40 min), stall is prioritising too much on grab delivery orders.",
+      "time": 1727000914,
+      "translated": false
+    },
+    {
+      "author_name": "Jia Xin Soh",
+      "author_url": "https://www.google.com/maps/contrib/106493307371338579559/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkr9fvaAHmhaDaBZMWier5uWjr7RtGqXfAAahXVfVOjkVPp7Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723156625,
+      "translated": false
+    },
+    {
+      "author_name": "Ishwarii",
+      "author_url": "https://www.google.com/maps/contrib/104947107224214022029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjJaq3HsEXZOTdDL5P3wc9V7sQ5THu1sZ_LvpT7sgXgxrimKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723156542,
+      "translated": false
+    },
+    {
+      "author_name": "Nina Afiqah",
+      "author_url": "https://www.google.com/maps/contrib/110939599571927348935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrmx9cbx84wk4go2hQM-eyDsJtHOyMXWDtbIFuuwyjr84KNp8Zzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723157291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12381170850630726145",
+  "user_ratings_total": 4,
+  "vicinity": "418 Northshore Drive, #02-07/08/09 Northshore Plaza II"
+}

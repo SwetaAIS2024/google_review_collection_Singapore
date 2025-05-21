@@ -1,0 +1,41 @@
+{
+  "formatted_address": "4 Tuas Drive 2, Singapore 638638",
+  "geometry": {
+    "location": {
+      "lat": 1.3229322,
+      "lng": 103.6559753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324421530291502,
+        "lng": 103.6571749302915
+      },
+      "southwest": {
+        "lat": 1.321723569708498,
+        "lng": 103.6544769697085
+      }
+    }
+  },
+  "name": "AVA Global Pte Ltd",
+  "place_id": "ChIJwaP8ePQF2jERCBoWCrUvZwY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Benjamin Alphonse",
+      "author_url": "https://www.google.com/maps/contrib/116432731962961968094/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZZJP5bVmsqRd9FPQ8pLbrXR0cVDhImzIrz-qnKW_4ycFbyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738860102,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=461389941433571848",
+  "user_ratings_total": 1,
+  "vicinity": "4 Tuas Drive 2, Singapore"
+}

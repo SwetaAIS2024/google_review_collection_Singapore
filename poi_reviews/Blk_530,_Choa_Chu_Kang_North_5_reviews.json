@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39293,
+      "lng": 103.74212
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.394298230291502,
+        "lng": 103.7434699802915
+      },
+      "southwest": {
+        "lat": 1.391600269708498,
+        "lng": 103.7407720197085
+      }
+    }
+  },
+  "name": "Blk 530, Choa Chu Kang North 5",
+  "place_id": "ChIJz-GqIfAR2jERxBSeZ32QD4U",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9588040999978800324",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379888,
+      "lng": 103.772331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381455980291502,
+        "lng": 103.7736603802915
+      },
+      "southwest": {
+        "lat": 1.378758019708498,
+        "lng": 103.7709624197085
+      }
+    }
+  },
+  "name": "Opp Bangkit Stn",
+  "place_id": "ChIJ4a4QHqER2jER1tPrTyGeSMM",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Alex Ng",
+      "author_url": "https://www.google.com/maps/contrib/102597027232989037272/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpvaVMz3DpSUY518Ap4LHivgc_3lrTBG5nc4x-2sPeaC5ggkFKOw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486174999,
+      "translated": false
+    },
+    {
+      "author_name": "jane wong",
+      "author_url": "https://www.google.com/maps/contrib/107875226874166039968/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZKOmGGNst7Ed9zQuK-WArBhCyn4xSUuRBDeYZbE-B4jx_pva-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483443445,
+      "translated": false
+    },
+    {
+      "author_name": "sherly soh",
+      "author_url": "https://www.google.com/maps/contrib/110370477661730866203/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcREKzvbVvm4do8n4RoErKxRLQEghD1_ZlZuUMJdxL1z4DLA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478928389,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14071670901631079382",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

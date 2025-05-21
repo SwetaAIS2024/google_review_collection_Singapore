@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Choa Chu Kang North 6, Basement 1, Singapore 689578",
+  "geometry": {
+    "location": {
+      "lat": 1.39729,
+      "lng": 103.74655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398665580291502,
+        "lng": 103.7479360802915
+      },
+      "southwest": {
+        "lat": 1.395967619708498,
+        "lng": 103.7452381197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Yew Tee Point",
+  "place_id": "ChIJhVd6yK0R2jERgZnAZsDlr80",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14821317513219971457",
+  "vicinity": "21 Choa Chu Kang North 6, Basement 1"
+}

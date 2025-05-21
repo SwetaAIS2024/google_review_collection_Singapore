@@ -1,0 +1,66 @@
+{
+  "formatted_address": "1 Irving Pl, #01-25, Singapore 369546",
+  "geometry": {
+    "location": {
+      "lat": 1.3361782,
+      "lng": 103.8864248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337618030291502,
+        "lng": 103.8875204802915
+      },
+      "southwest": {
+        "lat": 1.334920069708498,
+        "lng": 103.8848225197085
+      }
+    }
+  },
+  "name": "Tao Hua Zui",
+  "place_id": "ChIJd523RakX2jEROF6hNmpc88U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "tingting zhou",
+      "author_url": "https://www.google.com/maps/contrib/118133158779788645018/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk-TOUpFSpg2PcM9EWAsnnNZOCEDK3Xe4HCFCJPlBMTrWVmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "After being in the hustle and bustle of the city for a long time, I am increasingly longing for a corner where my soul can rest. It is very close to the subway station 🚇 and has convenient transportation. You can have a drink and relax at any time. It’s perfect for a get-together with friends.",
+      "time": 1745228941,
+      "translated": true
+    },
+    {
+      "author_name": "Lim Kah Hoo",
+      "author_url": "https://www.google.com/maps/contrib/118378024687329266117/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC7s-D4EyahAT0pn0KG2uheSo21vp5E3jCno3aZoIW1BKdTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Fun",
+      "time": 1745167160,
+      "translated": true
+    },
+    {
+      "author_name": "IS_CLAY IS_CLAY",
+      "author_url": "https://www.google.com/maps/contrib/110983896301868101585/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjRxGcZ7YgtxD_BcjkiS9JIzKQwG_SuWJ371kUSoACYR2p-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745167138,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14263846056065326648",
+  "user_ratings_total": 3,
+  "vicinity": "1 Irving Place, #01-25"
+}

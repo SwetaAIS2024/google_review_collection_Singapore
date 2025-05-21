@@ -1,0 +1,29 @@
+{
+  "formatted_address": "301 Boon Lay Wy, #01-15 SMRT Station, Singapore 649846",
+  "geometry": {
+    "location": {
+      "lat": 1.3383863,
+      "lng": 103.7058398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339557980291502,
+        "lng": 103.7071855302915
+      },
+      "southwest": {
+        "lat": 1.336860019708498,
+        "lng": 103.7044875697085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Boon Lay MRT",
+  "place_id": "ChIJO6Ziz9kP2jER8_O-bm3BqpQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10712587339407750131",
+  "vicinity": "301 Boon Lay Way, #01-15 SMRT Station"
+}

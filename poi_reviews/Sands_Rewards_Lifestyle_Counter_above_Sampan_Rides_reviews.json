@@ -1,0 +1,54 @@
+{
+  "formatted_address": "The Shoppes, B1, 10 Bayfront Ave, Marina Bay Sands, Singapore 018956",
+  "geometry": {
+    "location": {
+      "lat": 1.2837742,
+      "lng": 103.8591946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285293480291502,
+        "lng": 103.86114275
+      },
+      "southwest": {
+        "lat": 1.282595519708498,
+        "lng": 103.85828215
+      }
+    }
+  },
+  "name": "Sands Rewards Lifestyle Counter (above Sampan Rides)",
+  "place_id": "ChIJg1KokxgZ2jERyhkL4J1XOHQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ryan Shine",
+      "author_url": "https://www.google.com/maps/contrib/101897068898465635453/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVO6kLCCEvUZ6EyEj-W6j_qvxapUw-Jgkw-YRdQm9nJDiPg6z9=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Very good service.",
+      "time": 1539522698,
+      "translated": false
+    },
+    {
+      "author_name": "Mahendra Gupta",
+      "author_url": "https://www.google.com/maps/contrib/103912053147260131631/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtbTy7XdZYN3_XXlPcSSMLlN0PxFW8DhuwOaN4_RwTCHuFFQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747373762,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8374539842675743178",
+  "user_ratings_total": 2,
+  "vicinity": "The Shoppes, B1, 10 Bayfront Avenue, Marina Bay Sands"
+}

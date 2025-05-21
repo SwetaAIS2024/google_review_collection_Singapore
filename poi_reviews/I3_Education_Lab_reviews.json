@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Eunos Rd 8, Singapore 408600",
+  "geometry": {
+    "location": {
+      "lat": 1.319304,
+      "lng": 103.8948134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320719180291502,
+        "lng": 103.8961529802915
+      },
+      "southwest": {
+        "lat": 1.318021219708498,
+        "lng": 103.8934550197085
+      }
+    }
+  },
+  "name": "I3 Education Lab",
+  "place_id": "ChIJS2blUBgY2jERKnv9JYCEoEA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ezs-nij ezsnij",
+      "author_url": "https://www.google.com/maps/contrib/117363383366641687594/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0lo3qNeDPuaDQZZLqzhhxlXqyE008Q9VHB_mVgqrXFJNPDnmE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569684169,
+      "translated": false
+    }
+  ],
+  "types": [
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4656867700629142314",
+  "user_ratings_total": 1,
+  "vicinity": "10 Eunos Road 8"
+}

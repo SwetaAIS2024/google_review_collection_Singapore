@@ -1,0 +1,28 @@
+{
+  "formatted_address": "690 Upper Changi Rd E, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3424326,
+      "lng": 103.9614832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343765480291502,
+        "lng": 103.9628870802915
+      },
+      "southwest": {
+        "lat": 1.341067519708498,
+        "lng": 103.9601891197085
+      }
+    }
+  },
+  "name": "Upper Changi (Dt34)",
+  "place_id": "ChIJF3Mnnd882jERVcNAyFEyP5g",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10970542544131244885",
+  "vicinity": "690 Upper Changi Road East"
+}

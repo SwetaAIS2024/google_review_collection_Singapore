@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Bef, Ind Pk 2a, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3768247,
+      "lng": 103.8668848
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378165430291502,
+        "lng": 103.8682868802915
+      },
+      "southwest": {
+        "lat": 1.375467469708498,
+        "lng": 103.8655889197085
+      }
+    }
+  },
+  "name": "妹记大排档",
+  "place_id": "ChIJG-ZAttQX2jEReDEpuqohFDg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Min Thu",
+      "author_url": "https://www.google.com/maps/contrib/115739605408742156807/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDjNBKd4Ha2FLuFkbGSVAAAuSfri1ygpQGukIZb0pxbIGiYxVcig=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Mala is Cheap and nice. I can eat Maximum spicy level. One person for 6 dollars.",
+      "time": 1682484083,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4040891782809596280",
+  "user_ratings_total": 1,
+  "vicinity": "Bef, Ind Pk 2a"
+}

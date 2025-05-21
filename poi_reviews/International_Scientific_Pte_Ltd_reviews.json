@@ -1,0 +1,41 @@
+{
+  "formatted_address": "33 Tanjong Penjuru, Singapore 609029",
+  "geometry": {
+    "location": {
+      "lat": 1.305262,
+      "lng": 103.7373339
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306962630291502,
+        "lng": 103.7385504302915
+      },
+      "southwest": {
+        "lat": 1.304264669708498,
+        "lng": 103.7358524697085
+      }
+    }
+  },
+  "name": "International Scientific (Pte) Ltd",
+  "place_id": "ChIJafOkAcka2jERI0nHITSmDl8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "James HO",
+      "author_url": "https://www.google.com/maps/contrib/109223800025383170610/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNAtmb033rNlnjWl7jF0ppov6B_SOqwRqOcAbRIkOSvR9fiAk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581405238,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6849594826112321827",
+  "user_ratings_total": 1,
+  "vicinity": "33 Tanjong Penjuru, Singapore"
+}

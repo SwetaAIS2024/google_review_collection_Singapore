@@ -1,0 +1,64 @@
+{
+  "formatted_address": "NYP, Ang Mo Kio Ave 9, Singapore 569830",
+  "geometry": {
+    "location": {
+      "lat": 1.3797189,
+      "lng": 103.8473508
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381255180291502,
+        "lng": 103.8486902302915
+      },
+      "southwest": {
+        "lat": 1.378557219708498,
+        "lng": 103.8459922697085
+      }
+    }
+  },
+  "name": "Body Watch Gym",
+  "place_id": "ChIJw3BjA80X2jER7HlBicm5uGo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ashton Chan",
+      "author_url": "https://www.google.com/maps/contrib/108289978974978439060/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYJH2QSMVp5kLMayRCxZmtDltPiupQ6mK4hkG5ee9HAbHyBu7-=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "10 months ago",
+      "text": "How come the gym empty",
+      "time": 1721019146,
+      "translated": false
+    },
+    {
+      "author_name": "evangel woohoo",
+      "author_url": "https://www.google.com/maps/contrib/105629680196982528792/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8hZLqDhWJvnYiWg-dPck9COVQJyh_tRqUqpfbLC4Ig_iFsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745830472,
+      "translated": false
+    },
+    {
+      "author_name": "Rem-Chan",
+      "author_url": "https://www.google.com/maps/contrib/107812562069277895148/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWhwKi9gnN8mrBncASRmgvSYdn4TqP9uJ6cO0HUzmhlNw6SoXFsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739842277,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7690100638977456620",
+  "user_ratings_total": 3,
+  "vicinity": "NYP, Ang Mo Kio Avenue 9"
+}

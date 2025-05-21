@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Lor 1 Toa Payoh, #01-819 Block 128, Singapore 310128",
+  "geometry": {
+    "location": {
+      "lat": 1.3380559,
+      "lng": 103.844441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339634930291502,
+        "lng": 103.8456998302915
+      },
+      "southwest": {
+        "lat": 1.336936969708498,
+        "lng": 103.8430018697085
+      }
+    }
+  },
+  "name": "UOB ATM - Lorong 1 Toa Payoh",
+  "place_id": "ChIJHe1r1rgX2jERU_IRHb_SjYM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9479464508953064019",
+  "vicinity": "Lorong 1 Toa Payoh, #01-819 Block 128"
+}

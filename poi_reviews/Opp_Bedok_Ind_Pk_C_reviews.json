@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338047,
+      "lng": 103.916191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339342080291502,
+        "lng": 103.9175508302915
+      },
+      "southwest": {
+        "lat": 1.336644119708498,
+        "lng": 103.9148528697085
+      }
+    }
+  },
+  "name": "Opp Bedok Ind Pk C",
+  "place_id": "ChIJf9Yj9Fg92jERmp5PAfPBWDA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Min Man",
+      "author_url": "https://www.google.com/maps/contrib/106479348792239326568/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNhB3KzmG7-Z5FUT2o_thPEUCOnuqPw9jU3eSkUksvURb1Uw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "this bus stop is at an empty space which makes it look magical at dawn and sunset",
+      "time": 1716539155,
+      "translated": false
+    },
+    {
+      "author_name": "Amit Pandey",
+      "author_url": "https://www.google.com/maps/contrib/108150202931243454214/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk2S_xOSwgwbvO9FAUETm1T6bDY2K7Xz44iOLv4B6q_xoOS5AEkg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499468821,
+      "translated": false
+    },
+    {
+      "author_name": "Alan Tan",
+      "author_url": "https://www.google.com/maps/contrib/117096313632166229830/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQfUHkLtHwspMnpLz9RlBEm0GAQJccIYVbZ1unsnnRtL7ZpA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489829619,
+      "translated": false
+    },
+    {
+      "author_name": "TAN KC",
+      "author_url": "https://www.google.com/maps/contrib/112661219182389677473/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvTK0k1PlUyyWc6mGixLUAv699tdLgYJZK7-p761JLV2J7U0om=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483361693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3483747561214287514",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

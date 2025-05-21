@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39931,
+      "lng": 103.91668
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400682280291502,
+        "lng": 103.9180456302915
+      },
+      "southwest": {
+        "lat": 1.397984319708498,
+        "lng": 103.9153476697085
+      }
+    }
+  },
+  "name": "Blk 641C (Kadaloor Stn exit B), Punggol Dr",
+  "place_id": "ChIJF6fDr_892jERI9kilEhhgFE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5872800878441978147",
+  "vicinity": "Singapore"
+}

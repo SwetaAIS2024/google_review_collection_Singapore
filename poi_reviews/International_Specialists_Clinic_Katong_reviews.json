@@ -1,0 +1,30 @@
+{
+  "formatted_address": "112 E Coast Rd, #03-03/04, Singapore 428802",
+  "geometry": {
+    "location": {
+      "lat": 1.3052002,
+      "lng": 103.9050645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306644380291502,
+        "lng": 103.9065360302915
+      },
+      "southwest": {
+        "lat": 1.303946419708498,
+        "lng": 103.9038380697085
+      }
+    }
+  },
+  "name": "International Specialists Clinic (Katong)",
+  "place_id": "ChIJYcy7kIIZ2jERArReWMj98u0",
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17146045768270787586",
+  "vicinity": "112 East Coast Road, #03-03/04"
+}

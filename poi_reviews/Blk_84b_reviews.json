@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3355355,
+      "lng": 103.8466184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336846530291502,
+        "lng": 103.8479330302915
+      },
+      "southwest": {
+        "lat": 1.334148569708498,
+        "lng": 103.8452350697085
+      }
+    }
+  },
+  "name": "Blk 84b",
+  "place_id": "ChIJ_zBe22cX2jERnJeaITmvBeI",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16286616287367042972",
+  "vicinity": "Singapore"
+}

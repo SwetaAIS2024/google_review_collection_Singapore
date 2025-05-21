@@ -1,0 +1,29 @@
+{
+  "formatted_address": "171B Edgedale Plains, Singapore 822171",
+  "geometry": {
+    "location": {
+      "lat": 1.3984254,
+      "lng": 103.9132309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399774380291502,
+        "lng": 103.9145798802915
+      },
+      "southwest": {
+        "lat": 1.397076419708498,
+        "lng": 103.9118819197085
+      }
+    }
+  },
+  "name": "Salarasa Resto",
+  "place_id": "ChIJt5wloNAX2jER_LwqVWLVsoc",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9778112359287143676",
+  "vicinity": "171B Edgedale Plains"
+}

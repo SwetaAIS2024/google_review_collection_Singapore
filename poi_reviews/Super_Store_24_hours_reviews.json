@@ -1,0 +1,54 @@
+{
+  "formatted_address": "balestier point, Singapore 329727",
+  "geometry": {
+    "location": {
+      "lat": 1.3228218,
+      "lng": 103.8521195
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324205130291502,
+        "lng": 103.8535432802915
+      },
+      "southwest": {
+        "lat": 1.321507169708498,
+        "lng": 103.8508453197085
+      }
+    }
+  },
+  "name": "Super Store 24 hours",
+  "place_id": "ChIJsVa3dY0Z2jER0BE2-CXFPQs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chong Zee fong",
+      "author_url": "https://www.google.com/maps/contrib/102673500146636336162/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-530rgoe8OwXYxe9lFHURhutUOwl8ntZTOJXoWagKx29F7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736335901,
+      "translated": false
+    },
+    {
+      "author_name": "Nicoll Alexander",
+      "author_url": "https://www.google.com/maps/contrib/109867987599064486735/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxp8CMyyuFzgyEfEQMBE7OOiBNJ6QTddrjmCLIQ66yuGh4sCbP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1660564394,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=810020274865312208",
+  "user_ratings_total": 2,
+  "vicinity": "balestier point"
+}

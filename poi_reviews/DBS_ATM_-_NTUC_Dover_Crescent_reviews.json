@@ -1,0 +1,55 @@
+{
+  "formatted_address": "28 Dover Cres, Singapore 130028",
+  "geometry": {
+    "location": {
+      "lat": 1.3049107,
+      "lng": 103.7814441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306204780291502,
+        "lng": 103.7827021302915
+      },
+      "southwest": {
+        "lat": 1.303506819708498,
+        "lng": 103.7800041697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Dover Crescent",
+  "place_id": "ChIJYTkgRw0b2jERe91x0fYm_Y8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Khun C",
+      "author_url": "https://www.google.com/maps/contrib/113032638184818514755/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp8IBx4PXyko5rVdDukG3ru51HoJq1wNWCOhcAfWlF7hiSQLmUpA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "While it says DBS, it is actually a POSB ATM which is the same as DBS anyway.",
+      "time": 1619362008,
+      "translated": false
+    },
+    {
+      "author_name": "Divya Anandganesh",
+      "author_url": "https://www.google.com/maps/contrib/107454416844900206555/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvDpXgQiuUYBX-nIS3upnAjNaD2g9CNTmufi9N8ruddvu2zVk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547051161,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10375491958049201531",
+  "user_ratings_total": 2,
+  "vicinity": "28 Dover Crescent, Singapore"
+}

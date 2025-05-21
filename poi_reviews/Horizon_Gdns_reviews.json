@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.376844,
+      "lng": 103.834839
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378209030291502,
+        "lng": 103.8361747802915
+      },
+      "southwest": {
+        "lat": 1.375511069708498,
+        "lng": 103.8334768197085
+      }
+    }
+  },
+  "name": "Horizon Gdns",
+  "place_id": "ChIJGVGqv8UW2jERt_zymwb7ymU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7334950948931042487",
+  "vicinity": "Singapore"
+}

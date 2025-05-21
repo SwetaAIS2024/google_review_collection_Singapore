@@ -1,0 +1,30 @@
+{
+  "formatted_address": "11 Sin Ming Rd, Singapore 575629",
+  "geometry": {
+    "location": {
+      "lat": 1.3534784,
+      "lng": 103.835597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354679430291502,
+        "lng": 103.8370805302915
+      },
+      "southwest": {
+        "lat": 1.351981469708498,
+        "lng": 103.8343825697085
+      }
+    }
+  },
+  "name": "Pandelicious Everyday",
+  "place_id": "ChIJsZyB5DoX2jERxiK_P58txUw",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5531877879287063238",
+  "vicinity": "11 Sin Ming Road"
+}

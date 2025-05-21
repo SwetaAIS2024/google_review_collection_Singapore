@@ -1,0 +1,45 @@
+{
+  "formatted_address": "88 Neil Rd, Singapore 088848",
+  "geometry": {
+    "location": {
+      "lat": 1.2795179,
+      "lng": 103.8422112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280840630291502,
+        "lng": 103.8435895302915
+      },
+      "southwest": {
+        "lat": 1.278142669708498,
+        "lng": 103.8408915697085
+      }
+    }
+  },
+  "name": "Sevenn",
+  "place_id": "ChIJ6yuvHAAZ2jER5BpbtiK6oug",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "MoneyNoProb RS",
+      "author_url": "https://www.google.com/maps/contrib/110308948866805705812/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrZ0c8yiMpPoGMQqPyRMugu1_Aj8D5jOOumxSUm6CJt6dWuw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "There isn't any food available here but they have really good prices for drinks and beautiful singers too!! 100% a hidden gem and would definitely come again anytime.",
+      "time": 1736083579,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16763165421277485796",
+  "user_ratings_total": 1,
+  "vicinity": "88 Neil Road"
+}

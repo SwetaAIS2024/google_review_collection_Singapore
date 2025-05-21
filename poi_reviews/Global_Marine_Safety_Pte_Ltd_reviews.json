@@ -1,0 +1,41 @@
+{
+  "formatted_address": "6 Gul Street 3, Singapore 629264",
+  "geometry": {
+    "location": {
+      "lat": 1.319024,
+      "lng": 103.6665668
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320387680291502,
+        "lng": 103.6680231802915
+      },
+      "southwest": {
+        "lat": 1.317689719708498,
+        "lng": 103.6653252197085
+      }
+    }
+  },
+  "name": "Global Marine Safety Pte Ltd",
+  "place_id": "ChIJHZfvPY4F2jERIcs1yW3WC0s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SERKAN KAMBER",
+      "author_url": "https://www.google.com/maps/contrib/102359302744478070032/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp1rT0d3JtWkckECvgKryMAhY4m-kLWbAalKKObB569nMZIsNK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539597121,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5407651544603937569",
+  "user_ratings_total": 1,
+  "vicinity": "6 Gul Street 3, Singapore"
+}

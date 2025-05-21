@@ -1,0 +1,27 @@
+{
+  "formatted_address": "40M E Coast Rd, Singapore 428760",
+  "geometry": {
+    "location": {
+      "lat": 1.3037656,
+      "lng": 103.903392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305123030291502,
+        "lng": 103.9047575802915
+      },
+      "southwest": {
+        "lat": 1.302425069708498,
+        "lng": 103.9020596197085
+      }
+    }
+  },
+  "name": "OZ VISA",
+  "place_id": "ChIJbYOlC3IY2jER-o1K7I1COEc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5131924952710811130",
+  "vicinity": "40M East Coast Road"
+}

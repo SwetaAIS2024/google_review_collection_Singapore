@@ -1,0 +1,64 @@
+{
+  "formatted_address": "3 Temasek Blvd, #03-309, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.295825,
+      "lng": 103.8587866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297394930291502,
+        "lng": 103.8602203302915
+      },
+      "southwest": {
+        "lat": 1.294696969708498,
+        "lng": 103.8575223697085
+      }
+    }
+  },
+  "name": "VOX",
+  "place_id": "ChIJ8yaCMo0Z2jER8dK9YLOJHIM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Victor Yeap",
+      "author_url": "https://www.google.com/maps/contrib/115215550790904657992/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9sHRcCF-sJuocvqKBLICgnX6h58d-v98FxXjPkE5Ncltcjraj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Park b1\ntower 5 Lobby M5\nPurple zone.\nThen take lift to level 3 sky garden\nExit lift turn left go straight and u will see vox",
+      "time": 1742559916,
+      "translated": false
+    },
+    {
+      "author_name": "samuel toh",
+      "author_url": "https://www.google.com/maps/contrib/105654536132508015705/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvXJflhAKR0_yMRfmJOyeukHTFfYrRPyJvlDjNWqb0fevfH4Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736026567,
+      "translated": false
+    },
+    {
+      "author_name": "Quek Han Jun",
+      "author_url": "https://www.google.com/maps/contrib/106044771667079095861/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqt5DZrAsnxr832WqQv3KoPaOYPsnjVaQAspBfuYIod-lGlLvM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730636603,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9447577521831662321",
+  "user_ratings_total": 3,
+  "vicinity": "3 Temasek Boulevard, #03-309"
+}

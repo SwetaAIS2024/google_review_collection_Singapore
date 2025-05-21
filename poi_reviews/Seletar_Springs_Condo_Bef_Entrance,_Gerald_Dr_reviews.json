@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38722,
+      "lng": 103.87836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388558080291502,
+        "lng": 103.8796898302915
+      },
+      "southwest": {
+        "lat": 1.385860119708498,
+        "lng": 103.8769918697085
+      }
+    }
+  },
+  "name": "Seletar Springs Condo (Bef Entrance), Gerald Dr",
+  "place_id": "ChIJPRxkCmYW2jERMwWUtZB2mek",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Heng You Chan",
+      "author_url": "https://www.google.com/maps/contrib/103207671117328127109/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1kZ2zFPNeS_fstizcqY45Pxgi3jNgqvSlDiT2tlhiIfQmZgg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "seves residents of condo and landed housing",
+      "time": 1740663503,
+      "translated": false
+    },
+    {
+      "author_name": "Prabhuraj Reddy",
+      "author_url": "https://www.google.com/maps/contrib/106149044077752988796/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzex9eBBQw4RVGGdQDd8DFULGwQ-BqIXAMHHs4C9cfaUwEe6np=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Looking forward for it",
+      "time": 1743142718,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16832615446167684403",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

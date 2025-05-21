@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Mount Alvernia Hospital, Annexe A, Thomson Rd, #01-01/02 820, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3416368,
+      "lng": 103.8372638
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342935330291502,
+        "lng": 103.8386234802915
+      },
+      "southwest": {
+        "lat": 1.340237369708498,
+        "lng": 103.8359255197085
+      }
+    }
+  },
+  "name": "Nobel Diabetic Foot Care (Mt Alvernia)",
+  "place_id": "ChIJOfPm4HUX2jERfFvG8CiT3hA",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1215570753484118908",
+  "vicinity": "Mount Alvernia Hospital, Annexe A, Thomson Road, #01-01/02 820"
+}

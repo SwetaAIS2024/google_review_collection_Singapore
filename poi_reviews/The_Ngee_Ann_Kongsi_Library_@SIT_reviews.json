@@ -1,0 +1,44 @@
+{
+  "formatted_address": "10 Dover Dr, Singapore 138683",
+  "geometry": {
+    "location": {
+      "lat": 1.3004846,
+      "lng": 103.7806052
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301969730291502,
+        "lng": 103.7820411802915
+      },
+      "southwest": {
+        "lat": 1.299271769708498,
+        "lng": 103.7793432197085
+      }
+    }
+  },
+  "name": "The Ngee Ann Kongsi Library @SIT",
+  "place_id": "ChIJbURpe_Ab2jERtE10Rb38Dbc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chandra sekar Veerappan",
+      "author_url": "https://www.google.com/maps/contrib/104188291431423336441/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1FMyXWlf7HzYtn45yj1iVoiUiSTmA6usC9hCxLGcKP8iVSNk6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Excellent place to learn !!  Staff support  is good :)",
+      "time": 1554372618,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13190476773482319284",
+  "user_ratings_total": 1,
+  "vicinity": "10 Dover Drive"
+}

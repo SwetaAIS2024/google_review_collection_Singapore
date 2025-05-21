@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 65 Airport Boulevard, South Central, Terminal 3 Departure Transit Lounge, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555805,
+      "lng": 103.9861962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356526380291502,
+        "lng": 103.9876359802915
+      },
+      "southwest": {
+        "lat": 1.353828419708498,
+        "lng": 103.9849380197085
+      }
+    }
+  },
+  "name": "UOB ATM - Changi Airport Terminal 3 - Departure Transit Lounge South Central",
+  "place_id": "ChIJLS2IZoM92jERLEY0xRGFFtc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15498721479011616300",
+  "vicinity": "No. 65 Airport Boulevard, South Central, Terminal 3 Departure Transit Lounge"
+}

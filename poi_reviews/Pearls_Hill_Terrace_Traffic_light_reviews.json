@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Pearl's Hill Terrace, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.283151,
+      "lng": 103.841252
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284511980291502,
+        "lng": 103.8425806302915
+      },
+      "southwest": {
+        "lat": 1.281814019708498,
+        "lng": 103.8398826697085
+      }
+    }
+  },
+  "name": "Pearl's Hill Terrace Traffic light",
+  "place_id": "ChIJFQl8JQAZ2jERYQUr4wfz1s8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Pearl's Hill Terrace is a peculiar road.\nIt's a one lane, but 2 way vehicle traffic road that is controlled by two co-ordinated traffic light.\nThe traffic light control allow vehicle traffic to go up or down, one way at a time.\nSo far, this is the only known one in Singapore.",
+      "time": 1708231059,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14976424826068731233",
+  "user_ratings_total": 1,
+  "vicinity": "Pearl's Hill Terrace"
+}

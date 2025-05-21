@@ -1,0 +1,45 @@
+{
+  "formatted_address": "9 Toa Payoh Industrial Park, Singapore 319061",
+  "geometry": {
+    "location": {
+      "lat": 1.3367708,
+      "lng": 103.8601228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338023580291502,
+        "lng": 103.8615099302915
+      },
+      "southwest": {
+        "lat": 1.335325619708498,
+        "lng": 103.8588119697085
+      }
+    }
+  },
+  "name": "Fishermans Wharf Pte Ltd",
+  "place_id": "ChIJOWdU53AX2jERR4dN3Q5f2So",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "MC Liu",
+      "author_url": "https://www.google.com/maps/contrib/100088785733373347934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7GSIO2o5n1us21ap-2vP4i7XTvQhcaGbuQnv0aeHtccjNa1A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Cheap and good ZiChar place...",
+      "time": 1557974691,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3087603536986212167",
+  "user_ratings_total": 1,
+  "vicinity": "9 Toa Payoh Industrial Park, Singapore"
+}

@@ -1,0 +1,80 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3168359,
+      "lng": 103.7615409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318161280291502,
+        "lng": 103.7629478302915
+      },
+      "southwest": {
+        "lat": 1.315463319708498,
+        "lng": 103.7602498697085
+      }
+    }
+  },
+  "name": "Regent Pk",
+  "place_id": "ChIJbw1SbpAa2jERuYcoeBReXSQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bochup",
+      "author_url": "https://www.google.com/maps/contrib/110006381122816391678/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMdWCpY9ipkQhiXJH_t6PXoFJtXLwg25imz7fak89ZHKodhHk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Great floor plan with no wasted space but an old condo with limited facilities.",
+      "time": 1657117891,
+      "translated": false
+    },
+    {
+      "author_name": "Shwu Tyng Loh",
+      "author_url": "https://www.google.com/maps/contrib/100288332558516053255/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQyMnvHs3qB0HSq5IxNuPMLqKJHUq25hAmuf4brRVhN9MD1z0W=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "No food place near this condominium",
+      "time": 1664029895,
+      "translated": false
+    },
+    {
+      "author_name": "Amit Morya",
+      "author_url": "https://www.google.com/maps/contrib/117342844954713077546/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSs2syVbeIUSe4hnAdMUlacH6ddNL3ykk967YA_3MibfW8e9Lmhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Covered walkway to Regent Park and other side of the road.",
+      "time": 1537527505,
+      "translated": false
+    },
+    {
+      "author_name": "SL M",
+      "author_url": "https://www.google.com/maps/contrib/100038477702587830233/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXURbepXd4d_yc_z7ruPUNjSGxWOb9R7jdJHUbpX_34U2xuLp4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Go to school",
+      "time": 1709703035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2620354000207775673",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

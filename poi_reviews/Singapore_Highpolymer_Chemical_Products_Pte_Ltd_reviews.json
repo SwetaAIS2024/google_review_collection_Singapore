@@ -1,0 +1,43 @@
+{
+  "formatted_address": "21 Tanjong Penjuru, Singapore 609022",
+  "geometry": {
+    "location": {
+      "lat": 1.3063573,
+      "lng": 103.7364386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307604480291502,
+        "lng": 103.7377635302915
+      },
+      "southwest": {
+        "lat": 1.304906519708498,
+        "lng": 103.7350655697085
+      }
+    }
+  },
+  "name": "Singapore Highpolymer Chemical Products Pte Ltd",
+  "place_id": "ChIJyT_euska2jER7dQQKMq_sM8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Simon Lin",
+      "author_url": "https://www.google.com/maps/contrib/111536027236292199648/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWx7OX1wHyyWhZY8zy0NHx8TnJAh4Sdh9evhQEbhUfeaFifQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Most socially-conscious chemical company in Singapore!",
+      "time": 1562218344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14965672436728648941",
+  "user_ratings_total": 1,
+  "vicinity": "21 Tanjong Penjuru, Singapore"
+}

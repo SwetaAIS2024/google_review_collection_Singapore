@@ -1,0 +1,54 @@
+{
+  "formatted_address": "19 Choa Chu Kang Street 51, Singapore 680532",
+  "geometry": {
+    "location": {
+      "lat": 1.3922153,
+      "lng": 103.7427089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393841380291502,
+        "lng": 103.7443327302915
+      },
+      "southwest": {
+        "lat": 1.391143419708498,
+        "lng": 103.7416347697085
+      }
+    }
+  },
+  "name": "Xin Xian Shu Cai",
+  "place_id": "ChIJK8k4zu8R2jERKSqmv1_Smjs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Roger Ng 848",
+      "author_url": "https://www.google.com/maps/contrib/109342356364577222862/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP90ROHAfVUoI4DPSzWelmCGS03eBQwDOByEdKz1nSWZlVbA3GLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692011384,
+      "translated": false
+    },
+    {
+      "author_name": "Malkit Batth",
+      "author_url": "https://www.google.com/maps/contrib/103727995254904739357/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULRA7s65CQxPjUHuasNeYPLft-ty6QIoUovz1rG2PaJJ4GxH1K=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682171770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4294976503330253353",
+  "user_ratings_total": 2,
+  "vicinity": "19 Choa Chu Kang Street 51"
+}

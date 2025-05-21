@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3150 Commonwealth Ave W, MRT Station, Singapore 129580",
+  "geometry": {
+    "location": {
+      "lat": 1.3154961,
+      "lng": 103.7650556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316874180291502,
+        "lng": 103.7664705302915
+      },
+      "southwest": {
+        "lat": 1.314176219708498,
+        "lng": 103.7637725697085
+      }
+    }
+  },
+  "name": "UOB ATM - Clementi MRT Station",
+  "place_id": "ChIJLVsrxEkb2jERyrALkHbQccQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14155324311443583178",
+  "vicinity": "3150 Commonwealth Avenue West, MRT Station"
+}

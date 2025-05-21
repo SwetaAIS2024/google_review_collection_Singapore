@@ -1,0 +1,29 @@
+{
+  "formatted_address": "211 Punggol Rd, Singapore 546673",
+  "geometry": {
+    "location": {
+      "lat": 1.3851774,
+      "lng": 103.9006073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386491030291502,
+        "lng": 103.9019739802915
+      },
+      "southwest": {
+        "lat": 1.383793069708498,
+        "lng": 103.8992760197085
+      }
+    }
+  },
+  "name": "POSB ATM ( ExxonMobil Punggol Road)",
+  "place_id": "ChIJ98GLBRcW2jER3PofALdxCYQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9514260718591933148",
+  "vicinity": "211 Punggol Road, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "633A Senja Rd, Singapore 671633",
+  "geometry": {
+    "location": {
+      "lat": 1.3855288,
+      "lng": 103.7583601
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386844380291502,
+        "lng": 103.7597741802915
+      },
+      "southwest": {
+        "lat": 1.384146419708498,
+        "lng": 103.7570762197085
+      }
+    }
+  },
+  "name": "Hill Temple",
+  "place_id": "ChIJ8w0wcQAR2jERTj43i3hXZ9A",
+  "types": [
+    "hindu_temple",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15017067657733553742",
+  "vicinity": "633A Senja Road"
+}

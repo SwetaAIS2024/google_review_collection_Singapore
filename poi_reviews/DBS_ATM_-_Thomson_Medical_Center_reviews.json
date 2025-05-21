@@ -1,0 +1,45 @@
+{
+  "formatted_address": "339 Thomson Rd, Level 1, Singapore 307677",
+  "geometry": {
+    "location": {
+      "lat": 1.32539,
+      "lng": 103.84148
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326834730291502,
+        "lng": 103.8429572802915
+      },
+      "southwest": {
+        "lat": 1.324136769708498,
+        "lng": 103.8402593197085
+      }
+    }
+  },
+  "name": "DBS ATM - Thomson Medical Center",
+  "place_id": "ChIJt3BaidoZ2jER3kj1g6Ue2VQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "kevin mun",
+      "author_url": "https://www.google.com/maps/contrib/108900439802135307493/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2iFxOXKlLrHRAX3kGSHJAJeMdZlpbhVlIOSyJ_aXQ9dSPEw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Outside. Next to road!",
+      "time": 1610077343,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6113951665364486366",
+  "user_ratings_total": 1,
+  "vicinity": "339 Thomson Road, Level 1"
+}

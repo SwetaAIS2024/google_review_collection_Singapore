@@ -1,0 +1,59 @@
+{
+  "formatted_address": "Malaysia, Johor Darul Ta'zim, Iskandar Puteri, bandar medini iskandar Persiaran Medini Sentral 1, G-23邮政编码: 79250",
+  "geometry": {
+    "location": {
+      "lat": 1.4193147,
+      "lng": 103.6262535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420662880291502,
+        "lng": 103.6276059802915
+      },
+      "southwest": {
+        "lat": 1.417964919708498,
+        "lng": 103.6249080197085
+      }
+    }
+  },
+  "name": "Meixin Mart",
+  "place_id": "ChIJr3aE8pUL2jER4iWVQabhrmw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lady N",
+      "author_url": "https://www.google.com/maps/contrib/113649031243652071771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInuYhSLmcmEy6VkHdy4lKS9LeFSBJ_bUgk3ncUOFqR7Tfm6A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Freshly bake Egg Portuguese tart",
+      "time": 1707647510,
+      "translated": false
+    },
+    {
+      "author_name": "Shi Mengbing",
+      "author_url": "https://www.google.com/maps/contrib/106678983048561053405/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoMxXOmz-Lqr4_fVAdhtdQ-L-q5fHIae3j3_jYw8tvICe2cQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Super convenience!!!",
+      "time": 1704708852,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7831444906224985570",
+  "user_ratings_total": 2,
+  "vicinity": "G-23, HIJAUAN MEDINI, Persiaran Medini Sentral 1, bandar medini iskandar, Iskandar Puteri"
+}

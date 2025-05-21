@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Kaki Bukit Cres, Singapore 416238",
+  "geometry": {
+    "location": {
+      "lat": 1.3360643,
+      "lng": 103.9065144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337367730291502,
+        "lng": 103.9076491802915
+      },
+      "southwest": {
+        "lat": 1.334669769708498,
+        "lng": 103.9049512197085
+      }
+    }
+  },
+  "name": "Sheer HealthPharm Pte Ltd",
+  "place_id": "ChIJFeKi0OQX2jERT7VXlWmPsso",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14605894225155831119",
+  "vicinity": "5 Kaki Bukit Crescent"
+}

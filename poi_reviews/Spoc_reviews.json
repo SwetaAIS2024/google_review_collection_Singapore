@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Clementi West Street 2, Singapore 129605",
+  "geometry": {
+    "location": {
+      "lat": 1.302569,
+      "lng": 103.764943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303857630291502,
+        "lng": 103.7661903302915
+      },
+      "southwest": {
+        "lat": 1.301159669708498,
+        "lng": 103.7634923697085
+      }
+    }
+  },
+  "name": "Spoc",
+  "place_id": "ChIJNV8H6_Ea2jERl29Pfzf3FB8",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2239686732441153431",
+  "vicinity": "2 Clementi West Street 2"
+}

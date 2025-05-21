@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3221358,
+      "lng": 103.8256608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323505480291502,
+        "lng": 103.8270714802915
+      },
+      "southwest": {
+        "lat": 1.320807519708498,
+        "lng": 103.8243735197085
+      }
+    }
+  },
+  "name": "Raffles Town Club",
+  "place_id": "ChIJZQG4y_4Z2jERhdwENYYbP3U",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Shah Cozaro (Vasco)",
+      "author_url": "https://www.google.com/maps/contrib/101340718224680211115/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU8u5HyUOQR-q9gbJ9fDFkz0OH7hbneJqZutt42d0f91zlQxvY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "very nice place.. well recommended",
+      "time": 1573298709,
+      "translated": false
+    },
+    {
+      "author_name": "Abu Torab",
+      "author_url": "https://www.google.com/maps/contrib/107001341897640918671/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcMHZUSRinGXf2WBhlp1XFdoEgm4mxFatbdX_YARaFDNchiX4=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice 👍👍👍",
+      "time": 1705149858,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Rahim Hanisah",
+      "author_url": "https://www.google.com/maps/contrib/105238440228316729487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8QKTp0fBXwZrSJNJK73zw-KQVFT7TaHI0HAx816xKAs_t9g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723716999,
+      "translated": false
+    },
+    {
+      "author_name": "Rajib Shrestha",
+      "author_url": "https://www.google.com/maps/contrib/101173170553925891123/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFMJJBmXcc6WbrojYVFWscJx4DvsYxQj6qWxcak-JMwfMwCMsh=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1716903776,
+      "translated": false
+    },
+    {
+      "author_name": "Gilbert Tan",
+      "author_url": "https://www.google.com/maps/contrib/107004637496004370599/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyrv6hotav_YY3SXcSBvMaE2Jj8D3GrmkRmnmkUPYuvWcCwIsLLA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710485790,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8448501689199418501",
+  "user_ratings_total": 11,
+  "vicinity": "Singapore"
+}

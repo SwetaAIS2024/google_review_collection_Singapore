@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2661255,
+      "lng": 103.7159878
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267373430291502,
+        "lng": 103.7172835302915
+      },
+      "southwest": {
+        "lat": 1.264675469708498,
+        "lng": 103.7145855697085
+      }
+    }
+  },
+  "name": "TPC Lab",
+  "place_id": "ChIJMVUNh2oF2jERMcWgeE2yHAE",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=80134939191854385",
+  "vicinity": "Jurong Island"
+}

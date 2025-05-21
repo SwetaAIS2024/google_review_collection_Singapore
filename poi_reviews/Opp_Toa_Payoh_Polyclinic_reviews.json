@@ -1,0 +1,78 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335363,
+      "lng": 103.858711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336716080291502,
+        "lng": 103.8600606802915
+      },
+      "southwest": {
+        "lat": 1.334018119708498,
+        "lng": 103.8573627197085
+      }
+    }
+  },
+  "name": "Opp Toa Payoh Polyclinic",
+  "place_id": "ChIJ6RkbhXoX2jER9oiZtiB0hNM",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Prolicios Itonali",
+      "author_url": "https://www.google.com/maps/contrib/106975655868116003652/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKP6O9pgkCYX6r0gvFYTYrYeoZIOShbHnlFZjMJDnbw5MiqQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Smokers found near bus stops, under hdb blks and along the road. Bad for patients who just comes out frm the polyclinic.",
+      "time": 1646701413,
+      "translated": false
+    },
+    {
+      "author_name": "liling tan",
+      "author_url": "https://www.google.com/maps/contrib/102844927690955683586/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6CI68-pAQXDDB_S8EsG_cm_VHR9oV99jF1ak5vFXGk-FCmA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Yeah this is where more people get out of the 238 bus",
+      "time": 1552099255,
+      "translated": false
+    },
+    {
+      "author_name": "Neelawani Ramanatham",
+      "author_url": "https://www.google.com/maps/contrib/106929883972114857794/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN5XR6PvboDafmk6YW4JTPYcvdrZhHHsiGW4XA3Dh7u9L70JsS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Super",
+      "time": 1486545271,
+      "translated": false
+    },
+    {
+      "author_name": "Manson See",
+      "author_url": "https://www.google.com/maps/contrib/118235788646656355011/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV82pG7FQLkFCoEyebWEI5BtdcsXIouE_0H_OkM9AbNN_6GfH-x=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1550393784,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15241434722779891958",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

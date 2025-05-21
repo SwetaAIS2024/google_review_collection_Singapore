@@ -1,0 +1,31 @@
+{
+  "formatted_address": "101 Thomson Rd, Singapore 307591",
+  "geometry": {
+    "location": {
+      "lat": 1.3174445,
+      "lng": 103.8435719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318763930291502,
+        "lng": 103.8448404302915
+      },
+      "southwest": {
+        "lat": 1.316065969708498,
+        "lng": 103.8421424697085
+      }
+    }
+  },
+  "name": "Jaysbloom",
+  "place_id": "ChIJswRqCegZ2jERq87PjBwSu2Y",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7402530326344355499",
+  "vicinity": "101 Thomson Road, Singapore"
+}

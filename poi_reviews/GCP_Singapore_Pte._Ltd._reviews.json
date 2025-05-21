@@ -1,0 +1,41 @@
+{
+  "formatted_address": "25 Tanjong Penjuru, Singapore 609024",
+  "geometry": {
+    "location": {
+      "lat": 1.3067274,
+      "lng": 103.7357828
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308063230291502,
+        "lng": 103.7371930802915
+      },
+      "southwest": {
+        "lat": 1.305365269708498,
+        "lng": 103.7344951197085
+      }
+    }
+  },
+  "name": "GCP (Singapore) Pte. Ltd.",
+  "place_id": "ChIJZxdZkMka2jERaR3Pnq47zGs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Tan Anthony",
+      "author_url": "https://www.google.com/maps/contrib/109425626127863299791/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLYwM1NmV-vHgs5YboYBL_UybLyOjNV_IfAj0Zvj7iL6SNCW8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553246950,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7767649078481984873",
+  "user_ratings_total": 1,
+  "vicinity": "25 Tanjong Penjuru, Singapore"
+}

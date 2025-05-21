@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Jurong East St 24, #01-121 Block 252, Singapore 600252",
+  "geometry": {
+    "location": {
+      "lat": 1.3434356,
+      "lng": 103.7385754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344740880291502,
+        "lng": 103.7399777302915
+      },
+      "southwest": {
+        "lat": 1.342042919708498,
+        "lng": 103.7372797697085
+      }
+    }
+  },
+  "name": "Ijooz machine",
+  "place_id": "ChIJ8X07cwAR2jERcBAug9Xo4r0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "papier",
+      "author_url": "https://www.google.com/maps/contrib/113369359859176686036/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNpEY2DqenF2U_bCBA-1v-HuNGRYnl_KlUbdjaGEiSYK9-Y0Eu=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "insane cocktails, they serve a killer mojito",
+      "time": 1728032724,
+      "translated": false
+    },
+    {
+      "author_name": "D K",
+      "author_url": "https://www.google.com/maps/contrib/117650212907178629443/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWFxvssCteyo954VKQYJXiepl_roKgu6Mk-jg6wdQjlupur_qx=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Tasty cold and convenient",
+      "time": 1587208717,
+      "translated": false
+    },
+    {
+      "author_name": "Luffy Redhawk",
+      "author_url": "https://www.google.com/maps/contrib/111561338330166593026/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIr-bfu1JuSUcDe3SCdM5Qlc6vbdx8NoYPWB_-pcl4p-eXlBg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708851458,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13682754621631500400",
+  "user_ratings_total": 3,
+  "vicinity": "Jurong East Street 24, #01-121 Block 252, Singapore"
+}

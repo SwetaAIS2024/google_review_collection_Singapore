@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2641855,
+      "lng": 103.8225174
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265474880291502,
+        "lng": 103.8233553
+      },
+      "southwest": {
+        "lat": 1.262776919708498,
+        "lng": 103.8200689
+      }
+    }
+  },
+  "name": "Gongshang",
+  "place_id": "ChIJ749TkFgZ2jERCNYWpKkBtxQ",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1492663629610669576",
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

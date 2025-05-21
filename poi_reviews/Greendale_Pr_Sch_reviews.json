@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.396787,
+      "lng": 103.912025
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398129080291502,
+        "lng": 103.9133837802915
+      },
+      "southwest": {
+        "lat": 1.395431119708498,
+        "lng": 103.9106858197085
+      }
+    }
+  },
+  "name": "Greendale Pr Sch",
+  "place_id": "ChIJsyIyhAEW2jERt2iHpuiJT3Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Peggy Tiu",
+      "author_url": "https://www.google.com/maps/contrib/100790454114239067389/reviews",
+      "language": "en-US",
+      "original_language": "nl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUPUwx7J7YwINVbEVKV4CXP_sYVa4qlvcpFeeE44562z9dX_63=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Ver good sch",
+      "time": 1619239277,
+      "translated": true
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8525184251954948279",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3801894,
+      "lng": 103.8945827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381476680291502,
+        "lng": 103.8959310302915
+      },
+      "southwest": {
+        "lat": 1.378778719708498,
+        "lng": 103.8932330697085
+      }
+    }
+  },
+  "name": "Bef Sengkang Fire Stn",
+  "place_id": "ChIJHdUH-D4W2jERP8ml1d2UPx4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Peter Liew",
+      "author_url": "https://www.google.com/maps/contrib/101360349203628752689/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmtycIsTALlINHb3aQz6ruso0U-bzkVm9O9YxT6IIkzWF26Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480234194,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2179624425163704639",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3535812,
+      "lng": 103.8343004
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354944580291502,
+        "lng": 103.8356639302915
+      },
+      "southwest": {
+        "lat": 1.352246619708498,
+        "lng": 103.8329659697085
+      }
+    }
+  },
+  "name": "Bef Jln Todak",
+  "place_id": "ChIJs3DyvToX2jERoCfi-BcgM0w",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "It is an important bus stop. With all the restaurants, residential, and nightlife happening along the Upper Thomson stretch, this bus stop will bring you to places (and bring you home).\n\nThe unfortunate fact is that it's not connected to anywhere via a sheltered walkway, which may hinder your journey in bad weather.",
+      "time": 1739595001,
+      "translated": false
+    },
+    {
+      "author_name": "Kenneth Teo",
+      "author_url": "https://www.google.com/maps/contrib/101187016215430215168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGS5Oc8uuKqdLgmIMK5VSNXkEoHkNpp1edmXzhgQ6iYFH72BPRYQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1640078044,
+      "translated": false
+    },
+    {
+      "author_name": "giselle",
+      "author_url": "https://www.google.com/maps/contrib/108564692435387593763/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE9tQ4eXOlk2GVp-7yfhw4CYggNTaBY1-KxCknk5EhJ4-iwfcC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575220708,
+      "translated": false
+    },
+    {
+      "author_name": "Chris Bahilango",
+      "author_url": "https://www.google.com/maps/contrib/102595041304049033440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEvVJEDFwLt9CF3sT9ax817gzaauz5TaM_8ZX8fsW0KCZ0nRm8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532156216,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5490767658026674080",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 2 Joo Chiat Rd, #01-K1, Singapore 420002",
+  "geometry": {
+    "location": {
+      "lat": 1.3157026,
+      "lng": 103.8988695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316925680291502,
+        "lng": 103.9003641302915
+      },
+      "southwest": {
+        "lat": 1.314227719708498,
+        "lng": 103.8976661697085
+      }
+    }
+  },
+  "name": "UOB ATM - Joo Chiat Complex",
+  "place_id": "ChIJc3LUvQoZ2jERAhdk41TqhoY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9693692898274711298",
+  "vicinity": "Blk 2 Joo Chiat Road, #01-K1"
+}

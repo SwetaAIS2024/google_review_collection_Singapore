@@ -1,0 +1,29 @@
+{
+  "formatted_address": "701 Sims Dr, LHK Building, Singapore 387383",
+  "geometry": {
+    "location": {
+      "lat": 1.318597,
+      "lng": 103.877201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320023130291502,
+        "lng": 103.8785473802915
+      },
+      "southwest": {
+        "lat": 1.317325169708498,
+        "lng": 103.8758494197085
+      }
+    }
+  },
+  "name": "Clean Teeth",
+  "place_id": "ChIJxf8HsS8Y2jER1bV3669tZkc",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5144920226654565845",
+  "vicinity": "701 Sims Drive, LHK Building"
+}

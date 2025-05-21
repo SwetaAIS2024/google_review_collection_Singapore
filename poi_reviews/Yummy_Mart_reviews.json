@@ -1,0 +1,46 @@
+{
+  "formatted_address": "249 Jurong East St 24, #01-102, Singapore 600249",
+  "geometry": {
+    "location": {
+      "lat": 1.3423057,
+      "lng": 103.7395463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343638930291502,
+        "lng": 103.7408083802915
+      },
+      "southwest": {
+        "lat": 1.340940969708498,
+        "lng": 103.7381104197085
+      }
+    }
+  },
+  "name": "Yummy Mart",
+  "place_id": "ChIJLQS605kR2jER7VmjQIQvQno",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vic W",
+      "author_url": "https://www.google.com/maps/contrib/106487492087285392743/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpSPmDt4nq7hsVbYQlv9PQyLT9pSZXhNmOH1JaH0U1d7Hcx7v8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Had great experience with this new convenience store opened Jan 2024. They sell many convenience items for home like snacks, chips, soft drinks, ice cream, even beer. Also household items like laundry and dish detergent. The owner is friendly and accomodating and is there all the time. The store hours are reasonable, from morning to after dinner.",
+      "time": 1711586942,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8809656066156747245",
+  "user_ratings_total": 1,
+  "vicinity": "249 Jurong East Street 24, #01-102"
+}

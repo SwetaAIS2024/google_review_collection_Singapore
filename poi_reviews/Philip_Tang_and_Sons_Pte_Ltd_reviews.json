@@ -1,0 +1,63 @@
+{
+  "formatted_address": "21, #05-79 Bukit Batok Street 21, Wcega Tower, Singapore 658065",
+  "geometry": {
+    "location": {
+      "lat": 1.3367725,
+      "lng": 103.7595207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338102930291502,
+        "lng": 103.7607928802915
+      },
+      "southwest": {
+        "lat": 1.335404969708498,
+        "lng": 103.7580949197085
+      }
+    }
+  },
+  "name": "Philip Tang & Sons Pte Ltd",
+  "place_id": "ChIJAfVZI24Q2jERInJt9wSIhrQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Max King",
+      "author_url": "https://www.google.com/maps/contrib/116913363563675969972/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBtwUH8otdPyxChU7b-tEX0X5g6kUacf5-SFGyGqsQCqvKkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Terrible mgmt. Terrible services",
+      "time": 1516615105,
+      "translated": false
+    },
+    {
+      "author_name": "yemon kyaw",
+      "author_url": "https://www.google.com/maps/contrib/118329463371835922740/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp-f8hVY-JxLb5ByCAPE79mI5YRPXMcz0vmKyf3YWQfT3MnkJ7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513391548,
+      "translated": false
+    },
+    {
+      "author_name": "Lok ChunSean",
+      "author_url": "https://www.google.com/maps/contrib/105583929252126274392/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeOptDAu2-xLjD4pZEweEBMFWqVIyrHeujLavCkVDAWgYMyAE3AQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486601369,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13008234128618648098",
+  "user_ratings_total": 3,
+  "vicinity": "21, #05-79 Bukit Batok Street 21, Wcega Tower"
+}

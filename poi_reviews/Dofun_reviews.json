@@ -1,0 +1,29 @@
+{
+  "formatted_address": "60 Paya Lebar Rd, #06-12 Paya Lebar Square, Singapore 409051",
+  "geometry": {
+    "location": {
+      "lat": 1.3184358,
+      "lng": 103.8927403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319948780291502,
+        "lng": 103.8937457802915
+      },
+      "southwest": {
+        "lat": 1.317250819708498,
+        "lng": 103.8910478197085
+      }
+    }
+  },
+  "name": "Dofun",
+  "place_id": "ChIJqzScflAZ2jERKBkrugMmb1Q",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6084123419050973480",
+  "vicinity": "60 Paya Lebar Road, #06-12 Paya Lebar Square"
+}

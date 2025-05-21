@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Hillview Rise, Singapore 667980",
+  "geometry": {
+    "location": {
+      "lat": 1.3630093,
+      "lng": 103.7641294
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364263630291502,
+        "lng": 103.7657327802915
+      },
+      "southwest": {
+        "lat": 1.361565669708498,
+        "lng": 103.7630348197085
+      }
+    }
+  },
+  "name": "Cando Tennis",
+  "place_id": "ChIJ9f7S_nIR2jERRP-zinOulrI",
+  "types": [
+    "health",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12868664796529295172",
+  "vicinity": "6 Hillview Rise"
+}

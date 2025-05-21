@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2761838,
+      "lng": 103.8229998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277520630291502,
+        "lng": 103.8244082302915
+      },
+      "southwest": {
+        "lat": 1.274822669708498,
+        "lng": 103.8217102697085
+      }
+    }
+  },
+  "name": "St. Theresa's Convent",
+  "place_id": "ChIJIdtjFWIZ2jER5oRbK2jKb9M",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "Abraham Gibson",
+      "author_url": "https://www.google.com/maps/contrib/108492885168723553632/reviews",
+      "language": "en-US",
+      "original_language": "co",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4J-S-Ru1FhcatyGcBsz_qYUvKHZMxrFtCrMDKrAOoq7BX6w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Carissa Lunardo was here. #Burianto",
+      "time": 1511804310,
+      "translated": true
+    },
+    {
+      "author_name": "Indunil Prasanna",
+      "author_url": "https://www.google.com/maps/contrib/100276539321101450821/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfJTk6NsAh5m2S0pQnT0yZDoH6_YO4lcDOu1zrpslpF-uXLK7D=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725678464,
+      "translated": false
+    },
+    {
+      "author_name": "Aegis Young",
+      "author_url": "https://www.google.com/maps/contrib/112463271469733986328/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGwckyCJBZ-E9IOqlzFSmefmM6CerMKjgW5XzDiNAPk5MOlmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499931515,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15235618613170504934",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "bishan st 11 blk150A, #01-157, Singapore 570150",
+  "geometry": {
+    "location": {
+      "lat": 1.3445283,
+      "lng": 103.8556432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345811180291502,
+        "lng": 103.8566999802915
+      },
+      "southwest": {
+        "lat": 1.343113219708498,
+        "lng": 103.8540020197085
+      }
+    }
+  },
+  "name": "NG MART",
+  "place_id": "ChIJWYJz1WsX2jERs6BNl64b9cQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Christopher Yeo",
+      "author_url": "https://www.google.com/maps/contrib/118186730941063965004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDy6OnAnkCPZcMHCJHgMLgvt5WoTqumM-sufe1StRTlRWtvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very heartland, warm and cosy place to buy your daily necessities… they accept CDC vouchers here too",
+      "time": 1707270050,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14192280237404692659",
+  "user_ratings_total": 1,
+  "vicinity": "bishan st 11 blk150A, #01-157"
+}

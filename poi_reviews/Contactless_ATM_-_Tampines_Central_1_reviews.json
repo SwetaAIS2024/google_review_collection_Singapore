@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Tampines Central 1, #01-285 Blk 503, Singapore 520503",
+  "geometry": {
+    "location": {
+      "lat": 1.3562413,
+      "lng": 103.9456291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357754730291502,
+        "lng": 103.9472775802915
+      },
+      "southwest": {
+        "lat": 1.355056769708498,
+        "lng": 103.9445796197085
+      }
+    }
+  },
+  "name": "Contactless ATM - Tampines Central 1",
+  "place_id": "ChIJByImsts92jER-YzxZri4NkU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4987376739500002553",
+  "vicinity": "Tampines Central 1, #01-285 Blk 503"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.276633,
+      "lng": 103.860771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277996930291502,
+        "lng": 103.8621331302915
+      },
+      "southwest": {
+        "lat": 1.275298969708498,
+        "lng": 103.8594351697085
+      }
+    }
+  },
+  "name": "Bef Marina Gdns Dr",
+  "place_id": "ChIJHcMolhsZ2jERvqk8lId4wuo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "陈普恩Jackson K S Tan",
+      "author_url": "https://www.google.com/maps/contrib/111200043685734578604/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1GLcsj3IU9vJ4MJkagD4Z3b4teAJxNvDhtdkgD4Ga3fUBBrRuow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "PEACEFUL",
+      "time": 1535117089,
+      "translated": false
+    },
+    {
+      "author_name": "Lam Nguyen Ba",
+      "author_url": "https://www.google.com/maps/contrib/111159929564122759388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMAy6ndcfHX911HJfMnFMGF9JtHSXPRIDucpgrR_LVjmc9p-2X-A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497366031,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16916215674059925950",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

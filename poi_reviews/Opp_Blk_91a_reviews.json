@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2768521,
+      "lng": 103.8064863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278297080291502,
+        "lng": 103.8078813802915
+      },
+      "southwest": {
+        "lat": 1.275599119708498,
+        "lng": 103.8051834197085
+      }
+    }
+  },
+  "name": "Opp Blk 91a",
+  "place_id": "ChIJ3bltUMQb2jERwTe2nFIwzGM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wee Kiat Goh",
+      "author_url": "https://www.google.com/maps/contrib/102904753808566522281/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8brAsXREvcuOxBSpz_tzNJJy_wDDIw8zK7xQea73Sv8EH8y9K=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1626955827,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7191175836378478529",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

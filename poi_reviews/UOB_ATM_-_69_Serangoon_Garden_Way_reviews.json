@@ -1,0 +1,55 @@
+{
+  "formatted_address": "69 Serangoon Garden Way, Singapore 555965",
+  "geometry": {
+    "location": {
+      "lat": 1.3636892,
+      "lng": 103.8653104
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365076830291502,
+        "lng": 103.8666411802915
+      },
+      "southwest": {
+        "lat": 1.362378869708498,
+        "lng": 103.8639432197085
+      }
+    }
+  },
+  "name": "UOB ATM - 69 Serangoon Garden Way",
+  "place_id": "ChIJG4-xKwAX2jERBIuNOf7fnBE",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Viimaging singapore",
+      "author_url": "https://www.google.com/maps/contrib/109002475466728597275/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_pb5toDRVCUBPa3mNcCQ_U1KuTqhQuM1G_GK-KKT6MG_tGA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Atm",
+      "time": 1464464547,
+      "translated": false
+    },
+    {
+      "author_name": "blankdash _",
+      "author_url": "https://www.google.com/maps/contrib/105078435538960872911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFdW1fVGgAtifFQhJhM0gBy0sPN-pGjRagY2RpjX09kxob53Fj=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747390433,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1269135477991901956",
+  "user_ratings_total": 2,
+  "vicinity": "69 Serangoon Garden Way, Singapore"
+}

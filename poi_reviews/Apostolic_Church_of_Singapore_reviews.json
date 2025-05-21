@@ -1,0 +1,29 @@
+{
+  "formatted_address": "22 Beng Wan Rd, Singapore 339852",
+  "geometry": {
+    "location": {
+      "lat": 1.3231645,
+      "lng": 103.8656498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324544480291502,
+        "lng": 103.8669611802915
+      },
+      "southwest": {
+        "lat": 1.321846519708498,
+        "lng": 103.8642632197085
+      }
+    }
+  },
+  "name": "Apostolic Church of Singapore",
+  "place_id": "ChIJE4Zd8dQZ2jERFau5NbZSxdA",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15043521072839895829",
+  "vicinity": "22 Beng Wan Road"
+}

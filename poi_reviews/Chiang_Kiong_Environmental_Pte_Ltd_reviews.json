@@ -1,0 +1,55 @@
+{
+  "formatted_address": "41 Defu Ln 1, Singapore 539494",
+  "geometry": {
+    "location": {
+      "lat": 1.360818,
+      "lng": 103.8995319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362225530291502,
+        "lng": 103.9010313802915
+      },
+      "southwest": {
+        "lat": 1.359527569708498,
+        "lng": 103.8983334197085
+      }
+    }
+  },
+  "name": "Chiang Kiong Environmental Pte Ltd",
+  "place_id": "ChIJPcH3UcwX2jERmWYKQaiUGcU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mominul Islam",
+      "author_url": "https://www.google.com/maps/contrib/108796841583863492741/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFa8gsj_QJ4cGJWJfxXB_aJajiMRwtJDxcviuz66JMSapPGAtXOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I have a great experience with this company and I would like to work with this company.",
+      "time": 1590662264,
+      "translated": false
+    },
+    {
+      "author_name": "Hafiz",
+      "author_url": "https://www.google.com/maps/contrib/109508016190544935601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXez3PlufNZnGHziVAQ5r05jf7w1h3X_t80Xu9i3vY3x9uV0OQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "very good",
+      "time": 1621674337,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14202546350256187033",
+  "user_ratings_total": 2,
+  "vicinity": "41 Defu Lane 1"
+}

@@ -1,0 +1,83 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3209606,
+      "lng": 103.8911588
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322305780291502,
+        "lng": 103.8925578802915
+      },
+      "southwest": {
+        "lat": 1.319607819708498,
+        "lng": 103.8898599197085
+      }
+    }
+  },
+  "name": "Opp CISCO Ctr",
+  "place_id": "ChIJI6lwpxgY2jERI_TqL-22NME",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Shabee",
+      "author_url": "https://www.google.com/maps/contrib/115522335378564351930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2iRuhjanR-tEdyJrxQviMJpMaDwOQ4dF2sQpBgzl2DXJRYriu=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744603034,
+      "translated": false
+    },
+    {
+      "author_name": "Lip Boon Ng",
+      "author_url": "https://www.google.com/maps/contrib/115419584001500701755/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3V1AwffP-W22tNR8TGGElnr5QKoWsHGjSA1GdQZzqaBhcyy0I=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715404509,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527875141,
+      "translated": false
+    },
+    {
+      "author_name": "Francis Lau",
+      "author_url": "https://www.google.com/maps/contrib/115601531960063047974/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYSCQ1mQDJmhUZmJCgNNw2d04W1XGfaM3V18IlRIc8ml9nGzU4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508673455,
+      "translated": false
+    },
+    {
+      "author_name": "Tuan Anh Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/117199620489053254985/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKda5AUmUvtLxqcEc5Lg7Z_wTYv0M9GMPmNydZEr1treQS3Ew=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503427254,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13921953477936477219",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

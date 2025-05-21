@@ -1,0 +1,29 @@
+{
+  "formatted_address": "501 Jurong West Street 52, #01-279/281, Singapore 640501",
+  "geometry": {
+    "location": {
+      "lat": 1.3479073,
+      "lng": 103.7178653
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349253430291502,
+        "lng": 103.7191654802915
+      },
+      "southwest": {
+        "lat": 1.346555469708498,
+        "lng": 103.7164675197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB JURONG WEST BRANCH",
+  "place_id": "ChIJVSBWDRcP2jERz_B9ZNgUQIo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9961985295375003855",
+  "vicinity": "501 Jurong West Street 52, #01-279/281"
+}

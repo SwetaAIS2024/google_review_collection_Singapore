@@ -1,0 +1,29 @@
+{
+  "formatted_address": "36 Craig Rd, Singapore 089674",
+  "geometry": {
+    "location": {
+      "lat": 1.2784007,
+      "lng": 103.8418496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279770180291502,
+        "lng": 103.8432286302915
+      },
+      "southwest": {
+        "lat": 1.277072219708498,
+        "lng": 103.8405306697085
+      }
+    }
+  },
+  "name": "CCOCO Beauty Medical Clinic",
+  "place_id": "ChIJuSpL5eEZ2jERd6VyvmUUASY",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2738492475637409143",
+  "vicinity": "36 Craig Road"
+}

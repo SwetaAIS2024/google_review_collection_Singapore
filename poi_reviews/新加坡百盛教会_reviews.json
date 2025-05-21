@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Commonwealth Ln, #06-31, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044645,
+      "lng": 103.7967732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305744130291502,
+        "lng": 103.7980606802915
+      },
+      "southwest": {
+        "lat": 1.303046169708498,
+        "lng": 103.7953627197085
+      }
+    }
+  },
+  "name": "新加坡百盛教会",
+  "place_id": "ChIJn-awwUAa2jERifAg0Os0-t4",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16067212808011444361",
+  "vicinity": "1 Commonwealth Lane, #06-31"
+}

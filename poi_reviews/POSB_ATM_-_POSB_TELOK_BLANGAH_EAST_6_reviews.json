@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Telok Blangah Cres, #01-4206, Singapore 090006",
+  "geometry": {
+    "location": {
+      "lat": 1.2782254,
+      "lng": 103.8185015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279603280291502,
+        "lng": 103.8200450802915
+      },
+      "southwest": {
+        "lat": 1.276905319708498,
+        "lng": 103.8173471197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB TELOK BLANGAH EAST/6",
+  "place_id": "ChIJFYjXVq4b2jEREtboqO1d-AM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Robert Li",
+      "author_url": "https://www.google.com/maps/contrib/111733976718276618181/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbWUAQHHwAg7qa3yh8RXBVh0jD41iDl7wZZqwKI5gjD4rPz5yj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "ATM only",
+      "time": 1681036744,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=286081851660490258",
+  "user_ratings_total": 1,
+  "vicinity": "6 Telok Blangah Crescent, #01-4206"
+}

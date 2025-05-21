@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.41947,
+      "lng": 103.83824
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420798530291502,
+        "lng": 103.8395409802915
+      },
+      "southwest": {
+        "lat": 1.418100569708498,
+        "lng": 103.8368430197085
+      }
+    }
+  },
+  "name": "Opp Chung Cheng High Sch",
+  "place_id": "ChIJ7ZyYRBMU2jERVICaAS8NkIg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9840379681346060372",
+  "vicinity": "Singapore"
+}

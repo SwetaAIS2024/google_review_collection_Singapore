@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Tampines Central 6, Singapore 529482",
+  "geometry": {
+    "location": {
+      "lat": 1.353279,
+      "lng": 103.9418625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354496330291502,
+        "lng": 103.9434246302915
+      },
+      "southwest": {
+        "lat": 1.351798369708498,
+        "lng": 103.9407266697085
+      }
+    }
+  },
+  "name": "Clearskin Medical Spa Pte Ltd",
+  "place_id": "ChIJx2ONEhI92jERqftauQ_wIR0",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2099222851656285097",
+  "vicinity": "5 Tampines Central 6"
+}

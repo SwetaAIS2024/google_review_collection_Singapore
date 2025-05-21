@@ -1,0 +1,73 @@
+{
+  "formatted_address": "40 Seraya Ave, Singapore 627873",
+  "geometry": {
+    "location": {
+      "lat": 1.272918,
+      "lng": 103.723228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.2751417,
+        "lng": 103.7248095802915
+      },
+      "southwest": {
+        "lat": 1.2716857,
+        "lng": 103.7221116197085
+      }
+    }
+  },
+  "name": "Denka Singapore Pte Ltd (Seraya Avenue)",
+  "place_id": "ChIJn8lLKMoE2jERJ6IMy1GCdRc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Shohel",
+      "author_url": "https://www.google.com/maps/contrib/111439153278844925221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX57wzQWg1vBTtL9ZLUIwhiWcannEUFFojtdzqFasURGIR9V0DS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Good",
+      "time": 1643708800,
+      "translated": false
+    },
+    {
+      "author_name": "Sambasivam Swaminathan",
+      "author_url": "https://www.google.com/maps/contrib/118122578898905669550/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmldVhkcnOQD3DZcMRrQE9A3c2R1c1e1kE1GFYfVgPH5ERDyBqMA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725981756,
+      "translated": false
+    },
+    {
+      "author_name": "Md Mozibur Rahman (Shohag)",
+      "author_url": "https://www.google.com/maps/contrib/112402717266176434295/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzcJl_bPuW0lgJjZjoAzxqKd9YrLMKumfdbuh4WrJ-Y9RW5_Bu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511945198,
+      "translated": false
+    },
+    {
+      "author_name": "Azman A",
+      "author_url": "https://www.google.com/maps/contrib/101923597223779868044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHePJl92PaJZMR3NJaV7V_HjuQx-Nfse_XsubrkaElxfmuf4Q0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508384555,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1690400522958053927",
+  "user_ratings_total": 4,
+  "vicinity": "40 Seraya Avenue"
+}

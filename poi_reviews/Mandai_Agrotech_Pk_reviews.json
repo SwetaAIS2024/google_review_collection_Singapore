@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4153034,
+      "lng": 103.7973777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416592780291502,
+        "lng": 103.7987422302915
+      },
+      "southwest": {
+        "lat": 1.413894819708498,
+        "lng": 103.7960442697085
+      }
+    }
+  },
+  "name": "Mandai Agrotech Pk",
+  "place_id": "ChIJKRrHEMIT2jER0Y5bv95S3hI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Matthew T.",
+      "author_url": "https://www.google.com/maps/contrib/107585226715026445161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUTGLFMP--5NivOY0nh-ixysWV3DFo43xzYGHbJUfjDIG1Kja-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Bus stop needs more light at night (quite dark so many bushes around it)",
+      "time": 1681575449,
+      "translated": false
+    },
+    {
+      "author_name": "Arabian 360",
+      "author_url": "https://www.google.com/maps/contrib/106451646432455222020/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXklZ0bif-2kiwGEnK-7fzdoO6rFp5YlW9jWF8JDHW2MVLF8Vg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Lovely place to spend with kids!",
+      "time": 1695822956,
+      "translated": false
+    },
+    {
+      "author_name": "Bala Murugan",
+      "author_url": "https://www.google.com/maps/contrib/115107525129635056768/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpC9V5M5VMqGMov3nhg8MgeZBRd7R8x39Bi4cWdgA5y2EQYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512991352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1359615254159134417",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

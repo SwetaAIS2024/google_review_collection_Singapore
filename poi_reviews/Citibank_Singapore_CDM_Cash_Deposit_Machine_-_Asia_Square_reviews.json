@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Asia Square Tower 1, 8 Marina View, #01-K7, Singapore 018960",
+  "geometry": {
+    "location": {
+      "lat": 1.2792279,
+      "lng": 103.8513981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280511830291502,
+        "lng": 103.8523671802915
+      },
+      "southwest": {
+        "lat": 1.277813869708498,
+        "lng": 103.8496692197085
+      }
+    }
+  },
+  "name": "Citibank Singapore CDM (Cash Deposit Machine) - Asia Square",
+  "place_id": "ChIJ2YUB8BEZ2jER3gpwYNvNZKk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jyoti Ramchandani",
+      "author_url": "https://www.google.com/maps/contrib/112448530945884799377/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdQau5-UDPsI0QTup2ebHLFR2lXUS5ixPS18k4Q5blIxHXgA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It was a pleasure banking with Citi Bank. Was well assisted. I will surely recommend family n friends to bank with Citi Bank.",
+      "time": 1692707953,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12206107232180374238",
+  "user_ratings_total": 1,
+  "vicinity": "Asia Square Tower 1, 8 Marina View, #01-K7"
+}

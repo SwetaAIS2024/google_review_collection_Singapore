@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3230967,
+      "lng": 103.855627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324545730291502,
+        "lng": 103.8569087302915
+      },
+      "southwest": {
+        "lat": 1.321847769708498,
+        "lng": 103.8542107697085
+      }
+    }
+  },
+  "name": "琴穎之聲",
+  "place_id": "ChIJUVTEwtkZ2jERcPlpaJihle4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yane Nakhoda",
+      "author_url": "https://www.google.com/maps/contrib/105818690886109883979/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiXTyJhDU0kzbVmbgveSC0ZFAck9H32ybqB8btaN8GOovxew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "There is a good place",
+      "time": 1684587248,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17191824828515613040",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

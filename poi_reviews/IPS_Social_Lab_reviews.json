@@ -1,0 +1,52 @@
+{
+  "formatted_address": "20 Evans Rd, Singapore 259365",
+  "geometry": {
+    "location": {
+      "lat": 1.3181289,
+      "lng": 103.8199024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319517280291502,
+        "lng": 103.8211568802915
+      },
+      "southwest": {
+        "lat": 1.316819319708498,
+        "lng": 103.8184589197085
+      }
+    }
+  },
+  "name": "IPS Social Lab",
+  "place_id": "ChIJ_2-_xgIa2jERJRut2vBiu8I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Melvin Tay",
+      "author_url": "https://www.google.com/maps/contrib/105552874752612099071/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtfuHd5JsxAciDtwoUQUOmZ-mpAvfUB37a5tR16xq6rwT89B0m=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672145500,
+      "translated": false
+    },
+    {
+      "author_name": "Loi HLan",
+      "author_url": "https://www.google.com/maps/contrib/116016968352549045828/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAX2MABhv4pcKluRF4d1bT2qxaCSV3csv3KgG9iYLFrCwWBYAPtw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1663469068,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14031917850603363109",
+  "user_ratings_total": 2,
+  "vicinity": "20 Evans Road"
+}

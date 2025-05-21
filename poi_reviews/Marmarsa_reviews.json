@@ -1,0 +1,29 @@
+{
+  "formatted_address": "marmarsa 455923",
+  "geometry": {
+    "location": {
+      "lat": 1.3140637,
+      "lng": 103.923083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315464030291502,
+        "lng": 103.9244225802915
+      },
+      "southwest": {
+        "lat": 1.312766069708498,
+        "lng": 103.9217246197085
+      }
+    }
+  },
+  "name": "Marmarsa",
+  "place_id": "ChIJW2kVSAAj2jER6DnRTC-NAg8",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1081582094814099944",
+  "vicinity": "marmarsa"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "443 Ang Mo Kio Ave 10, Singapore 560443",
+  "geometry": {
+    "location": {
+      "lat": 1.3661487,
+      "lng": 103.8552796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367579880291502,
+        "lng": 103.8566587802915
+      },
+      "southwest": {
+        "lat": 1.364881919708498,
+        "lng": 103.8539608197085
+      }
+    }
+  },
+  "name": "煮肉粉 Pork Noodle",
+  "place_id": "ChIJDyCnfwAX2jER6vxmF7Ght8M",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14102918540107906282",
+  "vicinity": "443 Ang Mo Kio Avenue 10"
+}

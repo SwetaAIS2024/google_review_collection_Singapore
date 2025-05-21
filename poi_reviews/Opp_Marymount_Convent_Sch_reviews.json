@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3405869,
+      "lng": 103.8389059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341929930291502,
+        "lng": 103.8402615802915
+      },
+      "southwest": {
+        "lat": 1.339231969708498,
+        "lng": 103.8375636197085
+      }
+    }
+  },
+  "name": "Opp Marymount Convent Sch",
+  "place_id": "ChIJ_XA4AEQX2jERmba0znEjc5U",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kenn Tan",
+      "author_url": "https://www.google.com/maps/contrib/111708291978895661841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxVQnLyEAqyHOVd6gAW2XspR0eOWxhMQL2sF_j5EvyFqyBCxA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "5 years ago",
+      "text": "No sheltered walkway at this bus stop. Serving to a school, some residential building and private hospital only.",
+      "time": 1571792239,
+      "translated": false
+    },
+    {
+      "author_name": "kl ng",
+      "author_url": "https://www.google.com/maps/contrib/116137968396824385041/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2D0jzy9F02pXLHGQ85mmyGJ1cAC8J9BecJwf3-iU6Th8ruOcv=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724067288,
+      "translated": false
+    },
+    {
+      "author_name": "Abhishek Modi",
+      "author_url": "https://www.google.com/maps/contrib/118145682147338781296/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgTE4BZLb8ZtBy8PA2MNOLmzGl_R_-1KN24ELPeWUGsGxEW3htpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718443475,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10768990105679214233",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "9010 Tampines Street 93, #02-123, Singapore 528844",
+  "geometry": {
+    "location": {
+      "lat": 1.3412689,
+      "lng": 103.9429503
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342689980291502,
+        "lng": 103.9442477302915
+      },
+      "southwest": {
+        "lat": 1.339992019708498,
+        "lng": 103.9415497697085
+      }
+    }
+  },
+  "name": "VASSS PTE LTD",
+  "place_id": "ChIJ8zL0vD492jERMha6q-6_9Fo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kavinraj",
+      "author_url": "https://www.google.com/maps/contrib/103852164173028089201/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTXEOxyb8lreqppUHkalBwFjSu3-FeepNfUxRBZOHXO5Domw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Very very good",
+      "time": 1734941251,
+      "translated": false
+    },
+    {
+      "author_name": "FedzTvChannel",
+      "author_url": "https://www.google.com/maps/contrib/104550460167303024311/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx2CSL9Kcb-C4YHMLhw29ZtLHoUvqx1touuEQoO80eWiiNsbni=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520921482,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6554074389535135282",
+  "user_ratings_total": 2,
+  "vicinity": "9010 Tampines Street 93, #02-123, Singapore"
+}

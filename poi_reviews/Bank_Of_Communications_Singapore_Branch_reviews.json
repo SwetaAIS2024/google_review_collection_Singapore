@@ -1,0 +1,55 @@
+{
+  "formatted_address": "128 Beach Rd, #25 01 Guoco Midtown, Singapore 189773",
+  "geometry": {
+    "location": {
+      "lat": 1.2974624,
+      "lng": 103.858126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298893680291502,
+        "lng": 103.8595508302915
+      },
+      "southwest": {
+        "lat": 1.296195719708498,
+        "lng": 103.8568528697085
+      }
+    }
+  },
+  "name": "Bank Of Communications Singapore Branch",
+  "place_id": "ChIJ9-yBSAkZ2jERBesgUXC4lhs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "James",
+      "author_url": "https://www.google.com/maps/contrib/104027053989522220775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWObBj3nXbRq-82dtScd0tuO-5XdWU_GS3uj9rolemLK6Ni0e-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "It's not a bank branch. Don't expect an ATM. It's on the 18th floor and is exclusively business and investment. No personal banking.",
+      "time": 1481788174,
+      "translated": false
+    },
+    {
+      "author_name": "Henley Thomas",
+      "author_url": "https://www.google.com/maps/contrib/110786186868351362934/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHG_vLMXcEJRtUYyck17J76VZMkfgUabk7QiKOpwMTGmzRqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704520472,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1987979078067612421",
+  "user_ratings_total": 2,
+  "vicinity": "128 Beach Road, #25 01 Guoco Midtown"
+}

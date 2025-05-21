@@ -1,0 +1,41 @@
+{
+  "formatted_address": "10 Bukit Batok Cres, Singapore 658079",
+  "geometry": {
+    "location": {
+      "lat": 1.3383008,
+      "lng": 103.7584306
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339586830291502,
+        "lng": 103.7597908302915
+      },
+      "southwest": {
+        "lat": 1.336888869708498,
+        "lng": 103.7570928697085
+      }
+    }
+  },
+  "name": "International Plant & Equipment Pte Ltd",
+  "place_id": "ChIJtRCke24Q2jERjhEJTeE60_w",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Tech Group Engineering",
+      "author_url": "https://www.google.com/maps/contrib/112825246841720034029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuDcqAlvgGlv5WGkAtfnzTLHiZND3XD39Y8cWlpGmw9M0aVn9k=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1460374843,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18217969656978280846",
+  "user_ratings_total": 1,
+  "vicinity": "10 Bukit Batok Crescent"
+}

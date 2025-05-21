@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Pulau Ubin, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4063532,
+      "lng": 103.9843129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.4087118,
+        "lng": 103.9857356802915
+      },
+      "southwest": {
+        "lat": 1.405567,
+        "lng": 103.9830377197085
+      }
+    }
+  },
+  "name": "Batu Babi (Pig Rock)",
+  "place_id": "ChIJUUalDGY_2jERVNdITullfsI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Shashvat Shukla",
+      "author_url": "https://www.google.com/maps/contrib/111591255876581276922/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX2VFG2ohuXJahH7Vn1yy5dX9QZ8TNgQQN-7IH8nZkcSwBcaZJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The text below is from Wan’s Ubin Journal:\n\n“In an oral narration by the penghulu (village chief) of the Malay kampung Abdul Latiff bin Ahmad, more affectionately known as Tok Busu Latip, the Legend of Pulau Ubin refers to the three unique rock formations off the southeastern coasts of the island that are aptly named \"Batu Gajah\" (Elephant Rock), \"Batu Kodok\" (Frog/Toad Rock), and \"Batu Babi\" (Pig Rock) due to their resemblance to these animals.\n​\nAs narrated to him by his grandfather, Tok Busu Latip shares of a tale involving three animals: an elephant, a frog, and a pig. A very long time ago, the trio challenged one another to a race to see who could swim to Pulau Ubin the fastest, under the condition that whomever failed to reach ashore by the strike of noon shall be cursed into stone. Unfortunately, none of them were successful and were thus petrified into boulders where they were— with the frog located off the coasts of Pulau Sekodok; the pig located off the beaches of Kampung Tanjung; and the elephant by the right banks of the mouth of Sungei Ubin.”",
+      "time": 1685369662,
+      "translated": false
+    },
+    {
+      "author_name": "November's Chopin",
+      "author_url": "https://www.google.com/maps/contrib/112724240560224560242/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXboOHDWdJEPuoXGwm2iuUrWxDJHC823GvROOrKHXGotpN2Ahw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738295560,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14014751143138744148",
+  "user_ratings_total": 2,
+  "vicinity": "Pulau Ubin"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "2 Sin Ming Pl, Singapore 573838",
+  "geometry": {
+    "location": {
+      "lat": 1.3617959,
+      "lng": 103.8398639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363124330291502,
+        "lng": 103.8412036802915
+      },
+      "southwest": {
+        "lat": 1.360426369708498,
+        "lng": 103.8385057197085
+      }
+    }
+  },
+  "name": "Eunoia JC",
+  "place_id": "ChIJaaxgHyEX2jERORDCoewKaMI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Fendy Wiedardi Limtara",
+      "author_url": "https://www.google.com/maps/contrib/103520190355507564492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9BHged0_1KwWNNA9GqzU5RLkhIli1v47s_kwtXKMCoUZSdSu0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527574170,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14008458652378337337",
+  "user_ratings_total": 1,
+  "vicinity": "2 Sin Ming Place, Singapore"
+}

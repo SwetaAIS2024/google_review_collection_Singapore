@@ -1,0 +1,29 @@
+{
+  "formatted_address": "61 Ubi Ave 2, Automobile Megamart, Singapore 408898",
+  "geometry": {
+    "location": {
+      "lat": 1.3322328,
+      "lng": 103.9012465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333542180291502,
+        "lng": 103.9026799802915
+      },
+      "southwest": {
+        "lat": 1.330844219708498,
+        "lng": 103.8999820197085
+      }
+    }
+  },
+  "name": "Orient Credit",
+  "place_id": "ChIJK0M56_AX2jERjodRthugMp0",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11327292053673576334",
+  "vicinity": "61 Ubi Avenue 2, Automobile Megamart"
+}

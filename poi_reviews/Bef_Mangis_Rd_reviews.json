@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3138001,
+      "lng": 103.9031245
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315129180291502,
+        "lng": 103.9044845302915
+      },
+      "southwest": {
+        "lat": 1.312431219708498,
+        "lng": 103.9017865697085
+      }
+    }
+  },
+  "name": "Bef Mangis Rd",
+  "place_id": "ChIJS9Q8Jg4Y2jERbS33haFt5fI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Welles Tan",
+      "author_url": "https://www.google.com/maps/contrib/113097119080594756250/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVghgebuIz0W3CKyCRTzDexVoqjDN1diXHvomA2YDwQ-av9maGG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "There are few coffee shops around.",
+      "time": 1610690498,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17502516067350031725",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

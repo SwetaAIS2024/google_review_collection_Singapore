@@ -1,0 +1,55 @@
+{
+  "formatted_address": "282 Bishan Street 22, Singapore 570282",
+  "geometry": {
+    "location": {
+      "lat": 1.3579075,
+      "lng": 103.8448495
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359397680291502,
+        "lng": 103.8462836302915
+      },
+      "southwest": {
+        "lat": 1.356699719708498,
+        "lng": 103.8435856697085
+      }
+    }
+  },
+  "name": "POSB Cdm",
+  "place_id": "ChIJ_yQFnhgX2jERMrDl5Aht5Uo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "vijay DJ",
+      "author_url": "https://www.google.com/maps/contrib/107643979836521764897/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3dc6dxypGdEpo4Ui20mB_lrR7IZTO2tIwQlG980XGLvmHqWnW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Nice",
+      "time": 1583900846,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Chua",
+      "author_url": "https://www.google.com/maps/contrib/105440269346068208856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8CKVyITjpfz0E6O6n3YS6_3PW7AcvvGqmeIlLBCWYqaE0ITTF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610826828,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5396839613440831538",
+  "user_ratings_total": 2,
+  "vicinity": "282 Bishan Street 22, Singapore"
+}

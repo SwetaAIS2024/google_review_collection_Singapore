@@ -1,0 +1,57 @@
+{
+  "formatted_address": "127 Plantation Cres, #03-02, Singapore 690127",
+  "geometry": {
+    "location": {
+      "lat": 1.357581,
+      "lng": 103.734441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358650330291502,
+        "lng": 103.7355394802915
+      },
+      "southwest": {
+        "lat": 1.355952369708498,
+        "lng": 103.7328415197085
+      }
+    }
+  },
+  "name": "Hua Xin Mala Hotpot",
+  "place_id": "ChIJqwzhbAAR2jERBiqm2e6UaEw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Averie",
+      "author_url": "https://www.google.com/maps/contrib/116580188228606181333/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCnE2qBfQJbPjA96hWnOmeJnfZ1wOyrAgsECZczKqfoZwsSu-2=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Chongqing grilled fish for $23.80\n\nThe fish is impressively large and offers great value for the price.",
+      "time": 1745129139,
+      "translated": false
+    },
+    {
+      "author_name": "Joyce Lee",
+      "author_url": "https://www.google.com/maps/contrib/112249853843389701134/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaRfAdsUscZ9b8EAMDSSNLkrjojIcIzo_Cpi9K-GhTKJ_R5C1q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "Ordered medium to large spicy level for mlxg, waited 30 mins for order yet they didn’t inform beforehand if they were handling large orders (grabfood, takeaways, dine in), I would have reconsidered. Thought maybe the taste will be the saving grace for the wait but it was bad, my mlxg was pale and no spice at all. Staff was ok but no the food and wait don’t justify.",
+      "time": 1746358444,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5505814298035104262",
+  "user_ratings_total": 2,
+  "vicinity": "127 Plantation Crescent, #03-02, Singapore"
+}

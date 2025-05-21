@@ -1,0 +1,72 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2990252,
+      "lng": 103.8004219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300494730291502,
+        "lng": 103.8018314802915
+      },
+      "southwest": {
+        "lat": 1.297796769708498,
+        "lng": 103.7991335197085
+      }
+    }
+  },
+  "name": "Opp Queenstown Polyclinic",
+  "place_id": "ChIJn3lQJzga2jERUAudD9SczB4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zepu Ma",
+      "author_url": "https://www.google.com/maps/contrib/111215623851530085389/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtBm5gnEF-H7v_Pg5OGRQI6hZQqB-3k0h74l1LfAe0FsnENa-Z3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491523059,
+      "translated": false
+    },
+    {
+      "author_name": "md sany",
+      "author_url": "https://www.google.com/maps/contrib/104035655097895553157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZzaqnqGfDUL3tOep11o3VYqQbamXXIfo0CobUQqEdN0CGhB08oA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531237135,
+      "translated": false
+    },
+    {
+      "author_name": "Jansie Seah",
+      "author_url": "https://www.google.com/maps/contrib/118035076867024254588/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYWdSzua6Px2b430QZsjmBYqoD52rZwhU0Bii2im8p5xnTUapd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491207634,
+      "translated": false
+    },
+    {
+      "author_name": "dinesh t",
+      "author_url": "https://www.google.com/maps/contrib/114958452405982670388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEAtMpFOXHf-466RYBfG9gqgcIACZFgcGThEz7SdzurJ9MlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1429117581,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2219321150995762000",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

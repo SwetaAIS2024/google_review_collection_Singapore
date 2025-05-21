@@ -1,0 +1,55 @@
+{
+  "formatted_address": "336 Smith St, Singapore 050336",
+  "geometry": {
+    "location": {
+      "lat": 1.2828136,
+      "lng": 103.8426668
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284305430291502,
+        "lng": 103.8440330802915
+      },
+      "southwest": {
+        "lat": 1.281607469708498,
+        "lng": 103.8413351197085
+      }
+    }
+  },
+  "name": "Posb Atm (Chinatown Complex)",
+  "place_id": "ChIJj2vTEXMZ2jERXrPX5AQpwCA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Niranjan Manjunath (niru)",
+      "author_url": "https://www.google.com/maps/contrib/116478542972996767487/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaitpmYJ358xoS6TF6T5bUm2HfRHQzLHyTPHUOCoDi8NXQsJ9Ufg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Conveniently located inside the Chinatown complex. Please note that the ATM charges you 5 SGD as withdrawal fee.",
+      "time": 1739691320,
+      "translated": false
+    },
+    {
+      "author_name": "Ashwini Nagaretnam",
+      "author_url": "https://www.google.com/maps/contrib/115988637073500209613/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNh45b8hcKwFv9JkSxu6pTVlbBHOuW5qbmKee3rtdjDLvY1w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599299992,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2359931305738089310",
+  "user_ratings_total": 2,
+  "vicinity": "336 Smith Street, Singapore"
+}

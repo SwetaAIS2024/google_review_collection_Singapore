@@ -1,0 +1,58 @@
+{
+  "formatted_address": "2 Bukit Panjang Ring Rd, Singapore 679947",
+  "geometry": {
+    "location": {
+      "lat": 1.3774509,
+      "lng": 103.7724791
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378942030291502,
+        "lng": 103.7736705302915
+      },
+      "southwest": {
+        "lat": 1.376244069708498,
+        "lng": 103.7709725697085
+      }
+    }
+  },
+  "name": "猪王猪脚饭",
+  "place_id": "ChIJ55O6BQAR2jERmf8sZ2IRmG0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Junnie",
+      "author_url": "https://www.google.com/maps/contrib/111853583667675795476/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCO-5p7lnzwTor7Xo1eoUIuoxrRTnvUeS8Ts1ri2YsNu1aC8zsqA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "I think its quite mid\n\nVery little meat a lot of rice\n\nThe meat is not specia either",
+      "time": 1741413312,
+      "translated": false
+    },
+    {
+      "author_name": "Rosalind Chen",
+      "author_url": "https://www.google.com/maps/contrib/109853972643686186078/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8x9N5U2CCXuNx6vr2uoxIiQD0vNBfSsdT-bDGukZENsQLzfeD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Ordered a few times and portion is good despite the price\n\nDelivery via grab is about $1 more",
+      "time": 1739665166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7897081060929634201",
+  "user_ratings_total": 2,
+  "vicinity": "2 Bukit Panjang Ring Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2807149,
+      "lng": 103.8642902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.28248654955974,
+        "lng": 103.8661034885755
+      },
+      "southwest": {
+        "lat": 1.279788588976736,
+        "lng": 103.8634055279925
+      }
+    }
+  },
+  "name": "Fruits and Flowers",
+  "place_id": "ChIJf4voPAMZ2jERIgFNL1s-udI",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da19033ce88b7f:0xd2b93e5b2f4d0122",
+  "vicinity": "Singapore"
+}

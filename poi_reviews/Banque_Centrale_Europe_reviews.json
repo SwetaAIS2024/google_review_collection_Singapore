@@ -1,0 +1,29 @@
+{
+  "formatted_address": "37-02 Marina Blvd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2816343,
+      "lng": 103.8528407
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283011280291502,
+        "lng": 103.8542082802915
+      },
+      "southwest": {
+        "lat": 1.280313319708498,
+        "lng": 103.8515103197085
+      }
+    }
+  },
+  "name": "Banque Centrale Europe",
+  "place_id": "ChIJq-OY5g8Z2jERQhIYyVTTU_k",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17965935699615552066",
+  "vicinity": "37-02 Marina Boulevard"
+}

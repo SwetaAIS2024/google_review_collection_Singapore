@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Beach Rd, Singapore 189673",
+  "geometry": {
+    "location": {
+      "lat": 1.3034977,
+      "lng": 103.8648254
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304645480291502,
+        "lng": 103.8659568302915
+      },
+      "southwest": {
+        "lat": 1.301947519708498,
+        "lng": 103.8632588697085
+      }
+    }
+  },
+  "name": "Tan Chuan Guan Chop",
+  "place_id": "ChIJr1rWXbQZ2jERTESPNOWhtbk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13381779873602683980",
+  "vicinity": "1 Beach Road"
+}

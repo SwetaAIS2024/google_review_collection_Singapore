@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.366178,
+      "lng": 103.874924
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367509030291502,
+        "lng": 103.8763117802915
+      },
+      "southwest": {
+        "lat": 1.364811069708498,
+        "lng": 103.8736138197085
+      }
+    }
+  },
+  "name": "Affinity At Serangoon",
+  "place_id": "ChIJoVz6dVMW2jER26b-qqdBJuQ",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Amanda Hoo",
+      "author_url": "https://www.google.com/maps/contrib/110492674327839147469/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2ZU3GU6RFN7ODRGv71CPTagmlBovO0gKDsMSqJj7pzdfpsHYszQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561772051,
+      "translated": false
+    },
+    {
+      "author_name": "Conjugate gradient method",
+      "author_url": "https://www.google.com/maps/contrib/110866151680076411493/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdV6edBasxLv72-GmXZxDmdX169-gq7MpWrCSNfGmXsao8gAav=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483609208,
+      "translated": false
+    },
+    {
+      "author_name": "Adonis Lee",
+      "author_url": "https://www.google.com/maps/contrib/116734950391443188632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMkID7nkWhie_1RbvsuF5tK8PMgOZmw_R38sutCSfO-Ly31A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477653206,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16439899678146733787",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "#03-310 Raffles Blvd, No. 6 Mandarin Marina, 039594, Singapore 039594",
+  "geometry": {
+    "location": {
+      "lat": 1.291425,
+      "lng": 103.857985
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.292841630291502,
+        "lng": 103.8596656802915
+      },
+      "southwest": {
+        "lat": 1.290143669708498,
+        "lng": 103.8569677197085
+      }
+    }
+  },
+  "name": "Artist3",
+  "place_id": "ChIJjdES9agZ2jERtMUX_dQThRM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Himanshu Gupta",
+      "author_url": "https://www.google.com/maps/contrib/118250571431034454418/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsDlWdGDu3VwAexlYBW9jV6hdDkGQ4lFRPi_LTi8ET5DM-dk-D=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Fantastic place to have a luck tea or snacks with family n friends . Plenty of options to choose from . Clean n plenty of pla e to sit.",
+      "time": 1710934848,
+      "translated": false
+    }
+  ],
+  "types": [
+    "amusement_park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1406552264123336116",
+  "user_ratings_total": 1,
+  "vicinity": "#03-310 Raffles Boulevard, No. 6 Mandarin Marina, 039594"
+}

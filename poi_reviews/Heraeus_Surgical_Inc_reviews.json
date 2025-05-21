@@ -1,0 +1,30 @@
+{
+  "formatted_address": "20 Bendemeer Rd, Singapore 339914",
+  "geometry": {
+    "location": {
+      "lat": 1.31437,
+      "lng": 103.862153
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315945330291502,
+        "lng": 103.8633142302915
+      },
+      "southwest": {
+        "lat": 1.313247369708498,
+        "lng": 103.8606162697085
+      }
+    }
+  },
+  "name": "Heraeus Surgical Inc",
+  "place_id": "ChIJP8MSgs4Z2jERSVEijf-zArQ",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12971127786946318665",
+  "vicinity": "20 Bendemeer Road"
+}

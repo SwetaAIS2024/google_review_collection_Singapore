@@ -1,0 +1,30 @@
+{
+  "formatted_address": "51 Lor 6 Toa Payoh, Singapore 310051",
+  "geometry": {
+    "location": {
+      "lat": 1.3378038,
+      "lng": 103.85223
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339177480291502,
+        "lng": 103.8535737302915
+      },
+      "southwest": {
+        "lat": 1.336479519708498,
+        "lng": 103.8508757697085
+      }
+    }
+  },
+  "name": "古早味",
+  "place_id": "ChIJs-WrYgAX2jERYh95SY9byos",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10072964187538661218",
+  "vicinity": "51 Lorong 6 Toa Payoh"
+}

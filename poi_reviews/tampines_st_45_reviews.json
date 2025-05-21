@@ -1,0 +1,30 @@
+{
+  "formatted_address": "491C Tampines Street 45, Block 491C, Singapore 522491",
+  "geometry": {
+    "location": {
+      "lat": 1.3618794,
+      "lng": 103.9545991
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363094930291502,
+        "lng": 103.9560846302915
+      },
+      "southwest": {
+        "lat": 1.360396969708498,
+        "lng": 103.9533866697085
+      }
+    }
+  },
+  "name": "tampines st 45",
+  "place_id": "ChIJEcLeAgA92jER95WYdt4Cqmc",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7469786086443095543",
+  "vicinity": "491C Tampines Street 45, Block 491C"
+}

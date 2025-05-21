@@ -1,0 +1,43 @@
+{
+  "formatted_address": "7 Empress Rd, #01-108, Singapore 260007",
+  "geometry": {
+    "location": {
+      "lat": 1.3161519,
+      "lng": 103.805685
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317265830291502,
+        "lng": 103.8068948302915
+      },
+      "southwest": {
+        "lat": 1.314567869708498,
+        "lng": 103.8041968697085
+      }
+    }
+  },
+  "name": "Star cafe",
+  "place_id": "ChIJ0985YVQb2jERYvpiy7aff6Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Thiru selvan",
+      "author_url": "https://www.google.com/maps/contrib/112618664036006904996/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQks_9zePnYA7XxRsbUP9HpP8w-yi7_yPRZYTBtoG_zHbEMgE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562745551,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11853368351707560546",
+  "user_ratings_total": 1,
+  "vicinity": "7 Empress Road, #01-108, Singapore"
+}

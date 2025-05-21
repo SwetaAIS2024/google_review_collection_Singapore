@@ -1,0 +1,29 @@
+{
+  "formatted_address": "16 College Rd, Singapore 169854",
+  "geometry": {
+    "location": {
+      "lat": 1.2804428,
+      "lng": 103.8336786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281680830291502,
+        "lng": 103.8352073802915
+      },
+      "southwest": {
+        "lat": 1.278982869708498,
+        "lng": 103.8325094197085
+      }
+    }
+  },
+  "name": "SGICU",
+  "place_id": "ChIJj8hqD3AZ2jERs8on6HOz7fw",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18225420577435798195",
+  "vicinity": "16 College Road"
+}

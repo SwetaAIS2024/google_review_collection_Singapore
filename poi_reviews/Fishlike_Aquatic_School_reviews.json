@@ -1,0 +1,45 @@
+{
+  "formatted_address": "634 Pasir Ris Dr 1, Singapore 510634",
+  "geometry": {
+    "location": {
+      "lat": 1.3775453,
+      "lng": 103.9406845
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378959180291502,
+        "lng": 103.9420831302915
+      },
+      "southwest": {
+        "lat": 1.376261219708498,
+        "lng": 103.9393851697085
+      }
+    }
+  },
+  "name": "Fishlike Aquatic School",
+  "place_id": "ChIJcSxxILgZ2jERpAd6UkPAeHU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jessica Ng",
+      "author_url": "https://www.google.com/maps/contrib/108186550220923189084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb_AxLMz5C8gNwU-rvEsN7v-upmSwZzTJr0Iby7R_v1GzSpZN_ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "There are no weekend class dates. Thus was not refunded my deposit when I had to cancel class.",
+      "time": 1635420558,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "health",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8464726895021918116",
+  "user_ratings_total": 1,
+  "vicinity": "634 Pasir Ris Drive 1"
+}

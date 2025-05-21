@@ -1,0 +1,83 @@
+{
+  "formatted_address": "34 Kaki Bukit Industrial Terrace, Singapore 416114",
+  "geometry": {
+    "location": {
+      "lat": 1.33631,
+      "lng": 103.902573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337634280291502,
+        "lng": 103.9039502302915
+      },
+      "southwest": {
+        "lat": 1.334936319708498,
+        "lng": 103.9012522697085
+      }
+    }
+  },
+  "name": "Hong Seng Sports",
+  "place_id": "ChIJcUPt9u8X2jERQ2G2JYHjxKU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Guan Chwee Lua",
+      "author_url": "https://www.google.com/maps/contrib/103170127252330896259/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgpcFm_PjYRJpUEZCfbELunD2SBxFCqFEqI1z7Cy_KxCFwlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Fortunately, it's just a small alley with many cars.",
+      "time": 1536574665,
+      "translated": true
+    },
+    {
+      "author_name": "mahantha banu",
+      "author_url": "https://www.google.com/maps/contrib/115806152683015861327/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVisaIyZQ8IaTffA9wPFUNU-CakObOnh1--3jcfy9QYY-Wy5Dc=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643856016,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Tan",
+      "author_url": "https://www.google.com/maps/contrib/108981740606204845885/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_rWVKYGNWATVFZcX9sgnszx8KBeMcv41gOPU2JY_MkVhNDg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1576121118,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Cheong",
+      "author_url": "https://www.google.com/maps/contrib/106909524653421901830/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVco5XCLetEOKsK40RCnLJfeeVFKDDJB-T9ugI7w9qG0aD0zTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567820263,
+      "translated": false
+    },
+    {
+      "author_name": "John Carlo",
+      "author_url": "https://www.google.com/maps/contrib/115074288852090872469/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZWwWgUFicIxtALB1vbUDiaH2CvkHNYRusue58ClXug0eCaabr=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486959248,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11944922255516393795",
+  "user_ratings_total": 5,
+  "vicinity": "34 Kaki Bukit Industrial Terrace"
+}

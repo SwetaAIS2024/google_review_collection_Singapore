@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2958763,
+      "lng": 103.8628107
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297259480291502,
+        "lng": 103.8641638802915
+      },
+      "southwest": {
+        "lat": 1.294561519708498,
+        "lng": 103.8614659197085
+      }
+    }
+  },
+  "name": "Marina Promenade",
+  "place_id": "ChIJpR5WYmUZ2jERFlKzM3ASuu8",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "SuperSub",
+      "author_url": "https://www.google.com/maps/contrib/109539920137001153299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOQeuALZY76dlFPsMsdXXmZ6FKY_zQKDZLRcPnnjDUNx2NQVZZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It was cool",
+      "time": 1690961105,
+      "translated": false
+    },
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733098182,
+      "translated": false
+    },
+    {
+      "author_name": "mike deng jf",
+      "author_url": "https://www.google.com/maps/contrib/115663865587956008619/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7pI1kywRPoCo23u-94SDlXg62VDgUdKUKU3bEXn9jYlr-gHi2=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686796390,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17274139593845985814",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

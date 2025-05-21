@@ -1,0 +1,43 @@
+{
+  "formatted_address": "611 Old Choa Chu Kang Rd, Singapore 698930",
+  "geometry": {
+    "location": {
+      "lat": 1.3722687,
+      "lng": 103.7170017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.37522105,
+        "lng": 103.7188252802915
+      },
+      "southwest": {
+        "lat": 1.37123765,
+        "lng": 103.7161273197085
+      }
+    }
+  },
+  "name": "Ah Chuan",
+  "place_id": "ChIJjSpEDgAP2jERwM3MW9sIBeo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "swx",
+      "author_url": "https://www.google.com/maps/contrib/109170136188089251226/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUFk-yyW8-qdc5COfhDno5eMTmKaBERZJC1wbIAIoUgw0VrN-1=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747710205,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16862894117989699008",
+  "user_ratings_total": 1,
+  "vicinity": "611 Old Choa Chu Kang Road, Singapore"
+}

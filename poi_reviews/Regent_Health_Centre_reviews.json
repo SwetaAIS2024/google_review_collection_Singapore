@@ -1,0 +1,29 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3431472,
+      "lng": 103.7758583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344777580291502,
+        "lng": 103.7773044802915
+      },
+      "southwest": {
+        "lat": 1.342079619708498,
+        "lng": 103.7746065197085
+      }
+    }
+  },
+  "name": "Regent Health Centre",
+  "place_id": "ChIJyd5nY4oQ2jERNiTYQaxvraY",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12010378566896722998",
+  "vicinity": "170 Upper Bukit Timah Road"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "138 Robinson Rd, #20-01 Oxley Tower, Singapore 068906",
+  "geometry": {
+    "location": {
+      "lat": 1.278646,
+      "lng": 103.8484196
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280062430291502,
+        "lng": 103.8497667302915
+      },
+      "southwest": {
+        "lat": 1.277364469708498,
+        "lng": 103.8470687697085
+      }
+    }
+  },
+  "name": "MYST",
+  "place_id": "ChIJlYaB2LoZ2jERe23LXAfY4YI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Terrence Voo",
+      "author_url": "https://www.google.com/maps/contrib/106941640063787603360/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZpb1bu6z56p852C9e8HcF7D3dmFRZ55Rl-vVdqy91Y65WYQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732774068,
+      "translated": false
+    },
+    {
+      "author_name": "Anis Faizata",
+      "author_url": "https://www.google.com/maps/contrib/118209925227222994126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_hKhUzX6d7RlVErKxSWRTQJns_s45sUtoxrn9XHgz-aMUbOC5=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631149061,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9431056620823735675",
+  "user_ratings_total": 2,
+  "vicinity": "138 Robinson Road, #20-01 Oxley Tower, Singapore"
+}

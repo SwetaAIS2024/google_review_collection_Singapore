@@ -1,0 +1,29 @@
+{
+  "formatted_address": "653 Yishun Ave 4, Block 653, Singapore 760653",
+  "geometry": {
+    "location": {
+      "lat": 1.423134,
+      "lng": 103.839614
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424526230291502,
+        "lng": 103.8409448302915
+      },
+      "southwest": {
+        "lat": 1.421828269708498,
+        "lng": 103.8382468697085
+      }
+    }
+  },
+  "name": "SG65.sg",
+  "place_id": "ChIJcf3ihGsU2jERXVLYBTjjH9k",
+  "types": [
+    "tourist_attraction",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15645473460264129117",
+  "vicinity": "653 Yishun Avenue 4, Block 653"
+}

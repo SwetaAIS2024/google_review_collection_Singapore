@@ -1,0 +1,28 @@
+{
+  "formatted_address": "ECP, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3052353,
+      "lng": 103.9234317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306584280291502,
+        "lng": 103.9247806802915
+      },
+      "southwest": {
+        "lat": 1.303886319708498,
+        "lng": 103.9220827197085
+      }
+    }
+  },
+  "name": "ECP Taichi",
+  "place_id": "ChIJ_SXCYQAj2jERqSBuHxXSfHg",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8682045169826930857",
+  "vicinity": "East Coast Parkway"
+}

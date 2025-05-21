@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore 189768",
+  "geometry": {
+    "location": {
+      "lat": 1.2952937,
+      "lng": 103.8553717
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296687730291502,
+        "lng": 103.8567682802915
+      },
+      "southwest": {
+        "lat": 1.293989769708498,
+        "lng": 103.8540703197085
+      }
+    }
+  },
+  "name": "Aft Raffles Hotel",
+  "place_id": "ChIJcwUbkaUZ2jER34TaW8ZD4oY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Keathoau",
+      "author_url": "https://www.google.com/maps/contrib/114303448308582493090/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpawlqOMwBseXkFJBh0toHkIIi3xBHeFPkFTi9UxmwRF4TTgMU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1626512825,
+      "translated": false
+    },
+    {
+      "author_name": "Anthony Chiramal",
+      "author_url": "https://www.google.com/maps/contrib/114734517560362653699/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUMgv0GzBgW-iDTHAK7T-ExjIJa1b8sTKQ7qFBeswTkAeFwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477713963,
+      "translated": false
+    },
+    {
+      "author_name": "Dee Jee Cheng",
+      "author_url": "https://www.google.com/maps/contrib/107687050016413047118/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYexS-ipjhnZYA_njjrjIuetVc9agxfbczsba-u_pXDaimJqJf=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1441190653,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9719405465042584799",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

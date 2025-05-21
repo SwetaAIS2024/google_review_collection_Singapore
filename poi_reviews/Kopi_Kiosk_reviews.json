@@ -1,0 +1,44 @@
+{
+  "formatted_address": "12 Marina Boulevard, #02-01/02/03/04, Tower 3 Marina Bay Financial Centre, Singapore 018982",
+  "geometry": {
+    "location": {
+      "lat": 1.2789829,
+      "lng": 103.8545663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280442930291502,
+        "lng": 103.8560397802915
+      },
+      "southwest": {
+        "lat": 1.277744969708498,
+        "lng": 103.8533418197085
+      }
+    }
+  },
+  "name": "Kopi Kiosk",
+  "place_id": "ChIJSzxMSgAZ2jERgDc7KOulKm4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Leonardo Saiani",
+      "author_url": "https://www.google.com/maps/contrib/117264142831847764188/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA5RkTObBi_wlro4hoYWZvFneZXsZsmCwfnbxL9siwtEUHBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743831712,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7938339722604787584",
+  "user_ratings_total": 1,
+  "vicinity": "12 Marina Boulevard, #02-01/02/03/04, Tower 3 Marina Bay Financial Centre, Singapore"
+}

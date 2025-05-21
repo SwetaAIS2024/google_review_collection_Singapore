@@ -1,0 +1,29 @@
+{
+  "formatted_address": "500 Dover Rd, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3114215,
+      "lng": 103.777372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312716030291502,
+        "lng": 103.7787998802915
+      },
+      "southwest": {
+        "lat": 1.310018069708498,
+        "lng": 103.7761019197085
+      }
+    }
+  },
+  "name": "Mala Hotpot",
+  "place_id": "ChIJvRXvFAAb2jERCexCMQ23KvA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17305845785413479433",
+  "vicinity": "500 Dover Road, Singapore"
+}

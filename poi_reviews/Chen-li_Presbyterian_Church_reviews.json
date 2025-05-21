@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6001 Beach Rd, Singapore 199589",
+  "geometry": {
+    "location": {
+      "lat": 1.3019921,
+      "lng": 103.8642024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303575480291502,
+        "lng": 103.8653964802915
+      },
+      "southwest": {
+        "lat": 1.300877519708498,
+        "lng": 103.8626985197085
+      }
+    }
+  },
+  "name": "Chen-li Presbyterian Church",
+  "place_id": "ChIJAQAAALMZ2jERhm3Juoz9WNM",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15229200920824343942",
+  "vicinity": "6001 Beach Road"
+}

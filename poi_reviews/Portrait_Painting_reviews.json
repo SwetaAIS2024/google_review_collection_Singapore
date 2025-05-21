@@ -1,0 +1,52 @@
+{
+  "formatted_address": "2a Starlight Rd, Singapore 217755",
+  "geometry": {
+    "location": {
+      "lat": 1.3145256,
+      "lng": 103.8533738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315915580291502,
+        "lng": 103.8548133802915
+      },
+      "southwest": {
+        "lat": 1.313217619708498,
+        "lng": 103.8521154197085
+      }
+    }
+  },
+  "name": "Portrait Painting",
+  "place_id": "ChIJS71HOa0Z2jERSpKI9RPNzN0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sneha",
+      "author_url": "https://www.google.com/maps/contrib/108092761019297769363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGerti0sx1CVmVCZrhhpRH4rm8MuaV-_vkcvZ-V6amqbOAsheQSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722422172,
+      "translated": false
+    },
+    {
+      "author_name": "Meena Sundar",
+      "author_url": "https://www.google.com/maps/contrib/105272037713205725457/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHlw4z0IXQ3yCn58F9nm1WmBzurghbPO2eLozMPaOMWW2q7lnFww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722399610,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15982374663238488650",
+  "user_ratings_total": 2,
+  "vicinity": "2a Starlight Road"
+}

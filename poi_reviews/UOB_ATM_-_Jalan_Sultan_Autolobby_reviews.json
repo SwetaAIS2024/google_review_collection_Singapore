@@ -1,0 +1,57 @@
+{
+  "formatted_address": "No. 200 Jln Sultan, #01-06 Textile Centre, Singapore 199018",
+  "geometry": {
+    "location": {
+      "lat": 1.3040311,
+      "lng": 103.8610534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305346680291502,
+        "lng": 103.8623395302915
+      },
+      "southwest": {
+        "lat": 1.302648719708498,
+        "lng": 103.8596415697085
+      }
+    }
+  },
+  "name": "UOB ATM - Jalan Sultan Autolobby",
+  "place_id": "ChIJl_sdWDYZ2jERrhYT_GL0F0k",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Joshua Liong",
+      "author_url": "https://www.google.com/maps/contrib/113589116589180875894/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVx5H_wKASo5Db03nuoFQVK6vkkxEn9YU79ig7YgBNVWWFOD2Z=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "Machine ate my ATM card :(\nAlso suspicious since the card insertion slot does indeed look different from the warning.\n\nSteps I took:\n1. Insert card and punch in PIN\n2. Select account\n3. Select withdraw\n4. Type the amount to withdraw (note that it does not do decimals. Standard ATM fare)\n5. Select “withdraw from local currency”\n6. Get the screen “Your card has been retained”",
+      "time": 1719377066,
+      "translated": false
+    },
+    {
+      "author_name": "Guillermo Brt",
+      "author_url": "https://www.google.com/maps/contrib/103432842415526929416/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_Ostzlmq0UnYEXIoi-zSnEQDyJI_2QXNzAy3DDQs_vonGYjro=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "Not working ever",
+      "time": 1727504626,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5266946995206166190",
+  "user_ratings_total": 2,
+  "vicinity": "No. 200 Jalan Sultan, #01-06 Textile Centre"
+}

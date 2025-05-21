@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337279,
+      "lng": 103.75441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338666180291502,
+        "lng": 103.7557838802915
+      },
+      "southwest": {
+        "lat": 1.335968219708498,
+        "lng": 103.7530859197085
+      }
+    }
+  },
+  "name": "Opp Toh Guan Ctr",
+  "place_id": "ChIJRXikcW0Q2jER0SbxeeJHt3c",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Good placed easy travel near place",
+      "time": 1629777931,
+      "translated": false
+    },
+    {
+      "author_name": "Juay Seng Tan",
+      "author_url": "https://www.google.com/maps/contrib/114486245878400846881/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9FCHTPJKWxG6q7kmJx6QBeEywgBkz-aWw6SHm9Z6o8HcGxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517300824,
+      "translated": false
+    },
+    {
+      "author_name": "Masran Abdul Rahman",
+      "author_url": "https://www.google.com/maps/contrib/114579866666509472221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcv7Vd2boBRMvE6yWemYFi4MZp37-HJcyq69sH-LlL-rQmUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482713881,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8626442649285502673",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

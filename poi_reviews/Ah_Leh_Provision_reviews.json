@@ -1,0 +1,30 @@
+{
+  "formatted_address": "210 Lor 8 Toa Payoh, Hawker Centre, Singapore 310210",
+  "geometry": {
+    "location": {
+      "lat": 1.3404366,
+      "lng": 103.8545894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341484380291502,
+        "lng": 103.8559689802915
+      },
+      "southwest": {
+        "lat": 1.338786419708498,
+        "lng": 103.8532710197085
+      }
+    }
+  },
+  "name": "Ah Leh Provision",
+  "place_id": "ChIJ678nd24X2jERbJFxI6VWDWg",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7497744221905981804",
+  "vicinity": "210 Lorong 8 Toa Payoh, Hawker Centre"
+}

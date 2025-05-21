@@ -1,0 +1,41 @@
+{
+  "formatted_address": "4 Airline Rd, Singapore 819825",
+  "geometry": {
+    "location": {
+      "lat": 1.3840523,
+      "lng": 104.0001611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385331630291502,
+        "lng": 104.0017036802915
+      },
+      "southwest": {
+        "lat": 1.382633669708498,
+        "lng": 103.9990057197085
+      }
+    }
+  },
+  "name": "LOGWIN AIR & OCEAN SINGAPORE PTE LTD",
+  "place_id": "ChIJAQAA8Aw82jERPTvJ9mPVQj4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Albert “ActionDeviL” Koh",
+      "author_url": "https://www.google.com/maps/contrib/103211337366903552616/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPvJEZfPGmUSNgQFjN9T3OSxNa-ba_xfHLuq-MsHHYr8MbVe0T7g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509475332,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4486382804133296957",
+  "user_ratings_total": 1,
+  "vicinity": "4 Airline Road"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2569835,
+      "lng": 103.8202676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258282530291502,
+        "lng": 103.8210764
+      },
+      "southwest": {
+        "lat": 1.255584569708498,
+        "lng": 103.81806
+      }
+    }
+  },
+  "name": "Deep Boo Sea!",
+  "place_id": "ChIJIZfT4P0b2jERuksy7J3zrJM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Samir Datta",
+      "author_url": "https://www.google.com/maps/contrib/106806862803734198131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz3ErViqcikmbEuSZA0TNuH6kjQmzN2HRgmiSJxuz2SEg3Gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683130498,
+      "translated": false
+    }
+  ],
+  "types": [
+    "aquarium",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10641147879167773626",
+  "user_ratings_total": 1,
+  "vicinity": "8 Sentosa Gateway, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Airline Rd, No. 7, Singapore 819834",
+  "geometry": {
+    "location": {
+      "lat": 1.384182,
+      "lng": 104.000033
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385635780291502,
+        "lng": 104.0011419802915
+      },
+      "southwest": {
+        "lat": 1.382937819708498,
+        "lng": 103.9984440197085
+      }
+    }
+  },
+  "name": "Evo Logistics Pte. Ltd.",
+  "place_id": "ChIJk3NeMpEZ2jERhRqFkZ4B_og",
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9871329213800585861",
+  "vicinity": "Airline Road, No. 7, Singapore"
+}

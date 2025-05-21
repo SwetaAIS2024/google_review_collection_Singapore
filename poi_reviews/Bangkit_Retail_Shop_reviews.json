@@ -1,0 +1,68 @@
+{
+  "formatted_address": "20 Bukit Panjang Ring Rd, #01-K1 Bangkit LRT Station, Singapore 679939",
+  "geometry": {
+    "location": {
+      "lat": 1.380071,
+      "lng": 103.772664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381418530291502,
+        "lng": 103.7739317802915
+      },
+      "southwest": {
+        "lat": 1.378720569708498,
+        "lng": 103.7712338197085
+      }
+    }
+  },
+  "name": "Bangkit Retail Shop",
+  "place_id": "ChIJgZqT46AR2jERVFIEkP2C2hM",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Teik Choon CHOO",
+      "author_url": "https://www.google.com/maps/contrib/104123977549071736296/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3ZDFUSDRRNA-ekwUTI2jCWhOXk1trJynKpPN0eqns2A8vRg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "No Air-conditioning.",
+      "time": 1533971967,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Lim",
+      "author_url": "https://www.google.com/maps/contrib/115301175771115457310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjyfGCnf2wkOn2s-F9MI-Do5SKxdRBJ24i67viOGonLhj6RYD-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Sales price are good",
+      "time": 1560869170,
+      "translated": false
+    },
+    {
+      "author_name": "Chan Yew Kong",
+      "author_url": "https://www.google.com/maps/contrib/101650216013302848686/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkJNnkxN6CNRYneadG4xKebnYaw4h26K-oFcQNZOHJVyE7hw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534164657,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1430599857198092884",
+  "user_ratings_total": 3,
+  "vicinity": "20 Bukit Panjang Ring Road, #01-K1 Bangkit LRT Station, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38255,
+      "lng": 103.74302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383889980291502,
+        "lng": 103.7443293802915
+      },
+      "southwest": {
+        "lat": 1.381192019708498,
+        "lng": 103.7416314197085
+      }
+    }
+  },
+  "name": "Blk 352, Choa Chu Kang Way",
+  "place_id": "ChIJ_0ayjsIR2jERJnTtrFlwPKk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "k SAGA",
+      "author_url": "https://www.google.com/maps/contrib/108802091770245179436/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGD-3Qcgvs8IaFDcDpurExVhPm_VSXFCL5Z9W9nxeyxaqznC4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1674442432,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12194745421468103718",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "269C Queen St, Singapore 183269",
+  "geometry": {
+    "location": {
+      "lat": 1.3007425,
+      "lng": 103.8535583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302038380291502,
+        "lng": 103.8549730802915
+      },
+      "southwest": {
+        "lat": 1.299340419708498,
+        "lng": 103.8522751197085
+      }
+    }
+  },
+  "name": "Goodtrust Marine Product Trading",
+  "place_id": "ChIJc_FXVboZ2jERuCzOjlHHggE",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=108868494112468152",
+  "vicinity": "269C Queen Street"
+}

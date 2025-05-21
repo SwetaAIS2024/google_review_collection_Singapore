@@ -1,0 +1,45 @@
+{
+  "formatted_address": "273C Punggol Pl, #01-882, Singapore 823273",
+  "geometry": {
+    "location": {
+      "lat": 1.4022449,
+      "lng": 103.9013507
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403504730291502,
+        "lng": 103.9026905802915
+      },
+      "southwest": {
+        "lat": 1.400806769708498,
+        "lng": 103.8999926197085
+      }
+    }
+  },
+  "name": "99 Nonya Kueh",
+  "place_id": "ChIJJfpIbQAV2jERKVLH7Ss3oBI",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "7 months ago",
+      "text": "I ordered 2 Chee Cheong Fun (CCF) at $2.30. While it was served piping hot, the CCF was harder than usual, and the sauce was quite dilute. Overall, it wasn't an enjoyable experience for me.",
+      "time": 1727488033,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1342133350768792105",
+  "user_ratings_total": 1,
+  "vicinity": "273C Punggol Place, #01-882, Singapore"
+}

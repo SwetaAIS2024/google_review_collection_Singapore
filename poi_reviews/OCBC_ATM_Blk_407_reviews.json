@@ -1,0 +1,29 @@
+{
+  "formatted_address": "407 Ang Mo Kio Ave 10, #01-741 Teck Ghee Square, Singapore 560407",
+  "geometry": {
+    "location": {
+      "lat": 1.3619903,
+      "lng": 103.8554583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363401430291502,
+        "lng": 103.8565512302915
+      },
+      "southwest": {
+        "lat": 1.360703469708498,
+        "lng": 103.8538532697085
+      }
+    }
+  },
+  "name": "OCBC ATM (Blk 407)",
+  "place_id": "ChIJZ9IPZAAX2jERpYQlpzE__5I",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10592254331088897189",
+  "vicinity": "407 Ang Mo Kio Avenue 10, #01-741 Teck Ghee Square, Singapore"
+}

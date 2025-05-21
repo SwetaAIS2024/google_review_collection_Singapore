@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379029,
+      "lng": 103.942719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380335530291502,
+        "lng": 103.9440358802915
+      },
+      "southwest": {
+        "lat": 1.377637569708498,
+        "lng": 103.9413379197085
+      }
+    }
+  },
+  "name": "Opp Pasir Ris Elias CC",
+  "place_id": "ChIJeW9bz7492jER4AobPh0_5hc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1722133302344354528",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "47 Tampines Street 44, #01-145 Ntuc Tampines East, Singapore 520475",
+  "geometry": {
+    "location": {
+      "lat": 1.3602822,
+      "lng": 103.9532107
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361592280291502,
+        "lng": 103.9548869802915
+      },
+      "southwest": {
+        "lat": 1.358894319708498,
+        "lng": 103.9521890197085
+      }
+    }
+  },
+  "name": "DBS ATM - Tampines Street 44/475 B",
+  "place_id": "ChIJbQrrKtA92jERhjD2VqzFtq8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12661524746382749830",
+  "vicinity": "47 Tampines Street 44, #01-145 Ntuc Tampines East"
+}

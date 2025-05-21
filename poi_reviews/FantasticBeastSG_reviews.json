@@ -1,0 +1,44 @@
+{
+  "formatted_address": "61T Jln Lekar, Singapore 698948",
+  "geometry": {
+    "location": {
+      "lat": 1.38249,
+      "lng": 103.721846
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383864080291502,
+        "lng": 103.7233927302915
+      },
+      "southwest": {
+        "lat": 1.381166119708498,
+        "lng": 103.7206947697085
+      }
+    }
+  },
+  "name": "FantasticBeastSG",
+  "place_id": "ChIJnTrTMDIP2jERVA0FJIW5Fp0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "cs Boon",
+      "author_url": "https://www.google.com/maps/contrib/105842191250771400799/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMWv1-0JV5LR56TfcA_0Q-gE5TytWLwOXG-dsz5SUqWF45_l_hwA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Best fish shop!",
+      "time": 1653196612,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11319438694928420180",
+  "user_ratings_total": 1,
+  "vicinity": "61T Jalan Lekar"
+}

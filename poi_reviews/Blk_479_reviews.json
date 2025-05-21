@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3753829,
+      "lng": 103.9580226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376800180291502,
+        "lng": 103.9593704302915
+      },
+      "southwest": {
+        "lat": 1.374102219708498,
+        "lng": 103.9566724697085
+      }
+    }
+  },
+  "name": "Blk 479",
+  "place_id": "ChIJHdq_G7M92jERjk8UkxGmf_8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Vijayaragavan Iyappan",
+      "author_url": "https://www.google.com/maps/contrib/104977248601937790401/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFLaWz1EPmmDhMN8P76bZ_bFpnjdlu6HS85nGmXk93nhEtSZoq4Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "It's near by Downtown mall",
+      "time": 1524316762,
+      "translated": false
+    },
+    {
+      "author_name": "Damon Wong",
+      "author_url": "https://www.google.com/maps/contrib/110102809049267793577/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYMQW0FYdiYoPSJAo_tlJMzuhFer6uwacGmdwdctBOxMBZww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714976785,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18410616396126113678",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

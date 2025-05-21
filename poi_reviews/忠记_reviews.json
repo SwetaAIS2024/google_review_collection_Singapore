@@ -1,0 +1,43 @@
+{
+  "formatted_address": "653A Punggol Dr., Singapore 821653",
+  "geometry": {
+    "location": {
+      "lat": 1.3980948,
+      "lng": 103.9193056
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399297080291502,
+        "lng": 103.9205345302915
+      },
+      "southwest": {
+        "lat": 1.396599119708498,
+        "lng": 103.9178365697085
+      }
+    }
+  },
+  "name": "忠记",
+  "place_id": "ChIJO8bYaQA92jER-InIAyIOD18",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chong Ji",
+      "author_url": "https://www.google.com/maps/contrib/108328900670839084978/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZbTbfVJYM-qLxll30HJvF52IIPOQQvLkXVHUwAQ7ChL-09g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737010554,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6849709097508964856",
+  "user_ratings_total": 1,
+  "vicinity": "653A Punggol Drive, Singapore"
+}

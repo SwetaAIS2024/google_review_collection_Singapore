@@ -1,0 +1,29 @@
+{
+  "formatted_address": "600 Sin Ming Ave, Singapore 575733",
+  "geometry": {
+    "location": {
+      "lat": 1.3600219,
+      "lng": 103.8409163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361326030291502,
+        "lng": 103.8423793802915
+      },
+      "southwest": {
+        "lat": 1.358628069708498,
+        "lng": 103.8396814197085
+      }
+    }
+  },
+  "name": "PHC",
+  "place_id": "ChIJq6pqbyEX2jER-7KdhRZa6D0",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4460914483687961339",
+  "vicinity": "600 Sin Ming Avenue"
+}

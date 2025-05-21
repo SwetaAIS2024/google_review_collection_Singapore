@@ -1,0 +1,57 @@
+{
+  "formatted_address": "88 Tanglin Halt Rd, #01-08 Commonwealth View, Singapore 141088",
+  "geometry": {
+    "location": {
+      "lat": 1.3018402,
+      "lng": 103.7983815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303031980291502,
+        "lng": 103.7995174302915
+      },
+      "southwest": {
+        "lat": 1.300334019708498,
+        "lng": 103.7968194697085
+      }
+    }
+  },
+  "name": "ABC Express",
+  "place_id": "ChIJMSuKcwAb2jERxr2kVzyiI08",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Charles Ch",
+      "author_url": "https://www.google.com/maps/contrib/102039968749344375507/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQQVSNHxGmf2CMgc74nndfG7V7FHEkLze6d0K6UMaGHmP_WA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "Slower than expected, takes 15-20mins",
+      "time": 1725626457,
+      "translated": false
+    },
+    {
+      "author_name": "L Chan",
+      "author_url": "https://www.google.com/maps/contrib/116520472038541999281/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINlTnrFJLkmwifQ0iY8b49hOQOK-hAzDBIwAXYazffR8HyfQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "Rojak 👍",
+      "time": 1716393889,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5702579933233331654",
+  "user_ratings_total": 2,
+  "vicinity": "88 Tanglin Halt Road, #01-08 Commonwealth View"
+}

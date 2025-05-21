@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Blk 632A Senja Rd, #01-167, Singapore 671632",
+  "geometry": {
+    "location": {
+      "lat": 1.3850016,
+      "lng": 103.7582643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386343580291502,
+        "lng": 103.7596056802915
+      },
+      "southwest": {
+        "lat": 1.383645619708498,
+        "lng": 103.7569077197085
+      }
+    }
+  },
+  "name": "PCF Sparkletots @ Zhenghua Blk 632A",
+  "place_id": "ChIJKcA0d5YR2jERU5goQrzfrek",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jeyam Traders",
+      "author_url": "https://www.google.com/maps/contrib/111163531573857838610/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFfwrsO7Y-pC7JWnk0kyhQKqQ19kwHQsqlWNTa5N7_Qg_9Bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1580782428,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16838360581464954963",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 632A Senja Road, #01-167"
+}

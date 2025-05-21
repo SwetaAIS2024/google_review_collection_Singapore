@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3835475,
+      "lng": 103.7418186
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384944430291502,
+        "lng": 103.7431618802915
+      },
+      "southwest": {
+        "lat": 1.382246469708498,
+        "lng": 103.7404639197085
+      }
+    }
+  },
+  "name": "Bet Blks 416/417",
+  "place_id": "ChIJRUP3HugR2jEReY8fA-6reL4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Nur Adira",
+      "author_url": "https://www.google.com/maps/contrib/102218719233297063470/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhVvS7mTCZiWF5cK7wdPuwfHLDKpfg8TEW2duHAyA9A_br_MA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723733193,
+      "translated": false
+    },
+    {
+      "author_name": "Aisyah Tiara Tiara",
+      "author_url": "https://www.google.com/maps/contrib/113171922187657726261/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWu4b7O34-6aLprChzPN4pKPtcwrp2myiWSzDOBJ4cfJJ9NQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "13 years ago",
+      "text": "",
+      "time": 1332257208,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13724908903154552697",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

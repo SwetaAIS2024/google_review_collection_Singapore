@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Medical Dr, Singapore 117600",
+  "geometry": {
+    "location": {
+      "lat": 1.2950663,
+      "lng": 103.7820989
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296414080291502,
+        "lng": 103.7834163802915
+      },
+      "southwest": {
+        "lat": 1.293716119708497,
+        "lng": 103.7807184197085
+      }
+    }
+  },
+  "name": "JCFMS",
+  "place_id": "ChIJE8gKNVEa2jERtBP-mVAUjyY",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2778461831524389812",
+  "vicinity": "Medical Drive"
+}

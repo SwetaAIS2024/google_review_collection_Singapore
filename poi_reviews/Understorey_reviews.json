@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2810411,
+      "lng": 103.8647885
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282718964159921,
+        "lng": 103.8663467003898
+      },
+      "southwest": {
+        "lat": 1.280021003576917,
+        "lng": 103.8636487398068
+      }
+    }
+  },
+  "name": "Understorey",
+  "place_id": "ChIJe0i2HgMZ2jER3yfGSjW6hJY",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da19031eb6487b:0x9684ba354ac627df",
+  "vicinity": "Singapore"
+}

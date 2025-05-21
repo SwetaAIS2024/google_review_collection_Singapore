@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3182465,
+      "lng": 103.7658749
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319593080291502,
+        "lng": 103.7672818802915
+      },
+      "southwest": {
+        "lat": 1.316895119708498,
+        "lng": 103.7645839197085
+      }
+    }
+  },
+  "name": "Bet Blks 315/318",
+  "place_id": "ChIJZYdHcIUa2jERYBUkZ4WTPjM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "煥鴻司徒",
+      "author_url": "https://www.google.com/maps/contrib/102022382926283581430/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv73oUHN9W1DtkD5tU5XbPIvxBmlXbXknTGr5o2j7ke-DLOQ_p2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564845868,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3692550945660736864",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3848136,
+      "lng": 103.7580043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386132480291502,
+        "lng": 103.7593177802915
+      },
+      "southwest": {
+        "lat": 1.383434519708498,
+        "lng": 103.7566198197085
+      }
+    }
+  },
+  "name": "Blk 632 CP",
+  "place_id": "ChIJG3nZdJYR2jERn08-WMf2ekY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5078642865853058975",
+  "vicinity": "Singapore"
+}

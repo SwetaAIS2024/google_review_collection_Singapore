@@ -1,0 +1,57 @@
+{
+  "formatted_address": "722 Clementi West Street 2, Singapore 120722",
+  "geometry": {
+    "location": {
+      "lat": 1.3027835,
+      "lng": 103.7635239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304070980291502,
+        "lng": 103.7647389302915
+      },
+      "southwest": {
+        "lat": 1.301373019708498,
+        "lng": 103.7620409697085
+      }
+    }
+  },
+  "name": "Cafe Nora (Malay Food Nasi Padang)",
+  "place_id": "ChIJM9OZ7osb2jERdl-pQKLO8Eo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lynn Lum",
+      "author_url": "https://www.google.com/maps/contrib/109370436006863339332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLYgRHj6y5cybHqwYv5KD_fma7ibUSfmAEa9swy0U5z43UYQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best Mee Soto in Singapore. I tried so many Mee Soto that are highly rated but none can beat this stall. The soup is tasty and the chilli makes it hot and shiok! I will travel 1.5hrs from Punggol for this.\nStall opens 5.30am to 2pm. Don't know why the status says temporarily closed but it's open.",
+      "time": 1703656588,
+      "translated": false
+    },
+    {
+      "author_name": "Zaty Roslan",
+      "author_url": "https://www.google.com/maps/contrib/109340011326388286683/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlFyeAApMYfJiAwwZVeQ8J7VTj1NOFpjcj6m35fNMiwXpolx74ZQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "Had the nasi sambal goreng, mee rebus and nasi padang (sambal sotong, paru and urap). The price is very reasonable and the food is not bad. Our food however was on the salty side. Nevertheless, will try again!",
+      "time": 1717969273,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5400043149482090358",
+  "user_ratings_total": 2,
+  "vicinity": "722 Clementi West Street 2, Singapore"
+}

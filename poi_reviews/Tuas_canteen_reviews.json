@@ -1,0 +1,77 @@
+{
+  "formatted_address": "13 Tuas South Street 5, Singapore 637555",
+  "geometry": {
+    "location": {
+      "lat": 1.2951955,
+      "lng": 103.6267547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296354680291502,
+        "lng": 103.6280323802915
+      },
+      "southwest": {
+        "lat": 1.293656719708498,
+        "lng": 103.6253344197085
+      }
+    }
+  },
+  "name": "Tuas canteen",
+  "place_id": "ChIJWRvOxc4H2jER2Nu79dDyPyo",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Mahesh Nayak",
+      "author_url": "https://www.google.com/maps/contrib/101576368206190999395/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKRK8xdnXM0chaEYkbzZsDA83KDIxQmiJ2wzs7NWUOGbix5Rgm=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice 🛣️",
+      "time": 1663668102,
+      "translated": false
+    },
+    {
+      "author_name": "Local Guide",
+      "author_url": "https://www.google.com/maps/contrib/109063848506093875383/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKbdvGyL7kiPhVAx0IcqY6P9v3SBF7nF_eq6s-5jIaekv3eo6ptA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Good",
+      "time": 1671076769,
+      "translated": false
+    },
+    {
+      "author_name": "Ken ShiC",
+      "author_url": "https://www.google.com/maps/contrib/100553608306957539438/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd34zmVPVkGX94BDTxylCdUDYI7YOmtnE1wtfKfZPy9y6Hy1lOIQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734253923,
+      "translated": false
+    },
+    {
+      "author_name": "Lai soon Lim",
+      "author_url": "https://www.google.com/maps/contrib/104879397662419121800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoMMrZWKeDqArzYUurwYBuRZaaa5I90gQ1U3aqY1SRWaTcdA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704158289,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3044418852415593432",
+  "user_ratings_total": 4,
+  "vicinity": "13 Tuas South Street 5, Singapore"
+}

@@ -1,0 +1,59 @@
+{
+  "formatted_address": "15 Changi Business Park Cres, #01-01 HAITE Building, Singapore 486006",
+  "geometry": {
+    "location": {
+      "lat": 1.3372083,
+      "lng": 103.9683103
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338597330291502,
+        "lng": 103.9696007302915
+      },
+      "southwest": {
+        "lat": 1.335899369708498,
+        "lng": 103.9669027697085
+      }
+    }
+  },
+  "name": "Knights Express Café & Meals",
+  "place_id": "ChIJwzlLjeI92jERDndowb79Bks",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mark Lim",
+      "author_url": "https://www.google.com/maps/contrib/115109873236133476737/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoBm2NB2mzaYdjp_oGgeDs18SmKgg1_gNjx1JmERz8qkXYf8gR=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Wow! That toastie and coffee from Knights Express was amazing!  So good and afforable! We're Wings Academy on level 5, and getting lunch was such a drag and often skip our meals – we've been waiting forever for a cafe to be opened in the Haite lobby that can prepare nice eats and good coffee. 👍☺️😋",
+      "time": 1740149737,
+      "translated": false
+    },
+    {
+      "author_name": "Connie Ni",
+      "author_url": "https://www.google.com/maps/contrib/106936385529891318547/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdDokeIP-_WBOqBBr_pm1y1fkWHf0TUzNb30MwHiHVosNQeKM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The food prices are very reasonable, and the service is excellent.",
+      "time": 1738997636,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5406287398435321614",
+  "user_ratings_total": 2,
+  "vicinity": "15 Changi Business Park Crescent, #01-01 HAITE Building"
+}

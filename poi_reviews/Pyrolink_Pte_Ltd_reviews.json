@@ -1,0 +1,41 @@
+{
+  "formatted_address": "7030 Ang Mo Kio Ave 5, #07-61, Singapore 569880",
+  "geometry": {
+    "location": {
+      "lat": 1.37762,
+      "lng": 103.875783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379491780291502,
+        "lng": 103.8771809302915
+      },
+      "southwest": {
+        "lat": 1.376793819708498,
+        "lng": 103.8744829697085
+      }
+    }
+  },
+  "name": "Pyrolink Pte Ltd",
+  "place_id": "ChIJd0p0fpgX2jER4l3SxD6eGW4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "chinna rasu",
+      "author_url": "https://www.google.com/maps/contrib/114343515397204200656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQZrfP_drcpgt3MzrokKzTls6tz7W_q7PvMsrbWZrb7PuwfgvE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558761571,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7933546211017121250",
+  "user_ratings_total": 1,
+  "vicinity": "7030 Ang Mo Kio Avenue 5, #07-61"
+}

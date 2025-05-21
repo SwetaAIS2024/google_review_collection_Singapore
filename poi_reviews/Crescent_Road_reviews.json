@@ -1,0 +1,29 @@
+{
+  "formatted_address": "127 Joo Chiat Rd, Singapore 427414",
+  "geometry": {
+    "location": {
+      "lat": 1.3135165,
+      "lng": 103.8995599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314820080291502,
+        "lng": 103.9009169302915
+      },
+      "southwest": {
+        "lat": 1.312122119708498,
+        "lng": 103.8982189697085
+      }
+    }
+  },
+  "name": "Crescent Road",
+  "place_id": "ChIJSQ5XIIIZ2jERS4M_dNe0gkU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5008764573050700619",
+  "vicinity": "127 Joo Chiat Road"
+}

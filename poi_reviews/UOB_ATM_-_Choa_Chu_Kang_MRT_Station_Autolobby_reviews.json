@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 10 Choa Chu Kang Ave 4, #01-13 MRT Station, Singapore 689810",
+  "geometry": {
+    "location": {
+      "lat": 1.3847283,
+      "lng": 103.7445864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385923930291502,
+        "lng": 103.7459155302915
+      },
+      "southwest": {
+        "lat": 1.383225969708498,
+        "lng": 103.7432175697085
+      }
+    }
+  },
+  "name": "UOB ATM - Choa Chu Kang MRT Station Autolobby",
+  "place_id": "ChIJ1dI9hQwR2jERK3DcA0LdmtE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15103627575942737963",
+  "vicinity": "No. 10 Choa Chu Kang Avenue 4, #01-13 MRT Station"
+}

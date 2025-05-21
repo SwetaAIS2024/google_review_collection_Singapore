@@ -1,0 +1,28 @@
+{
+  "formatted_address": "420A Northshore Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4183444,
+      "lng": 103.9012895
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419755130291502,
+        "lng": 103.9028248802915
+      },
+      "southwest": {
+        "lat": 1.417057169708498,
+        "lng": 103.9001269197085
+      }
+    }
+  },
+  "name": "Electric Generator",
+  "place_id": "ChIJ0Yf1RgAV2jERyXMg9-TGmsc",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14383027046662042569",
+  "vicinity": "420A Northshore Drive"
+}

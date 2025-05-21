@@ -1,0 +1,46 @@
+{
+  "formatted_address": "27A Jurong Port Rd, #01-13, Singapore 619101",
+  "geometry": {
+    "location": {
+      "lat": 1.3157124,
+      "lng": 103.7201385
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317138030291502,
+        "lng": 103.7215014302915
+      },
+      "southwest": {
+        "lat": 1.314440069708498,
+        "lng": 103.7188034697085
+      }
+    }
+  },
+  "name": "Juman Coffee Stall",
+  "place_id": "ChIJnwBrpugF2jERF3w0pH7W1J0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Stanley Cheah",
+      "author_url": "https://www.google.com/maps/contrib/117216054780301377456/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrrv2_U4p8YKsshT3262OFFr__MDrK03bXEw5JBG-0PMZhN0TN1w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Came here on a Saturday at 5.50pm and ordered the Masala tea and it was incredible. Although the guy doesn’t speak much English, he makes up for it in his drinks",
+      "time": 1719050897,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11372950798426471447",
+  "user_ratings_total": 1,
+  "vicinity": "27A Jurong Port Road, #01-13, Singapore"
+}

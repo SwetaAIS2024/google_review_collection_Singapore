@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Tampines Ave 4, Singapore 529680",
+  "geometry": {
+    "location": {
+      "lat": 1.3519969,
+      "lng": 103.942355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353246430291502,
+        "lng": 103.9437063302915
+      },
+      "southwest": {
+        "lat": 1.350548469708498,
+        "lng": 103.9410083697085
+      }
+    }
+  },
+  "name": "FinatiQ",
+  "place_id": "ChIJQ5j6MxI92jER7zrp8EUM5_g",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17935317535560383215",
+  "vicinity": "31 Tampines Avenue 4"
+}

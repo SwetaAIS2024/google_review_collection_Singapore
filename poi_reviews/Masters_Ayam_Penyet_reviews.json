@@ -1,0 +1,55 @@
+{
+  "formatted_address": "2 Jln Masjid, Singapore 418920",
+  "geometry": {
+    "location": {
+      "lat": 1.3196167,
+      "lng": 103.9125714
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321003130291502,
+        "lng": 103.9139249802915
+      },
+      "southwest": {
+        "lat": 1.318305169708498,
+        "lng": 103.9112270197085
+      }
+    }
+  },
+  "name": "Master's Ayam Penyet",
+  "place_id": "ChIJz-x2DgcY2jERcIgNfbGOgr8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Wayne Hsu",
+      "author_url": "https://www.google.com/maps/contrib/100461318652677603914/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJgL850pvkLvW-VD22TfgeZxV7nUKshOO0SnVnKDl6BQ3Nul8c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "Closed.",
+      "time": 1545924869,
+      "translated": false
+    },
+    {
+      "author_name": "Ad Teo",
+      "author_url": "https://www.google.com/maps/contrib/106645696220705200437/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbeOXS2qoLu35LsycL_ilrQmBvAVBPDZl7fsONOhAc_vd3NFlk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502020960,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13799749101175015536",
+  "user_ratings_total": 2,
+  "vicinity": "2 Jalan Masjid, Singapore"
+}

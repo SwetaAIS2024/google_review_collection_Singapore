@@ -1,0 +1,27 @@
+{
+  "formatted_address": "81 Sakra Ave, Singapore 627802",
+  "geometry": {
+    "location": {
+      "lat": 1.2601437,
+      "lng": 103.7005815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.261555230291502,
+        "lng": 103.7018528302915
+      },
+      "southwest": {
+        "lat": 1.258857269708498,
+        "lng": 103.6991548697085
+      }
+    }
+  },
+  "name": "Local Control Room",
+  "place_id": "ChIJ_yjdRAAF2jERtURZVzRSIvA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17303483103068112053",
+  "vicinity": "81 Sakra Avenue, Singapore"
+}

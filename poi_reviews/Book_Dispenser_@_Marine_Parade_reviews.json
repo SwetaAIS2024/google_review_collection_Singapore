@@ -1,0 +1,54 @@
+{
+  "formatted_address": "6 Marine Parade Central, Singapore 449411",
+  "geometry": {
+    "location": {
+      "lat": 1.3013854,
+      "lng": 103.9072395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302855130291502,
+        "lng": 103.9085052802915
+      },
+      "southwest": {
+        "lat": 1.300157169708498,
+        "lng": 103.9058073197085
+      }
+    }
+  },
+  "name": "Book Dispenser @ Marine Parade",
+  "place_id": "ChIJXSuxCAAZ2jERuZYmI9NUQyo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "TheHipsterCher",
+      "author_url": "https://www.google.com/maps/contrib/102305871433489624029/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh29JMHM_qsu4GYIM4rIoVxNVOY5knHCtGwn1E_RQuJZeDDesZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Amazing technology in Singapore. It is a temporary “library” in Marine Parade since the library is under the renovation. The NLB dispatches the book you reserve on their app to this dispenser. You’ve to pay $1.58 reservation fee first on the app then you can collect to book by scanning the library ecard QR code.",
+      "time": 1738814126,
+      "translated": false
+    },
+    {
+      "author_name": "Pattison Ho",
+      "author_url": "https://www.google.com/maps/contrib/112616421897283121624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWII82dTxZpsnxzHIDAp7grDAIIi4AR0jHqXwq4PT9iitlwavua=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738309946,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3045371038837151417",
+  "user_ratings_total": 2,
+  "vicinity": "6 Marine Parade Central"
+}

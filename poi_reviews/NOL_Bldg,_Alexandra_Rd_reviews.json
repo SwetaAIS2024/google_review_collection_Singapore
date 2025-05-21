@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27452,
+      "lng": 103.80184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275852680291502,
+        "lng": 103.8031328302915
+      },
+      "southwest": {
+        "lat": 1.273154719708498,
+        "lng": 103.8004348697085
+      }
+    }
+  },
+  "name": "NOL Bldg, Alexandra Rd",
+  "place_id": "ChIJgUn0JMEb2jER_zmINWbaQwM",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Vikas",
+      "author_url": "https://www.google.com/maps/contrib/101905033524146898852/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBTA2JznQg12-TJvagH8D6iyMeaMXJQBfLlNyY4adWtbMpAyHCZA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "It's a bus stop.\nNear Alexandra retail center.\nThere is a place to recharge your MRT cards.\nCan get really sunny between 10:00  13:00.",
+      "time": 1541568554,
+      "translated": false
+    },
+    {
+      "author_name": "GoAheadGroupFan",
+      "author_url": "https://www.google.com/maps/contrib/105877449322822053371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm3AkzrmFf7YEOM0hySeT8b1ju9l9ObcKvCd9XdBSJyrbHrZHX=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "First stop for 571 573",
+      "time": 1525078250,
+      "translated": false
+    },
+    {
+      "author_name": "MD Rasel ahmed",
+      "author_url": "https://www.google.com/maps/contrib/117350724404142408022/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU65GDbQxjqO07y6TzAVU67QQQFYosxeLc5PlZVVHgYPKh3nZ6_=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713938532,
+      "translated": false
+    },
+    {
+      "author_name": "Melvin Law",
+      "author_url": "https://www.google.com/maps/contrib/100450492951957198050/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCiUO13aKMEAwCtV6XrT6GOKt5wOMiAACuIXNf29R0WrCNf2e2=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519188137,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Al Momin",
+      "author_url": "https://www.google.com/maps/contrib/116826391246870876985/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq10X6xReh9AXc5CmL0_Ttkv0eDp7zW6Is6V8hcxh_PzZa7w0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508633898,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=235271738073037311",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

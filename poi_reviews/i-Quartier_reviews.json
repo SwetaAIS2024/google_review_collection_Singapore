@@ -1,0 +1,44 @@
+{
+  "formatted_address": "180 Depot Rd, #01-09 The Interlace, Singapore 109684",
+  "geometry": {
+    "location": {
+      "lat": 1.2818139,
+      "lng": 103.8031155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282952980291502,
+        "lng": 103.8044432802915
+      },
+      "southwest": {
+        "lat": 1.280255019708498,
+        "lng": 103.8017453197085
+      }
+    }
+  },
+  "name": "i-Quartier",
+  "place_id": "ChIJ2TUYaTMb2jER-VJKF2IVxlM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jason Aw",
+      "author_url": "https://www.google.com/maps/contrib/102734208566601820116/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu6HWdRg8Vbwr0lZl-R-guThLsg6nvBu6OUH1B8IQ369IrhWrh=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Nice cosy art gallery run by passionate folks in the local arts circle, tucked away in a condo building. Remember to call in advance to book an appointment before heading down to avoid disappointment.",
+      "time": 1607951167,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6036535861578453753",
+  "user_ratings_total": 1,
+  "vicinity": "180 Depot Road, #01-09 The Interlace, Singapore"
+}

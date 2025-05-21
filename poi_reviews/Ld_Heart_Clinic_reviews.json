@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3077263,
+      "lng": 103.8200865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309176930291502,
+        "lng": 103.8214504802915
+      },
+      "southwest": {
+        "lat": 1.306478969708498,
+        "lng": 103.8187525197085
+      }
+    }
+  },
+  "name": "Ld Heart Clinic",
+  "place_id": "ChIJvY5xIiAa2jERiu5sqcf_tKo",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12300737715261730442",
+  "vicinity": "6 Napier Road"
+}

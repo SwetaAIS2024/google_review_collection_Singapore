@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.315368,
+      "lng": 103.859467
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316694980291502,
+        "lng": 103.8607957802915
+      },
+      "southwest": {
+        "lat": 1.313997019708498,
+        "lng": 103.8580978197085
+      }
+    }
+  },
+  "name": "Aft Kempas Rd",
+  "place_id": "ChIJ47F2Tc4Z2jERkG_-kO5cZUU",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Paul L.",
+      "author_url": "https://www.google.com/maps/contrib/100421716179236842674/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_tH3Bd5UWJyTnbMAo30fDDbwlEQzQYBrFYiezAkkla73pDw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "There is no physics shelter. Just a pole to mark the bus stop.",
+      "time": 1495802911,
+      "translated": false
+    },
+    {
+      "author_name": "Maxime LMA",
+      "author_url": "https://www.google.com/maps/contrib/100155584989015015572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNjuQT8gv_WgXx3BdMJi9Pc9Ed4YCD6n29FV_jrjggA8x9Jg8YBw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Little stop",
+      "time": 1581649615,
+      "translated": false
+    },
+    {
+      "author_name": "Glenn Ang",
+      "author_url": "https://www.google.com/maps/contrib/112371590168888444184/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYXu4RYp37Iz7Wzw6twKZm0RqZZnljQ270Ux239mbiTeXivnGG5g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1650077932,
+      "translated": false
+    },
+    {
+      "author_name": "Quyên Nguyễn",
+      "author_url": "https://www.google.com/maps/contrib/107934842184209152706/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJNbdJMuAl35ZMIOsc93XtvOEXnBsVrzceZXWah8iFNaa1_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505014861,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5000505140969369488",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

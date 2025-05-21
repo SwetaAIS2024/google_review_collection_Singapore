@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.304536,
+      "lng": 103.822098
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305851780291502,
+        "lng": 103.8234891302915
+      },
+      "southwest": {
+        "lat": 1.303153819708498,
+        "lng": 103.8207911697085
+      }
+    }
+  },
+  "name": "British High Commission",
+  "place_id": "ChIJo5QNc4oZ2jERH-c9EPDID6w",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12398349232564463391",
+  "vicinity": "Singapore"
+}

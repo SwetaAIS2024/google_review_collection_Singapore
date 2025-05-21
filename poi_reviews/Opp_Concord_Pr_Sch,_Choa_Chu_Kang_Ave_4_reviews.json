@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.37924,
+      "lng": 103.73712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380626780291502,
+        "lng": 103.7384748302915
+      },
+      "southwest": {
+        "lat": 1.377928819708498,
+        "lng": 103.7357768697085
+      }
+    }
+  },
+  "name": "Opp Concord Pr Sch, Choa Chu Kang Ave 4",
+  "place_id": "ChIJRzIWe9wR2jEREVwTPo2H3n4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9141893334310280209",
+  "vicinity": "Singapore"
+}

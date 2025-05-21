@@ -1,0 +1,45 @@
+{
+  "formatted_address": "118 Rivervale Dr, #02-14 Rivervale Plaza, Singapore 540118",
+  "geometry": {
+    "location": {
+      "lat": 1.3849602,
+      "lng": 103.901598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386235030291502,
+        "lng": 103.9028341302915
+      },
+      "southwest": {
+        "lat": 1.383537069708498,
+        "lng": 103.9001361697085
+      }
+    }
+  },
+  "name": "J Dining Prawn Noodles",
+  "place_id": "ChIJzSd2EAAX2jER7MQnucCSfPU",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "sgp chn",
+      "author_url": "https://www.google.com/maps/contrib/114776848494987616226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgP81RJ2MfClxZpogrjq6SDPmU70FnaeFXpzuTho1pmSY2BB7x=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "Believe the new name is 118 Prawn Noodles. Tried the loh mee when they first opened for business and it was not too bad. Tried again today and the ingredients were reduced.. This is what some stalls are doing, attract customers when new and then start to reduce ingredients later.",
+      "time": 1746936836,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17689174792842233068",
+  "user_ratings_total": 1,
+  "vicinity": "118 Rivervale Drive, #02-14 Rivervale Plaza, Singapore"
+}

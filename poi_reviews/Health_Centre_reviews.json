@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Temasek Blvd, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2960419,
+      "lng": 103.8592395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297445230291502,
+        "lng": 103.8604692802915
+      },
+      "southwest": {
+        "lat": 1.294747269708498,
+        "lng": 103.8577713197085
+      }
+    }
+  },
+  "name": "Health Centre",
+  "place_id": "ChIJUR2nqq8Z2jERqrt-XiLH6yg",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2948669331472300970",
+  "vicinity": "3 Temasek Boulevard, Singapore"
+}

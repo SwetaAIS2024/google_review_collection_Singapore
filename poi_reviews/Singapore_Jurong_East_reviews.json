@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3343845,
+      "lng": 103.7427816
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335875830291502,
+        "lng": 103.7440738802915
+      },
+      "southwest": {
+        "lat": 1.333177869708498,
+        "lng": 103.7413759197085
+      }
+    }
+  },
+  "name": "Singapore Jurong East",
+  "place_id": "ChIJdYtCpQ8Q2jERolUw3FHBTNc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15513987373715183010",
+  "vicinity": "Singapore"
+}

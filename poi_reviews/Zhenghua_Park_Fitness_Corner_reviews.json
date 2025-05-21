@@ -1,0 +1,57 @@
+{
+  "formatted_address": "276 Bangkit Rd, Singapore 670276",
+  "geometry": {
+    "location": {
+      "lat": 1.3796774,
+      "lng": 103.7756833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380801380291502,
+        "lng": 103.7767219802915
+      },
+      "southwest": {
+        "lat": 1.378103419708498,
+        "lng": 103.7740240197085
+      }
+    }
+  },
+  "name": "Zhenghua Park Fitness Corner",
+  "place_id": "ChIJD5F219kR2jERXNlymwO64tA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice, quiet and peaceful. Except for the roaring traffic from BKE of course.",
+      "time": 1698045840,
+      "translated": false
+    },
+    {
+      "author_name": "ih-isj",
+      "author_url": "https://www.google.com/maps/contrib/100310707672472047453/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN71PlAsFHmeJHRZOZR-AMNn_zsvw0e1reIEMYN1-g_LSrrZY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Nice neighbourhood fitness corner.. very convenient and accessible to exercise and work out!",
+      "time": 1718862580,
+      "translated": false
+    }
+  ],
+  "types": [
+    "gym",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15051797429281282396",
+  "user_ratings_total": 2,
+  "vicinity": "276 Bangkit Road, Singapore"
+}

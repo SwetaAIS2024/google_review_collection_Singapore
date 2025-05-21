@@ -1,0 +1,41 @@
+{
+  "formatted_address": "1 Penjuru Ln, Singapore 609217",
+  "geometry": {
+    "location": {
+      "lat": 1.306567,
+      "lng": 103.738211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307883830291502,
+        "lng": 103.7397114802915
+      },
+      "southwest": {
+        "lat": 1.305185869708498,
+        "lng": 103.7370135197085
+      }
+    }
+  },
+  "name": "Global Bulk Containers Pte Ltd",
+  "place_id": "ChIJiSJHUMga2jERymbZcRu2PUE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Andi Suseno",
+      "author_url": "https://www.google.com/maps/contrib/105718920066278562935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfG08pSxIDiGlpE8bmGJDkkDo02cnuEuVPCPjWp2kYP8eU99Fd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505228808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4701113815035111114",
+  "user_ratings_total": 1,
+  "vicinity": "1 Penjuru Lane"
+}

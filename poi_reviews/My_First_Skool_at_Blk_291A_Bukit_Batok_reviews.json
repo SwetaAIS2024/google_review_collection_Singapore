@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Blk 291A Bukit Batok Street 24, #01-57, Singapore 650291",
+  "geometry": {
+    "location": {
+      "lat": 1.3432959,
+      "lng": 103.7558439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344556730291502,
+        "lng": 103.7573031802915
+      },
+      "southwest": {
+        "lat": 1.341858769708498,
+        "lng": 103.7546052197085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 291A Bukit Batok",
+  "place_id": "ChIJucjD4T8Q2jERHGoBc3hflzo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mani jayakanthan",
+      "author_url": "https://www.google.com/maps/contrib/111923749345629297411/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJ4hzDUHGB6XC-CCdqk9T6WVD8PAkmCizgbbckPvHE3Os=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very friendly teachers. They go extra mile to support the children and the way they communicate to parents amazed me. Happy to send my child to this center",
+      "time": 1698891560,
+      "translated": false
+    },
+    {
+      "author_name": "Candy House",
+      "author_url": "https://www.google.com/maps/contrib/102583938495217872107/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRYYMzqHv4Egmy2yWGZ6TOVLMdqN-Mh6AiW2xadFu2r7XB5NrY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716508675,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4221948146613316124",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 291A Bukit Batok Street 24, #01-57"
+}

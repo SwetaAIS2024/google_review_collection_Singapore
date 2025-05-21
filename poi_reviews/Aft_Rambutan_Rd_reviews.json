@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313908,
+      "lng": 103.9045321
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315286330291502,
+        "lng": 103.9058767302915
+      },
+      "southwest": {
+        "lat": 1.312588369708498,
+        "lng": 103.9031787697085
+      }
+    }
+  },
+  "name": "Aft Rambutan Rd",
+  "place_id": "ChIJN9sjOg4Y2jERvkKn2BHfeTw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "倪立军",
+      "author_url": "https://www.google.com/maps/contrib/103353166306735304591/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8Ujy14cMcdyZRR-erWzPtxVFgUFO-zT-jGFxmCM16k3L50Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708230930,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4357759382199943870",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

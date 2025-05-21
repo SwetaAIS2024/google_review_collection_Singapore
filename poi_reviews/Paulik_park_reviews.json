@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Nepal Circus, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.300962,
+      "lng": 103.787107
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302351680291502,
+        "lng": 103.7883812802915
+      },
+      "southwest": {
+        "lat": 1.299653719708498,
+        "lng": 103.7856833197085
+      }
+    }
+  },
+  "name": "Paulik park",
+  "place_id": "ChIJMxOiLgAb2jERRQvBzMyZe98",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "FC JABA",
+      "author_url": "https://www.google.com/maps/contrib/109595542557771396352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxOjWR-TNfuz_hEUWyuA_G-yaDP8CajSw8aq_KtjGDJNDZIyu9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Great guy, big forehead.",
+      "time": 1710268936,
+      "translated": false
+    },
+    {
+      "author_name": "Bence Paulik",
+      "author_url": "https://www.google.com/maps/contrib/106777524903259903877/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHb9m2b2zitEUiy97zg-x-NsSuaQ_vc3vfKenYO5EvWhEfgw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719599618,
+      "translated": false
+    },
+    {
+      "author_name": "Ármin Mohácsi",
+      "author_url": "https://www.google.com/maps/contrib/112732391990071185596/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeCGa9kT6Qfw3Tjgjs8hH9zUU9BwA2ZSlML0_Vd5AFGydMPH6Zpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710545400,
+      "translated": false
+    },
+    {
+      "author_name": "Jak",
+      "author_url": "https://www.google.com/maps/contrib/117871662421709273363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf8lCgry-2K-vzlI3atWUSYR9GqSCBciqaFqy9rSe7Gph5OQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710268990,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16103633997480921925",
+  "user_ratings_total": 4,
+  "vicinity": "Nepal Circus"
+}

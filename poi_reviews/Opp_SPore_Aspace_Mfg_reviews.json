@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34206,
+      "lng": 103.716003
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343411830291502,
+        "lng": 103.7173332302915
+      },
+      "southwest": {
+        "lat": 1.340713869708498,
+        "lng": 103.7146352697085
+      }
+    }
+  },
+  "name": "Opp S'Pore A'space Mfg",
+  "place_id": "ChIJhbdAuOgP2jERay_o_wVJnGU",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Wilson Chang",
+      "author_url": "https://www.google.com/maps/contrib/102589058598808274925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-vSXjFi0PgWtWv9WneTaljLWq2hldwR7n8loebb8nf3h2GWAe=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1633104388,
+      "translated": false
+    },
+    {
+      "author_name": "Razid Mat",
+      "author_url": "https://www.google.com/maps/contrib/117604822683601547732/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPE1PV140Ohs5FJkueu8sdoJfdZJCjX3iGEffBDvDk3EtHyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488297910,
+      "translated": false
+    },
+    {
+      "author_name": "Angeline Mary",
+      "author_url": "https://www.google.com/maps/contrib/110413411129584510767/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmtgJPQeMyxX0gyBwH9BLeOYuac1LL8EZdJuFhNxga_D03gYNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480293035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7321807384314654571",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

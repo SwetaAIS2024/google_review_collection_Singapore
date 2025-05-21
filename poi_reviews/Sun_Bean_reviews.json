@@ -1,0 +1,46 @@
+{
+  "formatted_address": "152A Bishan St.11, Singapore 571152",
+  "geometry": {
+    "location": {
+      "lat": 1.3451616,
+      "lng": 103.8548251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346399880291502,
+        "lng": 103.8561466802915
+      },
+      "southwest": {
+        "lat": 1.343701919708498,
+        "lng": 103.8534487197085
+      }
+    }
+  },
+  "name": "Sun Bean",
+  "place_id": "ChIJ_bq_OmYX2jERTfoaZxO84h0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Talia",
+      "author_url": "https://www.google.com/maps/contrib/118165262417832826294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUtnTCe2UTwA-WDiCHQWJlF_DVtgZwVThTUbV77MkI0q8wQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I tried their classic soya milk and beancurd; both were fresh, smooth, and flavorful. The staff was courteous and prompt in attending to customers. Pricing is reasonable, offering good value for the quality provided. Overall, it was a delightful experience",
+      "time": 1743612653,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2153490363356740173",
+  "user_ratings_total": 1,
+  "vicinity": "152A Bishan Street 11"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362423,
+      "lng": 103.90226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363757030291502,
+        "lng": 103.9036149302915
+      },
+      "southwest": {
+        "lat": 1.361059069708498,
+        "lng": 103.9009169697085
+      }
+    }
+  },
+  "name": "Bef Defu Ave 2",
+  "place_id": "ChIJSQGCZ80X2jERK-30T6tAtuk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md Rakibul Hasan",
+      "author_url": "https://www.google.com/maps/contrib/114511877885031476199/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIpuOw1gUa6l5spHA5S_4IGG1hugcZcEf4NtHzwt0AAMNDfzyf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Awesome place",
+      "time": 1676242877,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16840718961123585323",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

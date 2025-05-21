@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39693,
+      "lng": 103.87904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398281080291502,
+        "lng": 103.8803639802915
+      },
+      "southwest": {
+        "lat": 1.395583119708498,
+        "lng": 103.8776660197085
+      }
+    }
+  },
+  "name": "Blk 470 MSCP, Fernvale Lk",
+  "place_id": "ChIJRUGB-XkW2jERm_W5IJ3eKYg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Serene Soh",
+      "author_url": "https://www.google.com/maps/contrib/110225133510449735981/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4qgdrU1DqMw1jOmo-EqHGGK8UHwQRBmOweBZgGV3KkaVc6c94=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "No bus stop there",
+      "time": 1704959906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9811618029643625883",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

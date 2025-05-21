@@ -1,0 +1,29 @@
+{
+  "formatted_address": "217 Petir Rd, Singapore 670217",
+  "geometry": {
+    "location": {
+      "lat": 1.3747571,
+      "lng": 103.7737922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376050930291502,
+        "lng": 103.7751027302915
+      },
+      "southwest": {
+        "lat": 1.373352969708498,
+        "lng": 103.7724047697085
+      }
+    }
+  },
+  "name": "Wich You Here",
+  "place_id": "ChIJ-4XX83QR2jERrECN2zjkwq4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12592878440934097068",
+  "vicinity": "217 Petir Road"
+}

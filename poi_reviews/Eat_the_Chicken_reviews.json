@@ -1,0 +1,53 @@
+{
+  "formatted_address": "30 Cosford Rd, #01-05 Cosford Container Park, Singapore 499550",
+  "geometry": {
+    "location": {
+      "lat": 1.3653686,
+      "lng": 103.981278
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366799280291502,
+        "lng": 103.9825380302915
+      },
+      "southwest": {
+        "lat": 1.364101319708498,
+        "lng": 103.9798400697085
+      }
+    }
+  },
+  "name": "Eat the Chicken",
+  "place_id": "ChIJWx2-eQA92jERmzgerN-ePQw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Khantmin Htet",
+      "author_url": "https://www.google.com/maps/contrib/115803390104418603371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR5DJQaD74ieUEx2eT5fwdAyDWQO6ERR1ahM3C9upyEvwcnmc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733386748,
+      "translated": false
+    },
+    {
+      "author_name": "Merrick Cs",
+      "author_url": "https://www.google.com/maps/contrib/106459115809230374607/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV6C1ag4522dW2PfD4fgQpKsGmp1I_IYhVdJGW1RHgLDIQCA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731934648,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=882035785537042587",
+  "user_ratings_total": 2,
+  "vicinity": "30 Cosford Road, #01-05 Cosford Container Park"
+}

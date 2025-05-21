@@ -1,0 +1,30 @@
+{
+  "formatted_address": "31 Biopolis Wy, Singapore 138669",
+  "geometry": {
+    "location": {
+      "lat": 1.304218,
+      "lng": 103.7924956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305407130291502,
+        "lng": 103.7937541302915
+      },
+      "southwest": {
+        "lat": 1.302709169708498,
+        "lng": 103.7910561697085
+      }
+    }
+  },
+  "name": "Curiox Biosystems Pte. Ltd.",
+  "place_id": "ChIJfWYk4kMa2jERZOiH4egijoQ",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9551610243310938212",
+  "vicinity": "31 Biopolis Way, Singapore"
+}

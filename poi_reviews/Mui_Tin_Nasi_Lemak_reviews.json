@@ -1,0 +1,30 @@
+{
+  "formatted_address": "605 Yishun Street 61, Singapore 760605",
+  "geometry": {
+    "location": {
+      "lat": 1.4217507,
+      "lng": 103.8363318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423054730291502,
+        "lng": 103.8377796802915
+      },
+      "southwest": {
+        "lat": 1.420356769708498,
+        "lng": 103.8350817197085
+      }
+    }
+  },
+  "name": "Mui Tin Nasi Lemak",
+  "place_id": "ChIJMZZDKWcV2jERYhBm561JWh8",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2259199174340120674",
+  "vicinity": "605 Yishun Street 61, Singapore"
+}

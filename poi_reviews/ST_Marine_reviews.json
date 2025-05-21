@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303824,
+      "lng": 103.679306
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305169580291502,
+        "lng": 103.6806266802915
+      },
+      "southwest": {
+        "lat": 1.302471619708498,
+        "lng": 103.6779287197085
+      }
+    }
+  },
+  "name": "ST Marine",
+  "place_id": "ChIJkVPk06YF2jER0H8vEA0e4rs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "THIRU KUMARAN",
+      "author_url": "https://www.google.com/maps/contrib/109341605685263994650/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViqF7R6A9am0iwbNGhwkToHCsGVTLWu8T6u8v6Jc6vSFU5G-8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Tuas",
+      "time": 1595593926,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13538416471284088784",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

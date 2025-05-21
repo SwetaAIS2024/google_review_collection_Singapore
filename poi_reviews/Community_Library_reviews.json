@@ -1,0 +1,28 @@
+{
+  "formatted_address": "332 Hougang Ave 5, 332, Singapore 530332",
+  "geometry": {
+    "location": {
+      "lat": 1.3685032,
+      "lng": 103.8976575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369904330291502,
+        "lng": 103.8991440302915
+      },
+      "southwest": {
+        "lat": 1.367206369708498,
+        "lng": 103.8964460697085
+      }
+    }
+  },
+  "name": "Community Library",
+  "place_id": "ChIJQ70NQA4X2jERLaQJFLdzdyM",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2555638543708431405",
+  "vicinity": "332 Hougang Avenue 5, 332"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "45 Sims Dr, Block 45, Singapore 380045",
+  "geometry": {
+    "location": {
+      "lat": 1.3174127,
+      "lng": 103.8783863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318622780291502,
+        "lng": 103.8796830302915
+      },
+      "southwest": {
+        "lat": 1.315924819708498,
+        "lng": 103.8769850697085
+      }
+    }
+  },
+  "name": "joker 开碗笑",
+  "place_id": "ChIJ7-TjDQAZ2jERMG2DVHtg2Jc",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10941601377511763248",
+  "vicinity": "45 Sims Drive, Block 45"
+}

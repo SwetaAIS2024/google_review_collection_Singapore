@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore 090037",
+  "geometry": {
+    "location": {
+      "lat": 1.272651,
+      "lng": 103.822719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273884130291502,
+        "lng": 103.8241215302915
+      },
+      "southwest": {
+        "lat": 1.271186169708498,
+        "lng": 103.8214235697085
+      }
+    }
+  },
+  "name": "Natland",
+  "place_id": "ChIJjZOZQwAZ2jERrfyPeujGVow",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yu Tong Lim",
+      "author_url": "https://www.google.com/maps/contrib/106303575792507135229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPO6hf2pCek5J5W-yG_vncRx_bFfTapABNI5eR-ACNdzK41w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "10/10 place i loved the area",
+      "time": 1740220890,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10112488715097996461",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

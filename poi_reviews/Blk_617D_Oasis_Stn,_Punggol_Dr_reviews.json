@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 820665",
+  "geometry": {
+    "location": {
+      "lat": 1.40203,
+      "lng": 103.91286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403401130291503,
+        "lng": 103.9142247802915
+      },
+      "southwest": {
+        "lat": 1.400703169708499,
+        "lng": 103.9115268197085
+      }
+    }
+  },
+  "name": "Blk 617D (Oasis Stn), Punggol Dr",
+  "place_id": "ChIJY870wf8V2jERd4VFxnFv9C0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3311394160472589687",
+  "vicinity": "Singapore"
+}

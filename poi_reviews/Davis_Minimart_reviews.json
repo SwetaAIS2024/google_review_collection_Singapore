@@ -1,0 +1,30 @@
+{
+  "formatted_address": "141 Upper Paya Lebar Rd, Singapore 534846",
+  "geometry": {
+    "location": {
+      "lat": 1.3389248,
+      "lng": 103.8861282
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340280180291502,
+        "lng": 103.8875146802915
+      },
+      "southwest": {
+        "lat": 1.337582219708498,
+        "lng": 103.8848167197085
+      }
+    }
+  },
+  "name": "Davis Minimart",
+  "place_id": "ChIJm69Sw5MX2jERuvJo23ED44E",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9359328238153298618",
+  "vicinity": "141 Upper Paya Lebar Road, Singapore"
+}

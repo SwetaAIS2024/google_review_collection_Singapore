@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.32683,
+      "lng": 103.684166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328178330291502,
+        "lng": 103.6854774302915
+      },
+      "southwest": {
+        "lat": 1.325480369708498,
+        "lng": 103.6827794697085
+      }
+    }
+  },
+  "name": "Varco",
+  "place_id": "ChIJIeHDwn8F2jERIuQyttZt3wc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=567292847019189282",
+  "vicinity": "Singapore"
+}

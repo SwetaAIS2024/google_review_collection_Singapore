@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Kaki Bukit Ave 6, #01-01 Ark@KB, Singapore 417896",
+  "geometry": {
+    "location": {
+      "lat": 1.3414915,
+      "lng": 103.9144129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342815730291502,
+        "lng": 103.9157941802915
+      },
+      "southwest": {
+        "lat": 1.340117769708498,
+        "lng": 103.9130962197085
+      }
+    }
+  },
+  "name": "椰子鸡汤",
+  "place_id": "ChIJbfRZdwAX2jERQApuv2gv7wA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "KOR SIEW NG",
+      "author_url": "https://www.google.com/maps/contrib/104629474437026444041/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNoOU8osniAxVjy2TnznbLfssfB8n08tdlgPkzxM94gmjS7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710299939,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=67324646368610880",
+  "user_ratings_total": 1,
+  "vicinity": "Kaki Bukit Avenue 6, #01-01 Ark@KB"
+}

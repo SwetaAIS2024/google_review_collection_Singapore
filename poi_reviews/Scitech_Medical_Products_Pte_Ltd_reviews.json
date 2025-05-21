@@ -1,0 +1,30 @@
+{
+  "formatted_address": "21 Science Park Rd, Singapore 117628",
+  "geometry": {
+    "location": {
+      "lat": 1.2888358,
+      "lng": 103.7811305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.290154630291502,
+        "lng": 103.7824587802915
+      },
+      "southwest": {
+        "lat": 1.287456669708498,
+        "lng": 103.7797608197085
+      }
+    }
+  },
+  "name": "Scitech Medical Products Pte Ltd",
+  "place_id": "ChIJEfcJllQa2jERBS1BLViEv9E",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15113944388729908485",
+  "vicinity": "21 Science Park Road, Singapore"
+}

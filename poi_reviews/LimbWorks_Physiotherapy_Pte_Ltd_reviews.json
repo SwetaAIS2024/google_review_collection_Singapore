@@ -1,0 +1,29 @@
+{
+  "formatted_address": "113 Rangoon Rd, #01-01, Singapore 218392",
+  "geometry": {
+    "location": {
+      "lat": 1.314961,
+      "lng": 103.8536626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316326930291502,
+        "lng": 103.8550538802915
+      },
+      "southwest": {
+        "lat": 1.313628969708498,
+        "lng": 103.8523559197085
+      }
+    }
+  },
+  "name": "LimbWorks Physiotherapy Pte Ltd",
+  "place_id": "ChIJoXwMAcUZ2jERDLdhLw4RvJU",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10789517559895013132",
+  "vicinity": "113 Rangoon Road, #01-01"
+}

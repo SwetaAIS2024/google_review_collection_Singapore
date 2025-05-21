@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore 189768",
+  "geometry": {
+    "location": {
+      "lat": 1.2974575,
+      "lng": 103.8555449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298774980291502,
+        "lng": 103.8568676302915
+      },
+      "southwest": {
+        "lat": 1.296077019708498,
+        "lng": 103.8541696697085
+      }
+    }
+  },
+  "name": "Bef Beach Rd",
+  "place_id": "ChIJbXUZQ6UZ2jERJt3cp0ErzDw",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "Given that there's now a new building built behind this bus stop, there's a sufficiently sized shelter built, and there's reason for this bus stop to be used. It's centrally located depending on where you're off to, but this bus stop is now clean and connected to a few other neighboring landmarks.",
+      "time": 1717805683,
+      "translated": false
+    },
+    {
+      "author_name": "学勇陈",
+      "author_url": "https://www.google.com/maps/contrib/107531749622805235342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxj1XPi_yi38uzAwqMj10wOgKtxjwaTVqrTqmLvvgPpW0iyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548898101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4380924098513788198",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

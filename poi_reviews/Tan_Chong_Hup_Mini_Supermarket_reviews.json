@@ -1,0 +1,31 @@
+{
+  "formatted_address": "403 Sin Ming Ave, Singapore 570403",
+  "geometry": {
+    "location": {
+      "lat": 1.362902,
+      "lng": 103.8334617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364185080291502,
+        "lng": 103.8347897302915
+      },
+      "southwest": {
+        "lat": 1.361487119708498,
+        "lng": 103.8320917697085
+      }
+    }
+  },
+  "name": "Tan Chong Hup Mini Supermarket",
+  "place_id": "ChIJR1eE4icX2jER_qn1rfueUWo",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7661079244926462462",
+  "vicinity": "403 Sin Ming Avenue, Singapore"
+}

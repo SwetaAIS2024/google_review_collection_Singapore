@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3325137,
+      "lng": 103.9244303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333902780291502,
+        "lng": 103.9257649302915
+      },
+      "southwest": {
+        "lat": 1.331204819708498,
+        "lng": 103.9230669697085
+      }
+    }
+  },
+  "name": "Gem Mart",
+  "place_id": "ChIJa81euVE92jERnvYmCRhTQq4",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Mr. Tang",
+      "author_url": "https://www.google.com/maps/contrib/107513866973655046859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGe4i6sENAI-bJmxQIHnUvZuiSX7IIvIDtB16dY5Dh0AakFVnn=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1639822065,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Koh",
+      "author_url": "https://www.google.com/maps/contrib/102016316961329590252/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJswnMskoKRQxjyTLn-xJ-Dui1izQKAHN9MyoNCmY1jHudEOVU2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1591303835,
+      "translated": false
+    },
+    {
+      "author_name": "Muhd Nazir Abdul Rahman",
+      "author_url": "https://www.google.com/maps/contrib/116189078444790125763/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvIRYKd-UWovmLYhn9602ESwFFeqpnPsy90bj4vkuY4nU5aA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571440698,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12556690073760233118",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

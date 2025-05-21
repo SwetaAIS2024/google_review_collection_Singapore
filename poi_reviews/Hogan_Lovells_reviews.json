@@ -1,0 +1,63 @@
+{
+  "formatted_address": "50 Collyer Quay, #10-01 OUE Bayfront, Singapore 049321",
+  "geometry": {
+    "location": {
+      "lat": 1.282889,
+      "lng": 103.8530027
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284251080291502,
+        "lng": 103.8541621302915
+      },
+      "southwest": {
+        "lat": 1.281553119708498,
+        "lng": 103.8514641697085
+      }
+    }
+  },
+  "name": "Hogan Lovells",
+  "place_id": "ChIJ4WSiUwkZ2jERCSVKHPEKTag",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Lucas Cheong",
+      "author_url": "https://www.google.com/maps/contrib/117202098871485720100/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqPiLq5WsIHwJ9C_zRO4tZSN-K8t7u_xjnlHrSVMdayAKym_da=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Nice place",
+      "time": 1542340392,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Harris",
+      "author_url": "https://www.google.com/maps/contrib/114432911739871986331/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu9oZCfIp8N61UHn7R9xkspu5Wn7IFXHl0Cqg4tdHYK1uqnlkS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544658395,
+      "translated": false
+    },
+    {
+      "author_name": "Mohanraj Jk",
+      "author_url": "https://www.google.com/maps/contrib/104218221999987644602/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXHMcyDI6rIqlR_bXY0qUun2_7rsREVGiPb2BCRqsZa857BnMP=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1537027486,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12127361402256631049",
+  "user_ratings_total": 3,
+  "vicinity": "50 Collyer Quay, #10-01 OUE Bayfront"
+}

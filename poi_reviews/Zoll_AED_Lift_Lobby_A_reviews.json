@@ -1,0 +1,29 @@
+{
+  "formatted_address": "135 Simei Street 1, Block 135, Singapore 520135",
+  "geometry": {
+    "location": {
+      "lat": 1.348011,
+      "lng": 103.9571148
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349451580291502,
+        "lng": 103.9586022802915
+      },
+      "southwest": {
+        "lat": 1.346753619708498,
+        "lng": 103.9559043197085
+      }
+    }
+  },
+  "name": "Zoll AED Lift Lobby A",
+  "place_id": "ChIJafjU-xY92jER7K_6TaSDjEU",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5011525227062669292",
+  "vicinity": "135 Simei Street 1, Block 135, Singapore"
+}

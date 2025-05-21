@@ -1,0 +1,28 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3154289,
+      "lng": 103.6254954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316243130291502,
+        "lng": 103.62775545
+      },
+      "southwest": {
+        "lat": 1.313545169708498,
+        "lng": 103.62474205
+      }
+    }
+  },
+  "name": "My2",
+  "place_id": "ChIJU0fwSgAH2jER0gdIJbYI03Q",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8418081706888136658",
+  "vicinity": "70 Tuas South Avenue 1, Singapore"
+}

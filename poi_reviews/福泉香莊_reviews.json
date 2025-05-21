@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317145,
+      "lng": 103.8793655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318527580291502,
+        "lng": 103.8809686302915
+      },
+      "southwest": {
+        "lat": 1.315829619708498,
+        "lng": 103.8782706697085
+      }
+    }
+  },
+  "name": "福泉香莊",
+  "place_id": "ChIJSefw_i8Y2jER-TBGIcfuDWM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7137623523476254969",
+  "vicinity": "Singapore"
+}

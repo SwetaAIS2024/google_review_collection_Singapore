@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Hougang Street 91 #02-02, #1, Singapore 538692",
+  "geometry": {
+    "location": {
+      "lat": 1.3758021,
+      "lng": 103.8794307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377161630291502,
+        "lng": 103.8806161802915
+      },
+      "southwest": {
+        "lat": 1.374463669708498,
+        "lng": 103.8779182197085
+      }
+    }
+  },
+  "name": "OCBC - ATM",
+  "place_id": "ChIJ3dpEK0UW2jERK5xPsQ1AQq0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "谢中风",
+      "author_url": "https://www.google.com/maps/contrib/102341985267511011984/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGucVpimL95HLVnWrEdQZY56pbFyGaHZUFXFYu1nkIlc1r=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "There is also a POSB cash machine here that can withdraw money and pay personal income tax. The supermarket here is very large and has all kinds of products. There are restaurants and stores selling mobile phones. The coffee is delicious, but please wait a little!",
+      "time": 1548244993,
+      "translated": true
+    },
+    {
+      "author_name": "joanne tan",
+      "author_url": "https://www.google.com/maps/contrib/106373292159200310797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi4p2Tm87pQrsKR3qFaNUncYMKsRqyO-gRV2hcX3zIg9PEG4vB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514868393,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12484611544577973291",
+  "user_ratings_total": 2,
+  "vicinity": "1 Hougang Street 91 #02-02, #1"
+}

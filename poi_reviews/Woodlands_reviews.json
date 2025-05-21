@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Woodlands, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4381922,
+      "lng": 103.7889597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.461395850940988,
+        "lng": 103.8116451809313
+      },
+      "southwest": {
+        "lat": 1.421457980526225,
+        "lng": 103.7649678239056
+      }
+    }
+  },
+  "name": "Woodlands",
+  "place_id": "ChIJVfCo8QgT2jERgKTarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Woodlands,+Singapore&ftid=0x31da1308f1a8f055:0x500f7acaedaa480",
+  "vicinity": "Singapore"
+}

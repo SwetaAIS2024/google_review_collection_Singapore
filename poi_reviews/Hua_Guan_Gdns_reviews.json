@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335804,
+      "lng": 103.78463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337100230291502,
+        "lng": 103.7859600302915
+      },
+      "southwest": {
+        "lat": 1.334402269708498,
+        "lng": 103.7832620697085
+      }
+    }
+  },
+  "name": "Hua Guan Gdns",
+  "place_id": "ChIJGbw-e4UQ2jERvEFn_rzA7-E",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Jenn Choi - Real Estate Planning Strategist",
+      "author_url": "https://www.google.com/maps/contrib/113122813479166802830/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpwT8gbFHswmIhIeVpR9yN8OSwOUS84QcoV0in1nqB3TtM2Ks=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Super serene street and exclusive estate, a perfect place for evening or morning jogs. Near to Methodist Girls School (MGS), Pei Hwa and international schools. Various clubs in vicinity - British, Swiss, Hollandse",
+      "time": 1745906464,
+      "translated": false
+    },
+    {
+      "author_name": "Empathy",
+      "author_url": "https://www.google.com/maps/contrib/110260805169988224976/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhMm-fDhELfSrGTNSJjaAkMXkCDRssVA5oiEU5oyN_r0og8DW2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "very gopd.",
+      "time": 1620887857,
+      "translated": false
+    },
+    {
+      "author_name": "Tevydha Naharin",
+      "author_url": "https://www.google.com/maps/contrib/114986136272131993084/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkKQ35utzFqaj-OYNRo_Zz5ANY0nBkVULUdS0sVUNaRiMOU50p=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508311650,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16280443095922196924",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

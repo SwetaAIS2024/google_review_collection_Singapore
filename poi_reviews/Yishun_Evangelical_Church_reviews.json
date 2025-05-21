@@ -1,0 +1,53 @@
+{
+  "formatted_address": "20 Sin Ming Ln, Singapore 573968",
+  "geometry": {
+    "location": {
+      "lat": 1.358146,
+      "lng": 103.833392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359404230291502,
+        "lng": 103.8347234802915
+      },
+      "southwest": {
+        "lat": 1.356706269708498,
+        "lng": 103.8320255197085
+      }
+    }
+  },
+  "name": "Yishun Evangelical Church",
+  "place_id": "ChIJfZfhiiUX2jERfaHj8h4eWA4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joshua Dhayalan",
+      "author_url": "https://www.google.com/maps/contrib/110978258368804649363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL51N4ZasrcxTjJ87HspyNCZdYXVg_L7vjbL-CwBna6zTuGUg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1546475272,
+      "translated": false
+    },
+    {
+      "author_name": "Rald BlaZE",
+      "author_url": "https://www.google.com/maps/contrib/102626090055858388844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLiIN5yrOpbSscJ0_Yak6N4gmGPlboYoUbt7PoYhDuZBE2wA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532697952,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1033609232754385277",
+  "user_ratings_total": 2,
+  "vicinity": "20 Sin Ming Lane"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "52 Queen St, Singapore 188539",
+  "geometry": {
+    "location": {
+      "lat": 1.2995769,
+      "lng": 103.8543458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300689680291502,
+        "lng": 103.8557674302915
+      },
+      "southwest": {
+        "lat": 1.297991719708498,
+        "lng": 103.8530694697085
+      }
+    }
+  },
+  "name": "Garena stadium",
+  "place_id": "ChIJVwno5boZ2jER8z0xWozYTgk",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=670711491844980211",
+  "vicinity": "52 Queen Street"
+}

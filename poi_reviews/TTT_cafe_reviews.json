@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Novena, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3208572,
+      "lng": 103.8424319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322195130291502,
+        "lng": 103.8437818802915
+      },
+      "southwest": {
+        "lat": 1.319497169708498,
+        "lng": 103.8410839197085
+      }
+    }
+  },
+  "name": "TTT cafe",
+  "place_id": "ChIJa6XsewAZ2jERTv1J7o9WEg0",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=941910448251993422",
+  "vicinity": ""
+}

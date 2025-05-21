@@ -1,0 +1,31 @@
+{
+  "formatted_address": "114 Middle Rd, #04-00, Singapore 188971",
+  "geometry": {
+    "location": {
+      "lat": 1.2991438,
+      "lng": 103.8535734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300536880291502,
+        "lng": 103.8548009802915
+      },
+      "southwest": {
+        "lat": 1.297838919708498,
+        "lng": 103.8521030197085
+      }
+    }
+  },
+  "name": "4LIVE",
+  "place_id": "ChIJYSM8rX8Z2jERSqYyYJMM1LM",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12957995854965417546",
+  "vicinity": "114 Middle Road, #04-00"
+}

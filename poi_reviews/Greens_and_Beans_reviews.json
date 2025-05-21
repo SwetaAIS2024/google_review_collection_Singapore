@@ -1,0 +1,27 @@
+{
+  "formatted_address": "15 Westwood Terrace, Singapore 648598",
+  "geometry": {
+    "location": {
+      "lat": 1.3538537,
+      "lng": 103.6979179
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355243780291502,
+        "lng": 103.6992244802915
+      },
+      "southwest": {
+        "lat": 1.352545819708498,
+        "lng": 103.6965265197085
+      }
+    }
+  },
+  "name": "Greens & Beans",
+  "place_id": "ChIJwZ6kQ7oP2jERs-cclwG4OOs",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16949499514578593715",
+  "vicinity": "15 Westwood Terrace"
+}

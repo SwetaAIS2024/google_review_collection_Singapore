@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Kallang Ave CT Hub, #06-14, Singapore 339407",
+  "geometry": {
+    "location": {
+      "lat": 1.312021,
+      "lng": 103.8628386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313375230291502,
+        "lng": 103.8643059802915
+      },
+      "southwest": {
+        "lat": 1.310677269708498,
+        "lng": 103.8616080197085
+      }
+    }
+  },
+  "name": "En Community",
+  "place_id": "ChIJNQz2I5UZ2jERSLoLYpmhHok",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "D A。",
+      "author_url": "https://www.google.com/maps/contrib/106273038759023413921/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWQ8h2ZyH0oEjKW8eJnpq0tKynM4uOetvNSyOfX9AwFGZ7s1NsjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720033436,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9880512312644450888",
+  "user_ratings_total": 1,
+  "vicinity": "2 Kallang Ave CT Hub, #06-14"
+}

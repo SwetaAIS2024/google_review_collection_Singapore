@@ -1,0 +1,44 @@
+{
+  "formatted_address": "280 Changi Rd, Singapore 419760",
+  "geometry": {
+    "location": {
+      "lat": 1.3176283,
+      "lng": 103.9063605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319012180291502,
+        "lng": 103.9077024302915
+      },
+      "southwest": {
+        "lat": 1.316314219708498,
+        "lng": 103.9050044697085
+      }
+    }
+  },
+  "name": "Aura Gallery",
+  "place_id": "ChIJTxKskAUY2jERE7vRGNIkfCo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shahril Hasan",
+      "author_url": "https://www.google.com/maps/contrib/115027487507570792435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpcn8LDvo65J_CjWPTukSGQvkjusmgYP2SzPD4qekjima7Xk0wBg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1353393460,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "painter",
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3061362331483224851",
+  "user_ratings_total": 1,
+  "vicinity": "280 Changi Road"
+}

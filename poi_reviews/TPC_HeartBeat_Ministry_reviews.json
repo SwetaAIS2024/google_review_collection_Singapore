@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 New Industrial Rd, Singapore 536200",
+  "geometry": {
+    "location": {
+      "lat": 1.3420061,
+      "lng": 103.8857193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343463730291502,
+        "lng": 103.8868244802915
+      },
+      "southwest": {
+        "lat": 1.340765769708498,
+        "lng": 103.8841265197085
+      }
+    }
+  },
+  "name": "TPC HeartBeat Ministry",
+  "place_id": "ChIJedftr68X2jERNmZKoJU5ZPI",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17466148569651766838",
+  "vicinity": "8 New Industrial Road"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3075197,
+      "lng": 103.8202464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308826630291502,
+        "lng": 103.8215496802915
+      },
+      "southwest": {
+        "lat": 1.306128669708498,
+        "lng": 103.8188517197085
+      }
+    }
+  },
+  "name": "AXS ATM",
+  "place_id": "ChIJj0VnOSAa2jERS5TJzA6XEfc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "M S",
+      "author_url": "https://www.google.com/maps/contrib/116876568789013867218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfH5NlaJLOrcwG_2OMwc9HnOvxkcVirKHRbDrPqlwgPgTlSg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "AXS machine is on the outside. Next to the UOB atm, and next to the taxistand. It is somewhat hidden if you're walking from the main door. Just walk towards the UOB atm and it's around the corner.",
+      "time": 1518068551,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17803176891793380427",
+  "user_ratings_total": 1,
+  "vicinity": "6 Napier Road"
+}

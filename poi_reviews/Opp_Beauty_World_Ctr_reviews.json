@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.343246,
+      "lng": 103.776917
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344574780291502,
+        "lng": 103.7782419802915
+      },
+      "southwest": {
+        "lat": 1.341876819708498,
+        "lng": 103.7755440197085
+      }
+    }
+  },
+  "name": "Opp Beauty World Ctr",
+  "place_id": "ChIJ_xyeX4oQ2jERML5frfTLpvo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lim Meng Hwee",
+      "author_url": "https://www.google.com/maps/contrib/100433637085464781686/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMtZAUztZ9Dd1a0xdbjKOVqEC1qZ-PZtP8rZyUk_2VtBcffg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710657370,
+      "translated": false
+    },
+    {
+      "author_name": "BR",
+      "author_url": "https://www.google.com/maps/contrib/106124686827282813847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUVZF_6adBab0jtsF48PFtBk3Dl7X51Ii5YpZmrRwkBKHePGg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1421942052,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18061347607357144624",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

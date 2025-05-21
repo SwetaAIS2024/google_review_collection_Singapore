@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377686,
+      "lng": 103.69632
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379033630291502,
+        "lng": 103.6976739302915
+      },
+      "southwest": {
+        "lat": 1.376335669708498,
+        "lng": 103.6949759697085
+      }
+    }
+  },
+  "name": "Opp Chinese Cemy Path 11",
+  "place_id": "ChIJXTVj7UQO2jERl4fUEK8ZFBc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Zhi Ming Poh",
+      "author_url": "https://www.google.com/maps/contrib/106399828587317968453/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUNhzHbtQubcZCIShgJIVwKrw7RnSapsD8f0ZbDklB0jEf2mo4=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522068393,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1662982402098890647",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

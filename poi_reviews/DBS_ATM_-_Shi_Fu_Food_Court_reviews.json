@@ -1,0 +1,29 @@
+{
+  "formatted_address": "13 Tuas South Street 5, Shi Fu Food Court, Singapore 637555",
+  "geometry": {
+    "location": {
+      "lat": 1.2951955,
+      "lng": 103.6267547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296354680291502,
+        "lng": 103.6280323802915
+      },
+      "southwest": {
+        "lat": 1.293656719708498,
+        "lng": 103.6253344197085
+      }
+    }
+  },
+  "name": "DBS ATM - Shi Fu Food Court",
+  "place_id": "ChIJxxijaW0H2jERSzI2Z3okXTI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3629096982866702923",
+  "vicinity": "13 Tuas South Street 5, Shi Fu Food Court"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3417143,
+      "lng": 103.8817187
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343091330291502,
+        "lng": 103.8831129302915
+      },
+      "southwest": {
+        "lat": 1.340393369708498,
+        "lng": 103.8804149697085
+      }
+    }
+  },
+  "name": "Aft Upp Paya Lebar Rd",
+  "place_id": "ChIJCyt5F5cX2jERWVTw5jwVT-s",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Kenn Tan",
+      "author_url": "https://www.google.com/maps/contrib/111708291978895661841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxVQnLyEAqyHOVd6gAW2XspR0eOWxhMQL2sF_j5EvyFqyBCxA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "This bus stop is sheltered, if you walk around 400m against the flow, you will reach some eateries.\n\nI always wonder why people would transfer bus or even drop off at bus stop that seems to serve no building. Perhaps this is the nearest to the nearby school.\n\nOr maybe this is a shorter walk to the neighbouring condos compared to the next bus stop at the MRT station.",
+      "time": 1571791599,
+      "translated": false
+    },
+    {
+      "author_name": "Yeow Seng Lim (YSLim)",
+      "author_url": "https://www.google.com/maps/contrib/104541628197334964116/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKMzMcLND8GC6WKIo25miyRkYeRC3fePxdbfLLsCmIWOj7sx3Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "The place has a chill vibe, great for walks and workouts.",
+      "time": 1683845247,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16955794473389937753",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

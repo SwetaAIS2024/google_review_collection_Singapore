@@ -1,0 +1,30 @@
+{
+  "formatted_address": "810 Geylang Rd, #01-59/59A City Plaza, Singapore 409286",
+  "geometry": {
+    "location": {
+      "lat": 1.3151644,
+      "lng": 103.8937113
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316581630291502,
+        "lng": 103.8947823302915
+      },
+      "southwest": {
+        "lat": 1.313883669708498,
+        "lng": 103.8920843697085
+      }
+    }
+  },
+  "name": "Zo Quest Mart",
+  "place_id": "ChIJzXeDpRcY2jERGs7Ncnx91qk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12238107010881408538",
+  "vicinity": "810 Geylang Road, #01-59/59A City Plaza, Singapore"
+}

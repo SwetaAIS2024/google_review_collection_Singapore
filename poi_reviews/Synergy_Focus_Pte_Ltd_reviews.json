@@ -1,0 +1,41 @@
+{
+  "formatted_address": "21 Bukit Batok Cres, Singapore 658065",
+  "geometry": {
+    "location": {
+      "lat": 1.3169988,
+      "lng": 103.9011919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318299830291502,
+        "lng": 103.9025433302915
+      },
+      "southwest": {
+        "lat": 1.315601869708498,
+        "lng": 103.8998453697085
+      }
+    }
+  },
+  "name": "Synergy Focus Pte Ltd",
+  "place_id": "ChIJAfVZI24Q2jERxqJMtSGgnaA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Peng Hu",
+      "author_url": "https://www.google.com/maps/contrib/103057760101056968968/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUtGxw8csODqSCS5_bWZaAsaFdxrxnG30ZorSFJNLsiicC8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561635974,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11573582684048106182",
+  "user_ratings_total": 1,
+  "vicinity": "21 Bukit Batok Crescent"
+}

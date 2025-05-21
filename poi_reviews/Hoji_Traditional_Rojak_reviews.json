@@ -1,0 +1,57 @@
+{
+  "formatted_address": "407 Ang Mo Kio Ave 10, Singapore 560407",
+  "geometry": {
+    "location": {
+      "lat": 1.3623161,
+      "lng": 103.8554546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363561480291502,
+        "lng": 103.8565493802915
+      },
+      "southwest": {
+        "lat": 1.360863519708498,
+        "lng": 103.8538514197085
+      }
+    }
+  },
+  "name": "Hoji Traditional Rojak",
+  "place_id": "ChIJ3-zEEL8X2jERGAr3J2kLEHA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Raymond Yap",
+      "author_url": "https://www.google.com/maps/contrib/110902412210188110085/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNwZNBaYT2QI-eGF8wFqMMq7xbD1JKPY67GMwy4J7Uc1KJH43v=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Surprisingly nice Rojak.  Crispy with nice flavor as some of the ingredients were air fried before serving.",
+      "time": 1711365287,
+      "translated": false
+    },
+    {
+      "author_name": "J Seng",
+      "author_url": "https://www.google.com/maps/contrib/116938237846338409963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVP7OUCnLw68yrAPXNbrudd7mhfivsgqRFt8QQVrGjO-apmao_Lcg=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Good rojak, you tiao was crispy and rojak sauce was thick with nice taste.",
+      "time": 1702105356,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8074966678145272344",
+  "user_ratings_total": 2,
+  "vicinity": "407 Ang Mo Kio Avenue 10, Singapore"
+}

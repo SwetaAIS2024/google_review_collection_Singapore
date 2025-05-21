@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326868,
+      "lng": 103.638145
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328229680291502,
+        "lng": 103.6394803302915
+      },
+      "southwest": {
+        "lat": 1.325531719708498,
+        "lng": 103.6367823697085
+      }
+    }
+  },
+  "name": "Basf Sth East Asia",
+  "place_id": "ChIJifFFkf8F2jERgMxliCtdeYo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9978108890969394304",
+  "vicinity": "Singapore"
+}

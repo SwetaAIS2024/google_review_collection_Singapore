@@ -1,0 +1,43 @@
+{
+  "formatted_address": "802 Bukit Batok West Ave. 5, BUKIT GOMBAK MRT STN EBC, Singapore 659083",
+  "geometry": {
+    "location": {
+      "lat": 1.3587805,
+      "lng": 103.7519975
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360127030291502,
+        "lng": 103.7535483302915
+      },
+      "southwest": {
+        "lat": 1.357429069708498,
+        "lng": 103.7508503697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT GOMBAK MRT",
+  "place_id": "ChIJN4QkhokR2jERrVj6TThh4H4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zakaria Abdul Rahman",
+      "author_url": "https://www.google.com/maps/contrib/107017169136290602420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVt3TcmrE-jkXb8aBYBWUg2nlsx52Mph3wgei6QLUt7FAykvZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636161254,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9142414138016422061",
+  "user_ratings_total": 1,
+  "vicinity": "802 Bukit Batok West Avenue 5, BUKIT GOMBAK MRT STN EBC"
+}

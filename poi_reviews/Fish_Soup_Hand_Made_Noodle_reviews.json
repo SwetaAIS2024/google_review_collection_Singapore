@@ -1,0 +1,30 @@
+{
+  "formatted_address": "476 Tampines Street 44, Singapore 520476",
+  "geometry": {
+    "location": {
+      "lat": 1.3609703,
+      "lng": 103.9533971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362447630291502,
+        "lng": 103.9547291302915
+      },
+      "southwest": {
+        "lat": 1.359749669708498,
+        "lng": 103.9520311697085
+      }
+    }
+  },
+  "name": "Fish Soup Hand Made Noodle",
+  "place_id": "ChIJSX9YfQA92jER48NF0Z_Q0Rk",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1860497505910113251",
+  "vicinity": "476 Tampines Street 44, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "153 BUKIT BATOK WEST STREET 11, #01-290/292, Singapore 650153",
+  "geometry": {
+    "location": {
+      "lat": 1.347569,
+      "lng": 103.744289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348942880291502,
+        "lng": 103.7456039802915
+      },
+      "southwest": {
+        "lat": 1.346244919708498,
+        "lng": 103.7429060197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT BATOK WEST DIGITAL LOBBY",
+  "place_id": "ChIJ4_iYm4AR2jERirXANAgOZUI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4784245607558591882",
+  "vicinity": "153 BUKIT BATOK WEST STREET 11, #01-290/292"
+}

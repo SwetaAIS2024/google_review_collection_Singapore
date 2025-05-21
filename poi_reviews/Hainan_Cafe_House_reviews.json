@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Pasir Ris Cl, #01-335/336 E!Avenue@Downtown East, Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3770399,
+      "lng": 103.9551103
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378510580291502,
+        "lng": 103.9565292802915
+      },
+      "southwest": {
+        "lat": 1.375812619708498,
+        "lng": 103.9538313197085
+      }
+    }
+  },
+  "name": "Hainan Cafe House",
+  "place_id": "ChIJUYlFLwA92jER8xQLWGwCH9E",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15068765542561813747",
+  "vicinity": "1 Pasir Ris Close, #01-335/336 E!Avenue@Downtown East, Singapore"
+}

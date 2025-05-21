@@ -1,0 +1,66 @@
+{
+  "formatted_address": "HDB Hougang #01-k1, 317 Hougang Avenue 7 (S)530317, Singapore 530317",
+  "geometry": {
+    "location": {
+      "lat": 1.3652988,
+      "lng": 103.8963197
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366548280291502,
+        "lng": 103.8976727802915
+      },
+      "southwest": {
+        "lat": 1.363850319708498,
+        "lng": 103.8949748197085
+      }
+    }
+  },
+  "name": "Jelly Store",
+  "place_id": "ChIJb_hBmjQW2jERfJ7uQJVEJWE",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Bora Lee",
+      "author_url": "https://www.google.com/maps/contrib/116915106044840352949/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7BEEfN-qqPOvXaQ25grMmQY6ZJPA1jxhFYbMlH5zYe738t2aq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good I like that",
+      "time": 1569975674,
+      "translated": false
+    },
+    {
+      "author_name": "Soo Cheng Lee",
+      "author_url": "https://www.google.com/maps/contrib/109816895718413207681/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIQ3B-9qlWKHohflNXPO6eUKKGtivdKSOVqamiY-TL4RVO0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1696327866,
+      "translated": false
+    },
+    {
+      "author_name": "PM Professionals",
+      "author_url": "https://www.google.com/maps/contrib/105244232506415654595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIu-2ie3NFamLHIsa_JES8CDhRFQZTcDeWkcIfkHVNMMc4og=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529448457,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7000076603647499900",
+  "user_ratings_total": 3,
+  "vicinity": "HDB Hougang #01-k1, 317 Hougang Avenue 7 (S)530317"
+}

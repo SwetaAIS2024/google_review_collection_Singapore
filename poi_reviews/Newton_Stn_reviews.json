@@ -1,0 +1,93 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313751,
+      "lng": 103.8380486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315153780291502,
+        "lng": 103.8394316302915
+      },
+      "southwest": {
+        "lat": 1.312455819708498,
+        "lng": 103.8367336697085
+      }
+    }
+  },
+  "name": "Newton Stn",
+  "place_id": "ChIJbRt5x-4Z2jERsHEEboNde6A",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "The bus stop that's located right by the Downtown line portion of Newton MRT. It's well designed, well built, is new, and serves it's purpose. You'll get buses that bring you down Bukit Timah main road from here, sheltered from MRT station through to the bus stop itself, as long as you cut through the Downtown station side of the things.",
+      "time": 1651623994,
+      "translated": false
+    },
+    {
+      "author_name": "Mazia Madon",
+      "author_url": "https://www.google.com/maps/contrib/112669399570348436231/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp8hasDA1OS0CaK8DGaDjIhLwtW3yQRwBo1_sQNWzGBG_HueUT=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "No direct leading to DOWNTOWN LINE. Need to exit NS line to enter. Inconvenient and poor signages",
+      "time": 1706689744,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Ow",
+      "author_url": "https://www.google.com/maps/contrib/107226184253215583727/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSkFANGI2CxahZA4LBzJsjPZmKasN4FeA1wCChzf1R1d40_g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Great but slightly inconvenient interchange between DTL and NSL.",
+      "time": 1684151725,
+      "translated": false
+    },
+    {
+      "author_name": "Robikah Robikah",
+      "author_url": "https://www.google.com/maps/contrib/107804243444977961827/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Oc1LN5uNjt8lj5QeO8oDZy9lgUnibEMoab3J8VgjOUngLGH_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Easy to find",
+      "time": 1672315293,
+      "translated": false
+    },
+    {
+      "author_name": "AHMAD ALHAKMI",
+      "author_url": "https://www.google.com/maps/contrib/113060600972165906056/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh_yExQI_FSEpJp8tyH4Fso2Q_fqheLvmCsiHeXakPD6G93d9h=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "good",
+      "time": 1580489739,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11563939287271764400",
+  "user_ratings_total": 11,
+  "vicinity": "Singapore"
+}

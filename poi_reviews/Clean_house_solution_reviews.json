@@ -1,0 +1,29 @@
+{
+  "formatted_address": "22sin, ming lane, Singapore 570022",
+  "geometry": {
+    "location": {
+      "lat": 1.3584494,
+      "lng": 103.8336654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359677830291502,
+        "lng": 103.8347121802915
+      },
+      "southwest": {
+        "lat": 1.356979869708498,
+        "lng": 103.8320142197085
+      }
+    }
+  },
+  "name": "Clean house solution",
+  "place_id": "ChIJLZvE9iUX2jERdMoH3ZPGfEE",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4718864847948204660",
+  "vicinity": "22sin, ming lane, Singapore"
+}

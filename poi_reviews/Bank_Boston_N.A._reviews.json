@@ -1,0 +1,29 @@
+{
+  "formatted_address": "150 Beach Rd, Singapore 189720",
+  "geometry": {
+    "location": {
+      "lat": 1.2984391,
+      "lng": 103.8588035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299946930291502,
+        "lng": 103.8600000302915
+      },
+      "southwest": {
+        "lat": 1.297248969708498,
+        "lng": 103.8573020697085
+      }
+    }
+  },
+  "name": "Bank Boston N.A.",
+  "place_id": "ChIJHSDIKbAZ2jER1sIxgrZwIjs",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4261092126616568534",
+  "vicinity": "150 Beach Road, Singapore"
+}

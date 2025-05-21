@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1 Seletar West Farmway 9, Singapore 797977",
+  "geometry": {
+    "location": {
+      "lat": 1.3978706,
+      "lng": 103.8617464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399164680291502,
+        "lng": 103.8630889802915
+      },
+      "southwest": {
+        "lat": 1.396466719708498,
+        "lng": 103.8603910197085
+      }
+    }
+  },
+  "name": "Blacksun Botanist",
+  "place_id": "ChIJi0ZVmlsX2jERFoJJIx7vec0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14806128162677293590",
+  "vicinity": "1 Seletar West Farmway 9, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Plymouth Ave, Singapore 297753",
+  "geometry": {
+    "location": {
+      "lat": 1.3216777,
+      "lng": 103.8249557
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322919280291502,
+        "lng": 103.8262730302915
+      },
+      "southwest": {
+        "lat": 1.320221319708498,
+        "lng": 103.8235750697085
+      }
+    }
+  },
+  "name": "The Cellar & Humidor",
+  "place_id": "ChIJFUNR1fgZ2jERgNM92gTyIc8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jonathan Lim",
+      "author_url": "https://www.google.com/maps/contrib/114473725027611542564/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8SngW_3Yb4ynpDeJqLpwvBLoqpAWiqkd76CgBgoAnCsnPVL3=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Nice and homely wine bar inside RTC. Nothing much to shout about, but I was impressed by the massive bottle of La Tache displayed at the front door.  Unfortunately it is now closed for maintenance (or maybe it is just because there is not much business to be had during these Covid times), but normally a nice place for a glass of wine for the members of the club",
+      "time": 1635128040,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14925476742737810304",
+  "user_ratings_total": 1,
+  "vicinity": "1 Plymouth Avenue"
+}

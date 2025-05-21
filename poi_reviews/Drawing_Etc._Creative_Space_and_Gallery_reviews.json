@@ -1,0 +1,42 @@
+{
+  "formatted_address": "62a Arab St, Singapore 199759",
+  "geometry": {
+    "location": {
+      "lat": 1.3011224,
+      "lng": 103.8593447
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302446630291502,
+        "lng": 103.8606640802915
+      },
+      "southwest": {
+        "lat": 1.299748669708498,
+        "lng": 103.8579661197085
+      }
+    }
+  },
+  "name": "Drawing Etc. Creative Space & Gallery",
+  "place_id": "ChIJeTWlUhQZ2jERRWBJACgXkfk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Lim See Kong",
+      "author_url": "https://www.google.com/maps/contrib/108800152115739609804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrckZVbQk7EHqeFF6G85442vBNL0-DANwm7rmuIZP5mXwFqJMO=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745491531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17983180247638040645",
+  "user_ratings_total": 1,
+  "vicinity": "62a Arab Street"
+}

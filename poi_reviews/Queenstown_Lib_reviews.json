@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.298115,
+      "lng": 103.806007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299444980291502,
+        "lng": 103.8073429802915
+      },
+      "southwest": {
+        "lat": 1.296747019708498,
+        "lng": 103.8046450197085
+      }
+    }
+  },
+  "name": "Queenstown Lib",
+  "place_id": "ChIJdRzwmTAa2jERA57r_K0xZwg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dancing Caulk",
+      "author_url": "https://www.google.com/maps/contrib/116466322714469390636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQkIThZxBJolsrh85wi_O50wfANXjK4AfKWi0cdsSzYWjFffA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "Goodluck crossing here",
+      "time": 1737723361,
+      "translated": false
+    },
+    {
+      "author_name": "Zi yi Wang",
+      "author_url": "https://www.google.com/maps/contrib/105924174528560637002/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0F14WaI6wOR0ls3qZcmz1UqBHIFncLRHjsDnrq4Z6sJ6R3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582865802,
+      "translated": false
+    },
+    {
+      "author_name": "Wai Kit Choo",
+      "author_url": "https://www.google.com/maps/contrib/102519072979361235386/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYs7AynA4nJENxijdaPQJbKFVxceMB8CPS8uYx67mgkHAA_W2-=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518247622,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=605507298247024131",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

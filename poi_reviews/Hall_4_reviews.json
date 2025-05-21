@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3436019,
+      "lng": 103.6868747
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344971380291502,
+        "lng": 103.6882069802915
+      },
+      "southwest": {
+        "lat": 1.342273419708498,
+        "lng": 103.6855090197085
+      }
+    }
+  },
+  "name": "Hall 4",
+  "place_id": "ChIJe8wd4J4P2jERMLsZPImcv0A",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "buttermoomoo",
+      "author_url": "https://www.google.com/maps/contrib/108263978275872540343/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN2z5-nBvs5sQVqZ5FDRrq-L-LIYdjwCQt1-6Z_WhKVhJUPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "Place to wait for shuttle bus",
+      "time": 1451664059,
+      "translated": false
+    },
+    {
+      "author_name": "Eswaraiah Varrla",
+      "author_url": "https://www.google.com/maps/contrib/107411339684032754890/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3YpnfaK7U8Nnye6L9cGVZ4W4khuoFFdLHz0TmDC7eRKZoKuIY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487930513,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4665619852211895088",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

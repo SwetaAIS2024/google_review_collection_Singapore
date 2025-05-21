@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Blk 605 Yishun Street 61, #01-311, Singapore 760605",
+  "geometry": {
+    "location": {
+      "lat": 1.4216876,
+      "lng": 103.8364425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422947530291502,
+        "lng": 103.8378356802915
+      },
+      "southwest": {
+        "lat": 1.420249569708498,
+        "lng": 103.8351377197085
+      }
+    }
+  },
+  "name": "U-Mart Piak Lan Hiong",
+  "place_id": "ChIJ4W5SjdQV2jERIT0TkizrjPQ",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17621718018655730977",
+  "vicinity": "Blk 605 Yishun Street 61, #01-311"
+}

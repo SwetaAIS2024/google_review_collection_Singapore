@@ -1,0 +1,30 @@
+{
+  "formatted_address": "71 Pioneer Rd, Singapore 639591",
+  "geometry": {
+    "location": {
+      "lat": 1.3170704,
+      "lng": 103.6520632
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318389730291502,
+        "lng": 103.6533830802915
+      },
+      "southwest": {
+        "lat": 1.315691769708498,
+        "lng": 103.6506851197085
+      }
+    }
+  },
+  "name": "V1 Power Canteen",
+  "place_id": "ChIJN4w4Qe4F2jER-9cmbw6LGJo",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11103777775392577531",
+  "vicinity": "71 Pioneer Road, Singapore"
+}

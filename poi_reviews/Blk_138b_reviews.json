@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3363126,
+      "lng": 103.8460763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337668980291502,
+        "lng": 103.8474544802915
+      },
+      "southwest": {
+        "lat": 1.334971019708498,
+        "lng": 103.8447565197085
+      }
+    }
+  },
+  "name": "Blk 138b",
+  "place_id": "ChIJhUkDDWgX2jERKCiS_NQ4XNA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Frank Dave",
+      "author_url": "https://www.google.com/maps/contrib/105897282998715861691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEQBK0ajNwXaRtx9SYpLYKkq1yWZMv6Y-fLAHe5J3HtNChDctjjw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "Not enough riders i think",
+      "time": 1529302048,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15013937745168050216",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

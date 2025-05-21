@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Geylang Serai, #01-03 Pasar, Singapore 402001",
+  "geometry": {
+    "location": {
+      "lat": 1.316707,
+      "lng": 103.8985143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317939480291502,
+        "lng": 103.8997589302915
+      },
+      "southwest": {
+        "lat": 1.315241519708498,
+        "lng": 103.8970609697085
+      }
+    }
+  },
+  "name": "Haron Groceries",
+  "place_id": "ChIJo_ZoagAZ2jER4hXoZVF9ceE",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16244903119457621474",
+  "vicinity": "1 Geylang Serai, #01-03 Pasar, Singapore"
+}

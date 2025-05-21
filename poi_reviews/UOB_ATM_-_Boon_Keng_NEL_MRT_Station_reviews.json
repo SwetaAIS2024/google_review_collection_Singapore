@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 900 Serangoon Road, #B1 Concourse Level, Boon Keng MRT Station, Singapore 328260",
+  "geometry": {
+    "location": {
+      "lat": 1.3198837,
+      "lng": 103.8620717
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321222030291502,
+        "lng": 103.8634349302915
+      },
+      "southwest": {
+        "lat": 1.318524069708498,
+        "lng": 103.8607369697085
+      }
+    }
+  },
+  "name": "UOB ATM - Boon Keng NEL MRT Station",
+  "place_id": "ChIJSQDA_e0Z2jER78g-aYK4Sao",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12270541529998608623",
+  "vicinity": "No. 900 Serangoon Road, #B1 Concourse Level, Boon Keng MRT Station"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "5 Changi Business Park Central 1, B1-K4/K5, Singapore 486038",
+  "geometry": {
+    "location": {
+      "lat": 1.334447,
+      "lng": 103.96255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335876330291502,
+        "lng": 103.9637616302915
+      },
+      "southwest": {
+        "lat": 1.333178369708498,
+        "lng": 103.9610636697085
+      }
+    }
+  },
+  "name": "Fruto",
+  "place_id": "ChIJVZHGk9c82jERw6sPvTlNvBU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1566211680798485443",
+  "vicinity": "5 Changi Business Park Central 1, B1-K4/K5, Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Blk 536 Serangoon North Ave 4, Lift A Lobby Area, Singapore 550536",
+  "geometry": {
+    "location": {
+      "lat": 1.3738353,
+      "lng": 103.8751408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375187180291502,
+        "lng": 103.8764248802915
+      },
+      "southwest": {
+        "lat": 1.372489219708498,
+        "lng": 103.8737269197085
+      }
+    }
+  },
+  "name": "SmartRX Medicine Vending Machine @ Jalan Kayu Zone 5 RC",
+  "place_id": "ChIJm18Z4g8X2jERoUW2GjHF2x4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Isaac S",
+      "author_url": "https://www.google.com/maps/contrib/113208115102477097275/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa34t0GDL1w-oj9yG6b7VBB-Ug80jFwWvbC83z_A1uAeTw9FJHHg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741016744,
+      "translated": false
+    },
+    {
+      "author_name": "Gavin Chen",
+      "author_url": "https://www.google.com/maps/contrib/112914850775911733639/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISQjCvKaJHBb_SSlAfvj6JTV2HIU9eLsm9W8mPkjYVf8QNRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740210948,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2223587655729694113",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 536 Serangoon North Avenue 4, Lift A Lobby Area"
+}

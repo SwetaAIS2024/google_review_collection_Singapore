@@ -1,0 +1,30 @@
+{
+  "formatted_address": "101 Upper Cross St, #01-36 People's Park Centre, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.285631,
+      "lng": 103.8440929
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286924130291502,
+        "lng": 103.8455558302915
+      },
+      "southwest": {
+        "lat": 1.284226169708498,
+        "lng": 103.8428578697085
+      }
+    }
+  },
+  "name": "JHY Resina's Mart",
+  "place_id": "ChIJu32aeAAZ2jERJmOqSakHMks",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5418401725346898726",
+  "vicinity": "101 Upper Cross Street, #01-36 People's Park Centre, Singapore"
+}

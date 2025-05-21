@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Lobby, Forest City Marina Hotel, Jalan Forest City - Lebuhraya Tanjung Pelepas, 1, Pulau Satu, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3359945,
+      "lng": 103.5938319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337343480291502,
+        "lng": 103.5951917802915
+      },
+      "southwest": {
+        "lat": 1.334645519708498,
+        "lng": 103.5924938197085
+      }
+    }
+  },
+  "name": "NS Cafe",
+  "place_id": "ChIJ2T-lVwAJ2jERitq7ZTpu7cs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Xiao Qian",
+      "author_url": "https://www.google.com/maps/contrib/112402882160974344272/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqOvFknMBvYCT4wt7h--8Q_SXZwEXPnaohx67vh5pbsRP_fsCV=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Super quiet\nGreat place to work",
+      "time": 1746328434,
+      "translated": false
+    },
+    {
+      "author_name": "Nate Kee",
+      "author_url": "https://www.google.com/maps/contrib/108346823079016145870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD_lfqFD5TSxWrCyQBXHkRso1VFkCSMvyWEELDX7I5PpYuRTze=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746440776,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14694522356273765002",
+  "user_ratings_total": 2,
+  "vicinity": "Lobby, Forest City Marina Hotel, Jalan Forest City - Lebuhraya Tanjung Pelepas, 1, Pulau Satu, Gelang Patah"
+}

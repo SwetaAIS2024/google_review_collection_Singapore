@@ -1,0 +1,45 @@
+{
+  "formatted_address": "277 Orchard Rd, Main Entrance, Singapore 238858",
+  "geometry": {
+    "location": {
+      "lat": 1.300769,
+      "lng": 103.8390821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302319130291502,
+        "lng": 103.8404966802915
+      },
+      "southwest": {
+        "lat": 1.299621169708498,
+        "lng": 103.8377987197085
+      }
+    }
+  },
+  "name": "FXChange @ Hotel Jen Orchard Gateway Singapore",
+  "place_id": "ChIJk7Z2ynAZ2jERJJECO6sySRU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Su Yuan Li",
+      "author_url": "https://www.google.com/maps/contrib/115380611701951665367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfWyj8ACHA-FCQxi1bFC8P-7_U_Z4T32Rk6iC9Fe28aIzvHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I can do the bedroom.",
+      "time": 1678431548,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1533812859107184932",
+  "user_ratings_total": 1,
+  "vicinity": "277 Orchard Road, Main Entrance"
+}

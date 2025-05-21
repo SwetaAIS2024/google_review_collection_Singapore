@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Jurong Town Hall Rd, Singapore 609431",
+  "geometry": {
+    "location": {
+      "lat": 1.3287301,
+      "lng": 103.7417687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329935730291502,
+        "lng": 103.7430215802915
+      },
+      "southwest": {
+        "lat": 1.327237769708498,
+        "lng": 103.7403236197085
+      }
+    }
+  },
+  "name": "IPI",
+  "place_id": "ChIJAQAAaQgQ2jERsYBAdAuhFOc",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16651110792862662833",
+  "vicinity": "9 Jurong Town Hall Road"
+}

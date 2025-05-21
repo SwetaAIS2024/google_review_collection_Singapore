@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Tampines Central 5, Singapore 529508",
+  "geometry": {
+    "location": {
+      "lat": 1.3531116,
+      "lng": 103.9437086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354308680291502,
+        "lng": 103.9450554802915
+      },
+      "southwest": {
+        "lat": 1.351610719708498,
+        "lng": 103.9423575197085
+      }
+    }
+  },
+  "name": "Harvest Learning Centre",
+  "place_id": "ChIJZVRs9BE92jERinj4hSJDy48",
+  "types": [
+    "university",
+    "secondary_school",
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10361449183251560586",
+  "vicinity": "1 Tampines Central 5, Singapore"
+}

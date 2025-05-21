@@ -1,0 +1,27 @@
+{
+  "formatted_address": "12 Marina Blvd, Marina Bay Financial Centre, Singapore 018982",
+  "geometry": {
+    "location": {
+      "lat": 1.2798218,
+      "lng": 103.8551011
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281298530291502,
+        "lng": 103.8565333802915
+      },
+      "southwest": {
+        "lat": 1.278600569708498,
+        "lng": 103.8538354197085
+      }
+    }
+  },
+  "name": "Empire IT",
+  "place_id": "ChIJzaM-1rsZ2jERcLrysA-LEUg",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5193084744844360304",
+  "vicinity": "12 Marina Boulevard, Marina Bay Financial Centre"
+}

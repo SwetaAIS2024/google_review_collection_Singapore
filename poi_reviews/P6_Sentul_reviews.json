@@ -1,0 +1,57 @@
+{
+  "formatted_address": "2 Ang Mo Kio Street 44, Singapore 569250",
+  "geometry": {
+    "location": {
+      "lat": 1.3725395,
+      "lng": 103.8572433
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373803130291502,
+        "lng": 103.8586325802915
+      },
+      "southwest": {
+        "lat": 1.371105169708498,
+        "lng": 103.8559346197085
+      }
+    }
+  },
+  "name": "P6 Sentul",
+  "place_id": "ChIJi1iOSAAX2jERHPNO92x4rJc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "jack",
+      "author_url": "https://www.google.com/maps/contrib/106560780822196727716/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuFQ7Z4s1mc1tZtTneBMhrSrKo6I3v_-0blQtf3ucISL-jmJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "just call the tyler when you see callen and everything will be fine",
+      "time": 1724917945,
+      "translated": false
+    },
+    {
+      "author_name": "Nafis Farhan",
+      "author_url": "https://www.google.com/maps/contrib/105732553984987089629/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxrQufoNYlkMjXzxVeK8NYgpaoTBGvuQmm163nCJtWzI_MNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "Is ok but it’s chaosland",
+      "time": 1725878702,
+      "translated": false
+    }
+  ],
+  "types": [
+    "primary_school",
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10929242805122298652",
+  "user_ratings_total": 2,
+  "vicinity": "2 Ang Mo Kio Street 44, Singapore"
+}

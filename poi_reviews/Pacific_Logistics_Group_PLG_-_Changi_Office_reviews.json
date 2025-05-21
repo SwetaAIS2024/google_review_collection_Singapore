@@ -1,0 +1,28 @@
+{
+  "formatted_address": "9 Airline Road, Unit 02-28 Cargo Agents Building D, Changi Airfreight Centre, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384423630291502,
+        "lng": 104.0009958802915
+      },
+      "southwest": {
+        "lat": 1.381725669708498,
+        "lng": 103.9982979197085
+      }
+    }
+  },
+  "name": "Pacific Logistics Group (PLG) - Changi Office",
+  "place_id": "ChIJd8TRwAw82jER_BfNQWnlOpY",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10825216894576695292",
+  "vicinity": "9 Airline Road, Unit 02-28 Cargo Agents Building D, Changi Airfreight Centre"
+}

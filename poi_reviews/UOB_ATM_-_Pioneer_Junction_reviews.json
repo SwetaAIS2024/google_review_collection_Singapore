@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 3 Soon Lee St, #01-11 Pioneer Junction, Singapore 627606",
+  "geometry": {
+    "location": {
+      "lat": 1.3340464,
+      "lng": 103.6969697
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335510830291502,
+        "lng": 103.6983565302915
+      },
+      "southwest": {
+        "lat": 1.332812869708498,
+        "lng": 103.6956585697085
+      }
+    }
+  },
+  "name": "UOB ATM - Pioneer Junction",
+  "place_id": "ChIJL8Dn24IP2jERcVlvAYBgA-E",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16213909186360072561",
+  "vicinity": "No. 3 Soon Lee Street, #01-11 Pioneer Junction"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Port Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2649054,
+      "lng": 103.8047454
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266207730291502,
+        "lng": 103.8062538802915
+      },
+      "southwest": {
+        "lat": 1.263509769708498,
+        "lng": 103.8035559197085
+      }
+    }
+  },
+  "name": "Car Park 2 & Coach Park",
+  "place_id": "ChIJ75F--Jwb2jER24EGRJXKqNQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Super large carpark, but there's essentially nothing here. No shade, no proper lines, no proper road. If you're here for the first time, don't fall for it like I did.\n\nGo all the way inside to Car Park B, closer to the shore line. Park your car closer to civilisation, closer to the park. Or else you'd have to walk quite some distance after you stop, and your car doesn't have shade here.",
+      "time": 1622254970,
+      "translated": false
+    },
+    {
+      "author_name": "Imdadul Hoke",
+      "author_url": "https://www.google.com/maps/contrib/109307631317183120365/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKno1qpV2S6HtJw_SUt6SVy_KfrO6IznSvxbWKwaQite0qtBmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "👌",
+      "time": 1693961281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15323720474568327643",
+  "user_ratings_total": 2,
+  "vicinity": "Port Road"
+}

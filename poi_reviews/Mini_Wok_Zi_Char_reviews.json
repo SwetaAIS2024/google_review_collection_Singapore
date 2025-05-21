@@ -1,0 +1,45 @@
+{
+  "formatted_address": "#02-02 Hawker Centre, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3412184,
+      "lng": 103.6973341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342611080291502,
+        "lng": 103.6987255802915
+      },
+      "southwest": {
+        "lat": 1.339913119708498,
+        "lng": 103.6960276197085
+      }
+    }
+  },
+  "name": "Mini Wok Zi Char",
+  "place_id": "ChIJY1b_bwAP2jERPvmy7MOR8kA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jing Yang",
+      "author_url": "https://www.google.com/maps/contrib/111395438513494265739/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2HzEgEQt5kbCUEZWN4dgr72WziBj7SNIOxM8oMvM1yFng81D9=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "All meals for 5.50, great price for a great meal!",
+      "time": 1740271769,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4679963233467169086",
+  "user_ratings_total": 1,
+  "vicinity": "#02-02 Hawker Centre"
+}

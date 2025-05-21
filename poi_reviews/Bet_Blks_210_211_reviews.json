@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359012,
+      "lng": 103.887634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360330630291502,
+        "lng": 103.8889977302915
+      },
+      "southwest": {
+        "lat": 1.357632669708498,
+        "lng": 103.8862997697085
+      }
+    }
+  },
+  "name": "Bet Blks 210/211",
+  "place_id": "ChIJhZzHgrYX2jER_9mXmEh7jZ4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Chuming SG",
+      "author_url": "https://www.google.com/maps/contrib/113742129711505548166/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAGh9yr-v6pswDBnYyoRnwAx4kh4vNZDmweTr9O9pfUW-1bAw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "No \"Shared Bike Parking Zone\" by LTA is available at here.",
+      "time": 1547637960,
+      "translated": false
+    },
+    {
+      "author_name": "mike deng jf",
+      "author_url": "https://www.google.com/maps/contrib/115663865587956008619/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7pI1kywRPoCo23u-94SDlXg62VDgUdKUKU3bEXn9jYlr-gHi2=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Nice atmosphere..",
+      "time": 1618380515,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11424923381436766719",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

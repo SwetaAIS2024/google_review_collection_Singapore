@@ -1,0 +1,47 @@
+{
+  "formatted_address": "Blk 932B Hougang Ave 9, #01-03, Singapore 532932",
+  "geometry": {
+    "location": {
+      "lat": 1.3751355,
+      "lng": 103.8821226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376444380291502,
+        "lng": 103.8835844302915
+      },
+      "southwest": {
+        "lat": 1.373746419708498,
+        "lng": 103.8808864697085
+      }
+    }
+  },
+  "name": "Our Indian Grocery Store",
+  "place_id": "ChIJb9yP-LkX2jERJdGWr422qnA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Fransco Goh",
+      "author_url": "https://www.google.com/maps/contrib/117871816054755730480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLHa5WmA4-YrH9bQMubjwxzK92CiPMai1x66UGPBl6y4gu0Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682258137,
+      "translated": false
+    }
+  ],
+  "types": [
+    "department_store",
+    "convenience_store",
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8118501997941281061",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 932B Hougang Avenue 9, #01-03"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Queenstown, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2791887,
+      "lng": 103.7986491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280012380291502,
+        "lng": 103.8000927802915
+      },
+      "southwest": {
+        "lat": 1.277314419708498,
+        "lng": 103.7973948197085
+      }
+    }
+  },
+  "name": "Therapeutic Garden @ HortPark",
+  "place_id": "ChIJl7Ues0Ub2jERq2sdyVsbsUs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "C",
+      "author_url": "https://www.google.com/maps/contrib/108121427451405924195/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVEFBMqVdde84YgM7RmJUjTlK2YyphjppNJiT0NgrZFZyAG6RYYA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The Therapeutic Garden at HortPark is a peaceful space designed for relaxation and well-being. While not spectacular or particularly photogenic, it’s still an interesting highlight and a nice place to pause and unwind. The thoughtfully arranged plants create a soothing atmosphere, complemented by gentle wind chimes and cozy seating areas. A worthwhile stop if you’re exploring HortPark—calm, refreshing, and a quiet retreat in nature.",
+      "time": 1740813926,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5454170704752503723",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

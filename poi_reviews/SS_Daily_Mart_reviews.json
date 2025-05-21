@@ -1,0 +1,30 @@
+{
+  "formatted_address": "781 Upper Changi Rd E, #01-30 Sunhaven, Condo 486069",
+  "geometry": {
+    "location": {
+      "lat": 1.3481827,
+      "lng": 103.962169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349587430291502,
+        "lng": 103.9635178302915
+      },
+      "southwest": {
+        "lat": 1.346889469708498,
+        "lng": 103.9608198697085
+      }
+    }
+  },
+  "name": "SS Daily Mart",
+  "place_id": "ChIJZ18_sQM92jERarcHgNyPaTQ",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3776707939730437994",
+  "vicinity": "781 Upper Changi Road East, #01-30 Sunhaven, Condo"
+}

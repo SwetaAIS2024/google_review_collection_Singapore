@@ -1,0 +1,29 @@
+{
+  "formatted_address": "60 Springside Walk, Singapore 786020",
+  "geometry": {
+    "location": {
+      "lat": 1.4047893,
+      "lng": 103.8195092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406174330291502,
+        "lng": 103.8207811802915
+      },
+      "southwest": {
+        "lat": 1.403476369708498,
+        "lng": 103.8180832197085
+      }
+    }
+  },
+  "name": "Goreng Story",
+  "place_id": "ChIJ19ii1IkT2jERPmYe_Wkubjs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4282411328428992062",
+  "vicinity": "60 Springside Walk, Singapore"
+}

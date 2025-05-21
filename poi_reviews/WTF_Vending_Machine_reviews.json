@@ -1,0 +1,31 @@
+{
+  "formatted_address": "53 Serangoon Garden Way, Singapore 555949",
+  "geometry": {
+    "location": {
+      "lat": 1.3632849,
+      "lng": 103.8658514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364612880291502,
+        "lng": 103.8672293802915
+      },
+      "southwest": {
+        "lat": 1.361914919708498,
+        "lng": 103.8645314197085
+      }
+    }
+  },
+  "name": "WTF Vending Machine",
+  "place_id": "ChIJf8NC_2Q92jERoI8-KiuGT4o",
+  "types": [
+    "convenience_store",
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9966332020344655776",
+  "vicinity": "53 Serangoon Garden Way"
+}

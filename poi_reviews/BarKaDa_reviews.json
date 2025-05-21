@@ -1,0 +1,48 @@
+{
+  "formatted_address": "304 Orchard Rd, #04-08 Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3045795,
+      "lng": 103.8340621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306018680291502,
+        "lng": 103.8355141802915
+      },
+      "southwest": {
+        "lat": 1.303320719708498,
+        "lng": 103.8328162197085
+      }
+    }
+  },
+  "name": "BarKaDa",
+  "place_id": "ChIJo1p0cpIZ2jERhj2x8weKUAo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "khaled matar",
+      "author_url": "https://www.google.com/maps/contrib/114889602865308126933/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPmosZ9BXEHhWcjKqmgcOtab9npecZllQIMfN2wBCDjYxp8zVi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nice shop",
+      "time": 1629068655,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "grocery_or_supermarket",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=743245705274015110",
+  "user_ratings_total": 1,
+  "vicinity": "304 Orchard Road, #04-08 Lucky Plaza, Singapore"
+}

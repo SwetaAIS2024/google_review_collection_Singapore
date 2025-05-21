@@ -1,0 +1,45 @@
+{
+  "formatted_address": "697 E Coast Rd, Singapore 459060",
+  "geometry": {
+    "location": {
+      "lat": 1.3119998,
+      "lng": 103.9221119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313276280291502,
+        "lng": 103.9234904302915
+      },
+      "southwest": {
+        "lat": 1.310578319708498,
+        "lng": 103.9207924697085
+      }
+    }
+  },
+  "name": "HC Endoscopy & Piles Centre (Siglap)",
+  "place_id": "ChIJmQWzRV4j2jERgI_xXz3u62E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Anthony Ng",
+      "author_url": "https://www.google.com/maps/contrib/110690368702672681154/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnSI_szCVhExMzI0buovj01C8qI5mJceXgYS2CqHK12iXUTNRyCQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Professional and friendly services.",
+      "time": 1679062921,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7055995188576096128",
+  "user_ratings_total": 1,
+  "vicinity": "697 East Coast Road"
+}

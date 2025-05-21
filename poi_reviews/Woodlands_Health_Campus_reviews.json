@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.425821,
+      "lng": 103.793915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427173080291502,
+        "lng": 103.7952658802915
+      },
+      "southwest": {
+        "lat": 1.424475119708498,
+        "lng": 103.7925679197085
+      }
+    }
+  },
+  "name": "Woodlands Health Campus",
+  "place_id": "ChIJ20qzGbwT2jERNNDwJVrBrNY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Eng Joo Tan",
+      "author_url": "https://www.google.com/maps/contrib/110237404352017108265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs5a2s45-ov-W_J6K-9RDDYRwsqdkVCl4XiUbZH8fzWI2m0A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "The hospital foods for patient are terrible. Every day the same food and tasteless. Patients are suffering. Please improve.",
+      "time": 1733892784,
+      "translated": false
+    },
+    {
+      "author_name": "MonoBattery",
+      "author_url": "https://www.google.com/maps/contrib/113181026345384442310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV02tFOPUhI75rwqiVgMNKpnraUvdsajnAdv6jwhDV2PC8Sto2f=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Note to anyone traveling her by Bus 900, the route does not match given by Google Maps but it still reaches Woodlands Health.",
+      "time": 1718154168,
+      "translated": false
+    },
+    {
+      "author_name": "Maverick",
+      "author_url": "https://www.google.com/maps/contrib/102125615736558390736/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId9rpFdEhA0wButQmDfyJ9LJyS2MrhnnDc0IW1UsQWlgS8tg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Not fully operational",
+      "time": 1709970700,
+      "translated": false
+    },
+    {
+      "author_name": "Rayden Son",
+      "author_url": "https://www.google.com/maps/contrib/116769742783570742139/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFe405UXuBcTD0vc8El2SagPZE1qhvx83h2SWHTjKTfQcAdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720759320,
+      "translated": false
+    },
+    {
+      "author_name": "Adjara Nikiema",
+      "author_url": "https://www.google.com/maps/contrib/117135481333813048723/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5__fAXnVHC6XFppzPjXrcVORwYuoesUfqnr42ptIuMbvVvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717611139,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15468951413038567476",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

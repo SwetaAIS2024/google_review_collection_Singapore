@@ -1,0 +1,27 @@
+{
+  "formatted_address": "4 Tuas S Dr, Singapore 637048",
+  "geometry": {
+    "location": {
+      "lat": 1.2765315,
+      "lng": 103.6210179
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277761530291502,
+        "lng": 103.621717
+      },
+      "southwest": {
+        "lat": 1.275063569708498,
+        "lng": 103.6189206
+      }
+    }
+  },
+  "name": "CDG Engie Charging Station",
+  "place_id": "ChIJOSwFMpEG2jERGiAC_w1Ds-k",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16839877159060381722",
+  "vicinity": "4 Tuas South Drive, Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "221 Henderson Rd, Singapore 159557",
+  "geometry": {
+    "location": {
+      "lat": 1.2805157,
+      "lng": 103.820811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281902580291502,
+        "lng": 103.8221178302915
+      },
+      "southwest": {
+        "lat": 1.279204619708498,
+        "lng": 103.8194198697085
+      }
+    }
+  },
+  "name": "Active Manpower Resources Pte Ltd",
+  "place_id": "ChIJD6jZoXgZ2jERWkosuj1Po_I",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Sagar Ingale",
+      "author_url": "https://www.google.com/maps/contrib/109591297614451507977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViWIvPpUBH3gVlG9CU1kZK8-bR1ogHxrdc_nghLdNihQOiQ8j-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713333927,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17483905304917461594",
+  "user_ratings_total": 1,
+  "vicinity": "221 Henderson Road"
+}

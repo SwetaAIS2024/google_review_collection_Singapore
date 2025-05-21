@@ -1,0 +1,42 @@
+{
+  "formatted_address": "510 Thomson Rd, #04-01A SLF Building, Singapore 298135",
+  "geometry": {
+    "location": {
+      "lat": 1.3337124,
+      "lng": 103.8396807
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335218780291502,
+        "lng": 103.8409510302915
+      },
+      "southwest": {
+        "lat": 1.332520819708498,
+        "lng": 103.8382530697085
+      }
+    }
+  },
+  "name": "Chiltern House Thomson",
+  "place_id": "ChIJi0bEfVwX2jERidjhZIS0DnA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Luke Hemsworth",
+      "author_url": "https://www.google.com/maps/contrib/116016345479877481423/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL8Aoi91A6hmSA9pqUG-hwvtmSU_rK8fW0ALX5SCff2dU1uIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509250322,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8074589662643083401",
+  "user_ratings_total": 1,
+  "vicinity": "510 Thomson Road, #04-01A SLF Building"
+}

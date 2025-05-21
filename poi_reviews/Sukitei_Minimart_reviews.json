@@ -1,0 +1,64 @@
+{
+  "formatted_address": "803 Yishun Ring Rd, Singapore 760803",
+  "geometry": {
+    "location": {
+      "lat": 1.4185224,
+      "lng": 103.831476
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419806580291502,
+        "lng": 103.8328897802915
+      },
+      "southwest": {
+        "lat": 1.417108619708498,
+        "lng": 103.8301918197085
+      }
+    }
+  },
+  "name": "Sukitei Minimart",
+  "place_id": "ChIJz-YxzHUV2jERxH_b5Sl2r_c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Keng Teng",
+      "author_url": "https://www.google.com/maps/contrib/115784014107612298164/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXefJuQxEWHH9iAzRK7h9shqdH6d060tAIsja2pTMUY78yPdRY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721369106,
+      "translated": false
+    },
+    {
+      "author_name": "Sh4h",
+      "author_url": "https://www.google.com/maps/contrib/113997296885089513711/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXCQaARlKRvX-Qvl7gaKyPhvL7N1T1-A4dRkXd5db9vQhb7K3nsA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708994317,
+      "translated": false
+    },
+    {
+      "author_name": "Luqman Haniff Omar",
+      "author_url": "https://www.google.com/maps/contrib/118433433618158309728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISQ0BmW46R517FZN1PpfWHIHhaXW69BtHRXhPpcSlxG89oO3Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631978834,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17847613770614669252",
+  "user_ratings_total": 3,
+  "vicinity": "803 Yishun Ring Road"
+}

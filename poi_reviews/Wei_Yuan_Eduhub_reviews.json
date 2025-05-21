@@ -1,0 +1,30 @@
+{
+  "formatted_address": "144 Upper Bukit Timah Rd, Singapore 588177",
+  "geometry": {
+    "location": {
+      "lat": 1.3417167,
+      "lng": 103.7763869
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342988080291502,
+        "lng": 103.7777675302915
+      },
+      "southwest": {
+        "lat": 1.340290119708498,
+        "lng": 103.7750695697085
+      }
+    }
+  },
+  "name": "Wei Yuan Eduhub",
+  "place_id": "ChIJNduvbYoQ2jERQ1G2e4NEnGc",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7465917613780390211",
+  "vicinity": "144 Upper Bukit Timah Road"
+}

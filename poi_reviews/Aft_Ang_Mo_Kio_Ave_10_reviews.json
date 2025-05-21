@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357321,
+      "lng": 103.85466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358641180291502,
+        "lng": 103.8559557302915
+      },
+      "southwest": {
+        "lat": 1.355943219708498,
+        "lng": 103.8532577697085
+      }
+    }
+  },
+  "name": "Aft Ang Mo Kio Ave 10",
+  "place_id": "ChIJqzZpGRsX2jERmBrRJxh9iP8",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Willie Ng",
+      "author_url": "https://www.google.com/maps/contrib/104097253026367188545/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0fir9xNLmSLfui0nAiiAJpgoT0qRwxk5v35KycWcID-BFe1Am=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705737848,
+      "translated": false
+    },
+    {
+      "author_name": "Harish Masand",
+      "author_url": "https://www.google.com/maps/contrib/114345254755912983834/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLihLv-gR_MsPBo3GirHsyDsVyftaUNE8L_fRfoNqBiztd2HA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582362066,
+      "translated": false
+    },
+    {
+      "author_name": "Siddhi Fathima",
+      "author_url": "https://www.google.com/maps/contrib/107368391242104895869/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMXM-eUp4HYUSMBZzcc5nKm_IKw-TwiQyHy8v2qeyyrZIlJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524814987,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18413104619204975256",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

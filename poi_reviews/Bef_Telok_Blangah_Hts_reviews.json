@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2756628,
+      "lng": 103.8153943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277021580291502,
+        "lng": 103.8167137802915
+      },
+      "southwest": {
+        "lat": 1.274323619708498,
+        "lng": 103.8140158197085
+      }
+    }
+  },
+  "name": "Bef Telok Blangah Hts",
+  "place_id": "ChIJKYrR-dsb2jERKOUgB2ULKgE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Ng Jolene",
+      "author_url": "https://www.google.com/maps/contrib/113836092055373819926/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ73c3VgUTJiC_-2aAY05jnEXRshivlI-tsEMzc31dUdtWxJA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Good morning! The skywalk has beautiful scenery all the way. You can see many beautiful HDB office buildings, harbors, flowers and trees in the distance. The air is fresh and there are some small pavilions where you can rest. Young people love it. A large group of friends have a happy party here after the walk. It takes 2 hours to go directly to Penang Hill, where you can also take the cable car until you reach the opposite island, Sentosa. It is another paradise tourist destination. Don’t miss it and introduce it to your friends😄😙😉😀",
+      "time": 1488766072,
+      "translated": true
+    },
+    {
+      "author_name": "Terence Teo",
+      "author_url": "https://www.google.com/maps/contrib/109195295647933398913/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9SjeeJqmF96qrUjW7xTIv256eJtgbJHp-brI2Lz2azxd_EF8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693725677,
+      "translated": false
+    },
+    {
+      "author_name": "Max von Franqué",
+      "author_url": "https://www.google.com/maps/contrib/100873797937197773810/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUscrIi6SHy-t1cSKZEF7BtcKassfDjg1HtOvAsYUoP-VMMNOgg9A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1673826422,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=83892071598974248",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

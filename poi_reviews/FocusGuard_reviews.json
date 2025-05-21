@@ -1,0 +1,27 @@
+{
+  "formatted_address": "7030 Ang Mo Kio Ave 5, Singapore 569880",
+  "geometry": {
+    "location": {
+      "lat": 1.3775441,
+      "lng": 103.8757059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379274730291502,
+        "lng": 103.8769762302915
+      },
+      "southwest": {
+        "lat": 1.376576769708498,
+        "lng": 103.8742782697085
+      }
+    }
+  },
+  "name": "FocusGuard",
+  "place_id": "ChIJKbITdFwW2jERdr1_6rsOJ1k",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6424119593723215222",
+  "vicinity": "7030 Ang Mo Kio Avenue 5"
+}

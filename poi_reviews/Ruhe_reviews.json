@@ -1,0 +1,45 @@
+{
+  "formatted_address": "27 Arab St, Singapore 199728",
+  "geometry": {
+    "location": {
+      "lat": 1.300401,
+      "lng": 103.8597049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301779830291502,
+        "lng": 103.8610908802915
+      },
+      "southwest": {
+        "lat": 1.299081869708498,
+        "lng": 103.8583929197085
+      }
+    }
+  },
+  "name": "Ruhe",
+  "place_id": "ChIJIZD7XZIZ2jER1e1bAPFfXIc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Benjamin C",
+      "author_url": "https://www.google.com/maps/contrib/102364006605744844759/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRPok6sc7WnFK1JSnAgGwvpBb1QxEM2IDO7kOurNT0oq2qGkc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I’ve tried their ice latte. Its pretty decent and they look newly open. Worth to give it a try",
+      "time": 1697958596,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9753776381675433429",
+  "user_ratings_total": 1,
+  "vicinity": "27 Arab Street"
+}

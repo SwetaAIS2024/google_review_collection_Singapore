@@ -1,0 +1,54 @@
+{
+  "formatted_address": "232 Turf Club Rd, Singapore 287982",
+  "geometry": {
+    "location": {
+      "lat": 1.334652,
+      "lng": 103.7937042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335865830291502,
+        "lng": 103.7949741302915
+      },
+      "southwest": {
+        "lat": 1.333167869708498,
+        "lng": 103.7922761697085
+      }
+    }
+  },
+  "name": "Chiltern House Turf Club Road",
+  "place_id": "ChIJVVVVhZkQ2jERL9cfuGs_I6Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dexy Qian",
+      "author_url": "https://www.google.com/maps/contrib/100383975092015403598/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxoPXh9bdXk7_g4L2lfMGuybfCcrZZOxZG4ODNa2fzNKW_QQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "Nice learning environment for kids",
+      "time": 1440559363,
+      "translated": false
+    },
+    {
+      "author_name": "Nick Lim",
+      "author_url": "https://www.google.com/maps/contrib/114321133094709134647/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc3XZzVVuvUExhgfJ8Vb2r5o6o7QK4kFPNKiKO-lvi3P2er478=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505361855,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11827366778288199471",
+  "user_ratings_total": 2,
+  "vicinity": "232 Turf Club Road"
+}

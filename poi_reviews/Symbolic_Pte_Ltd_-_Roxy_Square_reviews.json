@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 E Coast Rd, Singapore 428769",
+  "geometry": {
+    "location": {
+      "lat": 1.304351,
+      "lng": 103.904048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305465780291502,
+        "lng": 103.9056557302915
+      },
+      "southwest": {
+        "lat": 1.302767819708498,
+        "lng": 103.9029577697085
+      }
+    }
+  },
+  "name": "Symbolic Pte Ltd - Roxy Square",
+  "place_id": "ChIJ50cJaXIY2jERMl0jArgC4og",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9863449123227917618",
+  "vicinity": "50 East Coast Road"
+}

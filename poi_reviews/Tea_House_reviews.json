@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319298,
+      "lng": 103.8086057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320673980291502,
+        "lng": 103.8098025802915
+      },
+      "southwest": {
+        "lat": 1.317976019708498,
+        "lng": 103.8071046197085
+      }
+    }
+  },
+  "name": "Tea House",
+  "place_id": "ChIJkSJ-mA8a2jERkLAhEPWgbSU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kee Onn Chin",
+      "author_url": "https://www.google.com/maps/contrib/117009914719497595139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1p_0w-hMdfcW7nxWcJ1mLfKYo3XZOup3txZAI_QbAH1RTSVpQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Very bland. Not flavourful. Hard pearls. It's water with colour.",
+      "time": 1649058007,
+      "translated": false
+    },
+    {
+      "author_name": "Rachel Zhou",
+      "author_url": "https://www.google.com/maps/contrib/111672528094570933630/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbGAEnbKBdDCN4tR4m9mUDNr7n45KZ0zs3q6o0XD6kIckuf6o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Absolutely yumm i like it a lot",
+      "time": 1747648822,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2696988726262870160",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

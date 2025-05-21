@@ -1,0 +1,59 @@
+{
+  "formatted_address": "432A Bukit Batok West Ave. 8, Singapore 651432",
+  "geometry": {
+    "location": {
+      "lat": 1.3606271,
+      "lng": 103.7432895
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361961180291502,
+        "lng": 103.7446859302915
+      },
+      "southwest": {
+        "lat": 1.359263219708498,
+        "lng": 103.7419879697085
+      }
+    }
+  },
+  "name": "KTM 11 Supermarket",
+  "place_id": "ChIJLaUbCAAR2jERsirHLHMKFIA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alvis",
+      "author_url": "https://www.google.com/maps/contrib/102642607205542571827/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN03WpLyXWbH4idCg__mjmiZ0FasHZzxO6kqIQm7prwEyUGR23=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Friendly saff that will greet me when see me around even when i am not buying anything that day",
+      "time": 1724086791,
+      "translated": false
+    },
+    {
+      "author_name": "Selva Kumar",
+      "author_url": "https://www.google.com/maps/contrib/105355680098491304033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBC6Z7FfqhdX3XxXwMjZ1-CEqymvdnkbsbd7ckCAmx8wb0yWAk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "very good shop. all product available for low price to high quality. customer service excellent.overall all good 💯😊",
+      "time": 1717216750,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9229013026177755826",
+  "user_ratings_total": 2,
+  "vicinity": "432A Bukit Batok West Avenue 8"
+}

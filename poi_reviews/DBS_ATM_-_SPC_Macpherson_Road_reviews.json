@@ -1,0 +1,29 @@
+{
+  "formatted_address": "429 MacPherson Rd, Singapore 368140",
+  "geometry": {
+    "location": {
+      "lat": 1.3319171,
+      "lng": 103.8804343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333243280291502,
+        "lng": 103.8817843802915
+      },
+      "southwest": {
+        "lat": 1.330545319708498,
+        "lng": 103.8790864197085
+      }
+    }
+  },
+  "name": "DBS ATM - SPC Macpherson Road",
+  "place_id": "ChIJ4cJfnPkX2jER94MbdHwfX-8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17248539717236655095",
+  "vicinity": "429 MacPherson Road, Singapore"
+}

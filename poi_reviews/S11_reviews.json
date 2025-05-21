@@ -1,0 +1,30 @@
+{
+  "formatted_address": "18 Toh Yi Dr, #01-97, Singapore 590018",
+  "geometry": {
+    "location": {
+      "lat": 1.3399497,
+      "lng": 103.7728945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341223930291502,
+        "lng": 103.7743753802915
+      },
+      "southwest": {
+        "lat": 1.338525969708498,
+        "lng": 103.7716774197085
+      }
+    }
+  },
+  "name": "S11",
+  "place_id": "ChIJje2tFQAR2jERNM2uKqTZxt4",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16052757220922674484",
+  "vicinity": "18 Toh Yi Drive, #01-97, Singapore"
+}

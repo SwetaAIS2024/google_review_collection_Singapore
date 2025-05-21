@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.355426,
+      "lng": 103.747269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356777730291502,
+        "lng": 103.7486380302915
+      },
+      "southwest": {
+        "lat": 1.354079769708498,
+        "lng": 103.7459400697085
+      }
+    }
+  },
+  "name": "Bef Bt Batok West Ave 5",
+  "place_id": "ChIJzWxkWTcQ2jERuXewoNwYYyg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Marjan Arsy",
+      "author_url": "https://www.google.com/maps/contrib/115138050016540960576/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCN7nPAFDr9Bzw1hngwO_H3jf180loD9FCoPNNXF63Yhi77g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692684798,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2910197120079263673",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

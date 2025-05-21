@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Beach Rd, Singapore 189673",
+  "geometry": {
+    "location": {
+      "lat": 1.3034749,
+      "lng": 103.8649171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304781680291502,
+        "lng": 103.8662987802915
+      },
+      "southwest": {
+        "lat": 1.302083719708498,
+        "lng": 103.8636008197085
+      }
+    }
+  },
+  "name": "Kiosk Yew Hoe",
+  "place_id": "ChIJJ-Zf9rQZ2jEREeJZxk55InM",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8296326842812064273",
+  "vicinity": "1 Beach Road"
+}

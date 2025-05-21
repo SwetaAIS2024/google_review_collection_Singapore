@@ -1,0 +1,29 @@
+{
+  "formatted_address": "269 Queen St, Singapore 180269",
+  "geometry": {
+    "location": {
+      "lat": 1.300154,
+      "lng": 103.8538166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301454830291502,
+        "lng": 103.8552222302915
+      },
+      "southwest": {
+        "lat": 1.298756869708498,
+        "lng": 103.8525242697085
+      }
+    }
+  },
+  "name": "Kids Learning Lab",
+  "place_id": "ChIJVzGz_LoZ2jERyoqJtuOm-18",
+  "types": [
+    "school",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6916305149707782858",
+  "vicinity": "269 Queen Street"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2759631,
+      "lng": 103.6767958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277342380291502,
+        "lng": 103.6781870802915
+      },
+      "southwest": {
+        "lat": 1.274644419708498,
+        "lng": 103.6754891197085
+      }
+    }
+  },
+  "name": "New Admin Building",
+  "place_id": "ChIJ6Yf5HQAF2jERXgTO4PnXuL8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13815029325177422942",
+  "vicinity": "Jurong Island"
+}

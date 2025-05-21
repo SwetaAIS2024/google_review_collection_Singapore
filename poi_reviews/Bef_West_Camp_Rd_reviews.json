@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.405236,
+      "lng": 103.86087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406623580291502,
+        "lng": 103.8622451802915
+      },
+      "southwest": {
+        "lat": 1.403925619708498,
+        "lng": 103.8595472197085
+      }
+    }
+  },
+  "name": "Bef West Camp Rd",
+  "place_id": "ChIJcUUaLikU2jERbRl-xnX5d1Y",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6230722893727013229",
+  "vicinity": "Singapore"
+}

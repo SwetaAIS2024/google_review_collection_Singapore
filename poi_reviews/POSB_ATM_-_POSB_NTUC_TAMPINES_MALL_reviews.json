@@ -1,0 +1,57 @@
+{
+  "formatted_address": "4 Tampines Central 1, #B1-12 NTUC TAMPINES MALL, Singapore 529510",
+  "geometry": {
+    "location": {
+      "lat": 1.3524125,
+      "lng": 103.9445445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353934530291502,
+        "lng": 103.9457595802915
+      },
+      "southwest": {
+        "lat": 1.351236569708498,
+        "lng": 103.9430616197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB NTUC TAMPINES MALL",
+  "place_id": "ChIJNaEWQ6Q92jERwB9u682u51Y",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Hans Chung",
+      "author_url": "https://www.google.com/maps/contrib/110477235780242404339/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMQ4jSLc3ZJ3JqAodP0rGivmKDVugA4BTJrls2vSkknXxiJoMX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "When did a search on coin deposit machine, it shows here, but actually no such machine here.",
+      "time": 1731641909,
+      "translated": false
+    },
+    {
+      "author_name": "Md Noh",
+      "author_url": "https://www.google.com/maps/contrib/109333421861383155083/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkxMNPNZge5HzkvYRJ-7iNdsajjT0ZUygfnPYjtz4C3t7q8z_F=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Located within NTUC FairPrice supermarket at B1, near checkout counters, beside Unity Pharmacy.",
+      "time": 1663658973,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6262166006323355584",
+  "user_ratings_total": 2,
+  "vicinity": "4 Tampines Central 1, #B1-12 NTUC TAMPINES MALL"
+}

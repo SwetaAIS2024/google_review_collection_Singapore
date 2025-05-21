@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 4, #01-1018 Blk 629, Singapore 560629",
+  "geometry": {
+    "location": {
+      "lat": 1.3800312,
+      "lng": 103.8399959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381385080291502,
+        "lng": 103.8413041802915
+      },
+      "southwest": {
+        "lat": 1.378687119708498,
+        "lng": 103.8386062197085
+      }
+    }
+  },
+  "name": "DBS ATM - Ang Mo Kio North Branch",
+  "place_id": "ChIJuz4_BqkX2jERJjrVJX55MrU",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "David Lee Swee Hai",
+      "author_url": "https://www.google.com/maps/contrib/106232791249352010292/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-AtTVKaEqvoveobrh25cu3od9HL4XBAiD60Z0wDm7weMHGw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1528700007,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13056631852408060454",
+  "user_ratings_total": 1,
+  "vicinity": "Ang Mo Kio Avenue 4, #01-1018 Blk 629, Singapore"
+}

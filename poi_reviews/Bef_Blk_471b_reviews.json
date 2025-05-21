@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3774829,
+      "lng": 103.9006594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378802780291502,
+        "lng": 103.9020293302915
+      },
+      "southwest": {
+        "lat": 1.376104819708498,
+        "lng": 103.8993313697085
+      }
+    }
+  },
+  "name": "Bef Blk 471b",
+  "place_id": "ChIJta9kdzsW2jERhMlYsy9nJaw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lim Leng",
+      "author_url": "https://www.google.com/maps/contrib/101861642519508353554/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlNdYyTGC2BLW-FSlOcmxIb6Cj9610Y14dZzysxLqgpfhv2BI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523547097,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12404434203231963524",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,68 @@
+{
+  "formatted_address": "53 Sims Pl, Block 53, Singapore 380053",
+  "geometry": {
+    "location": {
+      "lat": 1.3175952,
+      "lng": 103.8801108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318929230291502,
+        "lng": 103.8813953802915
+      },
+      "southwest": {
+        "lat": 1.316231269708498,
+        "lng": 103.8786974197085
+      }
+    }
+  },
+  "name": "Mei Cheng Coffee shop",
+  "place_id": "ChIJJb0Ui2IZ2jERYpJFuETizB0",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Wei Ming Chen",
+      "author_url": "https://www.google.com/maps/contrib/101609798020277519000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW35RjCA1MXgzu_Qrn0LwBEVwoMU_mzD2L0LwsKiZMU9-Ob3EFN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "2 veg 1 meat for $4.6\n\nPortion was small and not worth it\n\nLooks like pricing in this coffee shop was expensive.\n\nNot recommended, better go to the nearby hawker centre.",
+      "time": 1727149725,
+      "translated": false
+    },
+    {
+      "author_name": "rivian tay",
+      "author_url": "https://www.google.com/maps/contrib/115965113473724718999/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID3XbTuj2ORm66s871UbQoconm-jP2IzwyVPO5jXh0BqcjFA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Atrocious mixed vegetable rice price where rice with steamed egg, stir-fried shredded potatoes (the Chinese kind like what Mala stall sells) and brinjals add up to $3.80.",
+      "time": 1699868078,
+      "translated": false
+    },
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1639341689,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2147339907126104674",
+  "user_ratings_total": 3,
+  "vicinity": "53 Sims Place, Block 53, Singapore"
+}

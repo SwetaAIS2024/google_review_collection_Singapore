@@ -1,0 +1,56 @@
+{
+  "formatted_address": "673 Bukit Timah Rd, Block C4-07, Singapore 269735",
+  "geometry": {
+    "location": {
+      "lat": 1.3264069,
+      "lng": 103.8025276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327625980291502,
+        "lng": 103.8040438302915
+      },
+      "southwest": {
+        "lat": 1.324928019708498,
+        "lng": 103.8013458697085
+      }
+    }
+  },
+  "name": "2i4",
+  "place_id": "ChIJEUmlNQAb2jERb6Wp7BtmPAw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Paper Shredder",
+      "author_url": "https://www.google.com/maps/contrib/101891069652762865833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4WK2Jc7hGNOHitrIX8KzA3P5VCExfT5kF2YmnHq-eNNq1LxRn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Most autistic class I have seen in a while",
+      "time": 1713423593,
+      "translated": false
+    },
+    {
+      "author_name": "CHEN NUO HCI",
+      "author_url": "https://www.google.com/maps/contrib/111908111653969791947/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo7T2_ChFl3Mz5JLWg9NVHhJzP892k78hAiRmUNc9Xz2eaDUE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "interesting place",
+      "time": 1744885711,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=881691897178465647",
+  "user_ratings_total": 1,
+  "vicinity": "673 Bukit Timah Road, Block C4-07, Singapore"
+}

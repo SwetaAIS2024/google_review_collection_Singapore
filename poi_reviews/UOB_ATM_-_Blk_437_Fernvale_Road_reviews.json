@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 437 Fernvale Rd, #01-K1, Singapore 790437",
+  "geometry": {
+    "location": {
+      "lat": 1.3926519,
+      "lng": 103.8761231
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.393962830291502,
+        "lng": 103.8774331302915
+      },
+      "southwest": {
+        "lat": 1.391264869708498,
+        "lng": 103.8747351697085
+      }
+    }
+  },
+  "name": "UOB ATM - Blk 437 Fernvale Road",
+  "place_id": "ChIJs3w2-6gX2jERPmvRCrkDDtU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15352212273037929278",
+  "vicinity": "Blk 437 Fernvale Road, #01-K1"
+}

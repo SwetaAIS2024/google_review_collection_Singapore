@@ -1,0 +1,52 @@
+{
+  "formatted_address": "5 Pioneer Sector 1, Singapore 628417",
+  "geometry": {
+    "location": {
+      "lat": 1.3079311,
+      "lng": 103.6587483
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309363880291502,
+        "lng": 103.6600075802915
+      },
+      "southwest": {
+        "lat": 1.306665919708498,
+        "lng": 103.6573096197085
+      }
+    }
+  },
+  "name": "Beng Siew Construction Pte Ltd",
+  "place_id": "ChIJHX5sHUEW2jERREIMIs0gPB0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Charles Neo",
+      "author_url": "https://www.google.com/maps/contrib/105172328846908304613/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJVK-F-mp0CXxIMS3g06sDggA6aC854aNjPXPK4othiWAuEPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711594292,
+      "translated": false
+    },
+    {
+      "author_name": "neelam boomesh",
+      "author_url": "https://www.google.com/maps/contrib/116864181046208895694/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyhJ4r3vBRO_G4ZM20q_uRVeTR48nXqSFMAq8RIYFX9OaHOgeH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577630435,
+      "translated": false
+    }
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2106594791114162756",
+  "user_ratings_total": 2,
+  "vicinity": "5 Pioneer Sector 1"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2848644,
+      "lng": 103.8641316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286256680291502,
+        "lng": 103.8655963
+      },
+      "southwest": {
+        "lat": 1.283558719708498,
+        "lng": 103.8602707
+      }
+    }
+  },
+  "name": "Californian Garden",
+  "place_id": "ChIJ0ZSlZQEZ2jER3ncNI9qsR0Y",
+  "types": [
+    "park",
+    "point_of_interest",
+    "subpremise",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da190165a594d1:0x4647acda230d77de",
+  "vicinity": "Singapore"
+}

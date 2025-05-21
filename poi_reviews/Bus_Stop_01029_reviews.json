@@ -1,0 +1,44 @@
+{
+  "formatted_address": "408 N Bridge Rd, Singapore 188725",
+  "geometry": {
+    "location": {
+      "lat": 1.2966742,
+      "lng": 103.8545193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298075080291502,
+        "lng": 103.8557886802915
+      },
+      "southwest": {
+        "lat": 1.295377119708498,
+        "lng": 103.8530907197085
+      }
+    }
+  },
+  "name": "Bus Stop (01029)",
+  "place_id": "ChIJF4_oEaUZ2jERc6c1o3eeULM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Janet Tan",
+      "author_url": "https://www.google.com/maps/contrib/104804012276559352631/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKAlXye7DmaD_k9xRtJnKkaq8iXGOnbQJr80KNzXfVc9RT8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "N/A",
+      "time": 1740285658,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12921001567602452339",
+  "user_ratings_total": 1,
+  "vicinity": "408 North Bridge Road, Singapore"
+}

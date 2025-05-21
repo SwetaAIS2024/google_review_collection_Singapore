@@ -1,0 +1,70 @@
+{
+  "formatted_address": "10 Tampines Central 1, #03-08/09, Singapore 529536",
+  "geometry": {
+    "location": {
+      "lat": 1.354212,
+      "lng": 103.9450352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355495030291502,
+        "lng": 103.9466640302915
+      },
+      "southwest": {
+        "lat": 1.352797069708498,
+        "lng": 103.9439660697085
+      }
+    }
+  },
+  "name": "Bite By Scarlett@Tampines 1 Mall",
+  "place_id": "ChIJP1JZfwA92jERnyP_zFWi9no",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "Jamie W",
+      "author_url": "https://www.google.com/maps/contrib/111459805804913899901/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt3RpBEhOhoDbJgqQApUdFLjWfopSUU70MfET-CyVsW_AYIA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Wide range of snack from China, cooked food zone available.",
+      "time": 1738043085,
+      "translated": false
+    },
+    {
+      "author_name": "Mr A",
+      "author_url": "https://www.google.com/maps/contrib/113269740994000904590/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM6XCX5TfZoYK2Y_f2fvqB0_lkTfu6it-ZYZf_BaeP2l7Epg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in the last week",
+      "text": "Charges for plastic bag 10 cent for a small bag, never say beforehand when offering to give me.",
+      "time": 1747402404,
+      "translated": false
+    },
+    {
+      "author_name": "Yasai Yu",
+      "author_url": "https://www.google.com/maps/contrib/108247603741377112642/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUzxnoqGq9QxrjF-YgQVf9AIc4xYUntir7NSB0c1ndwQaq1g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "No pancake fruit, bad review",
+      "time": 1740044297,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8860447806293222303",
+  "user_ratings_total": 3,
+  "vicinity": "10 Tampines Central 1, #03-08/09, Singapore"
+}

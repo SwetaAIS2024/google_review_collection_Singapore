@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Woodlands Height, Level 1, #01-01 Koufu Group HQ, beside 737859",
+  "geometry": {
+    "location": {
+      "lat": 1.428847,
+      "lng": 103.7988766
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.430201430291502,
+        "lng": 103.8002131302915
+      },
+      "southwest": {
+        "lat": 1.427503469708498,
+        "lng": 103.7975151697085
+      }
+    }
+  },
+  "name": "UOB ATM - Koufu Group HQ",
+  "place_id": "ChIJT-ydOrMT2jERoNgsHfP7eIE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9329483649683085472",
+  "vicinity": "1 Woodlands Height, Level 1, #01-01 Koufu Group HQ, beside"
+}

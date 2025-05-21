@@ -1,0 +1,45 @@
+{
+  "formatted_address": "378 Alexandra Rd, Singapore 159964",
+  "geometry": {
+    "location": {
+      "lat": 1.2877053,
+      "lng": 103.8026912
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289058930291502,
+        "lng": 103.8040352802915
+      },
+      "southwest": {
+        "lat": 1.286360969708498,
+        "lng": 103.8013373197085
+      }
+    }
+  },
+  "name": "Starting Block",
+  "place_id": "ChIJFYDiRQAb2jERrGoCu9vg5Sg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ethan Ong Wee Tiong",
+      "author_url": "https://www.google.com/maps/contrib/112485984526390357369/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU052s5S07SBYgZXjCg_wND4lC8sibDBopFQ5HMKVEIeAhM2XBB=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "The rating is for Google map wrong directions given. Firstly, have to U-turn from the main Alexandra Road. Secondly, the internal road “Queensway Dr” is closed due to ongoing construction. Have to reach here based on the red color route.",
+      "time": 1746695133,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2947008765523815084",
+  "user_ratings_total": 1,
+  "vicinity": "378 Alexandra Road"
+}

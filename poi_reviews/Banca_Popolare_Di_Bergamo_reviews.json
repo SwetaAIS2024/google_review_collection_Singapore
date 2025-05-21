@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2953413,
+      "lng": 103.8596008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296696480291502,
+        "lng": 103.8608368802915
+      },
+      "southwest": {
+        "lat": 1.293998519708498,
+        "lng": 103.8581389197085
+      }
+    }
+  },
+  "name": "Banca Popolare Di Bergamo",
+  "place_id": "ChIJ4alR464Z2jER41n3jGlBVAU",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=384003789825726947",
+  "vicinity": "Singapore"
+}

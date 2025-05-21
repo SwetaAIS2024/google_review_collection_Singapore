@@ -1,0 +1,29 @@
+{
+  "formatted_address": "80 Bendemeer Rd, #07-03, Singapore 339949",
+  "geometry": {
+    "location": {
+      "lat": 1.3167337,
+      "lng": 103.8633279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317952680291502,
+        "lng": 103.8645740802915
+      },
+      "southwest": {
+        "lat": 1.315254719708498,
+        "lng": 103.8618761197085
+      }
+    }
+  },
+  "name": "CardioScan Asia Pte Ltd",
+  "place_id": "ChIJe42A7xkZ2jER_2xNKJAABnM",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8288312783373430015",
+  "vicinity": "80 Bendemeer Road, #07-03"
+}

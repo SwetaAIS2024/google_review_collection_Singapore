@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Marina Coastal Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2660349,
+      "lng": 103.8604084
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267355630291502,
+        "lng": 103.8617661802915
+      },
+      "southwest": {
+        "lat": 1.264657669708498,
+        "lng": 103.8590682197085
+      }
+    }
+  },
+  "name": "Fifty Five Coffee Bar",
+  "place_id": "ChIJva8rjCMZ2jERtuu6UX08sJQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ng crystal",
+      "author_url": "https://www.google.com/maps/contrib/113893427367260994360/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJSL42uVQhfsOFmPO_ifl0HDJ0rq9wFYc83yEybgLacTxi9DusUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738135715,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10714130022454193078",
+  "user_ratings_total": 1,
+  "vicinity": "Marina Coastal Drive"
+}

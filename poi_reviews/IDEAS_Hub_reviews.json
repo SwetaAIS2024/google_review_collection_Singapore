@@ -1,0 +1,53 @@
+{
+  "formatted_address": "1207 Dover Rd, Level 2 Middle School Block, Singapore 139654",
+  "geometry": {
+    "location": {
+      "lat": 1.3024025,
+      "lng": 103.777905
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304177580291502,
+        "lng": 103.7796324802915
+      },
+      "southwest": {
+        "lat": 1.301479619708498,
+        "lng": 103.7769345197085
+      }
+    }
+  },
+  "name": "IDEAS Hub",
+  "place_id": "ChIJEQ1501ga2jERj5AAu228B4A",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Moritz Becker",
+      "author_url": "https://www.google.com/maps/contrib/107045276016037719050/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPhuQEqoQI8HxHpIvn_zKih8jXG3cle575wlpmcbrCHGukVaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good 3D Printers and Nice Staff. Easy to print",
+      "time": 1695819549,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Tan",
+      "author_url": "https://www.google.com/maps/contrib/103469881026908098925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyYaNsoin_Q7Q5hKIQN_AiqVx6Ryc0pp53z3N7rZe9kgYlHtw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702260776,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9225549541166583951",
+  "user_ratings_total": 2,
+  "vicinity": "1207 Dover Road, Level 2 Middle School Block"
+}

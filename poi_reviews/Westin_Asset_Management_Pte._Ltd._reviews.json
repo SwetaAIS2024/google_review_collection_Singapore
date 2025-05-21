@@ -1,0 +1,30 @@
+{
+  "formatted_address": "230 Victoria St, Singapore 188024",
+  "geometry": {
+    "location": {
+      "lat": 1.2997395,
+      "lng": 103.8557232
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301099380291502,
+        "lng": 103.8569948302915
+      },
+      "southwest": {
+        "lat": 1.298401419708498,
+        "lng": 103.8542968697085
+      }
+    }
+  },
+  "name": "Westin Asset Management Pte. Ltd.",
+  "place_id": "ChIJPZbamboZ2jERfp34potbVvg",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17894590824763137406",
+  "vicinity": "230 Victoria Street"
+}

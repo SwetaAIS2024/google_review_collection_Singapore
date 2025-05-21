@@ -1,0 +1,43 @@
+{
+  "formatted_address": "No. 60A Orchard Rd, Dhoby Ghaut MRT Station, Singapore 238889",
+  "geometry": {
+    "location": {
+      "lat": 1.2999743,
+      "lng": 103.845354
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301466530291502,
+        "lng": 103.8467101802915
+      },
+      "southwest": {
+        "lat": 1.298768569708498,
+        "lng": 103.8440122197085
+      }
+    }
+  },
+  "name": "UOB ATM - Dhoby Ghaut NEL MRT Station",
+  "place_id": "ChIJb-reVVYZ2jER8DTQn127RDA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Piggy P",
+      "author_url": "https://www.google.com/maps/contrib/103057440087522700698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu9HSe0JJYHdujr2yAuJdluYS8oU7kqbBiwMyKcQpfboAMVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738591650,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3478110823024440560",
+  "user_ratings_total": 1,
+  "vicinity": "No. 60A Orchard Road, Dhoby Ghaut MRT Station"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "401 Jurong West Street 42, #01-K1, Singapore 640401",
+  "geometry": {
+    "location": {
+      "lat": 1.3534269,
+      "lng": 103.7216904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354631380291502,
+        "lng": 103.7230343802915
+      },
+      "southwest": {
+        "lat": 1.351933419708498,
+        "lng": 103.7203364197085
+      }
+    }
+  },
+  "name": "Binli Sundry Shop",
+  "place_id": "ChIJwfH2R9oP2jER7tudhClmLB8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Khaw Khi Chan",
+      "author_url": "https://www.google.com/maps/contrib/111790941990101195121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmHnnnlDROi4hpC5bUjsb0iWxYM0OnCOgErfFHB2jzpGWOvbFB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very good can cook instant noodles for u",
+      "time": 1651122798,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2246282642655665134",
+  "user_ratings_total": 1,
+  "vicinity": "401 Jurong West Street 42, #01-K1, Singapore"
+}

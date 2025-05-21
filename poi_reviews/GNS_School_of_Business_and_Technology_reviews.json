@@ -1,0 +1,42 @@
+{
+  "formatted_address": "139 Cecil St, YSY Building, Singapore 069539",
+  "geometry": {
+    "location": {
+      "lat": 1.2795102,
+      "lng": 103.8484079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280897930291502,
+        "lng": 103.8496906802915
+      },
+      "southwest": {
+        "lat": 1.278199969708498,
+        "lng": 103.8469927197085
+      }
+    }
+  },
+  "name": "GNS School of Business and Technology",
+  "place_id": "ChIJJ7U1dxIZ2jERduuHxtmvqPk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Stanley Woo",
+      "author_url": "https://www.google.com/maps/contrib/116602949898068949526/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDgQaFiyeOiV8dN4a3vwk455AN_qzh-PvTGU-Ehnd6ZbA-kA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523603748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17989822061405006710",
+  "user_ratings_total": 1,
+  "vicinity": "139 Cecil Street, YSY Building, Singapore"
+}

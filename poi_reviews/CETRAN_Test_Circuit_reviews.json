@@ -1,0 +1,61 @@
+{
+  "formatted_address": "13 Cleantech Heights, Singapore 637146",
+  "geometry": {
+    "location": {
+      "lat": 1.3542047,
+      "lng": 103.6957626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355410580291502,
+        "lng": 103.6969310302915
+      },
+      "southwest": {
+        "lat": 1.352712619708498,
+        "lng": 103.6942330697085
+      }
+    }
+  },
+  "name": "CETRAN Test Circuit",
+  "place_id": "ChIJI8cvd_8P2jERl95JFS0Ze58",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "YANGXUN 12125488",
+      "author_url": "https://www.google.com/maps/contrib/109080879239590612027/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInJkRD2WPgJhFGz-1wTrXOzA6dDlckW-6ZVdzJ7rvnY1v8aw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722128313,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Goloskokovic",
+      "author_url": "https://www.google.com/maps/contrib/105855145618888536246/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU24ErEycxkLXR6-s3OcIxrgFh_hsl7Sdw0Uhc7QfPPyuwA8To=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1677513091,
+      "translated": false
+    },
+    {
+      "author_name": "Rickesh T N",
+      "author_url": "https://www.google.com/maps/contrib/109484803516817225797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeSWXgdhfqCnaqZpfcVdCFPI8Q_1tcQyVthRN18AsBM5sgxA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611294382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11491806555587337879",
+  "user_ratings_total": 3,
+  "vicinity": "13 Cleantech Heights, Singapore"
+}

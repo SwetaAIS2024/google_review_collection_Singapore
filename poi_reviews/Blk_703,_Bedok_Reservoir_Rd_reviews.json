@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3375,
+      "lng": 103.91967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338915780291502,
+        "lng": 103.9210662302915
+      },
+      "southwest": {
+        "lat": 1.336217819708498,
+        "lng": 103.9183682697085
+      }
+    }
+  },
+  "name": "Blk 703, Bedok Reservoir Rd",
+  "place_id": "ChIJTUV8hFk92jERtOssUNiGdd0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15957809118273399732",
+  "vicinity": "Singapore"
+}

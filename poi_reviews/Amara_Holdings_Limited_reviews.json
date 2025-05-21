@@ -1,0 +1,44 @@
+{
+  "formatted_address": "100 Tras St, #06-01 100, AM 079027",
+  "geometry": {
+    "location": {
+      "lat": 1.2749455,
+      "lng": 103.8434094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276216230291502,
+        "lng": 103.8447544302915
+      },
+      "southwest": {
+        "lat": 1.273518269708498,
+        "lng": 103.8420564697085
+      }
+    }
+  },
+  "name": "Amara Holdings Limited",
+  "place_id": "ChIJIZCqX2sZ2jERhS23Zenx3zg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PooYong Yeo",
+      "author_url": "https://www.google.com/maps/contrib/109088427598469969613/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnT3Sc_ydPk-ObkI3_m5zAJjN5spH7VQF6ZZ8WE9Lo3sZK8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582782977,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "lodging",
+    "point_of_interest",
+    "general_contractor",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4098260170666618245",
+  "user_ratings_total": 1,
+  "vicinity": "100 Tras Street, #06-01 100, AM"
+}

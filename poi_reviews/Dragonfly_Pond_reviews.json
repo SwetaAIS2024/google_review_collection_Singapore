@@ -1,0 +1,28 @@
+{
+  "formatted_address": "419 Northshore Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4183463,
+      "lng": 103.9030622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419723080291502,
+        "lng": 103.9043963802915
+      },
+      "southwest": {
+        "lat": 1.417025119708498,
+        "lng": 103.9016984197085
+      }
+    }
+  },
+  "name": "Dragonfly Pond",
+  "place_id": "ChIJZyreHAAV2jER0gmEMd-nS5I",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10541703929841060306",
+  "vicinity": "419 Northshore Drive"
+}

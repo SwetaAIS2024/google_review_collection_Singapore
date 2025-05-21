@@ -1,0 +1,44 @@
+{
+  "formatted_address": "123 Bukit Merah Lane 1, Singapore 150123",
+  "geometry": {
+    "location": {
+      "lat": 1.2867152,
+      "lng": 103.8037402
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288025130291502,
+        "lng": 103.8049378302915
+      },
+      "southwest": {
+        "lat": 1.285327169708498,
+        "lng": 103.8022398697085
+      }
+    }
+  },
+  "name": "Tah Li Electronics Pte School (1986)",
+  "place_id": "ChIJSSs-i8sb2jER_P7Ao7m4WIA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dax Young",
+      "author_url": "https://www.google.com/maps/contrib/100495519302749365248/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPKixPTSRfNs_YyX0egL4Um5fP7et0BiE0OrKcIoF33dvTBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Best electronics traing school",
+      "time": 1480546353,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9248344942261108476",
+  "user_ratings_total": 1,
+  "vicinity": "123 Bukit Merah Lane 1, Singapore"
+}

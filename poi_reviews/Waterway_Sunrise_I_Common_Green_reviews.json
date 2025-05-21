@@ -1,0 +1,42 @@
+{
+  "formatted_address": "655c Punggol E, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3979905,
+      "lng": 103.92219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399468380291502,
+        "lng": 103.9239124802915
+      },
+      "southwest": {
+        "lat": 1.396770419708498,
+        "lng": 103.9212145197085
+      }
+    }
+  },
+  "name": "Waterway Sunrise I Common Green",
+  "place_id": "ChIJCWuw4sI92jER2Odeg44QNdU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chan Roland",
+      "author_url": "https://www.google.com/maps/contrib/111168160951910959101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxFhwt3Oh_o51IYJep_fsNmk4hpSoD30Jj2ABrlsBVQMXsSDY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712235037,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15363203908119750616",
+  "user_ratings_total": 1,
+  "vicinity": "655c Punggol East"
+}

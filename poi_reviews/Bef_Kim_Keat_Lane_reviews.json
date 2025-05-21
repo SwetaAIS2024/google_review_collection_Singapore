@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3246153,
+      "lng": 103.8532634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325984080291502,
+        "lng": 103.8545824802915
+      },
+      "southwest": {
+        "lat": 1.323286119708498,
+        "lng": 103.8518845197085
+      }
+    }
+  },
+  "name": "Bef Kim Keat Lane",
+  "place_id": "ChIJNYsO-dgZ2jERUrWgfwjOOjw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "GravyAnimates",
+      "author_url": "https://www.google.com/maps/contrib/104734214548037794617/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLjrXlm_Ar4O5iWPEZn8fGRsvMZ5aWK4aYTvX5xILMwWqi_REb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "W",
+      "time": 1705654561,
+      "translated": false
+    },
+    {
+      "author_name": "Alfred Loh",
+      "author_url": "https://www.google.com/maps/contrib/101704209381264929831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJk8NM6YDgVy3R8I8yQ2wdshaUxEyMUid1-cTOsNslRo0yxQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1634713925,
+      "translated": false
+    },
+    {
+      "author_name": "Prafull Wankhade",
+      "author_url": "https://www.google.com/maps/contrib/103706174382324555980/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMProGKPS3qzohagShG1eeYhAMMMyC9IJxF8c2Ig5k-OH-fCy_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523839681,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4340007726821193042",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

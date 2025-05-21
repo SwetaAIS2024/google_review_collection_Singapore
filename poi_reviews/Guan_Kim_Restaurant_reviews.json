@@ -1,0 +1,45 @@
+{
+  "formatted_address": "47 Tanglin Halt Rd, #01-313, Singapore 141047",
+  "geometry": {
+    "location": {
+      "lat": 1.3008447,
+      "lng": 103.7980579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302328280291502,
+        "lng": 103.7993863802915
+      },
+      "southwest": {
+        "lat": 1.299630319708498,
+        "lng": 103.7966884197085
+      }
+    }
+  },
+  "name": "Guan Kim Restaurant",
+  "place_id": "ChIJLS7vYgAb2jERMav-Gqu8iTQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Felix M",
+      "author_url": "https://www.google.com/maps/contrib/107925511014057540261/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCob5M2gQ36zS3On3GTrb9CJJiXATUlq6c5UWm3kGfeJTM-hX6Rg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Nice zhi char",
+      "time": 1722607686,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3785764404859939633",
+  "user_ratings_total": 1,
+  "vicinity": "47 Tanglin Halt Road, #01-313, Singapore"
+}

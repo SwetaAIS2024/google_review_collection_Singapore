@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Jurong East Street 21, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.3349575,
+      "lng": 103.7468492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336343330291502,
+        "lng": 103.7485292302915
+      },
+      "southwest": {
+        "lat": 1.333645369708498,
+        "lng": 103.7458312697085
+      }
+    }
+  },
+  "name": "POSB Jurong East",
+  "place_id": "ChIJVVV22w0Q2jERjkYnrfF1GeI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16292182807842080398",
+  "vicinity": "2 Jurong East Street 21"
+}

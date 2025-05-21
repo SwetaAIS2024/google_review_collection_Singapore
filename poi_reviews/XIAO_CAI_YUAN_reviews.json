@@ -1,0 +1,46 @@
+{
+  "formatted_address": "1 Rochor Canal Rd, Singapore 188504",
+  "geometry": {
+    "location": {
+      "lat": 1.3030433,
+      "lng": 103.8529208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304177980291502,
+        "lng": 103.8542643802915
+      },
+      "southwest": {
+        "lat": 1.301480019708498,
+        "lng": 103.8515664197085
+      }
+    }
+  },
+  "name": "XIAO CAI YUAN",
+  "place_id": "ChIJM26XdAAZ2jERVAMMXG5ypL8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "DR SG",
+      "author_url": "https://www.google.com/maps/contrib/116544865914211833721/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqMKT09sEzoH43NSvb9GCT8knzKlwz6oDjrDBqiihi8leqQGQx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good place for Chinese HOTPOT MALA and soup dishes. Authentic taste. Located in Stall 8 at basement of Sim Lim Square. Very good friendly staff. Prices are clearly shown on menu.",
+      "time": 1703776539,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13809288175741043540",
+  "user_ratings_total": 1,
+  "vicinity": "1 Rochor Canal Road"
+}

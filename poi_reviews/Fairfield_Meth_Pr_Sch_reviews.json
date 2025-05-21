@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30077,
+      "lng": 103.784378
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302083480291502,
+        "lng": 103.7856873802915
+      },
+      "southwest": {
+        "lat": 1.299385519708498,
+        "lng": 103.7829894197085
+      }
+    }
+  },
+  "name": "Fairfield Meth Pr Sch",
+  "place_id": "ChIJN2Vh-loa2jERmsEQ57j1PJM",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Sweta Das",
+      "author_url": "https://www.google.com/maps/contrib/115092880506160654396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIZrMevOpB1pMxDGef2u6frDnjddB4WYzva__FIcv09cwxwg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very good",
+      "time": 1659770082,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Tang",
+      "author_url": "https://www.google.com/maps/contrib/112943953137218757698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2FAWhB6r5KNw3mhtCyRe04FgjzM4UfLtt4epqTVMPWpt2jfE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524046627,
+      "translated": false
+    },
+    {
+      "author_name": "Chin Cheng Neo",
+      "author_url": "https://www.google.com/maps/contrib/104959310345093304316/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMKWTIHeJeg-Usc5nG9v4-EiQCVriz0sMnhO6eSM-iaG0HQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483254317,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10609624996677468570",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

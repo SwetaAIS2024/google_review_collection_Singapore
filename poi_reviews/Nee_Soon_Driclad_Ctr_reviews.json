@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.407054,
+      "lng": 103.820122
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.408383880291502,
+        "lng": 103.8215100302915
+      },
+      "southwest": {
+        "lat": 1.405685919708498,
+        "lng": 103.8188120697085
+      }
+    }
+  },
+  "name": "Nee Soon Driclad Ctr",
+  "place_id": "ChIJb0SAx_gT2jER1FTBCCxnjGc",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Emperor Darkness",
+      "author_url": "https://www.google.com/maps/contrib/101210788212942887961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKJTNHTC2LwJOu9KppD-ZW2Bj5LFRNxJPZpmPuuFBwTGa8vEea=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577954385,
+      "translated": false
+    },
+    {
+      "author_name": "Don92 Inspire",
+      "author_url": "https://www.google.com/maps/contrib/109928379051705993608/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc3liNgPYM7GIyE_9i9_rdeYVEu5z0LUjVEUVaLMfebvEuNylo=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527876845,
+      "translated": false
+    },
+    {
+      "author_name": "Johari Salleh",
+      "author_url": "https://www.google.com/maps/contrib/103124516761129806170/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXOY6myG_Fxr57DgHuZNMRHEDzpdm7FotErjGSwTRcCzr-V9Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512609342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7461452121469179092",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

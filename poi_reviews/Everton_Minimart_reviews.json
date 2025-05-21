@@ -1,0 +1,57 @@
+{
+  "formatted_address": "7 Everton Park, Block 7, Singapore 080007",
+  "geometry": {
+    "location": {
+      "lat": 1.277111,
+      "lng": 103.839368
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278524180291502,
+        "lng": 103.8407406302915
+      },
+      "southwest": {
+        "lat": 1.275826219708498,
+        "lng": 103.8380426697085
+      }
+    }
+  },
+  "name": "Everton Minimart",
+  "place_id": "ChIJt2g4KmwZ2jERoDvXVJrFQcE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Sherry Chua",
+      "author_url": "https://www.google.com/maps/contrib/106871033905499765847/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSgyXBUE9A1GG66Lfz8Ps-UklFv2qc_-EwA4MinmmNta1k8CUhzQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Friendly staffs as residents area so all are neigbours. Kampong amosphere, able to chit-chat at time and can find could be update of the surrounding.",
+      "time": 1583374994,
+      "translated": false
+    },
+    {
+      "author_name": "iReview . One million views / month",
+      "author_url": "https://www.google.com/maps/contrib/115802337066515884011/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-sYUfcmlqvkxteKhP3nurpNlUcuzjgab9kD2j8lGaUDI-NkZ_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714228453,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13925628789445311392",
+  "user_ratings_total": 2,
+  "vicinity": "7 Everton Park, Block 7, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk332, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3615221,
+      "lng": 103.852189
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362971480291502,
+        "lng": 103.8534862302915
+      },
+      "southwest": {
+        "lat": 1.360273519708498,
+        "lng": 103.8507882697085
+      }
+    }
+  },
+  "name": "May Wei TCM",
+  "place_id": "ChIJiVvwShwX2jERqbTFYvlzYRQ",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1468582468440667305",
+  "vicinity": "Blk332"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "20 Dover Dr, Singapore 138682",
+  "geometry": {
+    "location": {
+      "lat": 1.2999549,
+      "lng": 103.7806535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301051930291502,
+        "lng": 103.7820282802915
+      },
+      "southwest": {
+        "lat": 1.298353969708498,
+        "lng": 103.7793303197085
+      }
+    }
+  },
+  "name": "Aafiyah by Naser",
+  "place_id": "ChIJYWQtYscb2jERLBv8wnRuY10",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Panda Rider",
+      "author_url": "https://www.google.com/maps/contrib/103362325207315853426/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGT4MtFA3Q-JfO250UG2aoPh5lIA8GUlB-VfLE7aRiWxN94A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Small little stall with great food run by great people. Always kind to riders and punctual with their orders. Do support them whether in person or on foodpanda.",
+      "time": 1707184815,
+      "translated": false
+    },
+    {
+      "author_name": "Asrol Nizam",
+      "author_url": "https://www.google.com/maps/contrib/102990760339301863768/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5KObQTk8bDp_Cspd-LFyrmHj-rHO9jvi98cSXVxJao971N_Gt=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713762462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6729343715988216620",
+  "user_ratings_total": 2,
+  "vicinity": "20 Dover Drive"
+}

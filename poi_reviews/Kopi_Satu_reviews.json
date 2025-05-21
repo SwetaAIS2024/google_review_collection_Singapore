@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Maritime Square, #01, #103 108, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2647313,
+      "lng": 103.8193854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265986580291502,
+        "lng": 103.8208044802915
+      },
+      "southwest": {
+        "lat": 1.263288619708498,
+        "lng": 103.8181065197085
+      }
+    }
+  },
+  "name": "Kopi Satu",
+  "place_id": "ChIJV9mDbAAb2jERM_NyMnDdrxo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746273953,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1922999039862960947",
+  "user_ratings_total": 1,
+  "vicinity": "1 Maritime Square, #01, #103 108, Singapore"
+}

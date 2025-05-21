@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2804255,
+      "lng": 103.8637466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281744764106896,
+        "lng": 103.8651008070127
+      },
+      "southwest": {
+        "lat": 1.279046803523892,
+        "lng": 103.8624028464297
+      }
+    }
+  },
+  "name": "Web of Life",
+  "place_id": "ChIJoTy8OAMZ2jERxWtp8RQO-PA",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da190338bc3ca1:0xf0f80e14f1696bc5",
+  "vicinity": "Singapore"
+}

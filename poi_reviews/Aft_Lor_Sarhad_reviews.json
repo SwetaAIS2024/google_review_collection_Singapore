@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.280741,
+      "lng": 103.786827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282091580291502,
+        "lng": 103.7881726802915
+      },
+      "southwest": {
+        "lat": 1.279393619708498,
+        "lng": 103.7854747197085
+      }
+    }
+  },
+  "name": "Aft Lor Sarhad",
+  "place_id": "ChIJwxOa4q8b2jERxCZI7Qa-gbM",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Mike",
+      "author_url": "https://www.google.com/maps/contrib/113719386694804497709/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa2TwjGb68gOq9n-GWMsb9yVNofq5euS_1GA4yNjMXFAq5A2lGVw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Right in front of barrels. Have cover for the rain about not connected to any building so if it rains you have to bring umbrella. Nothing else here as it is small station. Also right behind there is a convenient store/grocery store so you can buy stuff.",
+      "time": 1566723085,
+      "translated": false
+    },
+    {
+      "author_name": "Molineux",
+      "author_url": "https://www.google.com/maps/contrib/117443343222528651374/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzgVUekAaH7jteni2ujGGOQv_2uilMz_RzuxKUHrBR88JZqWUo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "No shelter around the bus stop",
+      "time": 1680335117,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12934828541744785092",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

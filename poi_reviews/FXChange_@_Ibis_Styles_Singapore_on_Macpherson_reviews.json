@@ -1,0 +1,29 @@
+{
+  "formatted_address": "401 MacPherson Rd, Main Entrance, Singapore 368125",
+  "geometry": {
+    "location": {
+      "lat": 1.3316833,
+      "lng": 103.87933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.332895080291502,
+        "lng": 103.8806115802915
+      },
+      "southwest": {
+        "lat": 1.330197119708498,
+        "lng": 103.8779136197085
+      }
+    }
+  },
+  "name": "FXChange @ Ibis Styles Singapore on Macpherson",
+  "place_id": "ChIJ23kU5fEX2jERuD3lseyvw40",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10215201810938150328",
+  "vicinity": "401 MacPherson Road, Main Entrance"
+}

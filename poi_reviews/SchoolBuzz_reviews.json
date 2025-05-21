@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jalan Bukit Merah, Blk 167, Singapore 150167",
+  "geometry": {
+    "location": {
+      "lat": 1.2827221,
+      "lng": 103.8184563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284145780291502,
+        "lng": 103.8198267302915
+      },
+      "southwest": {
+        "lat": 1.281447819708498,
+        "lng": 103.8171287697085
+      }
+    }
+  },
+  "name": "SchoolBuzz",
+  "place_id": "ChIJAQDA-dYb2jERZg4x9pM6-70",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13689599899487768166",
+  "vicinity": "Jalan Bukit Merah, Blk 167, Singapore"
+}

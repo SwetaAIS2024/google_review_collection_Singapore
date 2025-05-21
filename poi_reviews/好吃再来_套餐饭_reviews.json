@@ -1,0 +1,68 @@
+{
+  "formatted_address": "31 Tampines Street 92, Singapore 520031",
+  "geometry": {
+    "location": {
+      "lat": 1.3395257,
+      "lng": 103.9434629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341137180291502,
+        "lng": 103.9445914802915
+      },
+      "southwest": {
+        "lat": 1.338439219708498,
+        "lng": 103.9418935197085
+      }
+    }
+  },
+  "name": "好吃再来 (套餐饭)",
+  "place_id": "ChIJl_tTdSo92jERzPGcKd7t-MU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Zhanrong Liang",
+      "author_url": "https://www.google.com/maps/contrib/102399910804636306936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkmMzcvReA4Hn4NTZ45wLLSVXswH3e3tNmqEE_ViDFs2eeiw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Food: Ordered the salted egg chicken rice\nService: Friendly staff\nAtmosphere: The shop is located in a coffeeshop. Abit humid and warm",
+      "time": 1689569176,
+      "translated": false
+    },
+    {
+      "author_name": "vance kok",
+      "author_url": "https://www.google.com/maps/contrib/100905400219945049938/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxNDljvevS6n5LDnMfHPfXR7_q3KekKJ_l5sHHdRifupLEaQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Nice food",
+      "time": 1730181872,
+      "translated": false
+    },
+    {
+      "author_name": "Wen Zhang Teh",
+      "author_url": "https://www.google.com/maps/contrib/106557709415314364260/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd5CvK7NdamtGZ755bRHPUxfJO81350_CXWK4Qg4z0QF4K8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732668925,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14265413358132720076",
+  "user_ratings_total": 3,
+  "vicinity": "31 Tampines Street 92"
+}

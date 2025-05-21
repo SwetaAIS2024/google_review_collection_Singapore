@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Jln Jelutong, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4012176,
+      "lng": 103.9660458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402732230291502,
+        "lng": 103.9673753802915
+      },
+      "southwest": {
+        "lat": 1.400034269708498,
+        "lng": 103.9646774197085
+      }
+    }
+  },
+  "name": "Merbok Hut",
+  "place_id": "ChIJy0ZBq7Y_2jER0djkTRxP72c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aim Yasin",
+      "author_url": "https://www.google.com/maps/contrib/113583421441855102341/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpGEezANJhY685wrW-gcuOj09WSu8vnNXLoNexJh7ESxu5AeE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Rural area with great food by an incredible chef #rangereats! Only available on Wednesday evening. Subjected to schedule!",
+      "time": 1721976649,
+      "translated": false
+    },
+    {
+      "author_name": "Aziz Shafii",
+      "author_url": "https://www.google.com/maps/contrib/110140051718131297676/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtFf_pdTL5hS12IWWP6pFhwK03LAAKTjqiDNAxu3Ni5OaitQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Had beef gyudon made by the chef. It was fantastic while watching the sunset",
+      "time": 1721976023,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7489291688324946129",
+  "user_ratings_total": 2,
+  "vicinity": "Jalan Jelutong"
+}

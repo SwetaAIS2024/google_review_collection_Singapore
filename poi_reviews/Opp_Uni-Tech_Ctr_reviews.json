@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335669,
+      "lng": 103.757233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337047730291502,
+        "lng": 103.7586041802915
+      },
+      "southwest": {
+        "lat": 1.334349769708498,
+        "lng": 103.7559062197085
+      }
+    }
+  },
+  "name": "Opp Uni-Tech Ctr",
+  "place_id": "ChIJqa5hGnIQ2jERhtbvWqk-Cjs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "CZC",
+      "author_url": "https://www.google.com/maps/contrib/114228349954221708385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgeV0ZnaS3lAx8MBBHwgu8vpsbwpFvUKvCY7hVRmxlNLW9g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Convenient bus stop opposite Uni-Tech Centre.",
+      "time": 1573348214,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4254281695100917382",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "123 Penang Rd, #03-13, Singapore 238465",
+  "geometry": {
+    "location": {
+      "lat": 1.2994903,
+      "lng": 103.84201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300947180291502,
+        "lng": 103.8432928802915
+      },
+      "southwest": {
+        "lat": 1.298249219708498,
+        "lng": 103.8405949197085
+      }
+    }
+  },
+  "name": "Think Psychological Services",
+  "place_id": "ChIJU9s_B-sZ2jERb464FBhA0c8",
+  "types": [
+    "school",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14974820708154642031",
+  "vicinity": "123 Penang Road, #03-13, Singapore"
+}

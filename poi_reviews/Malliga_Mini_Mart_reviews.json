@@ -1,0 +1,44 @@
+{
+  "formatted_address": "703 Jurong West Street 71, Block 703, Singapore 640703",
+  "geometry": {
+    "location": {
+      "lat": 1.3417341,
+      "lng": 103.6956723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343054030291502,
+        "lng": 103.6970052302915
+      },
+      "southwest": {
+        "lat": 1.340356069708498,
+        "lng": 103.6943072697085
+      }
+    }
+  },
+  "name": "Malliga Mini Mart",
+  "place_id": "ChIJ-yAkSpcP2jERKdZ0ppQb5MY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "malaichamy Ganeshkumar",
+      "author_url": "https://www.google.com/maps/contrib/112102782201529126333/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2IEKzTGtkfar00-EszzAnq9QLz3sw88Vt3tjfQU6gsTvYdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1649155473,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14331610239461545513",
+  "user_ratings_total": 1,
+  "vicinity": "703 Jurong West Street 71, Block 703, Singapore"
+}

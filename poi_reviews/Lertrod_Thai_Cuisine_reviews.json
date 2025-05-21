@@ -1,0 +1,45 @@
+{
+  "formatted_address": "5058 Ang Mo Kio Ind Park 2, Singapore 569561",
+  "geometry": {
+    "location": {
+      "lat": 1.3751104,
+      "lng": 103.8601229
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376495530291502,
+        "lng": 103.8614603802915
+      },
+      "southwest": {
+        "lat": 1.373797569708498,
+        "lng": 103.8587624197085
+      }
+    }
+  },
+  "name": "Lertrod Thai Cuisine",
+  "place_id": "ChIJGUxDN6MX2jERHliuDa_NLoI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sherry",
+      "author_url": "https://www.google.com/maps/contrib/103481801789720715329/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8AKGK9OFk4BTplkOLHNpS8PCEzPcrB5eYxBg197d07LW1Rfg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I love their seafood and their fried rice is very delicious. I eat it every time I come to Singapore. Keep it up.",
+      "time": 1743929615,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9380661225591822366",
+  "user_ratings_total": 1,
+  "vicinity": "5058 Ang Mo Kio Ind Park 2"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "25 Woodgrove Walk, Singapore 738168",
+  "geometry": {
+    "location": {
+      "lat": 1.4272305,
+      "lng": 103.7765768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428649330291502,
+        "lng": 103.7779256302915
+      },
+      "southwest": {
+        "lat": 1.425951369708498,
+        "lng": 103.7752276697085
+      }
+    }
+  },
+  "name": "Century Woods",
+  "place_id": "ChIJT9ZRJrMT2jERVVh3mFZxh6E",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Zulk Man",
+      "author_url": "https://www.google.com/maps/contrib/110687075392774108537/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJAhHmEcGFZWiWP7Lw_QcAj8EG0VN4bvWBT36GSXp7V_bbQw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561896862,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11639396378701420629",
+  "user_ratings_total": 1,
+  "vicinity": "25 Woodgrove Walk"
+}

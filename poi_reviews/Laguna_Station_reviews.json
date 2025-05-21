@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3230054,
+      "lng": 103.9622236
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324365880291502,
+        "lng": 103.9634888802915
+      },
+      "southwest": {
+        "lat": 1.321667919708498,
+        "lng": 103.9607909197085
+      }
+    }
+  },
+  "name": "Laguna Station",
+  "place_id": "ChIJyZ17iJAj2jERryYy5wi0ekM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4862396698031433391",
+  "vicinity": ""
+}

@@ -1,0 +1,77 @@
+{
+  "formatted_address": "Plaza Singapura, 68 Orchard Rd, #B2-K3, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3005206,
+      "lng": 103.8449719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301896780291502,
+        "lng": 103.8465010802915
+      },
+      "southwest": {
+        "lat": 1.299198819708498,
+        "lng": 103.8438031197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Plaza Singapura",
+  "place_id": "ChIJkyXVgb0Z2jERXMFzm_de3AY",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Wenchou Han",
+      "author_url": "https://www.google.com/maps/contrib/117617982550104725139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjK2xqLAE8bA7EUTSeX_AoTRv5sxIixgko1aaqiiXTMKv5Fg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Still requires u to snail mail forms",
+      "time": 1707820909,
+      "translated": false
+    },
+    {
+      "author_name": "Nirmala Damith Jayawardena",
+      "author_url": "https://www.google.com/maps/contrib/118144818109147977690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPhwJcsAyrMq0r09-cIZEwmCzJgAmN64fbDXPi9vjTkWCrVpS-=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Located close to the MRT entrance at level B2.",
+      "time": 1517022263,
+      "translated": false
+    },
+    {
+      "author_name": "Febryan Adhitya",
+      "author_url": "https://www.google.com/maps/contrib/111318491424283408146/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUFsr0eQQeTHZE4kVUu4meJ-UPcSBC0dc_9MTTRYPWOrVJhtMa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683050909,
+      "translated": false
+    },
+    {
+      "author_name": "Anna K.",
+      "author_url": "https://www.google.com/maps/contrib/101341796059700577761/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfgEjDyvkKS1b3_q_HMxLZKtNpuEv3PGWKr0eA8yoY_k5-NfcC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559975971,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=494374476661899612",
+  "user_ratings_total": 4,
+  "vicinity": "Plaza Singapura, 68 Orchard Road, #B2-K3"
+}

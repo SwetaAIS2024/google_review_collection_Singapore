@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Central Area, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2975249,
+      "lng": 103.8478476
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299055230291502,
+        "lng": 103.8493584802915
+      },
+      "southwest": {
+        "lat": 1.296357269708498,
+        "lng": 103.8466605197085
+      }
+    }
+  },
+  "name": "Religion house",
+  "place_id": "ChIJRdKICQAZ2jERAlOrMR1Nz0E",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4742093720427123458",
+  "vicinity": ""
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Tampines Walk, Singapore 528523",
+  "geometry": {
+    "location": {
+      "lat": 1.3531279,
+      "lng": 103.9398819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354680230291502,
+        "lng": 103.9408694302915
+      },
+      "southwest": {
+        "lat": 1.351982269708498,
+        "lng": 103.9381714697085
+      }
+    }
+  },
+  "name": "Our Therapeutic Garden@ Tampines Walk",
+  "place_id": "ChIJiSE3vss92jER2Ws9rVx6UAA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "RP",
+      "author_url": "https://www.google.com/maps/contrib/113324405986300663310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXi3P97A2LtKPfgKA7jSAYmqPRygyCxw0BWSFTf7mC0RxfRlD45w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Outdoor therapeutic garden displaying local herbs.",
+      "time": 1668936095,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=22652536598916057",
+  "user_ratings_total": 1,
+  "vicinity": "1 Tampines Walk, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "128 Joo Seng Rd, Singapore 368356",
+  "geometry": {
+    "location": {
+      "lat": 1.3371169,
+      "lng": 103.8826371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338422380291502,
+        "lng": 103.8839525802915
+      },
+      "southwest": {
+        "lat": 1.335724419708498,
+        "lng": 103.8812546197085
+      }
+    }
+  },
+  "name": "Ito-Sin Trading Pte Ltd",
+  "place_id": "ChIJC_-Rs5EX2jERyooH4d-c29E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Francis Teo",
+      "author_url": "https://www.google.com/maps/contrib/113217485232007893208/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2zAkUUxYrdixy5OGXDQtsq567PO8yHhzZpxZt_wNwwvL1Og=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564452440,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15121852659193580234",
+  "user_ratings_total": 1,
+  "vicinity": "128 Joo Seng Road, Singapore"
+}

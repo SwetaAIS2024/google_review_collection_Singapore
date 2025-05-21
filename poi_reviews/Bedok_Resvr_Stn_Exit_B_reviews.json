@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337025,
+      "lng": 103.933334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338295080291502,
+        "lng": 103.9346528802915
+      },
+      "southwest": {
+        "lat": 1.335597119708498,
+        "lng": 103.9319549197085
+      }
+    }
+  },
+  "name": "Bedok Resvr Stn Exit B",
+  "place_id": "ChIJF2CLQkY92jER989QqNhh62M",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Samtawen Tawen",
+      "author_url": "https://www.google.com/maps/contrib/115775535388428108601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgv_xGvII_ZdAK02Z0Qlw2RyXztj-6SFSMA1cahRSyr08QqNE=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "12 years ago",
+      "text": "At my work place very hot the weather even my room have aircon still hot",
+      "time": 1347945342,
+      "translated": false
+    },
+    {
+      "author_name": "Terrence Chia",
+      "author_url": "https://www.google.com/maps/contrib/109236671326433045524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2NT33IFFXDAxAhr2mKfK_h2x2HYdsiQDZ3pUrSNIzTCZCnQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "There is a park nearby and it is extremely well maintained",
+      "time": 1579435191,
+      "translated": false
+    },
+    {
+      "author_name": "Lia Wati",
+      "author_url": "https://www.google.com/maps/contrib/113813628612013522354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5EmI2zKMyJqz5BpSioVwP-JGXIv8F9Dspksplyo6PAUPTVoHl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483788686,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7199956012446568439",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

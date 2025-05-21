@@ -1,0 +1,51 @@
+{
+  "formatted_address": "120 Lower Delta Rd, Singapore 169208",
+  "geometry": {
+    "location": {
+      "lat": 1.2802849,
+      "lng": 103.822894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281717180291502,
+        "lng": 103.8242417302915
+      },
+      "southwest": {
+        "lat": 1.279019219708498,
+        "lng": 103.8215437697085
+      }
+    }
+  },
+  "name": "Asia Georesearch Agency Corporation Pte Ltd",
+  "place_id": "ChIJNRNQrWIZ2jERkFqVpV8SBec",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nikhil Gautam",
+      "author_url": "https://www.google.com/maps/contrib/111707097564432128474/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCXp2IS3sKvsuj-uWU4O6nUiCOqopwx0Z95RNlhekEZvFm58BubQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655636136,
+      "translated": false
+    },
+    {
+      "author_name": "Kohsei Nakamura",
+      "author_url": "https://www.google.com/maps/contrib/108092747695495650579/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhUTNWcbFNDjl1JnFu9rygjQ3V4TKgHAcVXxUmhud3dp0JAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1425516567,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16646731799654128272",
+  "user_ratings_total": 2,
+  "vicinity": "120 Lower Delta Road, Singapore"
+}

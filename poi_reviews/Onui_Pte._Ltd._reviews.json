@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2830562,
+      "lng": 103.7807279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284410230291502,
+        "lng": 103.7821645802915
+      },
+      "southwest": {
+        "lat": 1.281712269708498,
+        "lng": 103.7794666197085
+      }
+    }
+  },
+  "name": "Onui Pte. Ltd.",
+  "place_id": "ChIJ8Yy0Makb2jERzNrED7wcrjo",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4228348694191463116",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "6 Science Drive 2, S16 Faculty of Science, Singapore 117546",
+  "geometry": {
+    "location": {
+      "lat": 1.2968007,
+      "lng": 103.7803846
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298083880291502,
+        "lng": 103.7815998802915
+      },
+      "southwest": {
+        "lat": 1.295385919708498,
+        "lng": 103.7789019197085
+      }
+    }
+  },
+  "name": "LT31",
+  "place_id": "ChIJ0xoOL1ca2jERs3Li2JZozaY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nakarin 315",
+      "author_url": "https://www.google.com/maps/contrib/105425633324289514814/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ7jdpv0FTbDvg9TDoYooVcVyvML-FrvGAFuAQJy5bvguft0Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Lecture theatre.",
+      "time": 1641951613,
+      "translated": false
+    },
+    {
+      "author_name": "Chong How",
+      "author_url": "https://www.google.com/maps/contrib/116852952092019913610/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU30d-aia2XQtae66-H_qyPhdtOH9jkRaY8xLWurjWy6FjrFFLA2g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745312546,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12019377977614824115",
+  "user_ratings_total": 2,
+  "vicinity": "6 Science Drive 2, S16 Faculty of Science, Singapore"
+}

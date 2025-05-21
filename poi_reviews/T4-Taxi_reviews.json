@@ -1,0 +1,27 @@
+{
+  "formatted_address": "60 Airport Blvd., Singapore 819643",
+  "geometry": {
+    "location": {
+      "lat": 1.3377921,
+      "lng": 103.9825652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339146980291502,
+        "lng": 103.9839012302915
+      },
+      "southwest": {
+        "lat": 1.336449019708498,
+        "lng": 103.9812032697085
+      }
+    }
+  },
+  "name": "T4-Taxi",
+  "place_id": "ChIJJSezDMc82jERnp3nj5wtluw",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17047863589910060446",
+  "vicinity": "60 Airport Boulevard"
+}

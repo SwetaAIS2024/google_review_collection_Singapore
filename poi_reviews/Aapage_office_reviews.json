@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Kallang Avenue CT Hub @ Kallang, Singapura 339407",
+  "geometry": {
+    "location": {
+      "lat": 1.312021,
+      "lng": 103.8628386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313375230291502,
+        "lng": 103.8643055302915
+      },
+      "southwest": {
+        "lat": 1.310677269708498,
+        "lng": 103.8616075697085
+      }
+    }
+  },
+  "name": "Aapage office",
+  "place_id": "ChIJ-1K48DEX2jERCjzlnzYN-I4",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10301998675872005130",
+  "vicinity": "2 Kallang Avenue CT Hub @ Kallang, Singapura"
+}

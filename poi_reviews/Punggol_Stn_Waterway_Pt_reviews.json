@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.405026,
+      "lng": 103.903
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406337330291502,
+        "lng": 103.9043289802915
+      },
+      "southwest": {
+        "lat": 1.403639369708498,
+        "lng": 103.9016310197085
+      }
+    }
+  },
+  "name": "Punggol Stn/Waterway Pt",
+  "place_id": "ChIJVUWBs_wV2jERzN-QTgKUFfw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Babu Hillary",
+      "author_url": "https://www.google.com/maps/contrib/100284629450314073180/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQuqM3tBkZTpJHzTcjV9COFNwijjOc1zqWXzMTUz5MEYaz_6xmdw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "An express service introduced from 09 September 2019 from Punggol to Parkway Parade.",
+      "time": 1570319676,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18164587409697726412",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

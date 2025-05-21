@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Bedok Reservoir View, Singapore 478927",
+  "geometry": {
+    "location": {
+      "lat": 1.3376826,
+      "lng": 103.9352551
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338998230291502,
+        "lng": 103.9365582302915
+      },
+      "southwest": {
+        "lat": 1.336300269708498,
+        "lng": 103.9338602697085
+      }
+    }
+  },
+  "name": "Home Campus",
+  "place_id": "ChIJq6qqYg4Z2jER9n51LxolmSU",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2709237445235670774",
+  "vicinity": "3 Bedok Reservoir View"
+}

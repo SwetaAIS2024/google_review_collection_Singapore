@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Laguna Golf Green, Singapore 488047",
+  "geometry": {
+    "location": {
+      "lat": 1.32388,
+      "lng": 103.96316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325297780291502,
+        "lng": 103.9644356802915
+      },
+      "southwest": {
+        "lat": 1.322599819708498,
+        "lng": 103.9617377197085
+      }
+    }
+  },
+  "name": "DBS ATM Country Club",
+  "place_id": "ChIJSzFLeHEj2jERst3iyQqUcXw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8967111107129040306",
+  "vicinity": "11 Laguna Golf Green"
+}

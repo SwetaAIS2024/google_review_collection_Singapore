@@ -1,0 +1,66 @@
+{
+  "formatted_address": "1 Beach Rd, Singapore 189673",
+  "geometry": {
+    "location": {
+      "lat": 1.29551,
+      "lng": 103.8544163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297009380291502,
+        "lng": 103.8558289802915
+      },
+      "southwest": {
+        "lat": 1.294311419708498,
+        "lng": 103.8531310197085
+      }
+    }
+  },
+  "name": "The Lawn (Raffles Hotel)",
+  "place_id": "ChIJnTwIpg8Z2jERvFT39fujlzA",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Nikki Ming",
+      "author_url": "https://www.google.com/maps/contrib/111043624848926191849/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_vE_xXO5GpUUUGI5qWBf1l_JFEEYjo2p6l5LMlAnoBA_phmaj6Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "A lovely event space",
+      "time": 1679331293,
+      "translated": false
+    },
+    {
+      "author_name": "Antoine Ewald",
+      "author_url": "https://www.google.com/maps/contrib/116623300068107589949/reviews",
+      "language": "en-US",
+      "original_language": "fr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWogxcnvnztBmxjy5csv4VR6t0qzPPH2xN9PhKpxJ3O5rxLcoXBww=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Walk between shops and squares of greenery accessible even to non-residents of the hotel",
+      "time": 1718098757,
+      "translated": true
+    },
+    {
+      "author_name": "Nasrullah Jumali",
+      "author_url": "https://www.google.com/maps/contrib/103497600317803612720/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiHnx5NNwfRKhtLFRJfwwGoWQXQUVOgOcLBbTtWHIr9rIa7vagHg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731592958,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3501447537862595772",
+  "user_ratings_total": 3,
+  "vicinity": "1 Beach Road"
+}

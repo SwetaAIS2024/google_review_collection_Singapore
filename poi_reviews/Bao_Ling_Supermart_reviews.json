@@ -1,0 +1,44 @@
+{
+  "formatted_address": "54 Teban Gardens Rd, #01-549, Singapore 600054",
+  "geometry": {
+    "location": {
+      "lat": 1.3214028,
+      "lng": 103.7368927
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322736330291502,
+        "lng": 103.7383143802915
+      },
+      "southwest": {
+        "lat": 1.320038369708498,
+        "lng": 103.7356164197085
+      }
+    }
+  },
+  "name": "Bao Ling Supermart",
+  "place_id": "ChIJ-eKWF68a2jER8CtL-aKNvYA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "f T",
+      "author_url": "https://www.google.com/maps/contrib/106180603413005070287/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwqaeUxlIcyNE7zlHdnvtbNS6n5fKJ8WmBCdgdbxz-uXFAOQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645343092,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9276726538559761392",
+  "user_ratings_total": 1,
+  "vicinity": "54 Teban Gardens Road, #01-549, Singapore"
+}

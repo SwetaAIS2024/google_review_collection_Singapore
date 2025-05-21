@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3472877,
+      "lng": 103.8412265
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348614380291502,
+        "lng": 103.8425638802915
+      },
+      "southwest": {
+        "lat": 1.345916419708498,
+        "lng": 103.8398659197085
+      }
+    }
+  },
+  "name": "Bosch",
+  "place_id": "ChIJg8nbBD8X2jERsV1k_68hke0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Arul Nambi Ramanujam",
+      "author_url": "https://www.google.com/maps/contrib/101782418822644530234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVBkrsjDKuvQKM6LWw8fVs4ZFA7higmYNPxt8DmjvCJAcuSWPzSg=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Good to see this place has transformed a lot and for good compared to 2008!\nAlso its very nice to see the bus stop in the name of Bosch! (not sure that its the regular practice in Sg!)\n\nwish to see the bus stop branded with Bosch CI / products for the public!",
+      "time": 1733539785,
+      "translated": false
+    },
+    {
+      "author_name": "Jonas",
+      "author_url": "https://www.google.com/maps/contrib/113233824326862473324/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhs34PkiE9xHdF0SRH_idIwlaZdA8FN7yAl8wmSJCHtfrplSMO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522171273,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17118500698399727025",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

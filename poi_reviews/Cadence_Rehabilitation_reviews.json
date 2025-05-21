@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Orchard Blvd, Singapore 248649",
+  "geometry": {
+    "location": {
+      "lat": 1.3031958,
+      "lng": 103.8238266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304384130291502,
+        "lng": 103.8250490802915
+      },
+      "southwest": {
+        "lat": 1.301686169708498,
+        "lng": 103.8223511197085
+      }
+    }
+  },
+  "name": "Cadence Rehabilitation",
+  "place_id": "ChIJByBqiIkZ2jERYWVNUtmcra0",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12514831396735116641",
+  "vicinity": "1 Orchard Boulevard"
+}

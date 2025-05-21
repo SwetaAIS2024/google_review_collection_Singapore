@@ -1,0 +1,55 @@
+{
+  "formatted_address": "53 Sims Pl, #01-150, Singapore 380053",
+  "geometry": {
+    "location": {
+      "lat": 1.3175011,
+      "lng": 103.8801758
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318829680291502,
+        "lng": 103.8814406302915
+      },
+      "southwest": {
+        "lat": 1.316131719708498,
+        "lng": 103.8787426697085
+      }
+    }
+  },
+  "name": "JAS Grillhaus",
+  "place_id": "ChIJQyHcCQAZ2jERu8L6hvIEjKc",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Spencer Yeong Kong Meng",
+      "author_url": "https://www.google.com/maps/contrib/110119841983636880501/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuNyD2yXVPLt5s7MWIyo8h8BargHA5DxEvge7omBOHX2YYiJY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "in the last week",
+      "text": "Just another western food stall in a coffeeshop.  It's a disappointment when you order for Chicken Chop Aglio Olio, and receive your Dish with chilli & chilli oil in your noodles ...",
+      "time": 1747645824,
+      "translated": false
+    },
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741728329,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12073030140766634683",
+  "user_ratings_total": 2,
+  "vicinity": "53 Sims Place, #01-150, Singapore"
+}

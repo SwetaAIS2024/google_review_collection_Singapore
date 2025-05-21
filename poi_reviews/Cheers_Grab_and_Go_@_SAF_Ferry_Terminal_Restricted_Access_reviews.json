@@ -1,0 +1,30 @@
+{
+  "formatted_address": "SAF Ferry Terminal, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3875662,
+      "lng": 103.9999197
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.388930080291502,
+        "lng": 104.0011809802915
+      },
+      "southwest": {
+        "lat": 1.386232119708498,
+        "lng": 103.9984830197085
+      }
+    }
+  },
+  "name": "Cheers Grab & Go @ SAF Ferry Terminal (Restricted Access)",
+  "place_id": "ChIJDy7aFwA92jER1-idX0R-ot4",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16042523654774188247",
+  "vicinity": "SAF Ferry Terminal"
+}

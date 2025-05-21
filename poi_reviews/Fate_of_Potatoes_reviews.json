@@ -1,0 +1,58 @@
+{
+  "formatted_address": "920 Yishun Ave 2 #01-18 Yishun Integrated Transport Hub, Berth 8, Singapore 769100",
+  "geometry": {
+    "location": {
+      "lat": 1.4266684,
+      "lng": 103.8360019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427899180291502,
+        "lng": 103.8371281302915
+      },
+      "southwest": {
+        "lat": 1.425201219708498,
+        "lng": 103.8344301697085
+      }
+    }
+  },
+  "name": "Fate of Potatoes",
+  "place_id": "ChIJJXauDD8V2jERv2Vf30Fg3yE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Muhammad Hafiz Ab Rahman",
+      "author_url": "https://www.google.com/maps/contrib/101758224127204188792/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-Bq47raR9qSf-CxKQqCn0rItCauRMCteNSz0fGxcLdmq0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Good quick bites at a fair price! Tried the Spicy beef pie and was not disappointed! Highly recommended! 100% muslim owned.",
+      "time": 1747287315,
+      "translated": false
+    },
+    {
+      "author_name": "nasibkentang",
+      "author_url": "https://www.google.com/maps/contrib/117892854716322810278/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs1gXm1dvrLsX-IpRyMAO-fjUwcfvVGexVLBfWRVm_Oi3z0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Awesome food!",
+      "time": 1747195496,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2440775359094810047",
+  "user_ratings_total": 2,
+  "vicinity": "920 Yishun Ave 2 #01-18 Yishun Integrated Transport Hub, Berth 8"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38002,
+      "lng": 103.77265
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381363380291502,
+        "lng": 103.7739268302915
+      },
+      "southwest": {
+        "lat": 1.378665419708498,
+        "lng": 103.7712288697085
+      }
+    }
+  },
+  "name": "Bangkit",
+  "place_id": "ChIJrzPm46AR2jERoVvJRW0PnRw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2061821166402231201",
+  "vicinity": "Singapore"
+}

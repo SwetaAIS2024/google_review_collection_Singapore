@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3005951,
+      "lng": 103.7782011
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301881680291502,
+        "lng": 103.7795409302915
+      },
+      "southwest": {
+        "lat": 1.299183719708498,
+        "lng": 103.7768429697085
+      }
+    }
+  },
+  "name": "Sit Dover",
+  "place_id": "ChIJcxy9slka2jERwuKTpn1uCb8",
+  "rating": 3.4,
+  "reviews": [
+    {
+      "author_name": "Ivan Lam",
+      "author_url": "https://www.google.com/maps/contrib/112403987693678430009/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtkEYVZPu4dhGqMGbabgRFCzZgaASCDsKUoEL_3DEqFmBNzw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Good range of buses going around Singapore.",
+      "time": 1512193284,
+      "translated": false
+    },
+    {
+      "author_name": "Skye Tan",
+      "author_url": "https://www.google.com/maps/contrib/108662179138653546780/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB85m9_oasJ5We18OxpxpPMbQ8AuoSuB8VHpehqHpLAraRM8ETRg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Holistic learning environment with dedicated teaching and administrative faculty.",
+      "time": 1532864902,
+      "translated": false
+    },
+    {
+      "author_name": "Koh",
+      "author_url": "https://www.google.com/maps/contrib/114737049648390192840/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZqzmPNhSq5JmafR23M_ZxuYAANxwdZKFDwqf9iyLAvhGGkxh5=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567402284,
+      "translated": false
+    },
+    {
+      "author_name": "Fui Kiat",
+      "author_url": "https://www.google.com/maps/contrib/117031958342780572952/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGo9aHDrgzVv1dSmdjzb7uejLD_p1bV_PsIh_08kiwS9ohduU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1540873669,
+      "translated": false
+    },
+    {
+      "author_name": "Mujammil Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/114116694972269180966/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyOxG3zLZ8y1lOyf-hJvLAmJjdgW_W07lp7YVeRXMMTp0LSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1538216664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13765655221979308738",
+  "user_ratings_total": 7,
+  "vicinity": "Singapore"
+}

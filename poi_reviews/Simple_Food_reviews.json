@@ -1,0 +1,29 @@
+{
+  "formatted_address": "537 Bedok North Street 3, Singapore 460537",
+  "geometry": {
+    "location": {
+      "lat": 1.3323809,
+      "lng": 103.923958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333799880291502,
+        "lng": 103.9252904802915
+      },
+      "southwest": {
+        "lat": 1.331101919708498,
+        "lng": 103.9225925197085
+      }
+    }
+  },
+  "name": "Simple Food",
+  "place_id": "ChIJe9mqvVE92jERPIY6OKSjrB0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2138263848807466556",
+  "vicinity": "537 Bedok North Street 3, Singapore"
+}

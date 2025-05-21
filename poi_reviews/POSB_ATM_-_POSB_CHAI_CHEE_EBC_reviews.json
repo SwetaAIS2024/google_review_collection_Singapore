@@ -1,0 +1,29 @@
+{
+  "formatted_address": "25A Chai Chee Rd, Singapore 461025",
+  "geometry": {
+    "location": {
+      "lat": 1.3232684,
+      "lng": 103.9240514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324479280291502,
+        "lng": 103.9253272302915
+      },
+      "southwest": {
+        "lat": 1.321781319708498,
+        "lng": 103.9226292697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB CHAI CHEE EBC",
+  "place_id": "ChIJRbQX96Ij2jERspC23WjoKSE",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2389696614390730930",
+  "vicinity": "25A Chai Chee Road"
+}

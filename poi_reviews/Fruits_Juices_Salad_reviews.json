@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Lower Kent Ridge Rd, Singapore 119078",
+  "geometry": {
+    "location": {
+      "lat": 1.298505,
+      "lng": 103.774633
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299962380291502,
+        "lng": 103.7761794302915
+      },
+      "southwest": {
+        "lat": 1.297264419708498,
+        "lng": 103.7734814697085
+      }
+    }
+  },
+  "name": "Fruits Juices Salad",
+  "place_id": "ChIJO_eXBPga2jERUxEaMifNg0w",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5513475937059606867",
+  "vicinity": "31 Lower Kent Ridge Road"
+}

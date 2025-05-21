@@ -1,0 +1,53 @@
+{
+  "formatted_address": "134 Changi Rd, Singapore 419720",
+  "geometry": {
+    "location": {
+      "lat": 1.3167516,
+      "lng": 103.9015933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318198580291502,
+        "lng": 103.9029245802915
+      },
+      "southwest": {
+        "lat": 1.315500619708498,
+        "lng": 103.9002266197085
+      }
+    }
+  },
+  "name": "Singapore Kim Kam Lian Ghee Sia",
+  "place_id": "ChIJ1WaJChAY2jERH70Mi0860m0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alex Tiong",
+      "author_url": "https://www.google.com/maps/contrib/116136675809409643911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsRurEuaPi2ekZaLvIg_S4XjeY80Wt-LASGt4bA1XAIKTAETSn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533996179,
+      "translated": false
+    },
+    {
+      "author_name": "Guan Huat",
+      "author_url": "https://www.google.com/maps/contrib/111616395641808844779/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWgBOfPfgdAc-4GfTUFqOoJlymmQVLFX5iuMN_jAx3k6Esjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483159896,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7913451608553078047",
+  "user_ratings_total": 2,
+  "vicinity": "134 Changi Road, Singapore"
+}

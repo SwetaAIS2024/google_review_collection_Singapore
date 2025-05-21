@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.379734,
+      "lng": 103.9159235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381030530291502,
+        "lng": 103.9173010802915
+      },
+      "southwest": {
+        "lat": 1.378332569708498,
+        "lng": 103.9146031197085
+      }
+    }
+  },
+  "name": "Aft Goldhill Memorial Ctr",
+  "place_id": "ChIJV4YlXYo92jERyaLitU2zvI8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10357350389390680777",
+  "vicinity": "Singapore"
+}

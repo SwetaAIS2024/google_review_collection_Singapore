@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 59 New Upper Changi Rd, #01-1250, Singapore 461059",
+  "geometry": {
+    "location": {
+      "lat": 1.324054,
+      "lng": 103.9406335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325293630291502,
+        "lng": 103.9419475302915
+      },
+      "southwest": {
+        "lat": 1.322595669708498,
+        "lng": 103.9392495697085
+      }
+    }
+  },
+  "name": "UOB ATM - New Upper Changi Road",
+  "place_id": "ChIJ-8xicNsj2jERJOLfg1RvdZM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10625521304630977060",
+  "vicinity": "Blk 59 New Upper Changi Road, #01-1250"
+}

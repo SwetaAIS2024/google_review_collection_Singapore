@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Chencharu Link, Singapore 769197",
+  "geometry": {
+    "location": {
+      "lat": 1.4153211,
+      "lng": 103.8243812
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416651180291502,
+        "lng": 103.8258248802915
+      },
+      "southwest": {
+        "lat": 1.413953219708498,
+        "lng": 103.8231269197085
+      }
+    }
+  },
+  "name": "Red Sea Aquarium Pte Ltd",
+  "place_id": "ChIJq6qqqokW2jERI1SoM3BaS68",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "H. O. T ACADEMICS",
+      "author_url": "https://www.google.com/maps/contrib/111580731413691948935/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRRJz24CNCQCtlZqZubAtbtGAmiIKY4OSBKD6uh05BmVBhLdXu=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1689892052,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pet_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12631289017840194595",
+  "user_ratings_total": 1,
+  "vicinity": "2 Chencharu Link"
+}

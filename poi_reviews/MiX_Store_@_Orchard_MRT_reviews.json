@@ -1,0 +1,70 @@
+{
+  "formatted_address": "437 Orchard Rd, #B1-06 Orchard MRT Station, Singapore 238878",
+  "geometry": {
+    "location": {
+      "lat": 1.3033135,
+      "lng": 103.8323012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304615780291502,
+        "lng": 103.8336204802915
+      },
+      "southwest": {
+        "lat": 1.301917819708498,
+        "lng": 103.8309225197085
+      }
+    }
+  },
+  "name": "MiX Store @ Orchard MRT",
+  "place_id": "ChIJbzkb1ikZ2jER7FfL5ELcXX0",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "keivin vin vin",
+      "author_url": "https://www.google.com/maps/contrib/113076753696689395957/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOEA4qXLHC3QhHXCicLuoJG99ec1LOODIBtDegpIbeCWD2OoU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Lots of selection here",
+      "time": 1729768789,
+      "translated": false
+    },
+    {
+      "author_name": "Ethan Chan Hay Mun (Nhps)",
+      "author_url": "https://www.google.com/maps/contrib/107474794656549474082/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMTBRwMr0qr3gTZupUrgfV23yir1R4a3DUzjAV07UVMsVSsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Sup",
+      "time": 1746269654,
+      "translated": false
+    },
+    {
+      "author_name": "X",
+      "author_url": "https://www.google.com/maps/contrib/102387065092071097300/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2z9cIUycB3LlZYznkSJqR1cfUxCEA2Juy-9-8piyD02T65ZE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "The staff was really considerate. When we paid, we didn’t know how to operate the self-service payment machine. The clerk taught us step by step carefully. The service was really great👍!",
+      "time": 1729055614,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9033618607439566828",
+  "user_ratings_total": 3,
+  "vicinity": "437 Orchard Road, #B1-06 Orchard MRT Station, Singapore"
+}

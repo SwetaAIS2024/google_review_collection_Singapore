@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339014,
+      "lng": 103.895065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340321430291502,
+        "lng": 103.8963878302915
+      },
+      "southwest": {
+        "lat": 1.337623469708498,
+        "lng": 103.8936898697085
+      }
+    }
+  },
+  "name": "Bef Airport Rd",
+  "place_id": "ChIJzSJPQuwX2jERHeRiKIbcW9c",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15518239409796473885",
+  "vicinity": "Singapore"
+}

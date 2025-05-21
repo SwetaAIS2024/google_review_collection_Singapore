@@ -1,0 +1,29 @@
+{
+  "formatted_address": "7 Straits View, Singapore 018936",
+  "geometry": {
+    "location": {
+      "lat": 1.278094,
+      "lng": 103.8527677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279511080291502,
+        "lng": 103.8543240802915
+      },
+      "southwest": {
+        "lat": 1.276813119708498,
+        "lng": 103.8516261197085
+      }
+    }
+  },
+  "name": "Daiwa Securities SMBC Singapore",
+  "place_id": "ChIJo-E5RxIZ2jERSwucI_d5Aww",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=865669655746579275",
+  "vicinity": "7 Straits View"
+}

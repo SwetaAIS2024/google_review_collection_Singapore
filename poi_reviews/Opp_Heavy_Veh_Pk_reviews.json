@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3934289,
+      "lng": 103.7542278
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.394771530291502,
+        "lng": 103.7555254302915
+      },
+      "southwest": {
+        "lat": 1.392073569708498,
+        "lng": 103.7528274697085
+      }
+    }
+  },
+  "name": "Opp Heavy Veh Pk",
+  "place_id": "ChIJJUyXZI0R2jERz8SawaN09gw",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Chua Ban Cheng",
+      "author_url": "https://www.google.com/maps/contrib/113236462638559657533/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo2SiNM9SLTm-GuvYofsrtMA5w03MKpXZg4AVrCSf9eSthJfA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Convenient for me to take a bus to mrt.",
+      "time": 1650760532,
+      "translated": false
+    },
+    {
+      "author_name": "HC Debate Wing",
+      "author_url": "https://www.google.com/maps/contrib/104318259369463879448/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHr0r1E5CO0kMGaveK7d0cQYkvyqS2s2OpvJI9Zl6RvE7dNQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "it's a cool bus stop",
+      "time": 1494071917,
+      "translated": false
+    },
+    {
+      "author_name": "Shakil Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/113827639199403171417/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw65tQiLHnb294CzwXYvYI3dhZ4vwQiCr3nxyHeoBDy5OynTs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678834429,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=934062219402593487",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

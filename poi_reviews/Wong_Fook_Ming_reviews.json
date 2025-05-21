@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Lok Yang Way, Singapore 628623",
+  "geometry": {
+    "location": {
+      "lat": 1.323622,
+      "lng": 103.6949039
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325462380291502,
+        "lng": 103.6962466302915
+      },
+      "southwest": {
+        "lat": 1.322764419708498,
+        "lng": 103.6935486697085
+      }
+    }
+  },
+  "name": "Wong Fook Ming",
+  "place_id": "ChIJ-d0cRmMF2jER6aaSr0yp1Aw",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=924549970346026729",
+  "vicinity": "1 Lok Yang Way"
+}

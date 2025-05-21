@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.315444,
+      "lng": 103.635239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316812730291502,
+        "lng": 103.6365574302915
+      },
+      "southwest": {
+        "lat": 1.314114769708498,
+        "lng": 103.6338594697085
+      }
+    }
+  },
+  "name": "Opp West Star",
+  "place_id": "ChIJoUtazwkG2jER_M5P_jy80Rs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2004590279307284220",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "3 Mount Elizabeth, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3050549,
+      "lng": 103.8354392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306022030291502,
+        "lng": 103.8368645802915
+      },
+      "southwest": {
+        "lat": 1.303324069708498,
+        "lng": 103.8341666197085
+      }
+    }
+  },
+  "name": "Chee K C Surgery",
+  "place_id": "ChIJuaCiV5IZ2jERneCwKEBa_N4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "faisal malau",
+      "author_url": "https://www.google.com/maps/contrib/107022279273886797086/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfEGDxAR-0w19-oKV0fDv99npqVVHg0gF_N8CiK2Ou2hT7ug=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1539247194,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16067816802158174365",
+  "user_ratings_total": 1,
+  "vicinity": "3 Mount Elizabeth"
+}

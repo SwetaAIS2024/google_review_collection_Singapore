@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Blk 713 Clementi West Street 2, #01-115, Singapore 120713",
+  "geometry": {
+    "location": {
+      "lat": 1.3040621,
+      "lng": 103.762272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305459680291502,
+        "lng": 103.7635140802915
+      },
+      "southwest": {
+        "lat": 1.302761719708498,
+        "lng": 103.7608161197085
+      }
+    }
+  },
+  "name": "Yicheng Noodles",
+  "place_id": "ChIJeaMUXwAb2jERumwt98hJIs8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Wilson Foo",
+      "author_url": "https://www.google.com/maps/contrib/114263857328212431619/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIh7G1X_JZDJZgIL6xxNoM8CIfjOdDDN6tMUxtTdpzGnximA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Not sure why this new stall at Clementi West Street 2 is called Yicheng Noodles because it’s a cai png stall.\n\nVariety is limited but portion is large. Steamed egg, sesame oil chicken and tofu  with rice cost $4.00. Not exactly cheap. Taste wise, chicken had a strong unwashed smell and very little sesame oil taste. Tofu and steamed egg were acceptable.",
+      "time": 1723888127,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14925573242548481210",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 713 Clementi West Street 2, #01-115, Singapore"
+}

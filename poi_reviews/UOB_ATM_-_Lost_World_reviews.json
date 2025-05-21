@@ -1,0 +1,45 @@
+{
+  "formatted_address": "30 Sentosa Gateway, Resort World Sentosa, Singapore 098140",
+  "geometry": {
+    "location": {
+      "lat": 1.256752,
+      "lng": 103.820331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257689230291502,
+        "lng": 103.8222082302915
+      },
+      "southwest": {
+        "lat": 1.254991269708498,
+        "lng": 103.8195102697085
+      }
+    }
+  },
+  "name": "UOB ATM - Lost World",
+  "place_id": "ChIJp3jMm1UZ2jERnHLQ0VSIiUI",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Paul Choong",
+      "author_url": "https://www.google.com/maps/contrib/105246501180827362057/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDLbm6-7plPUErxQ9ilCiIx6IAin7SPskK079q_sgs4etxERwF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "9 years ago",
+      "text": "When I tried to utilize it, ATM was not functioning. I had to go to another ATM.",
+      "time": 1459242044,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4794513176191333020",
+  "user_ratings_total": 1,
+  "vicinity": "30 Sentosa Gateway, Resort World Sentosa, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2822191,
+      "lng": 103.8069589
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283585080291502,
+        "lng": 103.8083090302915
+      },
+      "southwest": {
+        "lat": 1.280887119708498,
+        "lng": 103.8056110697085
+      }
+    }
+  },
+  "name": "Opp Blk 114",
+  "place_id": "ChIJpTmUAc8b2jERv3i1m9u3UAg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=599180904278358207",
+  "vicinity": "Singapore"
+}

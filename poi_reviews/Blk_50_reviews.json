@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.300971,
+      "lng": 103.796852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302304980291502,
+        "lng": 103.7981725802915
+      },
+      "southwest": {
+        "lat": 1.299607019708498,
+        "lng": 103.7954746197085
+      }
+    }
+  },
+  "name": "Blk 50",
+  "place_id": "ChIJtx9doEca2jERlApU5DEdo-I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mrs. A Raghu",
+      "author_url": "https://www.google.com/maps/contrib/101270751528091214699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2YsGjeRaDyE5RKPQIvWBYcZWtk3TsifrmFqE7vO1v3Tz_oBHN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I was inlove at this place. Come, sit in this view and you will find peace.",
+      "time": 1614335556,
+      "translated": false
+    },
+    {
+      "author_name": "Alfred Sun",
+      "author_url": "https://www.google.com/maps/contrib/116392876256879075901/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKff6VQb6Av6Wp7UvU4fcpPtwcau32YzKfw5GSs7anYWNLLHA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Great amenities. Good place",
+      "time": 1551922830,
+      "translated": false
+    },
+    {
+      "author_name": "Kenghoe Song",
+      "author_url": "https://www.google.com/maps/contrib/111259748751403635511/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM_3EoGKR4aBsA24QVvYLOSLtKLPMQsAb1f9uSCh7YRPVJbwbo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "convenient",
+      "time": 1476172110,
+      "translated": true
+    },
+    {
+      "author_name": "宋景豪",
+      "author_url": "https://www.google.com/maps/contrib/106929466733935001889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnxnOe1OBKtt29EEUcYGjhcGwllcwjFguOIsnWolYBsjf-2cw-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509448913,
+      "translated": false
+    },
+    {
+      "author_name": "Kenghoe Song",
+      "author_url": "https://www.google.com/maps/contrib/112891103449135262991/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUneBoPblDvWPlf2Y2QG7tuGnyovQ4U_4TOfjnBmT_wwBimoA9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480738417,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16330928773896866452",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

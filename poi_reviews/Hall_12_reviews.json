@@ -1,0 +1,28 @@
+{
+  "formatted_address": "32 Nanyang Cres, Singapore 637658",
+  "geometry": {
+    "location": {
+      "lat": 1.3518373,
+      "lng": 103.6805568
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353529530291502,
+        "lng": 103.6821597802915
+      },
+      "southwest": {
+        "lat": 1.350831569708498,
+        "lng": 103.6794618197085
+      }
+    }
+  },
+  "name": "Hall 12",
+  "place_id": "ChIJdZ-lwQkP2jERowLZLoGFeNI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15166018535053394595",
+  "vicinity": "32 Nanyang Crescent, Singapore"
+}

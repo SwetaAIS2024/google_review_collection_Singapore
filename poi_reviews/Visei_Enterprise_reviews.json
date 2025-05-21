@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2839394,
+      "lng": 103.8428633
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285255730291502,
+        "lng": 103.8442472302915
+      },
+      "southwest": {
+        "lat": 1.282557769708498,
+        "lng": 103.8415492697085
+      }
+    }
+  },
+  "name": "Visei Enterprise",
+  "place_id": "ChIJD56nfHMZ2jERPBpsuiLn0UE",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4742826018940394044",
+  "vicinity": "1 Park Road, Singapore"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "151 Boon Lay Wy, MRT Station - Chinese Garden, Singapore 609959",
+  "geometry": {
+    "location": {
+      "lat": 1.3424511,
+      "lng": 103.7326513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343866280291502,
+        "lng": 103.7340497802915
+      },
+      "southwest": {
+        "lat": 1.341168319708498,
+        "lng": 103.7313518197085
+      }
+    }
+  },
+  "name": "UOB ATM - Boon Lay Way",
+  "place_id": "ChIJcbxYjR4Q2jER_GPAawiHlHE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Step",
+      "author_url": "https://www.google.com/maps/contrib/101714165073284659128/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu9S9w2p7vE3TN8U1aVeJTRcrPtB4cBKy4rPc5NXrYcGlFkCG-rQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665894740,
+      "translated": false
+    },
+    {
+      "author_name": "倪西渝",
+      "author_url": "https://www.google.com/maps/contrib/109871474098742317648/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeFY28BNER6BuyOtRnQ9EQ4dy6gqqibpgz9crcOEGkN19X6kM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560042119,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8184314893076292604",
+  "user_ratings_total": 2,
+  "vicinity": "151 Boon Lay Way, MRT Station - Chinese Garden"
+}

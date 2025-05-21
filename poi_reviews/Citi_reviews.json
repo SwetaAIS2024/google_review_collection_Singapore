@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3020846,
+      "lng": 103.904804
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303439030291502,
+        "lng": 103.9061499302915
+      },
+      "southwest": {
+        "lat": 1.300741069708498,
+        "lng": 103.9034519697085
+      }
+    }
+  },
+  "name": "Citi",
+  "place_id": "ChIJX3dFkHEY2jERAtY_VC7rWts",
+  "types": [
+    "atm",
+    "subpremise",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da18719045775f:0xdb5aeb2e543fd602",
+  "vicinity": "Singapore"
+}

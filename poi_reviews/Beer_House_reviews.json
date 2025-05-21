@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Tuas View Square, Singapore 637779",
+  "geometry": {
+    "location": {
+      "lat": 1.298923,
+      "lng": 103.6280134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300299380291502,
+        "lng": 103.6293033302915
+      },
+      "southwest": {
+        "lat": 1.297601419708498,
+        "lng": 103.6266053697085
+      }
+    }
+  },
+  "name": "Beer House",
+  "place_id": "ChIJMXWJZHoG2jERA9bEBjkyGSQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Viknesh",
+      "author_url": "https://www.google.com/maps/contrib/108965052323558682858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmh03qXYi4W1ibEpoL3oaSdd4c7thJ5EvIjmTc-07aBTMgbm232Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "Pls don't buy food this indian shop only waste of money no taste they are no understand cook",
+      "time": 1721485226,
+      "translated": false
+    },
+    {
+      "author_name": "Nandhakumar S",
+      "author_url": "https://www.google.com/maps/contrib/102945578689544421221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUutqNPi4IyIhxu8HwG73-WNfi1np8-3YbzKTl5vF1PqsrzUzC0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715852949,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2601165480291259907",
+  "user_ratings_total": 2,
+  "vicinity": "Tuas View Square"
+}

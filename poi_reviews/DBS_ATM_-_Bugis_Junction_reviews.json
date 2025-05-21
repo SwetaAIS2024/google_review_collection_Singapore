@@ -1,0 +1,79 @@
+{
+  "formatted_address": "230 Victoria St, Basement 1, Singapore 188024",
+  "geometry": {
+    "location": {
+      "lat": 1.2998265,
+      "lng": 103.856037
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301081730291502,
+        "lng": 103.8571201302915
+      },
+      "southwest": {
+        "lat": 1.298383769708498,
+        "lng": 103.8544221697085
+      }
+    }
+  },
+  "name": "DBS ATM - Bugis Junction",
+  "place_id": "ChIJ8ZhvgPEZ2jER6s1M5fZbTr8",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Amirza Mohamed Noor",
+      "author_url": "https://www.google.com/maps/contrib/115367566598270087287/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7zRb1hPrmhU6PzBoUJ9BlY_8lh7tzucnyKVOZCCorjnfwkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "No cheque deposit box",
+      "time": 1736760474,
+      "translated": false
+    },
+    {
+      "author_name": "C A",
+      "author_url": "https://www.google.com/maps/contrib/108231180602368353195/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxwEbawBgTYd15pIUSJJeuzaoRKlM00LEWow4k2Dv_hxnKNeg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "So many street items for sale!",
+      "time": 1536508748,
+      "translated": false
+    },
+    {
+      "author_name": "Shu OK",
+      "author_url": "https://www.google.com/maps/contrib/103347410224924407901/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkFVKM6o1gkmNgMACAJ5NXdQ7VCtN71h9JLCPdLTOGM7DfMQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "It was a normal ATM",
+      "time": 1692165564,
+      "translated": true
+    },
+    {
+      "author_name": "Lim See Kong",
+      "author_url": "https://www.google.com/maps/contrib/108800152115739609804/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrckZVbQk7EHqeFF6G85442vBNL0-DANwm7rmuIZP5mXwFqJMO=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1696240895,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13785056625394765290",
+  "user_ratings_total": 4,
+  "vicinity": "230 Victoria Street, Basement 1"
+}

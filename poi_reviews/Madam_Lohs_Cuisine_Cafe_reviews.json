@@ -1,0 +1,44 @@
+{
+  "formatted_address": "252 Jurong East St 24, Singapore 600252",
+  "geometry": {
+    "location": {
+      "lat": 1.3434387,
+      "lng": 103.7385081
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344711130291502,
+        "lng": 103.7399678302915
+      },
+      "southwest": {
+        "lat": 1.342013169708498,
+        "lng": 103.7372698697085
+      }
+    }
+  },
+  "name": "Madam Loh's Cuisine Cafe",
+  "place_id": "ChIJ47oUr6AZ2jERkzTE2M0aNW8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ethayathas Ariyathas",
+      "author_url": "https://www.google.com/maps/contrib/105055168230072703803/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJusyxY8wiBJDrk8txO8Aoyre5F0rrRk9Mwz8scsbitgYdxqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479979192,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8013340583383020691",
+  "user_ratings_total": 1,
+  "vicinity": "252 Jurong East Street 24"
+}

@@ -1,0 +1,65 @@
+{
+  "formatted_address": "20 Tampines Central 1, Singapore 529538",
+  "geometry": {
+    "location": {
+      "lat": 1.353311,
+      "lng": 103.9453163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354579930291502,
+        "lng": 103.9465106802915
+      },
+      "southwest": {
+        "lat": 1.351881969708498,
+        "lng": 103.9438127197085
+      }
+    }
+  },
+  "name": "State Bank Of India (SBI) ATM",
+  "place_id": "ChIJY743wxE92jERqC8m5VMsnRU",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "FIREPLACE Videos",
+      "author_url": "https://www.google.com/maps/contrib/103797985494382905122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs5ae9eexzywYDTq5tHSOb0pDWujdC6YPii1G3zXLfkmBb5JE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Nice",
+      "time": 1588937958,
+      "translated": false
+    },
+    {
+      "author_name": "Thotakura Suryanarayana",
+      "author_url": "https://www.google.com/maps/contrib/112656131376779517457/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnrCmzRq-cOw7DoVxA8jDwXNGcFyD2PqUMa5-pwptG3WRgfw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567917882,
+      "translated": false
+    },
+    {
+      "author_name": "gorky singh",
+      "author_url": "https://www.google.com/maps/contrib/101761011295035088758/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn_SOhKPvzif0tHj3PPd0bOxmEuBe__cooZD4iohbqm7H-zbf1CA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1519984973,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1557449784978452392",
+  "user_ratings_total": 3,
+  "vicinity": "20 Tampines Central 1"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "6 Bayfront Ave, Singapore 018974",
+  "geometry": {
+    "location": {
+      "lat": 1.2863771,
+      "lng": 103.8592491
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287758780291502,
+        "lng": 103.86152655
+      },
+      "southwest": {
+        "lat": 1.285060819708498,
+        "lng": 103.85848995
+      }
+    }
+  },
+  "name": "ArtScience Laboratory",
+  "place_id": "ChIJe_HXcgAZ2jERpDQOFrGDsog",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lyly Grace (Only His Grace)",
+      "author_url": "https://www.google.com/maps/contrib/105310425848954472436/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZLN__4U7xItXd8TMNU7Lra4WiXvje0y4p2syRGyle9T57NGI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Really cool...satisfying to enjoy the work of art",
+      "time": 1743683900,
+      "translated": true
+    },
+    {
+      "author_name": "Advokat Trisna hafidz",
+      "author_url": "https://www.google.com/maps/contrib/105365262878364630968/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeNkaVHTjWm-wRoRjNdUA1itmr6tLUubQCLfEiihjATgVb12Uj=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743603149,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9850080131615175844",
+  "user_ratings_total": 2,
+  "vicinity": "6 Bayfront Avenue, Singapore"
+}

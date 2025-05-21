@@ -1,0 +1,57 @@
+{
+  "formatted_address": "391, #B2, Road, Ngee Ann City, Orchard, Singapore 238874",
+  "geometry": {
+    "location": {
+      "lat": 1.3031259,
+      "lng": 103.834058
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304066080291502,
+        "lng": 103.8355871302915
+      },
+      "southwest": {
+        "lat": 1.301368119708498,
+        "lng": 103.8328891697085
+      }
+    }
+  },
+  "name": "UOB ATM",
+  "place_id": "ChIJy97tnY0Z2jER-bVA6YaViGE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "aacerick",
+      "author_url": "https://www.google.com/maps/contrib/116596839894661907781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZGrrg5bviEGjRkj2ftDx8J12aqQT8fPcQC9mqJsj7JkQKggpW=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Almost all the photo is showing wisma atria underpass except 1 photo showing ngee ann city outside so dont believe this because i working at ngee ann city that why i know this is fake info",
+      "time": 1696265999,
+      "translated": false
+    },
+    {
+      "author_name": "Daryl T",
+      "author_url": "https://www.google.com/maps/contrib/114900308871505526439/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPqHKErja2pJnrMMAjwzU58-y2H-yUQWipe4jqif82tQ5_UgXn=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "Gives out money efficiently",
+      "time": 1456369944,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7028031625183147513",
+  "user_ratings_total": 2,
+  "vicinity": "391, #B2, Road, Ngee Ann City, Orchard"
+}

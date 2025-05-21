@@ -1,0 +1,88 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3023656,
+      "lng": 103.8990678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303759830291502,
+        "lng": 103.9003961302915
+      },
+      "southwest": {
+        "lat": 1.301061869708498,
+        "lng": 103.8976981697085
+      }
+    }
+  },
+  "name": "One Amber",
+  "place_id": "ChIJayJNmm4Y2jERkr2UBcqa9nY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "HY Soon",
+      "author_url": "https://www.google.com/maps/contrib/106864176416773086808/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGEj-wMxR_3RcK6IWh1TQ0va26OItAcAiWsI2t9bXnxDtVPw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Received random disruption on my home network. Not sure if it’s my home network or service provider.",
+      "time": 1635399758,
+      "translated": false
+    },
+    {
+      "author_name": "Petri Riikonen",
+      "author_url": "https://www.google.com/maps/contrib/112343668890188997814/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHHcFpl7x3NmCUpmOCt2qk6m5ss6mgyBhZf32MTXZPgBeI_ZCI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Quite many buses stopping here that take you places",
+      "time": 1511699647,
+      "translated": false
+    },
+    {
+      "author_name": "Win Shen Tham",
+      "author_url": "https://www.google.com/maps/contrib/110287555339569170048/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLId70FLx0s9niCvk3SV0mBmjWCSiqV5TkAhE2YV4SpH0POHQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Bus 134 doesn’t stop here",
+      "time": 1534423279,
+      "translated": false
+    },
+    {
+      "author_name": "Yong Jun Lee",
+      "author_url": "https://www.google.com/maps/contrib/116503312079976791911/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_M9TpfXzIm-hSaAcdw3PE7eCIeqXOiXh1QSHGZULJFi_SgOGS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504135988,
+      "translated": false
+    },
+    {
+      "author_name": "JAMES MICHAEL ESTRADA",
+      "author_url": "https://www.google.com/maps/contrib/115939989362046423972/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0eMCVks3s0eegMnk1VgBtIA7o75rEx7hphH5fAn7nqxJFCdGmxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1432454710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8572209133214023058",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

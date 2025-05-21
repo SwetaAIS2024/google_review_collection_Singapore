@@ -1,0 +1,90 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2725027,
+      "lng": 103.8242043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273814530291502,
+        "lng": 103.8255162802915
+      },
+      "southwest": {
+        "lat": 1.271116569708498,
+        "lng": 103.8228183197085
+      }
+    }
+  },
+  "name": "Blk 105",
+  "place_id": "ChIJZ7K2VmAZ2jER0AAeT-dlK9k",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "willson csh",
+      "author_url": "https://www.google.com/maps/contrib/111463326922541295411/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG71IdKIfZ6ypg8OOOM-gRaNXmK62hyOQTkC1Rtb78xSCIE1yZ2g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "The bus timing keep showing 1 minute",
+      "time": 1651139678,
+      "translated": false
+    },
+    {
+      "author_name": "James",
+      "author_url": "https://www.google.com/maps/contrib/107897813694823215404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYlG-f4knYUIXi9nxV0bpA4hNqi8rnfkQS_k1MFtq4vvA4_dGj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "Missing Bus Service 65",
+      "time": 1516361383,
+      "translated": false
+    },
+    {
+      "author_name": "駱玉娟",
+      "author_url": "https://www.google.com/maps/contrib/108548625126035429065/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmuYpaRwIewCjJyGbNaOfEOrTXNYJrq0g63VWXLjEcHHXiJH3B9g=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "It's very close to VIVO CITY by bus from here!",
+      "time": 1524480104,
+      "translated": true
+    },
+    {
+      "author_name": "xueliang fu",
+      "author_url": "https://www.google.com/maps/contrib/112635470032368621875/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIII5-rURvBistaXel_86LtG1Xijk6vuTMl0WdmeAxYtaCqYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Not on time 123bus",
+      "time": 1597641634,
+      "translated": true
+    },
+    {
+      "author_name": "舞武诸神泰勇",
+      "author_url": "https://www.google.com/maps/contrib/108924707207431648483/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDy8hGx31umG9X0kOpnqx2W7UCkWe3eevszSuV-L9jQu67EkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512353670,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15648713374368137424",
+  "user_ratings_total": 8,
+  "vicinity": "Singapore"
+}

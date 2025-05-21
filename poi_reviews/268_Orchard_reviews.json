@@ -1,0 +1,42 @@
+{
+  "formatted_address": "268 Orchard Rd, Singapore 238856",
+  "geometry": {
+    "location": {
+      "lat": 1.302693,
+      "lng": 103.836805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304133280291502,
+        "lng": 103.8381384802915
+      },
+      "southwest": {
+        "lat": 1.301435319708498,
+        "lng": 103.8354405197085
+      }
+    }
+  },
+  "name": "268 Orchard",
+  "place_id": "ChIJWdrPepEZ2jERcUu9fNIVpcE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705956284,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13953583014257445745",
+  "user_ratings_total": 1,
+  "vicinity": "268 Orchard Road, Singapore"
+}

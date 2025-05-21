@@ -1,0 +1,72 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35611,
+      "lng": 103.959816
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357488880291502,
+        "lng": 103.9611964802915
+      },
+      "southwest": {
+        "lat": 1.354790919708498,
+        "lng": 103.9584985197085
+      }
+    }
+  },
+  "name": "Eden Condo",
+  "place_id": "ChIJ1R4ViQI92jEROtfJNS9ULIc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jagjeet Pradeep",
+      "author_url": "https://www.google.com/maps/contrib/114939271810939665248/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJdLb6LAHtfGPCugxYCIukkezg5J52rkGhBvYNcqRhg-8PKLnGXQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1655901416,
+      "translated": false
+    },
+    {
+      "author_name": "Dilip Jayaraman",
+      "author_url": "https://www.google.com/maps/contrib/107362061731178368168/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ22nWozC6_Toi612PSWTy7XRKih6S9bj3lpSn0_qJMZPHN-5HN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552221628,
+      "translated": false
+    },
+    {
+      "author_name": "Dilip Muralidaran",
+      "author_url": "https://www.google.com/maps/contrib/116597163897620566181/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9FVbAzaki5d1xQ13iHKA33QLP90Pj3RnU5wMLu3C5SLlWZqUkDg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520673544,
+      "translated": false
+    },
+    {
+      "author_name": "王楠",
+      "author_url": "https://www.google.com/maps/contrib/103066366100137842852/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrpVHa8cSsDXdw4paTOD5kNkoEW3TtILNiJ1fZ9GbGDbx8DuP0Jw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492685176,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9740252655838156602",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

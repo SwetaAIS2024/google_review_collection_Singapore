@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378208,
+      "lng": 103.892677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379556380291502,
+        "lng": 103.8940753802915
+      },
+      "southwest": {
+        "lat": 1.376858419708498,
+        "lng": 103.8913774197085
+      }
+    }
+  },
+  "name": "Bet Blks 544/546",
+  "place_id": "ChIJ65clNj8W2jERc07oEcxzy5w",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Noah Bouremana",
+      "author_url": "https://www.google.com/maps/contrib/113171278837419171616/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLfW18702kf9poJNIyEFjGqCiYY8lR67vzMfIfbYXo1IVFtmU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Although the busses come late and there is one bus it’s a good bus station if your too lazy to walk to Buangkok mrt take the bus there only one station away",
+      "time": 1715292962,
+      "translated": false
+    },
+    {
+      "author_name": "Paoh T",
+      "author_url": "https://www.google.com/maps/contrib/105891353757394313385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyqoHD5DapfRTOKKE4pIxniOqoi3x8K0K4ZVcv1PK482F8YmE=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Bus stop opposite 438 Hougang Avenue 8. There’s a futsal court, basketball and archery place along this same stretch.",
+      "time": 1603728655,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11298251410499980915",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

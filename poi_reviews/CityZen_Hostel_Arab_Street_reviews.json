@@ -1,0 +1,28 @@
+{
+  "formatted_address": "48 Arab St, Singapore 199745",
+  "geometry": {
+    "location": {
+      "lat": 1.300805,
+      "lng": 103.8596349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302256430291502,
+        "lng": 103.8609089802915
+      },
+      "southwest": {
+        "lat": 1.299558469708498,
+        "lng": 103.8582110197085
+      }
+    }
+  },
+  "name": "CityZen Hostel Arab Street",
+  "place_id": "ChIJQbLPALEZ2jERib1ShkmFo3I",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8260592692360297865",
+  "vicinity": "48 Arab Street, Singapore"
+}

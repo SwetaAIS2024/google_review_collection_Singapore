@@ -1,0 +1,68 @@
+{
+  "formatted_address": "181 Ang Mo Kio Ave 5, Block 181, Singapore 560181",
+  "geometry": {
+    "location": {
+      "lat": 1.3768573,
+      "lng": 103.8370688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378289280291502,
+        "lng": 103.8384221302915
+      },
+      "southwest": {
+        "lat": 1.375591319708498,
+        "lng": 103.8357241697085
+      }
+    }
+  },
+  "name": "Guo Guang Teochew Braised Duck Rice",
+  "place_id": "ChIJVTJwEAAX2jERDHDNyDPJWDo",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "LL DL",
+      "author_url": "https://www.google.com/maps/contrib/105275569128887696181/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-WIli9FGxv5gP6lvj4adBFP2NJXybF_U80zLNlddPegpIvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Came back open and saw the duck rice look like that and no sauce and few pieces of meat . Disappointed",
+      "time": 1744353014,
+      "translated": false
+    },
+    {
+      "author_name": "Terence",
+      "author_url": "https://www.google.com/maps/contrib/113729420083866288186/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3HB61_dpqkHFB8mDnMFr4N40FqE3DSUoGztAWJARUMGE4eTcdTw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very decent duck rice.",
+      "time": 1707026141,
+      "translated": false
+    },
+    {
+      "author_name": "Bear Gwee",
+      "author_url": "https://www.google.com/maps/contrib/106416093097034029039/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9G28HCvFUGlLfFfKO3lkhCXsRAaQ83OZc-41ZIje2lAMSXw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705053129,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4204331476399779852",
+  "user_ratings_total": 3,
+  "vicinity": "181 Ang Mo Kio Avenue 5, Block 181, Singapore"
+}

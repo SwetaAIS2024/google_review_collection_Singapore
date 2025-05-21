@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.323495,
+      "lng": 103.91272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324873830291502,
+        "lng": 103.9140877302915
+      },
+      "southwest": {
+        "lat": 1.322175869708498,
+        "lng": 103.9113897697085
+      }
+    }
+  },
+  "name": "Kg Kembangan CC",
+  "place_id": "ChIJ0-Xp8wAY2jERIjIySKYQv9A",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15041759586802610722",
+  "vicinity": "Singapore"
+}

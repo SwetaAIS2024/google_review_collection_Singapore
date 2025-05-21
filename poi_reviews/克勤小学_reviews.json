@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore 689814",
+  "geometry": {
+    "location": {
+      "lat": 1.3801101,
+      "lng": 103.7366971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381205180291502,
+        "lng": 103.7383240302915
+      },
+      "southwest": {
+        "lat": 1.378507219708498,
+        "lng": 103.7356260697085
+      }
+    }
+  },
+  "name": "克勤小学",
+  "place_id": "ChIJp3ldQNwR2jERzLI6mLX1Jog",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "chunxia ni",
+      "author_url": "https://www.google.com/maps/contrib/106259386103513485322/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOyUbKEPTDNEonNh650cCz0_ie-HdPLThUN-vK9v_cJLwEFKU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669959089,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9810798998565073612",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

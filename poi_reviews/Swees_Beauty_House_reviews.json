@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Hougang St 21, #01-203 Blk 208, Singapore 530208",
+  "geometry": {
+    "location": {
+      "lat": 1.3599559,
+      "lng": 103.8878094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361046580291502,
+        "lng": 103.8896115302915
+      },
+      "southwest": {
+        "lat": 1.358348619708498,
+        "lng": 103.8869135697085
+      }
+    }
+  },
+  "name": "Swee's Beauty House",
+  "place_id": "ChIJWzELKrQX2jERTm0ratwwYbI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hastha Sivakumar",
+      "author_url": "https://www.google.com/maps/contrib/105719096411224587973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Gi9oPM73Onds4pMEooEVOEZNfMevYLM9xVcyD0q9niXn1vvCHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Great experience every time! Doreen is an experienced aesthetician!",
+      "time": 1568362192,
+      "translated": false
+    }
+  ],
+  "types": [
+    "beauty_salon",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12853608534724275534",
+  "user_ratings_total": 1,
+  "vicinity": "Hougang Street 21, #01-203 Blk 208, Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "23 TUAS AVENUE, Singapore 639086",
+  "geometry": {
+    "location": {
+      "lat": 1.3240681,
+      "lng": 103.6426785
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325358430291502,
+        "lng": 103.6440897802915
+      },
+      "southwest": {
+        "lat": 1.322660469708498,
+        "lng": 103.6413918197085
+      }
+    }
+  },
+  "name": "Technochem Pte Ltd",
+  "place_id": "ChIJZyFOTfkF2jER6PSBup1_0a0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Hiroshi Yasuda",
+      "author_url": "https://www.google.com/maps/contrib/104780964207167556162/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_TGB-6Sks-wwMpG_00zH1l3CZoqaXHP3XnGuqljBCmSp231N4=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1624341294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12524932354109732072",
+  "user_ratings_total": 1,
+  "vicinity": "23 TUAS AVENUE"
+}

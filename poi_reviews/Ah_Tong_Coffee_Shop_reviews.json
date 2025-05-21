@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Geylang Serai, #02-168 Malay Market and Food Centre, Singapore 402001",
+  "geometry": {
+    "location": {
+      "lat": 1.3166006,
+      "lng": 103.8976887
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317977630291502,
+        "lng": 103.8989246302915
+      },
+      "southwest": {
+        "lat": 1.315279669708498,
+        "lng": 103.8962266697085
+      }
+    }
+  },
+  "name": "Ah Tong Coffee Shop",
+  "place_id": "ChIJqWauqBAY2jERtuJ-5jCLz-8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Salim bin abdullah Somu kannana",
+      "author_url": "https://www.google.com/maps/contrib/108592957118150662057/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxrqK5edQV-AWxOb96wGaTQSunKCYRDG7w--eQZ_2borKm1-gA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711965664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17280183337385648822",
+  "user_ratings_total": 1,
+  "vicinity": "1 Geylang Serai, #02-168 Malay Market and Food Centre"
+}

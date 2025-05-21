@@ -1,0 +1,31 @@
+{
+  "formatted_address": "68 Orchard Rd, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3009429,
+      "lng": 103.8451005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302134080291502,
+        "lng": 103.8466297302915
+      },
+      "southwest": {
+        "lat": 1.299436119708498,
+        "lng": 103.8439317697085
+      }
+    }
+  },
+  "name": "S K United (pte) Ltd",
+  "place_id": "ChIJ40vDgb0Z2jERXkZcl2NYdBY",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1618015350897264222",
+  "vicinity": "68 Orchard Road"
+}

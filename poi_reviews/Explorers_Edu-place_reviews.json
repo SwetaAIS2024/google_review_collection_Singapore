@@ -1,0 +1,30 @@
+{
+  "formatted_address": "21 Hougang St 51, Singapore 538719",
+  "geometry": {
+    "location": {
+      "lat": 1.379502,
+      "lng": 103.888221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380959880291502,
+        "lng": 103.8896690302915
+      },
+      "southwest": {
+        "lat": 1.378261919708498,
+        "lng": 103.8869710697085
+      }
+    }
+  },
+  "name": "Explorers Edu-place",
+  "place_id": "ChIJHX5sHUEW2jER4-K2Rn3xWY8",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10329552740710540003",
+  "vicinity": "21 Hougang Street 51"
+}

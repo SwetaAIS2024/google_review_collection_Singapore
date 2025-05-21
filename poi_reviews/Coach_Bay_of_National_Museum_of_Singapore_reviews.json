@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Canning Walk, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2964162,
+      "lng": 103.8482234
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297741180291502,
+        "lng": 103.8495430302915
+      },
+      "southwest": {
+        "lat": 1.295043219708498,
+        "lng": 103.8468450697085
+      }
+    }
+  },
+  "name": "Coach Bay of National Museum of Singapore",
+  "place_id": "ChIJD7-LAB8Z2jERs8LYp9Yx_Pk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "BI",
+      "author_url": "https://www.google.com/maps/contrib/113936316483991774655/reviews",
+      "language": "en-US",
+      "original_language": "la",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDbI_ZGRTjZ-gxogNhRuLHKogTY-kdWkqLDfAnQGz65Q8EiP53ig=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "They do not exist",
+      "time": 1733647608,
+      "translated": true
+    },
+    {
+      "author_name": "Andreas P",
+      "author_url": "https://www.google.com/maps/contrib/114332026057399251177/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCDSObMeLBL7dZoMZ8I32E1ywGwquCyM5vakwTYO-USftDBg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719668578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18013327407583904435",
+  "user_ratings_total": 2,
+  "vicinity": "Canning Walk"
+}

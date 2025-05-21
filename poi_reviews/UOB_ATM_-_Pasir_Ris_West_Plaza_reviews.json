@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 735 Pasir Ris Street 72, #01-K2, Singapore 510735",
+  "geometry": {
+    "location": {
+      "lat": 1.3798792,
+      "lng": 103.9362675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381175580291502,
+        "lng": 103.9377961802915
+      },
+      "southwest": {
+        "lat": 1.378477619708498,
+        "lng": 103.9350982197085
+      }
+    }
+  },
+  "name": "UOB ATM - Pasir Ris West Plaza",
+  "place_id": "ChIJmfJQqqE92jER6XSkphuJ-Qw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=934929149509006569",
+  "vicinity": "Blk 735 Pasir Ris Street 72, #01-K2"
+}

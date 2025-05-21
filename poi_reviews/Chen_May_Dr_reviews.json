@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Fook Hai Building #01-16, 150 South Bridge Road (S)058727, Singapore 058727",
+  "geometry": {
+    "location": {
+      "lat": 1.2851479,
+      "lng": 103.8459001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286376480291502,
+        "lng": 103.8473190302915
+      },
+      "southwest": {
+        "lat": 1.283678519708498,
+        "lng": 103.8446210697085
+      }
+    }
+  },
+  "name": "Chen May Dr",
+  "place_id": "ChIJF4dBZgsZ2jERI4V1e9MrJYs",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10026468332719670563",
+  "vicinity": "Fook Hai Building #01-16, 150 South Bridge Road (S)058727"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "137 Tampines St. 11, #01-54, Singapore 521137",
+  "geometry": {
+    "location": {
+      "lat": 1.3454824,
+      "lng": 103.9447584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346887280291502,
+        "lng": 103.9456263302915
+      },
+      "southwest": {
+        "lat": 1.344189319708498,
+        "lng": 103.9429283697085
+      }
+    }
+  },
+  "name": "Heng Huat Pin Kee",
+  "place_id": "ChIJlwCSKDU92jER9GKbGbE-A3Q",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8359594263689519860",
+  "vicinity": "137 Tampines Street 11, #01-54"
+}

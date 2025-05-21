@@ -1,0 +1,43 @@
+{
+  "formatted_address": "658 Punggol E, #01-01 Outside Haomart, Singapore 820658",
+  "geometry": {
+    "location": {
+      "lat": 1.3997603,
+      "lng": 103.9195424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401185130291502,
+        "lng": 103.9209087802915
+      },
+      "southwest": {
+        "lat": 1.398487169708498,
+        "lng": 103.9182108197085
+      }
+    }
+  },
+  "name": "Smooze Vending Machine",
+  "place_id": "ChIJMx2mhEI92jERTgyR28-LUAE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Buy Cycle",
+      "author_url": "https://www.google.com/maps/contrib/115582538229481260807/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVd9T77T0FNcwLRdYUzzf2cfVIjPAGxPFboSOBnmhhi0ti8Ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "👍👍",
+      "time": 1745053352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=94729317032987726",
+  "user_ratings_total": 1,
+  "vicinity": "658 Punggol East, #01-01 Outside Haomart"
+}

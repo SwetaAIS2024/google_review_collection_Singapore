@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Ang Mo Kio, Singapore 560620",
+  "geometry": {
+    "location": {
+      "lat": 1.3809769,
+      "lng": 103.840658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382201930291502,
+        "lng": 103.8420682302915
+      },
+      "southwest": {
+        "lat": 1.379503969708498,
+        "lng": 103.8393702697085
+      }
+    }
+  },
+  "name": "Nasi Coconut Roll",
+  "place_id": "ChIJoeVfsUgX2jERnNApX8ZOjB8",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2273278525822324892",
+  "vicinity": ""
+}

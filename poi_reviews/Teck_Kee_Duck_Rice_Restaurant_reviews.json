@@ -1,0 +1,29 @@
+{
+  "formatted_address": "22 Sin Ming Rd, Block 22, Singapore 570022",
+  "geometry": {
+    "location": {
+      "lat": 1.3571993,
+      "lng": 103.8392674
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358854780291502,
+        "lng": 103.8404819302915
+      },
+      "southwest": {
+        "lat": 1.356156819708498,
+        "lng": 103.8377839697085
+      }
+    }
+  },
+  "name": "Teck Kee Duck Rice Restaurant",
+  "place_id": "ChIJZ8NpgCQX2jERpOkGs4w21xE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1285556196564461988",
+  "vicinity": "22 Sin Ming Road, Block 22, Singapore"
+}

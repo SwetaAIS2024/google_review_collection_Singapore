@@ -1,0 +1,55 @@
+{
+  "formatted_address": "15 Tuas Ave 13, Singapore 638986",
+  "geometry": {
+    "location": {
+      "lat": 1.3211731,
+      "lng": 103.6412397
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322652930291502,
+        "lng": 103.6427166802915
+      },
+      "southwest": {
+        "lat": 1.319954969708498,
+        "lng": 103.6400187197085
+      }
+    }
+  },
+  "name": "Yi He Fa Enterprises Pte Ltd",
+  "place_id": "ChIJq6qqevwF2jERkYL8cWFF3X0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "radha krishnan",
+      "author_url": "https://www.google.com/maps/contrib/116251500181577790099/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUshu1SV_PaFWYP0qevFkNSmx9itf9LRAzwUnQqLxDqhgF5VcpU=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "One of the best largest steel suplier in Singapore....",
+      "time": 1537873214,
+      "translated": false
+    },
+    {
+      "author_name": "cindia law",
+      "author_url": "https://www.google.com/maps/contrib/104500410737752193106/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOsUiT7F5P_VgnXfaznRfCjxzgpmWYTRQeZK7uMitGa7KQOw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Best dumpling",
+      "time": 1718868961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9069481509420565137",
+  "user_ratings_total": 2,
+  "vicinity": "15 Tuas Avenue 13"
+}

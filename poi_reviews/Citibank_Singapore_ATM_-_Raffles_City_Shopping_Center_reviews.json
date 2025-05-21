@@ -1,0 +1,69 @@
+{
+  "formatted_address": "Raffles City Shopping Centre, 252 N Bridge Rd, #B1-43E, Singapore 179103",
+  "geometry": {
+    "location": {
+      "lat": 1.2939211,
+      "lng": 103.8533887
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295429580291502,
+        "lng": 103.8550834802915
+      },
+      "southwest": {
+        "lat": 1.292731619708498,
+        "lng": 103.8523855197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Raffles City Shopping Center",
+  "place_id": "ChIJg5SsLaQZ2jERh8dLvwDrgJk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Standard ATM machines by Citibank. Given that you don't get a lot of Citibank ATMs around the island, it makes this super convenient and accessible. It's under the escalator, nearer to the exit of Jason's Marketplace, right next to all the other ATM Machines.",
+      "time": 1683966635,
+      "translated": false
+    },
+    {
+      "author_name": "Leon Mertens",
+      "author_url": "https://www.google.com/maps/contrib/111088580306966751458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMXc_bGazDMtGmBgY0Artp5w5lXqqFnjs6GLHpjnrQq32VLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Works for foreign master cards, very good to get money because foreigner usually have to pay cash.",
+      "time": 1701576930,
+      "translated": false
+    },
+    {
+      "author_name": "Richard Plaster",
+      "author_url": "https://www.google.com/maps/contrib/113806708224325200983/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5hlFUpFp6oCNVnLW98HFCufxWRceXFEAL7C1q1KMXcQydUB2Z=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Was out of money last night",
+      "time": 1608272886,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11061099073263880071",
+  "user_ratings_total": 3,
+  "vicinity": "Raffles City Shopping Centre, 252 North Bridge Road, #B1-43E"
+}

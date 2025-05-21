@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Sinaran Dr, Unit 10, Level 4, Singapore 307470",
+  "geometry": {
+    "location": {
+      "lat": 1.320749,
+      "lng": 103.8442648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322373330291502,
+        "lng": 103.8455453802915
+      },
+      "southwest": {
+        "lat": 1.319675369708498,
+        "lng": 103.8428474197085
+      }
+    }
+  },
+  "name": "Anthropos Health Centre",
+  "place_id": "ChIJO9Azid0Z2jER2Pss7nS2lGg",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7535848689826069464",
+  "vicinity": "8 Sinaran Drive, Unit 10, Level 4"
+}

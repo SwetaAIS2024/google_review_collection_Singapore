@@ -1,0 +1,41 @@
+{
+  "formatted_address": "15 Benoi Rd, Singapore 629888",
+  "geometry": {
+    "location": {
+      "lat": 1.3010646,
+      "lng": 103.6779387
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302487930291502,
+        "lng": 103.6793623802915
+      },
+      "southwest": {
+        "lat": 1.299789969708498,
+        "lng": 103.6766644197085
+      }
+    }
+  },
+  "name": "Tiong Tig Asia Pte. Ltd.",
+  "place_id": "ChIJF128aKYF2jERAIGh1pVbLPg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Daniel Ng",
+      "author_url": "https://www.google.com/maps/contrib/113170457605611837501/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDEviypZkEacmOPHitJBDOz6xj2reHhScx6suB2NYckaBkTOy-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1578143809,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17882768919490560256",
+  "user_ratings_total": 1,
+  "vicinity": "15 Benoi Road"
+}

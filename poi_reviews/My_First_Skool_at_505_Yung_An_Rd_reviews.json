@@ -1,0 +1,66 @@
+{
+  "formatted_address": "505 Yung An Rd, Singapore 618616",
+  "geometry": {
+    "location": {
+      "lat": 1.3357489,
+      "lng": 103.7217417
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337014730291502,
+        "lng": 103.7231030802915
+      },
+      "southwest": {
+        "lat": 1.334316769708498,
+        "lng": 103.7204051197085
+      }
+    }
+  },
+  "name": "My First Skool at 505 Yung An Rd",
+  "place_id": "ChIJA0BfQPsP2jERUwUjMTKBrNw",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "HS Lim",
+      "author_url": "https://www.google.com/maps/contrib/115535175613259076481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRhd362QRe7jx37NvedguQrnWUW3UmhcH-L2WO3wN7vRmIRwOS=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "My First Skool - another subsidiary from NTUC. A childcare and kindergarten school for our little kids. It is located opposite Taman Jurong Community Club\n(~ last review/ update Feb2017)",
+      "time": 1487213612,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Lim",
+      "author_url": "https://www.google.com/maps/contrib/109898131417408354720/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-yBZIGBPXZV1vslAQFsCmvc6rVGgFueCEfjKBym9MSSgLRA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "Too many mosquito\nChild got bite every weeks",
+      "time": 1742302812,
+      "translated": false
+    },
+    {
+      "author_name": "Tengku Farah",
+      "author_url": "https://www.google.com/maps/contrib/111624269386032377200/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOs26yFVadw97z-xTkCrB28wG_DNEgOfd2RvuSmU5I6YumBE3F=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690509210,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15901226436911105363",
+  "user_ratings_total": 3,
+  "vicinity": "505 Yung An Road"
+}

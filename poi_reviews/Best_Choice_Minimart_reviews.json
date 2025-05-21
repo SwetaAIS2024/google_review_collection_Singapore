@@ -1,0 +1,30 @@
+{
+  "formatted_address": "34 Whampoa W, #01-63, Singapore 330034",
+  "geometry": {
+    "location": {
+      "lat": 1.3203782,
+      "lng": 103.8628095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321441530291502,
+        "lng": 103.8638128302915
+      },
+      "southwest": {
+        "lat": 1.318743569708498,
+        "lng": 103.8611148697085
+      }
+    }
+  },
+  "name": "Best Choice Minimart",
+  "place_id": "ChIJlaRSGgAZ2jERcTFXG_H37M8",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14982622675272675697",
+  "vicinity": "34 Whampoa West, #01-63, Singapore"
+}

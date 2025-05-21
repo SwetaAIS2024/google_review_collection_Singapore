@@ -1,0 +1,45 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.418348,
+      "lng": 103.655144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419656880291502,
+        "lng": 103.6564960802915
+      },
+      "southwest": {
+        "lat": 1.416958919708498,
+        "lng": 103.6537981197085
+      }
+    }
+  },
+  "name": "Encorp Marina Residences,Persiaran Dato Seri Amar",
+  "place_id": "ChIJMw5vQhQM2jERCqT_07N7ZUs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Lotus Pack",
+      "author_url": "https://www.google.com/maps/contrib/105845368140562054733/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGlKOqVvnbIOMfQIcWYPFIoUa11auUX1UYvqM68VCs1xlegJhJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The parking lot is a bit complicated and the instructions are unclear",
+      "time": 1706773969,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5432884537778480138",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

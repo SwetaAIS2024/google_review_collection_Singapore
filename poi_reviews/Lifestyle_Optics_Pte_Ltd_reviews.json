@@ -1,0 +1,30 @@
+{
+  "formatted_address": "15 Little Rd, Singapore 536988",
+  "geometry": {
+    "location": {
+      "lat": 1.337933,
+      "lng": 103.885091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339308930291502,
+        "lng": 103.8864994302915
+      },
+      "southwest": {
+        "lat": 1.336610969708498,
+        "lng": 103.8838014697085
+      }
+    }
+  },
+  "name": "Lifestyle Optics Pte Ltd",
+  "place_id": "ChIJtUSSgZEX2jERelC3N77CdR0",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2122816921609392250",
+  "vicinity": "15 Little Road"
+}

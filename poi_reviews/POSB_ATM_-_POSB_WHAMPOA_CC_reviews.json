@@ -1,0 +1,29 @@
+{
+  "formatted_address": "300 Whampoa Dr, Whampoa Community Club, Singapore 327737",
+  "geometry": {
+    "location": {
+      "lat": 1.324816,
+      "lng": 103.856995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326037730291502,
+        "lng": 103.8584993302915
+      },
+      "southwest": {
+        "lat": 1.323339769708498,
+        "lng": 103.8558013697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB WHAMPOA CC",
+  "place_id": "ChIJqakAuAkZ2jERIfY1nkPm_gM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=287920604289824289",
+  "vicinity": "300 Whampoa Drive, Whampoa Community Club"
+}

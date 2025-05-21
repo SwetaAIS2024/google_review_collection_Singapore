@@ -1,0 +1,30 @@
+{
+  "formatted_address": "304 Orchard Rd, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.304423,
+      "lng": 103.8340325
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305613980291502,
+        "lng": 103.8353026802915
+      },
+      "southwest": {
+        "lat": 1.302916019708498,
+        "lng": 103.8326047197085
+      }
+    }
+  },
+  "name": "Mart One Trading",
+  "place_id": "ChIJHXFAbZIZ2jERTIeQn6vSRmE",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7009521504607045452",
+  "vicinity": "304 Orchard Road"
+}

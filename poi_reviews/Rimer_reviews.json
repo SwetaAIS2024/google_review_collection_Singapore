@@ -1,0 +1,30 @@
+{
+  "formatted_address": "67 Sungei Kadut Dr, Singapore 729568",
+  "geometry": {
+    "location": {
+      "lat": 1.4139537,
+      "lng": 103.7452429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415250180291502,
+        "lng": 103.7464656802915
+      },
+      "southwest": {
+        "lat": 1.412552219708498,
+        "lng": 103.7437677197085
+      }
+    }
+  },
+  "name": "Rimer",
+  "place_id": "ChIJNbn1AgAT2jERrp5KhAIPIkY",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5053618235346951854",
+  "vicinity": "67 Sungei Kadut Drive, Singapore"
+}

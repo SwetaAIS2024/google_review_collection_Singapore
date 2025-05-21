@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Thomson Rd, #01 330, Singapore 300001",
+  "geometry": {
+    "location": {
+      "lat": 1.3249048,
+      "lng": 103.8422105
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326284680291502,
+        "lng": 103.8435758302915
+      },
+      "southwest": {
+        "lat": 1.323586719708498,
+        "lng": 103.8408778697085
+      }
+    }
+  },
+  "name": "Hyperbaric Medical Services Pte Ltd (Hyperbaric Oxygen Therapy Centre)",
+  "place_id": "ChIJORiRgNsZ2jERHJJhNEHT0PQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HariyantoLim Lim",
+      "author_url": "https://www.google.com/maps/contrib/114746425508773429610/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYStxcIqyuOjOEH_MCZ7Xf5by39kbCxfT2O4tiCENUW6PvIE_S=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Good result upon the treatment",
+      "time": 1737526620,
+      "translated": false
+    },
+    {
+      "author_name": "nyunt wai",
+      "author_url": "https://www.google.com/maps/contrib/101994022279591429767/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4xNAJAxw-Tso8HHJ9qA9zQ9zi3VDgKi7WAosny8ZmLVXmAeiO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672529011,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17640832017415377436",
+  "user_ratings_total": 2,
+  "vicinity": "1 Thomson Road, #01 330, Singapore"
+}

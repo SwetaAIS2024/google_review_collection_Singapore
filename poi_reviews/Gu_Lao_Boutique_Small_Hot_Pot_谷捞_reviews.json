@@ -1,0 +1,45 @@
+{
+  "formatted_address": "201 Henderson Rd, Singapore 159545",
+  "geometry": {
+    "location": {
+      "lat": 1.2825032,
+      "lng": 103.8204463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283890380291502,
+        "lng": 103.8217540802915
+      },
+      "southwest": {
+        "lat": 1.281192419708498,
+        "lng": 103.8190561197085
+      }
+    }
+  },
+  "name": "Gu Lao Boutique Small Hot Pot 谷捞",
+  "place_id": "ChIJETbHbAAb2jERq2AKzQXgRSI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Cheng",
+      "author_url": "https://www.google.com/maps/contrib/112994654283661324793/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAJLXFY8b867Ik5kuni9FoPXM6R-_qXvSd1YemxiIAUJkWOEjYSQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Nice KPT. Nice small hotpot!",
+      "time": 1731504164,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2469626286202052779",
+  "user_ratings_total": 1,
+  "vicinity": "201 Henderson Road"
+}

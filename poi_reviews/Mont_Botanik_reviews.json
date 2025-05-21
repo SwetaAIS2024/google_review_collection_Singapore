@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Ubi Cres, Singapore 408564",
+  "geometry": {
+    "location": {
+      "lat": 1.3264632,
+      "lng": 103.896365
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327711330291502,
+        "lng": 103.8977192802915
+      },
+      "southwest": {
+        "lat": 1.325013369708498,
+        "lng": 103.8950213197085
+      }
+    }
+  },
+  "name": "Mont Botanik",
+  "place_id": "ChIJrccPKg4Z2jERsUIG8y2mFuI",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16291391418340360881",
+  "vicinity": "10 Ubi Crescent"
+}

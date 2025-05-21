@@ -1,0 +1,29 @@
+{
+  "formatted_address": "320 Orchard Road, #B2-K6, Basement 2 Tang Plaza, Singapore 238865",
+  "geometry": {
+    "location": {
+      "lat": 1.3048849,
+      "lng": 103.8326645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306183430291502,
+        "lng": 103.8340738302915
+      },
+      "southwest": {
+        "lat": 1.303485469708498,
+        "lng": 103.8313758697085
+      }
+    }
+  },
+  "name": "UOB ATM - Tang Plaza",
+  "place_id": "ChIJheXerx8Z2jEROEiClQDcQLk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13348911190592604216",
+  "vicinity": "320 Orchard Road, #B2-K6, Basement 2 Tang Plaza"
+}

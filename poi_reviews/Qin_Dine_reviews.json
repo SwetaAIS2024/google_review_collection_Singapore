@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.3410923,
+      "lng": 103.9629442
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342569230291502,
+        "lng": 103.9642693302915
+      },
+      "southwest": {
+        "lat": 1.339871269708498,
+        "lng": 103.9615713697085
+      }
+    }
+  },
+  "name": "Qin Dine",
+  "place_id": "ChIJ1eSTXwA92jERTq3FXtoHXJE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10474255467831209294",
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

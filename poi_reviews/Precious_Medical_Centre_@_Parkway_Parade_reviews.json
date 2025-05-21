@@ -1,0 +1,29 @@
+{
+  "formatted_address": "80 Marine Parade Rd, #01-11B Parkway Parade, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302975330291502,
+        "lng": 103.9067364802915
+      },
+      "southwest": {
+        "lat": 1.300277369708498,
+        "lng": 103.9040385197085
+      }
+    }
+  },
+  "name": "Precious Medical Centre @ Parkway Parade",
+  "place_id": "ChIJFVLcagsZ2jERSLFECqqL788",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14983348047717904712",
+  "vicinity": "80 Marine Parade Road, #01-11B Parkway Parade, Singapore"
+}

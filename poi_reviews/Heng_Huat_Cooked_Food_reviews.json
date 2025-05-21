@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3023945,
+      "lng": 103.8838186
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303711380291502,
+        "lng": 103.8851346302915
+      },
+      "southwest": {
+        "lat": 1.301013419708498,
+        "lng": 103.8824366697085
+      }
+    }
+  },
+  "name": "Heng Huat Cooked Food",
+  "place_id": "ChIJfx3oIkQY2jERZc_RP-eTWfY",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17751382027674963813",
+  "vicinity": "Singapore"
+}

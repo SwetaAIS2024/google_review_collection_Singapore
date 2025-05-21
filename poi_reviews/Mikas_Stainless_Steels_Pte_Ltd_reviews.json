@@ -1,0 +1,41 @@
+{
+  "formatted_address": "9 Tuas South Street 8, Singapore 636931",
+  "geometry": {
+    "location": {
+      "lat": 1.2775895,
+      "lng": 103.6331061
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278747230291502,
+        "lng": 103.6344344802915
+      },
+      "southwest": {
+        "lat": 1.276049269708498,
+        "lng": 103.6317365197085
+      }
+    }
+  },
+  "name": "Mikas Stainless Steels Pte Ltd",
+  "place_id": "ChIJLYSC30UQ2jERWt3yNffe2ew",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tresses Coiffeurs",
+      "author_url": "https://www.google.com/maps/contrib/108384790568271684453/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-k3QnlDs4Q4bAQjgI2oFf6DANVvAHpxNfOqEcE0_dApdSzQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744954307,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17066917416240602458",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tuas South Street 8"
+}

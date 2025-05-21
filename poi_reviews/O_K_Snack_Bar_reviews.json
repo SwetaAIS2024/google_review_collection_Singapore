@@ -1,0 +1,30 @@
+{
+  "formatted_address": "304 Orchard Rd, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3042734,
+      "lng": 103.8336978
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305579680291502,
+        "lng": 103.8350238302915
+      },
+      "southwest": {
+        "lat": 1.302881719708498,
+        "lng": 103.8323258697085
+      }
+    }
+  },
+  "name": "O K Snack Bar",
+  "place_id": "ChIJIwKGbZIZ2jEReLZuOgFljp4",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11425180360635233912",
+  "vicinity": "304 Orchard Road"
+}

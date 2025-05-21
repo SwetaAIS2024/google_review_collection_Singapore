@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Labrador Villa Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2682206,
+      "lng": 103.8001288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.269578480291502,
+        "lng": 103.8014473802915
+      },
+      "southwest": {
+        "lat": 1.266880519708498,
+        "lng": 103.7987494197085
+      }
+    }
+  },
+  "name": "Labrador House Carpark",
+  "place_id": "ChIJSeN0HQAb2jERA-MrF7XNeoo",
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9978514102054281987",
+  "vicinity": "Labrador Villa Road"
+}

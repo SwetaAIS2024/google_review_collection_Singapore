@@ -1,0 +1,78 @@
+{
+  "formatted_address": "127 Plantation Cres, B1-16, Singapore 690127",
+  "geometry": {
+    "location": {
+      "lat": 1.357732,
+      "lng": 103.7341549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359153130291502,
+        "lng": 103.7354407302915
+      },
+      "southwest": {
+        "lat": 1.356455169708498,
+        "lng": 103.7327427697085
+      }
+    }
+  },
+  "name": "Guardian Health & Beauty + Pharmacy - Plantation Plaza",
+  "place_id": "ChIJScTVHQAR2jERw1t14-rDas8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Zam Zi",
+      "author_url": "https://www.google.com/maps/contrib/107591075101988466183/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlBGqDC5OUyKfZHtXIw5wDaV31YJ2rhAWPf1cT3959MyhCfSg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Basic service like replying to your paying customer saying hello and thank you, would be nice.",
+      "time": 1743502172,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Ng",
+      "author_url": "https://www.google.com/maps/contrib/116361321511530578843/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk_BFVEGLwnXtbvcZzvSKiLfIBtndZy-smO5J0iRGaAvv26nQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "Store supervisor very rude no respect at all",
+      "time": 1725603227,
+      "translated": false
+    },
+    {
+      "author_name": "Liang Wei Yah Weh",
+      "author_url": "https://www.google.com/maps/contrib/111457315397469223315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUovvSVBN7AFwCi_V_4BeoAUwIcAY7FP3mpRqnKRpxQJWUFLxPO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740445312,
+      "translated": false
+    },
+    {
+      "author_name": "Samuel Yew",
+      "author_url": "https://www.google.com/maps/contrib/117358184260318394082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk4I1mnao7Aoma2Qe-yom8-UXQxwOiMLhiMn3DJBmbUysLWw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738840345,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14945973726988295107",
+  "user_ratings_total": 4,
+  "vicinity": "127 Plantation Crescent, B1-16, Singapore"
+}

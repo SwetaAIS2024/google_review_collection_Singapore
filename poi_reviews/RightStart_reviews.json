@@ -1,0 +1,28 @@
+{
+  "formatted_address": "6 Harper Rd, Singapore 369674",
+  "geometry": {
+    "location": {
+      "lat": 1.3352231,
+      "lng": 103.8873942
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336682430291502,
+        "lng": 103.8887228802915
+      },
+      "southwest": {
+        "lat": 1.333984469708498,
+        "lng": 103.8860249197085
+      }
+    }
+  },
+  "name": "RightStart",
+  "place_id": "ChIJpcZbjo0X2jERq3pkzvzSygk",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=705608274873186987",
+  "vicinity": "6 Harper Road"
+}

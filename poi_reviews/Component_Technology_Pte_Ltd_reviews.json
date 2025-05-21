@@ -1,0 +1,41 @@
+{
+  "formatted_address": "13 Kaki Bukit Rd 1, #01-05 Eunos Technolink, Singapore 415928",
+  "geometry": {
+    "location": {
+      "lat": 1.3346642,
+      "lng": 103.9007296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336071780291502,
+        "lng": 103.9017105302915
+      },
+      "southwest": {
+        "lat": 1.333373819708498,
+        "lng": 103.8990125697085
+      }
+    }
+  },
+  "name": "Component Technology Pte Ltd",
+  "place_id": "ChIJj7rJOPAX2jERwxSzviJc-ew",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dave Wang",
+      "author_url": "https://www.google.com/maps/contrib/107580877824230267881/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMmBi-HFRG-C0wnBL0bnViDlaz3nX1XGPjPdBAJUCroRtQuA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1663061659,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17075780766449996995",
+  "user_ratings_total": 1,
+  "vicinity": "13 Kaki Bukit Road 1, #01-05 Eunos Technolink"
+}

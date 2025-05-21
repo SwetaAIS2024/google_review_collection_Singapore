@@ -1,0 +1,30 @@
+{
+  "formatted_address": "92 Whampoa Dr, Singapore 320092",
+  "geometry": {
+    "location": {
+      "lat": 1.323207,
+      "lng": 103.853863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324413030291502,
+        "lng": 103.8551271802915
+      },
+      "southwest": {
+        "lat": 1.321715069708498,
+        "lng": 103.8524292197085
+      }
+    }
+  },
+  "name": "Po Huat Provision",
+  "place_id": "ChIJZxhfodkZ2jER_Iw0L9W-0AU",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=419044588174740732",
+  "vicinity": "92 Whampoa Drive"
+}

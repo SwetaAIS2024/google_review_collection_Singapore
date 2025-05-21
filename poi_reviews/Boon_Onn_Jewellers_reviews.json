@@ -1,0 +1,42 @@
+{
+  "formatted_address": "No.1 Park Road, #03-K70 People's Park Complex, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2842156,
+      "lng": 103.8424649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285643930291502,
+        "lng": 103.8435569302915
+      },
+      "southwest": {
+        "lat": 1.282945969708498,
+        "lng": 103.8408589697085
+      }
+    }
+  },
+  "name": "Boon Onn Jewellers",
+  "place_id": "ChIJ126ffHMZ2jERCtJItR3Ddm8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "manos gerardis",
+      "author_url": "https://www.google.com/maps/contrib/106198495165840224922/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITTZLWVcMIgumA2BjrZa2sSCUi5qm11VPKIyjeImosMlkKvw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1716119694,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8031821517824774666",
+  "user_ratings_total": 1,
+  "vicinity": "No.1 Park Road, #03-K70 People's Park Complex"
+}

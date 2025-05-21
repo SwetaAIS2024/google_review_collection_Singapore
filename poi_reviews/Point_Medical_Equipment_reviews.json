@@ -1,0 +1,30 @@
+{
+  "formatted_address": "399 Yung Sheng Rd, #01-31, Singapore 610399",
+  "geometry": {
+    "location": {
+      "lat": 1.3345627,
+      "lng": 103.7208351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335910480291502,
+        "lng": 103.7224000802915
+      },
+      "southwest": {
+        "lat": 1.333212519708498,
+        "lng": 103.7197021197085
+      }
+    }
+  },
+  "name": "Point Medical Equipment",
+  "place_id": "ChIJaaD-oPsP2jERbUXM8-VwMPg",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17883918253228311917",
+  "vicinity": "399 Yung Sheng Road, #01-31, Singapore"
+}

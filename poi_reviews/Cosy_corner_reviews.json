@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Kallang Pk Connector, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3212148,
+      "lng": 103.8677669
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322406080291502,
+        "lng": 103.8694053802915
+      },
+      "southwest": {
+        "lat": 1.319708119708498,
+        "lng": 103.8667074197085
+      }
+    }
+  },
+  "name": "Cosy corner",
+  "place_id": "ChIJkTD2VQAZ2jERukyQ4IBAf9Q",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Md Manik",
+      "author_url": "https://www.google.com/maps/contrib/115482341391488426410/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB1S6Gp_q1Cm3SSTiHEQ6ThwIcYUW9UZ43pMFngrUpK7qnbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1737379528,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15312028180350520506",
+  "user_ratings_total": 1,
+  "vicinity": "Kallang Park Connector"
+}

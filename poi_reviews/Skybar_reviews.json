@@ -1,0 +1,28 @@
+{
+  "formatted_address": "2 Stadium Walk, Singapore 397691",
+  "geometry": {
+    "location": {
+      "lat": 1.3007815,
+      "lng": 103.8747771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301718680291502,
+        "lng": 103.8762036302915
+      },
+      "southwest": {
+        "lat": 1.299020719708498,
+        "lng": 103.8735056697085
+      }
+    }
+  },
+  "name": "Skybar",
+  "place_id": "ChIJB4-giU4Y2jERID8FJKdYkfU",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17695021885802495776",
+  "vicinity": "2 Stadium Walk"
+}

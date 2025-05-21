@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Tampines Street 44, #02-269, Block 481, Singapore 520481",
+  "geometry": {
+    "location": {
+      "lat": 1.3601158,
+      "lng": 103.953885
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361496630291502,
+        "lng": 103.9552344302915
+      },
+      "southwest": {
+        "lat": 1.358798669708498,
+        "lng": 103.9525364697085
+      }
+    }
+  },
+  "name": "Hijrah Pte. Ltd.",
+  "place_id": "ChIJIyXnAWQU2jEREqe6dknh27A",
+  "types": [
+    "school",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12744027276215756562",
+  "vicinity": "Tampines Street 44, #02-269, Block 481, Singapore"
+}

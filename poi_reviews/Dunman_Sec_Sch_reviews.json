@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3610984,
+      "lng": 103.9553746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362363430291502,
+        "lng": 103.9566379302915
+      },
+      "southwest": {
+        "lat": 1.359665469708498,
+        "lng": 103.9539399697085
+      }
+    }
+  },
+  "name": "Dunman Sec Sch",
+  "place_id": "ChIJ9YwK1gA92jER03k7hCic3a8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12672456624321558995",
+  "vicinity": "Singapore"
+}

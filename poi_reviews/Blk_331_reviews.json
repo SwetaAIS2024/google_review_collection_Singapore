@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338065,
+      "lng": 103.723763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339371880291502,
+        "lng": 103.7251328302915
+      },
+      "southwest": {
+        "lat": 1.336673919708498,
+        "lng": 103.7224348697085
+      }
+    }
+  },
+  "name": "Blk 331",
+  "place_id": "ChIJTRzgZeMP2jER4wo1gN46qE4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5667844858353879779",
+  "vicinity": "Singapore"
+}

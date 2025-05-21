@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3262246,
+      "lng": 103.8840407
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327579830291502,
+        "lng": 103.8853614802915
+      },
+      "southwest": {
+        "lat": 1.324881869708498,
+        "lng": 103.8826635197085
+      }
+    }
+  },
+  "name": "Opp Mattar Stn Exit B",
+  "place_id": "ChIJ3YrMXycY2jERcUDVOhKzbr4",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "The bus stand is directly opposite exit B of Mattar Station. Zebra crossing available.",
+      "time": 1512148062,
+      "translated": false
+    },
+    {
+      "author_name": "郭凯敏",
+      "author_url": "https://www.google.com/maps/contrib/102104152355897735688/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhSAzcmji_EEmF0lRFCUw8cK3qe36X3wRzLSy9HxZg3ppd=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482761976,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13722102005522317425",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

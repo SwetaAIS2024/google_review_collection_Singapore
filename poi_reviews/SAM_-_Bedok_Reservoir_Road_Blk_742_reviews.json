@@ -1,0 +1,62 @@
+{
+  "formatted_address": "742 Bedok Reservoir Rd, #01-3109 outside, Block 742, Singapore 470742",
+  "geometry": {
+    "location": {
+      "lat": 1.337985,
+      "lng": 103.9221109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339444080291502,
+        "lng": 103.9235106802915
+      },
+      "southwest": {
+        "lat": 1.336746119708498,
+        "lng": 103.9208127197085
+      }
+    }
+  },
+  "name": "SAM - Bedok Reservoir Road Blk 742",
+  "place_id": "ChIJQ7LItls92jER6xSutZmlk1Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "sonia islam",
+      "author_url": "https://www.google.com/maps/contrib/102342873702568079379/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWQtTMVlJXDCLAyF189m7VVdozI7L3xVvXtlBDOra7VRGQgigU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1621559913,
+      "translated": false
+    },
+    {
+      "author_name": "Chen Han",
+      "author_url": "https://www.google.com/maps/contrib/111124494078594178556/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWokte4OZhzIs1EOw5fRurKwAo8ZMsDmd4hjhezTQdL5QbSr3E5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601999171,
+      "translated": false
+    },
+    {
+      "author_name": "Dawn Leow",
+      "author_url": "https://www.google.com/maps/contrib/101040483985359758595/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_7zzFg6zxh27LTT1aDmLdxx-L6jWN46PUW-YK-6zMrR29NWYQVA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575273658,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6238511988434932971",
+  "user_ratings_total": 3,
+  "vicinity": "742 Bedok Reservoir Road, #01-3109 outside, Block 742"
+}

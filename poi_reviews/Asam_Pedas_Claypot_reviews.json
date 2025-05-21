@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 1A Woodlands Rd, Singapore 731001",
+  "geometry": {
+    "location": {
+      "lat": 1.3804591,
+      "lng": 103.760176
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381923880291502,
+        "lng": 103.7616366802915
+      },
+      "southwest": {
+        "lat": 1.379225919708498,
+        "lng": 103.7589387197085
+      }
+    }
+  },
+  "name": "Asam Pedas Claypot",
+  "place_id": "ChIJM5hFULwR2jERxvsAgWBatSA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2356889350526008262",
+  "vicinity": "Blk 1A Woodlands Road, Singapore"
+}

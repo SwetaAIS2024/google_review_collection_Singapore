@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Choa Chu Kang Ave 4, #03-03, Singapore 689812",
+  "geometry": {
+    "location": {
+      "lat": 1.3849501,
+      "lng": 103.7448926
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386199230291502,
+        "lng": 103.7462606802915
+      },
+      "southwest": {
+        "lat": 1.383501269708498,
+        "lng": 103.7435627197085
+      }
+    }
+  },
+  "name": "莱佛士诊所",
+  "place_id": "ChIJRycQVAAR2jERs42PuGKDZtE",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15088892061577874867",
+  "vicinity": "21 Choa Chu Kang Avenue 4, #03-03, Singapore"
+}

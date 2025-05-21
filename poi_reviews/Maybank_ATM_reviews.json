@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2647139,
+      "lng": 103.8231658
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266119730291502,
+        "lng": 103.8245148802915
+      },
+      "southwest": {
+        "lat": 1.263421769708498,
+        "lng": 103.8218169197085
+      }
+    }
+  },
+  "name": "Maybank ATM",
+  "place_id": "ChIJj3PG_tgZ2jERHpJ7WdT13uU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Benson Zainab Khoe",
+      "author_url": "https://www.google.com/maps/contrib/113333245606749886290/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkcSidqh6K999wYPUAGMyjnBrwi6QP6fszPxQrKeYnCaTgQuXZ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1737769687,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16563946771898405406",
+  "user_ratings_total": 1,
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

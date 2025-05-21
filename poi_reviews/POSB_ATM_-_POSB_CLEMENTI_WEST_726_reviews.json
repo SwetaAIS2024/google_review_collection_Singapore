@@ -1,0 +1,29 @@
+{
+  "formatted_address": "726 Clementi West Street 2, #01-75A, Singapore 120726",
+  "geometry": {
+    "location": {
+      "lat": 1.3037847,
+      "lng": 103.7642661
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305364380291502,
+        "lng": 103.7655792302915
+      },
+      "southwest": {
+        "lat": 1.302666419708498,
+        "lng": 103.7628812697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB CLEMENTI WEST/726",
+  "place_id": "ChIJ5Q6ZNs4b2jERYMb_VCRs8qM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11813623675846903392",
+  "vicinity": "726 Clementi West Street 2, #01-75A"
+}

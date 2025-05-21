@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3248516,
+      "lng": 103.9157592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326262880291502,
+        "lng": 103.9172667802915
+      },
+      "southwest": {
+        "lat": 1.323564919708498,
+        "lng": 103.9145688197085
+      }
+    }
+  },
+  "name": "Jalan Senang Linear Park",
+  "place_id": "ChIJVVWx6qoi2jEROGFeWRyzebE",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12788449551235047736",
+  "vicinity": "Singapore"
+}

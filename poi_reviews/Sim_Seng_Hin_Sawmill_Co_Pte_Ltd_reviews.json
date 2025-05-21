@@ -1,0 +1,51 @@
+{
+  "formatted_address": "37 Tuas Ave 13, Singapore 638998",
+  "geometry": {
+    "location": {
+      "lat": 1.3245366,
+      "lng": 103.6380928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325924530291502,
+        "lng": 103.6394784802915
+      },
+      "southwest": {
+        "lat": 1.323226569708498,
+        "lng": 103.6367805197085
+      }
+    }
+  },
+  "name": "Sim Seng Hin Sawmill Co Pte Ltd",
+  "place_id": "ChIJK-z91BUS2jERSbJXnA4PzYs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nelson Kalins",
+      "author_url": "https://www.google.com/maps/contrib/103767420914988368280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7BD3qDvLX9TEMDeO8z2T7hH699TCnFO6xiZV-Dp6kvxhE0qfg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687819554,
+      "translated": false
+    },
+    {
+      "author_name": "Breton Chan",
+      "author_url": "https://www.google.com/maps/contrib/104730576508160271816/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhn9TKpkhUqO96AdQ4Qve5_hrCBeOIKjVhvUasee60j6XUdCc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1536039731,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10073724496924619337",
+  "user_ratings_total": 2,
+  "vicinity": "37 Tuas Avenue 13, Singapore"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3741752,
+      "lng": 103.9612256
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375538630291502,
+        "lng": 103.9625210302915
+      },
+      "southwest": {
+        "lat": 1.372840669708498,
+        "lng": 103.9598230697085
+      }
+    }
+  },
+  "name": "Blk 231a CP",
+  "place_id": "ChIJ2cKgNk082jERTcqGDC-rXS8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Jastine Tan",
+      "author_url": "https://www.google.com/maps/contrib/107541563717049175167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQuLMOnpVJe99k9k8fu3Xr01pnV8F81TuzXx9TCU5N-Xijd_6Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "This bus stop is my wet dream",
+      "time": 1536601028,
+      "translated": false
+    },
+    {
+      "author_name": "郑权鑫",
+      "author_url": "https://www.google.com/maps/contrib/108615454910640188068/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRJL77ZjeiXt9e6KNBF8u2unulxFUxMGKErpS7Y-S8LsRb7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "The bus is inconvenient",
+      "time": 1507987262,
+      "translated": true
+    },
+    {
+      "author_name": "Sanjeevani Jain Bhavaraju",
+      "author_url": "https://www.google.com/maps/contrib/116415128269386741059/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIn-l6yxgWKGezbhsdik3h7vzg1MA8cnl45YHbXUsS9_L4m6P7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500943352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3413072311178676813",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

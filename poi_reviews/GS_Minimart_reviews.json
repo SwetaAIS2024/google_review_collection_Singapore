@@ -1,0 +1,30 @@
+{
+  "formatted_address": "424 Bukit Batok West Ave 2, Block 424, Singapore 650424",
+  "geometry": {
+    "location": {
+      "lat": 1.3618585,
+      "lng": 103.7456159
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363233230291502,
+        "lng": 103.7470376802915
+      },
+      "southwest": {
+        "lat": 1.360535269708498,
+        "lng": 103.7443397197085
+      }
+    }
+  },
+  "name": "GS Minimart",
+  "place_id": "ChIJgaaEhDMQ2jERNHDtPnHblPs",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18128355679506624564",
+  "vicinity": "424 Bukit Batok West Avenue 2, Block 424, Singapore"
+}

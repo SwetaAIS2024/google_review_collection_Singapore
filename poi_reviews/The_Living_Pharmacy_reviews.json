@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Simei Street 6, #B1-05/07, 528833, Singapore 528833",
+  "geometry": {
+    "location": {
+      "lat": 1.3427472,
+      "lng": 103.9530126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343841130291502,
+        "lng": 103.9545562802915
+      },
+      "southwest": {
+        "lat": 1.341143169708498,
+        "lng": 103.9518583197085
+      }
+    }
+  },
+  "name": "The Living Pharmacy",
+  "place_id": "ChIJy0pVRSI92jERkXSmwbVn4Y4",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10295624253481317521",
+  "vicinity": "3 Simei Street 6, #B1-05/07, 528833"
+}

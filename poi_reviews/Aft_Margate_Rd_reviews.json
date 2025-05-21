@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.300526,
+      "lng": 103.888313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301821780291502,
+        "lng": 103.8896843302915
+      },
+      "southwest": {
+        "lat": 1.299123819708498,
+        "lng": 103.8869863697085
+      }
+    }
+  },
+  "name": "Aft Margate Rd",
+  "place_id": "ChIJF4z-_0IY2jERAlAubIZf8vQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Greg Brown",
+      "author_url": "https://www.google.com/maps/contrib/107348004039418427554/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4cfq0DcWIOQZn94tQZ1FqiXvdTBeX41OKxDWVheCGI8AnVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592965299,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17650274920563625986",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

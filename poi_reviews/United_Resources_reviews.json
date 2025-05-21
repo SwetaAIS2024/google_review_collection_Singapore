@@ -1,0 +1,51 @@
+{
+  "formatted_address": "2 Gul Link, Singapore 629372",
+  "geometry": {
+    "location": {
+      "lat": 1.3148081,
+      "lng": 103.6615249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316149980291502,
+        "lng": 103.6628813802915
+      },
+      "southwest": {
+        "lat": 1.313452019708498,
+        "lng": 103.6601834197085
+      }
+    }
+  },
+  "name": "United Resources",
+  "place_id": "ChIJ8yZ80U8Q2jERHwub_0mgSEo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "lionel lissart",
+      "author_url": "https://www.google.com/maps/contrib/107907167546482045196/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0gKhbZ9O5gvJl3mZkAYdMo9YN1CODB55TfDdx1x6G-zp4QL3sIQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739851151,
+      "translated": false
+    },
+    {
+      "author_name": "Wijoyo Ng",
+      "author_url": "https://www.google.com/maps/contrib/105881989322250478992/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU2sX3wyhIYDA00s9n2Q4veVIH6Wxu_NgHsEbRuMO1uBgBJx7_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1467211642,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5352704396811242271",
+  "user_ratings_total": 2,
+  "vicinity": "2 Gul Link"
+}

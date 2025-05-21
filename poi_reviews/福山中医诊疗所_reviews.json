@@ -1,0 +1,43 @@
+{
+  "formatted_address": "6 01 Ang Mo Kio Ave 6, #5127 Block 635, Singapore 560635",
+  "geometry": {
+    "location": {
+      "lat": 1.3808402,
+      "lng": 103.842364
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382139880291502,
+        "lng": 103.8436235802915
+      },
+      "southwest": {
+        "lat": 1.379441919708498,
+        "lng": 103.8409256197085
+      }
+    }
+  },
+  "name": "福山中医诊疗所",
+  "place_id": "ChIJp0w-UcAW2jERw2Vvk_uMccU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "tk koh",
+      "author_url": "https://www.google.com/maps/contrib/111038651136115751299/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEAJ9CYbuNetHbQI1Q0xYOcPG29cu3dLxITnrAGlOyZLC1m0I6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1474975977,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14227307709978338755",
+  "user_ratings_total": 1,
+  "vicinity": "6 01 Ang Mo Kio Avenue 6, #5127 Block 635"
+}

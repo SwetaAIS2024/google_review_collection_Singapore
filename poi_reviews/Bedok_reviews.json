@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bedok, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3236038,
+      "lng": 103.9273405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348049843789095,
+        "lng": 103.964600861693
+      },
+      "southwest": {
+        "lat": 1.301852889270368,
+        "lng": 103.8961778243291
+      }
+    }
+  },
+  "name": "Bedok",
+  "place_id": "ChIJpVt39rMi2jERD2-YBlmmdLU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Bedok,+Singapore&ftid=0x31da22b3f6775ba5:0xb574a65906986f0f",
+  "vicinity": "Singapore"
+}

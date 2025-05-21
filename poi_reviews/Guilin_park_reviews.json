@@ -1,0 +1,28 @@
+{
+  "formatted_address": "2 Bukit Batok St 52, #52, Singapore 659243",
+  "geometry": {
+    "location": {
+      "lat": 1.354975,
+      "lng": 103.754135
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356275380291502,
+        "lng": 103.7555022802915
+      },
+      "southwest": {
+        "lat": 1.353577419708498,
+        "lng": 103.7528043197085
+      }
+    }
+  },
+  "name": "Guilin park",
+  "place_id": "ChIJDUWFAgAR2jERnCRDJD2T6JY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10874103191096730780",
+  "vicinity": "2 Bukit Batok Street 52, #52, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "214 Pasir Ris Street 21, Singapore 510214",
+  "geometry": {
+    "location": {
+      "lat": 1.367614,
+      "lng": 103.961614
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369223880291502,
+        "lng": 103.9632699302915
+      },
+      "southwest": {
+        "lat": 1.366525919708498,
+        "lng": 103.9605719697085
+      }
+    }
+  },
+  "name": "Public court",
+  "place_id": "ChIJYe2GKAA92jERR2MGMgJgxRw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2073168766019461959",
+  "vicinity": "214 Pasir Ris Street 21, Singapore"
+}

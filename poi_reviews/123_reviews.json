@@ -1,0 +1,28 @@
+{
+  "formatted_address": "#1243, Singapore 123456",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "123",
+  "place_id": "ChIJDxRu5zQR2jERPeFID2f32fI",
+  "types": [
+    "casino",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17499289849134899517",
+  "vicinity": "#1243"
+}

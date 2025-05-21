@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Cosford Rd, Singapore 499547",
+  "geometry": {
+    "location": {
+      "lat": 1.3653359,
+      "lng": 103.9785388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366581030291502,
+        "lng": 103.9798804802915
+      },
+      "southwest": {
+        "lat": 1.363883069708498,
+        "lng": 103.9771825197085
+      }
+    }
+  },
+  "name": "Aetos K-9 Unit",
+  "place_id": "ChIJ14URLF882jERiAe2OrDPf-w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sk Jagan",
+      "author_url": "https://www.google.com/maps/contrib/114415139377637054383/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWmJg0A8wzE5qIM62bkjsx77WgQ0aEXHvp1bHeAIvsOYtBNA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1727043432,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17041567870799447944",
+  "user_ratings_total": 1,
+  "vicinity": "Cosford Road"
+}

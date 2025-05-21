@@ -1,0 +1,28 @@
+{
+  "formatted_address": "79250 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4193,
+      "lng": 103.63671
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420615180291502,
+        "lng": 103.6380620802915
+      },
+      "southwest": {
+        "lat": 1.417917219708498,
+        "lng": 103.6353641197085
+      }
+    }
+  },
+  "name": "1 Medini Hub",
+  "place_id": "ChIJmQJBhwoM2jERrdcr8E6dunw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8987668968733661101",
+  "vicinity": "Malaysia"
+}

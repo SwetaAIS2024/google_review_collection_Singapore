@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 628277",
+  "geometry": {
+    "location": {
+      "lat": 1.2652138,
+      "lng": 103.7227249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266543080291502,
+        "lng": 103.7240632302915
+      },
+      "southwest": {
+        "lat": 1.263845119708498,
+        "lng": 103.7213652697085
+      }
+    }
+  },
+  "name": "PCS Medical Centre",
+  "place_id": "ChIJUXJaz7ME2jERuJyTyaBjUG8",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8021020478574664888",
+  "vicinity": ""
+}

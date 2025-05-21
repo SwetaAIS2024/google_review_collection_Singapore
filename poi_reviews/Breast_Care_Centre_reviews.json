@@ -1,0 +1,45 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.293576,
+      "lng": 103.7843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295076130291502,
+        "lng": 103.7857891802915
+      },
+      "southwest": {
+        "lat": 1.292378169708498,
+        "lng": 103.7830912197085
+      }
+    }
+  },
+  "name": "Breast Care Centre",
+  "place_id": "ChIJMYi78pYb2jERGXhu_fVa7p0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Justin Yeap",
+      "author_url": "https://www.google.com/maps/contrib/107872981687175286062/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCpPyCWVK5xcSfHI7jxvOQDS1kDp3Fa4jSxpkmFAyPO_fWT5p0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Good doctors and good staff here",
+      "time": 1746520792,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11380133320977184793",
+  "user_ratings_total": 1,
+  "vicinity": "5 Lower Kent Ridge Road, Singapore"
+}

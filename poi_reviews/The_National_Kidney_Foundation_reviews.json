@@ -1,0 +1,42 @@
+{
+  "formatted_address": "274 Bangkit Rd, Block 274 Block 274, Singapore 670274",
+  "geometry": {
+    "location": {
+      "lat": 1.3771518,
+      "lng": 103.7747655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378576380291502,
+        "lng": 103.7760929302915
+      },
+      "southwest": {
+        "lat": 1.375878419708498,
+        "lng": 103.7733949697085
+      }
+    }
+  },
+  "name": "The National Kidney Foundation",
+  "place_id": "ChIJdYQ0V6cR2jER9eQ8p3RsNBM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lim Chong Han",
+      "author_url": "https://www.google.com/maps/contrib/114697056585278365037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmap0Hh8s381ZUw3EfSxpyTWdQj343RIEpou02kCefwbgVnZQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559816750,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1383850233787376885",
+  "user_ratings_total": 1,
+  "vicinity": "274 Bangkit Road, Block 274 Block 274, Singapore"
+}

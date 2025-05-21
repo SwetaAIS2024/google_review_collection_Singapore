@@ -1,0 +1,68 @@
+{
+  "formatted_address": "81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3804939,
+      "lng": 103.6010273
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381854180291502,
+        "lng": 103.6024290302915
+      },
+      "southwest": {
+        "lat": 1.379156219708498,
+        "lng": 103.5997310697085
+      }
+    }
+  },
+  "name": "WAHZA COFFEE",
+  "place_id": "ChIJyUtoWwAJ2jERXQ9gVmECbi8",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Shahida Eda",
+      "author_url": "https://www.google.com/maps/contrib/103621740289674719121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHqgylE7srtGta3w9v4G3B5b3lDZIC0UB2xgU1zk2DViFxvw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Nice having coffee here with amazing view!",
+      "time": 1732813075,
+      "translated": false
+    },
+    {
+      "author_name": "mohamed sariffuddin",
+      "author_url": "https://www.google.com/maps/contrib/103156307151605988948/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdJWy6eTqu4RyZtZBExtaRD9rKe7u9C9rr9Ho1jl4qYZNkYHM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The enjoyment of freshly brewed coffee ... with the aroma of coffee that calms the soul....",
+      "time": 1737283635,
+      "translated": true
+    },
+    {
+      "author_name": "Nur Tillawatul",
+      "author_url": "https://www.google.com/maps/contrib/102546076989801649812/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIlNsN9_QQv4AmCKruyqlq9DAOX9jNxLROtUfLh5-tHTBaxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730811493,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3417671784305004381",
+  "user_ratings_total": 3,
+  "vicinity": "Gelang Patah"
+}

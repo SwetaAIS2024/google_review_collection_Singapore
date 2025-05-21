@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Punggol Coast Road, #01-10, Block E4 SIT Punggol, Singapore 828608",
+  "geometry": {
+    "location": {
+      "lat": 1.4134297,
+      "lng": 103.9140788
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.414565880291502,
+        "lng": 103.9156530802915
+      },
+      "southwest": {
+        "lat": 1.411867919708498,
+        "lng": 103.9129551197085
+      }
+    }
+  },
+  "name": "The Beef Station",
+  "place_id": "ChIJ1wv3dwAV2jERVFZ4PgGuss8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14966215832071853652",
+  "vicinity": "1 Punggol Coast Road, #01-10, Block E4 SIT Punggol, Singapore"
+}

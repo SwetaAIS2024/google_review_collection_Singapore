@@ -1,0 +1,55 @@
+{
+  "formatted_address": "No. 10 Paya Lebar Road, #02-10/11/12, Paya Lebar Quarter, Singapore 409057",
+  "geometry": {
+    "location": {
+      "lat": 1.317484,
+      "lng": 103.893248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319040780291502,
+        "lng": 103.89562415
+      },
+      "southwest": {
+        "lat": 1.316342819708498,
+        "lng": 103.89106315
+      }
+    }
+  },
+  "name": "UOB ATM - UOB PLQ Branch",
+  "place_id": "ChIJCxPEhVAZ2jERuPTshzLS2ds",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "曹三星",
+      "author_url": "https://www.google.com/maps/contrib/108101308436199605630/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMnCk5jfRt1ib9_9jYx7VKMp_ng0HFMRWvqpeCnaACJf8ocAfY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "There are so many people and the opening hours are too short😵‍💫🤦",
+      "time": 1725011585,
+      "translated": true
+    },
+    {
+      "author_name": "Tan Eng Ki",
+      "author_url": "https://www.google.com/maps/contrib/115431611322662985709/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4ScatICmT4YLwg-vTgU0WXEbl-zCadRkhO-5YMITTfQAuszc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725288517,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15841924278723081400",
+  "user_ratings_total": 2,
+  "vicinity": "No. 10 Paya Lebar Road, #02-10/11/12, Paya Lebar Quarter"
+}

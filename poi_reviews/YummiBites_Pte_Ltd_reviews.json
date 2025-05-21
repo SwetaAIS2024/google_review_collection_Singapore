@@ -1,0 +1,31 @@
+{
+  "formatted_address": "233b Victoria St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3000329,
+      "lng": 103.8550044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301310730291502,
+        "lng": 103.8564350802915
+      },
+      "southwest": {
+        "lat": 1.298612769708498,
+        "lng": 103.8537371197085
+      }
+    }
+  },
+  "name": "YummiBites Pte Ltd",
+  "place_id": "ChIJIXXfvLoZ2jERn5Qnw3ek9r8",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13832424139797271711",
+  "vicinity": "233b Victoria Street"
+}

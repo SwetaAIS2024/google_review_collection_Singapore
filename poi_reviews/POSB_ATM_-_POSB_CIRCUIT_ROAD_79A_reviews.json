@@ -1,0 +1,29 @@
+{
+  "formatted_address": "79 Circuit Rd, Singapore 371079",
+  "geometry": {
+    "location": {
+      "lat": 1.3250373,
+      "lng": 103.8848982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326395180291502,
+        "lng": 103.8862845802915
+      },
+      "southwest": {
+        "lat": 1.323697219708498,
+        "lng": 103.8835866197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB CIRCUIT ROAD/79A",
+  "place_id": "ChIJpZC4uEsZ2jERlH21938NAZA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10376589859706207636",
+  "vicinity": "79 Circuit Road"
+}

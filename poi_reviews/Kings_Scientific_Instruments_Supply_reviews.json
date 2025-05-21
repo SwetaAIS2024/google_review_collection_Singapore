@@ -1,0 +1,30 @@
+{
+  "formatted_address": "101 Kitchener Rd, Singapore 208511",
+  "geometry": {
+    "location": {
+      "lat": 1.308783,
+      "lng": 103.85821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.310163430291502,
+        "lng": 103.8595949302915
+      },
+      "southwest": {
+        "lat": 1.307465469708498,
+        "lng": 103.8568969697085
+      }
+    }
+  },
+  "name": "King's Scientific Instruments Supply",
+  "place_id": "ChIJRWljPMgZ2jER-O4O7vMi_2Y",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7421689141996220152",
+  "vicinity": "101 Kitchener Road, Singapore"
+}

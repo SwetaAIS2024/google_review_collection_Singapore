@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3172858,
+      "lng": 103.8729694
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318650930291502,
+        "lng": 103.8743729302915
+      },
+      "southwest": {
+        "lat": 1.315952969708498,
+        "lng": 103.8716749697085
+      }
+    }
+  },
+  "name": "Aft Geylang West CC",
+  "place_id": "ChIJAwJA9y0Y2jERWCbhwXK8Lr8",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Lexelle de Charmaine",
+      "author_url": "https://www.google.com/maps/contrib/103955645197442339951/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtnYjkHD-iJ5wDGjbffNDmvrOIhhcwCDPWgAiTubBKqiNz0Wno=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609055271,
+      "translated": false
+    },
+    {
+      "author_name": "Fadhilah Borhan",
+      "author_url": "https://www.google.com/maps/contrib/114401759356010719689/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzJf31yWHVlcwAbMGqhIySKPGN30-lfXxKfmzW9ECigHbmK8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498011433,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13776155511237977688",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Rochor Canal Rd, Level 1 Sim Lim Square, Singapore 188504",
+  "geometry": {
+    "location": {
+      "lat": 1.3030411,
+      "lng": 103.8529809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304176880291502,
+        "lng": 103.8542922802915
+      },
+      "southwest": {
+        "lat": 1.301478919708498,
+        "lng": 103.8515943197085
+      }
+    }
+  },
+  "name": "UOB ATM - Sim Lim Square",
+  "place_id": "ChIJy7xPxSsZ2jERiOkQXnQOgU8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5728876093949143432",
+  "vicinity": "Rochor Canal Road, Level 1 Sim Lim Square"
+}

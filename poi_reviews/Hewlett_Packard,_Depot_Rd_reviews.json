@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28219,
+      "lng": 103.80765
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283503130291502,
+        "lng": 103.8089918802915
+      },
+      "southwest": {
+        "lat": 1.280805169708498,
+        "lng": 103.8062939197085
+      }
+    }
+  },
+  "name": "Hewlett Packard, Depot Rd",
+  "place_id": "ChIJPxfnrM8b2jERLKRWXU_S-c4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14914182879324316716",
+  "vicinity": "Singapore"
+}

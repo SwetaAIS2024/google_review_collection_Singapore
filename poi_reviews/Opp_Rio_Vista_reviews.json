@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.372291,
+      "lng": 103.900459
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373683530291502,
+        "lng": 103.9018549802915
+      },
+      "southwest": {
+        "lat": 1.370985569708498,
+        "lng": 103.8991570197085
+      }
+    }
+  },
+  "name": "Opp Rio Vista",
+  "place_id": "ChIJRe-zZTAW2jERN7C-l0ou4TI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Win Aung",
+      "author_url": "https://www.google.com/maps/contrib/108118341309477257550/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9_6uG2qUP-Vp32GzoqN5ilODS9DPFx4AbufxXYbXS7EfLzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577448150,
+      "translated": false
+    },
+    {
+      "author_name": "V A",
+      "author_url": "https://www.google.com/maps/contrib/100185967826498270977/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcjVqmQh4SXb0JtL4plJAFcUZfH6Wpf8P4zejAAB72CP8ujYQj=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499528484,
+      "translated": false
+    },
+    {
+      "author_name": "鑫唐",
+      "author_url": "https://www.google.com/maps/contrib/104453675288584870974/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC3hBytREUlV65tQsFGA2KFVKpPyKjNHbmJ7pcXnuzUtGSSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1367681211,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3666262469564608567",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

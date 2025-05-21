@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3275551,
+      "lng": 103.6781141
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328936680291502,
+        "lng": 103.6794617802915
+      },
+      "southwest": {
+        "lat": 1.326238719708498,
+        "lng": 103.6767638197085
+      }
+    }
+  },
+  "name": "Joo Koon Stn Exit A",
+  "place_id": "ChIJfac1Hn4P2jERUHDkZFgxeaE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "yapquickstar1",
+      "author_url": "https://www.google.com/maps/contrib/111145202371600635848/reviews",
+      "language": "en-US",
+      "original_language": "ro",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvnFfbDSWSo83jdySslPpamxEpfZLK7WWpneAHtRJHIrx3Mrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Supermarket, sports hypemarket",
+      "time": 1597799505,
+      "translated": true
+    },
+    {
+      "author_name": "teo nayaung",
+      "author_url": "https://www.google.com/maps/contrib/115111975202950245809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdyQlAs2KVWKHA0VcOynSekZKNJBIPKCtl-crfy8TGFoH9mw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514734368,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Lau",
+      "author_url": "https://www.google.com/maps/contrib/116039791494011399424/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU0tWB91sRjzgATXQmLNKRHoxSQeItQFh47Es86BOjw2xgbxl4vQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484607485,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11635385368007962704",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

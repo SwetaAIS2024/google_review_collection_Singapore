@@ -1,0 +1,30 @@
+{
+  "formatted_address": "8 Jln Batu, Singapore 431008",
+  "geometry": {
+    "location": {
+      "lat": 1.3027647,
+      "lng": 103.8833664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304102480291502,
+        "lng": 103.8847879802915
+      },
+      "southwest": {
+        "lat": 1.301404519708498,
+        "lng": 103.8820900197085
+      }
+    }
+  },
+  "name": "Liang Kee Mini-Mart",
+  "place_id": "ChIJBQL8KEQY2jER0IWdoUeYEOA",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16145572097544783312",
+  "vicinity": "8 Jalan Batu"
+}

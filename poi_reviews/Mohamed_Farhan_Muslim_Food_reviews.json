@@ -1,0 +1,66 @@
+{
+  "formatted_address": "86 Bedok North Street 4, Singapore 460086",
+  "geometry": {
+    "location": {
+      "lat": 1.3325797,
+      "lng": 103.9387935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334022980291502,
+        "lng": 103.9401606302915
+      },
+      "southwest": {
+        "lat": 1.331325019708498,
+        "lng": 103.9374626697085
+      }
+    }
+  },
+  "name": "Mohamed Farhan Muslim Food",
+  "place_id": "ChIJu7fpx5k92jERZNT1pCZmtqY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "John Leow",
+      "author_url": "https://www.google.com/maps/contrib/116641880786684356476/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG0EF3VhanKWz8hZWRk6EBRYwtugOJ_H7n3DzPGq10BSc7es3itQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "One of the best roti prata I've tried in Singapore. Fresh, crispy, great curry. There's always a long queue on Sunday mornings.",
+      "time": 1665193676,
+      "translated": false
+    },
+    {
+      "author_name": "Faizal FLH",
+      "author_url": "https://www.google.com/maps/contrib/115490531172314272697/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT057SqRAfX4dsdlBMs2DPUjc1Iy2Spl_itrrEIhV0ZEEMsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747114236,
+      "translated": false
+    },
+    {
+      "author_name": "Saibu Ismail",
+      "author_url": "https://www.google.com/maps/contrib/105218248949673557350/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRgYSogGYsTbGppJXvP1xot1OwH3iXqUviwGa0iztOq1Yoeg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747114123,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12012901372219741284",
+  "user_ratings_total": 3,
+  "vicinity": "86 Bedok North Street 4"
+}

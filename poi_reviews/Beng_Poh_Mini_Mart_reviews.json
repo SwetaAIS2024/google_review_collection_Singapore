@@ -1,0 +1,55 @@
+{
+  "formatted_address": "21B Tampines Avenue, Singapura 529804",
+  "geometry": {
+    "location": {
+      "lat": 1.366463,
+      "lng": 103.9260819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367838830291502,
+        "lng": 103.9274234302915
+      },
+      "southwest": {
+        "lat": 1.365140869708498,
+        "lng": 103.9247254697085
+      }
+    }
+  },
+  "name": "Beng Poh Mini Mart",
+  "place_id": "ChIJa7gFKw092jERDiSoqKr298g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "justin 7390",
+      "author_url": "https://www.google.com/maps/contrib/110929613417318306625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSo7UXVMHMFGPLjIWUR5qW18VPAptg_qdcNV9iQwWgobZU-xG5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724826735,
+      "translated": false
+    },
+    {
+      "author_name": "Sridharan",
+      "author_url": "https://www.google.com/maps/contrib/118406221296590952351/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUa1NfsA6TpeJqQoCAzasrAYvCpF7T32EJ0HqKNaGSTUDXpV0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1675605142,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14481314339667584014",
+  "user_ratings_total": 2,
+  "vicinity": "21B Tampines Avenue, Singapura"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "269 Jln Kayu, Singapore 799497",
+  "geometry": {
+    "location": {
+      "lat": 1.3970913,
+      "lng": 103.8729424
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398472380291502,
+        "lng": 103.8743864302915
+      },
+      "southwest": {
+        "lat": 1.395774419708498,
+        "lng": 103.8716884697085
+      }
+    }
+  },
+  "name": "Food & Beverage International Holdings Pte Ltd",
+  "place_id": "ChIJq6q6pX4W2jERX9Ce9JJSorg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Tay Lay Hong",
+      "author_url": "https://www.google.com/maps/contrib/110137844659256591634/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwp4oEAhpZAhzY01yJt5y9qghX648vSxCeIGqNWfYeHL1G6os=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717737352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13304287040328618079",
+  "user_ratings_total": 1,
+  "vicinity": "269 Jalan Kayu"
+}

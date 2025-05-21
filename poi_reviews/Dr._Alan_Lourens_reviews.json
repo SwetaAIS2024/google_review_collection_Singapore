@@ -1,0 +1,29 @@
+{
+  "formatted_address": "7 Tanjong Rhu Rd, Singapore 436887",
+  "geometry": {
+    "location": {
+      "lat": 1.2974828,
+      "lng": 103.8830327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298954230291502,
+        "lng": 103.8843880802915
+      },
+      "southwest": {
+        "lat": 1.296256269708498,
+        "lng": 103.8816901197085
+      }
+    }
+  },
+  "name": "Dr. Alan Lourens",
+  "place_id": "ChIJUyxUJFsY2jERd1O3QAS-B4U",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9585839257356292983",
+  "vicinity": "7 Tanjong Rhu Road"
+}

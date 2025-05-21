@@ -1,0 +1,29 @@
+{
+  "formatted_address": "840 Yishun Street 81, Singapore 760840",
+  "geometry": {
+    "location": {
+      "lat": 1.4154532,
+      "lng": 103.8338508
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416743930291502,
+        "lng": 103.8351814302915
+      },
+      "southwest": {
+        "lat": 1.414045969708498,
+        "lng": 103.8324834697085
+      }
+    }
+  },
+  "name": "SCAL-NKF Dialysis Centre",
+  "place_id": "ChIJxXde_xEU2jERDKn4qQ6xcZU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10768582860558870796",
+  "vicinity": "840 Yishun Street 81, Singapore"
+}

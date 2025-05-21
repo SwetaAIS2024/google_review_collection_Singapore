@@ -1,0 +1,54 @@
+{
+  "formatted_address": "557 Jurong West Street 42, Block 557, Singapore 640557",
+  "geometry": {
+    "location": {
+      "lat": 1.3540531,
+      "lng": 103.7185825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355337080291502,
+        "lng": 103.7199525302915
+      },
+      "southwest": {
+        "lat": 1.352639119708498,
+        "lng": 103.7172545697085
+      }
+    }
+  },
+  "name": "Salon Specialist Hair and Beauty Studio",
+  "place_id": "ChIJp9_36doP2jERztpMlDWcp6U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Leon Yap",
+      "author_url": "https://www.google.com/maps/contrib/105190609056195184132/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIblNYPmU9TJ043hK-5wngO67opnPosi8A4Ln_W7Dt4sj3iXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "i have been having my haircut since i was young.\nfor more than 15 years here.\nvery customer orientated.",
+      "time": 1737183522,
+      "translated": false
+    },
+    {
+      "author_name": "Wan Zahid",
+      "author_url": "https://www.google.com/maps/contrib/116665973056680551614/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU02Uy1qwpkcaB3oKXYKfRMELMF4Y9GVxxmw4KlJ-itjxMY49Iz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607847079,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hair_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11936681091304053454",
+  "user_ratings_total": 2,
+  "vicinity": "557 Jurong West Street 42, Block 557, Singapore"
+}

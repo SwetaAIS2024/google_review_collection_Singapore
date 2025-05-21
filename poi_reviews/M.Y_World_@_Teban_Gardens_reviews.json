@@ -1,0 +1,28 @@
+{
+  "formatted_address": "55 Teban Gardens Rd, #01-455, Singapore 600055",
+  "geometry": {
+    "location": {
+      "lat": 1.32185,
+      "lng": 103.7374012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323167880291502,
+        "lng": 103.7387794802915
+      },
+      "southwest": {
+        "lat": 1.320469919708498,
+        "lng": 103.7360815197085
+      }
+    }
+  },
+  "name": "M.Y World @ Teban Gardens",
+  "place_id": "ChIJp2DF2a4a2jERmS8fo7JB6tk",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15702435286277369753",
+  "vicinity": "55 Teban Gardens Road, #01-455"
+}

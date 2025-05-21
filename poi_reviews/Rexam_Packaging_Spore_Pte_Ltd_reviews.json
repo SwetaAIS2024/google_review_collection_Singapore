@@ -1,0 +1,30 @@
+{
+  "formatted_address": "4 Tuas Ave 20, Singapore 639819",
+  "geometry": {
+    "location": {
+      "lat": 1.3286741,
+      "lng": 103.6395277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329938230291502,
+        "lng": 103.6409689302915
+      },
+      "southwest": {
+        "lat": 1.327240269708498,
+        "lng": 103.6382709697085
+      }
+    }
+  },
+  "name": "Rexam Packaging S'pore Pte Ltd",
+  "place_id": "ChIJ9-i3m1UP2jERGb0q_uvPJOI",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16295377964221775129",
+  "vicinity": "4 Tuas Avenue 20"
+}

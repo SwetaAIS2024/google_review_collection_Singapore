@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6A Napier Rd, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308840180291502,
+        "lng": 103.8211869302915
+      },
+      "southwest": {
+        "lat": 1.306142219708498,
+        "lng": 103.8184889697085
+      }
+    }
+  },
+  "name": "Gleneagles Hospital Annexe Block",
+  "place_id": "ChIJr2SuCwAb2jERWi6zAdcxNg8",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1096118358827544154",
+  "vicinity": "6A Napier Road"
+}

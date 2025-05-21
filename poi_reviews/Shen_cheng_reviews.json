@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Bishan, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3595028,
+      "lng": 103.8341091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360195980291502,
+        "lng": 103.8350222802915
+      },
+      "southwest": {
+        "lat": 1.357498019708498,
+        "lng": 103.8323243197085
+      }
+    }
+  },
+  "name": "Shen cheng",
+  "place_id": "ChIJn5WJCwAX2jERFldHPm0oUGU",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7300379445628983062",
+  "vicinity": ""
+}

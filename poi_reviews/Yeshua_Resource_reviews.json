@@ -1,0 +1,43 @@
+{
+  "formatted_address": "143 Pasir Ris Street 11, Block 143, Singapore 510143",
+  "geometry": {
+    "location": {
+      "lat": 1.3623195,
+      "lng": 103.9602848
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363708580291502,
+        "lng": 103.9616706302915
+      },
+      "southwest": {
+        "lat": 1.361010619708498,
+        "lng": 103.9589726697085
+      }
+    }
+  },
+  "name": "Yeshua Resource",
+  "place_id": "ChIJpxr-GAA92jEROec_uffhxOg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "mervyn How",
+      "author_url": "https://www.google.com/maps/contrib/103541297928117409921/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjklwzO2iNZG1xff6dWOZ07VbbYRh19BTh4MDisjnUL2PeZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Cant get hold of anyone",
+      "time": 1713601285,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16772779366315714361",
+  "user_ratings_total": 1,
+  "vicinity": "143 Pasir Ris Street 11, Block 143"
+}

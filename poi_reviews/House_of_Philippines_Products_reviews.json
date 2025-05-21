@@ -1,0 +1,30 @@
+{
+  "formatted_address": "304 Orchard Rd, Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3042934,
+      "lng": 103.8340165
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305545730291502,
+        "lng": 103.8353169302915
+      },
+      "southwest": {
+        "lat": 1.302847769708498,
+        "lng": 103.8326189697085
+      }
+    }
+  },
+  "name": "House of Philippines Products",
+  "place_id": "ChIJHXFAbZIZ2jERgS4G0JWMTBI",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1318583365980794497",
+  "vicinity": "304 Orchard Road, Lucky Plaza"
+}

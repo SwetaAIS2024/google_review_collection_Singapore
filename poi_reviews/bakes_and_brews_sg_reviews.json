@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9008 Tampines Street 93, #02-03, Singapore 528843",
+  "geometry": {
+    "location": {
+      "lat": 1.3418201,
+      "lng": 103.9425423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343218430291502,
+        "lng": 103.9437901802915
+      },
+      "southwest": {
+        "lat": 1.340520469708498,
+        "lng": 103.9410922197085
+      }
+    }
+  },
+  "name": "bakes and brews sg",
+  "place_id": "ChIJc43HFbg92jERb_gESb1n6xE",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1291239780843321455",
+  "vicinity": "9008 Tampines Street 93, #02-03"
+}

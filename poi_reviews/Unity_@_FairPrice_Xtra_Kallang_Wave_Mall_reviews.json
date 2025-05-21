@@ -1,0 +1,46 @@
+{
+  "formatted_address": "1 Stadium Pl, #01-29, Singapore 397628",
+  "geometry": {
+    "location": {
+      "lat": 1.3037048,
+      "lng": 103.8730855
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305365880291502,
+        "lng": 103.8739655302915
+      },
+      "southwest": {
+        "lat": 1.302667919708498,
+        "lng": 103.8712675697085
+      }
+    }
+  },
+  "name": "Unity @ FairPrice Xtra Kallang Wave Mall",
+  "place_id": "ChIJ3eyjf20Z2jERo42fhZI8eT4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "zoe ng",
+      "author_url": "https://www.google.com/maps/contrib/103148742880304938268/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPzu_uzL7l6ygMtcsqwtAyA1nmpi2JbHRRD2cSt-XnbzgyXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I would like to compliment Rathi from Fairprice extra Unity (sorry I’m not sure if I spelled her name correctly) and a pharmacist who assisted her that I did not manage to get the name. They helped me greatly today at 10am, seeking medication for my girl. Thank you very very much for your kindness.",
+      "time": 1742713064,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4501695902538239395",
+  "user_ratings_total": 1,
+  "vicinity": "1 Stadium Place, #01-29"
+}

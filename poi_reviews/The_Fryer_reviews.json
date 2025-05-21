@@ -1,0 +1,43 @@
+{
+  "formatted_address": "626 Choa Chu Kang Street 62, Singapore 680626",
+  "geometry": {
+    "location": {
+      "lat": 1.3983667,
+      "lng": 103.745797
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399783730291502,
+        "lng": 103.7471719302915
+      },
+      "southwest": {
+        "lat": 1.397085769708498,
+        "lng": 103.7444739697085
+      }
+    }
+  },
+  "name": "The Fryer",
+  "place_id": "ChIJNxMtGkwR2jERFaAWmA27psI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "saravana vadivel",
+      "author_url": "https://www.google.com/maps/contrib/116075103113126018336/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSN0h3NzQetSvDtFv-KkVXJBzfP94JpCsRVpuMdWH_VwZujSrb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744906528,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14026103756552577045",
+  "user_ratings_total": 1,
+  "vicinity": "626 Choa Chu Kang Street 62"
+}

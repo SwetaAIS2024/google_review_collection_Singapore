@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337911,
+      "lng": 103.931305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339137480291502,
+        "lng": 103.9323693802915
+      },
+      "southwest": {
+        "lat": 1.336439519708498,
+        "lng": 103.9296714197085
+      }
+    }
+  },
+  "name": "Waterfront Key",
+  "place_id": "ChIJNetZLEQ92jER-sbwwJRvolU",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Lydia Li",
+      "author_url": "https://www.google.com/maps/contrib/115409012302700527166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZW_4OvwWCWMnCyaaeCXmECMM5ILaReF59O0M_hmFisD4jsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513065621,
+      "translated": false
+    },
+    {
+      "author_name": "刘佟林",
+      "author_url": "https://www.google.com/maps/contrib/100809581274702686481/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnx7AZy8nfmzp1pVUQ2olqhgulFAtGVfOFqXPOggxIYU4KLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1466767280,
+      "translated": false
+    },
+    {
+      "author_name": "Alden Boyd",
+      "author_url": "https://www.google.com/maps/contrib/105405063145775341157/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqUgpdgzayE9GaiW6RVpRY-rxyT1Qus84d3BPUqwtPeLnX3h670A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1399027471,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6170617124133848826",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

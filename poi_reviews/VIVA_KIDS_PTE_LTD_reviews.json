@@ -1,0 +1,44 @@
+{
+  "formatted_address": "55 Serangoon Garden Way, Singapore 555951",
+  "geometry": {
+    "location": {
+      "lat": 1.3633187,
+      "lng": 103.8657902
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.364626330291502,
+        "lng": 103.8671962302915
+      },
+      "southwest": {
+        "lat": 1.361928369708498,
+        "lng": 103.8644982697085
+      }
+    }
+  },
+  "name": "VIVA KIDS PTE LTD",
+  "place_id": "ChIJLSTKJwAX2jERCkIUhU0epvw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Vnilla",
+      "author_url": "https://www.google.com/maps/contrib/101269275767930777206/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRy29BYJMFm0ibeEEagxNeXA9FtqPnY-GKk-H53XbFFUf2TLIn=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "it's nice 👍🏼🙂.",
+      "time": 1746077075,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18205271861985821194",
+  "user_ratings_total": 1,
+  "vicinity": "55 Serangoon Garden Way"
+}

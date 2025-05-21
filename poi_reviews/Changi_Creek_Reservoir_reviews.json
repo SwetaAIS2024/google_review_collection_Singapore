@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3859426,
+      "lng": 103.994844
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387168180291502,
+        "lng": 103.9956841802915
+      },
+      "southwest": {
+        "lat": 1.384470219708498,
+        "lng": 103.9929862197085
+      }
+    }
+  },
+  "name": "Changi Creek Reservoir",
+  "place_id": "ChIJxZY9EGE92jER9hj993TLm3Y",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Discovery Real",
+      "author_url": "https://www.google.com/maps/contrib/104825126667925517930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMf0_fLDv-FxfPrGt9w_I1CI4IqBSg0ce2ZD8qf3--jpanQBvf=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707562549,
+      "translated": false
+    },
+    {
+      "author_name": "Jeffery LAM",
+      "author_url": "https://www.google.com/maps/contrib/117798067217371899798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcauir3sgAF3CBf5s_-aFU3DtjlmdpHSoLTxAzKxOKexdO5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726128754,
+      "translated": false
+    },
+    {
+      "author_name": "Yi Kang Ng",
+      "author_url": "https://www.google.com/maps/contrib/108619597284500748522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImXzn2rKEhjiwj8vdSXNZU8mIfK3mVNP8Lzgr1AI9NpVckPw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1673578267,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8546648421102852342",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

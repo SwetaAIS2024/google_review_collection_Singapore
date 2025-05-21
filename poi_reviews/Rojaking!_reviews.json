@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26A Chai Chee Rd, Singapore 461026",
+  "geometry": {
+    "location": {
+      "lat": 1.3239352,
+      "lng": 103.9235018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325117230291502,
+        "lng": 103.9246368802915
+      },
+      "southwest": {
+        "lat": 1.322419269708498,
+        "lng": 103.9219389197085
+      }
+    }
+  },
+  "name": "Rojaking!",
+  "place_id": "ChIJL77PBq0i2jERM8R_C3PU7oE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9362654265929090099",
+  "vicinity": "26A Chai Chee Road, Singapore"
+}

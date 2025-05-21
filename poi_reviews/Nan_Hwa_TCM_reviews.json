@@ -1,0 +1,43 @@
+{
+  "formatted_address": "915 Tampines Street 91, Singapore 520915",
+  "geometry": {
+    "location": {
+      "lat": 1.3486027,
+      "lng": 103.9395707
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.350043380291502,
+        "lng": 103.9409369802915
+      },
+      "southwest": {
+        "lat": 1.347345419708498,
+        "lng": 103.9382390197085
+      }
+    }
+  },
+  "name": "Nan Hwa TCM",
+  "place_id": "ChIJDWhzkRQ92jERFT3uMqdi_H0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alex Hee",
+      "author_url": "https://www.google.com/maps/contrib/116566119159696018842/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzxARh_N8amyYAsMm3goMiZuhQfGiWC0j_O9OP0s7S4oW-QZU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533345623,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9078239419125611797",
+  "user_ratings_total": 1,
+  "vicinity": "915 Tampines Street 91"
+}

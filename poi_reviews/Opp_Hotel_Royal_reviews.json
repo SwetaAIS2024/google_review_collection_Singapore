@@ -1,0 +1,89 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317435,
+      "lng": 103.841438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318871130291502,
+        "lng": 103.8428321302915
+      },
+      "southwest": {
+        "lat": 1.316173169708498,
+        "lng": 103.8401341697085
+      }
+    }
+  },
+  "name": "Opp Hotel Royal",
+  "place_id": "ChIJ_VdEKeYZ2jERQq35CBsqr5s",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "This bus stop is definitely clean, and very well built. Shelters are also built towards the overhead bridge, that brings you towards Hotel Royal. But one big issue I have is that the shelter is not built through and through, so you'll definitely be caught in the rain if you alight here. You cannot walk to anyways proper to hide from the rain even if you wanted to, because the shelter ends right after the overhead bridge ends.",
+      "time": 1628390871,
+      "translated": false
+    },
+    {
+      "author_name": "Florenda Daileg",
+      "author_url": "https://www.google.com/maps/contrib/107176325281209416203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaVyOOvwu3cnGoHdJlKKPELC5FMVR-0R3kfDkET79OrBUsbsn5bA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very convenient location.",
+      "time": 1685753805,
+      "translated": false
+    },
+    {
+      "author_name": "Alan gao",
+      "author_url": "https://www.google.com/maps/contrib/113059527340148756660/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiz2X1ypV2kZN02V0Pe1jVlGlghoZLqZYLUomhWLxbg36W0NlC=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Wifi is terrible",
+      "time": 1491719658,
+      "translated": true
+    },
+    {
+      "author_name": "Low Micheal",
+      "author_url": "https://www.google.com/maps/contrib/105202612034502176309/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbxqQhDJ1XLp1RVfGLMlzLEV8OjboOhSVY5O3gMFdvlrR-zQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484733977,
+      "translated": false
+    },
+    {
+      "author_name": "Sapol Wongissares",
+      "author_url": "https://www.google.com/maps/contrib/103803364850343266863/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkhyPmlZZnIsOU8hhml9DDG1NJkBwbjbF5x22EpV2zKLsaqXQw2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481810963,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11218231492406259010",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

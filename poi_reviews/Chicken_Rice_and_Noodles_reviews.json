@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Yishun Ave 5, Singapore 760101",
+  "geometry": {
+    "location": {
+      "lat": 1.4275469,
+      "lng": 103.8371398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.429261780291502,
+        "lng": 103.8386812802915
+      },
+      "southwest": {
+        "lat": 1.426563819708498,
+        "lng": 103.8359833197085
+      }
+    }
+  },
+  "name": "Chicken Rice & Noodles",
+  "place_id": "ChIJmW3MHW8U2jERvN-J6FRQypw",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11297930940821135292",
+  "vicinity": "Yishun Avenue 5, Singapore"
+}

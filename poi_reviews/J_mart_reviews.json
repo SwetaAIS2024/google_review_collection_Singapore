@@ -1,0 +1,30 @@
+{
+  "formatted_address": "61 Telok Blangah Heights, #01-111, Singapore 100061",
+  "geometry": {
+    "location": {
+      "lat": 1.2756537,
+      "lng": 103.812254
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276905630291502,
+        "lng": 103.8135611802915
+      },
+      "southwest": {
+        "lat": 1.274207669708498,
+        "lng": 103.8108632197085
+      }
+    }
+  },
+  "name": "J mart",
+  "place_id": "ChIJJfgpTCwb2jERD0ukpr0fSA8",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1101165008297151247",
+  "vicinity": "61 Telok Blangah Heights, #01-111"
+}

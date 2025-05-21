@@ -1,0 +1,44 @@
+{
+  "formatted_address": "500 Upper Jurong Rd, Singapore 638364",
+  "geometry": {
+    "location": {
+      "lat": 1.3372002,
+      "lng": 103.682036
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338622580291502,
+        "lng": 103.6833851302915
+      },
+      "southwest": {
+        "lat": 1.335924619708498,
+        "lng": 103.6806871697085
+      }
+    }
+  },
+  "name": "OCS Echo Wing",
+  "place_id": "ChIJBymmU28P2jERL0JXnkMjpGI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "C Q",
+      "author_url": "https://www.google.com/maps/contrib/107244494536077462142/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNuzG-eJU63t9VgrZxp742zL66-8HQEUYGU502FLGj4l-4A_57=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Learn to fly like an Eagle here.",
+      "time": 1681602389,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7107844885223785007",
+  "user_ratings_total": 1,
+  "vicinity": "500 Upper Jurong Road, Singapore"
+}

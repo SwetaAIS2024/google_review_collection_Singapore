@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Defu Lane 2, Singapore 539466",
+  "geometry": {
+    "location": {
+      "lat": 1.35992,
+      "lng": 103.9026407
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361274630291502,
+        "lng": 103.9040206802915
+      },
+      "southwest": {
+        "lat": 1.358576669708498,
+        "lng": 103.9013227197085
+      }
+    }
+  },
+  "name": "Dr.Nest Singapore",
+  "place_id": "ChIJFyX7js0X2jER7PWWhufIp9Q",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15323437153872442860",
+  "vicinity": "Defu Lane 2"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.41906,
+      "lng": 103.84097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420405380291502,
+        "lng": 103.8423273302915
+      },
+      "southwest": {
+        "lat": 1.417707419708498,
+        "lng": 103.8396293697085
+      }
+    }
+  },
+  "name": "Blk 671 CP, Yishun Ave 4",
+  "place_id": "ChIJgcGv6RQU2jERrJPEC4fzTY0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10182062093898126252",
+  "vicinity": "Singapore"
+}

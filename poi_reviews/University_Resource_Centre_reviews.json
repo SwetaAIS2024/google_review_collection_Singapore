@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Dover Dr, Singapore 138683",
+  "geometry": {
+    "location": {
+      "lat": 1.3008603,
+      "lng": 103.7803346
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302260580291502,
+        "lng": 103.7817274302915
+      },
+      "southwest": {
+        "lat": 1.299562619708498,
+        "lng": 103.7790294697085
+      }
+    }
+  },
+  "name": "University Resource Centre",
+  "place_id": "ChIJeY8TZFAb2jERKufelnbVAQY",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=432861744518326058",
+  "vicinity": "10 Dover Drive"
+}

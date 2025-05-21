@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Tg Pagar Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2732541,
+      "lng": 103.8430743
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274596830291502,
+        "lng": 103.8444618302915
+      },
+      "southwest": {
+        "lat": 1.271898869708498,
+        "lng": 103.8417638697085
+      }
+    }
+  },
+  "name": "Opp Fuji Xerox Twrs",
+  "place_id": "ChIJ1cT_GWsZ2jER19Z7wHTRgtM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "alamin alamin",
+      "author_url": "https://www.google.com/maps/contrib/102435642991871610280/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvqYZ8HoTytvyemNqqdru5mL0S9nylebmpCeQIwmn2rAAGr-f2Ag=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506638210,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15240974388350932695",
+  "user_ratings_total": 1,
+  "vicinity": "Tanjong Pagar Road"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1003 Bukit Merah Central, Singapore 159836",
+  "geometry": {
+    "location": {
+      "lat": 1.2833659,
+      "lng": 103.8144756
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284792380291502,
+        "lng": 103.8158624802915
+      },
+      "southwest": {
+        "lat": 1.282094419708498,
+        "lng": 103.8131645197085
+      }
+    }
+  },
+  "name": "English Corner Publishing Pte Ltd",
+  "place_id": "ChIJtYJ0QNEb2jER4kpppXrD4P8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rahul Grover",
+      "author_url": "https://www.google.com/maps/contrib/107721097357484635582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4YxhVf_PD3f4UjrQzvaN7pFZHcqgoZlTZaZRQUquwCakZNA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486877617,
+      "translated": false
+    }
+  ],
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18437951805983378146",
+  "user_ratings_total": 1,
+  "vicinity": "1003 Bukit Merah Central"
+}

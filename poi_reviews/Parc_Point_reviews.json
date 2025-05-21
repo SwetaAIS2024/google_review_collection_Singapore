@@ -1,0 +1,42 @@
+{
+  "formatted_address": "302 Tengah Park Avenue, Singapore 690302",
+  "geometry": {
+    "location": {
+      "lat": 1.3606308,
+      "lng": 103.7388824
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362233680291502,
+        "lng": 103.7402931802915
+      },
+      "southwest": {
+        "lat": 1.359535719708498,
+        "lng": 103.7375952197085
+      }
+    }
+  },
+  "name": "Parc Point",
+  "place_id": "ChIJ0WoEWwAR2jERUz93FchKAJs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jared Lee",
+      "author_url": "https://www.google.com/maps/contrib/110984709159146876525/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbEQXyUkKOp1h3TJUJiudcK0mX-EhcUk0no9fdgnb_pxMnzgYE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741570664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11169009299092881235",
+  "user_ratings_total": 1,
+  "vicinity": "302 Tengah Park Avenue, Singapore"
+}

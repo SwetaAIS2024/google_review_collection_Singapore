@@ -1,0 +1,41 @@
+{
+  "formatted_address": "22 Bah Soon Pah Rd, Singapore 769967",
+  "geometry": {
+    "location": {
+      "lat": 1.4176449,
+      "lng": 103.8284054
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419209280291502,
+        "lng": 103.8300774802915
+      },
+      "southwest": {
+        "lat": 1.416511319708498,
+        "lng": 103.8273795197085
+      }
+    }
+  },
+  "name": "Con-Bilt Pte Ltd",
+  "place_id": "ChIJoWzTcgwU2jER8ajo3JLqZQA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Quek Swee Poh",
+      "author_url": "https://www.google.com/maps/contrib/105231849785972376625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHzrx81euPFa9j8Bvr9PfH-Ou1tAh0mQHc4HZCQmUGifxBEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1540192221,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=28686889140136177",
+  "user_ratings_total": 1,
+  "vicinity": "22 Bah Soon Pah Road"
+}

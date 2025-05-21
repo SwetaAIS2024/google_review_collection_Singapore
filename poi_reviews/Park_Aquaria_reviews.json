@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Pasir Ris, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3647499,
+      "lng": 103.9587039
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366130980291502,
+        "lng": 103.9600746302915
+      },
+      "southwest": {
+        "lat": 1.363433019708498,
+        "lng": 103.9573766697085
+      }
+    }
+  },
+  "name": "Park Aquaria",
+  "place_id": "ChIJNZ8HHC492jER08Oay4alGbk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706334748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13337873769794552787",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

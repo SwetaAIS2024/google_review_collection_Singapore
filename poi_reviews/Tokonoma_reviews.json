@@ -1,0 +1,28 @@
+{
+  "formatted_address": "16 Shaw Rd, #03-10, Singapore 367954",
+  "geometry": {
+    "location": {
+      "lat": 1.3366029,
+      "lng": 103.8837154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337915630291502,
+        "lng": 103.8851303302915
+      },
+      "southwest": {
+        "lat": 1.335217669708498,
+        "lng": 103.8824323697085
+      }
+    }
+  },
+  "name": "Tokonoma",
+  "place_id": "ChIJD6zhNPYX2jERbrIvK4Sg1m4",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7986747478708826734",
+  "vicinity": "16 Shaw Road, #03-10"
+}

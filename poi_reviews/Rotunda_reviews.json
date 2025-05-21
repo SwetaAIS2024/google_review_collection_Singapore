@@ -1,0 +1,41 @@
+{
+  "formatted_address": "180 Island Club Rd, Singapore 578774",
+  "geometry": {
+    "location": {
+      "lat": 1.3641642,
+      "lng": 103.8216266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.36571995,
+        "lng": 103.8232240802915
+      },
+      "southwest": {
+        "lat": 1.35949695,
+        "lng": 103.8205261197085
+      }
+    }
+  },
+  "name": "Rotunda",
+  "place_id": "ChIJEVNVVdUW2jERzDVJPpMqNK4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "NA Sun",
+      "author_url": "https://www.google.com/maps/contrib/112318781154233449781/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKF6EXcI2JXasP-zqs6rN27eU0abYvE0kZSMbMtJO2vt_8Aw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502108669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12552704873281959372",
+  "user_ratings_total": 1,
+  "vicinity": "180 Island Club Road"
+}

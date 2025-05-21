@@ -1,0 +1,65 @@
+{
+  "formatted_address": "1 Raffles Quay, #20-01, Singapore 048583",
+  "geometry": {
+    "location": {
+      "lat": 1.2810929,
+      "lng": 103.8516576
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282824180291502,
+        "lng": 103.8531940302915
+      },
+      "southwest": {
+        "lat": 1.280126219708498,
+        "lng": 103.8504960697085
+      }
+    }
+  },
+  "name": "Bank Of Nova Scotia",
+  "place_id": "ChIJHXaCig4Z2jERwQF_07kntgE",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Wilson Isenor",
+      "author_url": "https://www.google.com/maps/contrib/111240079038787619052/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2X1vmBzsMV_7sMeAnOsKzY4sjyRss6xqv3w8BAqc0Xtdjnw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Just corporate offices, no ATMs or tellers\n\n5 stars just because the lobby is air conditioned",
+      "time": 1580875953,
+      "translated": false
+    },
+    {
+      "author_name": "LIM AC",
+      "author_url": "https://www.google.com/maps/contrib/100726500569192984647/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXDg6c8ynFQniC_0mtUwBxIe7cP3fjuf3A_0e7-Ewmdc2IlA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1535455973,
+      "translated": false
+    },
+    {
+      "author_name": "Jerald Ritter",
+      "author_url": "https://www.google.com/maps/contrib/109361552238016063115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOCzopSt1tyE4tWxnomiwP9HmB4a4PLpuzpUVMBkEIHo7Omw2aWg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504164447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=123329718870016449",
+  "user_ratings_total": 3,
+  "vicinity": "1 Raffles Quay, #20-01, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Blk 163 Jalan Bukit Merah, #04-3565 3575, Singapore 150163",
+  "geometry": {
+    "location": {
+      "lat": 1.2836976,
+      "lng": 103.816975
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284946130291502,
+        "lng": 103.8179420802915
+      },
+      "southwest": {
+        "lat": 1.282248169708498,
+        "lng": 103.8152441197085
+      }
+    }
+  },
+  "name": "SingHealth Pharmacare @ Bukit Merah Polyclinic",
+  "place_id": "ChIJo6EkpY4b2jER51lrOZMIN-E",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16228449210669423079",
+  "vicinity": "Blk 163 Jalan Bukit Merah, #04-3565 3575"
+}

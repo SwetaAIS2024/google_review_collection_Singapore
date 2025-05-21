@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 HOUGANG STREET 51 #01-00 HOUGANG GREEN SHOPPING CENTRE, Singapore 538719",
+  "geometry": {
+    "location": {
+      "lat": 1.3792668,
+      "lng": 103.8878925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380507930291502,
+        "lng": 103.8892034302915
+      },
+      "southwest": {
+        "lat": 1.377809969708498,
+        "lng": 103.8865054697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB HOUGANG GREEN",
+  "place_id": "ChIJI8epiqoX2jERVNKISa3aaR0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2119465537452429908",
+  "vicinity": "21 HOUGANG STREET 51 #01-00 HOUGANG GREEN SHOPPING CENTRE"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "47E Tuas South Ave 1, Singapore 637243",
+  "geometry": {
+    "location": {
+      "lat": 1.3188258,
+      "lng": 103.6288893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320189530291502,
+        "lng": 103.6301970302915
+      },
+      "southwest": {
+        "lat": 1.317491569708498,
+        "lng": 103.6274990697085
+      }
+    }
+  },
+  "name": "Diamond Aviation Pte. Ltd.",
+  "place_id": "ChIJ930CjQUG2jERBN0YGvzRhtA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Pappyia M",
+      "author_url": "https://www.google.com/maps/contrib/101224067847461535203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPEgMJ9qMmi_d-KWlYcDfFxHC1TEy7vgjHZ0tZgNL3b7RKrq0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Sunday closed",
+      "time": 1673783358,
+      "translated": false
+    },
+    {
+      "author_name": "Hawaijahaz GSE",
+      "author_url": "https://www.google.com/maps/contrib/117638911637172676685/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoTajVNxtGP6vqcOEuoyN4RDNtfvJOfD8CpKW0cjpEytPdQbQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662774530,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15025928087468039428",
+  "user_ratings_total": 2,
+  "vicinity": "47E Tuas South Avenue 1"
+}

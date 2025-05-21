@@ -1,0 +1,27 @@
+{
+  "formatted_address": "12 Sungei Kadut Loop, Singapore 729456",
+  "geometry": {
+    "location": {
+      "lat": 1.4192174,
+      "lng": 103.7412152
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420624180291502,
+        "lng": 103.7427267302915
+      },
+      "southwest": {
+        "lat": 1.417926219708498,
+        "lng": 103.7400287697085
+      }
+    }
+  },
+  "name": "S2M",
+  "place_id": "ChIJUQaumhIS2jERD7ENYBRBRiA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2325617813350101263",
+  "vicinity": "12 Sungei Kadut Loop"
+}

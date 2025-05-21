@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.346945,
+      "lng": 103.764648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348336480291502,
+        "lng": 103.7659837302915
+      },
+      "southwest": {
+        "lat": 1.345638519708498,
+        "lng": 103.7632857697085
+      }
+    }
+  },
+  "name": "Park Natura",
+  "place_id": "ChIJ8RiaOF0Q2jEREbAgwVxrasE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13937070042972729361",
+  "vicinity": "Singapore"
+}

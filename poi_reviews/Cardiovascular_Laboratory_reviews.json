@@ -1,0 +1,30 @@
+{
+  "formatted_address": "820 Thomson Rd, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.341499,
+      "lng": 103.837625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342890730291502,
+        "lng": 103.8389680302915
+      },
+      "southwest": {
+        "lat": 1.340192769708498,
+        "lng": 103.8362700697085
+      }
+    }
+  },
+  "name": "Cardiovascular Laboratory",
+  "place_id": "ChIJH6LjvUYX2jER7NbgGq4NzMo",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14613069932336830188",
+  "vicinity": "820 Thomson Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.283095,
+      "lng": 103.8635201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284216049190086,
+        "lng": 103.8656919749127
+      },
+      "southwest": {
+        "lat": 1.281518088607081,
+        "lng": 103.8629940143296
+      }
+    }
+  },
+  "name": "Chinese Garden",
+  "place_id": "ChIJfcpslQMZ2jER3BZcpH8Id2Y",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da1903956cca7d:0x6677087fa45c16dc",
+  "vicinity": "Singapore"
+}

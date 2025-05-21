@@ -1,0 +1,56 @@
+{
+  "formatted_address": "122 Middle Rd, Singapore 188973",
+  "geometry": {
+    "location": {
+      "lat": 1.299523,
+      "lng": 103.853104
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300819180291502,
+        "lng": 103.8544102302915
+      },
+      "southwest": {
+        "lat": 1.298121219708498,
+        "lng": 103.8517122697085
+      }
+    }
+  },
+  "name": "Queensfield International Business School Pte Ltd",
+  "place_id": "ChIJA4caIrsZ2jEREkbyVS1-KrU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gia Bảo Vũ Nguyên",
+      "author_url": "https://www.google.com/maps/contrib/110848631743646908261/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbBvWEcFknrc8GnHT9LzbSKOma4p6yPgnNTWFZImMCjV6exw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Every day passes.",
+      "time": 1513778402,
+      "translated": true
+    },
+    {
+      "author_name": "Md Abdul Latif",
+      "author_url": "https://www.google.com/maps/contrib/116715775403304607600/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGGCkcE4AcstRBHIh4hNKF8medOUk90h3_mAKLf8cUM1VNfKPDZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577620552,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13054385203067373074",
+  "user_ratings_total": 2,
+  "vicinity": "122 Middle Road"
+}

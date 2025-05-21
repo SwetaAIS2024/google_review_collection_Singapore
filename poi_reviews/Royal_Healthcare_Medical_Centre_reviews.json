@@ -1,0 +1,29 @@
+{
+  "formatted_address": "101 Irrawaddy Rd, Level 7 Royal Square Medical Centre, Singapore 329565",
+  "geometry": {
+    "location": {
+      "lat": 1.3206053,
+      "lng": 103.8432372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322038230291502,
+        "lng": 103.8445538802915
+      },
+      "southwest": {
+        "lat": 1.319340269708498,
+        "lng": 103.8418559197085
+      }
+    }
+  },
+  "name": "Royal Healthcare Medical Centre",
+  "place_id": "ChIJme7LkncZ2jERTqFDLeqbt_0",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18282252642417877326",
+  "vicinity": "101 Irrawaddy Road, Level 7 Royal Square Medical Centre"
+}

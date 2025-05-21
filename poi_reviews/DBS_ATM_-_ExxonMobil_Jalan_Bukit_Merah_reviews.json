@@ -1,0 +1,53 @@
+{
+  "formatted_address": "2991 Jalan Bukit Merah, Singapore 159458",
+  "geometry": {
+    "location": {
+      "lat": 1.2825481,
+      "lng": 103.8213768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283949280291502,
+        "lng": 103.8227473302915
+      },
+      "southwest": {
+        "lat": 1.281251319708498,
+        "lng": 103.8200493697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Jalan Bukit Merah",
+  "place_id": "ChIJ08NasTsb2jERPi04EoJ441M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hao Zheng Wong",
+      "author_url": "https://www.google.com/maps/contrib/108134650985926173606/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8qHeuF7fnIeLSN-b2qGDmCzt0jqpltvvTEt94LPKMaO8JzmzudA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487915110,
+      "translated": false
+    },
+    {
+      "author_name": "Thu Le",
+      "author_url": "https://www.google.com/maps/contrib/109857761500327593964/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpZBCDkENcGvlwDie535G7fJ0HchHaj6XYJGOx5pJmsxfJmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484471055,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6044807624908090686",
+  "user_ratings_total": 2,
+  "vicinity": "2991 Jalan Bukit Merah, Singapore"
+}

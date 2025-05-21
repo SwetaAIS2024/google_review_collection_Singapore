@@ -1,0 +1,30 @@
+{
+  "formatted_address": "226F Ang Mo Kio Ave 1, Singapore 566226",
+  "geometry": {
+    "location": {
+      "lat": 1.3666811,
+      "lng": 103.8395299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368037930291502,
+        "lng": 103.8409703802915
+      },
+      "southwest": {
+        "lat": 1.365339969708498,
+        "lng": 103.8382724197085
+      }
+    }
+  },
+  "name": "City Plaza Home Made Noodle",
+  "place_id": "ChIJ17yCegAX2jERGaDtN1qca8c",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14369750947355009049",
+  "vicinity": "226F Ang Mo Kio Avenue 1"
+}

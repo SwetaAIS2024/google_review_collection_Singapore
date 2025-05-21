@@ -1,0 +1,31 @@
+{
+  "formatted_address": "311 Orchard Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3012828,
+      "lng": 103.8389279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302661580291502,
+        "lng": 103.8402867802915
+      },
+      "southwest": {
+        "lat": 1.299963619708498,
+        "lng": 103.8375888197085
+      }
+    }
+  },
+  "name": "Thai Mart Eleven",
+  "place_id": "ChIJI1s8YwAZ2jERoYLeOSR10fM",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17568952419799171745",
+  "vicinity": "311 Orchard Road"
+}

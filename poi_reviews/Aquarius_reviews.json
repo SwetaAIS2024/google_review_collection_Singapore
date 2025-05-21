@@ -1,0 +1,42 @@
+{
+  "formatted_address": "100 Jln Sultan, Sultan Plaza, Singapore 199001",
+  "geometry": {
+    "location": {
+      "lat": 1.3031988,
+      "lng": 103.8621058
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304578330291502,
+        "lng": 103.8634996302915
+      },
+      "southwest": {
+        "lat": 1.301880369708498,
+        "lng": 103.8608016697085
+      }
+    }
+  },
+  "name": "Aquarius",
+  "place_id": "ChIJBVaKOgAZ2jER6Llnkqy-VUw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Roland Gomez",
+      "author_url": "https://www.google.com/maps/contrib/115551588352297550148/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEUCeSHgs5Ut9u0YsLalunJjvOA70_QE-heqV0knWRL_E96Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719495411,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5500512168302852584",
+  "user_ratings_total": 1,
+  "vicinity": "100 Jalan Sultan, Sultan Plaza, Singapore"
+}

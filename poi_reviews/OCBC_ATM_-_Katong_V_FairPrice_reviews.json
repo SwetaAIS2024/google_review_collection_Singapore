@@ -1,0 +1,67 @@
+{
+  "formatted_address": "30 E Coast Rd, #01-06/07/08/09, Singapore 428751",
+  "geometry": {
+    "location": {
+      "lat": 1.3036115,
+      "lng": 103.9029838
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304925280291502,
+        "lng": 103.9042722302915
+      },
+      "southwest": {
+        "lat": 1.302227319708498,
+        "lng": 103.9015742697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Katong V FairPrice",
+  "place_id": "ChIJC3pECnIY2jERO1F-o44135Q",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "DJ Pâtes",
+      "author_url": "https://www.google.com/maps/contrib/108621977775196976756/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXBvBiVOhMtEkwXqNGRo88OVJCN2DMieTTg08ukyHWrODCjQiy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Unable to deposit cash now.",
+      "time": 1703495974,
+      "translated": false
+    },
+    {
+      "author_name": "Viva La Vida",
+      "author_url": "https://www.google.com/maps/contrib/111086366569657169870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZlXoPatLm0I2DslGDtqIp_VXwmgz02cWV5rx_avvcGZJVH-RM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Also working with UOB cards",
+      "time": 1643687410,
+      "translated": false
+    },
+    {
+      "author_name": "Arnab Ghosh",
+      "author_url": "https://www.google.com/maps/contrib/112972996414604030925/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYETEoAy7YMla9jLTtqh8zy7usi-CdlKP4bxn1kzcKzLOBaUjrZg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658668498,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10727351724164403515",
+  "user_ratings_total": 3,
+  "vicinity": "30 East Coast Road, #01-06/07/08/09"
+}

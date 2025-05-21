@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3150 Commonwealth Ave W, Singapore 129580",
+  "geometry": {
+    "location": {
+      "lat": 1.3154961,
+      "lng": 103.7650556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316874180291502,
+        "lng": 103.7664705302915
+      },
+      "southwest": {
+        "lat": 1.314176219708498,
+        "lng": 103.7637725697085
+      }
+    }
+  },
+  "name": "Bus Stop (17171)",
+  "place_id": "ChIJu1hryo8a2jER4IS1siSpWHk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8743924651621975264",
+  "vicinity": "3150 Commonwealth Avenue West, Singapore"
+}

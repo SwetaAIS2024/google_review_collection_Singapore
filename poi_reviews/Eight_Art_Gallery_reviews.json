@@ -1,0 +1,28 @@
+{
+  "formatted_address": "7 Mount Sophia, Singapore 228458",
+  "geometry": {
+    "location": {
+      "lat": 1.3003978,
+      "lng": 103.8478986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301622080291502,
+        "lng": 103.8493439802915
+      },
+      "southwest": {
+        "lat": 1.298924119708498,
+        "lng": 103.8466460197085
+      }
+    }
+  },
+  "name": "Eight Art Gallery",
+  "place_id": "ChIJNb5K_LwZ2jERo9uDbceWyWo",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7694847221619219363",
+  "vicinity": "7 Mount Sophia"
+}

@@ -1,0 +1,87 @@
+{
+  "formatted_address": "1 Shipyard Rd, Singapore 628128",
+  "geometry": {
+    "location": {
+      "lat": 1.3083461,
+      "lng": 103.6967441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309701230291502,
+        "lng": 103.6981064302915
+      },
+      "southwest": {
+        "lat": 1.307003269708498,
+        "lng": 103.6954084697085
+      }
+    }
+  },
+  "name": "Shipyard Cafe (Canteen)",
+  "place_id": "ChIJgWdGnOEF2jER_ggcNlsl9Vo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shi Hao",
+      "author_url": "https://www.google.com/maps/contrib/115396771606640817577/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcq9r9xAhl8C8h2pEnBfE7EJeiAvNkpQiR4F3r4YpPyrrP8_3Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best dine in canteen inside Leeden National Oxygen Ltd.",
+      "time": 1693483267,
+      "translated": false
+    },
+    {
+      "author_name": "Style Hacked",
+      "author_url": "https://www.google.com/maps/contrib/111352871559932345007/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIgx4nOKpoFf9lVIoaU4TJ3nVcX3hPheeKxewj5_HaEt2O2g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good",
+      "time": 1671935511,
+      "translated": false
+    },
+    {
+      "author_name": "Kenneth Kor",
+      "author_url": "https://www.google.com/maps/contrib/107626098173100988029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf_8YHLNGQPhgyFVhXNTPJcfFPfOZTjfweQrSTdKLJlPhV814L=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665115406,
+      "translated": false
+    },
+    {
+      "author_name": "nge nge",
+      "author_url": "https://www.google.com/maps/contrib/108040066400819688910/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVFrT9R73jpOdpdSWg9W4TDR_5-z_yzPi23dCg47QNFUCqRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741402219,
+      "translated": false
+    },
+    {
+      "author_name": "ananthmari ananth",
+      "author_url": "https://www.google.com/maps/contrib/106145081549067340198/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6BmnIh-J_8DiPFxqXZFKR5hUP8MJWS9qnApv5eweZsYADx7M=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741852427,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6554185906387683582",
+  "user_ratings_total": 6,
+  "vicinity": "1 Shipyard Road"
+}

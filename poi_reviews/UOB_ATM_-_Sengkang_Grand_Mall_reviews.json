@@ -1,0 +1,29 @@
+{
+  "formatted_address": "70 Compassvale Bow, #02-K49, Singapore 544692",
+  "geometry": {
+    "location": {
+      "lat": 1.3822773,
+      "lng": 103.8924764
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383641780291502,
+        "lng": 103.8935879802915
+      },
+      "southwest": {
+        "lat": 1.380943819708498,
+        "lng": 103.8908900197085
+      }
+    }
+  },
+  "name": "UOB ATM - Sengkang Grand Mall",
+  "place_id": "ChIJcf4VvagX2jERu5Wn63VBp_c",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17845304023199487419",
+  "vicinity": "70 Compassvale Bow, #02-K49"
+}

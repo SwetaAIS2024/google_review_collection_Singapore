@@ -1,0 +1,56 @@
+{
+  "formatted_address": "61 Teban Gardens Rd, Singapore 600061",
+  "geometry": {
+    "location": {
+      "lat": 1.3225482,
+      "lng": 103.7384654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323909930291502,
+        "lng": 103.7397144802915
+      },
+      "southwest": {
+        "lat": 1.321211969708498,
+        "lng": 103.7370165197085
+      }
+    }
+  },
+  "name": "Yung Sheng Group 61 Coffeeshop",
+  "place_id": "ChIJ7SzkDEEb2jERsjLH_X_y9V4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Frankie Lim",
+      "author_url": "https://www.google.com/maps/contrib/105255489596303545960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK_revenEGrl0AckG-CF1ANNmwCzgM2l8JU5_h9_C3wUO1FG0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Good and clean.",
+      "time": 1730202830,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Tek Hoi",
+      "author_url": "https://www.google.com/maps/contrib/111465671739251545537/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3e83nvcZv9fZbnlzx2h-768upff6ND7FYQ3f4d05ueP_R96w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739085744,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6842641840391795378",
+  "user_ratings_total": 2,
+  "vicinity": "61 Teban Gardens Road"
+}

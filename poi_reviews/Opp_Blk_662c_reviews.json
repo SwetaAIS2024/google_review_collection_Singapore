@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337665,
+      "lng": 103.704918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338936180291502,
+        "lng": 103.7060928302915
+      },
+      "southwest": {
+        "lat": 1.336238219708498,
+        "lng": 103.7033948697085
+      }
+    }
+  },
+  "name": "Opp Blk 662c",
+  "place_id": "ChIJy15GupIP2jERXKowlV8VFFs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "AGALIVIR Asotnes",
+      "author_url": "https://www.google.com/maps/contrib/110390645011343802594/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_JlIU1GQauBp52jfPxTWG-oSwWL4TyhFq9sAd2Z6FhCcnChsy=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Took bus 180 /974 to senja",
+      "time": 1529647688,
+      "translated": false
+    },
+    {
+      "author_name": "Krishnan Junior",
+      "author_url": "https://www.google.com/maps/contrib/110388201326841274019/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUviMa1c4qX7j14yDUvde5LeZAY46zsil26Cyc-wLONAPS7y4I6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604148964,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6562894057254726236",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

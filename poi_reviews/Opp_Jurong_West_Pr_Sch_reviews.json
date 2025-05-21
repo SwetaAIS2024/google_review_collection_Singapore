@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339227,
+      "lng": 103.698143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340502680291502,
+        "lng": 103.6995475302915
+      },
+      "southwest": {
+        "lat": 1.337804719708498,
+        "lng": 103.6968495697085
+      }
+    }
+  },
+  "name": "Opp Jurong West Pr Sch",
+  "place_id": "ChIJ32GACZEP2jER7I414tYJg9I",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15168978788436774636",
+  "vicinity": "Singapore"
+}

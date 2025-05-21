@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 7 Tampines Street 32, Tampines Mart, Singapore 529285",
+  "geometry": {
+    "location": {
+      "lat": 1.3544154,
+      "lng": 103.9602652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355906430291502,
+        "lng": 103.9618625302915
+      },
+      "southwest": {
+        "lat": 1.353208469708498,
+        "lng": 103.9591645697085
+      }
+    }
+  },
+  "name": "Shakira's Restaurant",
+  "place_id": "ChIJQyg4_Uo92jERIqyJraX1hf4",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18340335149466102818",
+  "vicinity": "Blk 7 Tampines Street 32, Tampines Mart, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 804 Tampines Ave 4, Singapore 520804",
+  "geometry": {
+    "location": {
+      "lat": 1.3456451,
+      "lng": 103.9375543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346911130291502,
+        "lng": 103.9388710302915
+      },
+      "southwest": {
+        "lat": 1.344213169708498,
+        "lng": 103.9361730697085
+      }
+    }
+  },
+  "name": "Tickles & Giggles Pte Ltd",
+  "place_id": "ChIJiQXTCRM92jERrfFLpU8ihUI",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4793275103876739501",
+  "vicinity": "Blk 804 Tampines Avenue 4"
+}

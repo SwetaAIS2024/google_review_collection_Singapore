@@ -1,0 +1,31 @@
+{
+  "formatted_address": "5 Kaki Bukit Ave 1, Singapore 417943",
+  "geometry": {
+    "location": {
+      "lat": 1.3332189,
+      "lng": 103.9036543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334581330291502,
+        "lng": 103.9049927302915
+      },
+      "southwest": {
+        "lat": 1.331883369708498,
+        "lng": 103.9022947697085
+      }
+    }
+  },
+  "name": "Linpac Enterprise",
+  "place_id": "ChIJCyKdYvoX2jERZV82tEDwx5g",
+  "types": [
+    "liquor_store",
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11009031974822502245",
+  "vicinity": "5 Kaki Bukit Avenue 1"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Kent Ridge Rd, Singapore 119222",
+  "geometry": {
+    "location": {
+      "lat": 1.2972054,
+      "lng": 103.7748864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298478230291502,
+        "lng": 103.7761630302915
+      },
+      "southwest": {
+        "lat": 1.295780269708498,
+        "lng": 103.7734650697085
+      }
+    }
+  },
+  "name": "Acoustic Research Laboratory",
+  "place_id": "ChIJ7YaxcPga2jEROR8dzMjSJBo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "AhChye TheLabrador",
+      "author_url": "https://www.google.com/maps/contrib/113306255584758801620/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJfKrTInXRoqA-wVgzeHl-E7f81TiFmHpZq460QiUBRjF5jOPP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Best place to work in.",
+      "time": 1676958700,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriel Chua",
+      "author_url": "https://www.google.com/maps/contrib/116616388211078653585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdFgNHfmT-oxI4nlLRWa8DOPaQFoGWPAGMDZCiffz4_rqhCaxhLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Amazing technically",
+      "time": 1676425365,
+      "translated": false
+    },
+    {
+      "author_name": "Arnav Dhamija",
+      "author_url": "https://www.google.com/maps/contrib/105813531909376077546/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWAAasR_iAUx3a7fyz2VBYEjBwIzyjAmsPefpadHcKAcsQRbKa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607750378,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1883862304007462713",
+  "user_ratings_total": 3,
+  "vicinity": "Kent Ridge Road, Singapore"
+}

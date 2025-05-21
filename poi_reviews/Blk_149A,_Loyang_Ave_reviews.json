@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.362214,
+      "lng": 103.962914
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363525880291502,
+        "lng": 103.9643006302915
+      },
+      "southwest": {
+        "lat": 1.360827919708498,
+        "lng": 103.9616026697085
+      }
+    }
+  },
+  "name": "Blk 149A, Loyang Ave",
+  "place_id": "ChIJAzHpl_882jERJAAnfPDg9j0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "狄丽芝",
+      "author_url": "https://www.google.com/maps/contrib/116029990622629550502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC0n_wcN1j4WycGQ6QS_7-iv2U9GfYUGqWeLzNq8sPotomjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508578423,
+      "translated": false
+    },
+    {
+      "author_name": "rajesh p",
+      "author_url": "https://www.google.com/maps/contrib/115085678996628434806/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUALTwpRm-t7CMWepi8pwDMTiuI7iXvGe0yzSelsQDLQC2XijRdfw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505869914,
+      "translated": false
+    },
+    {
+      "author_name": "jiahao lin",
+      "author_url": "https://www.google.com/maps/contrib/101514933928937913824/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWCnbA8yAXYdR2EY1YrN4WwguoWHiTecI9Uo_cU62W1oC8ZJwv=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1344350602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4465003404064129060",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

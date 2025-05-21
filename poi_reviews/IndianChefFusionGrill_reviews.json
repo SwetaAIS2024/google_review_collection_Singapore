@@ -1,0 +1,55 @@
+{
+  "formatted_address": "31 Hillview Ter, Singapore 669249",
+  "geometry": {
+    "location": {
+      "lat": 1.3525999,
+      "lng": 103.7572422
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354040680291502,
+        "lng": 103.7586043302915
+      },
+      "southwest": {
+        "lat": 1.351342719708498,
+        "lng": 103.7559063697085
+      }
+    }
+  },
+  "name": "IndianChefFusionGrill",
+  "place_id": "ChIJ_XDtQQAR2jER-j24HWMsZGk",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Karen Cowell",
+      "author_url": "https://www.google.com/maps/contrib/100015051947748200054/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEFIXowZDNawhD0pPGcUY5HIVLBGZIAFXLLaS_OwJRW2kTVw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "New tandoori grill stall in the coffee shop located amongst the factories. Tried the tandoori chicken skewers with olive basil rice and salad. Chicken was moist and good. Will try the other dishes on the menu next time",
+      "time": 1715684068,
+      "translated": false
+    },
+    {
+      "author_name": "sas 007 p m boyss",
+      "author_url": "https://www.google.com/maps/contrib/105802846884685427193/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLQ7gSIQrUJfQRzTH4ToDvEKrvQ5N6ZrieC_HfsHe6jvVTW83v=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1737728091,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7594243675865497082",
+  "user_ratings_total": 2,
+  "vicinity": "31 Hillview Terrace"
+}

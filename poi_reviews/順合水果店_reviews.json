@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3172992,
+      "lng": 103.8795811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318584230291502,
+        "lng": 103.8810764302915
+      },
+      "southwest": {
+        "lat": 1.315886269708498,
+        "lng": 103.8783784697085
+      }
+    }
+  },
+  "name": "順合水果店",
+  "place_id": "ChIJN7ao-C8Y2jERYNQV3aW6kpA",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10417594109602944096",
+  "vicinity": "Singapore"
+}

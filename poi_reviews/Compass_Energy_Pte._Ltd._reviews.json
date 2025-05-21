@@ -1,0 +1,53 @@
+{
+  "formatted_address": "12 Tuas Ave 1, Singapore 639497",
+  "geometry": {
+    "location": {
+      "lat": 1.3214275,
+      "lng": 103.6600747
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322864130291502,
+        "lng": 103.6613311302915
+      },
+      "southwest": {
+        "lat": 1.320166169708498,
+        "lng": 103.6586331697085
+      }
+    }
+  },
+  "name": "Compass Energy Pte. Ltd.",
+  "place_id": "ChIJC57QtOMb2jERN2ZyhZyjXbE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "A G",
+      "author_url": "https://www.google.com/maps/contrib/112548602565832840948/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMScdLBXXLKtElaFNEfFw7TzECVWcwfkmRW37zGFhG2HRNDQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Nice office close to new MRT station",
+      "time": 1507380915,
+      "translated": false
+    },
+    {
+      "author_name": "Suyatno Batam",
+      "author_url": "https://www.google.com/maps/contrib/112709673333549024865/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYGmjjzBQx-cgifLai1pOKjM9OYpY2SjiRTS1rzm99dI5MjLA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1574140349,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12780551210196428343",
+  "user_ratings_total": 2,
+  "vicinity": "12 Tuas Avenue 1"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "17 Petir Rd, #B2-67 Hillion Mall, Singapore 678278",
+  "geometry": {
+    "location": {
+      "lat": 1.3785282,
+      "lng": 103.7630573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379521480291502,
+        "lng": 103.7645023302915
+      },
+      "southwest": {
+        "lat": 1.376823519708498,
+        "lng": 103.7618043697085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Hillion Mall",
+  "place_id": "ChIJp4_HV7sR2jERz2q3UmDC8j0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4463843899637983951",
+  "vicinity": "17 Petir Road, #B2-67 Hillion Mall"
+}

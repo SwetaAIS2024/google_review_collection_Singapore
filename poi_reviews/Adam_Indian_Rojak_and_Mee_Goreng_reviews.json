@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Bedok Rd, Singapore 469572",
+  "geometry": {
+    "location": {
+      "lat": 1.3204948,
+      "lng": 103.9555382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321919780291502,
+        "lng": 103.9568226302915
+      },
+      "southwest": {
+        "lat": 1.319221819708498,
+        "lng": 103.9541246697085
+      }
+    }
+  },
+  "name": "Adam Indian Rojak and Mee Goreng",
+  "place_id": "ChIJC3c70tcj2jEROeS5peDTygA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Panna Metta",
+      "author_url": "https://www.google.com/maps/contrib/113331481375789850945/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBjvb5blIREZPolnxJm2jPNK8A2u2mnej4tX2jWfq0otAJkiIq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "The bee hoon goreng was nice and not oily. The portion is good. There is some wok hei taste in the bee hoon goreng.",
+      "time": 1619600907,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=57090907102110777",
+  "user_ratings_total": 1,
+  "vicinity": "1 Bedok Road, Singapore"
+}

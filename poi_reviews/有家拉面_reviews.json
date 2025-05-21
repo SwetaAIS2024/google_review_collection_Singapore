@@ -1,0 +1,30 @@
+{
+  "formatted_address": "164 Bukit Merah Central, Singapore 150164",
+  "geometry": {
+    "location": {
+      "lat": 1.2833817,
+      "lng": 103.8166993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284834980291502,
+        "lng": 103.8178560802915
+      },
+      "southwest": {
+        "lat": 1.282137019708498,
+        "lng": 103.8151581197085
+      }
+    }
+  },
+  "name": "有家拉面",
+  "place_id": "ChIJsxQ2VAAb2jERrEWthujyChA",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1156003334879790508",
+  "vicinity": "164 Bukit Merah Central, Singapore"
+}

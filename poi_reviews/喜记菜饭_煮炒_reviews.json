@@ -1,0 +1,57 @@
+{
+  "formatted_address": "1 Kaki Bukit Rd 1, #01-18 ENTERPRISE ONE Singapore 415934",
+  "geometry": {
+    "location": {
+      "lat": 1.3323788,
+      "lng": 103.9023433
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333663230291502,
+        "lng": 103.9036884802915
+      },
+      "southwest": {
+        "lat": 1.330965269708498,
+        "lng": 103.9009905197085
+      }
+    }
+  },
+  "name": "喜记菜饭/煮炒",
+  "place_id": "ChIJhb8XAigX2jERzMvO7bQiRQA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Harry Teh",
+      "author_url": "https://www.google.com/maps/contrib/118402780631114026190/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZzsoUlL7Z6MsGtwKHVgJFYvGCnA15gkm4D0ZEqSfvILMeUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Delivery for 古老肉rice , no any sweet and sour taste , salt like dont need money , very salty , will no order anymore",
+      "time": 1711972701,
+      "translated": false
+    },
+    {
+      "author_name": "Queenie Wong",
+      "author_url": "https://www.google.com/maps/contrib/100254361616696549108/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7KVz36QhcWNANHDFKV3G3BVLOvV0fzliFqUjCtZO38mxN_3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A place with a very Hong Kong flavor. . . The environment is good. Good place to check in",
+      "time": 1710306146,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=19459933872245708",
+  "user_ratings_total": 2,
+  "vicinity": "1 Kaki Bukit Road 1, #01-18 ENTERPRISE ONE"
+}

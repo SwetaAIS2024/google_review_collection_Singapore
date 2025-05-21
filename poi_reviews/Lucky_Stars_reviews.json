@@ -1,0 +1,43 @@
+{
+  "formatted_address": "145 Upper Paya Lebar Rd, Singapore 534848",
+  "geometry": {
+    "location": {
+      "lat": 1.3389978,
+      "lng": 103.8860352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340378580291502,
+        "lng": 103.8874244302915
+      },
+      "southwest": {
+        "lat": 1.337680619708498,
+        "lng": 103.8847264697085
+      }
+    }
+  },
+  "name": "Lucky Stars",
+  "place_id": "ChIJ38rV3JMX2jER7TZ4_h_cVBo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wai Lee",
+      "author_url": "https://www.google.com/maps/contrib/111040227075746749503/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSVS3HIP_Ej2xkHwYA2f2d-dLl6pPOIWWQ6800ErTPNNevpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741963739,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1897383373001209581",
+  "user_ratings_total": 1,
+  "vicinity": "145 Upper Paya Lebar Road"
+}

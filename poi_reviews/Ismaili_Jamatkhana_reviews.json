@@ -1,0 +1,55 @@
+{
+  "formatted_address": "25 Lor 33 Geylang, Singapore 387985",
+  "geometry": {
+    "location": {
+      "lat": 1.3152774,
+      "lng": 103.8875581
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316635330291502,
+        "lng": 103.8889942802915
+      },
+      "southwest": {
+        "lat": 1.313937369708498,
+        "lng": 103.8862963197085
+      }
+    }
+  },
+  "name": "Ismaili Jamatkhana",
+  "place_id": "ChIJRTsWCQAZ2jERYJekhpYa6LY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zul Alidina",
+      "author_url": "https://www.google.com/maps/contrib/110469634604406374871/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVKAZ98b8VA7CgTdwINcxe-L9Mz7Ox3SYfrOh8zRaFH2fjVw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very clean and nice people",
+      "time": 1742636956,
+      "translated": false
+    },
+    {
+      "author_name": "Sifat Manzoor",
+      "author_url": "https://www.google.com/maps/contrib/113334623964356319672/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsrwN1SGwVsThOXB2wc9co-e2iLF7_ag8cDVWNpr48rOg_BA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741522875,
+      "translated": false
+    }
+  ],
+  "types": [
+    "mosque",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13179813543306106720",
+  "user_ratings_total": 2,
+  "vicinity": "25 Lorong 33 Geylang, Singapore"
+}

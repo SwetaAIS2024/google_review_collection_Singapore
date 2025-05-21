@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3, Jalan Eko Botani 3/4, 79100 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4389383,
+      "lng": 103.6200114
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440327330291502,
+        "lng": 103.6213043802915
+      },
+      "southwest": {
+        "lat": 1.437629369708498,
+        "lng": 103.6186064197085
+      }
+    }
+  },
+  "name": "商业街",
+  "place_id": "ChIJjy8VXwAL2jER4CsVnNyIVbU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13066500374978178016",
+  "vicinity": "3, Jalan Eko Botani 3/4, Gelang Patah"
+}

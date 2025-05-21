@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Block, Ang Mo Kio Ave 8, D1 Nanyang Polytechnic, Block A - Campus Centre, Singapore 569830",
+  "geometry": {
+    "location": {
+      "lat": 1.3820887,
+      "lng": 103.848572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383334480291502,
+        "lng": 103.8499098802915
+      },
+      "southwest": {
+        "lat": 1.380636519708498,
+        "lng": 103.8472119197085
+      }
+    }
+  },
+  "name": "Nanyang Polytechnic Blk D1",
+  "place_id": "ChIJ8w5zcwYX2jERBJmBdoc_Tzo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Liew Enghock",
+      "author_url": "https://www.google.com/maps/contrib/104459036901860207419/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmYMzpVXG7I6P7y-Fn9JD5Zi35i4ojetoNB4P2pg7tabCGn3j1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1709566112,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4201646828401301764",
+  "user_ratings_total": 1,
+  "vicinity": "Block, Ang Mo Kio Avenue 8, D1 Nanyang Polytechnic, Block A - Campus Centre"
+}

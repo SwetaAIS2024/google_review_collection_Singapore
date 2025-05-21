@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3358203,
+      "lng": 103.5942381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337227980291502,
+        "lng": 103.5953711302915
+      },
+      "southwest": {
+        "lat": 1.334530019708498,
+        "lng": 103.5926731697085
+      }
+    }
+  },
+  "name": "Public Bank ATM",
+  "place_id": "ChIJEX6q7YUJ2jERHpBXLXpal80",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ISMAIL HOSSAIN",
+      "author_url": "https://www.google.com/maps/contrib/117973257604091659390/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhnmw3Gc9j6XhvwvTTnqdbyF_b2V_Tgudxw4UpYswTHLKQgWFi5A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice Place beside Beach.",
+      "time": 1670817447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14814408980051759134",
+  "user_ratings_total": 1,
+  "vicinity": "Gelang Patah"
+}

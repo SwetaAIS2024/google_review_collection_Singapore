@@ -1,0 +1,29 @@
+{
+  "formatted_address": "140 Upper Bukit Timah Rd, Singapore 588176",
+  "geometry": {
+    "location": {
+      "lat": 1.341779,
+      "lng": 103.7763341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343224180291502,
+        "lng": 103.7775202302915
+      },
+      "southwest": {
+        "lat": 1.340526219708498,
+        "lng": 103.7748222697085
+      }
+    }
+  },
+  "name": "KMW Snack Cafe",
+  "place_id": "ChIJNflcEYoQ2jERDawI46VgOZ4",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11401250197259987981",
+  "vicinity": "140 Upper Bukit Timah Road"
+}

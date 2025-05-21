@@ -1,0 +1,29 @@
+{
+  "formatted_address": "60B Orchard Rd, Singapore 238891",
+  "geometry": {
+    "location": {
+      "lat": 1.2995938,
+      "lng": 103.8452494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300845230291502,
+        "lng": 103.8465509802915
+      },
+      "southwest": {
+        "lat": 1.298147269708498,
+        "lng": 103.8438530197085
+      }
+    }
+  },
+  "name": "Natural",
+  "place_id": "ChIJswRqCegZ2jERiF8vGaSxH6I",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11682251276777643912",
+  "vicinity": "60B Orchard Road, Singapore"
+}

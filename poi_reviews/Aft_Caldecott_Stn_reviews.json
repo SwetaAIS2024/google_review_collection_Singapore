@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3378253,
+      "lng": 103.8386563
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339160180291502,
+        "lng": 103.8399437802915
+      },
+      "southwest": {
+        "lat": 1.336462219708498,
+        "lng": 103.8372458197085
+      }
+    }
+  },
+  "name": "Aft Caldecott Stn",
+  "place_id": "ChIJGdCIhEQX2jERMnODfM2MXks",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5430933014840570674",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Connection One (Tower 4) #06-10, 167 Jalan Bukit Merah (S)150167, Singapore 150167",
+  "geometry": {
+    "location": {
+      "lat": 1.2830883,
+      "lng": 103.8181626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284410980291502,
+        "lng": 103.8196193302915
+      },
+      "southwest": {
+        "lat": 1.281713019708498,
+        "lng": 103.8169213697085
+      }
+    }
+  },
+  "name": "Singapore Condo Pte Ltd",
+  "place_id": "ChIJW5hcVtYb2jERAjYB9bVTGoQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Manu Pathania",
+      "author_url": "https://www.google.com/maps/contrib/105386337661040340149/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqhu51PNIehVFwXH37Nd1S9Rpo4rVBT2trkDWo5Ba8bR5qlw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529938962,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9519012803365647874",
+  "user_ratings_total": 1,
+  "vicinity": "Connection One (Tower 4) #06-10, 167 Jalan Bukit Merah (S)150167"
+}

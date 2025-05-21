@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Blk 26A Chai Chee Rd, #01-405, Singapore 461026",
+  "geometry": {
+    "location": {
+      "lat": 1.3239352,
+      "lng": 103.9235018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325076830291502,
+        "lng": 103.9247913302915
+      },
+      "southwest": {
+        "lat": 1.322378869708498,
+        "lng": 103.9220933697085
+      }
+    }
+  },
+  "name": "Dragon Valley Eatery",
+  "place_id": "ChIJuRqVnTcj2jERc8fosHV3fII",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Benjamin Loh",
+      "author_url": "https://www.google.com/maps/contrib/108214340143210134350/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqbupTpofX_9nN8IQXOhS_FcY7Eg0mowElLRlrGx0iEpbLcA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Really?? $1.40 for a cup of Teh O Gao at a neighbourhood kopitiam? Most expensive I’ve encountered so far!",
+      "time": 1712740549,
+      "translated": false
+    },
+    {
+      "author_name": "Dr.Ken Mansukhani",
+      "author_url": "https://www.google.com/maps/contrib/111619413937928428323/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2HOjH9UM_dAxxO-QqnsJqzzId_N7Zkoc__Jp5MBI2nDlCZQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1694367722,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9402521469405677427",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 26A Chai Chee Road, #01-405"
+}

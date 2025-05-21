@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Kaki Bukit Industrial Terrace, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336882,
+      "lng": 103.9029428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338409730291502,
+        "lng": 103.9044712302915
+      },
+      "southwest": {
+        "lat": 1.335711769708498,
+        "lng": 103.9017732697085
+      }
+    }
+  },
+  "name": "1818 Food & Cafe",
+  "place_id": "ChIJ42ZWYOUX2jERrdVCnJkyZEs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "ali Sumon",
+      "author_url": "https://www.google.com/maps/contrib/109024554276982034470/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFueR-eJKqFq4UxYEZDvB8NnxONnz7LISk_5o8K2yX5-b9xqo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704296911,
+      "translated": false
+    },
+    {
+      "author_name": "Be Afis",
+      "author_url": "https://www.google.com/maps/contrib/116121583300284310051/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEJj6WM2DjywKfFccCtWAc89F670dgqIrHFYkVLcFdRva_HmXV=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1697630593,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5432522685848671661",
+  "user_ratings_total": 2,
+  "vicinity": "Kaki Bukit Industrial Terrace"
+}

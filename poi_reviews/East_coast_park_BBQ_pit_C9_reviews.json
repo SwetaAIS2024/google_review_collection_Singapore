@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353811230291502,
+        "lng": 103.8212689302915
+      },
+      "southwest": {
+        "lat": 1.351113269708498,
+        "lng": 103.8185709697085
+      }
+    }
+  },
+  "name": "East coast park BBQ pit C9",
+  "place_id": "ChIJg4U8NQAR2jERtSkipb04Ga8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Krishna",
+      "author_url": "https://www.google.com/maps/contrib/102381306359005222054/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiWlqEJO-ptlR7q6avf1xiRlCXJcVf44IFEaZI1gC7QgDYf8bJ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743922097,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12617178218225609141",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,80 @@
+{
+  "formatted_address": "17 Jln Tenteram, Singapore 321017",
+  "geometry": {
+    "location": {
+      "lat": 1.3280667,
+      "lng": 103.8601565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329445130291502,
+        "lng": 103.8615818802915
+      },
+      "southwest": {
+        "lat": 1.326747169708498,
+        "lng": 103.8588839197085
+      }
+    }
+  },
+  "name": "Evergreen Supermarket",
+  "place_id": "ChIJ2zdqnX0X2jERA6Pl1JR0kGw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Twi M",
+      "author_url": "https://www.google.com/maps/contrib/105826021365136600458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlsG2MYET6mv3oKIEdzvjq3Ekaic2fx96WtGj-U9fY735TXg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Good collection of indian groceries. Great service",
+      "time": 1739881654,
+      "translated": false
+    },
+    {
+      "author_name": "klim",
+      "author_url": "https://www.google.com/maps/contrib/118117093145765902241/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbcQZsO3jEz8bjniuMKWly33w8AzHOQw2R3iwYjWrH8fhFQWfw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Newly open minimart",
+      "time": 1715493872,
+      "translated": false
+    },
+    {
+      "author_name": "mikomilo",
+      "author_url": "https://www.google.com/maps/contrib/108236832092770192662/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXv9G90Dr-DY959efd-XToKmOTJDh7HzTa3osWv-XL7Wy6fW0J=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "SPEEEDDDD",
+      "time": 1726878175,
+      "translated": false
+    },
+    {
+      "author_name": "Shalynn S.M",
+      "author_url": "https://www.google.com/maps/contrib/114967569352510637288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt5MhARm5mHCdMbjynxT-9G_Cyl5x-T1Bss3eBaiN-iHRWeQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718621294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7822880735318352643",
+  "user_ratings_total": 4,
+  "vicinity": "17 Jalan Tenteram, Singapore"
+}

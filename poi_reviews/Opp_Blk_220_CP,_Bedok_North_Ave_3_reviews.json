@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.32552,
+      "lng": 103.93554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326862730291502,
+        "lng": 103.9368569802915
+      },
+      "southwest": {
+        "lat": 1.324164769708498,
+        "lng": 103.9341590197085
+      }
+    }
+  },
+  "name": "Opp Blk 220 CP, Bedok North Ave 3",
+  "place_id": "ChIJY99DMLUi2jERPrlz6TMvyPY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17782515028678916414",
+  "vicinity": "Singapore"
+}

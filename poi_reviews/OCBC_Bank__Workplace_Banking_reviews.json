@@ -1,0 +1,29 @@
+{
+  "formatted_address": "435 Orchard Road, B, #16-04 Wisma Tower, Singapore 238877",
+  "geometry": {
+    "location": {
+      "lat": 1.3037148,
+      "lng": 103.8332642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305061580291502,
+        "lng": 103.8344068802915
+      },
+      "southwest": {
+        "lat": 1.302363619708498,
+        "lng": 103.8317089197085
+      }
+    }
+  },
+  "name": "OCBC Bank | Workplace Banking",
+  "place_id": "ChIJVaqQgtQZ2jERVtlXnCJtIaI",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11682738903795095894",
+  "vicinity": "435 Orchard Road, B, #16-04 Wisma Tower"
+}

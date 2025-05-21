@@ -1,0 +1,27 @@
+{
+  "formatted_address": "690 W Camp Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4198892,
+      "lng": 103.8638643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421098630291502,
+        "lng": 103.8651316802915
+      },
+      "southwest": {
+        "lat": 1.418400669708498,
+        "lng": 103.8624337197085
+      }
+    }
+  },
+  "name": "STS Component",
+  "place_id": "ChIJBUZWuVsV2jERC8JM9w3FCxc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1660637551390409227",
+  "vicinity": "690 West Camp Road"
+}

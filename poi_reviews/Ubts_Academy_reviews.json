@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3151777,
+      "lng": 103.6974285
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316495830291502,
+        "lng": 103.6987670802915
+      },
+      "southwest": {
+        "lat": 1.313797869708498,
+        "lng": 103.6960691197085
+      }
+    }
+  },
+  "name": "Ubts Academy",
+  "place_id": "ChIJ65Mn-m4F2jERjLo_Atpgqxs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1993793749498444428",
+  "vicinity": "Singapore"
+}

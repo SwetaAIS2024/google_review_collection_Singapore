@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Tuas South Street 8, #01-02, Singapore 637107",
+  "geometry": {
+    "location": {
+      "lat": 1.2775144,
+      "lng": 103.6316574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278786380291502,
+        "lng": 103.6329980802915
+      },
+      "southwest": {
+        "lat": 1.276088419708498,
+        "lng": 103.6303001197085
+      }
+    }
+  },
+  "name": "Ban Soon Cheong Pte Ltd",
+  "place_id": "ChIJVVVVhe0X2jERLgXFRswhX-4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Chamindu Kanishka",
+      "author_url": "https://www.google.com/maps/contrib/113777986785543828779/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe13IomGZlZeu9Q9StRVfYQWJGiyce8t253QGtvSGX_k9JHmBd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "Poor customer service for foreign customers and not answering provided phone numbers.\nNot good place for negotiations.",
+      "time": 1632796284,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17176484665058723118",
+  "user_ratings_total": 1,
+  "vicinity": "1 Tuas South Street 8, #01-02"
+}

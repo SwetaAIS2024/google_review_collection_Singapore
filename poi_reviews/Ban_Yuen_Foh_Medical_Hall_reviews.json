@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Blk 7 Hougang Ave 3, #01-64, Singapore 530007",
+  "geometry": {
+    "location": {
+      "lat": 1.362313,
+      "lng": 103.8934198
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363570230291502,
+        "lng": 103.8949121802915
+      },
+      "southwest": {
+        "lat": 1.360872269708498,
+        "lng": 103.8922142197085
+      }
+    }
+  },
+  "name": "Ban Yuen Foh Medical Hall",
+  "place_id": "ChIJqaORG3AX2jERfkyebOa8lJk",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Kevin Tay",
+      "author_url": "https://www.google.com/maps/contrib/104557261337467056843/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnK2sO1T9TRf1ER6OKqAxwWuiBazUt3EhO4POMXQ-GVS5VJYnk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A great place to seek TCM consultation and get your traditional chinese herbs and medication .",
+      "time": 1691409899,
+      "translated": false
+    },
+    {
+      "author_name": "Jian Ha",
+      "author_url": "https://www.google.com/maps/contrib/111810295867783253658/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5rR-eMobmPi0lN8FgtJAcQDYAYHGmysnQaIwlXDNP7tzOrgu3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743570345,
+      "translated": false
+    },
+    {
+      "author_name": "Pat Yeow",
+      "author_url": "https://www.google.com/maps/contrib/103168999493180489358/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3pHbNiNY76njrht-xdMqCw4RBsNS4_APBDRZWE8e3ee2ZTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645059606,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11066677882206964862",
+  "user_ratings_total": 3,
+  "vicinity": "Blk 7 Hougang Avenue 3, #01-64"
+}

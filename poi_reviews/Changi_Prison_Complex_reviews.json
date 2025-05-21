@@ -1,0 +1,27 @@
+{
+  "formatted_address": "982 Upper Changi Rd N, Singapore 507709",
+  "geometry": {
+    "location": {
+      "lat": 1.3572716,
+      "lng": 103.9723158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358904430291502,
+        "lng": 103.97355975
+      },
+      "southwest": {
+        "lat": 1.356206469708498,
+        "lng": 103.96869875
+      }
+    }
+  },
+  "name": "Changi Prison Complex",
+  "place_id": "ChIJMV5iSvo82jERb4y32Zj5JrY",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13125452598900919407",
+  "vicinity": "982 Upper Changi Road North"
+}

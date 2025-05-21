@@ -1,0 +1,30 @@
+{
+  "formatted_address": "2 Tampines Central 6, Singapore 529483",
+  "geometry": {
+    "location": {
+      "lat": 1.3527155,
+      "lng": 103.9424966
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354057780291502,
+        "lng": 103.9437301802915
+      },
+      "southwest": {
+        "lat": 1.351359819708498,
+        "lng": 103.9410322197085
+      }
+    }
+  },
+  "name": "Centre for Learning Anchors Network (CLAN)",
+  "place_id": "ChIJ02nNFRI92jER4_2LMd-Iujw",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4375960480134200803",
+  "vicinity": "2 Tampines Central 6"
+}

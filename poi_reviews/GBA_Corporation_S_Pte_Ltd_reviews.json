@@ -1,0 +1,41 @@
+{
+  "formatted_address": "29 Mandai Estate, #07-10, Singapore 729932",
+  "geometry": {
+    "location": {
+      "lat": 1.4055143,
+      "lng": 103.7586962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406944280291502,
+        "lng": 103.7599873302915
+      },
+      "southwest": {
+        "lat": 1.404246319708498,
+        "lng": 103.7572893697085
+      }
+    }
+  },
+  "name": "GBA Corporation (S) Pte Ltd",
+  "place_id": "ChIJGTCcyCYS2jERx3uaNF_YPpU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mars Aguilor",
+      "author_url": "https://www.google.com/maps/contrib/112423458923320140624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWbXxdvlaeFZKQ0p0FllTPxKmpS8UGuVrRyPCjMASaBEZ2CLpH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1596717380,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10754270863623355335",
+  "user_ratings_total": 1,
+  "vicinity": "29 Mandai Estate, #07-10, Singapore"
+}

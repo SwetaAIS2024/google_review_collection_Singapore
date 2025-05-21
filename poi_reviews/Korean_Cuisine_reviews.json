@@ -1,0 +1,57 @@
+{
+  "formatted_address": "624 Choa Chu Kang Street 62, Singapore 680624",
+  "geometry": {
+    "location": {
+      "lat": 1.3981137,
+      "lng": 103.747099
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399762630291502,
+        "lng": 103.7484925302915
+      },
+      "southwest": {
+        "lat": 1.397064669708498,
+        "lng": 103.7457945697085
+      }
+    }
+  },
+  "name": "Korean Cuisine",
+  "place_id": "ChIJu_U9EPQR2jERRvvuXShyR5g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joshua Chew",
+      "author_url": "https://www.google.com/maps/contrib/100928805220966571942/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqNrQqhJfCpzz6Zq4B5AAPGoXCZJYHEkFcMYWGWtFbXZLH7xm6Cw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The beef and Chicken Hotplate was delicious. The price is pretty average/ slightly more expensive after the discount of 10% from using a Kopitiam Card. Normal Price was $7.50 & $6.30 respectively. The portion of meat could have been given more. Soup and Kimchi were good 👍 Long queues, service slightly slow. Waiting Time 10mins.",
+      "time": 1672456382,
+      "translated": false
+    },
+    {
+      "author_name": "Valentina Khaw",
+      "author_url": "https://www.google.com/maps/contrib/101682771289394593590/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV0jMGU_zxx5h6FRTqR3GHCEm4OBT-1cG3fnARAKDFY9B-w4Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Great food and also quite consistent with quality. Tried the BBQ beef with rice, saba fish with rice, BBQ beef + spicy chicken with rice, and spicy sotong with rice. All are well done, and you can ask for the sotong to be less spicy. Stall is very generous with saba fish and meat portions. Chilli is unique and adds a new flavour to the fish.",
+      "time": 1705401402,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10972864534811704134",
+  "user_ratings_total": 2,
+  "vicinity": "624 Choa Chu Kang Street 62"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.380655,
+      "lng": 103.832245
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381958530291502,
+        "lng": 103.8336117802915
+      },
+      "southwest": {
+        "lat": 1.379260569708498,
+        "lng": 103.8309138197085
+      }
+    }
+  },
+  "name": "Aft Munshi Abdullah Ave",
+  "place_id": "ChIJC_yDYsgW2jERIt6_Ty3M_B4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "解宝升",
+      "author_url": "https://www.google.com/maps/contrib/108561591204037447765/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhoncWH-9Ga0f969JT3mG5JPvDSfi2ZipBhMAN4pkZ0JVY1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501689741,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2232884010252492322",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

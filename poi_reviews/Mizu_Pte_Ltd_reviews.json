@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Jln Samulun, Singapore 629122",
+  "geometry": {
+    "location": {
+      "lat": 1.301858,
+      "lng": 103.698625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303235530291502,
+        "lng": 103.69942415
+      },
+      "southwest": {
+        "lat": 1.300537569708498,
+        "lng": 103.69622755
+      }
+    }
+  },
+  "name": "Mizu Pte Ltd",
+  "place_id": "ChIJqZcFhhAF2jERnkT4dR_2jro",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sukha 751",
+      "author_url": "https://www.google.com/maps/contrib/103633486681329766550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIZRbdrEerIydeZVkVaCr_oWbwkJLQfEqcTLtHeU57feHoZpjN=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Hi boss can you help me",
+      "time": 1661585120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13442952552731133086",
+  "user_ratings_total": 1,
+  "vicinity": "5 Jalan Samulun"
+}

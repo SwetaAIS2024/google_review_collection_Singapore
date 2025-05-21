@@ -1,0 +1,28 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4144047,
+      "lng": 103.6553353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.415621330291502,
+        "lng": 103.6567957302915
+      },
+      "southwest": {
+        "lat": 1.412923369708498,
+        "lng": 103.6540977697085
+      }
+    }
+  },
+  "name": "Linear Park",
+  "place_id": "ChIJc3vBIPcN2jERtTHhVzww9EY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5112764512702902709",
+  "vicinity": "Iskandar Puteri"
+}

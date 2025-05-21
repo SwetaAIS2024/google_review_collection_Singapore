@@ -1,0 +1,57 @@
+{
+  "formatted_address": "35 Tuas South Ave 6, Singapore 637377",
+  "geometry": {
+    "location": {
+      "lat": 1.299008,
+      "lng": 103.639971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300501130291502,
+        "lng": 103.6414446302915
+      },
+      "southwest": {
+        "lat": 1.297803169708498,
+        "lng": 103.6387466697085
+      }
+    }
+  },
+  "name": "Staff Canteen @ Tuas South Avenue 6",
+  "place_id": "ChIJ72deZdcF2jERRUV1Z2kJmYQ",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ram Kumar",
+      "author_url": "https://www.google.com/maps/contrib/107463390017966017389/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUokhsEOh0bo5VxOgtlLEFEz9_o2_70QXQ1KpQv-Q1nVJiu1hyz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Good taste",
+      "time": 1542871155,
+      "translated": false
+    },
+    {
+      "author_name": "sumon mia",
+      "author_url": "https://www.google.com/maps/contrib/101921814122458029284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbXVutQs-STck5fuPjeXOPX1U5BPiL9p4v2CH8fI43mFPN2Uwx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Good",
+      "time": 1582650310,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9554678432755172677",
+  "user_ratings_total": 2,
+  "vicinity": "35 Tuas South Avenue 6"
+}

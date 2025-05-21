@@ -1,0 +1,53 @@
+{
+  "formatted_address": "1 Jelebu Rd, Level 2, Singapore 677743",
+  "geometry": {
+    "location": {
+      "lat": 1.3805305,
+      "lng": 103.7641083
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381320880291502,
+        "lng": 103.7657953802915
+      },
+      "southwest": {
+        "lat": 1.378622919708498,
+        "lng": 103.7630974197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Bukit Panjang Plaza",
+  "place_id": "ChIJ28AjRKIR2jERqTcfuSbunQY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Famous Ogisi",
+      "author_url": "https://www.google.com/maps/contrib/109029498734870188929/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk9fwLEqJEQTosn1Cv8Ri6CQ5_G3cU8tMOtK7AHx2youMQZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724014079,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan siaw",
+      "author_url": "https://www.google.com/maps/contrib/117438390551133943718/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhr_WS59Nrx2fnNZ4c4WGsSdv4bWzS1qpYh5_wavNM77mqBbjojg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695984106,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=476798985653139369",
+  "user_ratings_total": 2,
+  "vicinity": "1 Jelebu Road, Level 2"
+}

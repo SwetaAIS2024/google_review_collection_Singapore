@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333239,
+      "lng": 103.7593836
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334579280291502,
+        "lng": 103.7606743302915
+      },
+      "southwest": {
+        "lat": 1.331881319708498,
+        "lng": 103.7579763697085
+      }
+    }
+  },
+  "name": "SMRT Ulu Pandan Depot",
+  "place_id": "ChIJs8JKDXEQ2jERW-ccC35qN_I",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17453535970482513755",
+  "vicinity": "Singapore"
+}

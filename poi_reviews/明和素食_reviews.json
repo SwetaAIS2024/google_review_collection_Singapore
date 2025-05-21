@@ -1,0 +1,30 @@
+{
+  "formatted_address": "27 Eunos Rd 2, #01 01, Singapore 409387",
+  "geometry": {
+    "location": {
+      "lat": 1.320735,
+      "lng": 103.899463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321977280291502,
+        "lng": 103.9008446802915
+      },
+      "southwest": {
+        "lat": 1.319279319708498,
+        "lng": 103.8981467197085
+      }
+    }
+  },
+  "name": "明和素食",
+  "place_id": "ChIJOyIvUQAZ2jERS1HMTcQy8uQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16497304203711762763",
+  "vicinity": "27 Eunos Road 2, #01 01"
+}

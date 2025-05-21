@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3584261,
+      "lng": 103.8682146
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359771630291502,
+        "lng": 103.8696024802915
+      },
+      "southwest": {
+        "lat": 1.357073669708498,
+        "lng": 103.8669045197085
+      }
+    }
+  },
+  "name": "Opp Grace Wk",
+  "place_id": "ChIJMZUI46kX2jERLyduqGy77t8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16136040590271719215",
+  "vicinity": "Singapore"
+}

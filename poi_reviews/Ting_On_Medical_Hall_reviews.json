@@ -1,0 +1,58 @@
+{
+  "formatted_address": "95 Aljunied Cres, Singapore 380095",
+  "geometry": {
+    "location": {
+      "lat": 1.3213551,
+      "lng": 103.886403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322744480291502,
+        "lng": 103.8876907302915
+      },
+      "southwest": {
+        "lat": 1.320046519708498,
+        "lng": 103.8849927697085
+      }
+    }
+  },
+  "name": "Ting On Medical Hall",
+  "place_id": "ChIJV4CW4yMY2jERqZd-LZFIHnQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Qing Rong",
+      "author_url": "https://www.google.com/maps/contrib/102039049581931951660/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxsA3TqWyr8EzokDLOqyCA70iVM_DgCJpYqQUcJWbqQeTuxEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "This is my farther shop but now is not I fill so sad😭😭😭😭😭😭",
+      "time": 1434740500,
+      "translated": false
+    },
+    {
+      "author_name": "Tan K H",
+      "author_url": "https://www.google.com/maps/contrib/115209407905832756422/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4HS0-L8scnRqeV5NGUCcPTPwigWOBnUnTdLnL-pWNLVx9XQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Ting On Medical Hall (Chinese Medicine Shop) has moved to\nBlock 408 Ang Mo Kio Avenue 10 #01-797 Singapore 560408\nDing'an Medicine Store (Chinese Medicine Store) has moved to\nBlk 408 Ang Mo Kio Lane 10 #01-797 Singapore 560408",
+      "time": 1526205092,
+      "translated": true
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8367204946071689129",
+  "user_ratings_total": 2,
+  "vicinity": "95 Aljunied Crescent"
+}

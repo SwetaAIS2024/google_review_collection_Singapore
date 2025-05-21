@@ -1,0 +1,30 @@
+{
+  "formatted_address": "24 New Industrial Rd, Singapore 536210",
+  "geometry": {
+    "location": {
+      "lat": 1.3444425,
+      "lng": 103.8864635
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345727880291502,
+        "lng": 103.8877400302915
+      },
+      "southwest": {
+        "lat": 1.343029919708498,
+        "lng": 103.8850420697085
+      }
+    }
+  },
+  "name": "Electronic Medical Records (EMR)",
+  "place_id": "ChIJm77i8ZUX2jER8PlSD4hI23g",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8708634053660834288",
+  "vicinity": "24 New Industrial Road"
+}

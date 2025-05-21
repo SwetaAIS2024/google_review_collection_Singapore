@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Kaki Bukit Ave 3, Singapore 416087",
+  "geometry": {
+    "location": {
+      "lat": 1.3369228,
+      "lng": 103.9052834
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338231280291502,
+        "lng": 103.9066719302915
+      },
+      "southwest": {
+        "lat": 1.335533319708498,
+        "lng": 103.9039739697085
+      }
+    }
+  },
+  "name": "Min Lock Yuen Canteen",
+  "place_id": "ChIJ33Y3IuUX2jERZAi6lLSaNEo",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Kim",
+      "author_url": "https://www.google.com/maps/contrib/107097246641866403799/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURnkQV6aTmRae5CJXmQoVRAmt3Ftd-ZE-nOE2ilYJ9_9HQxWaG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "😋Decent canteen in an industrial area.\n•The place is not tidy or clean as one expects.\n•Affordable and decent food found though.",
+      "time": 1456389612,
+      "translated": false
+    },
+    {
+      "author_name": "建红范",
+      "author_url": "https://www.google.com/maps/contrib/117345071619847421874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6WITSheTuYPCm6hrFVDZ2HPCm7Xj910z4ku9fWz_KUrTYpZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1443090602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5347068757975631972",
+  "user_ratings_total": 2,
+  "vicinity": "1 Kaki Bukit Avenue 3, Singapore"
+}

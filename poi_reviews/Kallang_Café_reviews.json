@@ -1,0 +1,67 @@
+{
+  "formatted_address": "1 Stadium Dr, Singapore 397629",
+  "geometry": {
+    "location": {
+      "lat": 1.3042019,
+      "lng": 103.875351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305952980291502,
+        "lng": 103.87774975
+      },
+      "southwest": {
+        "lat": 1.303255019708498,
+        "lng": 103.87447235
+      }
+    }
+  },
+  "name": "Kallang Café",
+  "place_id": "ChIJ4VFmFUkY2jERlf2cHxeo6YM",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Sportshub Catering",
+      "author_url": "https://www.google.com/maps/contrib/118113514685398488703/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqjhdnjEW9brGwWOCLRMs_ZNz1KmNDzIRtOrjVlkUvLTu6Ew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "For Backstreet Boys concert 21st October 2017, this outlet is open at 7pm.",
+      "time": 1508559438,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Ng",
+      "author_url": "https://www.google.com/maps/contrib/107301414103209616348/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsrxsr3HTK93-FyI9fXaBf2KFWFTmZ1drqXRIrvuae9ROTFQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "9 years ago",
+      "text": "Decent",
+      "time": 1457796320,
+      "translated": false
+    },
+    {
+      "author_name": "Andos Kechiq",
+      "author_url": "https://www.google.com/maps/contrib/100230978541828029366/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2GFLNqxJEKEGQX9B9rrNL_f4TmMrVKn04wVdmoYPZA8rNeA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513425681,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9505313305810238869",
+  "user_ratings_total": 3,
+  "vicinity": "1 Stadium Drive, Singapore"
+}

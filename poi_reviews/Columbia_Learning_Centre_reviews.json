@@ -1,0 +1,52 @@
+{
+  "formatted_address": "218 Choa Chu Kang Central, Singapore 680218",
+  "geometry": {
+    "location": {
+      "lat": 1.3827195,
+      "lng": 103.7460768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384010830291502,
+        "lng": 103.7473944302915
+      },
+      "southwest": {
+        "lat": 1.381312869708498,
+        "lng": 103.7446964697085
+      }
+    }
+  },
+  "name": "Columbia Learning Centre",
+  "place_id": "ChIJzzxOG8IR2jERCym5tob1ap8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "DECCE TEF28",
+      "author_url": "https://www.google.com/maps/contrib/108747052633564801805/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrRRzrTfLWPCQ555g_chlGmsjP4_y5i36jQK1hVqbPCaEjJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547957037,
+      "translated": false
+    },
+    {
+      "author_name": "RSR",
+      "author_url": "https://www.google.com/maps/contrib/104787259837704436973/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKsXSBk55kww3IKWn87p4LtAUV963fq21HEFW066lGiYiu6qMa=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1463533103,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11487263758501882123",
+  "user_ratings_total": 2,
+  "vicinity": "218 Choa Chu Kang Central"
+}

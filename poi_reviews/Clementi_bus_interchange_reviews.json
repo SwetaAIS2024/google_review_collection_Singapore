@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3155 Commonwealth Ave W, Singapore 129588",
+  "geometry": {
+    "location": {
+      "lat": 1.3149603,
+      "lng": 103.7637524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316329980291502,
+        "lng": 103.7650868802915
+      },
+      "southwest": {
+        "lat": 1.313632019708498,
+        "lng": 103.7623889197085
+      }
+    }
+  },
+  "name": "Clementi bus interchange",
+  "place_id": "ChIJ7ZJVUVYb2jERNxja9tjtpZM",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10639171210842871863",
+  "vicinity": "3155 Commonwealth Avenue West"
+}

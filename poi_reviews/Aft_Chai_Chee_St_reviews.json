@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325848,
+      "lng": 103.919487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327168930291502,
+        "lng": 103.9207891302915
+      },
+      "southwest": {
+        "lat": 1.324470969708498,
+        "lng": 103.9180911697085
+      }
+    }
+  },
+  "name": "Aft Chai Chee St",
+  "place_id": "ChIJdVsGUqsi2jERqmtLuTqYc8s",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Ghazali Mohamat",
+      "author_url": "https://www.google.com/maps/contrib/116657343815565676955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2rDh55CEq8WiSNI-QR2M3PTlGwv_5IQFFJhYTtKlVLuijeh5w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Nice neighbour",
+      "time": 1651945302,
+      "translated": false
+    },
+    {
+      "author_name": "Ketur Gandhi",
+      "author_url": "https://www.google.com/maps/contrib/108220566977115269859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHmxNWXJboUpsOpFf4MA_lkEOsHTAH8_sWRu0CeboJ0pnYuaj8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721556508,
+      "translated": false
+    },
+    {
+      "author_name": "Cherry Charan",
+      "author_url": "https://www.google.com/maps/contrib/112518764758596998035/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAJAMjCw1qKS0Gc7wwL4CnOVWGBJVYMu_agYiNSLMi7HFzgHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667923811,
+      "translated": false
+    },
+    {
+      "author_name": "Ramesh Kumar Rajendiran",
+      "author_url": "https://www.google.com/maps/contrib/103823583342645840185/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWivZYobvz9U4D6hI8VOMT0lR10UKNFxiJPEZte-ZDPXfSFw6CKg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505447538,
+      "translated": false
+    },
+    {
+      "author_name": "Eddy Rahman",
+      "author_url": "https://www.google.com/maps/contrib/103459376582893907629/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-r4MtwUKBbkUWw2OahyvYQLRyIoeQEy2HebBEtCVSD09a-w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481291007,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14660228590005349290",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

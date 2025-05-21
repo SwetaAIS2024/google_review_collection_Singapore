@@ -1,0 +1,54 @@
+{
+  "formatted_address": "12 Pasir Panjang, Wholesale Centre, Singapore 110012",
+  "geometry": {
+    "location": {
+      "lat": 1.286429,
+      "lng": 103.7774781
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287720680291502,
+        "lng": 103.7787832802915
+      },
+      "southwest": {
+        "lat": 1.285022719708498,
+        "lng": 103.7760853197085
+      }
+    }
+  },
+  "name": "Fruit Wholesale Pasir Panjang",
+  "place_id": "ChIJyZR0zqsb2jERMHnnhwh5qOs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Gim Siong Lim",
+      "author_url": "https://www.google.com/maps/contrib/110990637690325561405/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFjgLVlkUk--HkI7SmwG-T2odXwW-W6gKCMyDn_uGuHYRkEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very fresh",
+      "time": 1670672660,
+      "translated": false
+    },
+    {
+      "author_name": "Hanh Nguyen Thi",
+      "author_url": "https://www.google.com/maps/contrib/108432971676375901224/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ_5xzWSpOz6jYdWqV0qpHT2IO3H0K-sCdD1q3b9nn9zGOezYQPA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558624180,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16980955472547248432",
+  "user_ratings_total": 2,
+  "vicinity": "12 Pasir Panjang, Wholesale Centre, Singapore"
+}

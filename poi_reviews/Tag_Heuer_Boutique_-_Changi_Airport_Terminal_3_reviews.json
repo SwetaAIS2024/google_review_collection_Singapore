@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Airport Blvd., Singapore 819462",
+  "geometry": {
+    "location": {
+      "lat": 1.356716,
+      "lng": 103.98651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357751080291502,
+        "lng": 103.9885896
+      },
+      "southwest": {
+        "lat": 1.355053119708498,
+        "lng": 103.9858168
+      }
+    }
+  },
+  "name": "Tag Heuer Boutique - Changi Airport Terminal 3",
+  "place_id": "ChIJ_-4P-ow82jERbuA4jfIStww",
+  "types": [
+    "point_of_interest",
+    "clothing_store",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=916221882153885806",
+  "vicinity": "2 Airport Boulevard, Singapore"
+}

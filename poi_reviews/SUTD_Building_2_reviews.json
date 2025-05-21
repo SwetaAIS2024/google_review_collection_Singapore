@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Building 2, Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.3409976,
+      "lng": 103.9623897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342492730291502,
+        "lng": 103.9637591302915
+      },
+      "southwest": {
+        "lat": 1.339794769708498,
+        "lng": 103.9610611697085
+      }
+    }
+  },
+  "name": "SUTD Building 2",
+  "place_id": "ChIJNWaiVQA92jER0Y-tIUk-p7A",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12729211355604553681",
+  "vicinity": "Building 2, Singapore"
+}

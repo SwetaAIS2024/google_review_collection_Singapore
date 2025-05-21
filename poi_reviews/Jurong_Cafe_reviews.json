@@ -1,0 +1,29 @@
+{
+  "formatted_address": "134 Jurong E St 13, Singapore 600134",
+  "geometry": {
+    "location": {
+      "lat": 1.3341522,
+      "lng": 103.7388366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335675580291502,
+        "lng": 103.7400980802915
+      },
+      "southwest": {
+        "lat": 1.332977619708497,
+        "lng": 103.7374001197085
+      }
+    }
+  },
+  "name": "Jurong Cafe",
+  "place_id": "ChIJoSscogUQ2jERXRZdOZXXd58",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11490890010171610717",
+  "vicinity": "134 Jurong East Street 13"
+}

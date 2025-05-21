@@ -1,0 +1,44 @@
+{
+  "formatted_address": "333 Boon Lay Wy, #04-01, Singapore 649848",
+  "geometry": {
+    "location": {
+      "lat": 1.3351153,
+      "lng": 103.7061551
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336474030291502,
+        "lng": 103.7073979802915
+      },
+      "southwest": {
+        "lat": 1.333776069708497,
+        "lng": 103.7047000197085
+      }
+    }
+  },
+  "name": "Oyster N Booze",
+  "place_id": "ChIJMU39PQAP2jERDsjTrypTlVA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sky Chia",
+      "author_url": "https://www.google.com/maps/contrib/100840279869448877042/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdgs6HXSpha21RzzQRjCxM6cQn_456KjyjXC7yyrIFu2WQ1Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "They serve sashimi grade oyster at $2 with beer ordered",
+      "time": 1723530900,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5806638737367746574",
+  "user_ratings_total": 1,
+  "vicinity": "333 Boon Lay Way, #04-01, Singapore"
+}

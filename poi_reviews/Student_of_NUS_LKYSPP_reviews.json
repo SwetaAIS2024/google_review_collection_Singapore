@@ -1,0 +1,28 @@
+{
+  "formatted_address": "35 College Green, Singapore 299694",
+  "geometry": {
+    "location": {
+      "lat": 1.3238344,
+      "lng": 103.8151779
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325217630291502,
+        "lng": 103.8165599302915
+      },
+      "southwest": {
+        "lat": 1.322519669708498,
+        "lng": 103.8138619697085
+      }
+    }
+  },
+  "name": "Student of NUS (LKYSPP)",
+  "place_id": "ChIJV4C2XEUb2jERZQo-htgrdow",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10121325421526911589",
+  "vicinity": "35 College Green, Singapore"
+}

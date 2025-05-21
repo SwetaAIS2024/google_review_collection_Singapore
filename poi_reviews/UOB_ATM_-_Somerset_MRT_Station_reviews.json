@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 1 Somerset Rd, Somerset MRT Station, Singapore 238162",
+  "geometry": {
+    "location": {
+      "lat": 1.3007485,
+      "lng": 103.838463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302010730291502,
+        "lng": 103.8397707802915
+      },
+      "southwest": {
+        "lat": 1.299312769708498,
+        "lng": 103.8370728197085
+      }
+    }
+  },
+  "name": "UOB ATM - Somerset MRT Station",
+  "place_id": "ChIJcx8u7egZ2jERZLGDhB9Cs0U",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5022430712582877540",
+  "vicinity": "No. 1 Somerset Road, Somerset MRT Station"
+}

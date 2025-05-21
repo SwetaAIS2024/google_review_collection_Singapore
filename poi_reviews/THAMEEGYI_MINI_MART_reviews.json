@@ -1,0 +1,46 @@
+{
+  "formatted_address": "703 Bedok Reservoir Rd, #01-3514, Singapore 470703",
+  "geometry": {
+    "location": {
+      "lat": 1.3371817,
+      "lng": 103.9199486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338411280291502,
+        "lng": 103.9212380802915
+      },
+      "southwest": {
+        "lat": 1.335713319708498,
+        "lng": 103.9185401197085
+      }
+    }
+  },
+  "name": "THAMEEGYI MINI MART",
+  "place_id": "ChIJ07Oem1092jERio35WSLZLjE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jethro Quek",
+      "author_url": "https://www.google.com/maps/contrib/114451537299484137587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzsdt14gHLJ8VOepNbjd7cVO9VX_3YPY3ObrjVs5N7SnAq_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Friendly and helpful employees. Good variety of drinks and snacks not found elsewhere",
+      "time": 1643881025,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3544008698348801418",
+  "user_ratings_total": 1,
+  "vicinity": "703 Bedok Reservoir Road, #01-3514"
+}

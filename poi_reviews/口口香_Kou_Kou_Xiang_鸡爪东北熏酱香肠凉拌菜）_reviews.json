@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Singapore, Yishun Ave 2, 920号bus interchange#01-10 s 邮政编码: 769100",
+  "geometry": {
+    "location": {
+      "lat": 1.4266728,
+      "lng": 103.8359988
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427899180291502,
+        "lng": 103.8371281302915
+      },
+      "southwest": {
+        "lat": 1.425201219708498,
+        "lng": 103.8344301697085
+      }
+    }
+  },
+  "name": "口口香 Kou Kou Xiang (鸡爪东北熏酱香肠凉拌菜）",
+  "place_id": "ChIJbfaUFvEV2jERoC3DMTgR8os",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lam Yan",
+      "author_url": "https://www.google.com/maps/contrib/112662391054419816169/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvWJgYJzLd0JDQDUSvbH6G_d88LtV_IiNrfFZu90R37KMjsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "I: Large and longI: Large and long了",
+      "time": 1740622940,
+      "translated": false
+    },
+    {
+      "author_name": "甘丽",
+      "author_url": "https://www.google.com/maps/contrib/100957771747758247379/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi1efvqvyJ5wMomrl97Uaw60Hsm7-id37THwwM5WUlqfRXaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Delicious and not expensive, it tastes like home, authentic Chinese braised food",
+      "time": 1731052964,
+      "translated": true
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10084141448686677408",
+  "user_ratings_total": 2,
+  "vicinity": "920 Yishun Avenue 2, #01-10 s bus interchange"
+}

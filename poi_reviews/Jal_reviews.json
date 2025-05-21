@@ -1,0 +1,41 @@
+{
+  "formatted_address": "11C Jln Ulu Sembawang, Singapore 758931",
+  "geometry": {
+    "location": {
+      "lat": 1.421893,
+      "lng": 103.792849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.423138930291502,
+        "lng": 103.7944072302915
+      },
+      "southwest": {
+        "lat": 1.420440969708498,
+        "lng": 103.7917092697085
+      }
+    }
+  },
+  "name": "Jal",
+  "place_id": "ChIJr42hNb8T2jERnIC2NZX3Tjg",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Shirley Lee",
+      "author_url": "https://www.google.com/maps/contrib/118255737818314903728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjXIkXuG1ENgTUEuURJI3p2vujFAQagSV_uTmTy9WGAWU_KA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745675134,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4057452534530736284",
+  "user_ratings_total": 1,
+  "vicinity": "11C Jalan Ulu Sembawang, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3161543,
+      "lng": 103.9442255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317457030291502,
+        "lng": 103.9456005802915
+      },
+      "southwest": {
+        "lat": 1.314759069708498,
+        "lng": 103.9429026197085
+      }
+    }
+  },
+  "name": "Aft Parbury Ave",
+  "place_id": "ChIJ45398MUi2jERHilxRmwawCY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chen Yanguang",
+      "author_url": "https://www.google.com/maps/contrib/115035240477605090845/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxRUEimMReEAaJ_nZ7f14wCZqNJNg238qMK17ng1bKg8thOmnyTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695838131,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2792260821310318878",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

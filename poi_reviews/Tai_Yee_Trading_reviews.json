@@ -1,0 +1,30 @@
+{
+  "formatted_address": "842H Tampines St 82, Block 842C Block 842H, Singapore 528842",
+  "geometry": {
+    "location": {
+      "lat": 1.3516885,
+      "lng": 103.9369497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353092230291502,
+        "lng": 103.9381446302915
+      },
+      "southwest": {
+        "lat": 1.350394269708498,
+        "lng": 103.9354466697085
+      }
+    }
+  },
+  "name": "Tai Yee Trading",
+  "place_id": "ChIJDxzxxWw92jER0b3o6MPBqQU",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=408070288424091089",
+  "vicinity": "842H Tampines Street 82, Block 842C Block 842H"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.36707,
+      "lng": 103.89927
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368439480291502,
+        "lng": 103.9005678802915
+      },
+      "southwest": {
+        "lat": 1.365741519708498,
+        "lng": 103.8978699197085
+      }
+    }
+  },
+  "name": "Opp Blk 321, Hougang Ave 7",
+  "place_id": "ChIJIcIKtzMW2jERHLp3BZ-m35M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10655418445303626268",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "476 Tampines Street 44, Singapore 520476",
+  "geometry": {
+    "location": {
+      "lat": 1.3609627,
+      "lng": 103.9538394
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362175180291502,
+        "lng": 103.9551270802915
+      },
+      "southwest": {
+        "lat": 1.359477219708498,
+        "lng": 103.9524291197085
+      }
+    }
+  },
+  "name": "Al-Nasry Preschool Tampines",
+  "place_id": "ChIJZ5P03gY92jERt76WRo0Oky0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ballgoose ontheloose",
+      "author_url": "https://www.google.com/maps/contrib/104211852164580545625/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6_osnk3FX77DlFGuEzyRve7HareehFN4ne3mylw6XKsmEOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741272807,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3283984553220685495",
+  "user_ratings_total": 1,
+  "vicinity": "476 Tampines Street 44"
+}

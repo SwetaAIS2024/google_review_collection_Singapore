@@ -1,0 +1,30 @@
+{
+  "formatted_address": "222A Upper Thomson Rd, Singapore 574354",
+  "geometry": {
+    "location": {
+      "lat": 1.3528406,
+      "lng": 103.8352891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354169930291502,
+        "lng": 103.8366187302915
+      },
+      "southwest": {
+        "lat": 1.351471969708498,
+        "lng": 103.8339207697085
+      }
+    }
+  },
+  "name": "Learners' InQ Education Hub",
+  "place_id": "ChIJ8Sus8ToX2jERV1u81ciRCFA",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5767019614613298007",
+  "vicinity": "222A Upper Thomson Road"
+}

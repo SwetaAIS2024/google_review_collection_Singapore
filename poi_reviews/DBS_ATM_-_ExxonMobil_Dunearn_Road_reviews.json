@@ -1,0 +1,57 @@
+{
+  "formatted_address": "30 Dunearn Rd, Singapore 309425",
+  "geometry": {
+    "location": {
+      "lat": 1.3161251,
+      "lng": 103.8369408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317549980291502,
+        "lng": 103.8383704302915
+      },
+      "southwest": {
+        "lat": 1.314852019708498,
+        "lng": 103.8356724697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Dunearn Road",
+  "place_id": "ChIJ9weCppgZ2jERH-ZR9Rve9No",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Narjis Zekhnini",
+      "author_url": "https://www.google.com/maps/contrib/105159531496364689106/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtDWpRdlcWANNo85Kk9LXqB4i1TBS_-NAdct3dNvKwOppa8bUn=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "This is not a bank it's an ATM, DBS should really review their indications in google business places. This is not professional at all  !",
+      "time": 1506050734,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamad Yusoff",
+      "author_url": "https://www.google.com/maps/contrib/108920363767808882571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeVGzJlUhKhlYhSzvwFihxv3fgm_R_L-jjjLMPIwlPeZllExcH_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "good location",
+      "time": 1493535670,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15777479606246958623",
+  "user_ratings_total": 2,
+  "vicinity": "30 Dunearn Road, Singapore"
+}

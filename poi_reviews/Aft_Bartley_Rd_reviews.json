@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3420883,
+      "lng": 103.8834089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343463580291502,
+        "lng": 103.8847902802915
+      },
+      "southwest": {
+        "lat": 1.340765619708498,
+        "lng": 103.8820923197085
+      }
+    }
+  },
+  "name": "Aft Bartley Rd",
+  "place_id": "ChIJyT5F7pYX2jERhFXEUm8OLK0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mei Ling Loh",
+      "author_url": "https://www.google.com/maps/contrib/101168380979854319225/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV4PQMJ2P5qNCKqBn_x-C9y7Y3jU4ZeDieLCs4BoQ129-McrVQzw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1661078720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12478364538829559172",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

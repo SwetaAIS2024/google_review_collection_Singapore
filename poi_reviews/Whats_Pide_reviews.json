@@ -1,0 +1,29 @@
+{
+  "formatted_address": "46 Siglap Dr, Singapore 456171",
+  "geometry": {
+    "location": {
+      "lat": 1.3162467,
+      "lng": 103.919983
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317628880291502,
+        "lng": 103.9213228302915
+      },
+      "southwest": {
+        "lat": 1.314930919708498,
+        "lng": 103.9186248697085
+      }
+    }
+  },
+  "name": "What's Pide",
+  "place_id": "ChIJb95IBqYi2jERU88zcUrY4UY",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5107601266653253459",
+  "vicinity": "46 Siglap Drive, Singapore"
+}

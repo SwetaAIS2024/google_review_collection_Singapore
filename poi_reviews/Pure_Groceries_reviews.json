@@ -1,0 +1,74 @@
+{
+  "formatted_address": "1 Bedok Reservoir View, #01-04 Aquarius By the Park, Singapore 478926",
+  "geometry": {
+    "location": {
+      "lat": 1.3380902,
+      "lng": 103.9353767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339721480291502,
+        "lng": 103.9366313302915
+      },
+      "southwest": {
+        "lat": 1.337023519708498,
+        "lng": 103.9339333697085
+      }
+    }
+  },
+  "name": "Pure Groceries",
+  "place_id": "ChIJuy5dJlc92jER2ofjzfHNWMQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Praveen Balumuri",
+      "author_url": "https://www.google.com/maps/contrib/104480669823099155544/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg6QERYHKUhfte1f8FbFTUkO5cOCS1z97QzTh7cCjNtNHlQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700228089,
+      "translated": false
+    },
+    {
+      "author_name": "Jason “Jay” Sobrati",
+      "author_url": "https://www.google.com/maps/contrib/115924859501767475123/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWulJPM1vSUk_1Nitp3MX3ofhD1eG7JM6eiQt9nf1wvpSXWwC6y=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1696719244,
+      "translated": false
+    },
+    {
+      "author_name": "ramya Gollapalli",
+      "author_url": "https://www.google.com/maps/contrib/106887821542679669407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdF7tYzAMx_lZarnQJLbT3FWMvSrTvLLxgB_ziPAnicd_9QLE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686332749,
+      "translated": false
+    },
+    {
+      "author_name": "kali krishnam raju Dendukuri",
+      "author_url": "https://www.google.com/maps/contrib/101426335581454701637/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8OKf0TF4uynw9c-x0AksifF4NXO0qPSRXUpJtxKq19L4_lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683974392,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14148284667809466330",
+  "user_ratings_total": 4,
+  "vicinity": "1 Bedok Reservoir View, #01-04 Aquarius By the Park"
+}

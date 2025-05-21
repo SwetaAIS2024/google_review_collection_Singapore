@@ -1,0 +1,59 @@
+{
+  "formatted_address": "180 Island Club Rd, Singapore 578774",
+  "geometry": {
+    "location": {
+      "lat": 1.3641642,
+      "lng": 103.8216266
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.36571995,
+        "lng": 103.8232240802915
+      },
+      "southwest": {
+        "lat": 1.35949695,
+        "lng": 103.8205261197085
+      }
+    }
+  },
+  "name": "Island Bowl Snack Bar",
+  "place_id": "ChIJEVNVVdUW2jERWNSWJBXYS8I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tamin Ie",
+      "author_url": "https://www.google.com/maps/contrib/109847996039386646157/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUooRI7AfGaq6ncq0b4VyIXFK9Etl5V_9lx-X5Msp1OWth0Eso=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Simple and Fast meals",
+      "time": 1480081475,
+      "translated": false
+    },
+    {
+      "author_name": "H",
+      "author_url": "https://www.google.com/maps/contrib/111180470282407196865/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVimF3ox-5lCQe59zvM-itpwOEOXW6kEekZmHtj6Dc3mxkG4fnF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "good meal",
+      "time": 1650629560,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14000521451931096152",
+  "user_ratings_total": 2,
+  "vicinity": "180 Island Club Road"
+}

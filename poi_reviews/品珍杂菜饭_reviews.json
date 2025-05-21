@@ -1,0 +1,73 @@
+{
+  "formatted_address": "1 Tuas South Ave 6, #01-23, Singapore 637021",
+  "geometry": {
+    "location": {
+      "lat": 1.3042587,
+      "lng": 103.6254713
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305662830291502,
+        "lng": 103.6266734302915
+      },
+      "southwest": {
+        "lat": 1.302964869708498,
+        "lng": 103.6239754697085
+      }
+    }
+  },
+  "name": "品珍杂菜饭",
+  "place_id": "ChIJ5f5z1t4H2jEROzT7DUcKg40",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Lau Ya",
+      "author_url": "https://www.google.com/maps/contrib/113404061403670270139/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSrvvKMhbuUBKY15uaJLLKj3VkPeO0halpqPjiEHwX1XHKLSplYA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746514310,
+      "translated": false
+    },
+    {
+      "author_name": "N Jack",
+      "author_url": "https://www.google.com/maps/contrib/108685823140521948097/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsuiP2kZElGda5BPCoiB-YQ-k7qdVLBr4kOofSeWd-oz5-jA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724378751,
+      "translated": false
+    },
+    {
+      "author_name": "Gerald wei hwa",
+      "author_url": "https://www.google.com/maps/contrib/101603129873337671237/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHf3UKODhS_tlhW7ejV2NS5uGj3X_MvtMq19xbh4quBdAzhEU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724368917,
+      "translated": false
+    },
+    {
+      "author_name": "Pui Yee Liew",
+      "author_url": "https://www.google.com/maps/contrib/104124447839578236085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwss--c9VJ5pp60QRJZV29mjD5e8JE3-cBQxQny17HHFF77A=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1719663578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10197005281590457403",
+  "user_ratings_total": 4,
+  "vicinity": "1 Tuas South Avenue 6, #01-23, Singapore"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "140 Corporation Dr, #01-01, Singapore 610140",
+  "geometry": {
+    "location": {
+      "lat": 1.3267854,
+      "lng": 103.7231445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328013880291502,
+        "lng": 103.7245342802915
+      },
+      "southwest": {
+        "lat": 1.325315919708498,
+        "lng": 103.7218363197085
+      }
+    }
+  },
+  "name": "Corporation Drive Economic Rice",
+  "place_id": "ChIJx0BJe8cF2jERK5Re3SGK5yg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Hengxu",
+      "author_url": "https://www.google.com/maps/contrib/110739380390426017417/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu0RsAcjZqYlHOlBXMMNW14SRIoxXPGWruJAzZlRybsUkV5lE=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Overpriced and small portion will not go again!\n\n$5 for 1 meat 2 veg absolute rip off",
+      "time": 1711708889,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Andessen",
+      "author_url": "https://www.google.com/maps/contrib/110481637722501881097/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIv7dChgN7ffVlBNf_2wScH2-uHO5FBopWL_m6AV15b52w3sw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Delicious! Must try! 🤤👍",
+      "time": 1650252856,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2947476359189795883",
+  "user_ratings_total": 2,
+  "vicinity": "140 Corporation Drive, #01-01, Singapore"
+}

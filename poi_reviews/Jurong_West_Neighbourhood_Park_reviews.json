@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jurong West Street 62, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3404219,
+      "lng": 103.7027279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341943930291502,
+        "lng": 103.7040459802915
+      },
+      "southwest": {
+        "lat": 1.339245969708498,
+        "lng": 103.7013480197085
+      }
+    }
+  },
+  "name": "Jurong West Neighbourhood Park",
+  "place_id": "ChIJT9m7cQAP2jERiRC6_pkqDLc",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13189964249553309833",
+  "vicinity": "Jurong West Street 62"
+}

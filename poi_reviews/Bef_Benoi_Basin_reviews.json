@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.302121,
+      "lng": 103.679543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303464530291502,
+        "lng": 103.6808471802915
+      },
+      "southwest": {
+        "lat": 1.300766569708498,
+        "lng": 103.6781492197085
+      }
+    }
+  },
+  "name": "Bef Benoi Basin",
+  "place_id": "ChIJqcGu_aYF2jERxIDtpSPqMdU",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Jai Kumar",
+      "author_url": "https://www.google.com/maps/contrib/108933483341875212179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ4oOyt6e5OLquDIApHmwXpk0osaXhH73swc0n10p43w6PfrFt=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1710515760,
+      "translated": false
+    },
+    {
+      "author_name": "Eugene Yeoh",
+      "author_url": "https://www.google.com/maps/contrib/107654775523869959425/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0yAs284BV_MUzY2q2-YZUvIR9ZXbW9ktERyRGkzbWglIbF8jnow=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1606949508,
+      "translated": false
+    },
+    {
+      "author_name": "Faisal Ichai",
+      "author_url": "https://www.google.com/maps/contrib/113483110432724924775/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1UhgAyqUispqfH8gpV_w4eB85EuCE7-lePppSfge5saE7IA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490863811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15362317242766033092",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

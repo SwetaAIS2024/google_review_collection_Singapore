@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3786348,
+      "lng": 103.7579898
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379880730291502,
+        "lng": 103.7593732302915
+      },
+      "southwest": {
+        "lat": 1.377182769708498,
+        "lng": 103.7566752697085
+      }
+    }
+  },
+  "name": "Phoenix",
+  "place_id": "ChIJVzRyALwR2jERRskOj68L1sQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14183536925097249094",
+  "vicinity": "Singapore"
+}

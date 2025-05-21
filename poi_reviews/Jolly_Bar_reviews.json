@@ -1,0 +1,44 @@
+{
+  "formatted_address": "12 Marina Gardens Dr, Singapore 018952",
+  "geometry": {
+    "location": {
+      "lat": 1.2823489,
+      "lng": 103.868288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283481280291502,
+        "lng": 103.8695684802915
+      },
+      "southwest": {
+        "lat": 1.280783319708498,
+        "lng": 103.8668705197085
+      }
+    }
+  },
+  "name": "Jolly Bar",
+  "place_id": "ChIJr8BmZAAZ2jERK-4qDl-0rJs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Nico Prilenski",
+      "author_url": "https://www.google.com/maps/contrib/103411580691416372403/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVODydWRgUz2ZTFGjTQyh1eW-it5GJ-vIO9JGDsBvJKJXJYStzBLA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Outdoor food court.\nVery polite positive service.\nPrices are lower than in the center, which is good news.\nThe choice of food and drinks is small, but everything is of an adequate standard.\nIt won’t become a favorite place, but coming to drink beer next to the pond is great.",
+      "time": 1726665794,
+      "translated": true
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11217539092225650219",
+  "user_ratings_total": 1,
+  "vicinity": "12 Marina Gardens Drive, Singapore"
+}

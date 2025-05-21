@@ -1,0 +1,42 @@
+{
+  "formatted_address": "284 Bukit Batok East Ave 3, Singapore 650284",
+  "geometry": {
+    "location": {
+      "lat": 1.3468534,
+      "lng": 103.7570242
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348144630291502,
+        "lng": 103.7582910802915
+      },
+      "southwest": {
+        "lat": 1.345446669708498,
+        "lng": 103.7555931197085
+      }
+    }
+  },
+  "name": "Bus Stop (43181)",
+  "place_id": "ChIJB3AQ7UEQ2jER0E-NOb_9h_0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "POLASH CHANDRO MOZOMDAR",
+      "author_url": "https://www.google.com/maps/contrib/110034063689681769820/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvhFWdpDUxjW6EKlc2RDopSA79y2KWKxRQ8ri6CuvLn3JJy7M=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713107066,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18268849411197849552",
+  "user_ratings_total": 1,
+  "vicinity": "284 Bukit Batok East Avenue 3, Singapore"
+}

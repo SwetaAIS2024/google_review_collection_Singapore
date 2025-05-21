@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Raffles Institution Ln, Singapore 575954",
+  "geometry": {
+    "location": {
+      "lat": 1.3456793,
+      "lng": 103.8456032
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346835980291502,
+        "lng": 103.8469613802915
+      },
+      "southwest": {
+        "lat": 1.344138019708498,
+        "lng": 103.8442634197085
+      }
+    }
+  },
+  "name": "Marshall Block",
+  "place_id": "ChIJLwrT0fgX2jERuccvklYKUMg",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14434048172658509753",
+  "vicinity": "1 Raffles Institution Lane, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "26 Sentosa Gateway Basement 1 Mezzanine, Singapore 098138",
+  "geometry": {
+    "location": {
+      "lat": 1.2572825,
+      "lng": 103.8221549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.258258330291502,
+        "lng": 103.8235441802915
+      },
+      "southwest": {
+        "lat": 1.255560369708498,
+        "lng": 103.8208462197085
+      }
+    }
+  },
+  "name": "DBS ATM - Resorts World Sentosa Basement 1 Mezzanine",
+  "place_id": "ChIJ19SwwNMZ2jERA203kBZn3W0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7916597066593692931",
+  "vicinity": "26 Sentosa Gateway Basement 1 Mezzanine, Singapore"
+}

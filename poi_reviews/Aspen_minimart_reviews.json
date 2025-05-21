@@ -1,0 +1,30 @@
+{
+  "formatted_address": "261 River Valley Rd, Singapore 238307",
+  "geometry": {
+    "location": {
+      "lat": 1.2947473,
+      "lng": 103.839936
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296195630291502,
+        "lng": 103.8412422802915
+      },
+      "southwest": {
+        "lat": 1.293497669708498,
+        "lng": 103.8385443197085
+      }
+    }
+  },
+  "name": "Aspen minimart",
+  "place_id": "ChIJcbaD0McZ2jERKXvbINNToUo",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5377671596311542569",
+  "vicinity": "261 River Valley Road, Singapore"
+}

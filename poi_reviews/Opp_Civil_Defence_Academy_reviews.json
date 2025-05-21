@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3662666,
+      "lng": 103.6937814
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367687480291502,
+        "lng": 103.6951088802915
+      },
+      "southwest": {
+        "lat": 1.364989519708498,
+        "lng": 103.6924109197085
+      }
+    }
+  },
+  "name": "Opp Civil Defence Academy",
+  "place_id": "ChIJaXXiulIO2jER7V9viPhmT_E",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17388229903927697389",
+  "vicinity": "Singapore"
+}

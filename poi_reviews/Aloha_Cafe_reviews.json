@@ -1,0 +1,44 @@
+{
+  "formatted_address": "159W Jln. Loyang Besar, Singapore 507020",
+  "geometry": {
+    "location": {
+      "lat": 1.3807867,
+      "lng": 103.9615571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382072930291502,
+        "lng": 103.9629186802915
+      },
+      "southwest": {
+        "lat": 1.379374969708498,
+        "lng": 103.9602207197085
+      }
+    }
+  },
+  "name": "Aloha Cafe",
+  "place_id": "ChIJgzfhTSk92jERajr6hgOrhLY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Zaikwan",
+      "author_url": "https://www.google.com/maps/contrib/110152789560117227172/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPQWCW2WiZDE5DW1sioPjAMiHkei9Im2McFS3HveyvR-XL2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1718857392,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13151824843466488426",
+  "user_ratings_total": 1,
+  "vicinity": "159W Jalan Loyang Besar, Singapore"
+}

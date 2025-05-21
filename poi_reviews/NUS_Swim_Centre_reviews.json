@@ -1,0 +1,29 @@
+{
+  "formatted_address": "523 Bukit Batok St 52, #03-711, 650523 Block 523, Singapore 650523",
+  "geometry": {
+    "location": {
+      "lat": 1.3566898,
+      "lng": 103.7525133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358146830291502,
+        "lng": 103.7538588302915
+      },
+      "southwest": {
+        "lat": 1.355448869708498,
+        "lng": 103.7511608697085
+      }
+    }
+  },
+  "name": "NUS Swim Centre",
+  "place_id": "ChIJAQAQJEgQ2jER5pzzaHI6es0",
+  "types": [
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14806210987995405542",
+  "vicinity": "523 Bukit Batok Street 52, #03-711, 650523 Block 523"
+}

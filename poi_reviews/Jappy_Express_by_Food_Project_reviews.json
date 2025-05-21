@@ -1,0 +1,29 @@
+{
+  "formatted_address": "735 Pasir Ris Street 72, #01-336 West Plaza, Singapore 510735",
+  "geometry": {
+    "location": {
+      "lat": 1.3793667,
+      "lng": 103.9358692
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380958580291502,
+        "lng": 103.9376202302915
+      },
+      "southwest": {
+        "lat": 1.378260619708498,
+        "lng": 103.9349222697085
+      }
+    }
+  },
+  "name": "Jappy Express by Food Project",
+  "place_id": "ChIJ-92rXyk92jERdsL1-L9gVN4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16020536152095572598",
+  "vicinity": "735 Pasir Ris Street 72, #01-336 West Plaza, Singapore"
+}

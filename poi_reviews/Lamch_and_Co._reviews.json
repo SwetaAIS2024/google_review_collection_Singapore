@@ -1,0 +1,27 @@
+{
+  "formatted_address": "203 Henderson Rd, #10-12 Wing B, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.281749,
+      "lng": 103.8212455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283104180291502,
+        "lng": 103.8225867802915
+      },
+      "southwest": {
+        "lat": 1.280406219708498,
+        "lng": 103.8198888197085
+      }
+    }
+  },
+  "name": "Lamch & Co.",
+  "place_id": "ChIJeWKOuowZ2jERwDBLud9r4OQ",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16492300444061348032",
+  "vicinity": "203 Henderson Road, #10-12 Wing B"
+}

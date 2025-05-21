@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3048608,
+      "lng": 103.9236543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306204780291502,
+        "lng": 103.9251650802915
+      },
+      "southwest": {
+        "lat": 1.303506819708498,
+        "lng": 103.9224671197085
+      }
+    }
+  },
+  "name": "Cp D3",
+  "place_id": "ChIJjTf1q5ki2jERoukA3dOQXiI",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "CZC",
+      "author_url": "https://www.google.com/maps/contrib/114228349954221708385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgeV0ZnaS3lAx8MBBHwgu8vpsbwpFvUKvCY7hVRmxlNLW9g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Cyclist Park.",
+      "time": 1584169725,
+      "translated": false
+    },
+    {
+      "author_name": "Nashaone Entertainment",
+      "author_url": "https://www.google.com/maps/contrib/110546931742676841102/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzqkWcvaERifinEwE5xmMIF5V2HubvDnfi6F0BHVIIijJ34hGB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1446970306,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2476576084720675234",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

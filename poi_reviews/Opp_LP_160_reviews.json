@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.404431,
+      "lng": 103.701698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.405764430291502,
+        "lng": 103.7030749802915
+      },
+      "southwest": {
+        "lat": 1.403066469708498,
+        "lng": 103.7003770197085
+      }
+    }
+  },
+  "name": "Opp LP 160",
+  "place_id": "ChIJga1RGd8N2jEROGi03kF9tuE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ali Akbar Pam Abd Kadir",
+      "author_url": "https://www.google.com/maps/contrib/113528813334974493096/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSzACppCirofXQFBM5Vq_ewCVl72TK_Mz95CjSsKmi1EItbbfB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Bus stop for 975. Resting point for cyclists and runners as well.",
+      "time": 1569634166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16264324826157836344",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

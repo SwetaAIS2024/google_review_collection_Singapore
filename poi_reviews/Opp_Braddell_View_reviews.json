@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3441476,
+      "lng": 103.839442
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345456980291502,
+        "lng": 103.8408312302915
+      },
+      "southwest": {
+        "lat": 1.342759019708498,
+        "lng": 103.8381332697085
+      }
+    }
+  },
+  "name": "Opp Braddell View",
+  "place_id": "ChIJmxmMyUAX2jERZ0bsSe6BKzA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Devi pooja",
+      "author_url": "https://www.google.com/maps/contrib/101061974681665474651/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVUcdktNC_RZrtQNxUWohafiA1PPVDxfREJuBsakU14ojIbw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Where you can change bus for your destination area.",
+      "time": 1684877597,
+      "translated": false
+    },
+    {
+      "author_name": "pankaj captain",
+      "author_url": "https://www.google.com/maps/contrib/113254322637567538930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGAyJNm_DfBpRntfJ3jnmb16Qy7YYHaYJZzbUMH3z8qI8w8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1617496462,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3471010798261519975",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

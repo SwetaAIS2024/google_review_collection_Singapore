@@ -1,0 +1,29 @@
+{
+  "formatted_address": "902 ECP, #01-02 Coastal Playgrove, Singapore 449874",
+  "geometry": {
+    "location": {
+      "lat": 1.296876,
+      "lng": 103.8995522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298287880291502,
+        "lng": 103.9007217802915
+      },
+      "southwest": {
+        "lat": 1.295589919708498,
+        "lng": 103.8980238197085
+      }
+    }
+  },
+  "name": "Prince of Hokkien Mee",
+  "place_id": "ChIJswW7JQAZ2jERbmWtiaujdq4",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12571415366995895662",
+  "vicinity": "902 East Coast Parkway, #01-02 Coastal Playgrove"
+}

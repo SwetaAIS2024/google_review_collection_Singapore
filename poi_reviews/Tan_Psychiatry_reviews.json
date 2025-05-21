@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Mount Elizabeth Medical Centre #15-05, 3 Mount Elizabeth (S)228510, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3044259,
+      "lng": 103.835166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305707530291502,
+        "lng": 103.8365114802915
+      },
+      "southwest": {
+        "lat": 1.303009569708498,
+        "lng": 103.8338135197085
+      }
+    }
+  },
+  "name": "Tan Psychiatry",
+  "place_id": "ChIJuaCiV5IZ2jEROGqjxSwniQI",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=182720333133081144",
+  "vicinity": "Mount Elizabeth Medical Centre #15-05, 3 Mount Elizabeth (S)228510"
+}

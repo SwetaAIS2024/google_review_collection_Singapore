@@ -1,0 +1,41 @@
+{
+  "formatted_address": "3 Tuas South Ave 10, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2858532,
+      "lng": 103.6230524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287494330291502,
+        "lng": 103.6245142302915
+      },
+      "southwest": {
+        "lat": 1.284796369708498,
+        "lng": 103.6218162697085
+      }
+    }
+  },
+  "name": "SMEG-6 Office",
+  "place_id": "ChIJcXTsrzEH2jERSuo1W4X0gEE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Liu Jinxi",
+      "author_url": "https://www.google.com/maps/contrib/113847536845933013497/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7wnkTzlOK4xmt4iSd1bLn1O1VQfwlVfqPB3K48gOv2kyvog=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711277114,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4720041263082367562",
+  "user_ratings_total": 1,
+  "vicinity": "3 Tuas South Avenue 10"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "208 Bedok South Ave 1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.315627,
+      "lng": 103.9326631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316997580291502,
+        "lng": 103.9341654802915
+      },
+      "southwest": {
+        "lat": 1.314299619708498,
+        "lng": 103.9314675197085
+      }
+    }
+  },
+  "name": "St. Andrew's Community Hospital (Bedok)",
+  "place_id": "ChIJwQduPwAj2jER41CytXQ4kTo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Siym Rj",
+      "author_url": "https://www.google.com/maps/contrib/102049745712425302265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXowsPSWVmaZ7qobgmr_eKouRijySo1LPSjcP9ezrWk7IRulzf2mg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Good",
+      "time": 1747414061,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4220216399738589411",
+  "user_ratings_total": 1,
+  "vicinity": "208 Bedok South Avenue 1"
+}

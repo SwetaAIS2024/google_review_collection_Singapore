@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3812364,
+      "lng": 103.8410023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382590930291502,
+        "lng": 103.8423616302915
+      },
+      "southwest": {
+        "lat": 1.379892969708498,
+        "lng": 103.8396636697085
+      }
+    }
+  },
+  "name": "Opp Yio Chu Kang Cc",
+  "place_id": "ChIJCd5Y7sAW2jERElOeH2qLqmo",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Brian Ong",
+      "author_url": "https://www.google.com/maps/contrib/112053722108803512489/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVXnPyditxWVNja1zQ-LDLlABXGRuVxUcXZ4rayCxDJDGJSJQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Bus stop number: 55169\nThis bus stop currently serves Bus 269. This is just right outside of 628 Market with sheltered walkway and an accessibility ramp.\nThe downside is that when it rains heavily, there is a slight leak between the bus stop and the sheltered walk ways on both side (To market and to traffic light crossing)",
+      "time": 1703905486,
+      "translated": false
+    },
+    {
+      "author_name": "Xingzuo Wu",
+      "author_url": "https://www.google.com/maps/contrib/113216811705234288482/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKAw7u7kwHs7MmdtbNCudY-XVETL1I9VC4DSBZ-WUec_UiWQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Because can see what bus can we take.",
+      "time": 1476345956,
+      "translated": false
+    },
+    {
+      "author_name": "richard goh",
+      "author_url": "https://www.google.com/maps/contrib/104821343069473042068/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzehLOTWGsvmeEd8tIlWDBa0xXhXzbvsu60SM8s1Kx9TIroA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485529273,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7686109001974436626",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

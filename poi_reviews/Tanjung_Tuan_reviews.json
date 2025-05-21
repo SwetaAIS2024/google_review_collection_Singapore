@@ -1,0 +1,44 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4167127,
+      "lng": 103.6629545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.41951845,
+        "lng": 103.663925
+      },
+      "southwest": {
+        "lat": 1.41577745,
+        "lng": 103.660043
+      }
+    }
+  },
+  "name": "Tanjung Tuan",
+  "place_id": "ChIJidsb26IN2jERH4Qi-jONZbw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "zaffi zul",
+      "author_url": "https://www.google.com/maps/contrib/108771713017582149181/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYy1r4zUSP8Tct541OWvkcbmIJuVbyBfS8aGUQHei_25kTFQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "This place is a copy of Tanjung Tuan near Port Dickson",
+      "time": 1734914281,
+      "translated": true
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13575411906157642783",
+  "user_ratings_total": 1,
+  "vicinity": "Iskandar Puteri"
+}

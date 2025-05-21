@@ -1,0 +1,30 @@
+{
+  "formatted_address": "12 Telok Blangah Cres, Singapore 090012",
+  "geometry": {
+    "location": {
+      "lat": 1.2772653,
+      "lng": 103.819591
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278697680291502,
+        "lng": 103.8211800802915
+      },
+      "southwest": {
+        "lat": 1.275999719708498,
+        "lng": 103.8184821197085
+      }
+    }
+  },
+  "name": "Xtra Value Mart",
+  "place_id": "ChIJ24K-8Ngb2jERnkGg2n0nDnI",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8218549791490064798",
+  "vicinity": "12 Telok Blangah Crescent"
+}

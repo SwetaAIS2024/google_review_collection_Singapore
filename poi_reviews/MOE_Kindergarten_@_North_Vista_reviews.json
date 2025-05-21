@@ -1,0 +1,54 @@
+{
+  "formatted_address": "North Vista Primary School, 20 Compassvale Link, Singapore 544974",
+  "geometry": {
+    "location": {
+      "lat": 1.3828084,
+      "lng": 103.8960478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383931730291502,
+        "lng": 103.8973403802915
+      },
+      "southwest": {
+        "lat": 1.381233769708498,
+        "lng": 103.8946424197085
+      }
+    }
+  },
+  "name": "MOE Kindergarten @ North Vista",
+  "place_id": "ChIJARvT8xUW2jERlBubtZfbnlY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jimmy Chua",
+      "author_url": "https://www.google.com/maps/contrib/100652967180584813933/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8RZAB_SQFhQ1CUcunNPkqIfrDxj5L2zyGkyyBJ0bkGvk0GydwFQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Convenient location for those living near here",
+      "time": 1611368291,
+      "translated": false
+    },
+    {
+      "author_name": "Terrence Lee",
+      "author_url": "https://www.google.com/maps/contrib/102170707110325856249/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgordKJoS1H400-kTbNtaHJuptFdc7t9mjeFHL-x1DGCd4sA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698639907,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6241667578215472020",
+  "user_ratings_total": 2,
+  "vicinity": "North Vista Primary School, 20 Compassvale Link"
+}

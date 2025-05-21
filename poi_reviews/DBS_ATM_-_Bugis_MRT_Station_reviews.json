@@ -1,0 +1,43 @@
+{
+  "formatted_address": "220 Victoria St, Singapore 188022",
+  "geometry": {
+    "location": {
+      "lat": 1.3002567,
+      "lng": 103.8558118
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301553980291502,
+        "lng": 103.8570956802915
+      },
+      "southwest": {
+        "lat": 1.298856019708498,
+        "lng": 103.8543977197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bugis MRT Station",
+  "place_id": "ChIJW6pYnGEZ2jERbSq0qYSVnRo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "wwon",
+      "author_url": "https://www.google.com/maps/contrib/113921371951847845079/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwj1-D9r4NbCxn2I0AaVeaSg3Qldrdkxxx0-ef4aKoSk61X0C2=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654228805,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1917853413345077869",
+  "user_ratings_total": 1,
+  "vicinity": "220 Victoria Street, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "51 Tg Pagar Rd, Singapore 088472",
+  "geometry": {
+    "location": {
+      "lat": 1.278669,
+      "lng": 103.843997
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280024830291502,
+        "lng": 103.8452983302915
+      },
+      "southwest": {
+        "lat": 1.277326869708498,
+        "lng": 103.8426003697085
+      }
+    }
+  },
+  "name": "Crown Music KTV",
+  "place_id": "ChIJsQa4R20Z2jER8YXZSDK2heQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Felecia Mun",
+      "author_url": "https://www.google.com/maps/contrib/113359996608606213049/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1bx6RpKsiR4Rn_eNeCe8NacmlgmqyJ5p1AhBLBirjbm-Deg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553255960,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16466767939636921841",
+  "user_ratings_total": 1,
+  "vicinity": "51 Tanjong Pagar Road"
+}

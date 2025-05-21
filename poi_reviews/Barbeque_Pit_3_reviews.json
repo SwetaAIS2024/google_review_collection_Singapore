@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Pasir Ris Drive, #1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3810517,
+      "lng": 103.9598991
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381853780291502,
+        "lng": 103.9611046302915
+      },
+      "southwest": {
+        "lat": 1.379155819708498,
+        "lng": 103.9584066697085
+      }
+    }
+  },
+  "name": "Barbeque Pit 3",
+  "place_id": "ChIJ1zP70Os92jERTorOYtFH8P8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arul Jothi",
+      "author_url": "https://www.google.com/maps/contrib/103590080660954107176/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7SufrxnGbIb1E2uhv52TsJYdlVuyK_nGWc0dElaqEC9pQUQ3QZw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687685933,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18442319438713621070",
+  "user_ratings_total": 1,
+  "vicinity": "Pasir Ris Drive, #1"
+}

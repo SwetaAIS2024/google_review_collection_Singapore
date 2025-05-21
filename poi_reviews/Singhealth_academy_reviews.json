@@ -1,0 +1,57 @@
+{
+  "formatted_address": "168 Jalan Bukit Merah, Singapore 150168",
+  "geometry": {
+    "location": {
+      "lat": 1.2832255,
+      "lng": 103.818695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284525880291502,
+        "lng": 103.8200305302915
+      },
+      "southwest": {
+        "lat": 1.281827919708498,
+        "lng": 103.8173325697085
+      }
+    }
+  },
+  "name": "Singhealth academy",
+  "place_id": "ChIJpQd69NYb2jERi90keYCFsb0",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Audrey WW Yuen",
+      "author_url": "https://www.google.com/maps/contrib/112761143650426484390/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuoRXkm8q9WNIYPVLhd-uLuet6ImscIsttRGHXXiK41RTl0w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "Feels like going a big round to exit 4 which is so near to nel line",
+      "time": 1721173889,
+      "translated": false
+    },
+    {
+      "author_name": "D K",
+      "author_url": "https://www.google.com/maps/contrib/106767048214237575612/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKShxNMJNGc-dGmuVLS9TeP7DHLbRFjPfjiGtqwjOe-jHb6qQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "For those who are lost, this place is at tower 3.",
+      "time": 1726531108,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13668853130880933259",
+  "user_ratings_total": 2,
+  "vicinity": "168 Jalan Bukit Merah"
+}

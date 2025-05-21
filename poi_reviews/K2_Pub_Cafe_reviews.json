@@ -1,0 +1,43 @@
+{
+  "formatted_address": "157 Thomson Rd, Singapore 307610",
+  "geometry": {
+    "location": {
+      "lat": 1.3181573,
+      "lng": 103.8439365
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319429030291502,
+        "lng": 103.8453065302915
+      },
+      "southwest": {
+        "lat": 1.316731069708498,
+        "lng": 103.8426085697085
+      }
+    }
+  },
+  "name": "K2 Pub Cafe",
+  "place_id": "ChIJHW1VlOcZ2jERawG8e5OhQ4A",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Adam Bin Rahamat",
+      "author_url": "https://www.google.com/maps/contrib/110084747987587688007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEs8J_z0Rd99DAOLzz9TahcRZjIbPDSY2dZ3vcZ3BYYF35sFTo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1580835921,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9242408515102572907",
+  "user_ratings_total": 1,
+  "vicinity": "157 Thomson Road"
+}

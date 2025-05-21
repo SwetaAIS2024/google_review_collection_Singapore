@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3085415,
+      "lng": 103.8025506
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309838030291502,
+        "lng": 103.8039532802915
+      },
+      "southwest": {
+        "lat": 1.307140069708498,
+        "lng": 103.8012553197085
+      }
+    }
+  },
+  "name": "Viz Holland",
+  "place_id": "ChIJafWljRUa2jERryMl0vEMZzk",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Antonius Mintarno",
+      "author_url": "https://www.google.com/maps/contrib/116651395464348427085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbI4WYD4szYRaDgqq3p3tLVyN0JlXpRwAf5UjD1VYb-E2o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1504613152,
+      "translated": false
+    },
+    {
+      "author_name": "Jun Wang",
+      "author_url": "https://www.google.com/maps/contrib/114347687321083119270/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcfQN7_DyJhKaizbIsGBDD5mFGyv6Efhpw7tDiLCjnyMuxrf8X=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489390096,
+      "translated": false
+    },
+    {
+      "author_name": "Siva Srinivasan",
+      "author_url": "https://www.google.com/maps/contrib/116420799217536316089/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8HzYVIk3fHRJB5c6j936PCI0nFpMbsDMrILUVzyH2icDiUJy0bw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483177396,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4136289015515390895",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

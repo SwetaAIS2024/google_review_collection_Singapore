@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Pasir Ris Drive 10, Singapore 510703",
+  "geometry": {
+    "location": {
+      "lat": 1.3796897,
+      "lng": 103.9381962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381057280291502,
+        "lng": 103.9395200302915
+      },
+      "southwest": {
+        "lat": 1.378359319708498,
+        "lng": 103.9368220697085
+      }
+    }
+  },
+  "name": "Shokumi",
+  "place_id": "ChIJV7X0N6c92jERD-XaTdo0Rgg",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=596222112886875407",
+  "vicinity": "Pasir Ris Drive 10"
+}

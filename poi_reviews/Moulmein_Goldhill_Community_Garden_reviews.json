@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Goldhill Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3210593,
+      "lng": 103.8319775
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322412430291502,
+        "lng": 103.8334132302915
+      },
+      "southwest": {
+        "lat": 1.319714469708498,
+        "lng": 103.8307152697085
+      }
+    }
+  },
+  "name": "Moulmein Goldhill Community Garden",
+  "place_id": "ChIJsX8rjlUZ2jERzUSUr44tkE0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ilja Rijnen",
+      "author_url": "https://www.google.com/maps/contrib/108555904396408091191/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG7WDn84F0GfyhEUZ-VWxLIxX8FM5Emahrb9VP4hp1KYICCsl0uQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nicknamed \"The Secret Garden\" for obvious reasons of this being a hidden piece of state land turned park.",
+      "time": 1680404081,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5589017228421121229",
+  "user_ratings_total": 1,
+  "vicinity": "Goldhill Avenue"
+}

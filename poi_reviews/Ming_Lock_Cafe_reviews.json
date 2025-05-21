@@ -1,0 +1,44 @@
+{
+  "formatted_address": "115B Commonwealth Dr, Singapore 149597",
+  "geometry": {
+    "location": {
+      "lat": 1.3048136,
+      "lng": 103.7980353
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306109280291502,
+        "lng": 103.7994451802915
+      },
+      "southwest": {
+        "lat": 1.303411319708498,
+        "lng": 103.7967472197085
+      }
+    }
+  },
+  "name": "Ming Lock Cafe",
+  "place_id": "ChIJnfMHn0Aa2jERbMsINwo6Flw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee Eric",
+      "author_url": "https://www.google.com/maps/contrib/105025049965898178172/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8IKCiEYshAlBs8dcWLI6LTd7Mmv2_3qpNj4Ac7MSkVtxPMQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529411266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6635554916524411756",
+  "user_ratings_total": 1,
+  "vicinity": "115B Commonwealth Drive"
+}

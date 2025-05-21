@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3851869,
+      "lng": 103.8228386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386579380291502,
+        "lng": 103.8242153802915
+      },
+      "southwest": {
+        "lat": 1.383881419708498,
+        "lng": 103.8215174197085
+      }
+    }
+  },
+  "name": "Aft Tagore Dr",
+  "place_id": "ChIJBf2MILUW2jERh_sFZ7Ill30",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "고윈ᄐugly",
+      "author_url": "https://www.google.com/maps/contrib/113345316342181425161/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Nn2u3USnFxoq1jDz148gs-RodltgMwZYD03X-jlsX1NqsNE=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654399773,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9049743424387152775",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

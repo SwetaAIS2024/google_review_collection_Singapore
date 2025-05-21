@@ -1,0 +1,89 @@
+{
+  "formatted_address": "120 Lower Delta Rd, Singapore 169208",
+  "geometry": {
+    "location": {
+      "lat": 1.2803845,
+      "lng": 103.822293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281833630291502,
+        "lng": 103.8236384802915
+      },
+      "southwest": {
+        "lat": 1.279135669708498,
+        "lng": 103.8209405197085
+      }
+    }
+  },
+  "name": "Friendly Vegetarian Food",
+  "place_id": "ChIJPSYF29wZ2jERXGUgOuBxemg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "DS",
+      "author_url": "https://www.google.com/maps/contrib/100723443824620059310/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2U_xCO65eWfNhmTr7-XUqMn4HgaXjZEswhlq6mX8D4JjnGTbJAA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice nasi brayani indian rice.. Vege curry w mutton(nice oso), potato and small vege.",
+      "time": 1706155323,
+      "translated": false
+    },
+    {
+      "author_name": "Shin Tan",
+      "author_url": "https://www.google.com/maps/contrib/116817512447888019311/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDT3dhnKGCkSNxbz8E9mH1wLWvPyt9Kv6xG7FV8Ow9TbkEcg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Nice vegetarian food. Delicious.",
+      "time": 1733201372,
+      "translated": false
+    },
+    {
+      "author_name": "Jia Min Lee",
+      "author_url": "https://www.google.com/maps/contrib/106110825820206451403/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRpvxsSa5zCj8ZUCfy2rh6x8jf0-nGhL6UPRnCBxSyyM9qZA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Lots of food choices and delicious",
+      "time": 1603469344,
+      "translated": true
+    },
+    {
+      "author_name": "Thomas Tay",
+      "author_url": "https://www.google.com/maps/contrib/106221438471980167557/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRl0yTXnsZ2TTTALoXloYe0JFnsGlDRTKk_zroVghUChnum-xnIg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1660800726,
+      "translated": false
+    },
+    {
+      "author_name": "Alfred Yue",
+      "author_url": "https://www.google.com/maps/contrib/113329267519903148352/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEqy2DYQJxiTUnvY_mtXjZB065N4hd9WZERM36xlwB0KfU_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720503344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7528454934965019996",
+  "user_ratings_total": 6,
+  "vicinity": "120 Lower Delta Road"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Goldhill Plaza, Singapore 308899",
+  "geometry": {
+    "location": {
+      "lat": 1.3181533,
+      "lng": 103.8428522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319267580291502,
+        "lng": 103.8442791802915
+      },
+      "southwest": {
+        "lat": 1.316569619708498,
+        "lng": 103.8415812197085
+      }
+    }
+  },
+  "name": "Liang You Language School",
+  "place_id": "ChIJ1ROqx-cZ2jER5nnSoY9LDnA",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8074474262189210086",
+  "vicinity": "1 Goldhill Plaza"
+}

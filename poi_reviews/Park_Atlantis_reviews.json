@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Pasir Ris Street 41, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.373976,
+      "lng": 103.9583613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375277093820336,
+        "lng": 103.9598655009627
+      },
+      "southwest": {
+        "lat": 1.372579133237332,
+        "lng": 103.9571675403797
+      }
+    }
+  },
+  "name": "Park Atlantis",
+  "place_id": "ChIJEXph87I92jERiDCmHAHmxN0",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Pasir+Ris+Street+41,+Singapore&ftid=0x31da3db2f3617a11:0xddc4e6011ca63088",
+  "vicinity": "Singapore"
+}

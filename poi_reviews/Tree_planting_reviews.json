@@ -1,0 +1,28 @@
+{
+  "formatted_address": "International Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3278362,
+      "lng": 103.6999891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329216680291502,
+        "lng": 103.7013364802915
+      },
+      "southwest": {
+        "lat": 1.326518719708498,
+        "lng": 103.6986385197085
+      }
+    }
+  },
+  "name": "Tree planting",
+  "place_id": "ChIJWWBDWgAP2jERZ-4HphYV2TM",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3736040552899538535",
+  "vicinity": "International Road"
+}

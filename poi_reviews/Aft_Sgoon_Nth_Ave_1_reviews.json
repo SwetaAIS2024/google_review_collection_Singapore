@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3637712,
+      "lng": 103.8739389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365088830291502,
+        "lng": 103.8752714802915
+      },
+      "southwest": {
+        "lat": 1.362390869708498,
+        "lng": 103.8725735197085
+      }
+    }
+  },
+  "name": "Aft S'goon Nth Ave 1",
+  "place_id": "ChIJr4LoqqwX2jERiVY8T23gBjc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3965103282031711881",
+  "vicinity": "Singapore"
+}

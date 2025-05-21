@@ -1,0 +1,41 @@
+{
+  "formatted_address": "497F Tampines Street 45, #06-134, Singapore 524497",
+  "geometry": {
+    "location": {
+      "lat": 1.359674,
+      "lng": 103.958913
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361124730291502,
+        "lng": 103.9601703802915
+      },
+      "southwest": {
+        "lat": 1.358426769708498,
+        "lng": 103.9574724197085
+      }
+    }
+  },
+  "name": "Thomas English Cafe",
+  "place_id": "ChIJJZ_sOS8X2jERYIvgXvUjJ44",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Sma Bishan",
+      "author_url": "https://www.google.com/maps/contrib/110925197823045009516/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzU3QkhU7eQJGhX-FvH0KjZpzceBI2zbX0hhroE0L4EeM8Jw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491181895,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10243195414243216224",
+  "user_ratings_total": 1,
+  "vicinity": "497F Tampines Street 45, #06-134"
+}

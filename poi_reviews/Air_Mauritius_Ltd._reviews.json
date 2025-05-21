@@ -1,0 +1,53 @@
+{
+  "formatted_address": "150 Cecil St, #10-01, Singapore 069543",
+  "geometry": {
+    "location": {
+      "lat": 1.2801756,
+      "lng": 103.8484065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281473730291502,
+        "lng": 103.8498382802915
+      },
+      "southwest": {
+        "lat": 1.278775769708498,
+        "lng": 103.8471403197085
+      }
+    }
+  },
+  "name": "Air Mauritius Ltd.",
+  "place_id": "ChIJfy4niQ0Z2jERKqW2Nklu8ZY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Philippe",
+      "author_url": "https://www.google.com/maps/contrib/103976503908089367231/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM-7TCTRi1kLTj2s2bpbaaugPwv5BCXRzRZuYiUspE4htYuHEJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "My plane has been delayed, departure reschedule, no communications whatsoever so far, (4 hours later). Don't know what is happening and where I am supposed to sleep until I am informed.\nThis no way to treat your clients.",
+      "time": 1577786596,
+      "translated": false
+    },
+    {
+      "author_name": "Dayanand Sharma",
+      "author_url": "https://www.google.com/maps/contrib/107723965467657235333/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPlpaBP-Rs2wMsZBD7B1klgaFjG3oADUlwB_W9Swcksn2R7g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1458875503,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10876595835806065962",
+  "user_ratings_total": 2,
+  "vicinity": "150 Cecil Street, #10-01"
+}

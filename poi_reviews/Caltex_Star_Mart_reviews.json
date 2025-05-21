@@ -1,0 +1,56 @@
+{
+  "formatted_address": "277 Lorong Chuan, Singapura 556771",
+  "geometry": {
+    "location": {
+      "lat": 1.3578079,
+      "lng": 103.8679099
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359148780291502,
+        "lng": 103.8693215302915
+      },
+      "southwest": {
+        "lat": 1.356450819708498,
+        "lng": 103.8666235697085
+      }
+    }
+  },
+  "name": "Caltex Star Mart",
+  "place_id": "ChIJ9etf36kX2jERNEiB8G4l75Q",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Indal Kumar",
+      "author_url": "https://www.google.com/maps/contrib/105165658510711072871/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGsWL3HLosUAlG59-EnMtbKUhwqCIWI_OpQrS6WL9fWP3nfTjU=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Very good",
+      "time": 1684806028,
+      "translated": false
+    },
+    {
+      "author_name": "Haikal Jimul",
+      "author_url": "https://www.google.com/maps/contrib/111622178279453942392/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiX_VShV4x2uC2Bc0Lu9fiMZQ5fSY6lwSNf37Q2iKAdJ7Zhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1554045107,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10731837595458816052",
+  "user_ratings_total": 2,
+  "vicinity": "277 Lorong Chuan, Singapura"
+}

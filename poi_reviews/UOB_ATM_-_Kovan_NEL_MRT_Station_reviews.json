@@ -1,0 +1,45 @@
+{
+  "formatted_address": "900 Upper Serangoon Rd, MRT Station, Singapore 534799",
+  "geometry": {
+    "location": {
+      "lat": 1.359739,
+      "lng": 103.8844042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361059430291502,
+        "lng": 103.8857802802915
+      },
+      "southwest": {
+        "lat": 1.358361469708498,
+        "lng": 103.8830823197085
+      }
+    }
+  },
+  "name": "UOB ATM - Kovan NEL MRT Station",
+  "place_id": "ChIJdbxU8bMX2jERvj1oyCc8miE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Located near Exit A/B of Kovan MRT station, in front of the gantries. It's near the corner of the station, right across the control station. Hard to miss, but not the easiest to instruct on where exactly it is either.\n\nYou'll just need to ask around the station staff, or walk towards Exit A/B, or make a 50/50 gamble on the gantries (because there are 2 sides and this ATM machine is right by one of the sides).",
+      "time": 1690776184,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2421313891228728766",
+  "user_ratings_total": 1,
+  "vicinity": "900 Upper Serangoon Road, MRT Station, Singapore"
+}

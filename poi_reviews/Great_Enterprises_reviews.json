@@ -1,0 +1,44 @@
+{
+  "formatted_address": "120 Hillview Ave, Singapore 669594",
+  "geometry": {
+    "location": {
+      "lat": 1.3569554,
+      "lng": 103.76141
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358205280291502,
+        "lng": 103.7627606302915
+      },
+      "southwest": {
+        "lat": 1.355507319708498,
+        "lng": 103.7600626697085
+      }
+    }
+  },
+  "name": "Great Enterprises",
+  "place_id": "ChIJKyJjsE8Q2jERLgXk5D6qFQ8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Collin Ho",
+      "author_url": "https://www.google.com/maps/contrib/115707267621113352508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEM_d9LSrlx-duawCwC6egWrz4SWZoeMfdtWFeBCfrXvGNrF_c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "The team here are very experienced and professional",
+      "time": 1476176419,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1086962072184685870",
+  "user_ratings_total": 1,
+  "vicinity": "120 Hillview Avenue, Singapore"
+}

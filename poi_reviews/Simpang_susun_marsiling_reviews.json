@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Marsiling Flyover, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4262997,
+      "lng": 103.7863471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427654830291502,
+        "lng": 103.7876661302915
+      },
+      "southwest": {
+        "lat": 1.424956869708498,
+        "lng": 103.7849681697085
+      }
+    }
+  },
+  "name": "Simpang susun marsiling",
+  "place_id": "ChIJJepdYgAT2jERvC450Mwp3hE",
+  "types": [
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1287512503118016188",
+  "vicinity": "Marsiling Flyover"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "39 Teck Whye Ln, Singapore 680139",
+  "geometry": {
+    "location": {
+      "lat": 1.3804783,
+      "lng": 103.7536302
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381820530291502,
+        "lng": 103.7549983802915
+      },
+      "southwest": {
+        "lat": 1.379122569708498,
+        "lng": 103.7523004197085
+      }
+    }
+  },
+  "name": "Hup Seng Kee Fresh Supermarket",
+  "place_id": "ChIJ95IVDb8R2jER0v94xfT93mU",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7340583670387376082",
+  "vicinity": "39 Teck Whye Lane"
+}

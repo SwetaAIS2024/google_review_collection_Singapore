@@ -1,0 +1,56 @@
+{
+  "formatted_address": "443 Ang Mo Kio Ave 10, #01-1231 Chong Boon Rise, Singapore 560443",
+  "geometry": {
+    "location": {
+      "lat": 1.3661487,
+      "lng": 103.8552796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367580630291502,
+        "lng": 103.8566567302915
+      },
+      "southwest": {
+        "lat": 1.364882669708498,
+        "lng": 103.8539587697085
+      }
+    }
+  },
+  "name": "Yew Guan Minimart",
+  "place_id": "ChIJAQCw3uIW2jERtyKVzGa5Lro",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Real Estate",
+      "author_url": "https://www.google.com/maps/contrib/100098022610618027975/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCG7-HdCYTdmdunio90kAeRZWkuENet_I2gk0AQFT19wj8RloSfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Face Masks",
+      "time": 1590290100,
+      "translated": false
+    },
+    {
+      "author_name": "Ghost blaze",
+      "author_url": "https://www.google.com/maps/contrib/114419711460511298480/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxsmFb6ivWDtV9MSr8OoTFns7bAidaLzU7giJTcbwONXViDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1591179964,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13415864191153414839",
+  "user_ratings_total": 2,
+  "vicinity": "443 Ang Mo Kio Avenue 10, #01-1231 Chong Boon Rise"
+}

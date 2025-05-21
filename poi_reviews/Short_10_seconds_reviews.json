@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Westwood Ave, THE FLORAVALE, Singapore 648363",
+  "geometry": {
+    "location": {
+      "lat": 1.3511956,
+      "lng": 103.6990957
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.352512180291502,
+        "lng": 103.7004419302915
+      },
+      "southwest": {
+        "lat": 1.349814219708498,
+        "lng": 103.6977439697085
+      }
+    }
+  },
+  "name": "Short 10 seconds",
+  "place_id": "ChIJIXcT0-cP2jERjmimET72tfg",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17921501038635280526",
+  "vicinity": "Westwood Avenue, THE FLORAVALE"
+}

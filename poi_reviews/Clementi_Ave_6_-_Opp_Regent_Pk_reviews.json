@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317264,
+      "lng": 103.762398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318433180291502,
+        "lng": 103.7635078802915
+      },
+      "southwest": {
+        "lat": 1.315735219708498,
+        "lng": 103.7608099197085
+      }
+    }
+  },
+  "name": "Clementi Ave 6 - Opp Regent Pk",
+  "place_id": "ChIJfxL1DJAa2jERKv9xA8PdFRs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Amit Morya",
+      "author_url": "https://www.google.com/maps/contrib/117342844954713077546/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSs2syVbeIUSe4hnAdMUlacH6ddNL3ykk967YA_3MibfW8e9Lmhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Neat and clean bus stop with covered walkway to Regent Park and West Park",
+      "time": 1535332770,
+      "translated": false
+    },
+    {
+      "author_name": "Fang Liu",
+      "author_url": "https://www.google.com/maps/contrib/108291227390533028942/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIvGqKxFRJyxHZ7aLJY_o6VX9yUzMu6TjCp0XQyKb-wydhkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507284164,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1951709843181141802",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

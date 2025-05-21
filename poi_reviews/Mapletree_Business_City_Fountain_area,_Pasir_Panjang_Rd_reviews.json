@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27425,
+      "lng": 103.79893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275595680291502,
+        "lng": 103.8002917302915
+      },
+      "southwest": {
+        "lat": 1.272897719708498,
+        "lng": 103.7975937697085
+      }
+    }
+  },
+  "name": "Mapletree Business City (Fountain area), Pasir Panjang Rd",
+  "place_id": "ChIJJVhOosAb2jEREMxTlGNl_e8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Rao Gulzaib",
+      "author_url": "https://www.google.com/maps/contrib/100818567399529967971/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx07V91K45duMDuFgiK_L8oiW7tSQiAAbMmnpdFHxVpC1jbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Rao hamza",
+      "time": 1703172255,
+      "translated": true
+    },
+    {
+      "author_name": "صفدر کاظمی",
+      "author_url": "https://www.google.com/maps/contrib/115434223197275537396/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvVYxZG2Qsi4cNWzGfSH2ukVuw-3F-pW3wnxgcCijXyuO_dbI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741813202,
+      "translated": false
+    },
+    {
+      "author_name": "Nghia Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/105323959391927093678/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXveZ6HKmnkjB7jA8o3GERGE1YpKbk3D4V9oZ4vqFV3CHtokQuh=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698530525,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17293089622537260048",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

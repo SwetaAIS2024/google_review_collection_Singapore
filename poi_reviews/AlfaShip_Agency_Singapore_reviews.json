@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Anson Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2735406,
+      "lng": 103.8447021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274904480291502,
+        "lng": 103.8460356302915
+      },
+      "southwest": {
+        "lat": 1.272206519708498,
+        "lng": 103.8433376697085
+      }
+    }
+  },
+  "name": "AlfaShip Agency Singapore",
+  "place_id": "ChIJJdZoM2sZ2jERy8xMysHGueM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Annie I Maningkas",
+      "author_url": "https://www.google.com/maps/contrib/106015165473648271025/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkOQTU6HBSkx4wM1C4s0MoShThl-DWGdtqhYOOL7YFDsmyIgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1566467084,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16409365252926131403",
+  "user_ratings_total": 1,
+  "vicinity": "Anson Road"
+}

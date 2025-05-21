@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.307857,
+      "lng": 103.758507
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309178730291502,
+        "lng": 103.7598159302915
+      },
+      "southwest": {
+        "lat": 1.306480769708498,
+        "lng": 103.7571179697085
+      }
+    }
+  },
+  "name": "Blk 518",
+  "place_id": "ChIJe-FKruwa2jER4yKyMM-OGUc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Mansor Akhwan",
+      "author_url": "https://www.google.com/maps/contrib/103126934340858289415/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgLo-2gaCX4FXU4zy-0uQmYNYyLJjDyfTtXNMSq0ILD73xGx0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Mr Derek Poh what bus service no 176 got to do with Tampines Poly & just for others to know now days the frequency of bus service no 176 have improve tremendously so why complain",
+      "time": 1494361490,
+      "translated": false
+    },
+    {
+      "author_name": "banana siong",
+      "author_url": "https://www.google.com/maps/contrib/103796882621660082955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSKzXNv5RKsI7maxaezlQzwc6izMvumdKqoEulS5wGZORCPX90uA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "only 1 bus (176) passby this stop. would be better if more buses passing this stop.",
+      "time": 1482922843,
+      "translated": false
+    },
+    {
+      "author_name": "Rahul Mahadik",
+      "author_url": "https://www.google.com/maps/contrib/110773913168028119324/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvquYVNSHb3-WL4Olhj9wAQdjI8LQ3UPiTdrdFJQnxveu4W2hb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685494526,
+      "translated": false
+    },
+    {
+      "author_name": "Dinesh Kumar (Dinesh Karthik)",
+      "author_url": "https://www.google.com/maps/contrib/103247057450540475504/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkyBqTF0TCFnx7cBbTrpG4qvafdj5ZfYvIc2CRRg1D5djVCvjkbQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678631063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5123283071637005027",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

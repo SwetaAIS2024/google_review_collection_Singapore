@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.381386,
+      "lng": 103.998192
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382748230291502,
+        "lng": 103.9995078802915
+      },
+      "southwest": {
+        "lat": 1.380050269708498,
+        "lng": 103.9968099197085
+      }
+    }
+  },
+  "name": "Aft Cargo Bldg D",
+  "place_id": "ChIJW40x13I82jER9l88bZI0x-0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17133721110856884214",
+  "vicinity": "Singapore"
+}

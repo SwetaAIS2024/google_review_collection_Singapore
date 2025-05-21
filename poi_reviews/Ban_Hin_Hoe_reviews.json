@@ -1,0 +1,31 @@
+{
+  "formatted_address": "266 Balestier Rd, Singapore 329717",
+  "geometry": {
+    "location": {
+      "lat": 1.3223062,
+      "lng": 103.8529767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323648130291502,
+        "lng": 103.8542759802915
+      },
+      "southwest": {
+        "lat": 1.320950169708498,
+        "lng": 103.8515780197085
+      }
+    }
+  },
+  "name": "Ban Hin Hoe",
+  "place_id": "ChIJWfYJetkZ2jERyBfbz_sdybw",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13603437116810532808",
+  "vicinity": "266 Balestier Road, Singapore"
+}

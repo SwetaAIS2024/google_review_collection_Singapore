@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Commonwealth Ln, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3046091,
+      "lng": 103.7966891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305946230291502,
+        "lng": 103.7981352302915
+      },
+      "southwest": {
+        "lat": 1.303248269708498,
+        "lng": 103.7954372697085
+      }
+    }
+  },
+  "name": "Health Screening Singapore by SMC",
+  "place_id": "ChIJ43CswUAa2jERYKvTbFXjKtQ",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15288281841100106592",
+  "vicinity": "1 Commonwealth Lane"
+}

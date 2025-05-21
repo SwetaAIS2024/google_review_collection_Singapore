@@ -1,0 +1,30 @@
+{
+  "formatted_address": "18 Tuas Ave 7, Stall 2, Singapore 639272",
+  "geometry": {
+    "location": {
+      "lat": 1.333128,
+      "lng": 103.6446368
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334366380291502,
+        "lng": 103.6458811302915
+      },
+      "southwest": {
+        "lat": 1.331668419708498,
+        "lng": 103.6431831697085
+      }
+    }
+  },
+  "name": "HaoYu Traditional Kueh",
+  "place_id": "ChIJlyb71loP2jERUgSiM6o7Skk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5281099115242062930",
+  "vicinity": "18 Tuas Avenue 7, Stall 2"
+}

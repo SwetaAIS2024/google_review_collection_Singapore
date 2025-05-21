@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore 088496",
+  "geometry": {
+    "location": {
+      "lat": 1.277981,
+      "lng": 103.843825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279354580291502,
+        "lng": 103.8451041802915
+      },
+      "southwest": {
+        "lat": 1.276656619708498,
+        "lng": 103.8424062197085
+      }
+    }
+  },
+  "name": "Vijay Kumari",
+  "place_id": "ChIJcfxWGQAZ2jERyb66DJSLim0",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7893274764905201353",
+  "vicinity": "Singapore"
+}

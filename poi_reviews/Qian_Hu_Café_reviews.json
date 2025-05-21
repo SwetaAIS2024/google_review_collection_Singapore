@@ -1,0 +1,46 @@
+{
+  "formatted_address": "71 Jln Lekar, Singapore 698950",
+  "geometry": {
+    "location": {
+      "lat": 1.3850782,
+      "lng": 103.7217537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386606380291502,
+        "lng": 103.7231080302915
+      },
+      "southwest": {
+        "lat": 1.383908419708498,
+        "lng": 103.7204100697085
+      }
+    }
+  },
+  "name": "Qian Hu Café",
+  "place_id": "ChIJu3A8230P2jERWjJX095q-gM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ron",
+      "author_url": "https://www.google.com/maps/contrib/112814282209296685796/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmVKxFm9gU4AAjPFXOEQlxHO1l-R0wymusSmWmaXUmn7TSjDBp=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good place to buy drinks.",
+      "time": 1688805989,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=286659031552438874",
+  "user_ratings_total": 1,
+  "vicinity": "71 Jalan Lekar, Singapore"
+}

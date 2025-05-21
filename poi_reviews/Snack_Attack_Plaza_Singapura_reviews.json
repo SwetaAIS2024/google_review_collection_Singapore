@@ -1,0 +1,30 @@
+{
+  "formatted_address": "68 Orchard Rd, Singapore 238839",
+  "geometry": {
+    "location": {
+      "lat": 1.3007111,
+      "lng": 103.844904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301966530291502,
+        "lng": 103.8464735802915
+      },
+      "southwest": {
+        "lat": 1.299268569708498,
+        "lng": 103.8437756197085
+      }
+    }
+  },
+  "name": "Snack Attack (Plaza Singapura)",
+  "place_id": "ChIJHUNCHAAZ2jERsBkiZTsHfTw",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4358647966045706672",
+  "vicinity": "68 Orchard Road"
+}

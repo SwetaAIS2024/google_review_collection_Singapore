@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 330025",
+  "geometry": {
+    "location": {
+      "lat": 1.318626,
+      "lng": 103.862908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319896880291502,
+        "lng": 103.8644868302915
+      },
+      "southwest": {
+        "lat": 1.317198919708498,
+        "lng": 103.8617888697085
+      }
+    }
+  },
+  "name": "Traditional Homemade Mee Hoon Kueh",
+  "place_id": "ChIJYUBPdQAZ2jEReXwEYPsO8lA",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5832740940208700537",
+  "vicinity": "Singapore"
+}

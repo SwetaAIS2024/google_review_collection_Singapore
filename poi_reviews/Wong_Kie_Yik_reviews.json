@@ -1,0 +1,30 @@
+{
+  "formatted_address": "7500 Beach Rd, Singapore 199590",
+  "geometry": {
+    "location": {
+      "lat": 1.2996222,
+      "lng": 103.8601134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300865980291502,
+        "lng": 103.8616039802915
+      },
+      "southwest": {
+        "lat": 1.298168019708498,
+        "lng": 103.8589060197085
+      }
+    }
+  },
+  "name": "Wong Kie Yik",
+  "place_id": "ChIJZ6UyuLEZ2jERwFoI2IkL7zk",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4174568066258590400",
+  "vicinity": "7500 Beach Road"
+}

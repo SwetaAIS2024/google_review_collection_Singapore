@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3802866,
+      "lng": 103.7452753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381689080291502,
+        "lng": 103.7463078802915
+      },
+      "southwest": {
+        "lat": 1.378991119708498,
+        "lng": 103.7436099197085
+      }
+    }
+  },
+  "name": "South View",
+  "place_id": "ChIJE3wzxMMR2jERcsKV6qUDHuY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16581694889164915314",
+  "vicinity": "Singapore"
+}

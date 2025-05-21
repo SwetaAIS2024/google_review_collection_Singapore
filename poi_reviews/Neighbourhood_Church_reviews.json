@@ -1,0 +1,87 @@
+{
+  "formatted_address": "134 Braddell Rd, Singapore 359919",
+  "geometry": {
+    "location": {
+      "lat": 1.3441825,
+      "lng": 103.8633892
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345434680291502,
+        "lng": 103.8647683302915
+      },
+      "southwest": {
+        "lat": 1.342736719708498,
+        "lng": 103.8620703697085
+      }
+    }
+  },
+  "name": "Neighbourhood Church",
+  "place_id": "ChIJW4sNvnQX2jERzwr1ibFF3ak",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lee CS",
+      "author_url": "https://www.google.com/maps/contrib/112165920065012716965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9B2QX1ubG2Gek4MAazgmG8u8leBjVdZoZkOHTTZZcn5tY5QKP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Bus stop 66061 is just right infront",
+      "time": 1708858597,
+      "translated": false
+    },
+    {
+      "author_name": "Han Yuan",
+      "author_url": "https://www.google.com/maps/contrib/100447546450762421090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd8G7nKwfhwGp4c3iVj007Eq5qv7o8czPfGwjdIhiwDHYEgbM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Solid people there",
+      "time": 1730350196,
+      "translated": false
+    },
+    {
+      "author_name": "Ethan Abel",
+      "author_url": "https://www.google.com/maps/contrib/107715209425649164768/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9VK5a3ZjOjpmf6KiQMUwzBrtsxJxMYq4zAlktodIZEd-D3w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1612158717,
+      "translated": false
+    },
+    {
+      "author_name": "Emmeline Khoo",
+      "author_url": "https://www.google.com/maps/contrib/117964655827629413514/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUU4lrRP03ipAIf5_xAj_UfiTpUHUyT3rrmP4NtXe8TI0L9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572693796,
+      "translated": false
+    },
+    {
+      "author_name": "Aaron Fu",
+      "author_url": "https://www.google.com/maps/contrib/102791807935724187512/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWmuv2tm9NdCSGiDvaqjx7r0Ti5WHNskYSm9c8KJFzupufhg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572693708,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12240015991088941775",
+  "user_ratings_total": 6,
+  "vicinity": "134 Braddell Road, Singapore"
+}

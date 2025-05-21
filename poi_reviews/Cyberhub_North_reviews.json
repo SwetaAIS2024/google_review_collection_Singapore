@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Serangoon North Ave 4, 54, Singapore 555854",
+  "geometry": {
+    "location": {
+      "lat": 1.3765148,
+      "lng": 103.8760663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377790180291502,
+        "lng": 103.8774114302915
+      },
+      "southwest": {
+        "lat": 1.375092219708498,
+        "lng": 103.8747134697085
+      }
+    }
+  },
+  "name": "Cyberhub North",
+  "place_id": "ChIJq6pqo1sW2jER4qDLy6UXBGg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ash K.",
+      "author_url": "https://www.google.com/maps/contrib/111874431882262387665/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsA_Vfvmag5vic6zo3y4BKNwPfgUpPgHJdw_xtuR9e7YSpUsOy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1684649838,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7495141680707510498",
+  "user_ratings_total": 1,
+  "vicinity": "Serangoon North Avenue 4, 54"
+}

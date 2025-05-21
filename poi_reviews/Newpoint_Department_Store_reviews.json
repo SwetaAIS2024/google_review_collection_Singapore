@@ -1,0 +1,44 @@
+{
+  "formatted_address": "865 Mountbatten Rd, Katong Shopping Centre, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.303903,
+      "lng": 103.9011732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305164480291502,
+        "lng": 103.9025518802915
+      },
+      "southwest": {
+        "lat": 1.302466519708498,
+        "lng": 103.8998539197085
+      }
+    }
+  },
+  "name": "Newpoint Department Store",
+  "place_id": "ChIJTcE4ZeYZ2jERt9-m3bLNTpc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1700125455,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10902877916017123255",
+  "user_ratings_total": 1,
+  "vicinity": "865 Mountbatten Road, Katong Shopping Centre, Singapore"
+}

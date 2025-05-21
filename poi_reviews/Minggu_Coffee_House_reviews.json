@@ -1,0 +1,45 @@
+{
+  "formatted_address": "23 Jln Minggu, Singapore 577356",
+  "geometry": {
+    "location": {
+      "lat": 1.3540674,
+      "lng": 103.8364974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355399830291502,
+        "lng": 103.8378758802915
+      },
+      "southwest": {
+        "lat": 1.352701869708498,
+        "lng": 103.8351779197085
+      }
+    }
+  },
+  "name": "Minggu Coffee House",
+  "place_id": "ChIJUaMG3_gX2jERA3s4rak0tvM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "KG",
+      "author_url": "https://www.google.com/maps/contrib/110951328857559023123/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgQbOXtzetXPMcEfG2Psw6uLXIqdXB8Wn5ZrVdc4rPUqnaVQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "A cosy place mainly for take away. Strawberry matcha is superb and definitely made with heart. Latte beans is a mix which turns out with the right acidity. Definitely a 10 stars review!",
+      "time": 1747109745,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17561281700338105091",
+  "user_ratings_total": 1,
+  "vicinity": "23 Jalan Minggu"
+}

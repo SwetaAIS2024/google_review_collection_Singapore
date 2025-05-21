@@ -1,0 +1,56 @@
+{
+  "formatted_address": "6 St George's Rd, Singapore 328025",
+  "geometry": {
+    "location": {
+      "lat": 1.3225484,
+      "lng": 103.8631801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323832280291502,
+        "lng": 103.8644700802915
+      },
+      "southwest": {
+        "lat": 1.321134319708498,
+        "lng": 103.8617721197085
+      }
+    }
+  },
+  "name": "Xin Ji Tze Char",
+  "place_id": "ChIJxW3VHQAZ2jERKxwoxDhH_Uk",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Thomas “donkey” Ang",
+      "author_url": "https://www.google.com/maps/contrib/103079058476463663258/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLFrO26fNZbd8YpQGX9kIWtRniGjJ5vZiM_V9lQnYm-F3qSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Gave wrong order",
+      "time": 1742906223,
+      "translated": false
+    },
+    {
+      "author_name": "yewchun ho",
+      "author_url": "https://www.google.com/maps/contrib/103562948994145522797/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE6XE3f3b-R6AAVXVyeN88ZbkFEyfhUUos_IXCol-GSZZjG3SOXw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742046384,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5331495843011238955",
+  "user_ratings_total": 2,
+  "vicinity": "6 Saint George's Road"
+}

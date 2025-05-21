@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.378506,
+      "lng": 103.743454
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379818030291502,
+        "lng": 103.7448486302915
+      },
+      "southwest": {
+        "lat": 1.377120069708498,
+        "lng": 103.7421506697085
+      }
+    }
+  },
+  "name": "Aft Blk 272",
+  "place_id": "ChIJc-knfsQR2jERVDOBYMhyEqc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "mohamed othman",
+      "author_url": "https://www.google.com/maps/contrib/101207662730526926238/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeqTCgEpOYDWNNqpHcapGhaCduTaJEiyPFm1jQvLG2jljc3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1494430054,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12038810958852862804",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

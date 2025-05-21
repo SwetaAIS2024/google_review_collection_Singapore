@@ -1,0 +1,42 @@
+{
+  "formatted_address": "858A Tampines Ave 5, Singapore 521858",
+  "geometry": {
+    "location": {
+      "lat": 1.3542241,
+      "lng": 103.937235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355131130291502,
+        "lng": 103.9388647802915
+      },
+      "southwest": {
+        "lat": 1.352433169708498,
+        "lng": 103.9361668197085
+      }
+    }
+  },
+  "name": "Tampines Central Park Walk",
+  "place_id": "ChIJz66j07892jERfS5qimXB37A",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Irfan Oomsk",
+      "author_url": "https://www.google.com/maps/contrib/118386546372014302757/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOFXCZTaIfQ136PqTrYdZtIP0Zj9XEqMIHIvM-hJjKGbWpdUWYg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734682285,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12745118112339865213",
+  "user_ratings_total": 1,
+  "vicinity": "858A Tampines Avenue 5, Singapore"
+}

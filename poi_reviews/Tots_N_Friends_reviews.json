@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Jurong East Street 21, Singapore 609601",
+  "geometry": {
+    "location": {
+      "lat": 1.334938,
+      "lng": 103.746872
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336315280291502,
+        "lng": 103.7485266302915
+      },
+      "southwest": {
+        "lat": 1.333617319708498,
+        "lng": 103.7458286697085
+      }
+    }
+  },
+  "name": "Tots N Friends",
+  "place_id": "ChIJNxo8dA4Q2jER5Vm9_ijDgQg",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=612985605139028453",
+  "vicinity": "2 Jurong East Street 21"
+}

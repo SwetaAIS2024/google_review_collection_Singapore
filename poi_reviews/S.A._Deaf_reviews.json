@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3075643,
+      "lng": 103.879687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308861580291502,
+        "lng": 103.8809993302915
+      },
+      "southwest": {
+        "lat": 1.306163619708498,
+        "lng": 103.8783013697085
+      }
+    }
+  },
+  "name": "S.A. Deaf",
+  "place_id": "ChIJZ9X9_kcY2jER7w4aFgv2Sh4",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "good and convenient bus stop with many options",
+      "time": 1687571510,
+      "translated": false
+    },
+    {
+      "author_name": "Javen Leow",
+      "author_url": "https://www.google.com/maps/contrib/103533744765056843646/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTLUpcDbqWof7KrapjPymL5t189mndtX6g4MyUOGkEK0KueC3_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531214011,
+      "translated": false
+    },
+    {
+      "author_name": "palash chondro",
+      "author_url": "https://www.google.com/maps/contrib/101057211288610576258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWgNCwJBSQGBnpeZlPmYhG7z4u8FbpdJl_OvA80b_VECVRtA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484836094,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2182827496890306287",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

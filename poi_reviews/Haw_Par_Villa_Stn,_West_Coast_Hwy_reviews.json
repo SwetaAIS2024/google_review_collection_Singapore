@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.283,
+      "lng": 103.78158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284328880291502,
+        "lng": 103.7829034302915
+      },
+      "southwest": {
+        "lat": 1.281630919708498,
+        "lng": 103.7802054697085
+      }
+    }
+  },
+  "name": "Haw Par Villa Stn, West Coast Hwy",
+  "place_id": "ChIJpQQqzq4b2jERk6R_StBB52s",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7775255644537332883",
+  "vicinity": "Singapore"
+}

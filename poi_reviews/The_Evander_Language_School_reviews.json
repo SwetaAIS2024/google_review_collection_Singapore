@@ -1,0 +1,30 @@
+{
+  "formatted_address": "420 N Bridge Rd, Singapore 188727",
+  "geometry": {
+    "location": {
+      "lat": 1.2973773,
+      "lng": 103.8549355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298717930291502,
+        "lng": 103.8562424802915
+      },
+      "southwest": {
+        "lat": 1.296019969708498,
+        "lng": 103.8535445197085
+      }
+    }
+  },
+  "name": "The Evander Language School",
+  "place_id": "ChIJBZ56P6UZ2jERlJbcaSvW3LM",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12960469309613446804",
+  "vicinity": "420 North Bridge Road"
+}

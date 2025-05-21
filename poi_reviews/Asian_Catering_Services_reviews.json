@@ -1,0 +1,28 @@
+{
+  "formatted_address": "42 Siglap Dr, Singapore 456167",
+  "geometry": {
+    "location": {
+      "lat": 1.316191,
+      "lng": 103.919928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317584880291502,
+        "lng": 103.9212555802915
+      },
+      "southwest": {
+        "lat": 1.314886919708498,
+        "lng": 103.9185576197085
+      }
+    }
+  },
+  "name": "Asian Catering Services",
+  "place_id": "ChIJC0gVBqYi2jERlebMmOFMy8A",
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13892282007369344661",
+  "vicinity": "42 Siglap Drive"
+}

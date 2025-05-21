@@ -1,0 +1,30 @@
+{
+  "formatted_address": "982 Buangkok Cres, Singapore 530982",
+  "geometry": {
+    "location": {
+      "lat": 1.3808567,
+      "lng": 103.8792847
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382103030291502,
+        "lng": 103.8806919802915
+      },
+      "southwest": {
+        "lat": 1.379405069708498,
+        "lng": 103.8779940197085
+      }
+    }
+  },
+  "name": "Block 982 HDB Buangkok",
+  "place_id": "ChIJeSUQDAAX2jERKB2rDyC2OEs",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5420282400358473000",
+  "vicinity": "982 Buangkok Crescent"
+}

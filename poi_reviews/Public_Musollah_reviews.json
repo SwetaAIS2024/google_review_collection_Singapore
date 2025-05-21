@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Bird Paradise, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4076996,
+      "lng": 103.7806609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.408992880291502,
+        "lng": 103.7819388802915
+      },
+      "southwest": {
+        "lat": 1.406294919708498,
+        "lng": 103.7792409197085
+      }
+    }
+  },
+  "name": "Public Musollah",
+  "place_id": "ChIJvx82agAT2jERGNEq8FSjWEU",
+  "types": [
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4996923371769483544",
+  "vicinity": "Bird Paradise"
+}

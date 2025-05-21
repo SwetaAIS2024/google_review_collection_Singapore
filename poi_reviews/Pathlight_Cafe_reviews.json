@@ -1,0 +1,29 @@
+{
+  "formatted_address": "569739 Ang Mo Kio Ave 10, #5号, Singapore 569628",
+  "geometry": {
+    "location": {
+      "lat": 1.359282,
+      "lng": 103.854654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360630980291502,
+        "lng": 103.8560029802915
+      },
+      "southwest": {
+        "lat": 1.357933019708498,
+        "lng": 103.8533050197085
+      }
+    }
+  },
+  "name": "Pathlight Cafe",
+  "place_id": "ChIJybctVAAX2jERqkO4N2LaXaw",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12420323462734169002",
+  "vicinity": "569739 Ang Mo Kio Avenue 10, #5号"
+}

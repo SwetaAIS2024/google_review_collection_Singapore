@@ -1,0 +1,28 @@
+{
+  "formatted_address": "16 Medical Dr, Level 2 MD3, Singapore 117600",
+  "geometry": {
+    "location": {
+      "lat": 1.2954272,
+      "lng": 103.781233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296568630291502,
+        "lng": 103.7827926802915
+      },
+      "southwest": {
+        "lat": 1.293870669708498,
+        "lng": 103.7800947197085
+      }
+    }
+  },
+  "name": "Division of Graduate Medical Studies",
+  "place_id": "ChIJr6K5ylYa2jER3btGiqkT-iE",
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2448290966319578077",
+  "vicinity": "16 Medical Drive, Level 2 MD3"
+}

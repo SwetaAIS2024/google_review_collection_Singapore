@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Rd, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.3415,
+      "lng": 103.83763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342891580291502,
+        "lng": 103.8389730302915
+      },
+      "southwest": {
+        "lat": 1.340193619708498,
+        "lng": 103.8362750697085
+      }
+    }
+  },
+  "name": "DBS ATM - Mount Alvernia Hospital",
+  "place_id": "ChIJFd9ZCl4X2jER7ckRWX23rq4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12587199757540248045",
+  "vicinity": "820 Thomson Road, Singapore"
+}

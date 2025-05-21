@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3728388,
+      "lng": 103.6953925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374173580291502,
+        "lng": 103.6967802802915
+      },
+      "southwest": {
+        "lat": 1.371475619708498,
+        "lng": 103.6940823197085
+      }
+    }
+  },
+  "name": "NEA Claims & Registration Office",
+  "place_id": "ChIJiwBOwU8O2jERXJtsmMD3mXM",
+  "types": [
+    "local_government_office",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8329961392361479004",
+  "vicinity": "Singapore"
+}

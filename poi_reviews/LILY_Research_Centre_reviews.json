@@ -1,0 +1,51 @@
+{
+  "formatted_address": "N4-B3b-6, 50 Nanyang Ave, Singapore 639798",
+  "geometry": {
+    "location": {
+      "lat": 1.3462256,
+      "lng": 103.6817948
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347618280291502,
+        "lng": 103.6831435802915
+      },
+      "southwest": {
+        "lat": 1.344920319708498,
+        "lng": 103.6804456197085
+      }
+    }
+  },
+  "name": "LILY Research Centre",
+  "place_id": "ChIJLbe4sgoP2jERZqB0KA9fQ3Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Benny Tan",
+      "author_url": "https://www.google.com/maps/contrib/104194082037245534372/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjgYrtZqfHD9sfWoo6-x_bABIpwnjKCVR9KUWDsM8mrS2nFw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1630052327,
+      "translated": false
+    },
+    {
+      "author_name": "B L",
+      "author_url": "https://www.google.com/maps/contrib/109056691747418146088/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMzyKXlu7i72jRw-ecYRIQAjT43dbn6OkfzmJIwyGXR2QXNw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1579769481,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8521759438622990438",
+  "user_ratings_total": 2,
+  "vicinity": "N4-B3b-6, 50 Nanyang Avenue, Singapore"
+}

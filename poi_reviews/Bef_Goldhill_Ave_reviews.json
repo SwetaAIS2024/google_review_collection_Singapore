@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318897,
+      "lng": 103.832497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320196380291502,
+        "lng": 103.8338844302915
+      },
+      "southwest": {
+        "lat": 1.317498419708498,
+        "lng": 103.8311864697085
+      }
+    }
+  },
+  "name": "Bef Goldhill Ave",
+  "place_id": "ChIJB9WJz_oZ2jER254Bw3gDtkg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Nelvin Vina",
+      "author_url": "https://www.google.com/maps/contrib/117140473744880196122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL84W2ZfGUqfR2xtsVAAJ97XmsRxr53IsUWFyGF7v5wabPfa-4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553493097,
+      "translated": false
+    },
+    {
+      "author_name": "Corinne Le Bourhis",
+      "author_url": "https://www.google.com/maps/contrib/110296360897009549754/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLutrF7JkL6SaAii0cqXmNB2YAZkkTTSrvQ0r_ow4UHslwM2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478345235,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5239379033694772955",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

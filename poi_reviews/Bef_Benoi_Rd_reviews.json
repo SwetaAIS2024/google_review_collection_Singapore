@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319509,
+      "lng": 103.680656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320884980291502,
+        "lng": 103.6820050302915
+      },
+      "southwest": {
+        "lat": 1.318187019708498,
+        "lng": 103.6793070697085
+      }
+    }
+  },
+  "name": "Bef Benoi Rd",
+  "place_id": "ChIJQwM86YIF2jERA7PaDYeW1sA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13895459207095431939",
+  "vicinity": "Singapore"
+}

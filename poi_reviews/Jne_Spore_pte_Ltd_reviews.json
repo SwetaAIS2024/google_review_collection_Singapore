@@ -1,0 +1,41 @@
+{
+  "formatted_address": "1 Upper Aljunied Link, Singapore 367901",
+  "geometry": {
+    "location": {
+      "lat": 1.3355334,
+      "lng": 103.8813255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336759080291502,
+        "lng": 103.8824844302915
+      },
+      "southwest": {
+        "lat": 1.334061119708498,
+        "lng": 103.8797864697085
+      }
+    }
+  },
+  "name": "Jne S'pore (pte) Ltd",
+  "place_id": "ChIJTbOp3o8X2jERveMK0G10Sw8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yuli Herewila",
+      "author_url": "https://www.google.com/maps/contrib/111740745086978103871/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKps_VduXJarxp7aTyAfzULUIk7BPXRpa41R_fuQv5DKuMtUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1530843322,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1102102548812850109",
+  "user_ratings_total": 1,
+  "vicinity": "1 Upper Aljunied Link, Singapore"
+}

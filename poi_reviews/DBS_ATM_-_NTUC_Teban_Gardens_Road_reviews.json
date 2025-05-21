@@ -1,0 +1,29 @@
+{
+  "formatted_address": "37 Teban Gardens Rd, Singapore 600037",
+  "geometry": {
+    "location": {
+      "lat": 1.32057,
+      "lng": 103.74236
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321980080291502,
+        "lng": 103.7437427802915
+      },
+      "southwest": {
+        "lat": 1.319282119708498,
+        "lng": 103.7410448197085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Teban Gardens Road",
+  "place_id": "ChIJ88ro3jEb2jERHq6luGw39bQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13039389236215000606",
+  "vicinity": "37 Teban Gardens Road, Singapore"
+}

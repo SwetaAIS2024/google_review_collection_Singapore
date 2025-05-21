@@ -1,0 +1,44 @@
+{
+  "formatted_address": "11 Computing Dr, Singapore 117416",
+  "geometry": {
+    "location": {
+      "lat": 1.2955033,
+      "lng": 103.773247
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296603830291502,
+        "lng": 103.7745731302915
+      },
+      "southwest": {
+        "lat": 1.293905869708498,
+        "lng": 103.7718751697085
+      }
+    }
+  },
+  "name": "NUS AS6",
+  "place_id": "ChIJpYX76Pga2jER3n5mFqflPiU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Long Zhang",
+      "author_url": "https://www.google.com/maps/contrib/110845530278064667693/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJvSQK5P19Wv40tKzZdkbf_hfCGMJt3DN5-aqhKr3iiuL4egtURQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "good olace",
+      "time": 1500963015,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2683834933757509342",
+  "user_ratings_total": 1,
+  "vicinity": "11 Computing Drive"
+}

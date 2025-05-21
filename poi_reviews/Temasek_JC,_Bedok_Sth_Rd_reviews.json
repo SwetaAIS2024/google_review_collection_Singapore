@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31958,
+      "lng": 103.93574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320976230291502,
+        "lng": 103.9370743302915
+      },
+      "southwest": {
+        "lat": 1.318278269708498,
+        "lng": 103.9343763697085
+      }
+    }
+  },
+  "name": "Temasek JC, Bedok Sth Rd",
+  "place_id": "ChIJdQlYT7Yi2jERku6XCA1Gn0I",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4800632749592931986",
+  "vicinity": "Singapore"
+}

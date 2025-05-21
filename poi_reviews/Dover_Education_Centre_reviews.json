@@ -1,0 +1,27 @@
+{
+  "formatted_address": "2 Dover Rd, Block 2, Singapore 130002",
+  "geometry": {
+    "location": {
+      "lat": 1.3032343,
+      "lng": 103.782721
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304484630291502,
+        "lng": 103.7839306802915
+      },
+      "southwest": {
+        "lat": 1.301786669708498,
+        "lng": 103.7812327197085
+      }
+    }
+  },
+  "name": "Dover Education Centre",
+  "place_id": "ChIJSelfklsa2jERSZXQa-MbUCs",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3121025205348111689",
+  "vicinity": "2 Dover Road, Block 2"
+}

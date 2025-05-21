@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.335905,
+      "lng": 103.958366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337260730291502,
+        "lng": 103.9597056302915
+      },
+      "southwest": {
+        "lat": 1.334562769708498,
+        "lng": 103.9570076697085
+      }
+    }
+  },
+  "name": "Opp Expo Halls 4/5/6",
+  "place_id": "ChIJp6Q_zic92jERKLCM992KT9c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ambiyarns Crochet and Yarn Tails with Afie",
+      "author_url": "https://www.google.com/maps/contrib/112398175741245200582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlUdxAGycpBPPgXwvxDPxxJtel3Ia183Srqi0D-qTUN57-NA8Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479906721,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15514771927260246056",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

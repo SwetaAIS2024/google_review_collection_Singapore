@@ -1,0 +1,30 @@
+{
+  "formatted_address": "133 New Bridge Rd, #23-09/10, Singapore 059413",
+  "geometry": {
+    "location": {
+      "lat": 1.285443,
+      "lng": 103.84496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286656980291502,
+        "lng": 103.8460914802915
+      },
+      "southwest": {
+        "lat": 1.283959019708498,
+        "lng": 103.8433935197085
+      }
+    }
+  },
+  "name": "Qing Hua Language Scho",
+  "place_id": "ChIJXYj8SgsZ2jER7HaMLI8btIs",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10066701368821577452",
+  "vicinity": "133 New Bridge Road, #23-09/10"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "15 Clementi Ave 5, Pei Tong Primary School, Singapore 129857",
+  "geometry": {
+    "location": {
+      "lat": 1.3161197,
+      "lng": 103.7675906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317471730291502,
+        "lng": 103.7688046802915
+      },
+      "southwest": {
+        "lat": 1.314773769708498,
+        "lng": 103.7661067197085
+      }
+    }
+  },
+  "name": "MOE Kindergarten @ Pei Tong",
+  "place_id": "ChIJA3ZcEY8a2jERaP5Ur3S_lzU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "guy lee",
+      "author_url": "https://www.google.com/maps/contrib/111992624576706516097/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM6DEn8JxMwjBOKSY50mvFAFy_CXerScec3UzebqT9ybZPVA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "only in ohio boiii ts so tufff",
+      "time": 1745924952,
+      "translated": false
+    },
+    {
+      "author_name": "momo",
+      "author_url": "https://www.google.com/maps/contrib/102540207277370163884/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWWVjNLiXelMqnwnPJtSf00ibzkRpIER2qSvBrrYoWcoY-_7tU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739156539,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3861765713372184168",
+  "user_ratings_total": 2,
+  "vicinity": "15 Clementi Avenue 5, Pei Tong Primary School"
+}

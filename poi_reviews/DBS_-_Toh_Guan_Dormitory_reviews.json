@@ -1,0 +1,45 @@
+{
+  "formatted_address": "19A Toh Guan Rd E, Singapore 608567",
+  "geometry": {
+    "location": {
+      "lat": 1.3382936,
+      "lng": 103.7530129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339482080291502,
+        "lng": 103.7543936802915
+      },
+      "southwest": {
+        "lat": 1.336784119708498,
+        "lng": 103.7516957197085
+      }
+    }
+  },
+  "name": "DBS - Toh Guan Dormitory",
+  "place_id": "ChIJZ2KsJG0Q2jERy2vqVQB_syw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chi Yiu Chan",
+      "author_url": "https://www.google.com/maps/contrib/105600417954190148060/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyJ1UPduLKulDZbocqQr6lHAMErtNTVmljgjp9jfH2DJHLeHKGQw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Life saver!",
+      "time": 1623656176,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3221057797918190539",
+  "user_ratings_total": 1,
+  "vicinity": "19A Toh Guan Road East"
+}

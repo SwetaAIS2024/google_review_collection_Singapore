@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Singapore, #1111SG 邮政编码: 111111",
+  "geometry": {
+    "location": {
+      "lat": 1.3550004,
+      "lng": 103.818291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3580664,
+        "lng": 103.8194938302915
+      },
+      "southwest": {
+        "lat": 1.353978,
+        "lng": 103.8167958697085
+      }
+    }
+  },
+  "name": "Chinese Traditional National Culture",
+  "place_id": "ChIJ7bdWSd0R2jERrKhD4zFhCMU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Abderrezak Chiker",
+      "author_url": "https://www.google.com/maps/contrib/100967545012008624359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBRek2gXYQtO9-WEOY9i7E9t8aC2F5mscKqXQvN0yFoOjzoFwV=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739129669,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14197704692179642540",
+  "user_ratings_total": 1,
+  "vicinity": "SG, #1111"
+}

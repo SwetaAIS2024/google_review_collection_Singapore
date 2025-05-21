@@ -1,0 +1,44 @@
+{
+  "formatted_address": "21 Tampines Ave 1, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.3454905,
+      "lng": 103.9340474
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346938730291502,
+        "lng": 103.9354258802915
+      },
+      "southwest": {
+        "lat": 1.344240769708498,
+        "lng": 103.9327279197085
+      }
+    }
+  },
+  "name": "Temasek Polytechnic School of Informatics & IT",
+  "place_id": "ChIJ4bD_bvw92jERpJrT5Y19NpM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Josephine Tan",
+      "author_url": "https://www.google.com/maps/contrib/112348698048907176645/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzowmzadjaSEOpQSeUG56fM-PUocnEyGJuR6Nz4xZMc8fV6bMz=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Waterfront Polytechnic (overlooks Bedok Reservoir) at the eastern side of Singapore. Offers IT courses for full-time, part-time & short courses.",
+      "time": 1676867190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10607804020717492900",
+  "user_ratings_total": 1,
+  "vicinity": "21 Tampines Avenue 1, Singapore"
+}

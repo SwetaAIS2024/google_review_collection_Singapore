@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Senja Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3858411,
+      "lng": 103.759778
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386929530291502,
+        "lng": 103.7611773802915
+      },
+      "southwest": {
+        "lat": 1.384231569708498,
+        "lng": 103.7584794197085
+      }
+    }
+  },
+  "name": "Senja Grand Park",
+  "place_id": "ChIJ3y1cHqQR2jER5Ko4OYMbE5c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Richard Yong",
+      "author_url": "https://www.google.com/maps/contrib/117842421865691026935/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsiJP8cSzUvEO4yOZsvrzRWhRvyzQDiWv_ZwG9hvlpHPSwBZni=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Has a very nice CrossFit monkey bar & pull up bar rig. You can definitely do a lot calisthenics & bodyweight resistance exercises here. No gym needed!",
+      "time": 1613715143,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10886074974699301604",
+  "user_ratings_total": 1,
+  "vicinity": "Senja Road"
+}

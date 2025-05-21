@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3022954,
+      "lng": 103.8623877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303642880291502,
+        "lng": 103.8634900802915
+      },
+      "southwest": {
+        "lat": 1.300944919708498,
+        "lng": 103.8607921197085
+      }
+    }
+  },
+  "name": "Nationwide Factoring",
+  "place_id": "ChIJbXUm47MZ2jERHBDknS9mXpA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10402864543970889756",
+  "vicinity": "Singapore"
+}

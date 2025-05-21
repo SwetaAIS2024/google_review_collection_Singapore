@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Mount Elizabeth, #16-07 MEDICAL CENTRE, Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3048385,
+      "lng": 103.8360498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306211430291502,
+        "lng": 103.8373200302915
+      },
+      "southwest": {
+        "lat": 1.303513469708498,
+        "lng": 103.8346220697085
+      }
+    }
+  },
+  "name": "Cardiac Specialist Centre",
+  "place_id": "ChIJd9xGRpIZ2jER_w0ZfhGohHU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8468077992446856703",
+  "vicinity": "3 Mount Elizabeth, #16-07 MEDICAL CENTRE"
+}

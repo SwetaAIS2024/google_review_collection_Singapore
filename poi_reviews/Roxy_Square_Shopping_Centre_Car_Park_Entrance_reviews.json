@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Marine Parade Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3029444,
+      "lng": 103.9046667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304305130291502,
+        "lng": 103.9059972302915
+      },
+      "southwest": {
+        "lat": 1.301607169708498,
+        "lng": 103.9032992697085
+      }
+    }
+  },
+  "name": "Roxy Square Shopping Centre Car Park Entrance",
+  "place_id": "ChIJPesIFgAZ2jER8Rooyr-F7_E",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Y.C. Chan",
+      "author_url": "https://www.google.com/maps/contrib/110076042452851657476/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2PBYznwFyQPLwWrK3N2Kzp3U5Mc2reZK6Hjw0H2KNWI6W3ow=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Rundown only some food are nice",
+      "time": 1744419288,
+      "translated": false
+    },
+    {
+      "author_name": "Alfred Tay",
+      "author_url": "https://www.google.com/maps/contrib/107355835231172509322/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6Kt1cRuGCHfK9qnDpGb01Va93DpBv3yZ82yOhW53d07rMJg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744083032,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17433299741351353073",
+  "user_ratings_total": 2,
+  "vicinity": "Marine Parade Road"
+}

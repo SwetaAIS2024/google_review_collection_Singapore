@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.337747,
+      "lng": 103.696541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339087780291502,
+        "lng": 103.6978899302915
+      },
+      "southwest": {
+        "lat": 1.336389819708498,
+        "lng": 103.6951919697085
+      }
+    }
+  },
+  "name": "650B HDB",
+  "place_id": "ChIJX6H8NpAP2jERtfprU_lWzxA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1211282453632383669",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "15, 45 Seletar Hills Dr, Singapore 807060",
+  "geometry": {
+    "location": {
+      "lat": 1.3833115,
+      "lng": 103.8756142
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384677580291502,
+        "lng": 103.8769649802915
+      },
+      "southwest": {
+        "lat": 1.381979619708498,
+        "lng": 103.8742670197085
+      }
+    }
+  },
+  "name": "Vet-Aqua Life",
+  "place_id": "ChIJ1QTLaGcW2jERwIhL5uVFMJM",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10606053976171055296",
+  "vicinity": "15, 45 Seletar Hills Drive"
+}

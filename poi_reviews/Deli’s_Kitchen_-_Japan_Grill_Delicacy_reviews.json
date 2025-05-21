@@ -1,0 +1,47 @@
+{
+  "formatted_address": "9 Tampines Street 32 Tampines Mart #02-01A-E Kitchen, #08 Select Cloud Kitchen, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.3541102,
+      "lng": 103.9602815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355301730291502,
+        "lng": 103.9616324802915
+      },
+      "southwest": {
+        "lat": 1.352603769708498,
+        "lng": 103.9589345197085
+      }
+    }
+  },
+  "name": "Deli’s Kitchen - Japan Grill Delicacy",
+  "place_id": "ChIJyTBMrMo92jERTm2UfWg9eHQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Łeon",
+      "author_url": "https://www.google.com/maps/contrib/117471385803296867598/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4Y1bJBUJLZGQWphMS8qhgPzVYB9hwGoAhvX5Na0ohb0qMy2d9=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "1st time ordering from ‘em and the Hakata Black Curry options do not disappoint. Balanced (sweet, tangy, savoury) curry that we can eat a tub of with moist, succulent proteins. A bit pricey me thinks but quality of cook is well worth it.",
+      "time": 1639286093,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8392525424597691726",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tampines Street 32 Tampines Mart #02-01A-E Kitchen, #08 Select Cloud Kitchen"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.326672,
+      "lng": 103.763969
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328020980291502,
+        "lng": 103.7652666802915
+      },
+      "southwest": {
+        "lat": 1.325323019708498,
+        "lng": 103.7625687197085
+      }
+    }
+  },
+  "name": "Logishub @ Clementi",
+  "place_id": "ChIJm7QzrIIa2jEReJqfErcE4p8",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "ਮਾਝੇ ਵਾਲੇ",
+      "author_url": "https://www.google.com/maps/contrib/102733526094116797052/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4u7GX2hWRY7ctBJpNHaniU25hqBEf-u3pVcESvC6h7jCVcDzP=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "Bus stop 12201, bus number 189. Bus arrivel info is totally wrong, as i seen arrival time 4 minutes away, however, Bus arrived 4 minutes earlier than arriving time. So funny  i was wasted time on bus stop more than 17 minutes !!!",
+      "time": 1734350639,
+      "translated": false
+    },
+    {
+      "author_name": "billygohyewteck Teck",
+      "author_url": "https://www.google.com/maps/contrib/116092875783431076262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdO-MtYgml6DvAKhqcVVZfJkBkbSBdMY0xAmIpz9LptFeRXRtZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Some time so late",
+      "time": 1489965854,
+      "translated": false
+    },
+    {
+      "author_name": "Tok Meibin",
+      "author_url": "https://www.google.com/maps/contrib/101542696801718429970/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKV6vLlB4QPd77jhgFzM0QFAOQC09rnH-wGYUlLryZfnkZK4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1478668311,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11520775981105126008",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

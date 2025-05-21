@@ -1,0 +1,51 @@
+{
+  "formatted_address": "3 Buroh Ln, Singapore 618285",
+  "geometry": {
+    "location": {
+      "lat": 1.3149404,
+      "lng": 103.722819
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316483280291502,
+        "lng": 103.7242202802915
+      },
+      "southwest": {
+        "lat": 1.313785319708498,
+        "lng": 103.7215223197085
+      }
+    }
+  },
+  "name": "Sinmah Poultry Processing (S) Pte Ltd",
+  "place_id": "ChIJvaJq7usX2jERO4e4NEsvk2g",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Rick Sim-Lim",
+      "author_url": "https://www.google.com/maps/contrib/117255426552047648966/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEtir6nysSA_5H8LnmNDxE-VlOullMpBIZOvwR_g10Ad0yxNQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733647380,
+      "translated": false
+    },
+    {
+      "author_name": "ahchun84 ahchun84",
+      "author_url": "https://www.google.com/maps/contrib/108042750824949643221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqF3UeXwM5QCe3XBbMnfGZgxuzxfAXL9CCt5Ak5WeXths49g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1442798926,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7535418601574532923",
+  "user_ratings_total": 2,
+  "vicinity": "3 Buroh Lane"
+}

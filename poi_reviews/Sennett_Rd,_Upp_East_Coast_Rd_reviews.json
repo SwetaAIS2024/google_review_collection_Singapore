@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31473,
+      "lng": 103.9382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316036180291502,
+        "lng": 103.9395529302915
+      },
+      "southwest": {
+        "lat": 1.313338219708498,
+        "lng": 103.9368549697085
+      }
+    }
+  },
+  "name": "Sennett Rd, Upp East Coast Rd",
+  "place_id": "ChIJpwLjhMci2jERvTlc-D76Toc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "asyraf i",
+      "author_url": "https://www.google.com/maps/contrib/104211673550030263972/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG3fKTjGvoSWgiFy9RRlRlm-3olpeQ1idHuhKHXkRN6QG0_EHv=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Duplicate of bus stop but Google doesn't want to remove",
+      "time": 1673277884,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9750005391665412541",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "989 Bukit Timah Rd, Singapore 589629",
+  "geometry": {
+    "location": {
+      "lat": 1.3340471,
+      "lng": 103.7847221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335501130291502,
+        "lng": 103.7860191802915
+      },
+      "southwest": {
+        "lat": 1.332803169708498,
+        "lng": 103.7833212197085
+      }
+    }
+  },
+  "name": "Sanctuary Mart Maple",
+  "place_id": "ChIJl0go-oQQ2jERYs3s9t2BTvI",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17460035595692461410",
+  "vicinity": "989 Bukit Timah Road"
+}

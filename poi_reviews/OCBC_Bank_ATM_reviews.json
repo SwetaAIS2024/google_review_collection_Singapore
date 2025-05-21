@@ -1,0 +1,55 @@
+{
+  "formatted_address": "No. 4 Seah Im Rd, Singapore 099115",
+  "geometry": {
+    "location": {
+      "lat": 1.2667926,
+      "lng": 103.8193303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267913780291502,
+        "lng": 103.8209243802915
+      },
+      "southwest": {
+        "lat": 1.265215819708498,
+        "lng": 103.8182264197085
+      }
+    }
+  },
+  "name": "OCBC Bank ATM",
+  "place_id": "ChIJH7rroeEb2jER4Tv0ZPmiT8o",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Banares",
+      "author_url": "https://www.google.com/maps/contrib/117144700022341068467/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW13HFuTWdmpnxSuPpI7yAESu1yW-liUthF_YnKHvAyiy_sjM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "5 months ago",
+      "text": "8 dollar fee to withdraw 80",
+      "time": 1732361040,
+      "translated": false
+    },
+    {
+      "author_name": "Amy Marietta",
+      "author_url": "https://www.google.com/maps/contrib/115224100777041883574/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNl7NwT-D1sVIK7LKA0SXRqtpvWs7CwbY0XVnMmuOj7Qq0-ekxQg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605341090,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14578049710845869025",
+  "user_ratings_total": 2,
+  "vicinity": "No. 4 Seah Im Road"
+}

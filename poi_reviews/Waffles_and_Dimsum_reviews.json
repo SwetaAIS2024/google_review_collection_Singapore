@@ -1,0 +1,46 @@
+{
+  "formatted_address": "1 Punggol Coast Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4136972,
+      "lng": 103.9142208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.414673980291502,
+        "lng": 103.9156913302915
+      },
+      "southwest": {
+        "lat": 1.411976019708498,
+        "lng": 103.9129933697085
+      }
+    }
+  },
+  "name": "Waffles & Dimsum",
+  "place_id": "ChIJQ2lYXgAV2jERGJ20-rcCoQk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Low Bao Heng",
+      "author_url": "https://www.google.com/maps/contrib/108033403024309465290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmNskCMTl5jIisOkzoK_cgQJ5Ccos3s95ZHfTDJtE-QP6iKvg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Nice waffles! Try it!",
+      "time": 1736405268,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=693838806800178456",
+  "user_ratings_total": 1,
+  "vicinity": "1 Punggol Coast Road"
+}

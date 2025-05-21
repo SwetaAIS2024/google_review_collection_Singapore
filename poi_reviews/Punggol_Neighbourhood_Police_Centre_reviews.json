@@ -1,0 +1,29 @@
+{
+  "formatted_address": "151 Punggol Central, Singapore 828727",
+  "geometry": {
+    "location": {
+      "lat": 1.3979547,
+      "lng": 103.9140307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399121030291502,
+        "lng": 103.9152475302915
+      },
+      "southwest": {
+        "lat": 1.396423069708498,
+        "lng": 103.9125495697085
+      }
+    }
+  },
+  "name": "Punggol Neighbourhood Police Centre",
+  "place_id": "ChIJcdn2U_g92jERXsWQf7oMaHo",
+  "types": [
+    "police",
+    "local_government_office",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8820313865348760926",
+  "vicinity": "151 Punggol Central, Singapore"
+}

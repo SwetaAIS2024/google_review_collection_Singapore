@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Lor 7 Toa Payoh, #01-125 Block 4, Singapore 310004",
+  "geometry": {
+    "location": {
+      "lat": 1.3391672,
+      "lng": 103.8543921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340376830291502,
+        "lng": 103.8557407802915
+      },
+      "southwest": {
+        "lat": 1.337678869708498,
+        "lng": 103.8530428197085
+      }
+    }
+  },
+  "name": "Nil",
+  "place_id": "ChIJ_6CCPG4X2jERVTNmVwlCUqU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Malathi Ram",
+      "author_url": "https://www.google.com/maps/contrib/102843407185852583363/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp-P5uhWeZDdXwy5H1qtibB4vpEkS4AuKMqDZvFzakKYjMVw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555994038,
+      "translated": false
+    },
+    {
+      "author_name": "Shirley Tan",
+      "author_url": "https://www.google.com/maps/contrib/110950088071122959192/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAy9rifhvCL_7i4zxdUDHvziZNfVxG1k1K9uCAtzStW_Kfwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555994014,
+      "translated": false
+    },
+    {
+      "author_name": "Amy Tan",
+      "author_url": "https://www.google.com/maps/contrib/101647143913034643849/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxl8qVZoKlaSrWjPOeMhPtIZKNcmRxSvKYUwJwKbYOM4bTq3Nr=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503590658,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11912656572236837717",
+  "user_ratings_total": 3,
+  "vicinity": "Lorong 7 Toa Payoh, #01-125 Block 4"
+}

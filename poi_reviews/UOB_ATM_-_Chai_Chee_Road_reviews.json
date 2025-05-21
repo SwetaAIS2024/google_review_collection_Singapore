@@ -1,0 +1,45 @@
+{
+  "formatted_address": "25A Chai Chee Rd, #01-459 Blk 25A, Singapore 461025",
+  "geometry": {
+    "location": {
+      "lat": 1.3232684,
+      "lng": 103.9240514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324479280291502,
+        "lng": 103.9253272302915
+      },
+      "southwest": {
+        "lat": 1.321781319708498,
+        "lng": 103.9226292697085
+      }
+    }
+  },
+  "name": "UOB ATM - Chai Chee Road",
+  "place_id": "ChIJ44DHaZEZ2jERTS05woupAfQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Nor Azila",
+      "author_url": "https://www.google.com/maps/contrib/102790737387791484629/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLHyIs8eQ8xGJOr_m-XFnkOLXk1rEfUoSTZu6HRpDCcUL_2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good service. The best sister 🥰 always makes it easy for the customer..",
+      "time": 1628490326,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17582520837955202381",
+  "user_ratings_total": 1,
+  "vicinity": "25A Chai Chee Road, #01-459 Blk 25A"
+}

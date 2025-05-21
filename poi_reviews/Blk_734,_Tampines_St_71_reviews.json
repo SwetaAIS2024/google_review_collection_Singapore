@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35849,
+      "lng": 103.93415
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359818630291502,
+        "lng": 103.9355000802915
+      },
+      "southwest": {
+        "lat": 1.357120669708498,
+        "lng": 103.9328021197085
+      }
+    }
+  },
+  "name": "Blk 734, Tampines St 71",
+  "place_id": "ChIJL5PShXM92jERnEiE23bScFQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6084594504508393628",
+  "vicinity": "Singapore"
+}

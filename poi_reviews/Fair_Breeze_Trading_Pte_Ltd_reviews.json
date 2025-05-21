@@ -1,0 +1,43 @@
+{
+  "formatted_address": "8 Pandan Cres, Singapore 128464",
+  "geometry": {
+    "location": {
+      "lat": 1.3045969,
+      "lng": 103.7583233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305924580291502,
+        "lng": 103.7596450802915
+      },
+      "southwest": {
+        "lat": 1.303226619708498,
+        "lng": 103.7569471197085
+      }
+    }
+  },
+  "name": "Fair Breeze Trading Pte Ltd",
+  "place_id": "ChIJG5ERLLkb2jERCEwfQYequwM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ricardas Ramoska",
+      "author_url": "https://www.google.com/maps/contrib/103904982592017740363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY0sZ9Kej4MSNECUyUkb7Ts9diQdcq1bKl8kLTLZFNkxNoiqPl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Extremely satisfied from the first day/order. Fast service, client oriented attitude.",
+      "time": 1695866908,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=268996100648553480",
+  "user_ratings_total": 1,
+  "vicinity": "8 Pandan Crescent"
+}

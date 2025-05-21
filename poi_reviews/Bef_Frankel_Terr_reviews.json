@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.318608,
+      "lng": 103.914413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319970530291502,
+        "lng": 103.9157938802915
+      },
+      "southwest": {
+        "lat": 1.317272569708498,
+        "lng": 103.9130959197085
+      }
+    }
+  },
+  "name": "Bef Frankel Terr",
+  "place_id": "ChIJ7zIgKKgi2jERVWQLksaKXeo",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Mengyao Yu (Madeline)",
+      "author_url": "https://www.google.com/maps/contrib/113778741786633418459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNcm73H5s77MMc-A7HhnYPQwnGnasBinz7lOEOp0Pc7n6Au99L=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "I don't see any bus when the map shows the bus arrives.",
+      "time": 1614499231,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16887806763167605845",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

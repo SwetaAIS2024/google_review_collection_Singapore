@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Blk 5008 Ang Mo Kio Ave 5, #05-07 Techplace II, Singapore 569874",
+  "geometry": {
+    "location": {
+      "lat": 1.3776521,
+      "lng": 103.865398
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379348580291502,
+        "lng": 103.8667039302915
+      },
+      "southwest": {
+        "lat": 1.376650619708498,
+        "lng": 103.8640059697085
+      }
+    }
+  },
+  "name": "Quality Assurance Management Asia Pte Ltd",
+  "place_id": "ChIJiRCVFPYW2jER2iNhxvSaZRA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "kavi Kavinesh",
+      "author_url": "https://www.google.com/maps/contrib/117721508471796910691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9I3xHwjttdjj3_0T7wEhrhTlZ5WjNrPARDmv1hUjAGxyfv8zx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Super",
+      "time": 1678854095,
+      "translated": false
+    },
+    {
+      "author_name": "James Jia",
+      "author_url": "https://www.google.com/maps/contrib/104714414009151957371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm3hQ07h7mW-kK24p0sN2C0cwHfwfuMfKfOgDW3TdQLY4ZoOc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1598617405,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1181520853345575898",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 5008 Ang Mo Kio Avenue 5, #05-07 Techplace II"
+}

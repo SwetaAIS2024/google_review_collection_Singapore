@@ -1,0 +1,58 @@
+{
+  "formatted_address": "119 Aljunied Avenue, #2, Singapore 380119",
+  "geometry": {
+    "location": {
+      "lat": 1.3050468,
+      "lng": 103.9020878
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306343730291502,
+        "lng": 103.9033647302915
+      },
+      "southwest": {
+        "lat": 1.303645769708498,
+        "lng": 103.9006667697085
+      }
+    }
+  },
+  "name": "Alishan Taiwanese Cuisine",
+  "place_id": "ChIJR34pKgAZ2jERF6MoGw4mk0A",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jed Lim",
+      "author_url": "https://www.google.com/maps/contrib/117253079624937810015/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxvI7rzGEHY8M-CCQEVeCDnzFSKAslyyYqbe9mnPbZ44_wV-_3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "Simple Taiwanese fare of braised pork belly rice and xiao long baos. Quite average in taste - the pork belly was a bit tougher than expected. The portion however was good.",
+      "time": 1729856228,
+      "translated": false
+    },
+    {
+      "author_name": "Karen Ng",
+      "author_url": "https://www.google.com/maps/contrib/112906472345183531889/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIa1o0-tYboTWTNPAB8FYXhbktXlmA238MCYMlMAwDq_g2q8A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Generous portions serve pipping hot.",
+      "time": 1736070145,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4653104682030899991",
+  "user_ratings_total": 2,
+  "vicinity": "119 Aljunied Avenue, #2, Singapore"
+}

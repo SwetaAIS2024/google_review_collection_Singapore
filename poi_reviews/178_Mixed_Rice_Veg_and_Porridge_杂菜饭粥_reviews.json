@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Shipyard Cres, Singapore 627842",
+  "geometry": {
+    "location": {
+      "lat": 1.3033026,
+      "lng": 103.6849157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304647930291502,
+        "lng": 103.6861280302915
+      },
+      "southwest": {
+        "lat": 1.301949969708498,
+        "lng": 103.6834300697085
+      }
+    }
+  },
+  "name": "178 Mixed Rice Veg and Porridge 杂菜饭粥",
+  "place_id": "ChIJd4Pilu8F2jERGcAmPHaisOQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mohammad Shohel",
+      "author_url": "https://www.google.com/maps/contrib/106106294191950755022/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLowrd5cG_TkmC5E6Pmpohmp8CzRsK_Nhc1tc03kbM-Lan_fg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Good",
+      "time": 1715430632,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16478849665247658009",
+  "user_ratings_total": 1,
+  "vicinity": "1 Shipyard Crescent"
+}

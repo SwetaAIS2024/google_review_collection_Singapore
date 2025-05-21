@@ -1,0 +1,44 @@
+{
+  "formatted_address": "1 Toa Payoh N, Singapore 318990",
+  "geometry": {
+    "location": {
+      "lat": 1.3417335,
+      "lng": 103.8515188
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343081830291502,
+        "lng": 103.8528148302915
+      },
+      "southwest": {
+        "lat": 1.340383869708498,
+        "lng": 103.8501168697085
+      }
+    }
+  },
+  "name": "Beatty Reflection Room",
+  "place_id": "ChIJMU5SBwAX2jERb05oVKJFQ7Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Choo",
+      "author_url": "https://www.google.com/maps/contrib/101495702983912838205/reviews",
+      "language": "en-US",
+      "original_language": "mr",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkU4VwfgKXt-OgqACKS4vHMlvBN1EFOJfFm5OcMfACxkfhRy4Nrg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Mr Kamsari very kind",
+      "time": 1705859142,
+      "translated": true
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12989302313769782895",
+  "user_ratings_total": 1,
+  "vicinity": "1 Toa Payoh North, Singapore"
+}

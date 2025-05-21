@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2956046,
+      "lng": 103.8595553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296972480291502,
+        "lng": 103.8608643802915
+      },
+      "southwest": {
+        "lat": 1.294274519708498,
+        "lng": 103.8581664197085
+      }
+    }
+  },
+  "name": "Suntec Twr Three",
+  "place_id": "ChIJsfZb_K4Z2jER2AByEY5aLKE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kong Jo LL",
+      "author_url": "https://www.google.com/maps/contrib/108734836022455442496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBpcIHEda-Z6sRH2xNMZPkNUNp-eqaLXTz2c2n_HkwD9UL5g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Great and heart warming to see Christmas Deco. People walking and working in the mall are expressionless and cold.",
+      "time": 1544017140,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11613757105306206424",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

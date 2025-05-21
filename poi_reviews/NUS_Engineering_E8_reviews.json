@@ -1,0 +1,66 @@
+{
+  "formatted_address": "1 Engineering Drive 3, Singapore 117580",
+  "geometry": {
+    "location": {
+      "lat": 1.2990034,
+      "lng": 103.7728255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300350230291502,
+        "lng": 103.7741695302915
+      },
+      "southwest": {
+        "lat": 1.297652269708498,
+        "lng": 103.7714715697085
+      }
+    }
+  },
+  "name": "NUS Engineering E8",
+  "place_id": "ChIJaVUqgvca2jERlWU6Yn95-Po",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Grace Chia",
+      "author_url": "https://www.google.com/maps/contrib/110361654241742131921/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxw8atS_60RQAKPCNbpzMA7qYj07Js06kAu9sI69PA_R4FYFU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Bumblebee Autonomous Systems are housed here :)",
+      "time": 1520734434,
+      "translated": false
+    },
+    {
+      "author_name": "Layla Wang",
+      "author_url": "https://www.google.com/maps/contrib/102331646057316268039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4qNGu2xbSjgdv315V5YdC0ZXLF9gAwideV6XEvMlBnqJnQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "The equipment very new the people here not so good",
+      "time": 1656779428,
+      "translated": false
+    },
+    {
+      "author_name": "Lim Peng Heng",
+      "author_url": "https://www.google.com/maps/contrib/116246733721624989874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6tMryQqvsLpUMTE3jX1Ec4N1OS4ZzxesSOj2X3rm7e8Kxog=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611569666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18084337891722028437",
+  "user_ratings_total": 3,
+  "vicinity": "1 Engineering Drive 3, Singapore"
+}

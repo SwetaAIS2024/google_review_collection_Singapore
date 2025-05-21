@@ -1,0 +1,45 @@
+{
+  "formatted_address": "132 Killiney Rd, Singapore 239562",
+  "geometry": {
+    "location": {
+      "lat": 1.2976771,
+      "lng": 103.8381987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298989830291502,
+        "lng": 103.8395929802915
+      },
+      "southwest": {
+        "lat": 1.296291869708498,
+        "lng": 103.8368950197085
+      }
+    }
+  },
+  "name": "페어프라이스마트",
+  "place_id": "ChIJzSEscAAZ2jERkYWZF_oC8Wk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "쥬니",
+      "author_url": "https://www.google.com/maps/contrib/106242190165726312805/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8RKeMSk0CQX0AoB2Rhretwqwh_f1r6GG6HxVXF4yGDii2N2c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743921539,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7633886116530718097",
+  "user_ratings_total": 1,
+  "vicinity": "132 Killiney Road, Singapore"
+}

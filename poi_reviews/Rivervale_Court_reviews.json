@@ -1,0 +1,41 @@
+{
+  "formatted_address": "102 Rivervale Walk, Singapore 540102",
+  "geometry": {
+    "location": {
+      "lat": 1.381822,
+      "lng": 103.9009109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383260080291502,
+        "lng": 103.9022275802915
+      },
+      "southwest": {
+        "lat": 1.380562119708498,
+        "lng": 103.8995296197085
+      }
+    }
+  },
+  "name": "Rivervale Court",
+  "place_id": "ChIJ1R3vyhcW2jERjZS0BzMjhJw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Narayanan Ra",
+      "author_url": "https://www.google.com/maps/contrib/104307594426781225825/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkVO-km1XfRAkIQPfAaN_pOSAMHeJQzIh5D3PdLChGuvW4ZncMcg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560757997,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11278178068922143885",
+  "user_ratings_total": 1,
+  "vicinity": "102 Rivervale Walk"
+}

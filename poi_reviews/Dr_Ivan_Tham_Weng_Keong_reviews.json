@@ -1,0 +1,54 @@
+{
+  "formatted_address": "6A Napier Road Gleneagles Hospital, Level 1 Radiation Oncology Centre, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3076528,
+      "lng": 103.8198871
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309068730291502,
+        "lng": 103.8211892302915
+      },
+      "southwest": {
+        "lat": 1.306370769708498,
+        "lng": 103.8184912697085
+      }
+    }
+  },
+  "name": "Dr Ivan Tham Weng Keong",
+  "place_id": "ChIJxZ1ablob2jERxPSa76jy-JY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kinsley Koo",
+      "author_url": "https://www.google.com/maps/contrib/100797241691609917334/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-AA9fZ5UPbblJkFP9hs2GgXlqvxd8cfj6AitExjAQuLpS-Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738307786,
+      "translated": false
+    },
+    {
+      "author_name": "Benny Putra Wong",
+      "author_url": "https://www.google.com/maps/contrib/113712010037332196517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA_cy9blPQPr8cGLy-KLK-EvdfRpUOc6yleypVhWMb-TXi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733559832,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10878711707301770436",
+  "user_ratings_total": 2,
+  "vicinity": "6A Napier Road Gleneagles Hospital, Level 1 Radiation Oncology Centre"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 109 Lor 1 Toa Payoh, #01-310, Singapore 310109",
+  "geometry": {
+    "location": {
+      "lat": 1.3412033,
+      "lng": 103.8464019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342423530291502,
+        "lng": 103.8477440302915
+      },
+      "southwest": {
+        "lat": 1.339725569708498,
+        "lng": 103.8450460697085
+      }
+    }
+  },
+  "name": "UOB ATM - Toa Payoh Lorong 1",
+  "place_id": "ChIJ7xtrPWoX2jER7pGXDau3sSc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2860269183652303342",
+  "vicinity": "Blk 109 Lorong 1 Toa Payoh, #01-310"
+}

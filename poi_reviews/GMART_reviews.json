@@ -1,0 +1,59 @@
+{
+  "formatted_address": "109 Bukit Purmei Ave, #01-155, Singapore 090109",
+  "geometry": {
+    "location": {
+      "lat": 1.273986,
+      "lng": 103.825734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275434280291502,
+        "lng": 103.8270845802915
+      },
+      "southwest": {
+        "lat": 1.272736319708498,
+        "lng": 103.8243866197085
+      }
+    }
+  },
+  "name": "GMART",
+  "place_id": "ChIJJTdUHhIX2jERUdIVLROfyYk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SzeYong Tan",
+      "author_url": "https://www.google.com/maps/contrib/115683660347834138550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwqgpnDGsGJaV9ZkOEAVA4C3rWDVgrtqivmYlW1i4oq9fAh80=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "I Collect My Shopee Parecl there Good job",
+      "time": 1723122616,
+      "translated": false
+    },
+    {
+      "author_name": "Sam Nikolson",
+      "author_url": "https://www.google.com/maps/contrib/100181279718551543712/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBQ8iiaCI76l7U5hObhbB3DnLOX948KIysIB_duIU7N0Qz0yrX=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Nice place! Bananas, Papaya, Pineapples are good here and not expensive.",
+      "time": 1738071421,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9928641758224568913",
+  "user_ratings_total": 2,
+  "vicinity": "109 Bukit Purmei Avenue, #01-155"
+}

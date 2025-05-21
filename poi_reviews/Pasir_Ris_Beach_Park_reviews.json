@@ -1,0 +1,44 @@
+{
+  "formatted_address": "beach park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3848707,
+      "lng": 103.9448825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386061130291502,
+        "lng": 103.9456989802915
+      },
+      "southwest": {
+        "lat": 1.383363169708498,
+        "lng": 103.9430010197085
+      }
+    }
+  },
+  "name": "Pasir Ris Beach Park",
+  "place_id": "ChIJGRWKeAA92jERv91ckc8O0AE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chiranjeev Malviya",
+      "author_url": "https://www.google.com/maps/contrib/118205941715436121881/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1yd7W-lw8bMoBWnEjVd6s3yOTgMsLBscIq_3Y4mGwMJ45CXbB=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Sceneric.",
+      "time": 1745734954,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=130620673853545919",
+  "user_ratings_total": 1,
+  "vicinity": "beach park"
+}

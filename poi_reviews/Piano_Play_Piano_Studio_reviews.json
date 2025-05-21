@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Tower 2, Level 39 Marina Bay Financial Centre, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.279637,
+      "lng": 103.854149
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281307630291502,
+        "lng": 103.8554905802915
+      },
+      "southwest": {
+        "lat": 1.278609669708498,
+        "lng": 103.8527926197085
+      }
+    }
+  },
+  "name": "Piano Play Piano Studio",
+  "place_id": "ChIJbWbhluMZ2jERjhxqcl-5MhE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hui En Choo",
+      "author_url": "https://www.google.com/maps/contrib/117022948741988311763/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvHXcjracntOsECjTdhlrMVmVmAvlHZEd06sZb9bFm1cbyS0HZAg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "A patient and experienced piano teacher who is passionate to share the joy in teaching music.\n\nLesson conducted using digital keyboard.\n\nStudio is small and cozy, nice ambience.",
+      "time": 1598692938,
+      "translated": false
+    },
+    {
+      "author_name": "Marianne Star Inacay",
+      "author_url": "https://www.google.com/maps/contrib/106206152868287131610/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJDVom38gQbw-bVdndvwygvyULWmKndpeQqkvYyjN5gIUNOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "I love the ambience of the place and it's definitely a conducive environment for learning how to play the piano.",
+      "time": 1598755697,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1239256667072896142",
+  "user_ratings_total": 2,
+  "vicinity": "Tower 2, Level 39 Marina Bay Financial Centre"
+}

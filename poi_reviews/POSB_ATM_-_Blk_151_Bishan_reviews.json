@@ -1,0 +1,45 @@
+{
+  "formatted_address": "151 Bishan St.11, Singapore 570151",
+  "geometry": {
+    "location": {
+      "lat": 1.3451572,
+      "lng": 103.8554925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346714280291502,
+        "lng": 103.8569481302915
+      },
+      "southwest": {
+        "lat": 1.344016319708498,
+        "lng": 103.8542501697085
+      }
+    }
+  },
+  "name": "POSB ATM - Blk 151 Bishan",
+  "place_id": "ChIJj9trUm0X2jERYRGZBpd1SnQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ron Wong",
+      "author_url": "https://www.google.com/maps/contrib/113974670312659340338/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEHg5eOgUYQDAoibd5eXFXOKHqI3zAuzRfm9jjDdiJ7BokUi-WZw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Exceptional withdrawal services",
+      "time": 1483620267,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8379639348187435361",
+  "user_ratings_total": 1,
+  "vicinity": "151 Bishan Street 11"
+}

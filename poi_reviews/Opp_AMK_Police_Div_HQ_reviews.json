@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.384084,
+      "lng": 103.844597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385462680291502,
+        "lng": 103.8459425302915
+      },
+      "southwest": {
+        "lat": 1.382764719708498,
+        "lng": 103.8432445697085
+      }
+    }
+  },
+  "name": "Opp AMK Police Div HQ",
+  "place_id": "ChIJ1xbW3b8W2jERHycApSdZ430",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mega Bucks",
+      "author_url": "https://www.google.com/maps/contrib/104396218095528132457/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqseSiMzjhwAsYaDCvAhKvPcVogFnIaedBmjZM9bRaw8LyFXA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605089036,
+      "translated": false
+    },
+    {
+      "author_name": "Meng Meng Kwang",
+      "author_url": "https://www.google.com/maps/contrib/108821609212800183291/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxaQsPg0raOHwdkC78LsdoQBCuWZCapGyXj4-ZiL_3Px83Yg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487309486,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9071192101261158175",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

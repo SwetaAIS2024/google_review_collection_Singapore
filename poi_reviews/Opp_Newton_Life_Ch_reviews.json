@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3145789,
+      "lng": 103.8405599
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315893530291502,
+        "lng": 103.8418947802915
+      },
+      "southwest": {
+        "lat": 1.313195569708498,
+        "lng": 103.8391968197085
+      }
+    }
+  },
+  "name": "Opp Newton Life Ch",
+  "place_id": "ChIJ--zRGOkZ2jERn6q5MT9N3us",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Probably one of the most important bus stops along Newton Road, as this is the closest bus stop to a number of condominiums along the stretch. Partially sheltered towards Newton 21, and towards Trilight too. But it's unfortunately not fully sheltered towards Hakka Methodist Church. Traffic light right in front as well, allowing you to cross the road without walking too much.",
+      "time": 1632272150,
+      "translated": false
+    },
+    {
+      "author_name": "Manson See",
+      "author_url": "https://www.google.com/maps/contrib/105334484235549860971/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg68wa2DvntznvBNhza0f3bqH3PJbi0c0WHHVinoIrvRJxfHs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "The good dinosaur easter eggs in a few days",
+      "time": 1479000964,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16996106977555360415",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

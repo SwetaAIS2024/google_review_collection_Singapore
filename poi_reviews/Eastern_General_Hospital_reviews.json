@@ -1,0 +1,45 @@
+{
+  "formatted_address": "01-2148, 6012, Bedok Ind Park C, C, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3365875,
+      "lng": 103.9169767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338072180291502,
+        "lng": 103.9183545302915
+      },
+      "southwest": {
+        "lat": 1.335374219708498,
+        "lng": 103.9156565697085
+      }
+    }
+  },
+  "name": "Eastern General Hospital",
+  "place_id": "ChIJTX1uagA92jERkGqU46Zx_1s",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "khamerz",
+      "author_url": "https://www.google.com/maps/contrib/116581390353110333085/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5O9Iwg9PmYCuQITS3zxfD-k_DK4tpoL8bPZjAO0gHXVAt4g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "New hospital in town!",
+      "time": 1745886983,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6629142138109323920",
+  "user_ratings_total": 1,
+  "vicinity": "01-2148, 6012, Bedok Ind Park C, C"
+}

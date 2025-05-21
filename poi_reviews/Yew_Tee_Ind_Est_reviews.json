@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.396234,
+      "lng": 103.754219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397574980291502,
+        "lng": 103.7555906802915
+      },
+      "southwest": {
+        "lat": 1.394877019708498,
+        "lng": 103.7528927197085
+      }
+    }
+  },
+  "name": "Yew Tee Ind Est",
+  "place_id": "ChIJfb1A7YwR2jER8I1Q020fh3Q",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Jojo N.",
+      "author_url": "https://www.google.com/maps/contrib/101011238768211301851/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHRp4Vgxr1x3hPqOpB0UqSy5XUa2FvAr_6EqhvgVK6ufk1vlJQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "CP food court has been recently revived. nothing fancy but an alternative to Yew Tee food courts with limitations in parking.\nmore foodstalls to open.\ncurrently have mixed veggie, Indian, chicken and some hokkien Mee.",
+      "time": 1570082505,
+      "translated": false
+    },
+    {
+      "author_name": "ty feon",
+      "author_url": "https://www.google.com/maps/contrib/110065983308825435522/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_u4l9_vekU7CfO4lS6bL6kQhZbQ0pbutZ4rsbkGQiMFOnv_iheA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "The food court is normal. At least cheaper parking here. Sometimes even free if younare fast.",
+      "time": 1579670482,
+      "translated": false
+    },
+    {
+      "author_name": "Huang Wen sheng",
+      "author_url": "https://www.google.com/maps/contrib/109720130056887423341/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLctMoHI9mwdFf0brNP6NIIQ_nR7NcfEApLv0IN5XUvUd2hA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563009734,
+      "translated": false
+    },
+    {
+      "author_name": "See Mr",
+      "author_url": "https://www.google.com/maps/contrib/110218099951850471527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL02Wxb7L7bwBufH4K6Yz6oX9cyxDnnqGv2Uvh8jCs_JdBTIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510702841,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8396714586812747248",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

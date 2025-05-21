@@ -1,0 +1,63 @@
+{
+  "formatted_address": "5004 Ang Mo Kio Ave 5, #05-10/11 Techplace 11 569872, Singapore 569872",
+  "geometry": {
+    "location": {
+      "lat": 1.3780408,
+      "lng": 103.8661021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379577580291502,
+        "lng": 103.8674416802915
+      },
+      "southwest": {
+        "lat": 1.376879619708498,
+        "lng": 103.8647437197085
+      }
+    }
+  },
+  "name": "Denko Lighting Pte Ltd",
+  "place_id": "ChIJF5J6ePYW2jERSAbuFYfm4hg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mike Zhang",
+      "author_url": "https://www.google.com/maps/contrib/109511783180158083402/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK250Mi7iCJNrte7ruqpct2XaCdplwU4OchLX6SgOqKi0mNgQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "The product is great! Worth recommending!",
+      "time": 1719828127,
+      "translated": true
+    },
+    {
+      "author_name": "Samuel Chan",
+      "author_url": "https://www.google.com/maps/contrib/108116782153212364356/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4lKyAoEKsHa_Zt4A6UPrgY0v0qJ0mBKCnra50eQ3K8oCDKtOr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601624117,
+      "translated": false
+    },
+    {
+      "author_name": "Kenji Tay",
+      "author_url": "https://www.google.com/maps/contrib/113997919750091019522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTo3qgwDwjd_eW8W_ye-y0IYKUHu6pEpLD1e1s0J_3OWOFSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522119814,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1793249069509772872",
+  "user_ratings_total": 3,
+  "vicinity": "5004 Ang Mo Kio Avenue 5, #05-10/11 Techplace 11 569872"
+}

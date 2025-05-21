@@ -1,0 +1,55 @@
+{
+  "formatted_address": "No. 300 Eu Tong Sen St, Park MRT Station, Singapore 059816",
+  "geometry": {
+    "location": {
+      "lat": 1.2797438,
+      "lng": 103.839381
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281061530291502,
+        "lng": 103.8407710802915
+      },
+      "southwest": {
+        "lat": 1.278363569708498,
+        "lng": 103.8380731197085
+      }
+    }
+  },
+  "name": "UOB ATM - Outram Park NEL MRT Station",
+  "place_id": "ChIJq3nzobcZ2jERKtwJ8HcJGX0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "SR C",
+      "author_url": "https://www.google.com/maps/contrib/112412005435804198242/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK68oEFnk1_lccUcPXm911u9D31UetN4uohd-lGVyHh0EIqTQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Careful. Atm swallows your cards",
+      "time": 1703844521,
+      "translated": false
+    },
+    {
+      "author_name": "Eric 199",
+      "author_url": "https://www.google.com/maps/contrib/114976421099238933221/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrCGNh1ZMITBS5Th7pW0NQwdX0gdIEarNTMS6kpPHjQW0VZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699948198,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9014246539891694634",
+  "user_ratings_total": 2,
+  "vicinity": "No. 300 Eu Tong Sen Street, Park MRT Station"
+}

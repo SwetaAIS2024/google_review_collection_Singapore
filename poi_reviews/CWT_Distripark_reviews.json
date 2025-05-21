@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.316992,
+      "lng": 103.719887
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318325480291502,
+        "lng": 103.7213122302915
+      },
+      "southwest": {
+        "lat": 1.315627519708498,
+        "lng": 103.7186142697085
+      }
+    }
+  },
+  "name": "CWT Distripark",
+  "place_id": "ChIJF8v4y08F2jERIdkHylVhEhM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "yang圣喜",
+      "author_url": "https://www.google.com/maps/contrib/109020799753812922739/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPTCqr9QLluLAfSPg1gsKlJD5IajOhrPAOs5EA6YHF9zVTQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1525965192,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Aiw",
+      "author_url": "https://www.google.com/maps/contrib/112317807616216065057/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxeuNrubr1SYHKrODEuQygiYAFp_4jVgHofj628MPcBnU7OGJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521444807,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1374267857391048993",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

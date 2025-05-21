@@ -1,0 +1,52 @@
+{
+  "formatted_address": "5, Jln Niaga Aspira 1/2, Gerbang Nusajaya, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4198336,
+      "lng": 103.5938116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421138930291502,
+        "lng": 103.5952429802915
+      },
+      "southwest": {
+        "lat": 1.418440969708498,
+        "lng": 103.5925450197085
+      }
+    }
+  },
+  "name": "Kopi Rico",
+  "place_id": "ChIJF_erWgAL2jERJVOH5ie88bg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "abdul hatim",
+      "author_url": "https://www.google.com/maps/contrib/104179793215323830889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUznBud24DlTIv3sXtdi-XqwS5bRpr1qusJfrEOTGpJEl06sHC8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747213596,
+      "translated": false
+    },
+    {
+      "author_name": "Lady N",
+      "author_url": "https://www.google.com/maps/contrib/113649031243652071771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInuYhSLmcmEy6VkHdy4lKS9LeFSBJ_bUgk3ncUOFqR7Tfm6A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745592605,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13326639651923383077",
+  "user_ratings_total": 2,
+  "vicinity": "5, Jalan Niaga Aspira 1/2, Gerbang Nusajaya, Gelang Patah"
+}

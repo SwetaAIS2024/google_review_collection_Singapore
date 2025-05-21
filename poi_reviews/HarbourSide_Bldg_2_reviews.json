@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.274815,
+      "lng": 103.796738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276133580291502,
+        "lng": 103.7980770802915
+      },
+      "southwest": {
+        "lat": 1.273435619708498,
+        "lng": 103.7953791197085
+      }
+    }
+  },
+  "name": "HarbourSide Bldg 2",
+  "place_id": "ChIJD9NqN78b2jERXGTkisIHehU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bayzid Max",
+      "author_url": "https://www.google.com/maps/contrib/100648880711157266890/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3fcDLl5Zfjje-cYhDpxBGunuOjZD_P5oyLOfEs19GJUtcj_sb=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Amazing",
+      "time": 1703130001,
+      "translated": false
+    },
+    {
+      "author_name": "Darren Yap",
+      "author_url": "https://www.google.com/maps/contrib/100885981871991695815/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfJWx0ACDMAJcuJqzGV0e4PNCg0O7w0U4APEOLeq8CwS3oQhf9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561029404,
+      "translated": false
+    },
+    {
+      "author_name": "MARIAMA ENGATHARAN (Marie)",
+      "author_url": "https://www.google.com/maps/contrib/114390685169319135825/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrP8jts6sjiU5DYymxbJCjDDB3zUrjCjqebKgFxBZcHtpKOAqV=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1487325447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1547557954090460252",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

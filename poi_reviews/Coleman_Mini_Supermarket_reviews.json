@@ -1,0 +1,30 @@
+{
+  "formatted_address": "152A Bishan St.11, Singapore 571152",
+  "geometry": {
+    "location": {
+      "lat": 1.3452221,
+      "lng": 103.8550596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346654130291502,
+        "lng": 103.8563341302915
+      },
+      "southwest": {
+        "lat": 1.343956169708498,
+        "lng": 103.8536361697085
+      }
+    }
+  },
+  "name": "Coleman Mini Supermarket",
+  "place_id": "ChIJwWg0NW0X2jERrOTjoSS3fNM",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15239256607077688492",
+  "vicinity": "152A Bishan Street 11"
+}

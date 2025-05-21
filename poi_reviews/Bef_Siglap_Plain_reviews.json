@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319768,
+      "lng": 103.915054
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321162830291502,
+        "lng": 103.9163874302915
+      },
+      "southwest": {
+        "lat": 1.318464869708498,
+        "lng": 103.9136894697085
+      }
+    }
+  },
+  "name": "Bef Siglap Plain",
+  "place_id": "ChIJM0m_2qki2jERp05RrECHawg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "l",
+      "author_url": "https://www.google.com/maps/contrib/110925534033283734522/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLExabvRTmmzcjONHXmV4Jj8nzSiJgNdd175ZMn8OlgDCaoBAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "stopped me from getting lost 10/10",
+      "time": 1739522239,
+      "translated": false
+    },
+    {
+      "author_name": "Heng Seng Cheah",
+      "author_url": "https://www.google.com/maps/contrib/110305372989841077271/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfn8ufUjcMQ5GD1bFvGsVqhM_3aVASa03SNv3mBjGCnB8izl0a4g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510708146,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=606727286650130087",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

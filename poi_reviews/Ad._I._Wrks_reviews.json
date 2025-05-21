@@ -1,0 +1,29 @@
+{
+  "formatted_address": "08-02 Irving Pl, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336019,
+      "lng": 103.8864577
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337398630291502,
+        "lng": 103.8877995302915
+      },
+      "southwest": {
+        "lat": 1.334700669708498,
+        "lng": 103.8851015697085
+      }
+    }
+  },
+  "name": "Ad. I. Wrks",
+  "place_id": "ChIJE26kDpIX2jERlu0rYiOZd9w",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15886334587822665110",
+  "vicinity": "08-02 Irving Place"
+}

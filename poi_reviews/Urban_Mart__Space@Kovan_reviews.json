@@ -1,0 +1,46 @@
+{
+  "formatted_address": "9 Yio Chu Kang Rd, #01-55, Singapore 545523",
+  "geometry": {
+    "location": {
+      "lat": 1.3544052,
+      "lng": 103.8771684
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355819930291502,
+        "lng": 103.8785818802915
+      },
+      "southwest": {
+        "lat": 1.353121969708498,
+        "lng": 103.8758839197085
+      }
+    }
+  },
+  "name": "Urban Mart ( Space@Kovan)",
+  "place_id": "ChIJBTyzWPQX2jERiM9jOQws82g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jared SR Chua",
+      "author_url": "https://www.google.com/maps/contrib/110169894208744388211/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCBAH0aiOC_WTaaE-NVv5VROBBTdgDbp4O-9ymt7ieJCmnJBqj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1670381294,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "liquor_store",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7562436630299266952",
+  "user_ratings_total": 1,
+  "vicinity": "9 Yio Chu Kang Road, #01-55"
+}

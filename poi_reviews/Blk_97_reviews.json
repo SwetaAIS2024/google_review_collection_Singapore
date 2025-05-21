@@ -1,0 +1,82 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.306213,
+      "lng": 103.801712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307546880291502,
+        "lng": 103.8031109802915
+      },
+      "southwest": {
+        "lat": 1.304848919708498,
+        "lng": 103.8004130197085
+      }
+    }
+  },
+  "name": "Blk 97",
+  "place_id": "ChIJ7e2KUT4a2jER2OpCTN9anSk",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Nant Khin Thu Zar cho",
+      "author_url": "https://www.google.com/maps/contrib/115067807072557051895/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp2TW66fhSlNlROxg1ixPpvfDEqn5Xxgn_Auio9-f88cT5jA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1746853395,
+      "translated": false
+    },
+    {
+      "author_name": "Lilian Tang",
+      "author_url": "https://www.google.com/maps/contrib/101625799794950080952/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ64lcrXIFvkQM_R36n5ArOq_3UVg338JcJXnr-ctzpcBWi7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526093719,
+      "translated": false
+    },
+    {
+      "author_name": "Siew L T (Lian De)",
+      "author_url": "https://www.google.com/maps/contrib/107451641883019265849/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-q0rhOi3vPLc6R0gSdVKnfUabMoYvapTp6CN6grimYxyGt64-zg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522208524,
+      "translated": false
+    },
+    {
+      "author_name": "Cheryl Kwan",
+      "author_url": "https://www.google.com/maps/contrib/100624718899975702252/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbV1iSE3XoC_i8xAJLULnePM_uf-_WaEYE9Zz2Blaqw6OlKjoe=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500095094,
+      "translated": false
+    },
+    {
+      "author_name": "fidz onna",
+      "author_url": "https://www.google.com/maps/contrib/101936753899412664785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9aa_8XR9oqqY18AB-zcSQycYkSID7udN8JJ0OhD2RMhTKrS4y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483266355,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2998652842002279128",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

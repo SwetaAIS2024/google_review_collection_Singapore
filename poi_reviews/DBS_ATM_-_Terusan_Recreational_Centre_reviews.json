@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jalan Papan, Terusan Recreational Centre, Singapore 619392",
+  "geometry": {
+    "location": {
+      "lat": 1.320441,
+      "lng": 103.7271986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321720930291502,
+        "lng": 103.7286312802915
+      },
+      "southwest": {
+        "lat": 1.319022969708498,
+        "lng": 103.7259333197085
+      }
+    }
+  },
+  "name": "DBS ATM - Terusan Recreational Centre",
+  "place_id": "ChIJ_Rqjg7AF2jERnXvbZb1LsK4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12587644235330321309",
+  "vicinity": "1 Jalan Papan, Terusan Recreational Centre"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "726 Clementi West Street 2, #01-05, Singapore 120726",
+  "geometry": {
+    "location": {
+      "lat": 1.3037545,
+      "lng": 103.7639269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305250930291502,
+        "lng": 103.7652215302915
+      },
+      "southwest": {
+        "lat": 1.302552969708498,
+        "lng": 103.7625235697085
+      }
+    }
+  },
+  "name": "Auntie Crabs",
+  "place_id": "ChIJQWI7AfIa2jERTULaN89guwE",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ian Heng",
+      "author_url": "https://www.google.com/maps/contrib/109433312110942599622/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXk2oiaK1IEEk7JX3bpnmVDe0v6nuGGJ5vXgfYXzUAtqGpsyxE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Great array of crabs, prawns and seafood ! Aunty will properly pack into plastic boxes with ice, for buyers to directly store into their freezer compartments upon reaching home.",
+      "time": 1640954152,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina L",
+      "author_url": "https://www.google.com/maps/contrib/114176793745779139308/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUizVN48UKBZlY9VUGwklt1-h8HW_THqmkmrmMPpebKegmRS2wB=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736258357,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=124799857794368077",
+  "user_ratings_total": 2,
+  "vicinity": "726 Clementi West Street 2, #01-05"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Kampung Tanjung Kupang, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3515146,
+      "lng": 103.6011708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.352958080291502,
+        "lng": 103.6024613802915
+      },
+      "southwest": {
+        "lat": 1.350260119708498,
+        "lng": 103.5997634197085
+      }
+    }
+  },
+  "name": "Pandas Clinic",
+  "place_id": "ChIJW1-KRdoJ2jERoMnpD8EMdeQ",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16462078036257917344",
+  "vicinity": "Kampung Tanjung Kupang, Gelang Patah"
+}

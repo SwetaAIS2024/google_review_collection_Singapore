@@ -1,0 +1,45 @@
+{
+  "formatted_address": "416 Pandan Gardens, # 01-28, Singapore 600416",
+  "geometry": {
+    "location": {
+      "lat": 1.321051,
+      "lng": 103.7481249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322259280291502,
+        "lng": 103.7498025802915
+      },
+      "southwest": {
+        "lat": 1.319561319708498,
+        "lng": 103.7471046197085
+      }
+    }
+  },
+  "name": "Medical Union Clinic",
+  "place_id": "ChIJw2mouaMa2jERRQ0wATNerZ0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Traction 99",
+      "author_url": "https://www.google.com/maps/contrib/100965045358361984876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh8EaIjsZgP1rB4O9uj_akUGn3vE63TMBw8ueZzlQq5_CX8Xg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The clinic doesn’t stick to operating hours.. sometime people travelled all the way there seeking medical help but don’t know why it is not opened for business…",
+      "time": 1692665445,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11361841008081898821",
+  "user_ratings_total": 1,
+  "vicinity": "416 Pandan Gardens, # 01-28, Singapore"
+}

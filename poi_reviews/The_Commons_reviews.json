@@ -1,0 +1,28 @@
+{
+  "formatted_address": "124 Neil Rd, Singapore 088858",
+  "geometry": {
+    "location": {
+      "lat": 1.2787267,
+      "lng": 103.8414382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280036430291502,
+        "lng": 103.8428302302915
+      },
+      "southwest": {
+        "lat": 1.277338469708498,
+        "lng": 103.8401322697085
+      }
+    }
+  },
+  "name": "The Commons",
+  "place_id": "ChIJOdkdmW0Z2jERtzytutRx8Ts",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4319358676103937207",
+  "vicinity": "124 Neil Road"
+}

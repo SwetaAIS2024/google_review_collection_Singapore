@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 512 Tampines Central 1, Tampines Bus Interchange, Singapore 520512",
+  "geometry": {
+    "location": {
+      "lat": 1.3536424,
+      "lng": 103.9430565
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354932830291502,
+        "lng": 103.9444436802915
+      },
+      "southwest": {
+        "lat": 1.352234869708498,
+        "lng": 103.9417457197085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines Bus Interchange",
+  "place_id": "ChIJ90Wtxlc92jERfWsh49ZV7jM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3742022721813441405",
+  "vicinity": "No. 512 Tampines Central 1, Tampines Bus Interchange"
+}

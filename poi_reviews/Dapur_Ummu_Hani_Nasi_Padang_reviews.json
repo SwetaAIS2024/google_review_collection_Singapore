@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Kaki Bukit Rd 1, #01-18 Enterprise One, Singapore 415934",
+  "geometry": {
+    "location": {
+      "lat": 1.3324228,
+      "lng": 103.9024326
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333743580291502,
+        "lng": 103.9038338302915
+      },
+      "southwest": {
+        "lat": 1.331045619708498,
+        "lng": 103.9011358697085
+      }
+    }
+  },
+  "name": "Dapur Ummu Hani Nasi Padang",
+  "place_id": "ChIJl5OsKwAX2jER30nAn-l5LvA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Assyifa Jannah",
+      "author_url": "https://www.google.com/maps/contrib/106307059396616366121/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkXdipR-Z0t1ZrOO-PosFZp4FiYh7Xtc4Hx6OLyJdwp5f3tBEh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733811877,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17306904462345914847",
+  "user_ratings_total": 1,
+  "vicinity": "1 Kaki Bukit Road 1, #01-18 Enterprise One, Singapore"
+}

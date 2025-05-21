@@ -1,0 +1,30 @@
+{
+  "formatted_address": "268 Geylang Rd, Singapore 389322",
+  "geometry": {
+    "location": {
+      "lat": 1.3124093,
+      "lng": 103.8785087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313796780291502,
+        "lng": 103.8798509802915
+      },
+      "southwest": {
+        "lat": 1.311098819708498,
+        "lng": 103.8771530197085
+      }
+    }
+  },
+  "name": "Joo Tuck Mini-mart",
+  "place_id": "ChIJW7NlSzcY2jER8hDk0_fKrl8",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6894671245311480050",
+  "vicinity": "268 Geylang Road"
+}

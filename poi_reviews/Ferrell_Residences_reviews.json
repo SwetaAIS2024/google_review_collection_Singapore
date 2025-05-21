@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3180247,
+      "lng": 103.8327272
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319407230291502,
+        "lng": 103.8341067802915
+      },
+      "southwest": {
+        "lat": 1.316709269708498,
+        "lng": 103.8314088197085
+      }
+    }
+  },
+  "name": "Ferrell Residences",
+  "place_id": "ChIJzaPEsPoZ2jERVT60a-O39BI",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "It's a tad tedious bus stop, with no nearby shelter anywhere, nor does it have any unique transit options. You'd use this bus stop only if you're heading into the condos along Ewe Boon road. There's a small walkway in between Ferrell Residences and SPC petrol kiosk, make sure you don't miss it though, the walk way is not very obvious.",
+      "time": 1651571726,
+      "translated": false
+    },
+    {
+      "author_name": "Icam Dude",
+      "author_url": "https://www.google.com/maps/contrib/100382127420110129960/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVhbJrFYNAut3rz1dYfDTALBSMne2Znyn-ViDxbypv0EZ9YA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571674511,
+      "translated": false
+    },
+    {
+      "author_name": "meikwan toh",
+      "author_url": "https://www.google.com/maps/contrib/110517594897331880891/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF2rrSUztvJNsKtyNZjcM4hg1BLbM_2EdRaQycRPqD2p2L5h4=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476063266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1365918774392536661",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

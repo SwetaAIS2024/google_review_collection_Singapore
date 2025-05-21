@@ -1,0 +1,45 @@
+{
+  "formatted_address": "121 Dover Rd, Singapore 139650",
+  "geometry": {
+    "location": {
+      "lat": 1.3026511,
+      "lng": 103.7803752
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304163430291502,
+        "lng": 103.7818066802915
+      },
+      "southwest": {
+        "lat": 1.301465469708498,
+        "lng": 103.7791087197085
+      }
+    }
+  },
+  "name": "Chong Pang Tai Zhi Wei (ACS Stall) 忠邦台之味",
+  "place_id": "ChIJaaBIGAAb2jERckueEGbmU2Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lucas Neo",
+      "author_url": "https://www.google.com/maps/contrib/100529032144098991842/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3R0_dd419y_4mT556_KGahooor7lRuByRpt7C7pLpmUk3mwM=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Scallion pancake, egg roll and salted chicken are damn good",
+      "time": 1736392083,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7373490340975496050",
+  "user_ratings_total": 1,
+  "vicinity": "121 Dover Road, Singapore"
+}

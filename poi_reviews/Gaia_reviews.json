@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3416519,
+      "lng": 103.6842486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342965330291502,
+        "lng": 103.6856246302915
+      },
+      "southwest": {
+        "lat": 1.340267369708498,
+        "lng": 103.6829266697085
+      }
+    }
+  },
+  "name": "Gaia",
+  "place_id": "ChIJQWNOdJ4P2jER5E-a7ieNH3A",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8079331459172290532",
+  "vicinity": "Singapore"
+}

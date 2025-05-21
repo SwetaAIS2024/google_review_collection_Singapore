@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Jurong East, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3328572,
+      "lng": 103.7435522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353528870783074,
+        "lng": 103.7570060491011
+      },
+      "southwest": {
+        "lat": 1.296112937058775,
+        "lng": 103.7096661598768
+      }
+    }
+  },
+  "name": "Jurong East",
+  "place_id": "ChIJQzT5NKoa2jERYKTarqz3AAU",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Jurong+East,+Singapore&ftid=0x31da1aaa34f93443:0x500f7acaedaa460",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "176 Orchard Rd, B1-K11 The Centrepoint, Singapore 238843",
+  "geometry": {
+    "location": {
+      "lat": 1.3019805,
+      "lng": 103.839695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303107580291502,
+        "lng": 103.8411147802915
+      },
+      "southwest": {
+        "lat": 1.300409619708498,
+        "lng": 103.8384168197085
+      }
+    }
+  },
+  "name": "UOB ATM - The Centrepoint",
+  "place_id": "ChIJX25QeiAZ2jERNCoSxMZKAu4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17150352548533774900",
+  "vicinity": "176 Orchard Road, B1-K11 The Centrepoint"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Tampines Ave 4, #01-00 Block 811, Singapore 520811",
+  "geometry": {
+    "location": {
+      "lat": 1.3465886,
+      "lng": 103.9377202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347938030291502,
+        "lng": 103.9391306802915
+      },
+      "southwest": {
+        "lat": 1.345240069708498,
+        "lng": 103.9364327197085
+      }
+    }
+  },
+  "name": "UOB ATM - Tampines Avenue 4",
+  "place_id": "ChIJ8eMvuVU92jER9Yn9FggCkkU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5013071568985491957",
+  "vicinity": "Tampines Avenue 4, #01-00 Block 811"
+}

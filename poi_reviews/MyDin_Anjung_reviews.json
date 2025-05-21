@@ -1,0 +1,57 @@
+{
+  "formatted_address": "East Ledang, 79250 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.425149,
+      "lng": 103.61683
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426562230291502,
+        "lng": 103.6182179302915
+      },
+      "southwest": {
+        "lat": 1.423864269708498,
+        "lng": 103.6155199697085
+      }
+    }
+  },
+  "name": "MyDin Anjung",
+  "place_id": "ChIJg4-_R5QL2jERSLTe44mR7kU",
+  "rating": 1.5,
+  "reviews": [
+    {
+      "author_name": "Chau Hoang",
+      "author_url": "https://www.google.com/maps/contrib/109989914432843941436/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwyVxcCkE-dNxYaJM-qK2tZ0fpPn5HAcWec6IPoDd59_E8Pw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "There is no bus stop there. The locals may know how to catch a bus there but travellers don't. Especially if you want to  catch the Causeway bus to go to Singapore, that  definitely is not the right place. You should better go to Terminal Gelang Patah, near by.",
+      "time": 1664665259,
+      "translated": false
+    },
+    {
+      "author_name": "Supergoola",
+      "author_url": "https://www.google.com/maps/contrib/116693373227403952177/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKofCuoP2VT_92HfC0ctWKP3V6SoFrhoHeJBI72ZD0L7CWlgA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "There is no physical bus stop (or am i the only one not seeing it). You have to wait on the roadside.\nCan board cw3 line to jurong east here.",
+      "time": 1655483708,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5039125054493733960",
+  "user_ratings_total": 2,
+  "vicinity": "Malaysia"
+}

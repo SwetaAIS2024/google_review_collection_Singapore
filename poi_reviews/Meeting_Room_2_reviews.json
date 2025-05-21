@@ -1,0 +1,28 @@
+{
+  "formatted_address": "206 Toa Payoh N, Singapore 310206",
+  "geometry": {
+    "location": {
+      "lat": 1.342248,
+      "lng": 103.8465571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343558680291502,
+        "lng": 103.8479058802915
+      },
+      "southwest": {
+        "lat": 1.340860719708498,
+        "lng": 103.8452079197085
+      }
+    }
+  },
+  "name": "Meeting Room 2",
+  "place_id": "ChIJ5WX6m-IX2jERFhJqMsalVL0",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13642711441879994902",
+  "vicinity": "206 Toa Payoh North"
+}

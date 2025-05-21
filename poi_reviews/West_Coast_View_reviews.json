@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2953,
+      "lng": 103.765289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296633280291502,
+        "lng": 103.7666039802915
+      },
+      "southwest": {
+        "lat": 1.293935319708498,
+        "lng": 103.7639060197085
+      }
+    }
+  },
+  "name": "West Coast View",
+  "place_id": "ChIJw-fMavsa2jERdBIJ0Lyb7yU",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Alf Hofstetter",
+      "author_url": "https://www.google.com/maps/contrib/111891719564695417904/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr3cZalsJ1d2-9h1lUWgLF18OMoAkGGSnwycewKs83LViyvORt=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "This Bus stop, located at the very busy West Coast Highway, is the most convenient access to the lower (east) part of the West Coast Park. After crossing the overhead bridge the greenery immediately take over and the feelings change. It is also the best stop for pedestrians to reach the Republic Yacht Club.",
+      "time": 1655356234,
+      "translated": false
+    },
+    {
+      "author_name": "Markus -",
+      "author_url": "https://www.google.com/maps/contrib/101427727233319208197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsT7QwIH3T5SJpId35j11dK8gie8e9sTLoVSlonMleB4RzV1M=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "I like this bus stop. It has all the buses i need. Could have more buses however.",
+      "time": 1635939259,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2733574734083592820",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

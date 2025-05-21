@@ -1,0 +1,29 @@
+{
+  "formatted_address": "261 Punggol Wy, Blk 261, Singapore 820261",
+  "geometry": {
+    "location": {
+      "lat": 1.4054154,
+      "lng": 103.8969095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406819980291502,
+        "lng": 103.8983154802915
+      },
+      "southwest": {
+        "lat": 1.404122019708498,
+        "lng": 103.8956175197085
+      }
+    }
+  },
+  "name": "DBS ATM - Blk 261 Punggol Way",
+  "place_id": "ChIJFRH7LAUV2jERh0wRdRo_-MI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14049048420448029831",
+  "vicinity": "261 Punggol Way, Blk 261"
+}

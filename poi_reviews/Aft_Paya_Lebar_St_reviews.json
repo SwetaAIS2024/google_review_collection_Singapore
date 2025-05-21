@@ -1,0 +1,82 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3396856,
+      "lng": 103.8857085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341053130291502,
+        "lng": 103.8870590802915
+      },
+      "southwest": {
+        "lat": 1.338355169708498,
+        "lng": 103.8843611197085
+      }
+    }
+  },
+  "name": "Aft Paya Lebar St",
+  "place_id": "ChIJPUR945MX2jERUqTEVxv9qzI",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "bhupendra gurung",
+      "author_url": "https://www.google.com/maps/contrib/114667486507865563364/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVilKVrjwLpApr2H-JpyfbsQmqatTmVHkqqOpM1LPo7j3ZZ2eg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739697417,
+      "translated": false
+    },
+    {
+      "author_name": "SathishT Sathish",
+      "author_url": "https://www.google.com/maps/contrib/106912249757513583698/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoUDW_DIHQvyNuGOTtYK7DYO3VozAxxyJiBpiaq1XvqUUH_zf7=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706341053,
+      "translated": false
+    },
+    {
+      "author_name": "Willie Ng",
+      "author_url": "https://www.google.com/maps/contrib/104097253026367188545/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0fir9xNLmSLfui0nAiiAJpgoT0qRwxk5v35KycWcID-BFe1Am=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672373544,
+      "translated": false
+    },
+    {
+      "author_name": "Benjamin Ong",
+      "author_url": "https://www.google.com/maps/contrib/104193841121697188464/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJczmgyXJ9YieGzEmy-ISvlDYack2276VmOMijePI6G1TYdzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507358700,
+      "translated": false
+    },
+    {
+      "author_name": "Daren Sieng",
+      "author_url": "https://www.google.com/maps/contrib/108651288357342664508/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZhaP5Y8qbGFOKZXEHyXVpGjTl2UMVAr9AFiF6cLxv9eEiGzMt=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1490604295,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3651290216792368210",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

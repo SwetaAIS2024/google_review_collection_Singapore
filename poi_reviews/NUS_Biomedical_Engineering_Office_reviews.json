@@ -1,0 +1,54 @@
+{
+  "formatted_address": "4 Engineering Drive 3, #04-08, Singapore 117583",
+  "geometry": {
+    "location": {
+      "lat": 1.2980478,
+      "lng": 103.7721206
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299355430291502,
+        "lng": 103.7734424302915
+      },
+      "southwest": {
+        "lat": 1.296657469708498,
+        "lng": 103.7707444697085
+      }
+    }
+  },
+  "name": "NUS Biomedical Engineering Office",
+  "place_id": "ChIJ7-0W0_ka2jER-1TN8LZuQkk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Spicy Gluten Dr.",
+      "author_url": "https://www.google.com/maps/contrib/110280275975807693104/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDgwGoeWI9D7on6m-V5JN4ZDF1DUcytbb4zUMl5xhU3Dyzw-HL=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "A research institute on mix area of biology and engineering, including artificial intelligence, brain science, etc.",
+      "time": 1585727551,
+      "translated": false
+    },
+    {
+      "author_name": "Denise Lim",
+      "author_url": "https://www.google.com/maps/contrib/113151142028613563332/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEBXM-8rxUj91sok-Jqya9LqMCuYeJxP3IyNDewVfVD-GUTA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518142808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5278903445234734331",
+  "user_ratings_total": 2,
+  "vicinity": "4 Engineering Drive 3, #04-08, Singapore"
+}

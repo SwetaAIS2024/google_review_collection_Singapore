@@ -1,0 +1,46 @@
+{
+  "formatted_address": "11 Bidadari Park Drive, Mall, B1-K29 The Woodleigh, Singapore 367803",
+  "geometry": {
+    "location": {
+      "lat": 1.338586,
+      "lng": 103.8717553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339850930291502,
+        "lng": 103.8733630302915
+      },
+      "southwest": {
+        "lat": 1.337152969708498,
+        "lng": 103.8706650697085
+      }
+    }
+  },
+  "name": "Kang Xiao Lu 康小卤炸鸭",
+  "place_id": "ChIJo8sXcQAX2jERRI-FFyko61g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "任婧",
+      "author_url": "https://www.google.com/maps/contrib/107602332540157732868/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTGBXCJcxp5JVl_Dd9hJBX7PKH2aEmDyOImBO1Mfss8GqJ0A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "The taste is very authentic and the chicken feet are delicious!",
+      "time": 1726888318,
+      "translated": true
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6407259051818061636",
+  "user_ratings_total": 1,
+  "vicinity": "11 Bidadari Park Drive, Mall, B1-K29 The Woodleigh, Singapore"
+}

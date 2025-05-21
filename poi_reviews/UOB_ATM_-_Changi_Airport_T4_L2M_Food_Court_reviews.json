@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 10 Airport Boulevard, #02-K28, L2M Food Court, Singapore Changi Airport, Terminal 4, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3384416,
+      "lng": 103.9836789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339945130291502,
+        "lng": 103.9846536802915
+      },
+      "southwest": {
+        "lat": 1.337247169708498,
+        "lng": 103.9819557197085
+      }
+    }
+  },
+  "name": "UOB ATM - Changi Airport T4 L2M Food Court",
+  "place_id": "ChIJs2yqjZQ92jERyfuWE8JI0lo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6544373206912269257",
+  "vicinity": "No. 10 Airport Boulevard, #02-K28, L2M Food Court, Singapore Changi Airport, Terminal 4"
+}

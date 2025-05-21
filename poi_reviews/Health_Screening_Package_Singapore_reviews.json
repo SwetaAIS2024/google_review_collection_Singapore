@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Tampines Grande, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545664,
+      "lng": 103.942316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355768730291502,
+        "lng": 103.9437486302915
+      },
+      "southwest": {
+        "lat": 1.353070769708498,
+        "lng": 103.9410506697085
+      }
+    }
+  },
+  "name": "Health Screening Package Singapore",
+  "place_id": "ChIJr-GI8Q092jERaFlQ2J7S3vo",
+  "types": [
+    "local_government_office",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18077117533987559784",
+  "vicinity": "3 Tampines Grande"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "80 Marine Parade Road Parkway Parade, #04-08/09, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302969330291502,
+        "lng": 103.9067279302915
+      },
+      "southwest": {
+        "lat": 1.300271369708498,
+        "lng": 103.9040299697085
+      }
+    }
+  },
+  "name": "My First Skool at 80 Marine Parade Road",
+  "place_id": "ChIJm-ctqHEY2jERlvfPE-8PdSA",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2338793100992837526",
+  "vicinity": "80 Marine Parade Road Parkway Parade, #04-08/09"
+}

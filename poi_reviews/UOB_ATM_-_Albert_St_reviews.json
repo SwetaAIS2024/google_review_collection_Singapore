@@ -1,0 +1,46 @@
+{
+  "formatted_address": "60 Albert St, Singapore 189969",
+  "geometry": {
+    "location": {
+      "lat": 1.3020235,
+      "lng": 103.853809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303720730291502,
+        "lng": 103.8550863802915
+      },
+      "southwest": {
+        "lat": 1.301022769708498,
+        "lng": 103.8523884197085
+      }
+    }
+  },
+  "name": "UOB ATM - Albert St",
+  "place_id": "ChIJS5w3MroZ2jERT39EjJYrCeA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zero in",
+      "author_url": "https://www.google.com/maps/contrib/105524433991899691824/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZu0dJewmgfmnx1q4jEyaP1XPb_IlgopfR7r8l7-9uyDh3ysFC=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Located at the back entrance of the building along Coffee Hive and Barcook cafe",
+      "time": 1647570443,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16143482264884641615",
+  "user_ratings_total": 1,
+  "vicinity": "60 Albert Street, Singapore"
+}

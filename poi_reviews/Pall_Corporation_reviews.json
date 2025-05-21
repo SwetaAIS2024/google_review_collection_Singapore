@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319646,
+      "lng": 103.686287
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320955880291502,
+        "lng": 103.6876360802915
+      },
+      "southwest": {
+        "lat": 1.318257919708498,
+        "lng": 103.6849381197085
+      }
+    }
+  },
+  "name": "Pall Corporation",
+  "place_id": "ChIJsyBCunkF2jER9EAEiFQaSkk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5281062463406883060",
+  "vicinity": "Singapore"
+}

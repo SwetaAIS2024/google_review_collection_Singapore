@@ -1,0 +1,30 @@
+{
+  "formatted_address": "258 Pasir Ris Street 21, #02-313, Singapore 510258",
+  "geometry": {
+    "location": {
+      "lat": 1.3674968,
+      "lng": 103.9649359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368720180291502,
+        "lng": 103.9660473802915
+      },
+      "southwest": {
+        "lat": 1.366022219708498,
+        "lng": 103.9633494197085
+      }
+    }
+  },
+  "name": "Singgah Selalu",
+  "place_id": "ChIJ8b6HbwA92jERHUQYET06qT8",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4587261729407779869",
+  "vicinity": "258 Pasir Ris Street 21, #02-313"
+}

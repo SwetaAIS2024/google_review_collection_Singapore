@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Queenstown, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2789125,
+      "lng": 103.8008069
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279948830291502,
+        "lng": 103.8024383802915
+      },
+      "southwest": {
+        "lat": 1.277250869708498,
+        "lng": 103.7997404197085
+      }
+    }
+  },
+  "name": "HortLawn",
+  "place_id": "ChIJK2D1cwAb2jERn7Bd-iLSslw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The short grassy HortLawn is a great place for families with children. An opportunity for children to play about while the parent can sit by the edge to watch over them. What better ways to expose them to nature.",
+      "time": 1713166811,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6679632245015031967",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

@@ -1,0 +1,88 @@
+{
+  "formatted_address": "339 Thomson Rd, Level 1, Thomson Medical Centre, Singapore 307677",
+  "geometry": {
+    "location": {
+      "lat": 1.3254375,
+      "lng": 103.8415041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326858830291502,
+        "lng": 103.8429694802915
+      },
+      "southwest": {
+        "lat": 1.324160869708498,
+        "lng": 103.8402715197085
+      }
+    }
+  },
+  "name": "Thomson Retail Pharmacy",
+  "place_id": "ChIJHTvmyeEZ2jERNU8eOTth-SE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kirsten Caesar",
+      "author_url": "https://www.google.com/maps/contrib/106441920045404302064/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5Mozlq4V3psRrZlEQdTS1EVa04yN6Q7K7qeLNy7VFpp5pL_WNVQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very friendly customer service",
+      "time": 1702046591,
+      "translated": false
+    },
+    {
+      "author_name": "Yasir Ali",
+      "author_url": "https://www.google.com/maps/contrib/113588725761228252778/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkSBbNAT_Qsy1Xug6uc1m8Hhoo5fZbCQDZnVe7NkVM6Rt5Jhc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "It is located at thomson road",
+      "time": 1584671118,
+      "translated": false
+    },
+    {
+      "author_name": "Spartan Binato King of Spartan",
+      "author_url": "https://www.google.com/maps/contrib/114662212618417828487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs4ic0dHtx3HF5_OoCmtU07Tqi7ZtNkrPOnH6j9yTbpWhIsNX_XA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1572960831,
+      "translated": false
+    },
+    {
+      "author_name": "yu其余",
+      "author_url": "https://www.google.com/maps/contrib/105979653860895445796/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpQa78AgvIbIVcwL7xrjKhaKo7ghrljyyd6HF-U9zkYVaS_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558853802,
+      "translated": false
+    },
+    {
+      "author_name": "Ростислав Сташенко",
+      "author_url": "https://www.google.com/maps/contrib/106527964428621183730/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuFr6V6jdthmHaM3P1Lpj3U5HN3K94gRyKIbAkRjyhF1rZQA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529422563,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2448094779441827637",
+  "user_ratings_total": 5,
+  "vicinity": "339 Thomson Rd, Level 1, Thomson Medical Centre, Singapore"
+}

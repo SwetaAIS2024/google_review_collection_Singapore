@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Commonwealth Cres, Market, Singapore 149644",
+  "geometry": {
+    "location": {
+      "lat": 1.306959,
+      "lng": 103.8003444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308423080291502,
+        "lng": 103.8017354302915
+      },
+      "southwest": {
+        "lat": 1.305725119708498,
+        "lng": 103.7990374697085
+      }
+    }
+  },
+  "name": "UOB ATM - Commonwealth Crescent Market",
+  "place_id": "ChIJd8kyqtAb2jERHVPk1SVjqC4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3362046135985525533",
+  "vicinity": "31 Commonwealth Crescent, Market"
+}

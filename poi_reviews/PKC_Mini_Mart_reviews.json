@@ -1,0 +1,64 @@
+{
+  "formatted_address": "865 Tampines Street 83, Singapore 520865",
+  "geometry": {
+    "location": {
+      "lat": 1.3538542,
+      "lng": 103.934271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355144630291502,
+        "lng": 103.9355904302915
+      },
+      "southwest": {
+        "lat": 1.352446669708498,
+        "lng": 103.9328924697085
+      }
+    }
+  },
+  "name": "PKC Mini Mart",
+  "place_id": "ChIJgb81Yj892jER31B7eqLmtds",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Vidhi",
+      "author_url": "https://www.google.com/maps/contrib/103115114969210791728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFFwQ9rhQ-YxkEAfnwp6BaZRVDSpIeLb4EcsrQzIR1g6Jk0w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713535742,
+      "translated": false
+    },
+    {
+      "author_name": "Ian Goh",
+      "author_url": "https://www.google.com/maps/contrib/114182453383973468402/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXTPmYqbZ8OnSL_bUUQOHMR-mnKzGEHMA9Rt2NAaUwM8S1RmVc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708662256,
+      "translated": false
+    },
+    {
+      "author_name": "Sage",
+      "author_url": "https://www.google.com/maps/contrib/118415604976032443113/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGL7cQJcO0zZIdRFJ7C_SQn5LmpJq9prEGznFUSg5FLlFp8rbp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1692420019,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15831813650604839135",
+  "user_ratings_total": 3,
+  "vicinity": "865 Tampines Street 83, Singapore"
+}

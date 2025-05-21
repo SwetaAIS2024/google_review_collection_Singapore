@@ -1,0 +1,45 @@
+{
+  "formatted_address": "112 E Coast Rd, #03-03/04 i12 Katong, Singapore 428802",
+  "geometry": {
+    "location": {
+      "lat": 1.3052002,
+      "lng": 103.9050645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306644380291502,
+        "lng": 103.9065360302915
+      },
+      "southwest": {
+        "lat": 1.303946419708498,
+        "lng": 103.9038380697085
+      }
+    }
+  },
+  "name": "Core Clinic",
+  "place_id": "ChIJsxzHzOkZ2jERuW1RRCaK1U4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "이쎗",
+      "author_url": "https://www.google.com/maps/contrib/102528864129250168719/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKvUmZtEPfislo963biiCcj4jzTAuOt699EyOF7s0_6YFa5N1S0Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I've never seen such a kind doctor in this country before... Thanks a lot for the female doctor for kind helpness. Highly recommend!",
+      "time": 1707099769,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5680598401957326265",
+  "user_ratings_total": 1,
+  "vicinity": "112 East Coast Road, #03-03/04 i12 Katong"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "11 Northshore Dr, Singapore 828670",
+  "geometry": {
+    "location": {
+      "lat": 1.4154673,
+      "lng": 103.8990783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416894830291502,
+        "lng": 103.9006047802915
+      },
+      "southwest": {
+        "lat": 1.414196869708498,
+        "lng": 103.8979068197085
+      }
+    }
+  },
+  "name": "Glad Tidings Gateway",
+  "place_id": "ChIJG6jzsS892jERJfnkGFfWp_w",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18205755688236677413",
+  "vicinity": "11 Northshore Drive, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore 529286",
+  "geometry": {
+    "location": {
+      "lat": 1.3543358,
+      "lng": 103.9601617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355458580291502,
+        "lng": 103.9614211302915
+      },
+      "southwest": {
+        "lat": 1.352760619708498,
+        "lng": 103.9587231697085
+      }
+    }
+  },
+  "name": "百家美食",
+  "place_id": "ChIJZZB5egA92jERrk002WAcf5w",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Ivan",
+      "author_url": "https://www.google.com/maps/contrib/117364931581825188071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6iTQcbBQeyrYCac4V-d3JRwYbfdRuGTsSMn3GjF-tgcTfbUvF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "Photos show a chunkier slice salmon. Actual was wafer thin. Rice was luke warm. Miso soup was overly salted.",
+      "time": 1731798980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11276763194245533102",
+  "user_ratings_total": 1,
+  "vicinity": "9 Tampines Street 32, #01-10/11/12/13/14 Tampines Mart, Singapore"
+}

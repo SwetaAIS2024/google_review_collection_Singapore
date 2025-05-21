@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3985124,
+      "lng": 103.8729678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399846980291502,
+        "lng": 103.8742859302915
+      },
+      "southwest": {
+        "lat": 1.397149019708498,
+        "lng": 103.8715879697085
+      }
+    }
+  },
+  "name": "Opp Jln Tari Lilin",
+  "place_id": "ChIJ1xry2n4W2jERfcPSq7sfWKk",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Teo Yeow Kwang",
+      "author_url": "https://www.google.com/maps/contrib/100643423083010978333/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNDbFCDuXXwWzbKj4tofiYKEUgVf2xB_s_bQto9YhGaHnVsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483361522,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12202538081262420861",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

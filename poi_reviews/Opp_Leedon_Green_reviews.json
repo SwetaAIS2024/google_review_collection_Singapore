@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313053,
+      "lng": 103.804375
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314448480291502,
+        "lng": 103.8056840302915
+      },
+      "southwest": {
+        "lat": 1.311750519708498,
+        "lng": 103.8029860697085
+      }
+    }
+  },
+  "name": "Opp Leedon Green",
+  "place_id": "ChIJkXplVhEa2jERWkNtvN6XkOk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16830118790383354714",
+  "vicinity": "Singapore"
+}

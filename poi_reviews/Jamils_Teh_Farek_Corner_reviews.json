@@ -1,0 +1,29 @@
+{
+  "formatted_address": "ECP, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3067873,
+      "lng": 103.9346981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308473180291502,
+        "lng": 103.9359995802915
+      },
+      "southwest": {
+        "lat": 1.305775219708498,
+        "lng": 103.9333016197085
+      }
+    }
+  },
+  "name": "Jamil's Teh Farek Corner",
+  "place_id": "ChIJAx2ggpUi2jER6BJLo1lt-qc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12104107180270752488",
+  "vicinity": "East Coast Parkway"
+}

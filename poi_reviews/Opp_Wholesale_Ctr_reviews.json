@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.286435,
+      "lng": 103.778931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287759330291502,
+        "lng": 103.7802525302915
+      },
+      "southwest": {
+        "lat": 1.285061369708498,
+        "lng": 103.7775545697085
+      }
+    }
+  },
+  "name": "Opp Wholesale Ctr",
+  "place_id": "ChIJ1UOXuqsb2jERkN-HyosWUQs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Bee Lian",
+      "author_url": "https://www.google.com/maps/contrib/113701485404839948889/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmnpAh2VL2cK36X--oK5s8hXXAplvFztXLg71NuhtkRaeeMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503816775,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=815457797184937872",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

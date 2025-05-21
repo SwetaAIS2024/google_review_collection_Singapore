@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Blk 106 Towner Rd, #01-434, Singapore 322106",
+  "geometry": {
+    "location": {
+      "lat": 1.3210859,
+      "lng": 103.8609608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322432880291502,
+        "lng": 103.8624695302915
+      },
+      "southwest": {
+        "lat": 1.319734919708498,
+        "lng": 103.8597715697085
+      }
+    }
+  },
+  "name": "PCF Sparkletots @ Whampoa Blk 106",
+  "place_id": "ChIJ5z06RtEZ2jERNPwbcZqBEBU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sandhana Ramalingam",
+      "author_url": "https://www.google.com/maps/contrib/115468364346329933376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYV8Efzp64VGcvFxA6SkWuBe4tNAv5gNCkUz-R_Pe6A9FYyo2ETQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665375937,
+      "translated": false
+    },
+    {
+      "author_name": "Shanmuga Priya",
+      "author_url": "https://www.google.com/maps/contrib/112483671392455888604/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqSNszRfL58cP7zGORfT5P4KtEIl9azyKJlPFU1zt0jhu_Ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1537254299,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1517855574746463284",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 106 Towner Road, #01-434"
+}

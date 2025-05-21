@@ -1,0 +1,44 @@
+{
+  "formatted_address": "73 Ayer Rajah Crescent, Singapore 139952",
+  "geometry": {
+    "location": {
+      "lat": 1.2973637,
+      "lng": 103.7867905
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298558480291502,
+        "lng": 103.7881234802915
+      },
+      "southwest": {
+        "lat": 1.295860519708498,
+        "lng": 103.7854255197085
+      }
+    }
+  },
+  "name": "Noventis (S) Pte. Ltd.",
+  "place_id": "ChIJ8Y5CIVAa2jERyRF1QeOYP80",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kyler Ng",
+      "author_url": "https://www.google.com/maps/contrib/103160829021196934020/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiYHu2-L1iPy8oFnNeljASXYAIqYCFjhO_E7tI3-eUcL1g2nQG=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1600239049,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14789707803131187657",
+  "user_ratings_total": 1,
+  "vicinity": "73 Ayer Rajah Crescent"
+}

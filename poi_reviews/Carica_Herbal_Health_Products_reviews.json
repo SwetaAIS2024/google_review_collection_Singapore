@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2995871,
+      "lng": 103.8529888
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300892080291502,
+        "lng": 103.8543021302915
+      },
+      "southwest": {
+        "lat": 1.298194119708498,
+        "lng": 103.8516041697085
+      }
+    }
+  },
+  "name": "Carica Herbal Health Products",
+  "place_id": "ChIJS0l1IrsZ2jERrmNY-xh0tXc",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8625928311942964142",
+  "vicinity": "Singapore"
+}

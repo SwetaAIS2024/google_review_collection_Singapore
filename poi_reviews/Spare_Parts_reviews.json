@@ -1,0 +1,27 @@
+{
+  "formatted_address": "03-19 Tuas South Ave 10, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2863969,
+      "lng": 103.6236401
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287716280291502,
+        "lng": 103.6249782302915
+      },
+      "southwest": {
+        "lat": 1.285018319708498,
+        "lng": 103.6222802697085
+      }
+    }
+  },
+  "name": "Spare Parts",
+  "place_id": "ChIJM7rbu4gG2jERHeFssvseMQM",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=229999122351710493",
+  "vicinity": "03-19 Tuas South Avenue 10"
+}

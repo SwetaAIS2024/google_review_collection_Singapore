@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34748,
+      "lng": 103.67947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348801780291502,
+        "lng": 103.6808360802915
+      },
+      "southwest": {
+        "lat": 1.346103819708498,
+        "lng": 103.6781381197085
+      }
+    }
+  },
+  "name": "Blk 2 NIE",
+  "place_id": "ChIJGWsNHwsP2jER2G3yYmBWhRg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1766913400789691864",
+  "vicinity": "Singapore"
+}

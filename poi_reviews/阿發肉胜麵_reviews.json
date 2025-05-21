@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3355765,
+      "lng": 103.857212
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337092980291502,
+        "lng": 103.8587605302915
+      },
+      "southwest": {
+        "lat": 1.334395019708497,
+        "lng": 103.8560625697085
+      }
+    }
+  },
+  "name": "阿發肉胜麵",
+  "place_id": "ChIJz50NpnoX2jER3yenLigqx38",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9207374315252033503",
+  "vicinity": "Singapore"
+}

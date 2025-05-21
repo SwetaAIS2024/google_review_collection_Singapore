@@ -1,0 +1,30 @@
+{
+  "formatted_address": "32 New Market Rd, Singapore 050032",
+  "geometry": {
+    "location": {
+      "lat": 1.284787,
+      "lng": 103.8426925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285869130291502,
+        "lng": 103.8443291302915
+      },
+      "southwest": {
+        "lat": 1.283171169708498,
+        "lng": 103.8416311697085
+      }
+    }
+  },
+  "name": "People's Park Street Food",
+  "place_id": "ChIJEQl3ZAAZ2jERdCZJUC6BZ_Y",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17755302091846919796",
+  "vicinity": "32 New Market Road, Singapore"
+}

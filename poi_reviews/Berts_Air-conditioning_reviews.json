@@ -1,0 +1,42 @@
+{
+  "formatted_address": "9002 Tampines Street 93, Singapore 528836",
+  "geometry": {
+    "location": {
+      "lat": 1.3412608,
+      "lng": 103.9418275
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342401230291502,
+        "lng": 103.9432167802915
+      },
+      "southwest": {
+        "lat": 1.339703269708498,
+        "lng": 103.9405188197085
+      }
+    }
+  },
+  "name": "Bert's Air-conditioning",
+  "place_id": "ChIJ356t7T492jERndZk_Zjzi5g",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Max Lee",
+      "author_url": "https://www.google.com/maps/contrib/110322600552215013309/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1OJQbJv-NcjcI5uBO51vqAZUiDY5_bbK1-BlKKun9ExwF_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717664248,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10992147153939650205",
+  "user_ratings_total": 1,
+  "vicinity": "9002 Tampines Street 93, Singapore"
+}

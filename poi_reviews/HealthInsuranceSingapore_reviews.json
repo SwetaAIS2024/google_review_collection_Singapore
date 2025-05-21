@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Tampines Grande, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545335,
+      "lng": 103.9422526
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355844630291502,
+        "lng": 103.9435719802915
+      },
+      "southwest": {
+        "lat": 1.353146669708498,
+        "lng": 103.9408740197085
+      }
+    }
+  },
+  "name": "HealthInsuranceSingapore",
+  "place_id": "ChIJr-GI8Q092jER6w2OqSOnDcU",
+  "types": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14199188971779395051",
+  "vicinity": "3 Tampines Grande"
+}

@@ -1,0 +1,51 @@
+{
+  "formatted_address": "99B Lor 2 Toa Payoh, Singapore 311099",
+  "geometry": {
+    "location": {
+      "lat": 1.3387276,
+      "lng": 103.8471227
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340197530291502,
+        "lng": 103.8484626302915
+      },
+      "southwest": {
+        "lat": 1.337499569708498,
+        "lng": 103.8457646697085
+      }
+    }
+  },
+  "name": "Block 99B HDB Toa Payoh",
+  "place_id": "ChIJE_70r2kX2jER_iS3ioXxmAI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Yumei Chai",
+      "author_url": "https://www.google.com/maps/contrib/107569189078949868404/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgFJHhKg382ZxaRkEjRY-zPus0N_JbWVZxq1CjZ_WzENaLi64=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1521268930,
+      "translated": false
+    },
+    {
+      "author_name": "Angelita Moises",
+      "author_url": "https://www.google.com/maps/contrib/115053212201266225674/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFCtT3PalYeEo09w05rXmbY4lPP-pralkz9aFb-piknfB_AQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1495288745,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=187164940396078334",
+  "user_ratings_total": 2,
+  "vicinity": "99B Lorong 2 Toa Payoh, Singapore"
+}

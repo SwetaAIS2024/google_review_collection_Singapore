@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3249835,
+      "lng": 103.939517
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326384880291502,
+        "lng": 103.9408595802915
+      },
+      "southwest": {
+        "lat": 1.323686919708498,
+        "lng": 103.9381616197085
+      }
+    }
+  },
+  "name": "Blk 65",
+  "place_id": "ChIJW4pFwsoi2jERSkCc8BX6kK4",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Tim Wong",
+      "author_url": "https://www.google.com/maps/contrib/113920131566064201941/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWALOhXF6CCZa-3ziC7ukMdbs74jauSvpTs736MEZjlbtZ5ouI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Near good food market",
+      "time": 1712376464,
+      "translated": false
+    },
+    {
+      "author_name": "Phaw gaw Baw",
+      "author_url": "https://www.google.com/maps/contrib/108205170620064851082/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmr1mrGK90rVfFuvHVQCwneGoeWV8-29yE8z2YDZnQoSUja1op=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1691591151,
+      "translated": false
+    },
+    {
+      "author_name": "KH Ang",
+      "author_url": "https://www.google.com/maps/contrib/100123220985092089697/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO7_pXgCRGJg5I6mQkgsBC6HF5naA5EwJUeD6p8i-V3vJFwg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531870226,
+      "translated": false
+    },
+    {
+      "author_name": "ngyn sandy",
+      "author_url": "https://www.google.com/maps/contrib/101201305082724007459/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2nEMt5kpI0vzQw2jEUGDolcXzGbO11s-MSlupcWpvdE0BhoJpMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497104302,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12578828731383824458",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

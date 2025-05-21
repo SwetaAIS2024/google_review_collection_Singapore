@@ -1,0 +1,30 @@
+{
+  "formatted_address": "371 Beach Rd, Singapore 199597",
+  "geometry": {
+    "location": {
+      "lat": 1.302638,
+      "lng": 103.8622199
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303893380291502,
+        "lng": 103.8633691802915
+      },
+      "southwest": {
+        "lat": 1.301195419708498,
+        "lng": 103.8606712197085
+      }
+    }
+  },
+  "name": "MBD Marketing",
+  "place_id": "ChIJgQ6J_bMZ2jERvyxZT27cgzk",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4144398448446745791",
+  "vicinity": "371 Beach Road"
+}

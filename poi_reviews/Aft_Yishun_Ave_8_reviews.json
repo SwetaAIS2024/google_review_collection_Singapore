@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.427051,
+      "lng": 103.855507
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428395180291502,
+        "lng": 103.8568488802915
+      },
+      "southwest": {
+        "lat": 1.425697219708498,
+        "lng": 103.8541509197085
+      }
+    }
+  },
+  "name": "Aft Yishun Ave 8",
+  "place_id": "ChIJnZ94m0UU2jERJAfDWQ1-420",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7918311165653092132",
+  "vicinity": "Singapore"
+}

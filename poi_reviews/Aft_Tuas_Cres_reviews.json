@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31836,
+      "lng": 103.637711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319686830291502,
+        "lng": 103.6390839302915
+      },
+      "southwest": {
+        "lat": 1.316988869708498,
+        "lng": 103.6363859697085
+      }
+    }
+  },
+  "name": "Aft Tuas Cres",
+  "place_id": "ChIJhbupSv0F2jER0noTwXM2DSc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2813965212964846290",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 360020",
+  "geometry": {
+    "location": {
+      "lat": 1.334836,
+      "lng": 103.8808789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336175480291502,
+        "lng": 103.8822485302915
+      },
+      "southwest": {
+        "lat": 1.333477519708498,
+        "lng": 103.8795505697085
+      }
+    }
+  },
+  "name": "Jadeja",
+  "place_id": "ChIJ4ckmRvAX2jERBAxrH1P_0fw",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18217622700164844548",
+  "vicinity": "Singapore"
+}

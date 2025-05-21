@@ -1,0 +1,29 @@
+{
+  "formatted_address": "60 Alexandra Rd, #02-16, Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.2735489,
+      "lng": 103.8017693
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274914880291502,
+        "lng": 103.8031068302915
+      },
+      "southwest": {
+        "lat": 1.272216919708498,
+        "lng": 103.8004088697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Alexandra Retail Centre",
+  "place_id": "ChIJn3WRGbQb2jERPqpySHAKAYI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9367780177275431486",
+  "vicinity": "60 Alexandra Road, #02-16, Singapore"
+}

@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Rifle Range Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3540259,
+      "lng": 103.7939432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355405230291502,
+        "lng": 103.7952840802915
+      },
+      "southwest": {
+        "lat": 1.352707269708498,
+        "lng": 103.7925861197085
+      }
+    }
+  },
+  "name": "Rifle Range Park",
+  "place_id": "ChIJx59aZuYR2jERluDM05DL7Qg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Spicy Gluten Dr.",
+      "author_url": "https://www.google.com/maps/contrib/110280275975807693104/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDgwGoeWI9D7on6m-V5JN4ZDF1DUcytbb4zUMl5xhU3Dyzw-HL=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very beautiful park, especially after rain",
+      "time": 1681059836,
+      "translated": false
+    },
+    {
+      "author_name": "thor shao ming",
+      "author_url": "https://www.google.com/maps/contrib/116844176420214842716/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMVFnWTQAKkofIWIRMjh4kN_2PVZWA5f5gzLnhN1B_bFlaCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727422427,
+      "translated": false
+    },
+    {
+      "author_name": "T. nskd",
+      "author_url": "https://www.google.com/maps/contrib/111965718438081767830/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJygF6Uj2J1oWhnzaWCnd7k1F0Uw715d3C11fk2S7p0uqkX8t5V=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743917865,
+      "translated": false
+    },
+    {
+      "author_name": "Ash Dev",
+      "author_url": "https://www.google.com/maps/contrib/101525811749199229377/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoOSd_qx7rdyM1Y8Jb1tijx1ftHGWGvgMKMzTqOUsq-pKlgA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1696498989,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=643394144672997526",
+  "user_ratings_total": 4,
+  "vicinity": "Rifle Range Road"
+}

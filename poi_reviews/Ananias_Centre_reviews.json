@@ -1,0 +1,63 @@
+{
+  "formatted_address": "289 Choa Chu Kang Ave 3, Block 290, Singapore 680289",
+  "geometry": {
+    "location": {
+      "lat": 1.3792489,
+      "lng": 103.7406106
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380701930291502,
+        "lng": 103.7418934802915
+      },
+      "southwest": {
+        "lat": 1.378003969708498,
+        "lng": 103.7391955197085
+      }
+    }
+  },
+  "name": "Ananias Centre",
+  "place_id": "ChIJiaQbUsMR2jERAWrdCuYJRCo",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Joel Seong Koon",
+      "author_url": "https://www.google.com/maps/contrib/115720314310689824836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXnItI9SeRHh5KFu7EgKePyJOZFmnYP_t_3dDTIXyna2riS7Vn=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Ananias center, a place where good values is always the first priority. Looking after children's wellbeing that will lead them to future leaders in Singapore!",
+      "time": 1633571186,
+      "translated": false
+    },
+    {
+      "author_name": "Yong Qing Ru",
+      "author_url": "https://www.google.com/maps/contrib/113337935521371991785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVXg1zgZwvFmfUE1azKCDku0hnAppIRHbK0D0QQ-6RCLS4GQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727099582,
+      "translated": false
+    },
+    {
+      "author_name": "Mcgyver Rybatt",
+      "author_url": "https://www.google.com/maps/contrib/112367613969369133831/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgerE6Cg0DbqOns6BP--bAmdqry5hPgYehRBILdAEL-oqwJ4I=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1544192770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3045570131638708737",
+  "user_ratings_total": 3,
+  "vicinity": "289 Choa Chu Kang Avenue 3, Block 290, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Marina Blvd, Singapore 018983",
+  "geometry": {
+    "location": {
+      "lat": 1.2800927,
+      "lng": 103.8543767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281631780291502,
+        "lng": 103.8558566802915
+      },
+      "southwest": {
+        "lat": 1.278933819708498,
+        "lng": 103.8531587197085
+      }
+    }
+  },
+  "name": "Aryu Bank",
+  "place_id": "ChIJu_XpRb0Z2jER-kveI5Lw9z4",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4537359660056726522",
+  "vicinity": "10 Marina Boulevard"
+}

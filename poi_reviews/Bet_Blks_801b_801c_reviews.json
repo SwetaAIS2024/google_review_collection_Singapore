@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.375442,
+      "lng": 103.742279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376802780291502,
+        "lng": 103.7435918302915
+      },
+      "southwest": {
+        "lat": 1.374104819708498,
+        "lng": 103.7408938697085
+      }
+    }
+  },
+  "name": "Bet Blks 801b/801c",
+  "place_id": "ChIJ54eQFsUR2jERPbUHGiJEiHM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Meng Fee",
+      "author_url": "https://www.google.com/maps/contrib/107001135101325344427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICJ1ifTEs-pDQk0efUMlekUBRZD8Wqhlh_aP8_Ox5d8cmN_Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Comfortable place to stay, beautiful place。。。",
+      "time": 1613371065,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8324978824450651453",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

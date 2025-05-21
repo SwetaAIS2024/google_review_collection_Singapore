@@ -1,0 +1,74 @@
+{
+  "formatted_address": "9 Lock Rd, #02-22, Singapore 108937",
+  "geometry": {
+    "location": {
+      "lat": 1.2783029,
+      "lng": 103.8043741
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279570880291502,
+        "lng": 103.8056543302915
+      },
+      "southwest": {
+        "lat": 1.276872919708498,
+        "lng": 103.8029563697085
+      }
+    }
+  },
+  "name": "ShanghART Singapore",
+  "place_id": "ChIJ1cXQfCsb2jERn_234LhFU08",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Caryn",
+      "author_url": "https://www.google.com/maps/contrib/108627735957825120257/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk2mmIEgMnUmp3UZutsCFmyXarBuQs7Dya8NDuEioqmt07bA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Great gallery and even greater people who run the space!",
+      "time": 1637745164,
+      "translated": false
+    },
+    {
+      "author_name": "Sean Fox (湖尼)",
+      "author_url": "https://www.google.com/maps/contrib/103319521513574196364/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCSsacP5pEGKNIEuXNoOC8qaySnRebAco5L06n4rRESZxbmCVA-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672819254,
+      "translated": false
+    },
+    {
+      "author_name": "Mahzaa Arifin",
+      "author_url": "https://www.google.com/maps/contrib/118043166071402335933/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv4C43vhzq5uMlSOO9DABRj8MLqYohLqxrAcRXsZrShp4jBHIZ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704006338,
+      "translated": false
+    },
+    {
+      "author_name": "ong kian peng",
+      "author_url": "https://www.google.com/maps/contrib/117920447400991427870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSDXi9nHaBACchNpXpdHHOfIaXHiXUrlTOKtfZmOPjq-sHQ2zH=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702300842,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5715989012409744799",
+  "user_ratings_total": 4,
+  "vicinity": "9 Lock Road, #02-22"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "100a Upper Bukit Timah Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3405638,
+      "lng": 103.7760389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341915930291502,
+        "lng": 103.7774192302915
+      },
+      "southwest": {
+        "lat": 1.339217969708498,
+        "lng": 103.7747212697085
+      }
+    }
+  },
+  "name": "The Reserve Residence Show Gallery",
+  "place_id": "ChIJDaXf1R0R2jER1SLG6Z3l3Rc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Johnny Tan",
+      "author_url": "https://www.google.com/maps/contrib/113322057074422023084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqrA2V7hyeYYx6Gge4Bi4gtj9DD_fot-cBEX9irAf_PyUvlIcv=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "a must see development, a once in a lifetime Mega Integrated Transport Huh development, in Upper Bukit Timah, in the heart of Beauty World",
+      "time": 1684552819,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Taiyab",
+      "author_url": "https://www.google.com/maps/contrib/101926575947040025543/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa24UdkfA-DPk2Fp_vC3pDdEOAuYdPNXTvAyMI_gweKtclv_y_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1684929248,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1719783099120100053",
+  "user_ratings_total": 2,
+  "vicinity": "100a Upper Bukit Timah Road"
+}

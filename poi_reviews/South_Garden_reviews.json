@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2828201,
+      "lng": 103.8603493
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283920280291502,
+        "lng": 103.8615189302915
+      },
+      "southwest": {
+        "lat": 1.281222319708498,
+        "lng": 103.8588209697085
+      }
+    }
+  },
+  "name": "South Garden",
+  "place_id": "ChIJ66MURAQZ2jERa7VshHN-DEM",
+  "types": [
+    "park",
+    "subpremise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da19044414a3eb:0x430c7e73846cb56b",
+  "vicinity": "Singapore"
+}

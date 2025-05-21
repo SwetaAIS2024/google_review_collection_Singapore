@@ -1,0 +1,31 @@
+{
+  "formatted_address": "203 Henderson Rd, #03-10, Singapore 159546",
+  "geometry": {
+    "location": {
+      "lat": 1.281749,
+      "lng": 103.8212455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283104180291502,
+        "lng": 103.8225867802915
+      },
+      "southwest": {
+        "lat": 1.280406219708498,
+        "lng": 103.8198888197085
+      }
+    }
+  },
+  "name": "MOTH EAT MOON",
+  "place_id": "ChIJ6XbVm_0b2jERx2HvXE9qAYg",
+  "types": [
+    "jewelry_store",
+    "art_gallery",
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9800231153229062599",
+  "vicinity": "203 Henderson Road, #03-10"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "57 King's Dr, Singapore 266424",
+  "geometry": {
+    "location": {
+      "lat": 1.319338,
+      "lng": 103.8057833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320686080291502,
+        "lng": 103.8071578302915
+      },
+      "southwest": {
+        "lat": 1.317988119708498,
+        "lng": 103.8044598697085
+      }
+    }
+  },
+  "name": "Business Test Methods Pte Ltd",
+  "place_id": "ChIJU7BOZhMZ2jERO-zK-8HLtos",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10067458051046829115",
+  "vicinity": "57 King's Drive"
+}

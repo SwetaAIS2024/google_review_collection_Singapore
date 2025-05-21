@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Marine Parade Road, 80 #01-12 Singapore 449269. Parkway Parade, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3014702,
+      "lng": 103.9051552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302975330291502,
+        "lng": 103.9067364802915
+      },
+      "southwest": {
+        "lat": 1.300277369708498,
+        "lng": 103.9040385197085
+      }
+    }
+  },
+  "name": "DBS VTM (Video Teller Machine) - PARKWAY P BR",
+  "place_id": "ChIJm23s8TcZ2jERGp6tXcWWTU4",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Angel Vicknes",
+      "author_url": "https://www.google.com/maps/contrib/105206405968896866618/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPlregBQAnsXHG6OdnnL-BDBmZE4tijaQJtaUGHxAxbu6VoKnxEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "I am not sure why VTM shows as 24 hours on Web but they are operating office hours.",
+      "time": 1687566479,
+      "translated": false
+    },
+    {
+      "author_name": "william royston",
+      "author_url": "https://www.google.com/maps/contrib/114047620004365743205/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhWs-_yb_hJYagZN7jr4DWkqQSTzHG9LWYnMANLHf_Effh74l3=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734083117,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5642331682589482522",
+  "user_ratings_total": 2,
+  "vicinity": "Marine Parade Road, 80 #01-12 Singapore 449269. Parkway Parade"
+}

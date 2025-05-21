@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore, Hougang Street 91, 929号#01-127 邮政编码: 530929",
+  "geometry": {
+    "location": {
+      "lat": 1.3758541,
+      "lng": 103.8814057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377173480291502,
+        "lng": 103.8828838802915
+      },
+      "southwest": {
+        "lat": 1.374475519708498,
+        "lng": 103.8801859197085
+      }
+    }
+  },
+  "name": "幼儿园",
+  "place_id": "ChIJfwfPFO0X2jERJmN2bkxgGBA",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1159782785434936102",
+  "vicinity": "929 Hougang Street 91, #01-127, Singapore"
+}

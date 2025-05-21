@@ -1,0 +1,69 @@
+{
+  "formatted_address": "633 Tampines North Dr 2, #02-01 Tampines GreenCourt, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3656981,
+      "lng": 103.9414556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367096980291502,
+        "lng": 103.9428733302915
+      },
+      "southwest": {
+        "lat": 1.364399019708498,
+        "lng": 103.9401753697085
+      }
+    }
+  },
+  "name": "Chick Boy",
+  "place_id": "ChIJdyhJMwA92jER7TcP-kiHFAQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Zuriel Mamba",
+      "author_url": "https://www.google.com/maps/contrib/100097027827819745483/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjjbnbgtrpHKDsQ_m9uOBbcQW6_NM5DrNtFVcH68Q8o1UewEnX=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Had the 2 piece chicken set. Crispy skin & juicy meat, however the flavour was bland & certain parts of skin was hard.",
+      "time": 1743694419,
+      "translated": false
+    },
+    {
+      "author_name": "Wee Zi Jian",
+      "author_url": "https://www.google.com/maps/contrib/109169771020654620155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy9zceEPXrWrdeTFj3eCVMWns8cPUUpHMPmkXzjj2obomqlw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Really juicy and fresh fried chicken. Well marinated and crispy skin. Need to wait a bit but worth the wait.",
+      "time": 1746096176,
+      "translated": false
+    },
+    {
+      "author_name": "Yiying Chua",
+      "author_url": "https://www.google.com/maps/contrib/113333199540445752924/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFLwCfcZ43lEy5Uy8AyUKd2vhjvbZjP7pAfcbeOolnRVaaqg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "Takes 20min to get out 5 chicken and onion rings and was rude about the delay as well. It was already 8pm.",
+      "time": 1745583980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=294008623188621293",
+  "user_ratings_total": 3,
+  "vicinity": "633 Tampines North Drive 2, #02-01 Tampines GreenCourt"
+}

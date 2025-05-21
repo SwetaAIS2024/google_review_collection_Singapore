@@ -1,0 +1,29 @@
+{
+  "formatted_address": "38 Beach Rd, Singapore 189767",
+  "geometry": {
+    "location": {
+      "lat": 1.2956743,
+      "lng": 103.8565043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297090980291502,
+        "lng": 103.8578968302915
+      },
+      "southwest": {
+        "lat": 1.294393019708498,
+        "lng": 103.8551988697085
+      }
+    }
+  },
+  "name": "KneedRelief",
+  "place_id": "ChIJYwvAfa8Z2jERQfi3p2TCLOs",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16946133235454703681",
+  "vicinity": "38 Beach Road"
+}

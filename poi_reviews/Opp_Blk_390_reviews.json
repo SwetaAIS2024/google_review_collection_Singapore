@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356669,
+      "lng": 103.957359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357987980291502,
+        "lng": 103.9587254302915
+      },
+      "southwest": {
+        "lat": 1.355290019708498,
+        "lng": 103.9560274697085
+      }
+    }
+  },
+  "name": "Opp Blk 390",
+  "place_id": "ChIJrfMnrwM92jERrTYps9ZwzKg",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ivan",
+      "author_url": "https://www.google.com/maps/contrib/117364931581825188071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6iTQcbBQeyrYCac4V-d3JRwYbfdRuGTsSMn3GjF-tgcTfbUvF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Located after a bend and obscured by a bridge and bad design, it is impossible to see incoming buses. Seats constantly get wet during inclement weather.",
+      "time": 1519081200,
+      "translated": false
+    },
+    {
+      "author_name": "Ivy quizon",
+      "author_url": "https://www.google.com/maps/contrib/102458056911752986331/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcq1Jz36c2zkgoWoMT7y1uLkNK179gkQPYSPdM5P6uFUFeyJ9X=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "First time in Singapore I liked his place.",
+      "time": 1694095913,
+      "translated": false
+    },
+    {
+      "author_name": "骏隆",
+      "author_url": "https://www.google.com/maps/contrib/111617895664084065440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiDQpIzDYEJqm9oa6PuMrESne3Q7HTcU07jFcbvXfHWm42Tw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631253110,
+      "translated": false
+    },
+    {
+      "author_name": "kenl22601",
+      "author_url": "https://www.google.com/maps/contrib/111111343493961671582/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaEOX6jq_G_heDWR_j023VNhxYdMeNGw1a3n20Y1mhSrAIj4S6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584601198,
+      "translated": false
+    },
+    {
+      "author_name": "himanshiverma",
+      "author_url": "https://www.google.com/maps/contrib/110003798288049418101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGn2kKmrVRxyQKaO0oQbGYUSSS62qdwNXlULv6cOr5g6MQISxXqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484701627,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12163220761052001965",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

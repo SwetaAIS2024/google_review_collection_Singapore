@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377532,
+      "lng": 103.996635
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378898780291502,
+        "lng": 103.9979389802915
+      },
+      "southwest": {
+        "lat": 1.376200819708498,
+        "lng": 103.9952410197085
+      }
+    }
+  },
+  "name": "Airline Hse",
+  "place_id": "ChIJl-qfG3I82jER2zCKHPVTVfk",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Nick Peh",
+      "author_url": "https://www.google.com/maps/contrib/107942982119174473299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT05HgFP7VWDgr25-nL0tVt7IgYc6uSD2fF9YXAIrdh9-t3-Ao=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "Just another working place, nothing special to be highlighted.",
+      "time": 1564962273,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Fadzil Hassan",
+      "author_url": "https://www.google.com/maps/contrib/102543369397105348132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-g50ZoI1GBXN0Q6B8wWUEsb7RADXg3KnHcY3mrOY3-kXYyL26=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676538606,
+      "translated": false
+    },
+    {
+      "author_name": "Chan Winson",
+      "author_url": "https://www.google.com/maps/contrib/112119504609595264362/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTRq059XJJ9YFoeSOElBplsqFVVFuliCMZ2Wt240S8L70M8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482844641,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17966358600675373275",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

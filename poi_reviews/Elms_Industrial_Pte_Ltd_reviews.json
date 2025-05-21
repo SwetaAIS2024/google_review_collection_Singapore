@@ -1,0 +1,41 @@
+{
+  "formatted_address": "10 Tuas View Square, Singapore 637552",
+  "geometry": {
+    "location": {
+      "lat": 1.2992174,
+      "lng": 103.6262654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300553480291502,
+        "lng": 103.6276091302915
+      },
+      "southwest": {
+        "lat": 1.297855519708498,
+        "lng": 103.6249111697085
+      }
+    }
+  },
+  "name": "Elms Industrial Pte Ltd",
+  "place_id": "ChIJqzgFkXoG2jERrzF5cmTuTRE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arun Vishal",
+      "author_url": "https://www.google.com/maps/contrib/108122622484741885819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSSz78LnqqaWsTLtxRoQSLlzw-DK5PQ3kQj9TSG5u4SIZA3CMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1667964359,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1246914787036180911",
+  "user_ratings_total": 1,
+  "vicinity": "10 Tuas View Square, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "65 Airport Blvd., Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.356716,
+      "lng": 103.98651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357751080291502,
+        "lng": 103.9885896
+      },
+      "southwest": {
+        "lat": 1.355053119708498,
+        "lng": 103.9858168
+      }
+    }
+  },
+  "name": "Aspac Restaurants (S) Pte Ltd",
+  "place_id": "ChIJ_-4P-ow82jERJ-azB8jn07A",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12741782617069970983",
+  "vicinity": "65 Airport Boulevard"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "114 Aljunied Ave 2, #01-75 NTUC GEYLANG EAST, Singapore 380114",
+  "geometry": {
+    "location": {
+      "lat": 1.3217327,
+      "lng": 103.8866376
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322950630291502,
+        "lng": 103.8880658802915
+      },
+      "southwest": {
+        "lat": 1.320252669708498,
+        "lng": 103.8853679197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB NTUC GEYLANG EAST",
+  "place_id": "ChIJgZqWJrcZ2jERyL4TLOHeFto",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SQ",
+      "author_url": "https://www.google.com/maps/contrib/103631577837567007829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmWDheryZjI1U9Ap34s-M3-fsopVApfrBC1l9PneWQvC6UpgpB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "2 atms side by side. Always long queue",
+      "time": 1610168385,
+      "translated": false
+    },
+    {
+      "author_name": "Guyus Sla",
+      "author_url": "https://www.google.com/maps/contrib/114869553984420018523/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTh4W6mjQsb4pg3mfkjrosB-cbcBT512NDx1gHys8Fdxc-GIZb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703028596,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15714993008444423880",
+  "user_ratings_total": 2,
+  "vicinity": "114 Aljunied Avenue 2, #01-75 NTUC GEYLANG EAST"
+}

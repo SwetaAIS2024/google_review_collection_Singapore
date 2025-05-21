@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Jalan Papan, Singapore 619392",
+  "geometry": {
+    "location": {
+      "lat": 1.3210177,
+      "lng": 103.7272829
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322335680291502,
+        "lng": 103.7286150802915
+      },
+      "southwest": {
+        "lat": 1.319637719708498,
+        "lng": 103.7259171197085
+      }
+    }
+  },
+  "name": "State Bank of India, Terusan Recreation Centre",
+  "place_id": "ChIJ5ziJFlMF2jERYVK2Q0g9m40",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10203816761320952417",
+  "vicinity": "1 Jalan Papan"
+}

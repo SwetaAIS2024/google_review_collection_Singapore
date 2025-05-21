@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Blk 223, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3660976,
+      "lng": 103.8376611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367381080291502,
+        "lng": 103.8389355302915
+      },
+      "southwest": {
+        "lat": 1.364683119708498,
+        "lng": 103.8362375697085
+      }
+    }
+  },
+  "name": "Mini Bamboo Garden",
+  "place_id": "ChIJJ5B2U3IX2jERetmQf55cAKc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Desmond Koh",
+      "author_url": "https://www.google.com/maps/contrib/117297111931730200169/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpELJnkjsf28YbaGj5DQI-CQSBsTjmL-03L94nOGt-PIvZ_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "A unique small garden with bamboo shoots, would be great to have panda statue or sculpture here.",
+      "time": 1664110744,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Thoreson",
+      "author_url": "https://www.google.com/maps/contrib/109952807628569849506/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViINSp-qAeNjHHAYdfZ1jW4LMmmhXyKCa-6rgdNOIJ8sPOfbMd=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Beautiful small garden infront of Ang Mo Kio Flat 223, right next to the bus station.",
+      "time": 1692800988,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12033720040148752762",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 223"
+}

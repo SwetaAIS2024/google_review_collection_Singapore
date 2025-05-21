@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Alexandra Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2845495,
+      "lng": 103.8020008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285904280291502,
+        "lng": 103.8033324802915
+      },
+      "southwest": {
+        "lat": 1.283206319708498,
+        "lng": 103.8006345197085
+      }
+    }
+  },
+  "name": "Rail Corridor Access (Gillman Flyover)",
+  "place_id": "ChIJqUy6AgAb2jERY9xpp4ZuGhc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Nicely built staircase leading up to AIA (Alexandra) exit.\nAlexandra Village Food Centre is nearby.",
+      "time": 1709349063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1664764536880225379",
+  "user_ratings_total": 1,
+  "vicinity": "Alexandra Road"
+}

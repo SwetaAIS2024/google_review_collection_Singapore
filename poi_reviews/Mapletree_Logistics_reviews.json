@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317791,
+      "lng": 103.656464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319127780291502,
+        "lng": 103.6578013302915
+      },
+      "southwest": {
+        "lat": 1.316429819708498,
+        "lng": 103.6551033697085
+      }
+    }
+  },
+  "name": "Mapletree Logistics",
+  "place_id": "ChIJFweKgu0F2jERTtu76vWmj0A",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4652120515232389966",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2742955,
+      "lng": 103.8250447
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275607580291502,
+        "lng": 103.8264364802915
+      },
+      "southwest": {
+        "lat": 1.272909619708498,
+        "lng": 103.8237385197085
+      }
+    }
+  },
+  "name": "Aft Radin Mas Pr Sch",
+  "place_id": "ChIJq2VicWEZ2jERDQSjNVe_TEo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jimmy A",
+      "author_url": "https://www.google.com/maps/contrib/107838948553534023397/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3K-D-bYW5AvByE9oPUOZHCsKmhH71dHzuM5Y-lnGWghbfs0A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704100175,
+      "translated": false
+    },
+    {
+      "author_name": "Fook Hong Pang",
+      "author_url": "https://www.google.com/maps/contrib/112234984698260864958/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWujWdA5QB9FqnIRCxbt7GLgk66gnZoNj89ufTSts0ozhYUoI8ow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498729066,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5353864438319612941",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

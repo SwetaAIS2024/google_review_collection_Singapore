@@ -1,0 +1,29 @@
+{
+  "formatted_address": "61 Teban Gardens Rd, Singapore 600061",
+  "geometry": {
+    "location": {
+      "lat": 1.3219685,
+      "lng": 103.7384751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323272030291502,
+        "lng": 103.7398144802915
+      },
+      "southwest": {
+        "lat": 1.320574069708498,
+        "lng": 103.7371165197085
+      }
+    }
+  },
+  "name": "DBS ATM - Teban Gardens",
+  "place_id": "ChIJsVyqbpUb2jERFAQTIWyxin0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9046237879496541204",
+  "vicinity": "61 Teban Gardens Road, Singapore"
+}

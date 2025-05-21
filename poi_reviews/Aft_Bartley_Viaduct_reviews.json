@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.341165,
+      "lng": 103.916397
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342483730291502,
+        "lng": 103.9177300802915
+      },
+      "southwest": {
+        "lat": 1.339785769708498,
+        "lng": 103.9150321197085
+      }
+    }
+  },
+  "name": "Aft Bartley Viaduct",
+  "place_id": "ChIJJe1cPF892jERNmK3PyhxiI0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md Mostafizur Rahman",
+      "author_url": "https://www.google.com/maps/contrib/107343247205496722777/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFHeLz4tYbS37sLjNXrYtijD0-oxtyGO7DhaCKlur_0wrgu57n=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1669258538,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10198525773862101558",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

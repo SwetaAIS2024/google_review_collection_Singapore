@@ -1,0 +1,41 @@
+{
+  "formatted_address": "54 Teban Gardens Rd, Block 54, Singapore 600054",
+  "geometry": {
+    "location": {
+      "lat": 1.3216031,
+      "lng": 103.7369393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322846130291502,
+        "lng": 103.7383590802915
+      },
+      "southwest": {
+        "lat": 1.320148169708498,
+        "lng": 103.7356611197085
+      }
+    }
+  },
+  "name": "New Tech Innovations Pte Ltd",
+  "place_id": "ChIJjynqLa8a2jER3pyNGRq-jVA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Muhammad Farithzuan",
+      "author_url": "https://www.google.com/maps/contrib/111118704642562649818/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq2pU_sH8K-Sl1hI_XNC1aPDg7bMQmLiqErMhpUrcMf-FVE2g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636454063,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5804504514057575646",
+  "user_ratings_total": 1,
+  "vicinity": "54 Teban Gardens Road, Block 54"
+}

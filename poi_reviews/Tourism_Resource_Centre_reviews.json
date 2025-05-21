@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Orchard Spring Ln, Singapore 247729",
+  "geometry": {
+    "location": {
+      "lat": 1.303711,
+      "lng": 103.8242161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305065730291502,
+        "lng": 103.8256436802915
+      },
+      "southwest": {
+        "lat": 1.302367769708498,
+        "lng": 103.8229457197085
+      }
+    }
+  },
+  "name": "Tourism Resource Centre",
+  "place_id": "ChIJ36LPLYoZ2jERDYF0Jl80x_o",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18070469613119111437",
+  "vicinity": "1 Orchard Spring Lane"
+}

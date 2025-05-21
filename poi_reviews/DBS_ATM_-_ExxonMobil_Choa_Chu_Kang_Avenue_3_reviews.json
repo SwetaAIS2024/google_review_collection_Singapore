@@ -1,0 +1,29 @@
+{
+  "formatted_address": "50 Choa Chu Kang Ave 3, #3, Singapore 689858",
+  "geometry": {
+    "location": {
+      "lat": 1.37811,
+      "lng": 103.738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379440830291502,
+        "lng": 103.7393619302915
+      },
+      "southwest": {
+        "lat": 1.376742869708498,
+        "lng": 103.7366639697085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Choa Chu Kang Avenue 3",
+  "place_id": "ChIJr4gJ6hIR2jERUEhm9pkF2Is",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10076810325063518288",
+  "vicinity": "50 Choa Chu Kang Avenue 3, #3, Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "208 New Upper Changi Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3251769,
+      "lng": 103.9395993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326487930291502,
+        "lng": 103.9409528802915
+      },
+      "southwest": {
+        "lat": 1.323789969708498,
+        "lng": 103.9382549197085
+      }
+    }
+  },
+  "name": "Beaute Spring",
+  "place_id": "ChIJvcx_w8oi2jERmq-EsMNcvzU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Eric Tan",
+      "author_url": "https://www.google.com/maps/contrib/115004667622716345401/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIILYhWGYZxz4ZZ5iJYm4ERpCoF8JDzl_RlXGeDwZLo4Wd91g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1371266467,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3872916200111779738",
+  "user_ratings_total": 1,
+  "vicinity": "208 New Upper Changi Road"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "210 Lor 8 Toa Payoh, Lorong 8, #01-106, 210, Singapura 310210",
+  "geometry": {
+    "location": {
+      "lat": 1.3403641,
+      "lng": 103.8545051
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341560530291502,
+        "lng": 103.8559234302915
+      },
+      "southwest": {
+        "lat": 1.338862569708498,
+        "lng": 103.8532254697085
+      }
+    }
+  },
+  "name": "Everfresh Food Stuff",
+  "place_id": "ChIJayzzdm4X2jERayxEClIGFn8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Eng Chong Pek",
+      "author_url": "https://www.google.com/maps/contrib/103475295797876690334/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpAg-oFJdnTiLzFPJpM9JXe6MW2hUlSAr4QFzJb58n9rChgbkVnA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "This is one of the best traditional stores around Singapore. It has a large variety of traditional biscuits and snacks to choose from. You can buy small portions or larger portions as well. Very friendly shop owner as well.",
+      "time": 1610501712,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9157513841733807211",
+  "user_ratings_total": 1,
+  "vicinity": "210 Lor 8 Toa Payoh, Lorong 8, #01-106, 210, Singapura"
+}

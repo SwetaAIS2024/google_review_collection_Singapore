@@ -1,0 +1,28 @@
+{
+  "formatted_address": "106 W Coast Wy, Singapore 127046",
+  "geometry": {
+    "location": {
+      "lat": 1.316905,
+      "lng": 103.757235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318002630291502,
+        "lng": 103.7584483302915
+      },
+      "southwest": {
+        "lat": 1.315304669708498,
+        "lng": 103.7557503697085
+      }
+    }
+  },
+  "name": "NeWest",
+  "place_id": "ChIJMVFyT5ca2jER1z2N2y2n7Z8",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11524050836909800919",
+  "vicinity": "106 West Coast Way, Singapore"
+}

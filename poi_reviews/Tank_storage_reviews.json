@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Port Rd, #74/67v, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2654404,
+      "lng": 103.8053435
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266782930291502,
+        "lng": 103.8066839302915
+      },
+      "southwest": {
+        "lat": 1.264084969708498,
+        "lng": 103.8039859697085
+      }
+    }
+  },
+  "name": "Tank storage",
+  "place_id": "ChIJ0Um4BQAb2jERT40Yb3Tnb5E",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10479849345180536143",
+  "vicinity": "Port Road, #74/67v"
+}

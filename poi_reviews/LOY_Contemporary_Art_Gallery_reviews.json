@@ -1,0 +1,42 @@
+{
+  "formatted_address": "133 Tanglin Rd, Tudor Court, Singapore 247926",
+  "geometry": {
+    "location": {
+      "lat": 1.3052331,
+      "lng": 103.8244483
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306640030291502,
+        "lng": 103.8257935302915
+      },
+      "southwest": {
+        "lat": 1.303942069708498,
+        "lng": 103.8230955697085
+      }
+    }
+  },
+  "name": "LOY Contemporary Art Gallery",
+  "place_id": "ChIJ0bZ0CTAZ2jERyuQ78csja9Y",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Miss FL",
+      "author_url": "https://www.google.com/maps/contrib/108868746277450777856/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDX8tUW3VitZnE1xtmk0xbdgeVk2HrxU1hzjHGoquAyjWRdDM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1720597295,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15450482305457185994",
+  "user_ratings_total": 1,
+  "vicinity": "133 Tanglin Road, Tudor Court"
+}

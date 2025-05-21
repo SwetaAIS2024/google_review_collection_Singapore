@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.35596,
+      "lng": 103.93712
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357254930291502,
+        "lng": 103.9384694802915
+      },
+      "southwest": {
+        "lat": 1.354556969708498,
+        "lng": 103.9357715197085
+      }
+    }
+  },
+  "name": "Tampines Ave 5",
+  "place_id": "ChIJV2C50XI92jERmn4wfhj-XuA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16167639093456436890",
+  "vicinity": "Singapore"
+}

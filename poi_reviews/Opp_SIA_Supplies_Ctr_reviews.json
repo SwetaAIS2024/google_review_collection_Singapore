@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382094,
+      "lng": 103.97467
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383473430291502,
+        "lng": 103.9760731302915
+      },
+      "southwest": {
+        "lat": 1.380775469708498,
+        "lng": 103.9733751697085
+      }
+    }
+  },
+  "name": "Opp SIA Supplies Ctr",
+  "place_id": "ChIJ3-M-eDg82jERvRdudjVLB8Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shahinakter367",
+      "author_url": "https://www.google.com/maps/contrib/116967907858313501699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA6tPVhw08JOsykMch3ge9EjoevOE9_dhhbifAbZz6YXGgCeQ_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Only bus number 6 here come for transport..\nBeside sata commhealth",
+      "time": 1727484485,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14125341449263126461",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

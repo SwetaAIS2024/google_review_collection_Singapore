@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Singapore, 裕廊岛",
+  "geometry": {
+    "location": {
+      "lat": 1.2630699,
+      "lng": 103.7011066
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.264361880291502,
+        "lng": 103.7027264802915
+      },
+      "southwest": {
+        "lat": 1.261663919708498,
+        "lng": 103.7000285197085
+      }
+    }
+  },
+  "name": "SEK3 Project",
+  "place_id": "ChIJj_exZAAF2jERgYx5Z_nzGWk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ranjith Ranjith",
+      "author_url": "https://www.google.com/maps/contrib/108699746976927641540/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYntexzYGsqz_0MQuyWPpTHBgsFdhzDo7zvdLa0yujrXLzag=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725526690,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7573352500908625025",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

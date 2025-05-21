@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2761 Ang Mo Kio Ave 5, Singapore 569866",
+  "geometry": {
+    "location": {
+      "lat": 1.3788395,
+      "lng": 103.8361892
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380125830291502,
+        "lng": 103.8375809302915
+      },
+      "southwest": {
+        "lat": 1.377427869708498,
+        "lng": 103.8348829697085
+      }
+    }
+  },
+  "name": "DBS ATM - SPC",
+  "place_id": "ChIJCd3YZKQX2jERDZFvyv2MO3I",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8231327765600637197",
+  "vicinity": "2761 Ang Mo Kio Avenue 5, Singapore"
+}

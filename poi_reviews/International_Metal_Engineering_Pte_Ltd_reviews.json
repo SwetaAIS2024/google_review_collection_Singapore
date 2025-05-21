@@ -1,0 +1,53 @@
+{
+  "formatted_address": "13 Lor 8 Toa Payoh, #06-05 Braddell Tech, Singapore 319261",
+  "geometry": {
+    "location": {
+      "lat": 1.3407737,
+      "lng": 103.8578127
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342116280291502,
+        "lng": 103.8590736802915
+      },
+      "southwest": {
+        "lat": 1.339418319708498,
+        "lng": 103.8563757197085
+      }
+    }
+  },
+  "name": "International Metal Engineering Pte Ltd",
+  "place_id": "ChIJsQhN9XEX2jERErOhnVDVqLA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Williams JA",
+      "author_url": "https://www.google.com/maps/contrib/104592797587515493210/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_lgZyvRNblo6G-O4Rie69jr6cfB-4HvOlfriQUH7-ct_dQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Great environment. Friendly and kind staff. All kinds of enclosure and instruments available",
+      "time": 1597359318,
+      "translated": false
+    },
+    {
+      "author_name": "Hail Uddin",
+      "author_url": "https://www.google.com/maps/contrib/116109378859999972522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrsVFEI5cinvitOi3WYgDl6ZxnukBCsZmzu2fbpiSsYohDYnT0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729958536,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12729658888981426962",
+  "user_ratings_total": 2,
+  "vicinity": "13 Lorong 8 Toa Payoh, #06-05 Braddell Tech"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "704 Jurong West Street 71, Block 704, Singapore 640704",
+  "geometry": {
+    "location": {
+      "lat": 1.3406553,
+      "lng": 103.6953705
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341981630291502,
+        "lng": 103.6967488802915
+      },
+      "southwest": {
+        "lat": 1.339283669708498,
+        "lng": 103.6940509197085
+      }
+    }
+  },
+  "name": "Blk 704",
+  "place_id": "ChIJBzH2vZAP2jERKcd0WUQ40_Y",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "李海深",
+      "author_url": "https://www.google.com/maps/contrib/107668322312235926424/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ14QWM6l4Ac45m5B4NhVHkDZAw7aLNy7tAHEN-8P7CzBk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510372342,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17785621219625977641",
+  "user_ratings_total": 1,
+  "vicinity": "704 Jurong West Street 71, Block 704, Singapore"
+}

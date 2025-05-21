@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336465,
+      "lng": 103.955948
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337862430291502,
+        "lng": 103.9572769302915
+      },
+      "southwest": {
+        "lat": 1.335164469708498,
+        "lng": 103.9545789697085
+      }
+    }
+  },
+  "name": "Opp Grace Independent Ch",
+  "place_id": "ChIJ-f7QbCY92jER-wm7M8yphcI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14016796109766855163",
+  "vicinity": "Singapore"
+}

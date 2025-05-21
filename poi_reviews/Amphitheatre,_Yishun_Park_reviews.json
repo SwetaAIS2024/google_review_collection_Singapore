@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Yishun, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4238945,
+      "lng": 103.8418866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.425018130291502,
+        "lng": 103.8429528302915
+      },
+      "southwest": {
+        "lat": 1.422320169708498,
+        "lng": 103.8402548697085
+      }
+    }
+  },
+  "name": "Amphitheatre, Yishun Park",
+  "place_id": "ChIJObtRCgAV2jERxVjfBmt1IyU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "🔖Yishun Park Amphitheatre is located near Safra Yishun Clubhouse.\n🎭It's an open-air performance space that can host events and activities like outdoor concerts, plays and community gatherings.\n💃🕺🦹Nestled amidst lush greenery, the tiered seating arrangement of the Amphitheatre creates an interactive setting for both the audiences and performaners.\n🎭🧙The Amphitheatre can be rented for events.\nAccess NParks website for details.",
+      "time": 1738543602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2676111706125457605",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

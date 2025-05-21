@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Valley Rd, Singapore 534449",
+  "geometry": {
+    "location": {
+      "lat": 1.3620336,
+      "lng": 103.8876337
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363312130291502,
+        "lng": 103.8889042302915
+      },
+      "southwest": {
+        "lat": 1.360614169708498,
+        "lng": 103.8862062697085
+      }
+    }
+  },
+  "name": "GPdI Singapore",
+  "place_id": "ChIJu5PFMGgX2jERiYJDUEF3G7Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "cicitoripa Pangande",
+      "author_url": "https://www.google.com/maps/contrib/117211707119665791353/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOwNt-HhHwN_a23LiGcdYv5TTwSTEvXRUKUPjgeTPmTvDcSg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Shalom",
+      "time": 1734162895,
+      "translated": true
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12978097873601397385",
+  "user_ratings_total": 1,
+  "vicinity": "1 Valley Road, Singapore"
+}

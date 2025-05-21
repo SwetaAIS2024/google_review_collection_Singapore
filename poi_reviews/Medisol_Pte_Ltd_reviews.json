@@ -1,0 +1,29 @@
+{
+  "formatted_address": "28 Sin Ming Ln, #02-133 Midview City, Singapore 573972",
+  "geometry": {
+    "location": {
+      "lat": 1.3600614,
+      "lng": 103.8339298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361425280291502,
+        "lng": 103.8352473302915
+      },
+      "southwest": {
+        "lat": 1.358727319708498,
+        "lng": 103.8325493697085
+      }
+    }
+  },
+  "name": "Medisol Pte Ltd",
+  "place_id": "ChIJB6n6ZosZ2jERxAbzuhpTcyg",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2914764758109587140",
+  "vicinity": "28 Sin Ming Lane, #02-133 Midview City, Singapore"
+}

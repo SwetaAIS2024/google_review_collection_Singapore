@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374442,
+      "lng": 103.717049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375758080291502,
+        "lng": 103.7184066802915
+      },
+      "southwest": {
+        "lat": 1.373060119708498,
+        "lng": 103.7157087197085
+      }
+    }
+  },
+  "name": "Opp Keat Hong Camp",
+  "place_id": "ChIJwVWdVCUO2jERyrTeknvDruk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16838610992297325770",
+  "vicinity": "Singapore"
+}

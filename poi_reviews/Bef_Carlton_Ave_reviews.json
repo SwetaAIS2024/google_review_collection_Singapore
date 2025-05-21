@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.316613,
+      "lng": 103.920837
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317987430291502,
+        "lng": 103.9221753302915
+      },
+      "southwest": {
+        "lat": 1.315289469708498,
+        "lng": 103.9194773697085
+      }
+    }
+  },
+  "name": "Bef Carlton Ave",
+  "place_id": "ChIJ6a3A-aUi2jERTRHFcAsptlo",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "NVC FactsKart (vikas)",
+      "author_url": "https://www.google.com/maps/contrib/103122236358365094508/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa4o8k2JoQrNWt3Ive-0P6LzEkpCKmBza2qRffwd2vm4rDkEwQlg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Very nice",
+      "time": 1501071485,
+      "translated": false
+    },
+    {
+      "author_name": "Nurhajati Amat Sidik",
+      "author_url": "https://www.google.com/maps/contrib/106860423407216996764/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJn6ZEQTEnAg6s-Pl-pzSEKPgFlresXBQ3cCg_Mb522zj2YGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695604010,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6536457038288195917",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

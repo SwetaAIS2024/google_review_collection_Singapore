@@ -1,0 +1,29 @@
+{
+  "formatted_address": "260 Orchard Rd, Singapore 238855",
+  "geometry": {
+    "location": {
+      "lat": 1.3033828,
+      "lng": 103.8370328
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304878130291502,
+        "lng": 103.8383482302915
+      },
+      "southwest": {
+        "lat": 1.302180169708498,
+        "lng": 103.8356502697085
+      }
+    }
+  },
+  "name": "DCP",
+  "place_id": "ChIJ44DHaZEZ2jERbQAS2BpLNdM",
+  "types": [
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15219153094434750573",
+  "vicinity": "260 Orchard Road, Singapore"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Lower Kent Ridge Rd, Singapore 119074",
+  "geometry": {
+    "location": {
+      "lat": 1.2933755,
+      "lng": 103.7820981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294588080291502,
+        "lng": 103.7834403802915
+      },
+      "southwest": {
+        "lat": 1.291890119708498,
+        "lng": 103.7807424197085
+      }
+    }
+  },
+  "name": "NUH ZONE E",
+  "place_id": "ChIJWa1OAegb2jER4vpsoj4lcBA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Syafiqruddin Nassaruddin",
+      "author_url": "https://www.google.com/maps/contrib/105343546318966752400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFodWFtbAAS19cxHR4Rs74SgMhgNSWRb-SxcvSfUv1B29kv3A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727707253,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1184487652941691618",
+  "user_ratings_total": 1,
+  "vicinity": "5 Lower Kent Ridge Road"
+}

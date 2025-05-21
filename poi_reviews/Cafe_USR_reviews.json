@@ -1,0 +1,45 @@
+{
+  "formatted_address": "780 Upper Serangoon Rd, #01-07, Singapore 534649",
+  "geometry": {
+    "location": {
+      "lat": 1.3545603,
+      "lng": 103.8792847
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355986380291502,
+        "lng": 103.8805692802915
+      },
+      "southwest": {
+        "lat": 1.353288419708498,
+        "lng": 103.8778713197085
+      }
+    }
+  },
+  "name": "Cafe USR",
+  "place_id": "ChIJLRUaHAAX2jERG8XONegVo_Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Edwin Zeng",
+      "author_url": "https://www.google.com/maps/contrib/115682876685909549356/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0CpYQ5ggr0jRnGqx5yveq8gQaQe7FRjBK-grPf9HOZqcz41pu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Second time here, the wrap is amazing! Definitely will recommend the Tandoori chicken basil wrap. The drinks are great and affordable. The staff is super friendly, absolutely will return again.",
+      "time": 1746853442,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17627957453537592603",
+  "user_ratings_total": 1,
+  "vicinity": "780 Upper Serangoon Road, #01-07"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.27479,
+      "lng": 103.79673
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276133130291502,
+        "lng": 103.7980770302915
+      },
+      "southwest": {
+        "lat": 1.273435169708498,
+        "lng": 103.7953790697085
+      }
+    }
+  },
+  "name": "Harbourside Ind Bldg 2, Pasir Panjang Rd",
+  "place_id": "ChIJS_ZqN78b2jERaLOqvf1eTGw",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Peak Yan",
+      "author_url": "https://www.google.com/maps/contrib/107277826591570895420/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMc_-NFf_HpTyTuK9qDosvDS0Gvl5Z_vW-B9czVnm4TINQa14X=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706556247,
+      "translated": false
+    },
+    {
+      "author_name": "Md Khaled Saifullah",
+      "author_url": "https://www.google.com/maps/contrib/108529235745831332361/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhwRONBqebAzf3vhF5TUnSdikczFSBop17vny68ZVZCogZBJN1=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683710680,
+      "translated": false
+    },
+    {
+      "author_name": "Chew Leng hui",
+      "author_url": "https://www.google.com/maps/contrib/107878437801291357043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKW5n5ODeG52SSGwplqVzwT-jvDCTu9C8-w0RJlAquau-d6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1677671090,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7803716698228044648",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

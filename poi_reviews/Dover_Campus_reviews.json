@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1207 Dover Rd, Singapore 139654",
+  "geometry": {
+    "location": {
+      "lat": 1.3025296,
+      "lng": 103.7771787
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303643030291502,
+        "lng": 103.7785272302915
+      },
+      "southwest": {
+        "lat": 1.300945069708498,
+        "lng": 103.7758292697085
+      }
+    }
+  },
+  "name": "Dover Campus",
+  "place_id": "ChIJtyK5w1ga2jER2jZhE8ytdEg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Ziying Wong",
+      "author_url": "https://www.google.com/maps/contrib/118308879497240014038/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-0ypMZ0p52a3Jmp2s-Q7CkP2n1SzvuckSIfCP5BY1tXBL3A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1644722361,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5220988960039319258",
+  "user_ratings_total": 1,
+  "vicinity": "1207 Dover Road, Singapore"
+}

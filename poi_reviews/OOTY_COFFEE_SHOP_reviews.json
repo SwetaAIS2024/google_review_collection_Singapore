@@ -1,0 +1,78 @@
+{
+  "formatted_address": "32 Pioneer Sector 2, Singapore 628388",
+  "geometry": {
+    "location": {
+      "lat": 1.3062232,
+      "lng": 103.6574571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307768080291502,
+        "lng": 103.6587503302915
+      },
+      "southwest": {
+        "lat": 1.305070119708498,
+        "lng": 103.6560523697085
+      }
+    }
+  },
+  "name": "OOTY COFFEE SHOP",
+  "place_id": "ChIJTemQ0VMF2jER0qeQXs3WAyM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "KingKong 99",
+      "author_url": "https://www.google.com/maps/contrib/110180464205420002754/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7cK6j7OUsQSlMGB2zwryNDRoAI9S_U8Vugo28sNrtKIH6bg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "This is located at pioneer sector.\nIt is situation around an industrial zone.\n\nThe coffeeshop is huge and there are quite many food stalls here.\n\nTried the fried noodles here (SL economical Beehoon). Not too bad. Comparable to normal coffeeshops.\nHas its own carpark but limited.",
+      "time": 1683506822,
+      "translated": false
+    },
+    {
+      "author_name": "aini wong",
+      "author_url": "https://www.google.com/maps/contrib/100405105236841490402/reviews",
+      "language": "en-US",
+      "original_language": "zh-Hant",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3FdJocawavJs7qOY782WKNKn7v3dU0ad0oX0CUfCqd9Q_ww=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The place is dirty and the service attitude is poor. Where can I go?\nConsumption",
+      "time": 1686627931,
+      "translated": true
+    },
+    {
+      "author_name": "Feel Gudd",
+      "author_url": "https://www.google.com/maps/contrib/106454395292990965044/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISnii1UPQ8r8Bs1pSXbgWL4TQo1le5b-WRMeY_-YpZfVtGtQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687999813,
+      "translated": false
+    },
+    {
+      "author_name": "Abigail Low",
+      "author_url": "https://www.google.com/maps/contrib/104949953809486062110/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq5TthJLLcJk05Zbf8-_423O0BWiOxNLURa0r8hqLj1CuIiRjV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683784309,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2523096393800787922",
+  "user_ratings_total": 4,
+  "vicinity": "32 Pioneer Sector 2, Singapore"
+}

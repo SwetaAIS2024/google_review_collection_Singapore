@@ -1,0 +1,56 @@
+{
+  "formatted_address": "CS-01-18, 31 Nanyang Link, Singapore 637718",
+  "geometry": {
+    "location": {
+      "lat": 1.3424597,
+      "lng": 103.6801796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343492430291502,
+        "lng": 103.6811621302915
+      },
+      "southwest": {
+        "lat": 1.340794469708498,
+        "lng": 103.6784641697085
+      }
+    }
+  },
+  "name": "Communication and Information Library",
+  "place_id": "ChIJUYOZzXUP2jERBEHqB8YbbXw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gavin",
+      "author_url": "https://www.google.com/maps/contrib/106398131028482654385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVjOQmVQMKoRoBgXocGKJa2yzuuNaATzWi6OCrPNAK85YTMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Small but quiet and good",
+      "time": 1693823745,
+      "translated": false
+    },
+    {
+      "author_name": "Aprilcheaw",
+      "author_url": "https://www.google.com/maps/contrib/110832554467603542728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdxQZgxo6UfLDOsiICoqhAVpkBDXQZRlhKP5txT6ZearpEHA4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Super duper quiet",
+      "time": 1682080609,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8965852970514792708",
+  "user_ratings_total": 2,
+  "vicinity": "CS-01-18, 31 Nanyang Link, Singapore"
+}

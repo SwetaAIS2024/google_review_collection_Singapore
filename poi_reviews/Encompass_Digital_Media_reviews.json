@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.381558,
+      "lng": 103.972664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382884330291502,
+        "lng": 103.9739737302915
+      },
+      "southwest": {
+        "lat": 1.380186369708498,
+        "lng": 103.9712757697085
+      }
+    }
+  },
+  "name": "Encompass Digital Media",
+  "place_id": "ChIJaejz_Ec82jER2lH6XeuoNYU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9598763909657547226",
+  "vicinity": "Singapore"
+}

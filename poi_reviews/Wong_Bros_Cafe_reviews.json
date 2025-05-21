@@ -1,0 +1,29 @@
+{
+  "formatted_address": "12 New Industrial Rd, Singapore 536202",
+  "geometry": {
+    "location": {
+      "lat": 1.3422956,
+      "lng": 103.8858085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343744130291502,
+        "lng": 103.8869284302915
+      },
+      "southwest": {
+        "lat": 1.341046169708498,
+        "lng": 103.8842304697085
+      }
+    }
+  },
+  "name": "Wong Bros' Cafe",
+  "place_id": "ChIJORzoKZQX2jERxHaMuGlD3Hs",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8925082682888320708",
+  "vicinity": "12 New Industrial Road"
+}

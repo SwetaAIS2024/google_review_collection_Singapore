@@ -1,0 +1,46 @@
+{
+  "formatted_address": "25 Jln Mas Puteh, Singapore 128630",
+  "geometry": {
+    "location": {
+      "lat": 1.30838,
+      "lng": 103.762023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309668580291502,
+        "lng": 103.7634074802915
+      },
+      "southwest": {
+        "lat": 1.306970619708498,
+        "lng": 103.7607095197085
+      }
+    }
+  },
+  "name": "Queen's Family Mart",
+  "place_id": "ChIJzx0FLRcb2jERYEuIL4O7iIk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kenneth Chew",
+      "author_url": "https://www.google.com/maps/contrib/104354653076566388633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRU_gBDZy50uZ5m95wQ23ktq8AExd0G_B9B8AmMKh3BnnUqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Nicely fitted and wide range of daily needs",
+      "time": 1643524578,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9910377152141347680",
+  "user_ratings_total": 1,
+  "vicinity": "25 Jalan Mas Puteh, Singapore"
+}

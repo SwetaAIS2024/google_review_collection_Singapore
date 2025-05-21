@@ -1,0 +1,29 @@
+{
+  "formatted_address": "924 Yishun Central 1, Singapore 760924",
+  "geometry": {
+    "location": {
+      "lat": 1.4274537,
+      "lng": 103.8357759
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428950980291502,
+        "lng": 103.8369432302915
+      },
+      "southwest": {
+        "lat": 1.426253019708498,
+        "lng": 103.8342452697085
+      }
+    }
+  },
+  "name": "Goh Yong Chiang Kelvin Dr",
+  "place_id": "ChIJ1TdXq28U2jERLGQKZ40aT9k",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15658763624011949100",
+  "vicinity": "924 Yishun Central 1"
+}

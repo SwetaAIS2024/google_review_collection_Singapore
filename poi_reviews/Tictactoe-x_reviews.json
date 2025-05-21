@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Pasir Ris Cl, Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3759679,
+      "lng": 103.9554208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377320430291502,
+        "lng": 103.9566552802915
+      },
+      "southwest": {
+        "lat": 1.374622469708498,
+        "lng": 103.9539573197085
+      }
+    }
+  },
+  "name": "Tictactoe-x",
+  "place_id": "ChIJseMqKLQ92jERs9ivcxkCM30",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9021556786891577523",
+  "vicinity": "1 Pasir Ris Close"
+}

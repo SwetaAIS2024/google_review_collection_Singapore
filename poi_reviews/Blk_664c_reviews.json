@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3380083,
+      "lng": 103.7032057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339302280291502,
+        "lng": 103.7045691302915
+      },
+      "southwest": {
+        "lat": 1.336604319708498,
+        "lng": 103.7018711697085
+      }
+    }
+  },
+  "name": "Blk 664c",
+  "place_id": "ChIJdYVl85IP2jERWHf07qNpuY0",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10212309782848894808",
+  "vicinity": "Singapore"
+}

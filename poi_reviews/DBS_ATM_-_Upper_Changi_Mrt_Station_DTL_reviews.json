@@ -1,0 +1,29 @@
+{
+  "formatted_address": "690 Upper Changi Rd E, Upper Changi Mrt Station (DTL, Singapore 485990",
+  "geometry": {
+    "location": {
+      "lat": 1.3420989,
+      "lng": 103.9617448
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343458280291502,
+        "lng": 103.9630560802915
+      },
+      "southwest": {
+        "lat": 1.340760319708498,
+        "lng": 103.9603581197085
+      }
+    }
+  },
+  "name": "DBS ATM - Upper Changi Mrt Station (DTL)",
+  "place_id": "ChIJc8r5SEU92jERwmFMoVlFC-g",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16720534292803641794",
+  "vicinity": "690 Upper Changi Road East, Upper Changi Mrt Station (DTL"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "154 Mei Ling St, Singapore 140154",
+  "geometry": {
+    "location": {
+      "lat": 1.2935184,
+      "lng": 103.8039089
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294858980291502,
+        "lng": 103.8051418802915
+      },
+      "southwest": {
+        "lat": 1.292161019708498,
+        "lng": 103.8024439197085
+      }
+    }
+  },
+  "name": "Tong San Medical",
+  "place_id": "ChIJr5m7CTQa2jERxTCyzE4DzAo",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kevin Lin",
+      "author_url": "https://www.google.com/maps/contrib/101306603050767656924/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzJxHfuMYjlQw6yPs5MqpYdq30K4NkJrGPc7RYAmMxaOtrMlrG=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "invalid position, waste me so much time.",
+      "time": 1705896772,
+      "translated": false
+    },
+    {
+      "author_name": "Janani",
+      "author_url": "https://www.google.com/maps/contrib/108898626035395895010/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8y7DxQUMfo-WNl8OOgYHuXlDa8yp9li-YdDsW5dNCU4tMP6-x=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648263514,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=778000472604815557",
+  "user_ratings_total": 2,
+  "vicinity": "154 Mei Ling Street, Singapore"
+}

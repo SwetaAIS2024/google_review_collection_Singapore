@@ -1,0 +1,78 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.320338,
+      "lng": 103.842834
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321671180291502,
+        "lng": 103.8441657302915
+      },
+      "southwest": {
+        "lat": 1.318973219708498,
+        "lng": 103.8414677697085
+      }
+    }
+  },
+  "name": "Novena Stn",
+  "place_id": "ChIJy6khEecZ2jERTNH54pEuGKM",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "The amount of mess all around here is something you'd want to watch out for. It's still a well maintained bus stop, looking at the uncontrollables all around. But just be more mindful when you're transiting here. It's supposed to be right in front of Velocity Mall, but I guess the road conditions have forced them to move to now be in front of Royal Square first, before moving back eventually.",
+      "time": 1634950130,
+      "translated": false
+    },
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "If hell were a bus stop. This is what it would look like!",
+      "time": 1745801740,
+      "translated": false
+    },
+    {
+      "author_name": "Quang Trần Vinh",
+      "author_url": "https://www.google.com/maps/contrib/104557515163944171143/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy0zWC8yxNRjccEU47k_EhIKwz-mpGLgw6bftt1EadyknVQDrs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "A busy avenue",
+      "time": 1670401777,
+      "translated": true
+    },
+    {
+      "author_name": "kelvin kok",
+      "author_url": "https://www.google.com/maps/contrib/114990214230751315052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQgGNephGL0utHKwGILz5Jc1igN-RwLewYdcbQTYo-LGIQhMH3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1675752689,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11752194431736467788",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

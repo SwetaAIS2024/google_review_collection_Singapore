@@ -1,0 +1,51 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3767627,
+      "lng": 103.9208324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378105980291502,
+        "lng": 103.9221586302915
+      },
+      "southwest": {
+        "lat": 1.375408019708498,
+        "lng": 103.9194606697085
+      }
+    }
+  },
+  "name": "Hock Lian Seng",
+  "place_id": "ChIJQ6e2NM092jER-K1eQF7ONKo",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "parshotam singh",
+      "author_url": "https://www.google.com/maps/contrib/106426455092771759445/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4ULUkeWsHcU2226kVnRh4Ydrv_ffochpudlhMucpT3zpC1WfQbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685345097,
+      "translated": false
+    },
+    {
+      "author_name": "Ks Muni",
+      "author_url": "https://www.google.com/maps/contrib/112966616547301458246/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXe2Xu_nwz-azes6-xV3k7Ggd-t7QIhQGdKtKp1Ii46Wia1ygh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1641639667,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12264654589438897656",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Eunos Ave 6, Singapore 409630",
+  "geometry": {
+    "location": {
+      "lat": 1.3220731,
+      "lng": 103.897137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323422080291502,
+        "lng": 103.8984859802915
+      },
+      "southwest": {
+        "lat": 1.320724119708498,
+        "lng": 103.8957880197085
+      }
+    }
+  },
+  "name": "Wakefield Corporation",
+  "place_id": "ChIJkcWl2hgY2jERvQQetG4wAnQ",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8359297110379463869",
+  "vicinity": "Eunos Avenue 6"
+}

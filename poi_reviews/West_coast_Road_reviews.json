@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore 600411",
+  "geometry": {
+    "location": {
+      "lat": 1.321918,
+      "lng": 103.7401642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323314830291502,
+        "lng": 103.7415241802915
+      },
+      "southwest": {
+        "lat": 1.320616869708498,
+        "lng": 103.7388262197085
+      }
+    }
+  },
+  "name": "West coast Road",
+  "place_id": "ChIJP9VXGUYb2jERtdnj6hqK6J0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gopi Gopi",
+      "author_url": "https://www.google.com/maps/contrib/111550046880357591826/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqFcAD0CNH2OjCf79Z2oBgNCoESUCZlSSmmEq0BTEtik13=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1735431471,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11378496306766141877",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

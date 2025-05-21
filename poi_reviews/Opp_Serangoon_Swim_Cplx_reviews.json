@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.357037,
+      "lng": 103.875679
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358391180291502,
+        "lng": 103.8770372302915
+      },
+      "southwest": {
+        "lat": 1.355693219708498,
+        "lng": 103.8743392697085
+      }
+    }
+  },
+  "name": "Opp Serangoon Swim Cplx",
+  "place_id": "ChIJk27Q464X2jERyon2RnVh-2g",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7564747155428510154",
+  "vicinity": "Singapore"
+}

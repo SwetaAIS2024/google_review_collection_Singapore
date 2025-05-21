@@ -1,0 +1,53 @@
+{
+  "formatted_address": "51 Corporation Rd, Singapore 649806",
+  "geometry": {
+    "location": {
+      "lat": 1.3415713,
+      "lng": 103.7154618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342911180291502,
+        "lng": 103.7169977302915
+      },
+      "southwest": {
+        "lat": 1.340213219708498,
+        "lng": 103.7142997697085
+      }
+    }
+  },
+  "name": "Avitron",
+  "place_id": "ChIJp-YTzOgP2jEREadMC1UD6MI",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Santhosh Nodu",
+      "author_url": "https://www.google.com/maps/contrib/114282985370269315997/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1lx6a1_S5PWYZ52pqe8VftxYwH1mA18Fu5HRs9Y9tVKfo7VMe=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Spacious and clean and friendly staff",
+      "time": 1531912004,
+      "translated": false
+    },
+    {
+      "author_name": "牛牛",
+      "author_url": "https://www.google.com/maps/contrib/113852707628359354192/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwqlc9eVWJ5j0V9EwEP7sBUwXom-2YzcvmfdAQo3wDWYmlew=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512996638,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14044479101751568145",
+  "user_ratings_total": 2,
+  "vicinity": "51 Corporation Road, Singapore"
+}

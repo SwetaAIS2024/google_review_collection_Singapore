@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Orchard Blvd, #09-05 248649, Singapore 248649",
+  "geometry": {
+    "location": {
+      "lat": 1.3032056,
+      "lng": 103.8239356
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304557330291502,
+        "lng": 103.8254038302915
+      },
+      "southwest": {
+        "lat": 1.301859369708498,
+        "lng": 103.8227058697085
+      }
+    }
+  },
+  "name": "Tebex Medica S'pore Pte Ltd",
+  "place_id": "ChIJ5Rw7hokZ2jER_BsXFlzTuUE",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4736048875617852412",
+  "vicinity": "1 Orchard Boulevard, #09-05 248649"
+}

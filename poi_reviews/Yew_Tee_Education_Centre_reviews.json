@@ -1,0 +1,54 @@
+{
+  "formatted_address": "682 Choa Chu Kang Cres, Block 682, Singapore 680682",
+  "geometry": {
+    "location": {
+      "lat": 1.4023758,
+      "lng": 103.7454171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403631230291502,
+        "lng": 103.7468740802915
+      },
+      "southwest": {
+        "lat": 1.400933269708498,
+        "lng": 103.7441761197085
+      }
+    }
+  },
+  "name": "Yew Tee Education Centre",
+  "place_id": "ChIJReZw9h0S2jERwOBbB6Okg0E",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kelvin C. Yap",
+      "author_url": "https://www.google.com/maps/contrib/111706826691168889141/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcx_xJUdudiWwsh1vAn4BXpNfqBWlct4xKnxNeeg_QkJQwDHOa=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Great preschool, laid the foundation for my education. Good teachers, great environment.",
+      "time": 1541233471,
+      "translated": false
+    },
+    {
+      "author_name": "Yang Hongfang",
+      "author_url": "https://www.google.com/maps/contrib/116490852077341537391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8AyMcgaoNCMHm742Vno5rna_c2UyWxxlQHJSdqN-a5X99Zg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1443252035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4720797854524498112",
+  "user_ratings_total": 2,
+  "vicinity": "682 Choa Chu Kang Crescent, Block 682, Singapore"
+}

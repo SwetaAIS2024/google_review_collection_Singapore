@@ -1,0 +1,70 @@
+{
+  "formatted_address": "39 Teban Gardens Rd, #01-331 Block 39, Singapore 600039",
+  "geometry": {
+    "location": {
+      "lat": 1.3213889,
+      "lng": 103.7428327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322785130291502,
+        "lng": 103.7442749302915
+      },
+      "southwest": {
+        "lat": 1.320087169708498,
+        "lng": 103.7415769697085
+      }
+    }
+  },
+  "name": "Cherry Myine minimart",
+  "place_id": "ChIJIe_aV4wb2jER1OKDFSD9siI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "awin aung",
+      "author_url": "https://www.google.com/maps/contrib/111790893164119236625/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp3LJRooaoJ6asKaWy8iNv2yUCZmX1WS25JFXCZGIaRstPkg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Friendly Service!",
+      "time": 1664870828,
+      "translated": false
+    },
+    {
+      "author_name": "kthan Kun",
+      "author_url": "https://www.google.com/maps/contrib/108883349355911712446/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkbNA9WyW-9804hclCIthzJn0-VwsKEK0BzNIvCPzR_roUzKFy=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Cheap alcohol",
+      "time": 1690178695,
+      "translated": false
+    },
+    {
+      "author_name": "Explorer Daddy",
+      "author_url": "https://www.google.com/maps/contrib/108890326341204662662/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfWRxpUbgNi8vnQUoQ_-Hcsr3R_GP_MwmqBoYRTnDYbCDWwWyK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Convenient place",
+      "time": 1613459344,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2500339057385792212",
+  "user_ratings_total": 3,
+  "vicinity": "39 Teban Gardens Road, #01-331 Block 39, Singapore"
+}

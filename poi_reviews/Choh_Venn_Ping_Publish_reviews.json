@@ -1,0 +1,27 @@
+{
+  "formatted_address": "11 Jurong West Street 25, Singapore 648350",
+  "geometry": {
+    "location": {
+      "lat": 1.3537852,
+      "lng": 103.7017788
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355385880291502,
+        "lng": 103.7033422802915
+      },
+      "southwest": {
+        "lat": 1.352687919708498,
+        "lng": 103.7006443197085
+      }
+    }
+  },
+  "name": "Choh Venn Ping Publish",
+  "place_id": "ChIJtQFfu7kP2jERCDWY8Yy6zfI",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17495845241915716872",
+  "vicinity": "11 Jurong West Street 25"
+}

@@ -1,0 +1,48 @@
+{
+  "formatted_address": "Blk 3 St George's Rd, #01-67, Singapore 320003",
+  "geometry": {
+    "location": {
+      "lat": 1.323084,
+      "lng": 103.861423
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324177080291502,
+        "lng": 103.8625509802915
+      },
+      "southwest": {
+        "lat": 1.321479119708498,
+        "lng": 103.8598530197085
+      }
+    }
+  },
+  "name": "Big Paw Paws BBQ (Delivery & Self-collect only)",
+  "place_id": "ChIJSxGBxnM92jERSOipijZw2rM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adam S",
+      "author_url": "https://www.google.com/maps/contrib/106068398416274632227/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIT2FiFTsHCX_q9romxJlPidZhhZ9R9x0K8rm-5FYsyZlcwheFMA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Had their beef brisket sliders at geylang pasar malam. Really delicious",
+      "time": 1703759959,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "meal_delivery",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12959794257268959304",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 3 Saint George's Road, #01-67"
+}

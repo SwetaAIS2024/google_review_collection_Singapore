@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Bukit Batok Cres, Singapore 658064",
+  "geometry": {
+    "location": {
+      "lat": 1.3386674,
+      "lng": 103.7592296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339975980291502,
+        "lng": 103.7604675302915
+      },
+      "southwest": {
+        "lat": 1.337278019708498,
+        "lng": 103.7577695697085
+      }
+    }
+  },
+  "name": "Neuganics",
+  "place_id": "ChIJq6pqYG4Q2jERR4g4rIapvxM",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1423042403152463943",
+  "vicinity": "1 Bukit Batok Crescent"
+}

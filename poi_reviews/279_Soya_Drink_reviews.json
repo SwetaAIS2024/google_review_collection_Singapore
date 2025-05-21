@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Singapore 650279",
+  "geometry": {
+    "location": {
+      "lat": 1.3481495,
+      "lng": 103.7572619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349410380291502,
+        "lng": 103.7586729802915
+      },
+      "southwest": {
+        "lat": 1.346712419708498,
+        "lng": 103.7559750197085
+      }
+    }
+  },
+  "name": "279 Soya Drink",
+  "place_id": "ChIJr_3kYCMR2jERgnXH3hr69DE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Desmond",
+      "author_url": "https://www.google.com/maps/contrib/110453387194701266795/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsV5y-LvLrRxVDDxEWalaMQiOVkkfK2n0cbqFyt5zgZRKxg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Yummy soya drink. Ask for less sugar please.",
+      "time": 1690825881,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3599776995489576322",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

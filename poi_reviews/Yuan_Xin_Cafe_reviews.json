@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3171004,
+      "lng": 103.8796694
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318477930291502,
+        "lng": 103.8811271802915
+      },
+      "southwest": {
+        "lat": 1.315779969708498,
+        "lng": 103.8784292197085
+      }
+    }
+  },
+  "name": "Yuan Xin Cafe",
+  "place_id": "ChIJQVZxVSUY2jERkhtnnL4d9CA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jim J",
+      "author_url": "https://www.google.com/maps/contrib/114920154615975491212/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEPc_kCQPRhaza0XwLcFO9iEVZeuYIPfwNJ59-_p0qOWUKI7Rd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Great coffee & they have fresh coconut water .",
+      "time": 1663592166,
+      "translated": false
+    },
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1653918143,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2374555608036088722",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

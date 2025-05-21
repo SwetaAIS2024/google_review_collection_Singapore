@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.344712,
+      "lng": 103.940216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346107130291502,
+        "lng": 103.9415592302915
+      },
+      "southwest": {
+        "lat": 1.343409169708498,
+        "lng": 103.9388612697085
+      }
+    }
+  },
+  "name": "Bef Tampines West Stn",
+  "place_id": "ChIJ43AjfhU92jER8UCzGrQgfUU",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Ramesh Gupta",
+      "author_url": "https://www.google.com/maps/contrib/104103584842900304158/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgLeI1923n2IP7IjBjGyhV6mkJFQjIu-S0PJkHdH48Lsf9tLyl9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "The view is very nice",
+      "time": 1481078994,
+      "translated": false
+    },
+    {
+      "author_name": "Aravindh Kumar",
+      "author_url": "https://www.google.com/maps/contrib/104140286228943000098/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV07WfFbUdONH9VJNRecT7VKix7ipW1FdjQRCGrBtKXxBTg-hLj=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531716510,
+      "translated": false
+    },
+    {
+      "author_name": "MOGOANA A/P JEYARETNAM",
+      "author_url": "https://www.google.com/maps/contrib/113011298315987884144/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXl8rbeLHuKpd0srV1QPpxRkkRaP8Rh6c1_GA9mVEjOR8qMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505205880,
+      "translated": false
+    },
+    {
+      "author_name": "Zhuo Zixian",
+      "author_url": "https://www.google.com/maps/contrib/109578385749610507527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVybMCslo_apfxogyLB8VITFZsvHYct09oUucghkXxO4n_eQbwp=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1491667860,
+      "translated": false
+    },
+    {
+      "author_name": "Cyril Manfred",
+      "author_url": "https://www.google.com/maps/contrib/100254830884843217230/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6zQoOQzloOZAbmU34xPMlEvOgKS0FN-3DSsYKFUSlQ_9eiQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489969208,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5007194318620016881",
+  "user_ratings_total": 7,
+  "vicinity": "Singapore"
+}

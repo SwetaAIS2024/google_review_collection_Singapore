@@ -1,0 +1,28 @@
+{
+  "formatted_address": "302 Tengah Park Avenue, Singapore 690302",
+  "geometry": {
+    "location": {
+      "lat": 1.360239,
+      "lng": 103.7388596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362037130291502,
+        "lng": 103.7402844302915
+      },
+      "southwest": {
+        "lat": 1.359339169708498,
+        "lng": 103.7375864697085
+      }
+    }
+  },
+  "name": "Tengah Polyclinic",
+  "place_id": "ChIJa1IhLwAR2jERAZFNVZKRrHU",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8479312256114200833",
+  "vicinity": "302 Tengah Park Avenue, Singapore"
+}

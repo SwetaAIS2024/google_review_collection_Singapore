@@ -1,0 +1,30 @@
+{
+  "formatted_address": "275 Balestier Rd, Singapore 329725",
+  "geometry": {
+    "location": {
+      "lat": 1.3225106,
+      "lng": 103.8525573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323878380291502,
+        "lng": 103.8539827302915
+      },
+      "southwest": {
+        "lat": 1.321180419708498,
+        "lng": 103.8512847697085
+      }
+    }
+  },
+  "name": "M Mart Supply",
+  "place_id": "ChIJQ6j5btkZ2jERVyN3K2n-t68",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12661868605029688151",
+  "vicinity": "275 Balestier Road, Singapore"
+}

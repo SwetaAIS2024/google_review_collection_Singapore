@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3524931,
+      "lng": 103.8129319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366398050725829,
+        "lng": 103.8384287696852
+      },
+      "southwest": {
+        "lat": 1.336734420584209,
+        "lng": 103.7880865185036
+      }
+    }
+  },
+  "name": "Reservoir Park",
+  "place_id": "ChIJ9U1M4c4Q2jERb00xDsY_rqs",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da10cee14c4df5:0xabae3fc60e314d6f",
+  "vicinity": "Singapore"
+}

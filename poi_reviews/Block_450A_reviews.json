@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Woodgrove Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4276723,
+      "lng": 103.780696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.429048880291502,
+        "lng": 103.7820302302915
+      },
+      "southwest": {
+        "lat": 1.426350919708498,
+        "lng": 103.7793322697085
+      }
+    }
+  },
+  "name": "Block 450A",
+  "place_id": "ChIJFyx0MQAT2jEREb8qv-Sy8Kk",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12245484082349915921",
+  "vicinity": "Woodgrove Avenue"
+}

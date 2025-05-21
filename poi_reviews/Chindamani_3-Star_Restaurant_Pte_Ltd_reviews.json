@@ -1,0 +1,67 @@
+{
+  "formatted_address": "293 Holland Rd, #02-18 Jelita Mall, Singapore 278628",
+  "geometry": {
+    "location": {
+      "lat": 1.3175519,
+      "lng": 103.7859568
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318889130291502,
+        "lng": 103.7874221302915
+      },
+      "southwest": {
+        "lat": 1.316191169708498,
+        "lng": 103.7847241697085
+      }
+    }
+  },
+  "name": "Chindamani 3-Star Restaurant Pte Ltd",
+  "place_id": "ChIJawl9NAAb2jERT_0hHp3MLRE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Kimberly Lee",
+      "author_url": "https://www.google.com/maps/contrib/111200841477286913214/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0YrJMtyC34M8EAh40xVC8zPPylMAkqUy83IxBOb61C9qyhg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Delicious! It's a bit more pricey, but given the yumminess, aircon, and spacious environment, it's worth it.",
+      "time": 1744629623,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Leong",
+      "author_url": "https://www.google.com/maps/contrib/100779983761833501120/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcZzg6Tswrw9gHvwb7t_vIxK27ohlAeso0MLFZ3QMjpSZCc78=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "He calls it a 3 star restaurant so I'll rate it 3 stars.\nDosa is pretty good. Better than rubinahs",
+      "time": 1744444595,
+      "translated": false
+    },
+    {
+      "author_name": "Teeeng",
+      "author_url": "https://www.google.com/maps/contrib/113353503050605152037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK6-A-qDoMYrmke0Lp7iWxscsae8C15wqj9cjBl-1Djm6hzseK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742098922,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1237870447784230223",
+  "user_ratings_total": 3,
+  "vicinity": "293 Holland Road, #02-18 Jelita Mall, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "BLK 602B Tampines Ave 9, #01-06, Singapore 522602",
+  "geometry": {
+    "location": {
+      "lat": 1.3612911,
+      "lng": 103.9377216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362639980291502,
+        "lng": 103.9391114302915
+      },
+      "southwest": {
+        "lat": 1.359942019708498,
+        "lng": 103.9364134697085
+      }
+    }
+  },
+  "name": "A.A.Iahshanullah Indian Muslim Food",
+  "place_id": "ChIJP9AgVV092jERIypBQSfnBpU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "JN",
+      "author_url": "https://www.google.com/maps/contrib/116659714899148255696/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdpzFlRoiPhYihdba68nGHQMznmNXufFyIJI6JUm_SeMTCRw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Very tasty prata and fish curry. Great service. Will visit again. Thank you brother 👍",
+      "time": 1727056621,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10738524517296056867",
+  "user_ratings_total": 1,
+  "vicinity": "BLK 602B Tampines Avenue 9, #01-06"
+}

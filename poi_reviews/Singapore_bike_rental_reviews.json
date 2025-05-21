@@ -1,0 +1,68 @@
+{
+  "formatted_address": "7 Marina Grove, Singapore 019597",
+  "geometry": {
+    "location": {
+      "lat": 1.2793047,
+      "lng": 103.8648564
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280551330291502,
+        "lng": 103.8661412302915
+      },
+      "southwest": {
+        "lat": 1.277853369708498,
+        "lng": 103.8634432697085
+      }
+    }
+  },
+  "name": "Singapore bike rental",
+  "place_id": "ChIJRYTNYbIZ2jERK1OFkGo_CcI",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Hung Yee Wee",
+      "author_url": "https://www.google.com/maps/contrib/104219955033699096762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbBgNFgPtyKNYQz-mt08ZkqoqbmiTv-cKl0_vXLCS4IZLfAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Nice atmosphere for jogging",
+      "time": 1696779044,
+      "translated": false
+    },
+    {
+      "author_name": "Bảo Thy Phan",
+      "author_url": "https://www.google.com/maps/contrib/112832267425858360797/reviews",
+      "language": "en-US",
+      "original_language": "vi",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfTbS7PRO5azgw0kmbdz__sPWofV5NaWFE2AUJMdCGLq87RMKRgA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The giant tree light show is stunning, and it's free. Come early to reserve a good spot.",
+      "time": 1709294989,
+      "translated": true
+    },
+    {
+      "author_name": "**********",
+      "author_url": "https://www.google.com/maps/contrib/107963600910064298110/reviews",
+      "language": "en-US",
+      "original_language": "pl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKabxIm3WTrs8CNFSPbuL2hwIGFqcaBa2OmWCR2nWNbYaUVgQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A wonderful garden with lots of plants, a very nice change after visiting Asian cities",
+      "time": 1708491031,
+      "translated": true
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13981776245072155435",
+  "user_ratings_total": 3,
+  "vicinity": "7 Marina Grove"
+}

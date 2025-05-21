@@ -1,0 +1,69 @@
+{
+  "formatted_address": "23 Penjuru Walk, Singapore 609125",
+  "geometry": {
+    "location": {
+      "lat": 1.3179461,
+      "lng": 103.7324801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319304980291502,
+        "lng": 103.7339036302915
+      },
+      "southwest": {
+        "lat": 1.316607019708498,
+        "lng": 103.7312056697085
+      }
+    }
+  },
+  "name": "Kolee Supermarkets",
+  "place_id": "ChIJPzM9Nksb2jERytUZOBYnCDI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Aman Gupta",
+      "author_url": "https://www.google.com/maps/contrib/103049528134078328833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK4wwDg_nrJfTIdOiEN7Iy1Cj40GQ5ww8n9J_VrKxSUbzs8ziF=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "One of the best supermarket. Here you'll get every daily use items at very reasonable price.",
+      "time": 1657729751,
+      "translated": false
+    },
+    {
+      "author_name": "dharma raj",
+      "author_url": "https://www.google.com/maps/contrib/111317882224345674670/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYYyuEq8bX4oWGLFJAle9lEnKXVmYSBpUetnSPN78eyQtnXqjCMw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice",
+      "time": 1712501423,
+      "translated": false
+    },
+    {
+      "author_name": "Boopathi Mohana",
+      "author_url": "https://www.google.com/maps/contrib/113332789857608393229/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4tY9ylEQLjHd9jzz7leyYq6z7oxeAg8ceHr3vFk9yg06zMuQ3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1573303358,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3605174478094063050",
+  "user_ratings_total": 3,
+  "vicinity": "23 Penjuru Walk, Singapore"
+}

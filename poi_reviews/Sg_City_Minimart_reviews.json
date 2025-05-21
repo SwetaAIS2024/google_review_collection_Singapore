@@ -1,0 +1,47 @@
+{
+  "formatted_address": "Middle Rd, Fortune Center, Singapore 188979",
+  "geometry": {
+    "location": {
+      "lat": 1.3001582,
+      "lng": 103.8522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301511030291502,
+        "lng": 103.8535478302915
+      },
+      "southwest": {
+        "lat": 1.298813069708498,
+        "lng": 103.8508498697085
+      }
+    }
+  },
+  "name": "Sg City Minimart",
+  "place_id": "ChIJRxy8FVQZ2jER7DL5lSFScHk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mohamed mohaseen",
+      "author_url": "https://www.google.com/maps/contrib/113778063220710225577/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRwiGm1AM7guAkMCWCe6ga4Oj-2rTx_3zFeUBkUeTfsGJ5EUh_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best shop in fortune center .cheaper than seven eleven.",
+      "time": 1710065238,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8750584380184408812",
+  "user_ratings_total": 1,
+  "vicinity": "Middle Road, Fortune Center"
+}

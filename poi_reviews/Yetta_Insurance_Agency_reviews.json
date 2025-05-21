@@ -1,0 +1,44 @@
+{
+  "formatted_address": "721 Clementi West Street 2, Singapore 120721",
+  "geometry": {
+    "location": {
+      "lat": 1.3024369,
+      "lng": 103.7644785
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304190080291502,
+        "lng": 103.7657662802915
+      },
+      "southwest": {
+        "lat": 1.301492119708498,
+        "lng": 103.7630683197085
+      }
+    }
+  },
+  "name": "Yetta Insurance Agency",
+  "place_id": "ChIJu7qx6vEa2jERE73HeB9hh6k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alan Ng",
+      "author_url": "https://www.google.com/maps/contrib/109097564264604317131/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAYt3ibXJSS9GXFSSTRYv4deR052XYChB8G5BfZ0Sw6ULXAtoesQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Me and my friends renew our car insurance from Jeffrey every year cause Jeffrey gave us Good rate and services 👍👏",
+      "time": 1671560087,
+      "translated": false
+    }
+  ],
+  "types": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12215839302063996179",
+  "user_ratings_total": 1,
+  "vicinity": "721 Clementi West Street 2, Singapore"
+}

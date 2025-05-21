@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.322344,
+      "lng": 103.739441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323727930291502,
+        "lng": 103.7407958802915
+      },
+      "southwest": {
+        "lat": 1.321029969708498,
+        "lng": 103.7380979197085
+      }
+    }
+  },
+  "name": "Bef Hasanah Mque",
+  "place_id": "ChIJJ7V-TK8a2jERvCfuBcohLeY",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "K a l 1 S S",
+      "author_url": "https://www.google.com/maps/contrib/100679182423591505301/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZN_CxKsBHTTt_VDGh6HzPSZElJ0zYfBbDR9gVK6KTnptbolo=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1634971317,
+      "translated": false
+    },
+    {
+      "author_name": "Thong Kok Leung",
+      "author_url": "https://www.google.com/maps/contrib/117667633771214544072/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrM9yvJlXhoiJc4k1XUCRCfsAvay9gNIv0kZ-SAKxk9u4US1yv=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506228621,
+      "translated": false
+    },
+    {
+      "author_name": "Hock Lou",
+      "author_url": "https://www.google.com/maps/contrib/106735485288038259054/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0YJhjR3PBdNha6CARm_-1Ui6lBI9mZk78945H0AuAk9gWpQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1433993064,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16585950154242009020",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "101 Upper Bukit Timah Rd, Singapore 588216",
+  "geometry": {
+    "location": {
+      "lat": 1.3416953,
+      "lng": 103.7759797
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343024930291502,
+        "lng": 103.7772254802915
+      },
+      "southwest": {
+        "lat": 1.340326969708498,
+        "lng": 103.7745275197085
+      }
+    }
+  },
+  "name": "UOB ATM - Beauty World MRT Station (DTL)",
+  "place_id": "ChIJ4-bETdsR2jERLRtoQo-V-OM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16427044083360865069",
+  "vicinity": "101 Upper Bukit Timah Road"
+}

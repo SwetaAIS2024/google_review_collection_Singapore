@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3471936,
+      "lng": 103.9577602
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348553980291502,
+        "lng": 103.9591658302915
+      },
+      "southwest": {
+        "lat": 1.345856019708498,
+        "lng": 103.9564678697085
+      }
+    }
+  },
+  "name": "Metta Welfare Assn",
+  "place_id": "ChIJBWop_x492jERR0fp6JR8iWw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Pei-Yao Ho",
+      "author_url": "https://www.google.com/maps/contrib/109451790439656881035/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFpZOCXhr569tZILcnYUkIma-7DQENXPBA7c9WaoS7CN006fH-tg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1660618677,
+      "translated": false
+    },
+    {
+      "author_name": "Judy To",
+      "author_url": "https://www.google.com/maps/contrib/114047441109836364876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOO_hwaZGtsctFyMtvnOaiRFlL362m4MGLIRObISxg9DPSjw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1514286801,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7820919206910183239",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

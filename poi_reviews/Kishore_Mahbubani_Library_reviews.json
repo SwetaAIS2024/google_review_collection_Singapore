@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Tampines St. 73, Singapore 528704",
+  "geometry": {
+    "location": {
+      "lat": 1.3585296,
+      "lng": 103.9318392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359862430291502,
+        "lng": 103.9332366302915
+      },
+      "southwest": {
+        "lat": 1.357164469708498,
+        "lng": 103.9305386697085
+      }
+    }
+  },
+  "name": "Kishore Mahbubani Library",
+  "place_id": "ChIJcySebWc92jERxQ_oBD_IH0U",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4980919885885870021",
+  "vicinity": "1 Tampines Street 73"
+}

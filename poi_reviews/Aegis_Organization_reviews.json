@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Tampines Grande, #04-12 Aegis Organization, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545008,
+      "lng": 103.9421893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355844630291502,
+        "lng": 103.9435719802915
+      },
+      "southwest": {
+        "lat": 1.353146669708498,
+        "lng": 103.9408740197085
+      }
+    }
+  },
+  "name": "Aegis Organization",
+  "place_id": "ChIJr-GI8Q092jERI7afmWvk43w",
+  "types": [
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8999287631206397475",
+  "vicinity": "3 Tampines Grande, #04-12 Aegis Organization"
+}

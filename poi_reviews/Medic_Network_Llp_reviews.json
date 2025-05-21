@@ -1,0 +1,29 @@
+{
+  "formatted_address": "673 Hougang Ave 8, Block 673, Singapore 530673",
+  "geometry": {
+    "location": {
+      "lat": 1.372609,
+      "lng": 103.8846378
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373861230291502,
+        "lng": 103.8859618302915
+      },
+      "southwest": {
+        "lat": 1.371163269708498,
+        "lng": 103.8832638697085
+      }
+    }
+  },
+  "name": "Medic Network Llp",
+  "place_id": "ChIJTahSRU8W2jERLoUeNAcTVD0",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4419178056017413422",
+  "vicinity": "673 Hougang Avenue 8, Block 673"
+}

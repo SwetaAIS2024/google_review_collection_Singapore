@@ -1,0 +1,28 @@
+{
+  "formatted_address": "23 Smith St, Singapore 058937",
+  "geometry": {
+    "location": {
+      "lat": 1.2821344,
+      "lng": 103.8443315
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283577680291502,
+        "lng": 103.8456392802915
+      },
+      "southwest": {
+        "lat": 1.280879719708498,
+        "lng": 103.8429413197085
+      }
+    }
+  },
+  "name": "SOUNDCLASH",
+  "place_id": "ChIJYy3qZCwZ2jER4bhsd_867n8",
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9218370356168669409",
+  "vicinity": "23 Smith Street"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "6 Napier Rd, #03-09, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.30752,
+      "lng": 103.82035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308926030291502,
+        "lng": 103.8217675802915
+      },
+      "southwest": {
+        "lat": 1.306228069708498,
+        "lng": 103.8190696197085
+      }
+    }
+  },
+  "name": "Heart Partners Clinic",
+  "place_id": "ChIJuWj-GCAa2jERRxJRMtYaKjs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Supramu Santosa",
+      "author_url": "https://www.google.com/maps/contrib/112312391953548606440/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHxWPWPT-BONeYkXvOVM1nC3ou-7CT0jyE9KABG763boBP2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1708480102,
+      "translated": false
+    },
+    {
+      "author_name": "David Leaw",
+      "author_url": "https://www.google.com/maps/contrib/112317184912647336434/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiszSb8IJjemP4jflNhLi_elnz_9EgYH2umseBpfy9eoJP7XI80A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1654590192,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4263249504529093191",
+  "user_ratings_total": 2,
+  "vicinity": "6 Napier Road, #03-09"
+}

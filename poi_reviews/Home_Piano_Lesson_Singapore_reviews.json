@@ -1,0 +1,55 @@
+{
+  "formatted_address": "205 Clementi Ave 6, Singapore 120205",
+  "geometry": {
+    "location": {
+      "lat": 1.321114,
+      "lng": 103.7623626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322549330291502,
+        "lng": 103.7637050302915
+      },
+      "southwest": {
+        "lat": 1.319851369708498,
+        "lng": 103.7610070697085
+      }
+    }
+  },
+  "name": "Home Piano Lesson Singapore",
+  "place_id": "ChIJb1DLmwQb2jERY3QsH1NOgOk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rachael Lim",
+      "author_url": "https://www.google.com/maps/contrib/118230616660847820406/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjquineHd_SnLRgw_eKNEGHXRUnWXbPrdm_xytDuAed4tEzd5-Cg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "The Piano Teacher SG is a reliable piano assignment matching platform that provides me with many lovely students. Assignments are given based on your location preference, and negotiations are done through the trusty agent and teacher, Ms. Liew. Highly recommended.",
+      "time": 1581305893,
+      "translated": false
+    },
+    {
+      "author_name": "Yeo YY",
+      "author_url": "https://www.google.com/maps/contrib/114286541087720302511/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ-Jz5LFTnw0V8eIdhc_KmITZlbVPLE5zwhb5HRAnS5y6Q_g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581301485,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16825534326768432227",
+  "user_ratings_total": 2,
+  "vicinity": "205 Clementi Avenue 6"
+}

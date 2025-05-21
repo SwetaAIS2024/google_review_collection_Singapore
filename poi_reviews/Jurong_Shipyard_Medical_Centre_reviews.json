@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 629122",
+  "geometry": {
+    "location": {
+      "lat": 1.301858,
+      "lng": 103.698625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302770230291502,
+        "lng": 103.6999560802915
+      },
+      "southwest": {
+        "lat": 1.300072269708498,
+        "lng": 103.6972581197085
+      }
+    }
+  },
+  "name": "Jurong Shipyard Medical Centre",
+  "place_id": "ChIJDQyOIREF2jERxtNGtrzVS4k",
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9893236012938089414",
+  "vicinity": ""
+}

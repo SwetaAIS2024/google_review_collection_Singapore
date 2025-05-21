@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3004459,
+      "lng": 103.7442663
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302130530291502,
+        "lng": 103.7455961802915
+      },
+      "southwest": {
+        "lat": 1.299432569708498,
+        "lng": 103.7428982197085
+      }
+    }
+  },
+  "name": "Tanjong Penjuru",
+  "place_id": "ChIJda_ZZ8gb2jERIBm0jSNkB7I",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12828332167452170528",
+  "vicinity": "Singapore"
+}

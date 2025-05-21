@@ -1,0 +1,44 @@
+{
+  "formatted_address": "290 Orchard Rd, Level 2 paragon, Singapore 238859",
+  "geometry": {
+    "location": {
+      "lat": 1.3042812,
+      "lng": 103.8363543
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305613080291502,
+        "lng": 103.8377721802915
+      },
+      "southwest": {
+        "lat": 1.302915119708498,
+        "lng": 103.8350742197085
+      }
+    }
+  },
+  "name": "DECORTE - Metro Paragon Department Store",
+  "place_id": "ChIJLzNIWEkZ2jER_kKeNA9aw9o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Dia Dia",
+      "author_url": "https://www.google.com/maps/contrib/114892537137540580996/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbH-lS6y6X4mYYxwKsoVntgJor2CarWEfSoTLuV38VdWKM1Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "New counter looks gorgeous 😍",
+      "time": 1695871987,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15763542142080664318",
+  "user_ratings_total": 1,
+  "vicinity": "290 Orchard Road, Level 2 paragon"
+}

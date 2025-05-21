@@ -1,0 +1,29 @@
+{
+  "formatted_address": "152 Beach Rd, Singapore 189721",
+  "geometry": {
+    "location": {
+      "lat": 1.2988735,
+      "lng": 103.8594007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300409780291502,
+        "lng": 103.8605595302915
+      },
+      "southwest": {
+        "lat": 1.297711819708498,
+        "lng": 103.8578615697085
+      }
+    }
+  },
+  "name": "Meridional Health Pte. Ltd.",
+  "place_id": "ChIJD67q0rEZ2jERoFDSInh-Fuc",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16651635726694371488",
+  "vicinity": "152 Beach Road"
+}

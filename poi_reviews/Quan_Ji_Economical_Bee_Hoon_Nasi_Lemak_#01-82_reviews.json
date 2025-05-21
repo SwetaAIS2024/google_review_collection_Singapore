@@ -1,0 +1,45 @@
+{
+  "formatted_address": "7 Empress Rd, #01 82, Singapore 260007",
+  "geometry": {
+    "location": {
+      "lat": 1.3163893,
+      "lng": 103.8057652
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317795980291502,
+        "lng": 103.8070888802915
+      },
+      "southwest": {
+        "lat": 1.315098019708498,
+        "lng": 103.8043909197085
+      }
+    }
+  },
+  "name": "Quan Ji Economical Bee Hoon Nasi Lemak (#01-82)",
+  "place_id": "ChIJYyQhonMb2jERiYRBIMM6AvU",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "king dex",
+      "author_url": "https://www.google.com/maps/contrib/102068547273049100932/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk7bITds4QwM_sFrr_y7WS_JKGeaWT1A7LX3N4szAKMn5y=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 weeks ago",
+      "text": "Bad service by auntie",
+      "time": 1746149729,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17654738098979964041",
+  "user_ratings_total": 1,
+  "vicinity": "7 Empress Road, #01 82"
+}

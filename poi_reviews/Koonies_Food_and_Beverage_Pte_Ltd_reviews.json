@@ -1,0 +1,29 @@
+{
+  "formatted_address": "102 Towner Rd, Singapore 322102",
+  "geometry": {
+    "location": {
+      "lat": 1.3206955,
+      "lng": 103.8620706
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321987980291502,
+        "lng": 103.8634901302915
+      },
+      "southwest": {
+        "lat": 1.319290019708498,
+        "lng": 103.8607921697085
+      }
+    }
+  },
+  "name": "Koonies Food & Beverage Pte Ltd",
+  "place_id": "ChIJoeApXtEZ2jERCkxOqIhNh0U",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5010058359807560714",
+  "vicinity": "102 Towner Road, Singapore"
+}

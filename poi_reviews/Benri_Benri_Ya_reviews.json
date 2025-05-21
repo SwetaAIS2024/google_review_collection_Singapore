@@ -1,0 +1,30 @@
+{
+  "formatted_address": "100E Pasir Panjang Rd, #04-03, Singapore 118521",
+  "geometry": {
+    "location": {
+      "lat": 1.2754557,
+      "lng": 103.7958446
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276623680291502,
+        "lng": 103.7971302302915
+      },
+      "southwest": {
+        "lat": 1.273925719708498,
+        "lng": 103.7944322697085
+      }
+    }
+  },
+  "name": "Benri Benri Ya",
+  "place_id": "ChIJA-bmXc0b2jER83PJ6JQ8D6c",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12037906939242968051",
+  "vicinity": "100E Pasir Panjang Road, #04-03"
+}

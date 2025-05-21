@@ -1,0 +1,92 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.325264,
+      "lng": 103.842209
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326420080291502,
+        "lng": 103.8434654802915
+      },
+      "southwest": {
+        "lat": 1.323722119708498,
+        "lng": 103.8407675197085
+      }
+    }
+  },
+  "name": "Opp Thomson Med Ctr",
+  "place_id": "ChIJF5ymTeAZ2jERsbq7rSYBGZQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "Dusty, crowded, hot, stuffy, tight. Try not to transit here if you have the option not to.",
+      "time": 1632562226,
+      "translated": false
+    },
+    {
+      "author_name": "France Marie",
+      "author_url": "https://www.google.com/maps/contrib/105602482076739676393/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2KHH15vJTKfjaZithdaLTbBv1L1mYjTblhCCj-nQi35m1ItU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The bus arrival timing displayed on Google for this bus stop is very inaccurate. At other bus stops, the timing is typically only 1-2 minutes off, but here, it's completely random. Depending on the bus timing, I could have found a different route to work, but instead, I'm left waiting for buses that I thought would arrive based on Google maps.",
+      "time": 1715128934,
+      "translated": false
+    },
+    {
+      "author_name": "WANG",
+      "author_url": "https://www.google.com/maps/contrib/112060982896943211204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_4ikKj7DBge5r5qj1gcnHDJlOvQUjvFEluwtKvxyPWfpccb0Dw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Makeshift bus stop with a few benches, however rain tends to get the benches wet making the shelter redundant.",
+      "time": 1598777459,
+      "translated": false
+    },
+    {
+      "author_name": "guillaume poulet",
+      "author_url": "https://www.google.com/maps/contrib/114063789753652367836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3ldWNqQVVGgXRKxrTr1dK5ge9R1mZfn7YIsgFMB5F-1axylueYw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Could spend my day there",
+      "time": 1497452648,
+      "translated": false
+    },
+    {
+      "author_name": "Luqman Al-Haqim",
+      "author_url": "https://www.google.com/maps/contrib/108470269205770555841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMXYNPa8-tc8tDeEoVsYPXU8ExgfmKA0LJtLue9NR87doRUCDc=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "10 years ago",
+      "text": "Okay",
+      "time": 1421367792,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10671562057666247345",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

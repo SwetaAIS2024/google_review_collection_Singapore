@@ -1,0 +1,41 @@
+{
+  "formatted_address": "203B Henderson Rd, #09-08, Singapore 159548",
+  "geometry": {
+    "location": {
+      "lat": 1.2815432,
+      "lng": 103.8212904
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282937080291502,
+        "lng": 103.8225838802915
+      },
+      "southwest": {
+        "lat": 1.280239119708498,
+        "lng": 103.8198859197085
+      }
+    }
+  },
+  "name": "CITIPROP PROPERTY MANAGEMENT PTE LTD",
+  "place_id": "ChIJh-y6uTwa2jERLbZ96BhrYaU",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jeremy Birks",
+      "author_url": "https://www.google.com/maps/contrib/108193287584816717502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR03HVZdlVBBaTI_RR2Upea2pLrQ9NWSFcwIxpOeYpRgdUZg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480043443,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11916923843722982957",
+  "user_ratings_total": 1,
+  "vicinity": "203B Henderson Road, #09-08, Singapore"
+}

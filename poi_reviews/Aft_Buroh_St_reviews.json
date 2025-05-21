@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.313606,
+      "lng": 103.701263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315004180291502,
+        "lng": 103.7026234302915
+      },
+      "southwest": {
+        "lat": 1.312306219708498,
+        "lng": 103.6999254697085
+      }
+    }
+  },
+  "name": "Aft Buroh St",
+  "place_id": "ChIJ0czQXWkF2jERh1usmDAwdeU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16534174592238640007",
+  "vicinity": "Singapore"
+}

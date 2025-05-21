@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Kallang Sector, Singapore 349282",
+  "geometry": {
+    "location": {
+      "lat": 1.3242421,
+      "lng": 103.8732881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325673280291502,
+        "lng": 103.8747757802915
+      },
+      "southwest": {
+        "lat": 1.322975319708498,
+        "lng": 103.8720778197085
+      }
+    }
+  },
+  "name": "Cafe Seven",
+  "place_id": "ChIJ____LyoY2jERCO266WSEBk8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5694384347809508616",
+  "vicinity": "8 Kallang Sector, Singapore"
+}

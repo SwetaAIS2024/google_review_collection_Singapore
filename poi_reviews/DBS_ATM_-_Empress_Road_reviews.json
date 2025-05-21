@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Empress Rd, #01-35a, Singapore 260007",
+  "geometry": {
+    "location": {
+      "lat": 1.3159762,
+      "lng": 103.8052788
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317249180291502,
+        "lng": 103.8064030302915
+      },
+      "southwest": {
+        "lat": 1.314551219708498,
+        "lng": 103.8037050697085
+      }
+    }
+  },
+  "name": "DBS ATM - Empress Road",
+  "place_id": "ChIJrWyUwREa2jER3sVI0jkr3IA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9285344059072234974",
+  "vicinity": "8 Empress Road, #01-35a"
+}

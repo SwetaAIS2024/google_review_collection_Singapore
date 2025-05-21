@@ -1,0 +1,29 @@
+{
+  "formatted_address": "59 New Upper Changi Rd, Singapore 461059",
+  "geometry": {
+    "location": {
+      "lat": 1.3241114,
+      "lng": 103.9406917
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325321180291502,
+        "lng": 103.9419797802915
+      },
+      "southwest": {
+        "lat": 1.322623219708498,
+        "lng": 103.9392818197085
+      }
+    }
+  },
+  "name": "Tian Tian Fresh",
+  "place_id": "ChIJhUYCA8si2jERQ47UxNDc5ZQ",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10729224476493647427",
+  "vicinity": "59 New Upper Changi Road"
+}

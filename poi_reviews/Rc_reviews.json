@@ -1,0 +1,43 @@
+{
+  "formatted_address": "188 Bukit Batok West Ave 6, Block 188, Singapore 650188",
+  "geometry": {
+    "location": {
+      "lat": 1.346241,
+      "lng": 103.7456853
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347639130291502,
+        "lng": 103.7469655302915
+      },
+      "southwest": {
+        "lat": 1.344941169708498,
+        "lng": 103.7442675697085
+      }
+    }
+  },
+  "name": "Rc",
+  "place_id": "ChIJ2fKEVZcR2jERSRYWg6Im2B0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Rosliaziz Zainol",
+      "author_url": "https://www.google.com/maps/contrib/112382601177362631587/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpacz7DbWOT0DoVHUpKfk549T65T5CgTZMYz2RSnU_hY0EOoo=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717094180,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2150511301495232073",
+  "user_ratings_total": 1,
+  "vicinity": "188 Bukit Batok West Avenue 6, Block 188, Singapore"
+}

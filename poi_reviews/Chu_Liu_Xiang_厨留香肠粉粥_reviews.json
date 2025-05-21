@@ -1,0 +1,45 @@
+{
+  "formatted_address": "50A Marine Ter, #01-297, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.3056765,
+      "lng": 103.9156621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307231580291502,
+        "lng": 103.9169425802915
+      },
+      "southwest": {
+        "lat": 1.304533619708498,
+        "lng": 103.9142446197085
+      }
+    }
+  },
+  "name": "Chu Liu Xiang 厨留香肠粉粥",
+  "place_id": "ChIJi0RdPwAj2jER1Et0OBf1JwU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Derrick Lin",
+      "author_url": "https://www.google.com/maps/contrib/105989843156970934066/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUD4_orsNCvA9E3Tnxa0b_amlKlmNqEIQmdlLxUxCn3CN0T_3mf6A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Was disappointed when we noticed that the old chee chiong fun stall has ceased operations so we decided to give this new stall a try…not sure if the standard for the previous stall is so high, this one pales in comparison to it. Stall owners are not friendly too, plus there’s quite a long waiting time even there’s not much orders before us.",
+      "time": 1706585282,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=371534974361553876",
+  "user_ratings_total": 1,
+  "vicinity": "50A Marine Terrace, #01-297"
+}

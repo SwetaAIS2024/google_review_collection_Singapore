@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Teck Whye Ln, Block 18, Singapore 680018",
+  "geometry": {
+    "location": {
+      "lat": 1.3782996,
+      "lng": 103.7541248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379543230291502,
+        "lng": 103.7554800802915
+      },
+      "southwest": {
+        "lat": 1.376845269708498,
+        "lng": 103.7527821197085
+      }
+    }
+  },
+  "name": "Tiong Wah Economic Vegetable Rice",
+  "place_id": "ChIJEZapbwAR2jER9pPPncmAJCQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lim Lam Sin (Keston)",
+      "author_url": "https://www.google.com/maps/contrib/104017026296774707444/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx5OH6B4LYxsjZO27rb-vlybS7XtCSU1zOeM49JIHIR8wxJVc=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Having lunch here on 13 Dec 23’ .\nEconomical & freshly cooked, highly recommended.",
+      "time": 1702878057,
+      "translated": false
+    },
+    {
+      "author_name": "Francis Leong",
+      "author_url": "https://www.google.com/maps/contrib/112559424770989382254/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInPl1OyEWEC9N_ADBeiZXD8PW9I8hmsLGYlGcAnH4dfQNiK1r8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very delicious food from this mixed veg rice stall. Food is so much better than my area's Zi Char stall.",
+      "time": 1708039863,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2604348087951397878",
+  "user_ratings_total": 2,
+  "vicinity": "Teck Whye Lane, Block 18, Singapore"
+}

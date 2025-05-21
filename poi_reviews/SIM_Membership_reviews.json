@@ -1,0 +1,27 @@
+{
+  "formatted_address": "41 Namly Ave, Singapore 267616",
+  "geometry": {
+    "location": {
+      "lat": 1.3259424,
+      "lng": 103.7999849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327163730291502,
+        "lng": 103.8013859302915
+      },
+      "southwest": {
+        "lat": 1.324465769708498,
+        "lng": 103.7986879697085
+      }
+    }
+  },
+  "name": "SIM Membership",
+  "place_id": "ChIJiaWgjYAQ2jERache5i7ubJE",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10479012318185179241",
+  "vicinity": "41 Namly Avenue"
+}

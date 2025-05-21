@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377022,
+      "lng": 103.866974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378368230291502,
+        "lng": 103.8683408302915
+      },
+      "southwest": {
+        "lat": 1.375670269708498,
+        "lng": 103.8656428697085
+      }
+    }
+  },
+  "name": "Bef Ang Mo Kio Ind Pk 2a",
+  "place_id": "ChIJd53AFvYW2jERJKE_Ut64x9Q",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Peng Wei",
+      "author_url": "https://www.google.com/maps/contrib/101719189365373440649/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8Zlg-uI8R47wU9iZE1TDsixbuae6In88z4hzo_mvDAS7Zrpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1503461476,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15332426721408295204",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

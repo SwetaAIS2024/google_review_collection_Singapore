@@ -1,0 +1,29 @@
+{
+  "formatted_address": "91 Jurong East Ave 1, Singapore 609786",
+  "geometry": {
+    "location": {
+      "lat": 1.3423137,
+      "lng": 103.7372496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343787680291502,
+        "lng": 103.7386701802915
+      },
+      "southwest": {
+        "lat": 1.341089719708498,
+        "lng": 103.7359722197085
+      }
+    }
+  },
+  "name": "DBS ATM - SPC Jurong East Avenue 1",
+  "place_id": "ChIJk7uXF2kR2jERqVPo6KWf7vk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18009507494827152297",
+  "vicinity": "91 Jurong East Avenue 1, Singapore"
+}

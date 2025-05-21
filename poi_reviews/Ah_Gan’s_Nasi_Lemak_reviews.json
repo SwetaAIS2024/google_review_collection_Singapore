@@ -1,0 +1,30 @@
+{
+  "formatted_address": "504 Yishun St 51, Singapore 760504",
+  "geometry": {
+    "location": {
+      "lat": 1.4182345,
+      "lng": 103.8445869
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419560280291502,
+        "lng": 103.8460200302915
+      },
+      "southwest": {
+        "lat": 1.416862319708498,
+        "lng": 103.8433220697085
+      }
+    }
+  },
+  "name": "Ah Gan’s Nasi Lemak",
+  "place_id": "ChIJFzlBPAAV2jERnYwU0oPTCpo",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11099916794726747293",
+  "vicinity": "504 Yishun Street 51"
+}

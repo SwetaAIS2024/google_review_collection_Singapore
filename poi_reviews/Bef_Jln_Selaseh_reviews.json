@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.38554,
+      "lng": 103.87516
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386930830291502,
+        "lng": 103.8765456302915
+      },
+      "southwest": {
+        "lat": 1.384232869708498,
+        "lng": 103.8738476697085
+      }
+    }
+  },
+  "name": "Bef Jln Selaseh",
+  "place_id": "ChIJiZu7wmYW2jERHeLJqZhblnk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "MINA “Mina” C",
+      "author_url": "https://www.google.com/maps/contrib/106458577556613212672/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvNd1Po54BjqOy48hs5DLe99omTUWUcndgqjq0XZQoX7iBXg9hmA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513044196,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8761290836337615389",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "415 Bukit Batok West Ave 4, #01-274, Singapore 650415",
+  "geometry": {
+    "location": {
+      "lat": 1.3619845,
+      "lng": 103.745619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363363730291502,
+        "lng": 103.7469694302915
+      },
+      "southwest": {
+        "lat": 1.360665769708498,
+        "lng": 103.7442714697085
+      }
+    }
+  },
+  "name": "Giga Provision Shop",
+  "place_id": "ChIJJZiUlzQQ2jER_Xjo9EQA0iM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Melody Lee",
+      "author_url": "https://www.google.com/maps/contrib/116988810950294675733/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4nlgA29JBNOYPvUy_U29bmbhYzNX45sxz_aaDxmcpd61Uogg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It is a lot of convenient things",
+      "time": 1684754225,
+      "translated": false
+    },
+    {
+      "author_name": "Scott Lee",
+      "author_url": "https://www.google.com/maps/contrib/111270492283000266647/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRArorq5XKdP1b-D7_jFpatZFg-LcJvgY8dWQmjGvE12jaaw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "Selling lots of daily necessities.",
+      "time": 1348497262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2581125832603367677",
+  "user_ratings_total": 2,
+  "vicinity": "415 Bukit Batok West Avenue 4, #01-274, Singapore"
+}

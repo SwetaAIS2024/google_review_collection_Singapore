@@ -1,0 +1,43 @@
+{
+  "formatted_address": "9 Airline Road, #02-07, Cargo Agents Building D, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384423630291502,
+        "lng": 104.0009958802915
+      },
+      "southwest": {
+        "lat": 1.381725669708498,
+        "lng": 103.9982979197085
+      }
+    }
+  },
+  "name": "Freight Solutions (S) Pte Ltd",
+  "place_id": "ChIJd8TRwAw82jER7LmJgUX-lVg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andre Lee",
+      "author_url": "https://www.google.com/maps/contrib/102502861889858934213/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtUrqerxkn7hJ3Qgwc6QZ3rGxOjtrSM9rDmw4YmxfNU5CRPwH3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565535265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "moving_company",
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6383287621347031532",
+  "user_ratings_total": 1,
+  "vicinity": "9 Airline Road, #02-07, Cargo Agents Building D, Singapore"
+}

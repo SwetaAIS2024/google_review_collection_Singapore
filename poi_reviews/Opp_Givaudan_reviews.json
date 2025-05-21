@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3224393,
+      "lng": 103.7026311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323740680291502,
+        "lng": 103.7039749802915
+      },
+      "southwest": {
+        "lat": 1.321042719708498,
+        "lng": 103.7012770197085
+      }
+    }
+  },
+  "name": "Opp Givaudan",
+  "place_id": "ChIJaZIr1GYF2jERHRoM4wOGhpI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10558273727668951581",
+  "vicinity": "Singapore"
+}

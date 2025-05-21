@@ -1,0 +1,46 @@
+{
+  "formatted_address": "421C Northshore Dr, Singapore 823421",
+  "geometry": {
+    "location": {
+      "lat": 1.4190858,
+      "lng": 103.9051911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420467230291502,
+        "lng": 103.9064817302915
+      },
+      "southwest": {
+        "lat": 1.417769269708498,
+        "lng": 103.9037837697085
+      }
+    }
+  },
+  "name": "Vanilla Mart",
+  "place_id": "ChIJy0nkaQAV2jERttFFtevoamg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Gabriel",
+      "author_url": "https://www.google.com/maps/contrib/117387838809977391267/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxUIqhWMBQgZmnuePRJ3GpjXGkjKP_5RI86sAWszpf99Tmp__P=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Located next to Kimly Coffee shop. It is open concept, clean and more spacious than the previous store.",
+      "time": 1737805921,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7524082226532045238",
+  "user_ratings_total": 1,
+  "vicinity": "421C Northshore Drive, Singapore"
+}

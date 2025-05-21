@@ -1,0 +1,30 @@
+{
+  "formatted_address": "309 Choa Chu Kang Ave 4, Level 3, Centre 680309",
+  "geometry": {
+    "location": {
+      "lat": 1.3851376,
+      "lng": 103.7457408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386333180291502,
+        "lng": 103.7471643802915
+      },
+      "southwest": {
+        "lat": 1.383635219708498,
+        "lng": 103.7444664197085
+      }
+    }
+  },
+  "name": "AlcoholNowSG Beer Vending",
+  "place_id": "ChIJy0XnpWwR2jEROIY0HvT2jE8",
+  "types": [
+    "bar",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5732227954075010616",
+  "vicinity": "309 Choa Chu Kang Avenue 4, Level 3, Centre"
+}

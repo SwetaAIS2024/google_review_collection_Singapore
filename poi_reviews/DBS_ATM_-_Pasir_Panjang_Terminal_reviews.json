@@ -1,0 +1,29 @@
+{
+  "formatted_address": "33 Harbour Dr Pasir Panjang Terminal Bldg, Singapore 117606",
+  "geometry": {
+    "location": {
+      "lat": 1.2837128,
+      "lng": 103.7740666
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285149580291502,
+        "lng": 103.7754649802915
+      },
+      "southwest": {
+        "lat": 1.282451619708498,
+        "lng": 103.7727670197085
+      }
+    }
+  },
+  "name": "DBS ATM - Pasir Panjang Terminal",
+  "place_id": "ChIJJyB6-tkb2jERN0RfQ1uJ8qI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11741598203573650487",
+  "vicinity": "33 Harbour Dr Pasir Panjang Terminal Bldg"
+}

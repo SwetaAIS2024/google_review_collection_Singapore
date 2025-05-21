@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2825863,
+      "lng": 103.8430923
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283959880291502,
+        "lng": 103.8445702802915
+      },
+      "southwest": {
+        "lat": 1.281261919708498,
+        "lng": 103.8418723197085
+      }
+    }
+  },
+  "name": "Leong Fook Khow",
+  "place_id": "ChIJNcXWGHMZ2jERE0ddaRqGkY8",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10345197267041732371",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "2 Tuas S Ln, Singapore 637206",
+  "geometry": {
+    "location": {
+      "lat": 1.2826219,
+      "lng": 103.6372193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284073730291502,
+        "lng": 103.6385760802915
+      },
+      "southwest": {
+        "lat": 1.281375769708498,
+        "lng": 103.6358781197085
+      }
+    }
+  },
+  "name": "South Area Plant",
+  "place_id": "ChIJVWb2mDAH2jERZ094fH0RpEI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Md Rashel",
+      "author_url": "https://www.google.com/maps/contrib/104270829678354111354/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJE9GkjBocPcElCLew8MfBn2ubPRCKzoyq9kUIEetwQMz2LS0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705525281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4801982333340634983",
+  "user_ratings_total": 1,
+  "vicinity": "2 Tuas South Lane, Singapore"
+}

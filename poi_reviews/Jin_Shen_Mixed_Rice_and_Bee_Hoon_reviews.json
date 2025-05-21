@@ -1,0 +1,30 @@
+{
+  "formatted_address": "431 Clementi Ave 3, Block 431, Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.313286,
+      "lng": 103.7631544
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314873780291502,
+        "lng": 103.7643786302915
+      },
+      "southwest": {
+        "lat": 1.312175819708498,
+        "lng": 103.7616806697085
+      }
+    }
+  },
+  "name": "Jin Shen Mixed Rice & Bee Hoon",
+  "place_id": "ChIJme4TZQAb2jERy2KnyiC9MGE",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7003305369097691851",
+  "vicinity": "431 Clementi Avenue 3, Block 431, Singapore"
+}

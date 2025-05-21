@@ -1,0 +1,29 @@
+{
+  "formatted_address": "469 Bukit Batok West Ave 9, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3551385,
+      "lng": 103.7417936
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356387030291502,
+        "lng": 103.7432534302915
+      },
+      "southwest": {
+        "lat": 1.353689069708498,
+        "lng": 103.7405554697085
+      }
+    }
+  },
+  "name": "Mala Master",
+  "place_id": "ChIJRYk-cAAR2jERkzEcz61Dvgc",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=557957817623654803",
+  "vicinity": "469 Bukit Batok West Avenue 9"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.299419,
+      "lng": 103.752541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300800680291502,
+        "lng": 103.7538755302915
+      },
+      "southwest": {
+        "lat": 1.298102719708498,
+        "lng": 103.7511775697085
+      }
+    }
+  },
+  "name": "Opp Sia Huat",
+  "place_id": "ChIJQUbzBOga2jER4WEr4CUpXn4",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Seng Mook",
+      "author_url": "https://www.google.com/maps/contrib/100507421109528779584/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgS9I1kxJohdvm90dnFeF9newOm98JeDJBTfnrd8GK2j8IxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724270520,
+      "translated": false
+    },
+    {
+      "author_name": "Ivan Jo",
+      "author_url": "https://www.google.com/maps/contrib/115405281983913950129/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINUFhWDhkxK1bTfp5S6WWaM9vkAZtIn3JzA0JhzJXX0S3I=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1571618912,
+      "translated": false
+    },
+    {
+      "author_name": "Soniya Naidu",
+      "author_url": "https://www.google.com/maps/contrib/107845821616933629715/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5vKWkq7YXEHJWjtsqY7TOpNZF3pfJRPqN2cxFpcVys45nXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543248080,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9105760739241189857",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Bayfront Avenue #01-30 The Shoppes at Marina Bay Sands, Singapore 018972",
+  "geometry": {
+    "location": {
+      "lat": 1.2843366,
+      "lng": 103.8601092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285632180291502,
+        "lng": 103.8616046302915
+      },
+      "southwest": {
+        "lat": 1.282934219708498,
+        "lng": 103.8589066697085
+      }
+    }
+  },
+  "name": "DBS MARINA BAY SANDS 24/7 Self-Service Branch",
+  "place_id": "ChIJMRq-r_oZ2jEROU6-ucubzo4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10290333497885085241",
+  "vicinity": "10 Bayfront Avenue #01-30 The Shoppes at Marina Bay Sands"
+}

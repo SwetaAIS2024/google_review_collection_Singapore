@@ -1,0 +1,65 @@
+{
+  "formatted_address": "413 Yishun Ring Rd, #01-1873, Singapore 760413",
+  "geometry": {
+    "location": {
+      "lat": 1.425144,
+      "lng": 103.8460813
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426561230291502,
+        "lng": 103.8473512302915
+      },
+      "southwest": {
+        "lat": 1.423863269708498,
+        "lng": 103.8446532697085
+      }
+    }
+  },
+  "name": "OCBC ATM - Yishun 413",
+  "place_id": "ChIJ7cfDH0IU2jERgjUpD0YIz_o",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Dust Ct",
+      "author_url": "https://www.google.com/maps/contrib/112482162519637408760/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHvQWBeCYh942QvNTXXdaAliWeFTMqQnPkjpX6KhCyyU4GoFQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It's in front of 7-11 (location pin is not quite accurate)",
+      "time": 1702306306,
+      "translated": false
+    },
+    {
+      "author_name": "mRamlan",
+      "author_url": "https://www.google.com/maps/contrib/103666269170506608599/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCPEMD5v6Htv6CX6OakZi_w0_HbchFbS4in5uiMqX_6WFAqANH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676844834,
+      "translated": false
+    },
+    {
+      "author_name": "Atul Nade",
+      "author_url": "https://www.google.com/maps/contrib/106493365743735727897/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhTQYYFLeXirgbcvvbNiz6XyjEG4TmVeBb8Q-2r_ucGTrIkw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520390727,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18072672926656181634",
+  "user_ratings_total": 3,
+  "vicinity": "413 Yishun Ring Road, #01-1873"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "409 Eunos Rd 2, Singapore 409388",
+  "geometry": {
+    "location": {
+      "lat": 1.3193205,
+      "lng": 103.901842
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320376680291502,
+        "lng": 103.9035863802915
+      },
+      "southwest": {
+        "lat": 1.317678719708498,
+        "lng": 103.9008884197085
+      }
+    }
+  },
+  "name": "UOB ATM - Eunos Road 2",
+  "place_id": "ChIJ0VfsJhsY2jERTC9LQl_q2w8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1142764625323568972",
+  "vicinity": "409 Eunos Road 2"
+}

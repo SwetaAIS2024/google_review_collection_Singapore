@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Elias Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3779147,
+      "lng": 103.9423149
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379134180291502,
+        "lng": 103.9435710302915
+      },
+      "southwest": {
+        "lat": 1.376436219708498,
+        "lng": 103.9408730697085
+      }
+    }
+  },
+  "name": "Ho Kee Braised Duck (和记卤鸭)",
+  "place_id": "ChIJHciEIwA92jER5TxgJGi8QSM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Nobita C",
+      "author_url": "https://www.google.com/maps/contrib/115632465584200727905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwmPB8qEnoPhsZxbXIEBPTGhMqXo4oJsUa_z5O-2zVyIBoKz2B=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "10 months ago",
+      "text": "Unassuming stall that serves duck meat of satisfactory standard.",
+      "time": 1720326366,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2540518820286577893",
+  "user_ratings_total": 1,
+  "vicinity": "Elias Road"
+}

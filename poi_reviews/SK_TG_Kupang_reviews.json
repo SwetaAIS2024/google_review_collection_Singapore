@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Kampung Ladang, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3595,
+      "lng": 103.61238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360876480291502,
+        "lng": 103.6137077302915
+      },
+      "southwest": {
+        "lat": 1.358178519708498,
+        "lng": 103.6110097697085
+      }
+    }
+  },
+  "name": "SK TG Kupang",
+  "place_id": "ChIJ1RQBaOcI2jER-_trEDq-Z5o",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11126070561034992635",
+  "vicinity": "Malaysia"
+}

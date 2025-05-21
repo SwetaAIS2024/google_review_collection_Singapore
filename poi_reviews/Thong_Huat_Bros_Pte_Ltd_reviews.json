@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.400627,
+      "lng": 103.755562
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.401969980291502,
+        "lng": 103.7569426802915
+      },
+      "southwest": {
+        "lat": 1.399272019708498,
+        "lng": 103.7542447197085
+      }
+    }
+  },
+  "name": "Thong Huat Bros Pte Ltd",
+  "place_id": "ChIJIU_WU4oR2jER0kVi4F9OFJQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10670239590840944082",
+  "vicinity": "Singapore"
+}

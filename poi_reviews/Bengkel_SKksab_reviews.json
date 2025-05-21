@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Jalan Bukit Kuching, Kampung Ladang, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3861633,
+      "lng": 103.5972306
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387716630291502,
+        "lng": 103.5985189302915
+      },
+      "southwest": {
+        "lat": 1.385018669708498,
+        "lng": 103.5958209697085
+      }
+    }
+  },
+  "name": "Bengkel SKksab",
+  "place_id": "ChIJbfi6dJwJ2jERDx8m_bKF2aY",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Joe Lim",
+      "author_url": "https://www.google.com/maps/contrib/107584197342265825512/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFEOA_9eCxQNAfSXOkPZ76ywDbRN9I-DjDSNG6HLPLzatXhw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1714867617,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12022787684040056591",
+  "user_ratings_total": 1,
+  "vicinity": "Jalan Bukit Kuching, Kampung Ladang, Gelang Patah"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3157078,
+      "lng": 103.9058812
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317038180291502,
+        "lng": 103.9071843802915
+      },
+      "southwest": {
+        "lat": 1.314340219708498,
+        "lng": 103.9044864197085
+      }
+    }
+  },
+  "name": "Aft Lor G Telok Kurau",
+  "place_id": "ChIJ720UdQ8Y2jERIl6HqgQIFRc",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1663244453517155874",
+  "vicinity": "Singapore"
+}

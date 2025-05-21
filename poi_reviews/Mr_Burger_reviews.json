@@ -1,0 +1,69 @@
+{
+  "formatted_address": "81550 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3836203,
+      "lng": 103.6009449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384947580291502,
+        "lng": 103.6022793802915
+      },
+      "southwest": {
+        "lat": 1.382249619708498,
+        "lng": 103.5995814197085
+      }
+    }
+  },
+  "name": "Mr Burger",
+  "place_id": "ChIJ8UeHpO0J2jERpt8m1PhpNCw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jared",
+      "author_url": "https://www.google.com/maps/contrib/116202036734410316322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfyqeqG5dZjaTimWCXku6Nd8uaLGfCLVlj_aJoTJK8EvXDESU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "A Mr burger caught my attention.",
+      "time": 1717689387,
+      "translated": false
+    },
+    {
+      "author_name": "Mirda Mirda",
+      "author_url": "https://www.google.com/maps/contrib/114178830639592044301/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt36pjwhzZO7HGk8w9YJFDEKuNZYbotu6capjy-4Q99uBGrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "MR beast",
+      "time": 1695913566,
+      "translated": false
+    },
+    {
+      "author_name": "Mohd Ramzan Johari",
+      "author_url": "https://www.google.com/maps/contrib/118266184332976593815/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGXnzvlJX2QaVQqIYtrmFA_Cdfvh-mSrtGEGBcS1rVOhK7o_VlUQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Tasty and affordable burgers. The shop is open from noon to night. Can book by whatsapp",
+      "time": 1645363037,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3185287353889906598",
+  "user_ratings_total": 3,
+  "vicinity": "Iskandar Puteri"
+}

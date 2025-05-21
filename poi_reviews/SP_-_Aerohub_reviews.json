@@ -1,0 +1,54 @@
+{
+  "formatted_address": "500 Dover Rd, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3116437,
+      "lng": 103.7773267
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313040080291502,
+        "lng": 103.7786930302915
+      },
+      "southwest": {
+        "lat": 1.310342119708498,
+        "lng": 103.7759950697085
+      }
+    }
+  },
+  "name": "SP - Aerohub",
+  "place_id": "ChIJ1fYfwGAa2jERmG7aRz0Bg6s",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Oscar Ho",
+      "author_url": "https://www.google.com/maps/contrib/108484319450141251962/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGPnBbpVziP6CpU8Bi6fM8cpGvbRloRNxIEIcT1bFGXM0NTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "pls do not join s88",
+      "time": 1706108194,
+      "translated": false
+    },
+    {
+      "author_name": "Wayne Yap",
+      "author_url": "https://www.google.com/maps/contrib/111810540736089563526/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW1RrumnHHwbBhKEMY-ft6scq-TKnhuLLBh6jEo1W-u-FD90Zd=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678247093,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12358723165144903320",
+  "user_ratings_total": 2,
+  "vicinity": "500 Dover Road"
+}

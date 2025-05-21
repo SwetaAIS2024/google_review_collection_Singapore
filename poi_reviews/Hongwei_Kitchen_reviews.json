@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Bukit Batok West Ave 6, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3528978,
+      "lng": 103.7434331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354271630291502,
+        "lng": 103.7446953302915
+      },
+      "southwest": {
+        "lat": 1.351573669708498,
+        "lng": 103.7419973697085
+      }
+    }
+  },
+  "name": "Hongwei Kitchen",
+  "place_id": "ChIJg2EwKQAR2jERRJCJANPFO9E",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15076861687590654020",
+  "vicinity": "Bukit Batok West Avenue 6"
+}

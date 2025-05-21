@@ -1,0 +1,44 @@
+{
+  "formatted_address": "114 Ang Mo Kio Ave 4, #01-349, Singapore 560114",
+  "geometry": {
+    "location": {
+      "lat": 1.3725812,
+      "lng": 103.8362403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373841880291502,
+        "lng": 103.8375603802915
+      },
+      "southwest": {
+        "lat": 1.371143919708498,
+        "lng": 103.8348624197085
+      }
+    }
+  },
+  "name": "The Noble Academy",
+  "place_id": "ChIJk3afqfwX2jERV2Mtv_sx6yM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "S Lee",
+      "author_url": "https://www.google.com/maps/contrib/117602393170827875732/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-8xY5V07jU1CtL_McW0RJGsdJ910d2-kIcK2dvFFhK-T-SQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Loving teachers, daily photo updates, child is well taken care of!",
+      "time": 1686556286,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2588217368168457047",
+  "user_ratings_total": 1,
+  "vicinity": "114 Ang Mo Kio Avenue 4, #01-349"
+}

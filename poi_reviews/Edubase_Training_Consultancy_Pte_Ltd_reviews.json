@@ -1,0 +1,54 @@
+{
+  "formatted_address": "1 Commonwealth Ln, #07-14, Singapore 149544",
+  "geometry": {
+    "location": {
+      "lat": 1.3044351,
+      "lng": 103.7967941
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305717780291502,
+        "lng": 103.7980842802915
+      },
+      "southwest": {
+        "lat": 1.303019819708498,
+        "lng": 103.7953863197085
+      }
+    }
+  },
+  "name": "Edubase Training Consultancy Pte Ltd",
+  "place_id": "ChIJvZ8kXREY2jERn8N5Jql9qAA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Stephanie “Foodielover” L",
+      "author_url": "https://www.google.com/maps/contrib/115869546038796528907/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOyuJJkQyB9TCZs-HfPs77yZLWTpzQMUL1QB68rLbRkuiuroFp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very well organized program, interactive and inspiring for young adults to learn with Opera performance. Highly recommended",
+      "time": 1710409045,
+      "translated": false
+    },
+    {
+      "author_name": "stephen you",
+      "author_url": "https://www.google.com/maps/contrib/115861235107972699789/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdVnWHUZM-jxfG2bj3s0nbhB3iX48jMB3vcnIChYjddsZOrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1710420642,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=47425961535849375",
+  "user_ratings_total": 2,
+  "vicinity": "1 Commonwealth Lane, #07-14, Singapore"
+}

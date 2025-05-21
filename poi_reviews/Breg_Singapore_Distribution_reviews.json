@@ -1,0 +1,30 @@
+{
+  "formatted_address": "22 Sin Ming Ln, #04-81 ingdesigners, Singapore 328805",
+  "geometry": {
+    "location": {
+      "lat": 1.358564,
+      "lng": 103.833558
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359735130291502,
+        "lng": 103.8346584802915
+      },
+      "southwest": {
+        "lat": 1.357037169708498,
+        "lng": 103.8319605197085
+      }
+    }
+  },
+  "name": "Breg Singapore Distribution",
+  "place_id": "ChIJp_mx9iUX2jERt_kGAf8bgk8",
+  "types": [
+    "hospital",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5729172458016537015",
+  "vicinity": "22 Sin Ming Lane, #04-81 ingdesigners"
+}

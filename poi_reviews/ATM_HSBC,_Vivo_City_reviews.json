@@ -1,0 +1,57 @@
+{
+  "formatted_address": "1 HarbourFront Walk, #01-K12 VivoCity, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2641959,
+      "lng": 103.8224436
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265470830291502,
+        "lng": 103.82323095
+      },
+      "southwest": {
+        "lat": 1.262772869708498,
+        "lng": 103.82011035
+      }
+    }
+  },
+  "name": "ATM HSBC, Vivo City",
+  "place_id": "ChIJVVVVvlgZ2jER7TOouJPUHZE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Al",
+      "author_url": "https://www.google.com/maps/contrib/109991606774267629339/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJi-a6SehN5fTxq2hsh-ktE1yBMO_0K3vZF3bV_twQecUh9tQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Doesn't exist",
+      "time": 1704091729,
+      "translated": false
+    },
+    {
+      "author_name": "v starfighter",
+      "author_url": "https://www.google.com/maps/contrib/114827795411906954300/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjM066W4e-RKRJ4vhrrkknrUd3pNo85-LXDwT5x36n5iJseNY_=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Wrong location. Here are Maybank and UOB ATMs",
+      "time": 1707055231,
+      "translated": true
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10456747640747471853",
+  "user_ratings_total": 2,
+  "vicinity": "1 HarbourFront Walk, #01-K12 VivoCity"
+}

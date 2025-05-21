@@ -1,0 +1,28 @@
+{
+  "formatted_address": "70 Tuas South Ave 1, Singapore 637285",
+  "geometry": {
+    "location": {
+      "lat": 1.3138347,
+      "lng": 103.6257448
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315101030291502,
+        "lng": 103.6270639802915
+      },
+      "southwest": {
+        "lat": 1.312403069708498,
+        "lng": 103.6243660197085
+      }
+    }
+  },
+  "name": "Ninja",
+  "place_id": "ChIJR0S-bbkH2jERJ010MpwFqVM",
+  "types": [
+    "parking",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6028355744631639335",
+  "vicinity": "70 Tuas South Avenue 1, Singapore"
+}

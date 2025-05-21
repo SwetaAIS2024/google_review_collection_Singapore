@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2987998,
+      "lng": 103.8567674
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300066130291502,
+        "lng": 103.8580243302915
+      },
+      "southwest": {
+        "lat": 1.297368169708498,
+        "lng": 103.8553263697085
+      }
+    }
+  },
+  "name": "Singapore Bugis",
+  "place_id": "ChIJVfCBBrAZ2jERgV-v4rEQAnA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8071031838399750017",
+  "vicinity": "Singapore"
+}

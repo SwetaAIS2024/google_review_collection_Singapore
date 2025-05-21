@@ -1,0 +1,45 @@
+{
+  "formatted_address": "261 Punggol Wy, #01-01, Singapore 820261",
+  "geometry": {
+    "location": {
+      "lat": 1.4054949,
+      "lng": 103.8968901
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406911430291502,
+        "lng": 103.8983395802915
+      },
+      "southwest": {
+        "lat": 1.404213469708498,
+        "lng": 103.8956416197085
+      }
+    }
+  },
+  "name": "Shi Fu Seafood",
+  "place_id": "ChIJzf42SAAV2jERnT6-Ae4NyEg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "The curry pork rice was delicious—a dish I would definitely order again",
+      "time": 1739712887,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5244457081955565213",
+  "user_ratings_total": 1,
+  "vicinity": "261 Punggol Way, #01-01, Singapore"
+}

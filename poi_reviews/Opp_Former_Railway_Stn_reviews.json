@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2723474,
+      "lng": 103.8385736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273723180291502,
+        "lng": 103.8399195302915
+      },
+      "southwest": {
+        "lat": 1.271025219708498,
+        "lng": 103.8372215697085
+      }
+    }
+  },
+  "name": "Opp Former Railway Stn",
+  "place_id": "ChIJbRcthGkZ2jERKRrtu14JRFI",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Muniyakkannu",
+      "author_url": "https://www.google.com/maps/contrib/105425347217812065193/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw-08BcIvAFFMprpKncFnsL74S2WNbAvOzyb_I7cGZ4UgD-FxF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "It's bus stop",
+      "time": 1713061868,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Koh",
+      "author_url": "https://www.google.com/maps/contrib/102937220149542240874/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEKnx-9BfiZdkJ8b0Yg-9gb9DqjCcYqwLGJmjua_iVjudOthk0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562287182,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5927873312010869289",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Commonwealth Cres, #02-256 Block 109, Singapore 140109",
+  "geometry": {
+    "location": {
+      "lat": 1.307267,
+      "lng": 103.7991886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308542430291502,
+        "lng": 103.8005018302915
+      },
+      "southwest": {
+        "lat": 1.305844469708498,
+        "lng": 103.7978038697085
+      }
+    }
+  },
+  "name": "iswimsmile",
+  "place_id": "ChIJzwwl7j8a2jERYsNe--E5I1M",
+  "types": [
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5990695572080608098",
+  "vicinity": "Commonwealth Crescent, #02-256 Block 109"
+}

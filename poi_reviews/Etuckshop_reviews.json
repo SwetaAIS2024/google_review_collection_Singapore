@@ -1,0 +1,29 @@
+{
+  "formatted_address": "200 Commonwealth Ave W, Singapore 138677",
+  "geometry": {
+    "location": {
+      "lat": 1.311318,
+      "lng": 103.778798
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312854580291502,
+        "lng": 103.7800169802915
+      },
+      "southwest": {
+        "lat": 1.310156619708498,
+        "lng": 103.7773190197085
+      }
+    }
+  },
+  "name": "Etuckshop",
+  "place_id": "ChIJfZE_DmEa2jERg_lHnpo9GYU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9590764615751956867",
+  "vicinity": "200 Commonwealth Avenue West"
+}

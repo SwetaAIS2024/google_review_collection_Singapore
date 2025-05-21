@@ -1,0 +1,53 @@
+{
+  "formatted_address": "17 Swan Lake Ave, Singapore 455712",
+  "geometry": {
+    "location": {
+      "lat": 1.3212946,
+      "lng": 103.9241088
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322490730291502,
+        "lng": 103.9255611302915
+      },
+      "southwest": {
+        "lat": 1.319792769708498,
+        "lng": 103.9228631697085
+      }
+    }
+  },
+  "name": "Fumiko Enterprise",
+  "place_id": "ChIJ60IJdq4i2jERHESp1UUTxf0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Raha Mat",
+      "author_url": "https://www.google.com/maps/contrib/107056274065731345333/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu1EVrZj_rhZts4w1dexV7tiCMLm27K84tlSlBukr1GTFSOh91=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583718987,
+      "translated": false
+    },
+    {
+      "author_name": "Lennel Leong",
+      "author_url": "https://www.google.com/maps/contrib/111572474602300906917/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiRM0IHuZlBYsz1FEV5jz___XcHxwZNFzAe0AhjgbmkX48OJL0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1549347545,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18286043052666078236",
+  "user_ratings_total": 2,
+  "vicinity": "17 Swan Lake Avenue, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "14-18 E Coast Rd, Singapore 428741",
+  "geometry": {
+    "location": {
+      "lat": 1.3040887,
+      "lng": 103.9024439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305489880291502,
+        "lng": 103.9038551302915
+      },
+      "southwest": {
+        "lat": 1.302791919708498,
+        "lng": 103.9011571697085
+      }
+    }
+  },
+  "name": "RHB ATM - Katong eLobby",
+  "place_id": "ChIJaQ59i20Y2jERHjN_ynCPTyY",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2760582811197846302",
+  "vicinity": "14-18 East Coast Road"
+}

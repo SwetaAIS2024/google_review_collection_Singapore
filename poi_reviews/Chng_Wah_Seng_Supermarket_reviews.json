@@ -1,0 +1,58 @@
+{
+  "formatted_address": "309 Hougang Ave 5, #01-291 Block 309, Singapore 530309",
+  "geometry": {
+    "location": {
+      "lat": 1.3661857,
+      "lng": 103.8949604
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367430630291502,
+        "lng": 103.8964632302915
+      },
+      "southwest": {
+        "lat": 1.364732669708498,
+        "lng": 103.8937652697085
+      }
+    }
+  },
+  "name": "Chng Wah Seng Supermarket",
+  "place_id": "ChIJw_833JgX2jERejRYXstcm0w",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Christina C",
+      "author_url": "https://www.google.com/maps/contrib/111197912549423763676/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5hRlGvZYrPK_6e_Zw4owV1tGA4JM7BFhjRnem0jwjcF667w=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Beware! Hidden admin cost for using paynow payment. I reminded the stall owner to put up an info informing customer if this is legit. The stall owner had very bad attitude, informing me too late, payment already made.",
+      "time": 1706332069,
+      "translated": false
+    },
+    {
+      "author_name": "Bernise",
+      "author_url": "https://www.google.com/maps/contrib/102601920226056341687/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLviyRD9hhbxSMX5XtuU4Jp_LWg1Rp4G2XlRsizll7pwNPsvP4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "As not carrying enough cash with me, I opt to pay by nets and the lady cashier with glasses said there will be a surcharge of 30 cents more for using Nets Payment",
+      "time": 1626079289,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5520107796803630202",
+  "user_ratings_total": 2,
+  "vicinity": "309 Hougang Avenue 5, #01-291 Block 309, Singapore"
+}

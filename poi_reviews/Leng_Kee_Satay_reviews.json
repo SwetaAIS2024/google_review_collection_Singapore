@@ -1,0 +1,44 @@
+{
+  "formatted_address": "2A Jln Seh Chuan, #01-022, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340785,
+      "lng": 103.7743781
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342091080291502,
+        "lng": 103.7758007302915
+      },
+      "southwest": {
+        "lat": 1.339393119708498,
+        "lng": 103.7731027697085
+      }
+    }
+  },
+  "name": "Leng Kee Satay",
+  "place_id": "ChIJ2SOjYgAR2jERzIylga8roMI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "raymond wan",
+      "author_url": "https://www.google.com/maps/contrib/115266226849914952359/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUCVe76a0VLFoenFE3LN0P2roBBheGWLEVlscar6Hoju02ceVS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746339026,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14024257272426106060",
+  "user_ratings_total": 1,
+  "vicinity": "2A Jalan Seh Chuan, #01-022"
+}

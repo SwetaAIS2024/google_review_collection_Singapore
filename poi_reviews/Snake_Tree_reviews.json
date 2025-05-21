@@ -1,0 +1,66 @@
+{
+  "formatted_address": "东陵 Singapore Botanic Gardens, on Lawn, B along Main Gate Road, Singapore 259569",
+  "geometry": {
+    "location": {
+      "lat": 1.3071585,
+      "lng": 103.8171642
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308433330291502,
+        "lng": 103.81959585
+      },
+      "southwest": {
+        "lat": 1.305735369708498,
+        "lng": 103.81635365
+      }
+    }
+  },
+  "name": "Snake Tree",
+  "place_id": "ChIJn2hbOHsb2jERiQvHx670a_o",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Alexander Wagner",
+      "author_url": "https://www.google.com/maps/contrib/112339793651995553410/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDwkcdJB6Xj1p4FYifeeP3UVEATyMdV0zMsOZtRih_RQR8FqPCJg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A fascinating tree, if you look carefully you can spot the snake-like pods after which the tree is named. I have not yet seen it flowering.",
+      "time": 1693369851,
+      "translated": false
+    },
+    {
+      "author_name": "qz w",
+      "author_url": "https://www.google.com/maps/contrib/118110774832257595159/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGy5e0aPPs1TfEsEunXrpWKqPuqUUPY-ZhseJIc2rCw0FCog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "interesting",
+      "time": 1720442318,
+      "translated": true
+    },
+    {
+      "author_name": "Brian Manley",
+      "author_url": "https://www.google.com/maps/contrib/109382977628499828904/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZeeoWzJLJDJna4BOm1m76ddcxXoguZzK6W0CPjBdaFJRswPitAg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1676113980,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18044785363503221641",
+  "user_ratings_total": 3,
+  "vicinity": "东陵 Singapore Botanic Gardens, on Lawn, B along Main Gate Road"
+}

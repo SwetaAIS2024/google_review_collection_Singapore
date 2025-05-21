@@ -1,0 +1,42 @@
+{
+  "formatted_address": "9 Hamilton Rd, Singapore 209180",
+  "geometry": {
+    "location": {
+      "lat": 1.3113628,
+      "lng": 103.8607724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312664830291502,
+        "lng": 103.8621540802915
+      },
+      "southwest": {
+        "lat": 1.309966869708498,
+        "lng": 103.8594561197085
+      }
+    }
+  },
+  "name": "Sleep Delight",
+  "place_id": "ChIJN4RwFckZ2jERmSffYms_PGs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "gilang afrilianto",
+      "author_url": "https://www.google.com/maps/contrib/116105097874221889070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCBUZmGdubF55AYUCrDkP-re0lVkQqARViLn3FneRyRUV8Jg2U=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561010695,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7727120791113770905",
+  "user_ratings_total": 1,
+  "vicinity": "9 Hamilton Road, Singapore"
+}

@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2861221,
+      "lng": 103.8024728
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287438630291502,
+        "lng": 103.8038873302915
+      },
+      "southwest": {
+        "lat": 1.284740669708498,
+        "lng": 103.8011893697085
+      }
+    }
+  },
+  "name": "Alexandra Hosp",
+  "place_id": "ChIJa4Yfv8sb2jERYF2fpo8H_Fc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Not the best bus stops around, but it's as good as it can be, given natural constraints. As the primary public bus stop outside a hospital, I feel that they've done what they could to install a lift for the overhead bridge, sheltered walkway all through to what's possible, and having a clean bus stop, where people would transit buses to different parts of the island subsequently.\n\nWhat's unfortunate is that it's still not fully weather proof, but it is what it is.",
+      "time": 1673058222,
+      "translated": false
+    },
+    {
+      "author_name": "Adi Dirmawan",
+      "author_url": "https://www.google.com/maps/contrib/105759445197657211009/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL85dLnjVFpbhrQNVCc1ssYX8N8abmeo_VSt10I5ZKD7Rrxow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "okay",
+      "time": 1516377428,
+      "translated": true
+    },
+    {
+      "author_name": "Zheng Xiang Teo",
+      "author_url": "https://www.google.com/maps/contrib/116470499114952864818/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvuzSe0HS4f5tGJSRQXE9Ndbf29_FhtK_S9KfKioDRjXQ-6SRO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672069152,
+      "translated": false
+    },
+    {
+      "author_name": "Sabrina Rosli",
+      "author_url": "https://www.google.com/maps/contrib/108113039558270349239/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAQu1FOK-RbNKUofK0a_rYiXgDUCP-gfKAnpqryJ6h4R0gz55nKA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1646541060,
+      "translated": false
+    },
+    {
+      "author_name": "Rodrigues Osborne Adrian",
+      "author_url": "https://www.google.com/maps/contrib/113673727059114525360/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsDISwL3DCXvmVLprbYAjX5t9ctlIJWBEmADkQeshOTVnp_w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1633776990,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6339950688987995488",
+  "user_ratings_total": 8,
+  "vicinity": "Singapore"
+}

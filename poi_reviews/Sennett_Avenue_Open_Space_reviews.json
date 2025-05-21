@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Sennett Ave., Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3188515,
+      "lng": 103.9394244
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320259130291502,
+        "lng": 103.9407351802915
+      },
+      "southwest": {
+        "lat": 1.317561169708498,
+        "lng": 103.9380372197085
+      }
+    }
+  },
+  "name": "Sennett Avenue Open Space",
+  "place_id": "ChIJm7Ev2hAj2jERGH0TRwQ20wY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jay Garbin",
+      "author_url": "https://www.google.com/maps/contrib/112511750662938508080/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVElH1knzUEN-SAje7zVV7uQ02nrPmNVZtN2RXpprYuLBTqMmTe=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1681814554,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=491796176313744664",
+  "user_ratings_total": 1,
+  "vicinity": "Sennett Avenue"
+}

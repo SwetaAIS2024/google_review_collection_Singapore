@@ -1,0 +1,30 @@
+{
+  "formatted_address": "162 Bukit Merah Central, Singapore 150162",
+  "geometry": {
+    "location": {
+      "lat": 1.2838745,
+      "lng": 103.817427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285316230291502,
+        "lng": 103.8188886302915
+      },
+      "southwest": {
+        "lat": 1.282618269708498,
+        "lng": 103.8161906697085
+      }
+    }
+  },
+  "name": "Longlife Medical Hall",
+  "place_id": "ChIJtUSUo9Yb2jERJD64gHGCGvU",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17661572312689294884",
+  "vicinity": "162 Bukit Merah Central"
+}

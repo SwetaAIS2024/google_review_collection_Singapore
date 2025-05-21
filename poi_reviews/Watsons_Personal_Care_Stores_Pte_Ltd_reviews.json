@@ -1,0 +1,30 @@
+{
+  "formatted_address": "80 Anson Rd, Singapore 079907",
+  "geometry": {
+    "location": {
+      "lat": 1.2732639,
+      "lng": 103.8435922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.274739480291502,
+        "lng": 103.8448098302915
+      },
+      "southwest": {
+        "lat": 1.272041519708498,
+        "lng": 103.8421118697085
+      }
+    }
+  },
+  "name": "Watson's Personal Care Stores Pte Ltd",
+  "place_id": "ChIJ2QYwI2sZ2jER6w9M7LttjX0",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9047007880347914219",
+  "vicinity": "80 Anson Road, Singapore"
+}

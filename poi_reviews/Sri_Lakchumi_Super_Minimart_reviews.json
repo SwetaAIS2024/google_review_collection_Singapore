@@ -1,0 +1,46 @@
+{
+  "formatted_address": "304 Orchard Rd, Lucky Plaza, Singapore 238863",
+  "geometry": {
+    "location": {
+      "lat": 1.3045057,
+      "lng": 103.8342552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305928130291502,
+        "lng": 103.8356833802915
+      },
+      "southwest": {
+        "lat": 1.303230169708498,
+        "lng": 103.8329854197085
+      }
+    }
+  },
+  "name": "Sri Lakchumi Super Minimart",
+  "place_id": "ChIJHXFAbZIZ2jER-DDh5j3Dtvw",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "HTJ JP (HTJJP)",
+      "author_url": "https://www.google.com/maps/contrib/114739530912741912914/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImzaq2Pn3Be00Zk4gvMu0DkmWh6LdB_qiIvWHrNyM1ImRt=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "Located in the food court on the first basement floor",
+      "time": 1732273517,
+      "translated": true
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18209956813953118456",
+  "user_ratings_total": 1,
+  "vicinity": "304 Orchard Road, Lucky Plaza"
+}

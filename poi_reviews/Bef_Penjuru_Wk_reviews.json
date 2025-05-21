@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317915,
+      "lng": 103.735901
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319259630291502,
+        "lng": 103.7372080802915
+      },
+      "southwest": {
+        "lat": 1.316561669708498,
+        "lng": 103.7345101197085
+      }
+    }
+  },
+  "name": "Bef Penjuru Wk",
+  "place_id": "ChIJd8tgHq4a2jERU8Hir8EbClc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Riad Hossen[Akash]",
+      "author_url": "https://www.google.com/maps/contrib/111081923274991642407/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdIteiVLtdiv55V_55q6ELcB8h8QSIeyvDgJUvGwgBiaHS2GFGDQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672819219,
+      "translated": false
+    },
+    {
+      "author_name": "vasu palacholla",
+      "author_url": "https://www.google.com/maps/contrib/111580693615608678460/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtLcGI14wqi_CxhyHO1sbYiWcV4dsigCEsvMn6YpBzuV19og=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1496541692,
+      "translated": false
+    },
+    {
+      "author_name": "Arman Roki",
+      "author_url": "https://www.google.com/maps/contrib/105997552728755401465/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGLx6d9-SG4qP0c3PoEtKCsv6rYfDaXLrtT5zA9PVUB8Z1lufU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483350874,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6271855949760348499",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

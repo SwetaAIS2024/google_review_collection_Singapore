@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Potong Pasir Ave 1, Block 115, Singapore 350115",
+  "geometry": {
+    "location": {
+      "lat": 1.3357998,
+      "lng": 103.8641309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337184530291502,
+        "lng": 103.8654635802915
+      },
+      "southwest": {
+        "lat": 1.334486569708498,
+        "lng": 103.8627656197085
+      }
+    }
+  },
+  "name": "Kallang Park Connector (Potong Pasir)",
+  "place_id": "ChIJE2kO2w8X2jERT98nRk0MGYE",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Ming",
+      "author_url": "https://www.google.com/maps/contrib/109226628464118431877/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWHRYf7Zu9EWPn3SlPV5wUb8cACsHb2FsYqoWRxGnfZhw887rc=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Nice place to run. Not crowded.",
+      "time": 1709866292,
+      "translated": false
+    },
+    {
+      "author_name": "K H",
+      "author_url": "https://www.google.com/maps/contrib/113504014135738934455/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhHA-gSZxG53RzXbKmZ8GScJcpW6O-yK9-epr2IsFiSOyNE3s0oQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good to walk here.. Less crowded and less raiders",
+      "time": 1696995295,
+      "translated": false
+    },
+    {
+      "author_name": "Kathir bsa",
+      "author_url": "https://www.google.com/maps/contrib/102722557317456804131/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyEIQ6_iEUgNkwOXkQDXY6IdqZm7k6PQ0hnmq1sssUY9lBP5nq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729491660,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9302480031339503439",
+  "user_ratings_total": 3,
+  "vicinity": "Potong Pasir Avenue 1, Block 115"
+}

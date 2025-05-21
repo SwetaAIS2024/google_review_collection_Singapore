@@ -1,0 +1,28 @@
+{
+  "formatted_address": "W Coast Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3030372,
+      "lng": 103.7669487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304267580291502,
+        "lng": 103.7686264802915
+      },
+      "southwest": {
+        "lat": 1.301569619708498,
+        "lng": 103.7659285197085
+      }
+    }
+  },
+  "name": "Green Hub @ Clementi Woods Park",
+  "place_id": "ChIJJXNlQAAb2jERKe_f0TNWcnc",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8607036618422873897",
+  "vicinity": "West Coast Road"
+}

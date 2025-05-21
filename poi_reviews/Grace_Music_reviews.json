@@ -1,0 +1,28 @@
+{
+  "formatted_address": "7 Haig Rd, Block 7, Singapore 430007",
+  "geometry": {
+    "location": {
+      "lat": 1.3137754,
+      "lng": 103.8968595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315091030291502,
+        "lng": 103.8980945302915
+      },
+      "southwest": {
+        "lat": 1.312393069708498,
+        "lng": 103.8953965697085
+      }
+    }
+  },
+  "name": "Grace Music",
+  "place_id": "ChIJwW8y3pEZ2jERpXApXmo8kDs",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4291996872428056741",
+  "vicinity": "7 Haig Road, Block 7"
+}

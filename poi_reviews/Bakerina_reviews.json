@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Thong Soon Green, Singapore 787335",
+  "geometry": {
+    "location": {
+      "lat": 1.3989077,
+      "lng": 103.8195499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400266230291502,
+        "lng": 103.8208813302915
+      },
+      "southwest": {
+        "lat": 1.397568269708498,
+        "lng": 103.8181833697085
+      }
+    }
+  },
+  "name": "Bakerina",
+  "place_id": "ChIJcV7t2k4R2jERHv8BQaGfUP0",
+  "types": [
+    "bakery",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18253264804661821214",
+  "vicinity": "Thong Soon Green"
+}

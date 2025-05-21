@@ -1,0 +1,79 @@
+{
+  "formatted_address": "321 South Bridge Rd, Singapore 058841",
+  "geometry": {
+    "location": {
+      "lat": 1.2805148,
+      "lng": 103.8443805
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281933380291502,
+        "lng": 103.8457149802915
+      },
+      "southwest": {
+        "lat": 1.279235419708498,
+        "lng": 103.8430170197085
+      }
+    }
+  },
+  "name": "Atm posb",
+  "place_id": "ChIJQ6vreQAZ2jERUiGDeu9_8Qk",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Cameron Wong",
+      "author_url": "https://www.google.com/maps/contrib/117241231451159664978/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1OYk16d3i_sTOZYARwrzXXDs9qfNcaN577cYohZaxal00mlRPgA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "used atm, went to payment page and it declared a $5 SGD usage fee. Pretty sure I clicked the “cancel” button on the screen and then it proceeded to charge me 😡 make sure to physically hit the cancel button on the keyboard if you want to back out",
+      "time": 1747306340,
+      "translated": false
+    },
+    {
+      "author_name": "Markus Szasz",
+      "author_url": "https://www.google.com/maps/contrib/106382716494282770755/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ08S7ZZFYpLFO711IYB2lRWWS3G_MWz4I2mbeFut71u0faDu8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Scam. It didn’t show me any fees but added 5$ to the balance on my European card",
+      "time": 1741440582,
+      "translated": false
+    },
+    {
+      "author_name": "Bart",
+      "author_url": "https://www.google.com/maps/contrib/108971578921574978844/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm917lzGj4kHedEQtHs55kst5gnVxxRRiLABDT4CxH_3pO4pHK=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Works",
+      "time": 1740963094,
+      "translated": false
+    },
+    {
+      "author_name": "James Grugett",
+      "author_url": "https://www.google.com/maps/contrib/101917777940479769043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS4pPX9f3jiqFeaQki97VyH9Ft4TXYjnQcA6G819OyouN44qKTpg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "",
+      "time": 1745711824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=716494482257944914",
+  "user_ratings_total": 4,
+  "vicinity": "321 South Bridge Road, Singapore"
+}

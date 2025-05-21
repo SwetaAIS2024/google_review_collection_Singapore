@@ -1,0 +1,63 @@
+{
+  "formatted_address": "312 Bukit Batok Street 32, Singapore 650312",
+  "geometry": {
+    "location": {
+      "lat": 1.3599236,
+      "lng": 103.74755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361345380291502,
+        "lng": 103.7489035302915
+      },
+      "southwest": {
+        "lat": 1.358647419708498,
+        "lng": 103.7462055697085
+      }
+    }
+  },
+  "name": "Block 312 HDB Bukit Batok",
+  "place_id": "ChIJ8weFoDYQ2jERBnUXQciy_8Y",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Adzlee Baharin",
+      "author_url": "https://www.google.com/maps/contrib/116024740461316699634/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjRXYeogpgNPyL30NSwcFNMx57Bg6nlskD1lLs4QyVKa3dzxOo-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Tribecar",
+      "time": 1697521818,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Tan",
+      "author_url": "https://www.google.com/maps/contrib/110483545756664125763/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWi5O3mqQheyY87rZzVfs1gt85i1i26IYx_saveDRDGj0DxlF7I=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656072718,
+      "translated": false
+    },
+    {
+      "author_name": "Rayshan Raymond Kumar",
+      "author_url": "https://www.google.com/maps/contrib/108363293341220327526/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILXuHjsUS5vebl8PyThaG6tI5Pvbsbtg6jaA73-FGhtDwXJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1458302072,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14339376311726208262",
+  "user_ratings_total": 3,
+  "vicinity": "312 Bukit Batok Street 32, Singapore"
+}

@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Harbour Dr, Singapore 117612",
+  "geometry": {
+    "location": {
+      "lat": 1.28309,
+      "lng": 103.7795021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284506730291502,
+        "lng": 103.7808452802915
+      },
+      "southwest": {
+        "lat": 1.281808769708498,
+        "lng": 103.7781473197085
+      }
+    }
+  },
+  "name": "Hotbake 24/7 - Sandwich Vending Machine",
+  "place_id": "ChIJLzOvfz4b2jERl6GJ9GxJBnA",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Shawn Ng",
+      "author_url": "https://www.google.com/maps/contrib/108592390994891233782/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXru4uBImQCrp8DWASw6qK3allx4fyy090jmEgmg9peXW6wKAOl=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "Limited choices, sandwich is cold even after vending.\nDidn’t check expiry date. Same day expiry. Paper stick to the sandwich.",
+      "time": 1737684760,
+      "translated": false
+    },
+    {
+      "author_name": "Owen Yin",
+      "author_url": "https://www.google.com/maps/contrib/111195597671666916121/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaQaF_yTOXV9Q5556r_OKTKhvKXc0Z0Ptds9oqPkbW9sKm5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744027567,
+      "translated": false
+    },
+    {
+      "author_name": "William Quah",
+      "author_url": "https://www.google.com/maps/contrib/103695154909307406301/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxSrzDX7vl2PRqCZ4F6B2HmVwDNiRu0UxxTLPMLpaODJ1lKQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723702859,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8072220114416148887",
+  "user_ratings_total": 3,
+  "vicinity": "Harbour Drive"
+}

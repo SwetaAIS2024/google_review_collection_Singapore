@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.353099,
+      "lng": 103.834335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354430480291502,
+        "lng": 103.8356691802915
+      },
+      "southwest": {
+        "lat": 1.351732519708498,
+        "lng": 103.8329712197085
+      }
+    }
+  },
+  "name": "Bef Thomson Ridge",
+  "place_id": "ChIJQ1NckjoX2jERQFbqdXqhmos",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "Clean, modern design, and great that they even have a board telling you real time bus waiting times.\n\nThat said, as much as this bus stop is sheltered, including the walkways on both sides of the bus stop, it only shelters you from the sun. When it rains, even the slightest bit, will get you wet.\n\nUnfortunately given the way the shop houses along this road is built, there's no better solution that I think will make sense; as long as you're prepared, you're fine.",
+      "time": 1734768376,
+      "translated": false
+    },
+    {
+      "author_name": "Stefan A.",
+      "author_url": "https://www.google.com/maps/contrib/108431833124252753918/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP3iX03ov7zNOs0MdNBfuT5li5BTEfbsKG4PBxBa0BD8KSJBdk=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1505835465,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10059530265021797952",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

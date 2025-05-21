@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.417858,
+      "lng": 103.754784
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419207330291502,
+        "lng": 103.7561061802915
+      },
+      "southwest": {
+        "lat": 1.416509369708498,
+        "lng": 103.7534082197085
+      }
+    }
+  },
+  "name": "Bef Jln Bumbong",
+  "place_id": "ChIJ6cXHWT4S2jERTFQSHSsV_Xk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8790205322612593740",
+  "vicinity": "Singapore"
+}

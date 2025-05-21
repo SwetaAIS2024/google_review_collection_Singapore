@@ -1,0 +1,64 @@
+{
+  "formatted_address": "231 Bain St, #02-89, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2971515,
+      "lng": 103.8536166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298536280291502,
+        "lng": 103.8550589802915
+      },
+      "southwest": {
+        "lat": 1.295838319708498,
+        "lng": 103.8523610197085
+      }
+    }
+  },
+  "name": "Art Gallery 3",
+  "place_id": "ChIJWSC-H6UZ2jERaLwWgcBRA5c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Phi Yen Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/115915704427386170153/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmuPqdyjtYKWsDlKrjRDt1tstwxHrTx6_wHg9lM6NYjNnSxw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "They have a good selection of snuff bottle",
+      "time": 1685436202,
+      "translated": false
+    },
+    {
+      "author_name": "petronas katamso",
+      "author_url": "https://www.google.com/maps/contrib/113204617693742429819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2yYwrBWIyw78w5ytunGFJ14eMq_r3ofdC8VEaYBgMR_NWTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747577247,
+      "translated": false
+    },
+    {
+      "author_name": "SimonasWiz",
+      "author_url": "https://www.google.com/maps/contrib/107644241628769461676/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV--HRbjMrs5VKyuSuyrosfopnDyGxRGYtSyDCsRDodl0f9sd9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745117607,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10881631011898571880",
+  "user_ratings_total": 3,
+  "vicinity": "231 Bain Street, #02-89"
+}

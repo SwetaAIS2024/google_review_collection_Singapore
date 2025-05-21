@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Play Pavilion, 104 Yuan Ching Rd, Lake Gardens, Singapore 618665",
+  "geometry": {
+    "location": {
+      "lat": 1.339035,
+      "lng": 103.7246886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340334730291502,
+        "lng": 103.7259981802915
+      },
+      "southwest": {
+        "lat": 1.337636769708498,
+        "lng": 103.7233002197085
+      }
+    }
+  },
+  "name": "Chef-in-Box Vendcafé @ Jurong Lake Garden",
+  "place_id": "ChIJ83Q2ZpwP2jEROmA64yOhAtA",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Dishon Kuok",
+      "author_url": "https://www.google.com/maps/contrib/102749453173188031668/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpkx7qVtcW2wvx_t8mEA3MGb57ur9LeEvtnya5zTzv0uJQSiKp=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Does not dispense at all after making payment",
+      "time": 1741240481,
+      "translated": false
+    },
+    {
+      "author_name": "Yu Hong Png",
+      "author_url": "https://www.google.com/maps/contrib/100567069976267323819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJyyzK3P2-QPtOIWhlt08peWr-gxouTlFu9AatcUfFiif44LHK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1699427718,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14988719685350613050",
+  "user_ratings_total": 2,
+  "vicinity": "Play Pavilion, 104 Yuan Ching Road, Lake Gardens"
+}

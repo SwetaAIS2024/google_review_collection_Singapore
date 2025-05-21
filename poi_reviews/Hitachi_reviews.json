@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3210687,
+      "lng": 103.6962915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322420330291502,
+        "lng": 103.6975895802915
+      },
+      "southwest": {
+        "lat": 1.319722369708498,
+        "lng": 103.6948916197085
+      }
+    }
+  },
+  "name": "Hitachi",
+  "place_id": "ChIJZ_O78GQF2jER-8-L6xqN0aU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "thurai raj",
+      "author_url": "https://www.google.com/maps/contrib/103372213467512339496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYxd-TjNzK7usMaK4kTijrpPO22WZxM_U9AzgHbeZDOn9fERY6MA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Thanks big help in finding obscure location",
+      "time": 1484183312,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11948486433151111163",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

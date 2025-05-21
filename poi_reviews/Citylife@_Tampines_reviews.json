@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.360247,
+      "lng": 103.940636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361078780291502,
+        "lng": 103.9421829802915
+      },
+      "southwest": {
+        "lat": 1.358380819708498,
+        "lng": 103.9394850197085
+      }
+    }
+  },
+  "name": "Citylife@ Tampines",
+  "place_id": "ChIJqWOsoAs92jERrEM6iNwgHnI",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "arabica",
+      "author_url": "https://www.google.com/maps/contrib/107724845602238089294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwA_qCVUnuYFD3rIuqu2muAFrkJKE5OdJ-DUFzUliXFT_Spcw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "My friend whom moved there not long ago very dissatisfied with the management and MCST council. Inefficient,  inflexible and unreasonable.\nThere is little to none community spirit.\nHigh number of tenants.\nRubbish issue, carpark issue, noise issue, security issue etc.\nDistance away and unsheltered from public transport.\nThey regretted their decision moving there.",
+      "time": 1707570130,
+      "translated": false
+    },
+    {
+      "author_name": "ScTan",
+      "author_url": "https://www.google.com/maps/contrib/113112747558339461801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0pm_sSTMm_6qolRP3-HGID_cFUIE8eLM2jA8dH0E6ImgkKb_okw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Google map guide me to side gate, not the main entrance. 🤔 😅 🙄",
+      "time": 1571322720,
+      "translated": false
+    },
+    {
+      "author_name": "EF",
+      "author_url": "https://www.google.com/maps/contrib/106539867249016694391/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKozMrmxIopLeTYeJcEjDJPxzU-gbDsvkGpocd9IdZ4uqTjLg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645524629,
+      "translated": false
+    },
+    {
+      "author_name": "Marcus Lim Navis Genesis Div",
+      "author_url": "https://www.google.com/maps/contrib/115825143284533347209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3KB_iHfPfdebhEMGKMD3ANunyUOX9mfcBd-qIBh5Yia6DF4iQGQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1552532005,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8223046101175518124",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

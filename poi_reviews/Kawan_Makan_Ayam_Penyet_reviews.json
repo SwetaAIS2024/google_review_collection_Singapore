@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Pasir Ris Cl, #01-336, Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3788115,
+      "lng": 103.9550297
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380227630291502,
+        "lng": 103.9562722802915
+      },
+      "southwest": {
+        "lat": 1.377529669708498,
+        "lng": 103.9535743197085
+      }
+    }
+  },
+  "name": "Kawan Makan Ayam Penyet",
+  "place_id": "ChIJkYHGBQA92jERQ8qcetAXujA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Adrian Chua",
+      "author_url": "https://www.google.com/maps/contrib/104805418112540145105/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0GTHsNCcQCNmLOla7F3Z9YFyPTWTfhHU3LVQcVNZTHsLEm1ui=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Delicious Ayam Penyet with rice!",
+      "time": 1743927246,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3511145043666455107",
+  "user_ratings_total": 1,
+  "vicinity": "1 Pasir Ris Close, #01-336, Singapore"
+}

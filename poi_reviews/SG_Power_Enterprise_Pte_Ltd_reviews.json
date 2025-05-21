@@ -1,0 +1,28 @@
+{
+  "formatted_address": "629 Aljunied Rd, Singapore 389838",
+  "geometry": {
+    "location": {
+      "lat": 1.3255069,
+      "lng": 103.8795641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326867480291502,
+        "lng": 103.8809156802915
+      },
+      "southwest": {
+        "lat": 1.324169519708498,
+        "lng": 103.8782177197085
+      }
+    }
+  },
+  "name": "SG Power Enterprise Pte Ltd",
+  "place_id": "ChIJqQnlCSgY2jERD03QujWDFxY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1591885260089478415",
+  "vicinity": "629 Aljunied Road"
+}

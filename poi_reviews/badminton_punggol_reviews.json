@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Punggol, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3981482,
+      "lng": 103.905202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399571630291502,
+        "lng": 103.9065938802915
+      },
+      "southwest": {
+        "lat": 1.396873669708498,
+        "lng": 103.9038959197085
+      }
+    }
+  },
+  "name": "badminton punggol",
+  "place_id": "ChIJydlaf0wX2jERak62u1MV6RQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jhon Mithu",
+      "author_url": "https://www.google.com/maps/contrib/116869203098404487794/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqk7HHm8iLsEvSAJ55IIpaOquVz7f27Eq90GRAbSxD5Ytu-UN8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nice place...",
+      "time": 1691480093,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1506758999707897450",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

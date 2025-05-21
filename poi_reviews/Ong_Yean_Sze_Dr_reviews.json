@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Mount Elizabeth Novena Hospital 38, #08-33 Irrawaddy Rd, Singapore 329563",
+  "geometry": {
+    "location": {
+      "lat": 1.322236,
+      "lng": 103.8440388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323570780291502,
+        "lng": 103.8454155302915
+      },
+      "southwest": {
+        "lat": 1.320872819708498,
+        "lng": 103.8427175697085
+      }
+    }
+  },
+  "name": "Ong Yean Sze Dr",
+  "place_id": "ChIJByBqiIkZ2jERELtmYAy5aQ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Joanne Teng",
+      "author_url": "https://www.google.com/maps/contrib/102244802554045995294/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKce72cKZFY4YKS1SwvqRzPTXh6mrcce6tGCXHmn-svAeLM6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1609839611,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Goh",
+      "author_url": "https://www.google.com/maps/contrib/111831925463499368012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnP-PviSvtXB6gyZEZnC0JmkzHUQVYYh3ghvJOwiRtg1m3jlsS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736859403,
+      "translated": false
+    }
+  ],
+  "types": [
+    "dentist",
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=966507057855773456",
+  "user_ratings_total": 2,
+  "vicinity": "Mount Elizabeth Novena Hospital 38, #08-33 Irrawaddy Road"
+}

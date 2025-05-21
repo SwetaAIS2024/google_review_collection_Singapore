@@ -1,0 +1,29 @@
+{
+  "formatted_address": "628 Senja Rd, Singapore 670628",
+  "geometry": {
+    "location": {
+      "lat": 1.3852034,
+      "lng": 103.7601645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386583630291502,
+        "lng": 103.7615164302915
+      },
+      "southwest": {
+        "lat": 1.383885669708498,
+        "lng": 103.7588184697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Senja Road",
+  "place_id": "ChIJV335t1ER2jERqH72SMrOk-k",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16831023600616505000",
+  "vicinity": "628 Senja Road, Singapore"
+}

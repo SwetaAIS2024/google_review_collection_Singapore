@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4159,
+      "lng": 103.90216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417239480291502,
+        "lng": 103.9036025802915
+      },
+      "southwest": {
+        "lat": 1.414541519708498,
+        "lng": 103.9009046197085
+      }
+    }
+  },
+  "name": "Samudera",
+  "place_id": "ChIJC0MN8O0V2jERON4eEucg4wE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=135988590564793912",
+  "vicinity": "Singapore"
+}

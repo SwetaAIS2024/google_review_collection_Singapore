@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.314116,
+      "lng": 103.8936954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315506330291502,
+        "lng": 103.8950423802915
+      },
+      "southwest": {
+        "lat": 1.312808369708498,
+        "lng": 103.8923444197085
+      }
+    }
+  },
+  "name": "Opp City Plaza",
+  "place_id": "ChIJq5cfTxYY2jER3diXvjSGNW8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Petri Riikonen",
+      "author_url": "https://www.google.com/maps/contrib/112343668890188997814/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHHcFpl7x3NmCUpmOCt2qk6m5ss6mgyBhZf32MTXZPgBeI_ZCI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1511699060,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8013458673069709533",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

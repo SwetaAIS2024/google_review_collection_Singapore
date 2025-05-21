@@ -1,0 +1,30 @@
+{
+  "formatted_address": "445 Clementi Ave 3, Singapore 120445",
+  "geometry": {
+    "location": {
+      "lat": 1.3125727,
+      "lng": 103.7645504
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313794530291502,
+        "lng": 103.7657814802915
+      },
+      "southwest": {
+        "lat": 1.311096569708498,
+        "lng": 103.7630835197085
+      }
+    }
+  },
+  "name": "Spring Well Chinese Medical Hall",
+  "place_id": "ChIJp8FM8I0a2jERqKd3urL9HGs",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7718322805480597416",
+  "vicinity": "445 Clementi Avenue 3, Singapore"
+}

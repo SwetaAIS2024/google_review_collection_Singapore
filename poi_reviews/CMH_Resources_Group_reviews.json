@@ -1,0 +1,29 @@
+{
+  "formatted_address": "421 Choa Chu Kang Ave 4, #01-220 Block 421, Singapore 680421",
+  "geometry": {
+    "location": {
+      "lat": 1.381821,
+      "lng": 103.740665
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383223780291502,
+        "lng": 103.7419588302915
+      },
+      "southwest": {
+        "lat": 1.380525819708498,
+        "lng": 103.7392608697085
+      }
+    }
+  },
+  "name": "CMH Resources Group",
+  "place_id": "ChIJox4WHt0R2jER_qybswBmXcY",
+  "types": [
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14293692945543179518",
+  "vicinity": "421 Choa Chu Kang Avenue 4, #01-220 Block 421, Singapore"
+}

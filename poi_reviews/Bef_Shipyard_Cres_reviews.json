@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303808,
+      "lng": 103.68615
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305171530291502,
+        "lng": 103.6875003302915
+      },
+      "southwest": {
+        "lat": 1.302473569708498,
+        "lng": 103.6848023697085
+      }
+    }
+  },
+  "name": "Bef Shipyard Cres",
+  "place_id": "ChIJ7YLGfAkF2jER-S_VMv9wLn4",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Uma Uma",
+      "author_url": "https://www.google.com/maps/contrib/104003257569252082274/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_3d95LqlvSRjWYqxl3xtMww_-5HoyYMxahsSE3JFHjgWkDg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "11 years ago",
+      "text": "Tuas",
+      "time": 1398055010,
+      "translated": false
+    },
+    {
+      "author_name": "Jaff Abdul",
+      "author_url": "https://www.google.com/maps/contrib/116915403881904551853/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuuJ1PhcJfJwv1Z8IW_Z9PLVGFCOk3W-bAlu5u9x6bj_GiTA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484101989,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9092328939079413753",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

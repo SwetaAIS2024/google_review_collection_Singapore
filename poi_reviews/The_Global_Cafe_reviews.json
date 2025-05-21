@@ -1,0 +1,53 @@
+{
+  "formatted_address": "10 Hyderabad Rd, Singapore 119579",
+  "geometry": {
+    "location": {
+      "lat": 1.2807652,
+      "lng": 103.8016182
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281948580291502,
+        "lng": 103.8032541802915
+      },
+      "southwest": {
+        "lat": 1.279250619708498,
+        "lng": 103.8005562197085
+      }
+    }
+  },
+  "name": "The Global Cafe",
+  "place_id": "ChIJ0z7TKLUb2jERKcCkyZ-nQ2U",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "AP 93",
+      "author_url": "https://www.google.com/maps/contrib/105202094341294798657/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWipnYPrID1Pw5Am5tWJsO5AsKGBSnu1frOlxvHmymC8MvOZRuTFA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738998949,
+      "translated": false
+    },
+    {
+      "author_name": "Gautam Malani",
+      "author_url": "https://www.google.com/maps/contrib/107432522122573242882/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH-2JyAqg88IWME0Qj25Wuz0rm48Wc0JxeuKp4YDPSmLMOYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701907120,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7296860125994991657",
+  "user_ratings_total": 2,
+  "vicinity": "10 Hyderabad Road"
+}

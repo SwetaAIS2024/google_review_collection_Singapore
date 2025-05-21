@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Lornie Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3407838,
+      "lng": 103.822535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342018880291502,
+        "lng": 103.8239190302915
+      },
+      "southwest": {
+        "lat": 1.339320919708498,
+        "lng": 103.8212210697085
+      }
+    }
+  },
+  "name": "Lornie Road Nature Way",
+  "place_id": "ChIJt8lxIwAX2jERWH47-GI7ViA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ahmad Bahktiar Othman",
+      "author_url": "https://www.google.com/maps/contrib/103116116684286584773/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDUfyxy3SvFpaauUrD3x8bi75y__MurOimt_aYP0daaSDGJbVb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Exit to Lornie Rd from the old 3.5km run route",
+      "time": 1746151603,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2330115153468292696",
+  "user_ratings_total": 1,
+  "vicinity": "Lornie Road"
+}

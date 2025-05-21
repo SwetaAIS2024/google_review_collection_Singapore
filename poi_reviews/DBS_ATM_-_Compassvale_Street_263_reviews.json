@@ -1,0 +1,43 @@
+{
+  "formatted_address": "263 Compassvale St, Singapore 540263",
+  "geometry": {
+    "location": {
+      "lat": 1.3952669,
+      "lng": 103.8959572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.396637980291502,
+        "lng": 103.8972232802915
+      },
+      "southwest": {
+        "lat": 1.393940019708498,
+        "lng": 103.8945253197085
+      }
+    }
+  },
+  "name": "DBS ATM - Compassvale Street/263",
+  "place_id": "ChIJAQDQPQwW2jERQcSwpwvDqZ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Viny Suhendra",
+      "author_url": "https://www.google.com/maps/contrib/106504908266187095053/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_3fGHxmJjHtA-cqMNrOQVc2FzjO5ImlDt7SIczbJZoQfmd6_BxQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1670461490,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11360825989844223041",
+  "user_ratings_total": 1,
+  "vicinity": "263 Compassvale Street"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3343726,
+      "lng": 103.8572725
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335671430291502,
+        "lng": 103.8586204302915
+      },
+      "southwest": {
+        "lat": 1.332973469708498,
+        "lng": 103.8559224697085
+      }
+    }
+  },
+  "name": "Blk 23",
+  "place_id": "ChIJ77_gxXoX2jERxeXSV_oDq64",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Jeffrey Wong",
+      "author_url": "https://www.google.com/maps/contrib/110486540963621820440/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC4H53pmQ99-ceOsRg1OfLWUgTL8syihDAhAwWbgMYVYAFdUOHnA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Nice and accessible HDB block with a bus stop right infront of it... Behind is the popular  Lor 7 market...",
+      "time": 1641695559,
+      "translated": false
+    },
+    {
+      "author_name": "Pengcheng Yang",
+      "author_url": "https://www.google.com/maps/contrib/112295680931908228714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwp5IO0VRUlSNaLFdiWXM4CyJuKERNNxUxq2XYd979_PQOdHG1=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1701603439,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12586157957367129541",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

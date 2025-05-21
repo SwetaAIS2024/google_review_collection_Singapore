@@ -1,0 +1,28 @@
+{
+  "formatted_address": "394 Alexandra Rd, Singapore 119953",
+  "geometry": {
+    "location": {
+      "lat": 1.2790406,
+      "lng": 103.8025301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280332080291502,
+        "lng": 103.8037178802915
+      },
+      "southwest": {
+        "lat": 1.277634119708498,
+        "lng": 103.8010199197085
+      }
+    }
+  },
+  "name": "The Pod",
+  "place_id": "ChIJiTipWdwb2jER4xIZb2KxO0g",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5204948830685565667",
+  "vicinity": "394 Alexandra Road, Singapore"
+}

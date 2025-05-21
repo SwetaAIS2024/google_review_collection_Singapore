@@ -1,0 +1,54 @@
+{
+  "formatted_address": "727 Jurong West Ave 5, Singapore 640727",
+  "geometry": {
+    "location": {
+      "lat": 1.3458062,
+      "lng": 103.6975019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347077780291502,
+        "lng": 103.6988426802915
+      },
+      "southwest": {
+        "lat": 1.344379819708498,
+        "lng": 103.6961447197085
+      }
+    }
+  },
+  "name": "Ming Huat Minimart",
+  "place_id": "ChIJP9BGJpYP2jERcdC0M5hrhtg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md Fathullah",
+      "author_url": "https://www.google.com/maps/contrib/110219018640627563599/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMcuCkaV-lgHAQj-Y8-toF7VHoErLWeD7pzO9rDn4dQ4tSSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738581363,
+      "translated": false
+    },
+    {
+      "author_name": "Janet Yang",
+      "author_url": "https://www.google.com/maps/contrib/114897441208989526851/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII9nGYTeSnvTDWGmZCrBEZLN7jjOHIOQUAbViubhKwPbpEPQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1581660693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15602276260518350961",
+  "user_ratings_total": 2,
+  "vicinity": "727 Jurong West Avenue 5, Singapore"
+}

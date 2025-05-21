@@ -1,0 +1,29 @@
+{
+  "formatted_address": "20 Collyer Quay, Singapore 049319",
+  "geometry": {
+    "location": {
+      "lat": 1.2846563,
+      "lng": 103.8527104
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285975530291502,
+        "lng": 103.8541845302915
+      },
+      "southwest": {
+        "lat": 1.283277569708498,
+        "lng": 103.8514865697085
+      }
+    }
+  },
+  "name": "The Hyakugo Bank Ltd",
+  "place_id": "ChIJHceTMQkZ2jERbDF7LN8moUE",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4729103823681565036",
+  "vicinity": "20 Collyer Quay"
+}

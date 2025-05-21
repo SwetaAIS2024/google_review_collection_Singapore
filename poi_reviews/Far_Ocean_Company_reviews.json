@@ -1,0 +1,30 @@
+{
+  "formatted_address": "617 Bukit Panjang Ring Rd, Singapore 670617",
+  "geometry": {
+    "location": {
+      "lat": 1.3855749,
+      "lng": 103.7626502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386829180291502,
+        "lng": 103.7640989802915
+      },
+      "southwest": {
+        "lat": 1.384131219708498,
+        "lng": 103.7614010197085
+      }
+    }
+  },
+  "name": "Far Ocean Company",
+  "place_id": "ChIJfW47cLkR2jERyUxdkgEo8KU",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11957100997884333257",
+  "vicinity": "617 Bukit Panjang Ring Road"
+}

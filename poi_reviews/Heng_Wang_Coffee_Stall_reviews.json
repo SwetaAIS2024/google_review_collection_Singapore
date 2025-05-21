@@ -1,0 +1,46 @@
+{
+  "formatted_address": "49 Sims Pl, #01-20, Singapore 380049",
+  "geometry": {
+    "location": {
+      "lat": 1.3170535,
+      "lng": 103.8793293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318481830291502,
+        "lng": 103.8809505302915
+      },
+      "southwest": {
+        "lat": 1.315783869708498,
+        "lng": 103.8782525697085
+      }
+    }
+  },
+  "name": "Heng Wang Coffee Stall",
+  "place_id": "ChIJu5ASJAAZ2jER7Wr664o_aPM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Paul Toh",
+      "author_url": "https://www.google.com/maps/contrib/110110584107240453374/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnkejVXf-3HpzKAPopMzXBDlxG7FMjJTok-fResg6Mh5oNfyJBFA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "This is definitely One of the best coffee in Singapore!\nThe coffee uncles changes coffee bags often so that only fresh coffee is served. I’ve been here for a few times now and it’s always fresh, never sour or stale.\nUncle still sells coffee-o at $1 per cup. Used to be even cheaper but at $1 cannot complain, especially for this quality.\nBe warned - there’s always a long queue here.",
+      "time": 1721553638,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17539338614691490541",
+  "user_ratings_total": 1,
+  "vicinity": "49 Sims Place, #01-20, Singapore"
+}

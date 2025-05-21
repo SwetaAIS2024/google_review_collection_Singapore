@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Blk 153 Bukit Batok West Street 11 #01-290/292, Singapore 650153",
+  "geometry": {
+    "location": {
+      "lat": 1.34757,
+      "lng": 103.74429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348943380291502,
+        "lng": 103.7456044802915
+      },
+      "southwest": {
+        "lat": 1.346245419708498,
+        "lng": 103.7429065197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bukit Batok West Branch",
+  "place_id": "ChIJE72xvCsR2jERaz_ctIeY0wg",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Frankiè H",
+      "author_url": "https://www.google.com/maps/contrib/116138769228485312960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGpIMRLc2NyL_I9VkL8L9Wdkb8rHTTgPLaUSlhEO-nxEwm9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 years ago",
+      "text": "CNY new notes service for atm only $2 & $50 notes some more machine down....",
+      "time": 1643344363,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=636019681011711851",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 153 Bukit Batok West Street 11 #01-290/292, Singapore"
+}

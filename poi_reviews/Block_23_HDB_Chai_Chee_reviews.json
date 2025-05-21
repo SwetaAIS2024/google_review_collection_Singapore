@@ -1,0 +1,51 @@
+{
+  "formatted_address": "23 Chai Chee Rd, Singapore 461023",
+  "geometry": {
+    "location": {
+      "lat": 1.3253279,
+      "lng": 103.9225818
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326711280291502,
+        "lng": 103.9241096302915
+      },
+      "southwest": {
+        "lat": 1.324013319708498,
+        "lng": 103.9214116697085
+      }
+    }
+  },
+  "name": "Block 23 HDB Chai Chee",
+  "place_id": "ChIJRQKv26wi2jERNrsvmZTFGFM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hi Hi",
+      "author_url": "https://www.google.com/maps/contrib/111535458037198580217/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-AEM8panWuejMuvD2JgVhUjRgcVgMnod5j74YBKW93JDnjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1658551605,
+      "translated": false
+    },
+    {
+      "author_name": "ng karen",
+      "author_url": "https://www.google.com/maps/contrib/110144173863845856461/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA9qPh7LQSmtCI-_ZR_YA2yDGv0sDxeC8C9Ze5ZFXLYk4uvSs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1506177897,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5987752946604948278",
+  "user_ratings_total": 2,
+  "vicinity": "23 Chai Chee Road, Singapore"
+}

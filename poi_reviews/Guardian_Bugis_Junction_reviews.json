@@ -1,0 +1,46 @@
+{
+  "formatted_address": "200 Victoria St, B1-20/21 Bugis Junction, Singapore 188021",
+  "geometry": {
+    "location": {
+      "lat": 1.2988597,
+      "lng": 103.8555479
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300521630291502,
+        "lng": 103.8569881802915
+      },
+      "southwest": {
+        "lat": 1.297823669708498,
+        "lng": 103.8542902197085
+      }
+    }
+  },
+  "name": "Guardian Bugis Junction",
+  "place_id": "ChIJDbHZeQAZ2jERDNUf0h_wWoY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yellow Bear",
+      "author_url": "https://www.google.com/maps/contrib/104489311735261065689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJw6wU_ViJ96j0KUowLXVVtxYUueaV518tEdvuXXsBsEMiDzjh=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Always glad to see a Guardian Pharmacy. So convenient to grab the essentials I suddenly need…like Pain Relief.",
+      "time": 1744121733,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9681314368446256396",
+  "user_ratings_total": 1,
+  "vicinity": "200 Victoria Street, B1-20/21 Bugis Junction, Singapore"
+}

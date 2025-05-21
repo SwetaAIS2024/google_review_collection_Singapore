@@ -1,0 +1,41 @@
+{
+  "formatted_address": "72 Elias Rd, #05-23, Singapore 519944",
+  "geometry": {
+    "location": {
+      "lat": 1.3772428,
+      "lng": 103.9417492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378612380291502,
+        "lng": 103.9429127302915
+      },
+      "southwest": {
+        "lat": 1.375914419708498,
+        "lng": 103.9402147697085
+      }
+    }
+  },
+  "name": "Tigris Access Solutions Pte Ltd",
+  "place_id": "ChIJE6SUfQQW2jERtPPgdDwLcgA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mallesh Mengani",
+      "author_url": "https://www.google.com/maps/contrib/105005637719505947210/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU02Vea0KKF92gNFqi-OWfM4JvXS6lFhsFHJFTih-fhPXj4JtAo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683313827,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=32100501631857588",
+  "user_ratings_total": 1,
+  "vicinity": "72 Elias Road, #05-23, Singapore"
+}

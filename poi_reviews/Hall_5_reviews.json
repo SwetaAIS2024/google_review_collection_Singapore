@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34417,
+      "lng": 103.68754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345511080291502,
+        "lng": 103.6888950802915
+      },
+      "southwest": {
+        "lat": 1.342813119708498,
+        "lng": 103.6861971197085
+      }
+    }
+  },
+  "name": "Hall 5",
+  "place_id": "ChIJu1fDJZ8P2jERBoiRskmo6kQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "ko khant",
+      "author_url": "https://www.google.com/maps/contrib/107760584859674377937/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU25GZyvqm47Fbcpa2fWf6MtIPnh8UPn2v6aw1QnXOAq6DYhz4=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745234584,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4965966573611354118",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "10 Airport Blvd., #02-31 Singapore Changi Airport, Terminal 4, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3384878,
+      "lng": 103.9829399
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339857780291502,
+        "lng": 103.9842385802915
+      },
+      "southwest": {
+        "lat": 1.337159819708498,
+        "lng": 103.9815406197085
+      }
+    }
+  },
+  "name": "Michael Kors",
+  "place_id": "ChIJszxReMQ92jERXLrqrPnXnsw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Asit Rout",
+      "author_url": "https://www.google.com/maps/contrib/111873710295482135924/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSYoD-_NtkJTkZvS-gWJMcUbsEOY-xmQgbnldztwDQAZ3aog=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Exclusive Michael Kors showroom inside Changi airport. One stop shopping for Michael Kors.",
+      "time": 1710846444,
+      "translated": false
+    },
+    {
+      "author_name": "Kieu Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/101721798091507784056/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-A6Q5QkDpnRvXyPpdslKj6lq65BZG6-IunhQn5Vo2D7jZ4Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1605948866,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shoe_store",
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14744459697405475420",
+  "user_ratings_total": 2,
+  "vicinity": "10 Airport Boulevard, #02-31 Singapore Changi Airport, Terminal 4"
+}

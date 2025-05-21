@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Maritime Square, #12-05, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2641359,
+      "lng": 103.8202144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265335380291502,
+        "lng": 103.8215977302915
+      },
+      "southwest": {
+        "lat": 1.262637419708498,
+        "lng": 103.8188997697085
+      }
+    }
+  },
+  "name": "M Chair Singapore",
+  "place_id": "ChIJC2iUOxUQ2jERk48aVc75oPM",
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17555306012076576659",
+  "vicinity": "1 Maritime Square, #12-05"
+}

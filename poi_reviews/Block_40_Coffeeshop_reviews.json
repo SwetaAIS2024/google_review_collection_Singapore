@@ -1,0 +1,68 @@
+{
+  "formatted_address": "40 Margaret Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2966886,
+      "lng": 103.8064159
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298009530291502,
+        "lng": 103.8077613802915
+      },
+      "southwest": {
+        "lat": 1.295311569708498,
+        "lng": 103.8050634197085
+      }
+    }
+  },
+  "name": "Block 40 Coffeeshop",
+  "place_id": "ChIJjV4Hf-kb2jERjbLipY6qkpE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Khai Munn Sze Toh",
+      "author_url": "https://www.google.com/maps/contrib/108076527599697946915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJH6BSYsjEpkiwpQ6kEUpqkGwKMUvEZ2fGa9fiTYncpMuurow=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "Teh here is very diluted. Avoid at all cost.",
+      "time": 1745968965,
+      "translated": false
+    },
+    {
+      "author_name": "Irene Soh",
+      "author_url": "https://www.google.com/maps/contrib/111109150032234748314/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgACS49XoRaHMa-kIv5Jd-SriXI6_BMJnaTX9ocnO1nspSAA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "Kopi quality needs to be improved. Food selection not bad although the place is not well ventilated (hot air circulating)",
+      "time": 1730263049,
+      "translated": false
+    },
+    {
+      "author_name": "Loh Harry",
+      "author_url": "https://www.google.com/maps/contrib/115818309868022664750/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWi6ataCCKPlHDqy1G0v_nyA9Mo8614ZoLhrizfx3oWZypul76o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732615032,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10489634011744481933",
+  "user_ratings_total": 3,
+  "vicinity": "40 Margaret Drive"
+}

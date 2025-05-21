@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Goldhill Plaza, Singapore 308899",
+  "geometry": {
+    "location": {
+      "lat": 1.3181533,
+      "lng": 103.8428522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319267580291502,
+        "lng": 103.8442791802915
+      },
+      "southwest": {
+        "lat": 1.316569619708498,
+        "lng": 103.8415812197085
+      }
+    }
+  },
+  "name": "Moneyhub Credit Pte Ltd",
+  "place_id": "ChIJ1ROqx-cZ2jERXzGLO6XWFT8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "kalidas bharathi",
+      "author_url": "https://www.google.com/maps/contrib/115567893948248455870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsxHdkoINavBw5o5IgH3h5zbQ4SWSZy4ZB6YdC6-uSTDKVNhwY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 years ago",
+      "text": "",
+      "time": 1397627619,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4545775404057309535",
+  "user_ratings_total": 1,
+  "vicinity": "1 Goldhill Plaza"
+}

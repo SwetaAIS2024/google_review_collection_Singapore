@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3345,
+      "lng": 103.961746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335850630291502,
+        "lng": 103.9630925302915
+      },
+      "southwest": {
+        "lat": 1.333152669708498,
+        "lng": 103.9603945697085
+      }
+    }
+  },
+  "name": "Expo Stn Exit B",
+  "place_id": "ChIJ6aH47tc82jERG_0I9FVb_eM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ishwar J",
+      "author_url": "https://www.google.com/maps/contrib/105277774465541504709/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-6FPw9AytTZ7sIzKQQtA08oA2DLA-HzruwWpwr_lx1vDioA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Expo MRT station, a above-ground MRT station along East West line. The station connects to Singapore Expo, the largest convention and exhibition venue and Changi business park.",
+      "time": 1559183910,
+      "translated": false
+    },
+    {
+      "author_name": "kapila jayawardana",
+      "author_url": "https://www.google.com/maps/contrib/101827643981218591800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV54HCQ2cchWS_vkrMrNirP42A0z6IprKE9ZRa1JWJWLQCXXK8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1647487347,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16428387440442015003",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

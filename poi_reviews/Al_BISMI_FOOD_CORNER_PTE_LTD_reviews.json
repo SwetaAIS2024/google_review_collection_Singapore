@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Blk 622A Tampines Ave 12, #01-01, Singapore 521622",
+  "geometry": {
+    "location": {
+      "lat": 1.3610559,
+      "lng": 103.9401382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362523680291502,
+        "lng": 103.9414888302915
+      },
+      "southwest": {
+        "lat": 1.359825719708498,
+        "lng": 103.9387908697085
+      }
+    }
+  },
+  "name": "Al BISMI FOOD CORNER PTE LTD",
+  "place_id": "ChIJIfy-cAA92jER1PRd8pqjjJ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ashokemani Ashokemani",
+      "author_url": "https://www.google.com/maps/contrib/105419875229146131315/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfQEJmVb08_4YsU4gOdCwKvfmJEsMQdX-K1AqDWtHmphT9Qkla=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740130072,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11352628646580712660",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 622A Tampines Avenue 12, #01-01, Singapore"
+}

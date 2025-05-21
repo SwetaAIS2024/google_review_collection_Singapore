@@ -1,0 +1,54 @@
+{
+  "formatted_address": "231 Bain St, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2968733,
+      "lng": 103.8540396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298441030291502,
+        "lng": 103.8551700302915
+      },
+      "southwest": {
+        "lat": 1.295743069708498,
+        "lng": 103.8524720697085
+      }
+    }
+  },
+  "name": "San-Ee Art Gallery",
+  "place_id": "ChIJPaWdBKUZ2jERWv_xwFb77N4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "nikita sweetlove",
+      "author_url": "https://www.google.com/maps/contrib/117003461952404228428/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL6x3qKryrKqsk6NIFS4-rz5nWDdCtaNZ1b_Qa2vB5HC86-llTcw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very Nice place",
+      "time": 1668066101,
+      "translated": false
+    },
+    {
+      "author_name": "JOSEPH GERKEN-V.",
+      "author_url": "https://www.google.com/maps/contrib/101068471391609327080/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgOY-mDN_ZK2t6fzcVqxaSMW3YLtr1LyTcua76NSNrOS5dFXeF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1611484251,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16063490320946560858",
+  "user_ratings_total": 2,
+  "vicinity": "231 Bain Street, Singapore"
+}

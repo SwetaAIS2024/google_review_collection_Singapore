@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Shipyard Cres, Singapore 627842",
+  "geometry": {
+    "location": {
+      "lat": 1.3033026,
+      "lng": 103.6849157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304647930291502,
+        "lng": 103.6861280302915
+      },
+      "southwest": {
+        "lat": 1.301949969708498,
+        "lng": 103.6834300697085
+      }
+    }
+  },
+  "name": "Mei Fang Foodcourt",
+  "place_id": "ChIJC7WSFAAF2jERFEYH_JZxeDQ",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3780896780464899604",
+  "vicinity": "1 Shipyard Crescent"
+}

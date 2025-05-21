@@ -1,0 +1,43 @@
+{
+  "formatted_address": "293D Bukit Batok Street 21, #34-540, Singapore 654293",
+  "geometry": {
+    "location": {
+      "lat": 1.3451366,
+      "lng": 103.7553043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346500430291502,
+        "lng": 103.7565800302915
+      },
+      "southwest": {
+        "lat": 1.343802469708498,
+        "lng": 103.7538820697085
+      }
+    }
+  },
+  "name": "Canvas Craft",
+  "place_id": "ChIJ87_6aV4Q2jERLGsCFYAxMeE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Royce Cheng",
+      "author_url": "https://www.google.com/maps/contrib/110343865479124163451/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtZ1kaRyPlRVxxRElnckBPOx_xu-c6fPccuHRcgh1Ihj55qGLl2g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1410166699,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16226805358570662700",
+  "user_ratings_total": 1,
+  "vicinity": "293D Bukit Batok Street 21, #34-540"
+}

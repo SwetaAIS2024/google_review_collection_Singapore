@@ -1,0 +1,76 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3152792,
+      "lng": 103.8614419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316652480291502,
+        "lng": 103.8627512802915
+      },
+      "southwest": {
+        "lat": 1.313954519708498,
+        "lng": 103.8600533197085
+      }
+    }
+  },
+  "name": "Bef Lavender St",
+  "place_id": "ChIJY_kcZc4Z2jERyj20mgEIEfM",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Tatt Hoong Tatt Hoong",
+      "author_url": "https://www.google.com/maps/contrib/109058352960185360661/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxaVME6LQCKDB66QtYxBGPJuhFR9bF3G0Eo17-WqWsFRzf5w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Frequently take 13 and 133. Every morning, bus 13 is crowded. Also could use a big bigger waiting area.\n\nSeats tend to get wet during rain (which is kinda silly because it's supposed to be covered)",
+      "time": 1531403610,
+      "translated": false
+    },
+    {
+      "author_name": "Susamruad Yilak",
+      "author_url": "https://www.google.com/maps/contrib/111242060271124418359/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-5UDN2ykSG9vz-BKxZAjryrdjww-d4fCQwYeWLXFv3Df6I4P-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "👍🏻👍🏻👍🏻",
+      "time": 1503628321,
+      "translated": false
+    },
+    {
+      "author_name": "Yok Lim",
+      "author_url": "https://www.google.com/maps/contrib/109702973871563772309/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZQ6dNOp1ttZfkcahOqPOn3vAUxKuYzCVILzAR0VzbJK13qi2X=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522199394,
+      "translated": false
+    },
+    {
+      "author_name": "31101955周丁根",
+      "author_url": "https://www.google.com/maps/contrib/115423580741303398052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICbVvsyyWfOwS-PVBjhLhFVljcJqtYZcj3YWhRgIrQgU8jBQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485496752,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17514789228804062666",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

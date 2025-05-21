@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Kaki Bukit Rd 1, Singapore 415934",
+  "geometry": {
+    "location": {
+      "lat": 1.3324706,
+      "lng": 103.9025536
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333799680291502,
+        "lng": 103.9039158802915
+      },
+      "southwest": {
+        "lat": 1.331101719708498,
+        "lng": 103.9012179197085
+      }
+    }
+  },
+  "name": "口福",
+  "place_id": "ChIJU2sqZa8X2jERid9U2p-7hDI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3640240694059392905",
+  "vicinity": "1 Kaki Bukit Road 1, Singapore"
+}

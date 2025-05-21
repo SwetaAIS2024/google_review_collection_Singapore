@@ -1,0 +1,58 @@
+{
+  "formatted_address": "Blk 48 Tanglin Halt Rd, #01-21 Tanglin Halt MarketSingapore, Singapore 142048",
+  "geometry": {
+    "location": {
+      "lat": 1.3005046,
+      "lng": 103.797891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301785730291502,
+        "lng": 103.7992728802915
+      },
+      "southwest": {
+        "lat": 1.299087769708498,
+        "lng": 103.7965749197085
+      }
+    }
+  },
+  "name": "Hao Zai Lai Ban Mian Fish Soup",
+  "place_id": "ChIJbXb1KgAb2jERa6EiiQUcLPk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Jonathan T",
+      "author_url": "https://www.google.com/maps/contrib/113678571425065782784/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu0nK7QzfuMn4Ti1aF4Ugz4orD8DXtIFSpV8C3jMAmlP5qqa0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "The Sliced Fish Soup was decent",
+      "time": 1728547519,
+      "translated": false
+    },
+    {
+      "author_name": "Frincess Trasadas",
+      "author_url": "https://www.google.com/maps/contrib/112739070319544430929/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0V-dQqMM7sjsF-Z_yh7aWw_pExl6gFWWd0EXKrAwwFREu97TP=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "The soup is cheaper and good..",
+      "time": 1739096115,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17954756624520487275",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 48 Tanglin Halt Road, #01-21 Tanglin Halt MarketSingapore"
+}

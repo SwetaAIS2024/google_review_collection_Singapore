@@ -1,0 +1,52 @@
+{
+  "formatted_address": "65 Airport Boulevard B2, 56 Changi Aiport, Terminal 3, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555805,
+      "lng": 103.9861962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356526380291502,
+        "lng": 103.9876359802915
+      },
+      "southwest": {
+        "lat": 1.353828419708498,
+        "lng": 103.9849380197085
+      }
+    }
+  },
+  "name": "Seiki Travel Pte Ltd - Changi Airport T3",
+  "place_id": "ChIJ_-4P-ow82jERA_CbN5uO6OA",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Suyi Park",
+      "author_url": "https://www.google.com/maps/contrib/112625545893882416193/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJL7HXOlfvPolwHN4U5QX-8G5mRpncaiOHIvkvjuwUoteKEbg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717175143,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Yee Alex Yee",
+      "author_url": "https://www.google.com/maps/contrib/116008338628964061073/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv7qORkgI_qZMTCSJqGxeIN3exHBZMo32Nd91PiX50jhB54id7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1570276941,
+      "translated": false
+    }
+  ],
+  "types": [
+    "travel_agency",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16206360056396771331",
+  "user_ratings_total": 2,
+  "vicinity": "65 Airport Boulevard B2, 56 Changi Aiport, Terminal 3"
+}

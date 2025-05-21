@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.400869,
+      "lng": 103.754288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402225930291502,
+        "lng": 103.7555955302915
+      },
+      "southwest": {
+        "lat": 1.399527969708498,
+        "lng": 103.7528975697085
+      }
+    }
+  },
+  "name": "Opp Multistates Trading",
+  "place_id": "ChIJTRik8ooR2jER9sTnKUtK2Yg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9860994545790469366",
+  "vicinity": "Singapore"
+}

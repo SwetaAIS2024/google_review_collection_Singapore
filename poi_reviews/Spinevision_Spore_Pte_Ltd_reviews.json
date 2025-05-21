@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Magazine Rd, Singapore 059567",
+  "geometry": {
+    "location": {
+      "lat": 1.288526,
+      "lng": 103.842085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289891030291502,
+        "lng": 103.8433739802915
+      },
+      "southwest": {
+        "lat": 1.287193069708498,
+        "lng": 103.8406760197085
+      }
+    }
+  },
+  "name": "Spinevision S'pore Pte Ltd",
+  "place_id": "ChIJSQgreHUZ2jERWbYBF2TqIpc",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10890524564538898009",
+  "vicinity": "1 Magazine Road"
+}

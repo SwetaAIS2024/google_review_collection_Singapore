@@ -1,0 +1,45 @@
+{
+  "formatted_address": "530 N Bridge Rd, #06-01, Singapore 188747",
+  "geometry": {
+    "location": {
+      "lat": 1.2987774,
+      "lng": 103.8560966
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300189830291502,
+        "lng": 103.8573605802915
+      },
+      "southwest": {
+        "lat": 1.297491869708498,
+        "lng": 103.8546626197085
+      }
+    }
+  },
+  "name": "浪漫之约",
+  "place_id": "ChIJQdN3H9sZ2jER_tCljoMWXss",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Teo Boon Huat",
+      "author_url": "https://www.google.com/maps/contrib/100824343139792639425/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyAr-ZvOKhzjgAGwLXhWN854uczSjfetcAli5cW53rrySYvA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Is a very nice and relaxing places",
+      "time": 1685370710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14654174991799931134",
+  "user_ratings_total": 1,
+  "vicinity": "530 North Bridge Road, #06-01"
+}

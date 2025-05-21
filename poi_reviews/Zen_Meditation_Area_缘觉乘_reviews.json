@@ -1,0 +1,29 @@
+{
+  "formatted_address": "neighborhood park 2, Singapore 000000",
+  "geometry": {
+    "location": {
+      "lat": 1.3830431,
+      "lng": 103.7651677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384340380291502,
+        "lng": 103.7661153302915
+      },
+      "southwest": {
+        "lat": 1.381642419708498,
+        "lng": 103.7634173697085
+      }
+    }
+  },
+  "name": "Zen Meditation Area 缘觉乘",
+  "place_id": "ChIJJdYUtQAR2jERRZmcbGtuGDE",
+  "types": [
+    "park",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3537698914962282821",
+  "vicinity": "neighborhood park 2"
+}

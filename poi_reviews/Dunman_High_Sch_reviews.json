@@ -1,0 +1,72 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2981172,
+      "lng": 103.8823044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299419030291502,
+        "lng": 103.8836616802915
+      },
+      "southwest": {
+        "lat": 1.296721069708498,
+        "lng": 103.8809637197085
+      }
+    }
+  },
+  "name": "Dunman High Sch",
+  "place_id": "ChIJQRal1VoY2jERErGCPytLMEU",
+  "rating": 2.3,
+  "reviews": [
+    {
+      "author_name": "25Y6C35 WONG JUN XIANG",
+      "author_url": "https://www.google.com/maps/contrib/105616831548417781242/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGWDby0x7HnSQ5tSCq-OBm-_YUzsznwFCbBizFduSJNzSEZ7HG=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1694615077,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688043099,
+      "translated": false
+    },
+    {
+      "author_name": "k rm",
+      "author_url": "https://www.google.com/maps/contrib/105038584528311136080/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_Zznr-fVQIMFx38oGstdafjexYC5tz5IPn_mU7cLY8Se3bA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526823795,
+      "translated": false
+    },
+    {
+      "author_name": "Jin Zhang",
+      "author_url": "https://www.google.com/maps/contrib/105569140599441470376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrHuyLM63ZaCnnAMj8kaj-OOIloWoKHNgsuK_1FFnMLPmSyA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1495521829,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4985567436620345618",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

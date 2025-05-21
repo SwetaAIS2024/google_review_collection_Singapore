@@ -1,0 +1,87 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3032219,
+      "lng": 103.8843664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304582130291502,
+        "lng": 103.8857725302915
+      },
+      "southwest": {
+        "lat": 1.301884169708498,
+        "lng": 103.8830745697085
+      }
+    }
+  },
+  "name": "Bef Kg Kayu Rd",
+  "place_id": "ChIJcVa6pkYY2jERxpiXLQYZU9k",
+  "rating": 4.1,
+  "reviews": [
+    {
+      "author_name": "Adora Ferry",
+      "author_url": "https://www.google.com/maps/contrib/110720813836590441458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSXdl5KVvcHOhfp0kN27Wz8lHTp8Vl4sQFq_OEnBp4t2k-l40=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Hawker Centre with good food..\nWet market every morning",
+      "time": 1662266113,
+      "translated": false
+    },
+    {
+      "author_name": "Tanvi Mittra",
+      "author_url": "https://www.google.com/maps/contrib/107697944967359117959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQzgfxNjClzNF0_FItRXvUXev4hdWJAwRHs_IS_vUgs7BsDuYc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "It's ok.",
+      "time": 1667360408,
+      "translated": false
+    },
+    {
+      "author_name": "Philip Chong",
+      "author_url": "https://www.google.com/maps/contrib/112779988441862677410/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjuAiu-ISqeQLKUorCEvcshzdXAeN2DGnMT4X9WZf0Mytr15Bm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481758924,
+      "translated": false
+    },
+    {
+      "author_name": "Siva Kumar",
+      "author_url": "https://www.google.com/maps/contrib/104124158343505690667/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsLpT0eCunTggYKQL8KucxDVOfMWjtAVcvj7w_rn-UXdmRl9U=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744289944,
+      "translated": false
+    },
+    {
+      "author_name": "Atharv Vashishtha",
+      "author_url": "https://www.google.com/maps/contrib/110795523791488615976/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Kos1NEBhD7KcZmn5vrOlS8S6tPmpdgKyRw_sSVG5cA2TTmE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688043157,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15659887843622754502",
+  "user_ratings_total": 7,
+  "vicinity": "Singapore"
+}

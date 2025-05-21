@@ -1,0 +1,42 @@
+{
+  "formatted_address": "288 Bishan Street 24, Singapore 570288",
+  "geometry": {
+    "location": {
+      "lat": 1.3566568,
+      "lng": 103.8455549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358128530291502,
+        "lng": 103.8468593302915
+      },
+      "southwest": {
+        "lat": 1.355430569708498,
+        "lng": 103.8441613697085
+      }
+    }
+  },
+  "name": "Bishan Heights Park",
+  "place_id": "ChIJf9mdTaMX2jERz6r_UiUcVYE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "The Ox Woman",
+      "author_url": "https://www.google.com/maps/contrib/110976509453977963870/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTnO3XWiL2pIuTTpoRjY56Bm7PCRU_UsCaO0LsixYOEA0QJWYNhQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1682850617,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9319385950544964303",
+  "user_ratings_total": 1,
+  "vicinity": "288 Bishan Street 24, Singapore"
+}

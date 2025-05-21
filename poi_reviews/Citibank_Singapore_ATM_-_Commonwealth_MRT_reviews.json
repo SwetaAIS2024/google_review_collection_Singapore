@@ -1,0 +1,57 @@
+{
+  "formatted_address": "375 Commonwealth Ave, Commonwealth SMRT Station, Singapore 149735",
+  "geometry": {
+    "location": {
+      "lat": 1.3025164,
+      "lng": 103.7982673
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303938930291502,
+        "lng": 103.7994475802915
+      },
+      "southwest": {
+        "lat": 1.301240969708498,
+        "lng": 103.7967496197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Commonwealth MRT",
+  "place_id": "ChIJK3XVWEca2jERwGhQFQqd9mg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Lim Sheng Ren",
+      "author_url": "https://www.google.com/maps/contrib/114259415317331229127/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLptA_yLKaLMgZTPl32uOG9kkEc6ycBOXkw3smXF0eTwXXnUA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Has an AXS machine attached",
+      "time": 1740125397,
+      "translated": false
+    },
+    {
+      "author_name": "KasperxP",
+      "author_url": "https://www.google.com/maps/contrib/114210666729042004471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFYa8MDETS3nPqf21VkxqH_NACB_-eSyAX3lbL1OUdDU0r-jqJ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Ok ish.",
+      "time": 1500915257,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7563405290848151744",
+  "user_ratings_total": 2,
+  "vicinity": "375 Commonwealth Avenue, Commonwealth SMRT Station"
+}

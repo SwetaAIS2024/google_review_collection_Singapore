@@ -1,0 +1,44 @@
+{
+  "formatted_address": "190 Ang Mo Kio Ave 8, Singapore 568046",
+  "geometry": {
+    "location": {
+      "lat": 1.3808378,
+      "lng": 103.8466165
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381903330291502,
+        "lng": 103.8477142302915
+      },
+      "southwest": {
+        "lat": 1.379205369708498,
+        "lng": 103.8450162697085
+      }
+    }
+  },
+  "name": "Alan's Choice Pub",
+  "place_id": "ChIJaWAjYOoW2jERRCRacp7CSf8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Bren Isbell",
+      "author_url": "https://www.google.com/maps/contrib/118307949531173919873/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG6DYQxAr4TnMewWJmCsqc9gXjxX-kjwo9gHpNFsWQhnkBr2SJ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "This isn't a real place or pub. It is the Grassroots Club. It contains a large convention hall, a Chinese restaurant, and some childcare services / preschool.",
+      "time": 1516004668,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18395448138750633028",
+  "user_ratings_total": 1,
+  "vicinity": "190 Ang Mo Kio Avenue 8, Singapore"
+}

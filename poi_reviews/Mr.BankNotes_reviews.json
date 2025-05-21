@@ -1,0 +1,43 @@
+{
+  "formatted_address": "80 Playfair Rd, Singapore 367998",
+  "geometry": {
+    "location": {
+      "lat": 1.3370343,
+      "lng": 103.8862685
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338482980291502,
+        "lng": 103.8875983802915
+      },
+      "southwest": {
+        "lat": 1.335785019708498,
+        "lng": 103.8849004197085
+      }
+    }
+  },
+  "name": "Mr.BankNotes",
+  "place_id": "ChIJv2lzipEX2jERo64lZtCAnI8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrea Tan",
+      "author_url": "https://www.google.com/maps/contrib/109697236173486359510/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRCKX1aMt8tpHLRrnKoK1ynwVsD2r8zXtvS0wpRlXSWZ5kqjs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734112978,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10348287676345855651",
+  "user_ratings_total": 1,
+  "vicinity": "80 Playfair Road, Singapore"
+}

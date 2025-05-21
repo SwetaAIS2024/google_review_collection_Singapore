@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359338,
+      "lng": 103.7071579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360573230291502,
+        "lng": 103.7083650802915
+      },
+      "southwest": {
+        "lat": 1.357875269708498,
+        "lng": 103.7056671197085
+      }
+    }
+  },
+  "name": "China Construction dormitory Bulim Drive (FA)",
+  "place_id": "ChIJ_0bidBcP2jERHwxYrPnLHBY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mordan life",
+      "author_url": "https://www.google.com/maps/contrib/114870017907264788179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN15BZbTon39qDBFioXRVKxbv3Vih2R5uOx5QXtIwpgBVtcFg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very nice place",
+      "time": 1716196901,
+      "translated": false
+    },
+    {
+      "author_name": "Shima akther Tanisha",
+      "author_url": "https://www.google.com/maps/contrib/106037717320199383327/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKv3JVpv9gdkSI1XnmwhTb298PO9JIIwqdPo-NlnD7EDvgF3Ik=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1715269406,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1593372641381059615",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

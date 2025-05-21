@@ -1,0 +1,70 @@
+{
+  "formatted_address": "431 Clementi Ave 3, Block 431, Singapore 120431",
+  "geometry": {
+    "location": {
+      "lat": 1.3133966,
+      "lng": 103.7632131
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314929080291502,
+        "lng": 103.7645246302915
+      },
+      "southwest": {
+        "lat": 1.312231119708498,
+        "lng": 103.7618266697085
+      }
+    }
+  },
+  "name": "Gourmet Street",
+  "place_id": "ChIJkd1VAAAb2jERphnczMtwaOE",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Claire",
+      "author_url": "https://www.google.com/maps/contrib/109656956420974885686/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9Jn572_lOV1WWT-WDwAp7zcS2SpodOtSn06xBWjza5T_oOA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Tried the ice kachang, the serving size was big but didn't taste spectacular.\nThere's a vegetarian stall that has a lot of options on their menu but it wasn't open   at night.",
+      "time": 1746793182,
+      "translated": false
+    },
+    {
+      "author_name": "Irene Egg",
+      "author_url": "https://www.google.com/maps/contrib/106312186158986380406/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZpJys2artpnwM8P9w7UUlVNZzXguAvY2vyDMOdCPylusQHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Nice food in this coffeeshop , especially western food, Japanese food., roasted duck stall.Must  try .\nStaffs are helpful, tables are cleaned.",
+      "time": 1735821565,
+      "translated": false
+    },
+    {
+      "author_name": "WS Lim",
+      "author_url": "https://www.google.com/maps/contrib/108201414558546225270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKU8MDD8DY93Bt3LF27MoKne0h6uk9Qn7xYKvBZ8sfiwd2Tow=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Great n fancy!",
+      "time": 1736425566,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16242356076729342374",
+  "user_ratings_total": 3,
+  "vicinity": "431 Clementi Avenue 3, Block 431, Singapore"
+}

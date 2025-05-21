@@ -1,0 +1,46 @@
+{
+  "formatted_address": "202 Jurong East Street 21, #01-113, Singapore 600202",
+  "geometry": {
+    "location": {
+      "lat": 1.3367725,
+      "lng": 103.7429718
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338212130291502,
+        "lng": 103.7443242302915
+      },
+      "southwest": {
+        "lat": 1.335514169708498,
+        "lng": 103.7416262697085
+      }
+    }
+  },
+  "name": "Xiangji Seafood Steamboat",
+  "place_id": "ChIJr2wnSAAR2jERwRiDla7mj2M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "E Goh",
+      "author_url": "https://www.google.com/maps/contrib/103818328588728051496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAz60Pip9-Ad7feAtvvfNHpC-VmtJ7Zojn0jgaeMmoORd61A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Affordable food at reasonable prices",
+      "time": 1740108642,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7174206368931584193",
+  "user_ratings_total": 1,
+  "vicinity": "202 Jurong East Street 21, #01-113"
+}

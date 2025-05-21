@@ -1,0 +1,63 @@
+{
+  "formatted_address": "56 Marine Ter, Singapore 440056",
+  "geometry": {
+    "location": {
+      "lat": 1.3056144,
+      "lng": 103.9153849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306903730291502,
+        "lng": 103.9166301302915
+      },
+      "southwest": {
+        "lat": 1.304205769708498,
+        "lng": 103.9139321697085
+      }
+    }
+  },
+  "name": "FC Maid Agency",
+  "place_id": "ChIJFVLvyJ8i2jERhpgNjPJ6tiI",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Sync Surge",
+      "author_url": "https://www.google.com/maps/contrib/110557197934308187379/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXL9twufbt-r_kREW_b8nYKoiQmuQM3HOFwMxsHof3w0cs-2a8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "One of the worst Agency in Singapore. They make false promises and not at all professional. I would never recommend to go with FC Maid Agency.",
+      "time": 1554799692,
+      "translated": false
+    },
+    {
+      "author_name": "Cassandra Ng",
+      "author_url": "https://www.google.com/maps/contrib/112763730459823430428/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJB6rFiiJ631VIcXfLur59HJPcivD9OCrsu79n-8M71wLSkg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1703527530,
+      "translated": false
+    },
+    {
+      "author_name": "Paing Moe",
+      "author_url": "https://www.google.com/maps/contrib/103063828278733649244/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItfNFjqdzTUcPM7NRMAZpbpZVRhu6qAH1xzKvmPhyteO7m7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527404075,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2501321825201264774",
+  "user_ratings_total": 3,
+  "vicinity": "56 Marine Terrace"
+}

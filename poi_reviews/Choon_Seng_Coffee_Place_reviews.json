@@ -1,0 +1,45 @@
+{
+  "formatted_address": "127 Lor 1 Toa Payoh, #02-32 West Market & Food Centre, Singapore 310127",
+  "geometry": {
+    "location": {
+      "lat": 1.338036,
+      "lng": 103.8447232
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339482730291502,
+        "lng": 103.8459442802915
+      },
+      "southwest": {
+        "lat": 1.336784769708498,
+        "lng": 103.8432463197085
+      }
+    }
+  },
+  "name": "Choon Seng Coffee Place",
+  "place_id": "ChIJJV3qOakX2jERfWSPLL5nbZY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "YY",
+      "author_url": "https://www.google.com/maps/contrib/108380785134773252341/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkHx1IbBwn7ijuhECKtqGJtQjXK8KaStRYzxGzPo3tgay7z0buFQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "Good coffee, a full 5 stars for it although it’s a bit pricey at $2.\n\nTea was a 4 stars for us.\n\nOverall was good, but dropping it down by a star from 5 due to the price.",
+      "time": 1720328050,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10839433944639693949",
+  "user_ratings_total": 1,
+  "vicinity": "127 Lorong 1 Toa Payoh, #02-32 West Market & Food Centre"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "7 Buroh Ln, Singapore 618291",
+  "geometry": {
+    "location": {
+      "lat": 1.3159533,
+      "lng": 103.7233055
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317337530291502,
+        "lng": 103.7245176302915
+      },
+      "southwest": {
+        "lat": 1.314639569708498,
+        "lng": 103.7218196697085
+      }
+    }
+  },
+  "name": "Pastamania - HQ Office",
+  "place_id": "ChIJ____1k0F2jERD27mKIx58aE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "alina cheng",
+      "author_url": "https://www.google.com/maps/contrib/102883071959770083939/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnDyxH6DmDdOeaBszxFV59FY34gx2WV6nzo99Vx3K2Us1IFUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732597155,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11669241752382238223",
+  "user_ratings_total": 1,
+  "vicinity": "7 Buroh Lane"
+}

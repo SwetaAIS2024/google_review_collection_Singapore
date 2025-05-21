@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Upper Paya Lebar Rd, Singapore 534802",
+  "geometry": {
+    "location": {
+      "lat": 1.3354058,
+      "lng": 103.8874395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336775780291502,
+        "lng": 103.8887846802915
+      },
+      "southwest": {
+        "lat": 1.334077819708498,
+        "lng": 103.8860867197085
+      }
+    }
+  },
+  "name": "kcb Enterprise",
+  "place_id": "ChIJ9XVoj40X2jERbZMtpUY-tD8",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4590362393337238381",
+  "vicinity": "31 Upper Paya Lebar Road"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "473 Tampines Street 43, Singapore 520473",
+  "geometry": {
+    "location": {
+      "lat": 1.3596759,
+      "lng": 103.9532439
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361019830291502,
+        "lng": 103.9546320802915
+      },
+      "southwest": {
+        "lat": 1.358321869708498,
+        "lng": 103.9519341197085
+      }
+    }
+  },
+  "name": "Newcastle Education Centre @ Tampines",
+  "place_id": "ChIJX_TqjQY92jERmFJMgWV9zoM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "kuanwoei ko",
+      "author_url": "https://www.google.com/maps/contrib/101747214923308537487/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKx0VoJ9qhCKf6sCqQLQkUvuzZmx1lifbqC-9h4qvyqTywLSD9=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567912068,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9497666539085386392",
+  "user_ratings_total": 1,
+  "vicinity": "473 Tampines Street 43"
+}

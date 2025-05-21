@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 48 Toh Guan Rd E, Enterprise Hub, Singapore 608586",
+  "geometry": {
+    "location": {
+      "lat": 1.3368729,
+      "lng": 103.7540797
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338074730291502,
+        "lng": 103.7553540802915
+      },
+      "southwest": {
+        "lat": 1.335376769708498,
+        "lng": 103.7526561197085
+      }
+    }
+  },
+  "name": "UOB ATM - Enterprise Hub",
+  "place_id": "ChIJKyv6sz8R2jERs0Xg12WpZfA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17322437796629071283",
+  "vicinity": "No. 48 Toh Guan Road East, Enterprise Hub"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "3 Temasek Blvd, #02-1152/53/55/56 SUNTEC CITY, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2953258,
+      "lng": 103.859778
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296746430291502,
+        "lng": 103.8609254802915
+      },
+      "southwest": {
+        "lat": 1.294048469708498,
+        "lng": 103.8582275197085
+      }
+    }
+  },
+  "name": "DBS VTM (Video Teller Machine) - DBS SUNTEC CITY BRANCH",
+  "place_id": "ChIJZzLoqW4Z2jERHDRwF-D55ww",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Michael Ong",
+      "author_url": "https://www.google.com/maps/contrib/104399478302875897241/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR_9UwKtuH2zVCcKxE6-A7qNmjlvY-lUG-ong6BOfzbKlIVUftQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1744506062,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=929986588936516636",
+  "user_ratings_total": 1,
+  "vicinity": "3 Temasek Boulevard, #02-1152/53/55/56 SUNTEC CITY"
+}

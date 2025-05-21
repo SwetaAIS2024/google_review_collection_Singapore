@@ -1,0 +1,43 @@
+{
+  "formatted_address": "205 Sungei Gedong Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4211863,
+      "lng": 103.6952137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422559030291502,
+        "lng": 103.6964731802915
+      },
+      "southwest": {
+        "lat": 1.419861069708498,
+        "lng": 103.6937752197085
+      }
+    }
+  },
+  "name": "SAF eMart @ Sungei Gedong Camp",
+  "place_id": "ChIJJz9LTgAN2jER-XdoDnu3VK8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Samam Nant",
+      "author_url": "https://www.google.com/maps/contrib/116032408062136126288/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgI3mCcnMlBk7xfvkI1ikYuQ2F2H622tmZYhuF3PWgv4zfrA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "",
+      "time": 1745362299,
+      "translated": false
+    }
+  ],
+  "types": [
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12633924593831671801",
+  "user_ratings_total": 1,
+  "vicinity": "205 Sungei Gedong Road"
+}

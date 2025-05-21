@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28701,
+      "lng": 103.782829
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288332330291502,
+        "lng": 103.7841541302915
+      },
+      "southwest": {
+        "lat": 1.285634369708498,
+        "lng": 103.7814561697085
+      }
+    }
+  },
+  "name": "Aries",
+  "place_id": "ChIJgcY3X6wb2jER0nwsmtWvO78",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ต่า สายโดโดด.รร Wer",
+      "author_url": "https://www.google.com/maps/contrib/118187279309900735794/reviews",
+      "language": "en-US",
+      "original_language": "th",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI11lKzdXvJoLGRVYHNT56QD_nkpfEplYRKDVM8OECK8ioA2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "low",
+      "time": 1563710130,
+      "translated": true
+    },
+    {
+      "author_name": "Nadia Rahman",
+      "author_url": "https://www.google.com/maps/contrib/102488715141732056922/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5hyf3G7N07vMltJ1hG5A0R3y7RScoBvydGE3SqRhtAA7BS7z9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1644164173,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13779800816819666130",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

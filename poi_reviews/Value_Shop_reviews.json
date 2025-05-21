@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9 Telok Blangah Cres, Singapore 090009",
+  "geometry": {
+    "location": {
+      "lat": 1.2774904,
+      "lng": 103.8196037
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278802930291502,
+        "lng": 103.8211882802915
+      },
+      "southwest": {
+        "lat": 1.276104969708498,
+        "lng": 103.8184903197085
+      }
+    }
+  },
+  "name": "Value Shop",
+  "place_id": "ChIJE1IedAAb2jERIcpy-YMvf-U",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16536988600600021537",
+  "vicinity": "9 Telok Blangah Crescent, Singapore"
+}

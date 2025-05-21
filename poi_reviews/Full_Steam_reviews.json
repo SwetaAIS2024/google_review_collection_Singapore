@@ -1,0 +1,45 @@
+{
+  "formatted_address": "20 Cross St, Singapore 048422",
+  "geometry": {
+    "location": {
+      "lat": 1.2836889,
+      "lng": 103.8474883
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284967880291502,
+        "lng": 103.8487923802915
+      },
+      "southwest": {
+        "lat": 1.282269919708498,
+        "lng": 103.8460944197085
+      }
+    }
+  },
+  "name": "Full Steam",
+  "place_id": "ChIJG0qbkQwZ2jERxEmfl0jdbGo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohd Mustapha",
+      "author_url": "https://www.google.com/maps/contrib/103695904807956013188/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLF4KfMaexpuYNhj7j0kfBxqKeodlTI35Y2bo7YtWUjjiRSjA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "Vintage toys @ very cool stuff #01-27 must see also shipping available :)",
+      "time": 1338708756,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7668747569356294596",
+  "user_ratings_total": 1,
+  "vicinity": "20 Cross Street"
+}

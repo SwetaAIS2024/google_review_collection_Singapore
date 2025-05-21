@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356858,
+      "lng": 103.767372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358221280291502,
+        "lng": 103.7687538802915
+      },
+      "southwest": {
+        "lat": 1.355523319708498,
+        "lng": 103.7660559197085
+      }
+    }
+  },
+  "name": "Aft Hume Stn Exit 2",
+  "place_id": "ChIJW4z171AQ2jERTSa80yErXTI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Omar Hashim",
+      "author_url": "https://www.google.com/maps/contrib/110201273775323543023/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC8LL6CYsU_QfL9vcLMLJnz3C9yO5ZY8dK0Tr8VnDF4mnX1gGBHg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Nice City",
+      "time": 1718499949,
+      "translated": false
+    },
+    {
+      "author_name": "Pierre Loong",
+      "author_url": "https://www.google.com/maps/contrib/111880058579097257254/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1HeF8TlLNNdZhuYvdQaBbhh87-_DhnqNjrGI4k9ZDV2wTUA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1534555930,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3629104299016726093",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

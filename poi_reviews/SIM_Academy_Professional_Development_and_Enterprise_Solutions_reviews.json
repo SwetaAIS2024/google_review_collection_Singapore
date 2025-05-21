@@ -1,0 +1,63 @@
+{
+  "formatted_address": "41 Namly Ave, Singapore 267616",
+  "geometry": {
+    "location": {
+      "lat": 1.325965,
+      "lng": 103.7999604
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327097680291502,
+        "lng": 103.8012837302915
+      },
+      "southwest": {
+        "lat": 1.324399719708498,
+        "lng": 103.7985857697085
+      }
+    }
+  },
+  "name": "SIM Academy (Professional Development and Enterprise Solutions)",
+  "place_id": "ChIJx7YJlgoa2jER7yBoqHWQLSI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Peng Soon Lim",
+      "author_url": "https://www.google.com/maps/contrib/112941225386969406841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6XUvYz_Tw2OHNQbZ0g0PiU2SpEz5yQLG9xXd7OkMX5GYu7qsh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Great resources and facilities for training.",
+      "time": 1617003488,
+      "translated": false
+    },
+    {
+      "author_name": "Sze Sheng Chong",
+      "author_url": "https://www.google.com/maps/contrib/112083930438393513444/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlcd09WRED_-8AFDRTUgPMgPs2vkAtcl1x0X0jKPXECkygps=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733360712,
+      "translated": false
+    },
+    {
+      "author_name": "Jee Kien Chong",
+      "author_url": "https://www.google.com/maps/contrib/117311372936234374966/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVUyUsf2NTv2yc5kQEffvX6iIuPvQ5DOs6arCwsJwqjCGfhCSd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1619149015,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2462783406252499183",
+  "user_ratings_total": 3,
+  "vicinity": "41 Namly Avenue"
+}

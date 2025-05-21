@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Bukit Merah, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2819046,
+      "lng": 103.8239182
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.293776928918347,
+        "lng": 103.851951175701
+      },
+      "southwest": {
+        "lat": 1.254780055264322,
+        "lng": 103.7964498291302
+      }
+    }
+  },
+  "name": "Bukit Merah",
+  "place_id": "ChIJIwn0IWIZ2jERJQC2MB3zSkI",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?q=Bukit+Merah,+Singapore&ftid=0x31da196221f40923:0x424af31d30b60025",
+  "vicinity": "Singapore"
+}

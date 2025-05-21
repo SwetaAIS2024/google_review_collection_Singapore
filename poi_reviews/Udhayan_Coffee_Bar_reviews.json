@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Kaki Bukit Rd 3, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3364025,
+      "lng": 103.9040896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337831280291502,
+        "lng": 103.9055209302915
+      },
+      "southwest": {
+        "lat": 1.335133319708498,
+        "lng": 103.9028229697085
+      }
+    }
+  },
+  "name": "Udhayan Coffee Bar",
+  "place_id": "ChIJ5QoxR-UX2jERHJQWraHk0CE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Md Kabeer",
+      "author_url": "https://www.google.com/maps/contrib/109381130726085418559/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHyKaV3UKm4DTMzzjZg0FfBs0ty7-3H4w2CdbpLGfKQDKoDLY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738368787,
+      "translated": false
+    },
+    {
+      "author_name": "simbu sr",
+      "author_url": "https://www.google.com/maps/contrib/110762182942325652961/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKXqGpL9tsmowuDnA9Zp4Crw7EsSp2t9JU7XqzwASYAKPgP-uOhg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723510056,
+      "translated": false
+    },
+    {
+      "author_name": "Neelakandan Neelu",
+      "author_url": "https://www.google.com/maps/contrib/110060396490457955932/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9sqMKf6ZVX3zgAqO_mjEh4AvFpv_hWgU2o18-7Otezxw4X8E=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731649005,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2436698781452243996",
+  "user_ratings_total": 3,
+  "vicinity": "Kaki Bukit Road 3"
+}

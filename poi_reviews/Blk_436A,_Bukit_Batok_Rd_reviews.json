@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.359157,
+      "lng": 103.7395024
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360475030291502,
+        "lng": 103.7408889302915
+      },
+      "southwest": {
+        "lat": 1.357777069708498,
+        "lng": 103.7381909697085
+      }
+    }
+  },
+  "name": "Blk 436A, Bukit Batok Rd",
+  "place_id": "ChIJSwp7ES4Q2jERNzETm5lsVyw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Daniel Chua",
+      "author_url": "https://www.google.com/maps/contrib/111313460757891830618/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJFhriSahRQj7flPPKs8q_-RdnwOfwRUQBITNY5lm1F7NZUvQ9=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583387749,
+      "translated": false
+    },
+    {
+      "author_name": "Kok Weng Wong",
+      "author_url": "https://www.google.com/maps/contrib/110310893670263084095/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJll0gLkEshnpWhKnxiBVgdn4qzON145iFBFMujysyJ31ONEw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501802831,
+      "translated": false
+    },
+    {
+      "author_name": "Pie Ziz",
+      "author_url": "https://www.google.com/maps/contrib/103850118028086747578/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP72mxwrLWP4Q-l8ASkM365v7amRoEnvVF0VyUfRb5eT5ATcVl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500018591,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3195141867630178615",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

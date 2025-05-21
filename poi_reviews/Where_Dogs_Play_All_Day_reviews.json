@@ -1,0 +1,27 @@
+{
+  "formatted_address": "7 Thong Soon Ave, Singapore 787434",
+  "geometry": {
+    "location": {
+      "lat": 1.3973411,
+      "lng": 103.8187546
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398706530291502,
+        "lng": 103.8202056802915
+      },
+      "southwest": {
+        "lat": 1.396008569708498,
+        "lng": 103.8175077197085
+      }
+    }
+  },
+  "name": "Where Dogs Play All Day",
+  "place_id": "ChIJURFyh1QR2jERWYKE5Xffou0",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17123494439260815961",
+  "vicinity": "7 Thong Soon Avenue"
+}

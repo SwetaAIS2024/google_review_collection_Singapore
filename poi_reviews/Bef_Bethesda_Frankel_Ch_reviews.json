@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31684,
+      "lng": 103.917496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318191980291502,
+        "lng": 103.9188461802915
+      },
+      "southwest": {
+        "lat": 1.315494019708498,
+        "lng": 103.9161482197085
+      }
+    }
+  },
+  "name": "Bef Bethesda Frankel Ch",
+  "place_id": "ChIJaam1gagi2jER1oc7Bq_fQbM",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512017402,
+      "translated": false
+    },
+    {
+      "author_name": "Kelvin John Lim",
+      "author_url": "https://www.google.com/maps/contrib/102107004952913203220/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVarBpMMqJA-Io--I-cR_Qw_YYOjQvde_Vap0EqxLl96kimsqo=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508250451,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12916851149092128726",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4232901,
+      "lng": 103.8661418
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.424616480291502,
+        "lng": 103.8675496302915
+      },
+      "southwest": {
+        "lat": 1.421918519708498,
+        "lng": 103.8648516697085
+      }
+    }
+  },
+  "name": "Bef Shell Aviation",
+  "place_id": "ChIJEbY0EUsU2jERnb2MLRt6UiY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Mike Ong",
+      "author_url": "https://www.google.com/maps/contrib/107890467445234275433/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-JGlvWSP7jlWdd780B1OwcU7rlfb2926xRIycS-hxE95Z1cxUVA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Hog by bikers in the evening, and buses don’t even bother to stop.",
+      "time": 1676550333,
+      "translated": false
+    },
+    {
+      "author_name": "Dave Seow",
+      "author_url": "https://www.google.com/maps/contrib/101229151590372939572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf8ZLPAvTNxBTORWrGkNw84C1YDGW4WZUkIEG7OSjaiHDk0ESbug=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Scenic",
+      "time": 1740910751,
+      "translated": false
+    },
+    {
+      "author_name": "何通",
+      "author_url": "https://www.google.com/maps/contrib/104538455191158182780/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9hTgMh-FiLKIfToG-YxTMTPa-t5ajlQjD7_EfUEX9BUz3wKCt=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1476971703,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2761403778678439325",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

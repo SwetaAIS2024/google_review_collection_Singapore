@@ -1,0 +1,29 @@
+{
+  "formatted_address": "13 Old Airport Rd, Singapore 390013",
+  "geometry": {
+    "location": {
+      "lat": 1.3070465,
+      "lng": 103.8835411
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308274030291502,
+        "lng": 103.8849460802915
+      },
+      "southwest": {
+        "lat": 1.305576069708498,
+        "lng": 103.8822481197085
+      }
+    }
+  },
+  "name": "DBS ATM - Old Airport Road",
+  "place_id": "ChIJHSqHoYkZ2jERpl4H2EdNjEU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5011465456318897830",
+  "vicinity": "13 Old Airport Road, Singapore"
+}

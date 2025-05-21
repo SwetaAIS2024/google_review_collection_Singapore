@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3138053,
+      "lng": 103.8766071
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315105480291502,
+        "lng": 103.8779736802915
+      },
+      "southwest": {
+        "lat": 1.312407519708498,
+        "lng": 103.8752757197085
+      }
+    }
+  },
+  "name": "Yi Xiu Fty Bldg",
+  "place_id": "ChIJB6rRHTEY2jERbQjiBKdT5U8",
+  "rating": 3.6,
+  "reviews": [
+    {
+      "author_name": "Shah",
+      "author_url": "https://www.google.com/maps/contrib/110393788040220713537/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRcFfyb2xCcW4wr3Ymv0oH1zERo_TELMGn6xPy79u0MY-O0QPT=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "old industrial and factory building. soon to start paid parking.",
+      "time": 1484316139,
+      "translated": false
+    },
+    {
+      "author_name": "Chen Jianwu",
+      "author_url": "https://www.google.com/maps/contrib/113039816491730713003/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAtYIb8K4pKulPC8X9DmVcrASB4ZNp08bfQSU6XMGTbAQEIA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Jaywalking. It's already very congested",
+      "time": 1478255621,
+      "translated": true
+    },
+    {
+      "author_name": "杨天磊",
+      "author_url": "https://www.google.com/maps/contrib/109015185170758629392/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0HZwq1RKMiApmtk8bRXQMyHT0-2RFv2_8tHLj1VzrYtMxow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747221958,
+      "translated": false
+    },
+    {
+      "author_name": "william htoohtoo",
+      "author_url": "https://www.google.com/maps/contrib/106563581582203715501/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPoiz7nxPlZ1duCc3TuSIrQevBN6-332Ai9rxYmMtHM7O5IGcE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747149579,
+      "translated": false
+    },
+    {
+      "author_name": "Shakil Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/113827639199403171417/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw65tQiLHnb294CzwXYvYI3dhZ4vwQiCr3nxyHeoBDy5OynTs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1670506714,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5757099675469613165",
+  "user_ratings_total": 10,
+  "vicinity": "Singapore"
+}

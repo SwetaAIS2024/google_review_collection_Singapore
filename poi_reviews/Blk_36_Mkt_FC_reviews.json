@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2723451,
+      "lng": 103.821616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.273664880291502,
+        "lng": 103.8229385802915
+      },
+      "southwest": {
+        "lat": 1.270966919708498,
+        "lng": 103.8202406197085
+      }
+    }
+  },
+  "name": "Blk 36 Mkt/FC",
+  "place_id": "ChIJ4QvrJ2AZ2jERfN3VFtyPEVU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6129838743266647420",
+  "vicinity": "Singapore"
+}

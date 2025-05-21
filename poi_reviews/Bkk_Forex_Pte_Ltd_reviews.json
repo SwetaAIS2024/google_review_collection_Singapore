@@ -1,0 +1,55 @@
+{
+  "formatted_address": "248 Geylang Rd, Singapore 389306",
+  "geometry": {
+    "location": {
+      "lat": 1.3122751,
+      "lng": 103.8779308
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313683530291502,
+        "lng": 103.8792746302915
+      },
+      "southwest": {
+        "lat": 1.310985569708498,
+        "lng": 103.8765766697085
+      }
+    }
+  },
+  "name": "Bkk Forex Pte Ltd",
+  "place_id": "ChIJ5fHRNDcY2jERNE5DDb8esa8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "A J",
+      "author_url": "https://www.google.com/maps/contrib/113569366205788855440/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCm9jIb_4AMgNkN8EgcX0Gy10K1H-zeUJ0cgCX6SD2Dzx4t_UR=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Get good rate\nThai Staff is friendly good communication good advice\nConvenient to transfer to bank account",
+      "time": 1736933779,
+      "translated": false
+    },
+    {
+      "author_name": "Yi Qian Teng",
+      "author_url": "https://www.google.com/maps/contrib/115605545331080743900/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDPknf7gNPo2O-B_bAn-6Z3oao1efKd_h153sj9mglw6bh2CWB=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "11 months ago",
+      "text": "",
+      "time": 1717499808,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12659933833425276468",
+  "user_ratings_total": 2,
+  "vicinity": "248 Geylang Road"
+}

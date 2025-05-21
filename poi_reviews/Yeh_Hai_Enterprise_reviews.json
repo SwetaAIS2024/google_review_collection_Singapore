@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3543178,
+      "lng": 103.7223628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355586930291502,
+        "lng": 103.7237018802915
+      },
+      "southwest": {
+        "lat": 1.352888969708498,
+        "lng": 103.7210039197085
+      }
+    }
+  },
+  "name": "Yeh Hai Enterprise",
+  "place_id": "ChIJP4z4FtoP2jERFbiUelOkh8Y",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14305583419811477525",
+  "vicinity": "Singapore"
+}

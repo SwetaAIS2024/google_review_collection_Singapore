@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3164979,
+      "lng": 103.9003723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317841480291502,
+        "lng": 103.9016725302915
+      },
+      "southwest": {
+        "lat": 1.315143519708498,
+        "lng": 103.8989745697085
+      }
+    }
+  },
+  "name": "Sg Bubble Tea",
+  "place_id": "ChIJs-HnexAY2jER7oW3QNhHkwM",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=257628597814527470",
+  "vicinity": "Singapore"
+}

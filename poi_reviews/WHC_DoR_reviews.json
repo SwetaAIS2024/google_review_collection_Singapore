@@ -1,0 +1,42 @@
+{
+  "formatted_address": "10 Woodlands Dr 17, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4252656,
+      "lng": 103.7959092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426911580291502,
+        "lng": 103.7972783302915
+      },
+      "southwest": {
+        "lat": 1.424213619708498,
+        "lng": 103.7945803697085
+      }
+    }
+  },
+  "name": "WHC DoR",
+  "place_id": "ChIJQQEiaCsT2jERgIJfgwK4QN0",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "JI SUN",
+      "author_url": "https://www.google.com/maps/contrib/110808990958264758029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKatCcO_UsJJ9at2buTAXqyI3ygPsS8Wc-Ni7F-b3RiWUI8cw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1713031571,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15942945001825075840",
+  "user_ratings_total": 1,
+  "vicinity": "10 Woodlands Drive 17"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "28 Haji Ln, Singapore 189221",
+  "geometry": {
+    "location": {
+      "lat": 1.300763,
+      "lng": 103.8591513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302102630291502,
+        "lng": 103.8604880802915
+      },
+      "southwest": {
+        "lat": 1.299404669708498,
+        "lng": 103.8577901197085
+      }
+    }
+  },
+  "name": "BREWDOG",
+  "place_id": "ChIJnTtgiZwZ2jERzxsM1fbpzyU",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2724653545928006607",
+  "vicinity": "28 Haji Lane, Singapore"
+}

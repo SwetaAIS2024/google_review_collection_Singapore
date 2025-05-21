@@ -1,0 +1,53 @@
+{
+  "formatted_address": "504 Yishun St 51, Singapore 760454",
+  "geometry": {
+    "location": {
+      "lat": 1.4182345,
+      "lng": 103.8445869
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.419560280291502,
+        "lng": 103.8460200302915
+      },
+      "southwest": {
+        "lat": 1.416862319708498,
+        "lng": 103.8433220697085
+      }
+    }
+  },
+  "name": "DBS ATM - Yishun Street 51/504",
+  "place_id": "ChIJc_sqRhoV2jERv0WQ83Zj-uY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Raja Rajan",
+      "author_url": "https://www.google.com/maps/contrib/111297852166434422274/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVE09EuA-TFSSZYv2luH_Oovd_nUvBTEWZySzSh7Dd-Min5mMPZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730011675,
+      "translated": false
+    },
+    {
+      "author_name": "Dust Ct",
+      "author_url": "https://www.google.com/maps/contrib/112482162519637408760/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHvQWBeCYh942QvNTXXdaAliWeFTMqQnPkjpX6KhCyyU4GoFQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702300075,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16643724735444698559",
+  "user_ratings_total": 2,
+  "vicinity": "504 Yishun Street 51"
+}

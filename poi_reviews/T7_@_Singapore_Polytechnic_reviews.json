@@ -1,0 +1,52 @@
+{
+  "formatted_address": "500 Dover Road, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3081675,
+      "lng": 103.7791444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309392380291502,
+        "lng": 103.7804842302915
+      },
+      "southwest": {
+        "lat": 1.306694419708498,
+        "lng": 103.7777862697085
+      }
+    }
+  },
+  "name": "T7 @ Singapore Polytechnic",
+  "place_id": "ChIJZX8AIGAa2jERpgojdhHajks",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Meenakshisundaram Kameshwaran",
+      "author_url": "https://www.google.com/maps/contrib/108538735263389949719/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIcqPhac_DuXRfBeGID_4xQVijMKKfAEJeg0SjJjeiJdefQlF1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1610330032,
+      "translated": false
+    },
+    {
+      "author_name": "SATHIYARAJ Dana",
+      "author_url": "https://www.google.com/maps/contrib/105270013665217619736/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0pATepVzD3tas7vpk40emDvvlO_vI7btIcvr6tB5uQJGKwg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706576695,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5444528768068815526",
+  "user_ratings_total": 2,
+  "vicinity": "500 Dover Road"
+}

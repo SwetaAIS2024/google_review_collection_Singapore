@@ -1,0 +1,51 @@
+{
+  "formatted_address": "Brani Terminal Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2595553,
+      "lng": 103.8350981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.260989930291502,
+        "lng": 103.8365368802915
+      },
+      "southwest": {
+        "lat": 1.258291969708498,
+        "lng": 103.8338389197085
+      }
+    }
+  },
+  "name": "EASTERN (1961) BT OFFICE",
+  "place_id": "ChIJlbykR08Z2jERCiO8MNxgO4I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Christian Vogel",
+      "author_url": "https://www.google.com/maps/contrib/108741465406493378388/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl26HeDx09pon7aNjWf2ps7Ju-D8hlCSxPC3dkLFhSXAWkcw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1678559476,
+      "translated": false
+    },
+    {
+      "author_name": "Siva Nathan",
+      "author_url": "https://www.google.com/maps/contrib/101829744229963454351/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJzTMTlPtYDhnALloZIo1Mr6iYhkEkOBHs0hcbKFn6oczaOC0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601991961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9384200747383268106",
+  "user_ratings_total": 2,
+  "vicinity": "Brani Terminal Avenue"
+}

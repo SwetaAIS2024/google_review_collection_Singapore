@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Pickering St, Singapore 048660",
+  "geometry": {
+    "location": {
+      "lat": 1.284344,
+      "lng": 103.8471729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285749330291502,
+        "lng": 103.8482456802915
+      },
+      "southwest": {
+        "lat": 1.283051369708498,
+        "lng": 103.8455477197085
+      }
+    }
+  },
+  "name": "MW Global Pte. Ltd.",
+  "place_id": "ChIJWcQ51FEZ2jERaSmfG8FDuPs",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18138321995905837417",
+  "vicinity": "3 Pickering Street"
+}

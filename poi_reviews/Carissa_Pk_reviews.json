@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3599293,
+      "lng": 103.9646861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361312130291502,
+        "lng": 103.9660429802915
+      },
+      "southwest": {
+        "lat": 1.358614169708498,
+        "lng": 103.9633450197085
+      }
+    }
+  },
+  "name": "Carissa Pk",
+  "place_id": "ChIJ50hi7P482jERC8VcMXzDvpE",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Jason Tay",
+      "author_url": "https://www.google.com/maps/contrib/100334763578469506656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy82mZiCHGz91v7_flJr8hNGeIJy3NqVURl_lYSeMiAt0Fkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1498718156,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10502046319246099723",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

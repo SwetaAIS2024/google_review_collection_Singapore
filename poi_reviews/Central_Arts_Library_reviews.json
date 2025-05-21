@@ -1,0 +1,28 @@
+{
+  "formatted_address": "100 Victoria St, Level 5 National Library Building, Singapore 188064",
+  "geometry": {
+    "location": {
+      "lat": 1.2974415,
+      "lng": 103.8541438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299000980291502,
+        "lng": 103.8553532802915
+      },
+      "southwest": {
+        "lat": 1.296303019708498,
+        "lng": 103.8526553197085
+      }
+    }
+  },
+  "name": "Central Arts Library",
+  "place_id": "ChIJoY4dT48Z2jERxqOY4ctNDw0",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=941056385202299846",
+  "vicinity": "100 Victoria Street, Level 5 National Library Building"
+}

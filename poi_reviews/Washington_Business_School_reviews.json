@@ -1,0 +1,42 @@
+{
+  "formatted_address": "110 Middle Rd, Singapore 188968",
+  "geometry": {
+    "location": {
+      "lat": 1.2988879,
+      "lng": 103.85377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300406280291502,
+        "lng": 103.8548760302915
+      },
+      "southwest": {
+        "lat": 1.297708319708498,
+        "lng": 103.8521780697085
+      }
+    }
+  },
+  "name": "Washington Business School",
+  "place_id": "ChIJ-4D91roZ2jERbRU26EtJdG4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zoey zou",
+      "author_url": "https://www.google.com/maps/contrib/101617459079465892416/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmmjNIbzyVAmBoAqN4CRB7HvxglENkusyybUizf7Pgas2sJW0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1614357649,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7959067031837742445",
+  "user_ratings_total": 1,
+  "vicinity": "110 Middle Road"
+}

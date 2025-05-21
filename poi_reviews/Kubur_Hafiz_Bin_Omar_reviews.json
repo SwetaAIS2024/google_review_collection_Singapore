@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Cemetery North St 15, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.383645,
+      "lng": 103.6875959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385007330291502,
+        "lng": 103.6889151802915
+      },
+      "southwest": {
+        "lat": 1.382309369708498,
+        "lng": 103.6862172197085
+      }
+    }
+  },
+  "name": "Kubur Hafiz Bin Omar",
+  "place_id": "ChIJQe7DIQAP2jERCeOouhthTlA",
+  "types": [
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5786669342941307657",
+  "vicinity": "Cemetery North St 15"
+}

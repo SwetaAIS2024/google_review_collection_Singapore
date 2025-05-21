@@ -1,0 +1,52 @@
+{
+  "formatted_address": "170 Upper Bukit Timah Rd, B2-19 Shopping Centre, Singapore 588179",
+  "geometry": {
+    "location": {
+      "lat": 1.3431115,
+      "lng": 103.7760782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.344366730291502,
+        "lng": 103.7772793302915
+      },
+      "southwest": {
+        "lat": 1.341668769708498,
+        "lng": 103.7745813697085
+      }
+    }
+  },
+  "name": "Safari House Preschool Bukit Timah",
+  "place_id": "ChIJHwZEaooQ2jEREtjT88awWmI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Robert Santosa",
+      "author_url": "https://www.google.com/maps/contrib/108098079130399977417/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuKQryKaiQwaTXZh0-_obPIkdRLawwPNtgX5troK7dJI0N5emn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1499088301,
+      "translated": false
+    },
+    {
+      "author_name": "Chaitanya Vyakaranam (Chai)",
+      "author_url": "https://www.google.com/maps/contrib/104547865117996111310/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqT676VKl7W8HYuIrfB5qSG4NRLbRceXX4pVuw0dfCauJNbqG39g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569372753,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7087171332161656850",
+  "user_ratings_total": 2,
+  "vicinity": "170 Upper Bukit Timah Road, B2-19 Shopping Centre"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "61 Loyang Way, Singapore 508752",
+  "geometry": {
+    "location": {
+      "lat": 1.3817737,
+      "lng": 103.9745773
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383009680291502,
+        "lng": 103.9760839802915
+      },
+      "southwest": {
+        "lat": 1.380311719708498,
+        "lng": 103.9733860197085
+      }
+    }
+  },
+  "name": "MC",
+  "place_id": "ChIJOcGLTgA92jERRjrtlKLwzXM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Md sohag Biswas",
+      "author_url": "https://www.google.com/maps/contrib/107949718283615998478/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVc37neB0VOQm4eXMGvtBVHTT4OaOyb9tc8ilk7KsWXZUL6eZwx=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734320441,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8344590265661340230",
+  "user_ratings_total": 1,
+  "vicinity": "61 Loyang Way, Singapore"
+}

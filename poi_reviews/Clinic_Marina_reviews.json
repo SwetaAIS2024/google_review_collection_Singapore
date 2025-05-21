@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Suntec City, 3 Temasek Blvd, Singapore 038983",
+  "geometry": {
+    "location": {
+      "lat": 1.2956245,
+      "lng": 103.8585751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296825530291502,
+        "lng": 103.8599947302915
+      },
+      "southwest": {
+        "lat": 1.294127569708498,
+        "lng": 103.8572967697085
+      }
+    }
+  },
+  "name": "Clinic Marina",
+  "place_id": "ChIJqTN9D68Z2jERsvlBVgvfy0E",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Jasmine Moffat",
+      "author_url": "https://www.google.com/maps/contrib/102293199107474036213/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLO-MP-LtmJ-Nqeakgdc8MxKCPkvS52c7LUT9FBglQNtt0tvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "The Receptionist is useless, not helpful at all. Completely turned me off from even wanting to go there.",
+      "time": 1669801525,
+      "translated": false
+    },
+    {
+      "author_name": "Hetal & Cindy Pandya",
+      "author_url": "https://www.google.com/maps/contrib/106621821566393194221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWppydSIChwfB_u4rw04swhMRAayWfqOp4w6Z5SP7nrUaVzHkp=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "I hope its open this am",
+      "time": 1570753286,
+      "translated": false
+    },
+    {
+      "author_name": "Harjeev Kochar",
+      "author_url": "https://www.google.com/maps/contrib/101558621393379365930/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk9kjy29EJpF6SQlhuvBQNHZZlTO9lDgB0yfK0vvfQkZR_5Egf_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1545098664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4741128272522377650",
+  "user_ratings_total": 3,
+  "vicinity": "Suntec City, 3 Temasek Boulevard"
+}

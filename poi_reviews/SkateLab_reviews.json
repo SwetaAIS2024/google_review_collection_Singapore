@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bedok Reservoir Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3392807,
+      "lng": 103.9338841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340717080291502,
+        "lng": 103.9355103802915
+      },
+      "southwest": {
+        "lat": 1.338019119708498,
+        "lng": 103.9328124197085
+      }
+    }
+  },
+  "name": "SkateLab",
+  "place_id": "ChIJLwfqDe8j2jERG8rmoe6xTc4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "c. lamian",
+      "author_url": "https://www.google.com/maps/contrib/108654771139240227396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4OMuKT6iNGGBWLoMjh6bnk-Rw6NIcrDGX7G2dcImyca4-rA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Lessons were fun",
+      "time": 1572162010,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14865733583496464923",
+  "user_ratings_total": 1,
+  "vicinity": "Bedok Reservoir Road"
+}

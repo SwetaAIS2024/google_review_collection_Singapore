@@ -1,0 +1,29 @@
+{
+  "formatted_address": "253 Choa Chu Kang Ave 1, Singapore 680253",
+  "geometry": {
+    "location": {
+      "lat": 1.3774405,
+      "lng": 103.744394
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378821030291502,
+        "lng": 103.7458572302915
+      },
+      "southwest": {
+        "lat": 1.376123069708498,
+        "lng": 103.7431592697085
+      }
+    }
+  },
+  "name": "Awie Malay Eating House",
+  "place_id": "ChIJ2b9dTMQR2jERs6xC1iAzSrk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13351540261419920563",
+  "vicinity": "253 Choa Chu Kang Avenue 1"
+}

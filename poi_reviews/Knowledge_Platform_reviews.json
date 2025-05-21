@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Phoenix Park, Singapore 247977",
+  "geometry": {
+    "location": {
+      "lat": 1.2976592,
+      "lng": 103.8168655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298997580291502,
+        "lng": 103.8182133802915
+      },
+      "southwest": {
+        "lat": 1.296299619708498,
+        "lng": 103.8155154197085
+      }
+    }
+  },
+  "name": "Knowledge Platform",
+  "place_id": "ChIJb0pGuSga2jER47iQVoT4Tgk",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=670746641796479203",
+  "vicinity": "Phoenix Park, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "55 Sims Ave E, Singapore 416551",
+  "geometry": {
+    "location": {
+      "lat": 1.3209155,
+      "lng": 103.9127258
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322178680291502,
+        "lng": 103.9141819802915
+      },
+      "southwest": {
+        "lat": 1.319480719708498,
+        "lng": 103.9114840197085
+      }
+    }
+  },
+  "name": "DBS ATM - Kembangan MRT Station",
+  "place_id": "ChIJS1B-9XQZ2jERnmez5SJK7Uw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5543168230106032030",
+  "vicinity": "55 Sims Avenue East, Singapore"
+}

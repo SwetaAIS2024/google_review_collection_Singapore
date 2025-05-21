@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334448,
+      "lng": 103.786835
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335733130291502,
+        "lng": 103.7878610802915
+      },
+      "southwest": {
+        "lat": 1.333035169708498,
+        "lng": 103.7851631197085
+      }
+    }
+  },
+  "name": "The Nexus",
+  "place_id": "ChIJPWK30poQ2jERJN2wnUgiTSM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Leyla K",
+      "author_url": "https://www.google.com/maps/contrib/109118323482163133573/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh9IXzSEGm1l9NjAW3raiDHAULYX_5rUQEEpPTjvm58I2K7UU=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "If you ever have construction going up on the floor above you, consider your apartment a living hell. The security or management wont help you with anything and you’d be left with constant drilling sound that will eventually get so intense that there wont be a day witout a headache.",
+      "time": 1529477546,
+      "translated": false
+    },
+    {
+      "author_name": "K-8",
+      "author_url": "https://www.google.com/maps/contrib/104760763751333525062/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvT0hFXqB8tXDAqW52FTe6_b9chUNxBgby8v9YGo37rcFGLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "It’s awesome and there is tuition",
+      "time": 1508139713,
+      "translated": false
+    },
+    {
+      "author_name": "Mary Teo",
+      "author_url": "https://www.google.com/maps/contrib/114175789272653624853/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoFEhUk-gjSfb-SxIBOXf2q4sW75vJb34HPQLPChav3020SQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1536371176,
+      "translated": false
+    },
+    {
+      "author_name": "Gan Chiao Lun",
+      "author_url": "https://www.google.com/maps/contrib/116286278898484486517/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW93g27c8BstM5KrA3QICb3SUBNzvqdWoNlMaU_aUFF4YHI96Es9Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1483055875,
+      "translated": false
+    },
+    {
+      "author_name": "Toba Tjitasura",
+      "author_url": "https://www.google.com/maps/contrib/116150906634755306353/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVP3vITJikx4et2HAYsUPat2pw9JJ2buzT71X16BMrcX7BQxKt0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1481933503,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2543727059812801828",
+  "user_ratings_total": 7,
+  "vicinity": "Singapore"
+}

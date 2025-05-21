@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Jurong East Street 21, Tower A Ng Teng Fong General Hospital, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3351807,
+      "lng": 103.7440041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336515680291502,
+        "lng": 103.7453683802915
+      },
+      "southwest": {
+        "lat": 1.333817719708498,
+        "lng": 103.7426704197085
+      }
+    }
+  },
+  "name": "Tower A, Ng Teng Fong General Hospital (NTFGH)",
+  "place_id": "ChIJ_SrTZgAR2jERPOfl1U07p3g",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8693982811149166396",
+  "vicinity": "Jurong East Street 21, Tower A Ng Teng Fong General Hospital"
+}

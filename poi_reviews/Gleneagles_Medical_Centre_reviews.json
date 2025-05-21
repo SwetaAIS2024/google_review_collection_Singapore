@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Napier Rd, #06-08, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3072015,
+      "lng": 103.8202767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308502280291502,
+        "lng": 103.8213814802915
+      },
+      "southwest": {
+        "lat": 1.305804319708498,
+        "lng": 103.8186835197085
+      }
+    }
+  },
+  "name": "Gleneagles Medical Centre",
+  "place_id": "ChIJp4_mNwAb2jER87t-EHNlHBg",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1737375101130554355",
+  "vicinity": "6 Napier Road, #06-08, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "5 Siglap Rd, Singapore 448908",
+  "geometry": {
+    "location": {
+      "lat": 1.3076185,
+      "lng": 103.9235982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309012580291502,
+        "lng": 103.9248751302915
+      },
+      "southwest": {
+        "lat": 1.306314619708498,
+        "lng": 103.9221771697085
+      }
+    }
+  },
+  "name": "Sourdough Society",
+  "place_id": "ChIJCSbxRw0j2jERcRmku1-wtT8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mark Sherrill",
+      "author_url": "https://www.google.com/maps/contrib/115940506436057788193/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWydS63eILUuMfW02p9j8a5icnaOzHGujpyKr_YDwWzSKAvkPTW5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Very nice experience! Lili is amazing!!!!",
+      "time": 1558504973,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4590769320390564209",
+  "user_ratings_total": 1,
+  "vicinity": "5 Siglap Road"
+}

@@ -1,0 +1,55 @@
+{
+  "formatted_address": "65 Airport Boulevard Basement 2 South #B2-03 Stall 05, Terminal 3, Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.3555805,
+      "lng": 103.9861962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.356526380291502,
+        "lng": 103.9876359802915
+      },
+      "southwest": {
+        "lat": 1.353828419708498,
+        "lng": 103.9849380197085
+      }
+    }
+  },
+  "name": "Abang Adik BBQ",
+  "place_id": "ChIJ03UXE_892jER0kYR7fiWRks",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Nuri 123",
+      "author_url": "https://www.google.com/maps/contrib/110918345936205197934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWJK0I41bfLfBY46NBlQdtMXux0TdCb2B9X1ZSOKrxluVsfH4=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Data",
+      "time": 1639793768,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Hafiz",
+      "author_url": "https://www.google.com/maps/contrib/115384674238167858022/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCnw2pyufcRGm5L0MoknvQk111L0xhGgU0D60v8TJCa5gDQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1707455296,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5424188797087729362",
+  "user_ratings_total": 2,
+  "vicinity": "65 Airport Boulevard Basement 2 South #B2-03 Stall 05, Terminal 3"
+}

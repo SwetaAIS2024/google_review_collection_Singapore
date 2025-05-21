@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Clementi Ave 3, #01-287/289 Blk 450, Singapore 120450",
+  "geometry": {
+    "location": {
+      "lat": 1.3135577,
+      "lng": 103.7654405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314870030291502,
+        "lng": 103.7667086802915
+      },
+      "southwest": {
+        "lat": 1.312172069708498,
+        "lng": 103.7640107197085
+      }
+    }
+  },
+  "name": "UOB ATM - UOB Clementi Branch",
+  "place_id": "ChIJfbnalIYb2jER56diZkk3h9s",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15818673004552038375",
+  "vicinity": "Clementi Avenue 3, #01-287/289 Blk 450"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39705,
+      "lng": 103.87307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398397080291502,
+        "lng": 103.8744421802915
+      },
+      "southwest": {
+        "lat": 1.395699119708498,
+        "lng": 103.8717442197085
+      }
+    }
+  },
+  "name": "Jln Kayu Shophouse",
+  "place_id": "ChIJDdT1pX4W2jER2vTFjzfTL6s",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Kenn Tan",
+      "author_url": "https://www.google.com/maps/contrib/111708291978895661841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxVQnLyEAqyHOVd6gAW2XspR0eOWxhMQL2sF_j5EvyFqyBCxA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Alight at this bus stop for some roti prata. There are two prata shops along this stretch of road. One of them used to be a very popular prata shop. So much so that this road had become synonymous with roti prata.\n\nBesides indian food, you will also find many restaurants and eateries along this road.\n\nThe nearest MRT Station is Sengkang. To go there, walk east along Lor Samak for 5 mins to get to Thanggam LRT Station. From there you are 4 stops away from the Sengkang MRT, which will take around 10-15 mins.",
+      "time": 1574416602,
+      "translated": false
+    },
+    {
+      "author_name": "Kim Elldee",
+      "author_url": "https://www.google.com/maps/contrib/105656531218593635090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMmn2i5JJGViGxSUK0G0-ea6CJuvBP5_1nmPlNsXFB_n-jYF3zmQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Durian too little",
+      "time": 1609776937,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12335310139979855066",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

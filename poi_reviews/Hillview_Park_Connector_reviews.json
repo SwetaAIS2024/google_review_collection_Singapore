@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bukit Timah Expy, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3527526,
+      "lng": 103.76006
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354099530291502,
+        "lng": 103.7613535802915
+      },
+      "southwest": {
+        "lat": 1.351401569708498,
+        "lng": 103.7586556197085
+      }
+    }
+  },
+  "name": "Hillview Park Connector",
+  "place_id": "ChIJj2fIsToR2jER7yMokf5B1Ig",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Stephenie Ng",
+      "author_url": "https://www.google.com/maps/contrib/107174324753509310653/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlprMNuvM7jwd1bWyEKfJwYAonj3Xg7CAeJ16RlGncWiX4fQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "A lovely stretch of park connector with shady trees and beautiful flowers in bloom.",
+      "time": 1640606941,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9859578045833683951",
+  "user_ratings_total": 1,
+  "vicinity": "Bukit Timah Expressway"
+}

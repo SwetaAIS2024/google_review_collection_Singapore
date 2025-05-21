@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 60 Lor 25A Geylang, Singapore 388250",
+  "geometry": {
+    "location": {
+      "lat": 1.3154796,
+      "lng": 103.8832581
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316857130291502,
+        "lng": 103.8845364302915
+      },
+      "southwest": {
+        "lat": 1.314159169708498,
+        "lng": 103.8818384697085
+      }
+    }
+  },
+  "name": "UOB ATM - Geylang Lorong 25A",
+  "place_id": "ChIJUYPvjT0Z2jERB3prMtM0abs",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13504383039335791111",
+  "vicinity": "No. 60 Lorong 25A Geylang"
+}

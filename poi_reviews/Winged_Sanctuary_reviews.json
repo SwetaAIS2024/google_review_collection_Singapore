@@ -1,0 +1,41 @@
+{
+  "formatted_address": "20 Mandai Lake Rd, Singapore 729825",
+  "geometry": {
+    "location": {
+      "lat": 1.4067074,
+      "lng": 103.783214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.407856730291502,
+        "lng": 103.7845658302915
+      },
+      "southwest": {
+        "lat": 1.405158769708498,
+        "lng": 103.7818678697085
+      }
+    }
+  },
+  "name": "Winged Sanctuary",
+  "place_id": "ChIJg2cvLwAT2jERj8xnoUrzzMw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Deutsch ist meine Kiki L meine Kiki L",
+      "author_url": "https://www.google.com/maps/contrib/115974984728342152390/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfMTsIcxRzfXNOXwYPyhfSrhtTBmG-GatJ0y7ehrHLHNwQEB5P=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732543166,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14757437580847336591",
+  "user_ratings_total": 1,
+  "vicinity": "20 Mandai Lake Road, Singapore"
+}

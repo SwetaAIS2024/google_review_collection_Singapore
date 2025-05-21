@@ -1,0 +1,66 @@
+{
+  "formatted_address": "2 Defu South Street 1, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3450182,
+      "lng": 103.8977964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346387230291502,
+        "lng": 103.8992381802915
+      },
+      "southwest": {
+        "lat": 1.343689269708498,
+        "lng": 103.8965402197085
+      }
+    }
+  },
+  "name": "Little Towkay Economical Rice",
+  "place_id": "ChIJ9eSNRAAX2jERnh2JJpit5Nk",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Patrick Poh",
+      "author_url": "https://www.google.com/maps/contrib/107673184510491093624/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXplrPbyrLyuiOO_CH28wiHolqbSyulnt2eVkWgEDA4UzCkv5g3NQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "A nice little economical rice stall nested in the defu industrial area. Really buzzing during lunch time. Many stalls are not operating yet at the coffeeshop. 4 vegetable dishes for 4.40 SGD",
+      "time": 1740974582,
+      "translated": false
+    },
+    {
+      "author_name": "adrian C",
+      "author_url": "https://www.google.com/maps/contrib/116483297208771727724/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLW70KpP0jO_7vJ6z6OoE1mc2ZBjKyAn2rT9x3Do9GV-d9bAJyZQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741925435,
+      "translated": false
+    },
+    {
+      "author_name": "Jeremy FishBB",
+      "author_url": "https://www.google.com/maps/contrib/107141460173991412860/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh3G1RhGEG1KYNyDfyr4yh2evN4NXqDTPaoPjEnIFWNM9a7Czd=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741659179,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15700865069913546142",
+  "user_ratings_total": 3,
+  "vicinity": "2 Defu South Street 1"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "159 Mei Ling St, Singapore 140159",
+  "geometry": {
+    "location": {
+      "lat": 1.2932111,
+      "lng": 103.8027329
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294414830291502,
+        "lng": 103.8041649302915
+      },
+      "southwest": {
+        "lat": 1.291716869708498,
+        "lng": 103.8014669697085
+      }
+    }
+  },
+  "name": "Shun Xing Coffee Shop",
+  "place_id": "ChIJCyw1YzQa2jERy1mYRCPzO0I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "EJ Ong",
+      "author_url": "https://www.google.com/maps/contrib/117558317722344632132/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyPxIDR-s0HXwCP0sUzA8ItKGJF90ugqEsybUgdaOKf4Tg_k8J=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Friendly stallholder",
+      "time": 1486302677,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4772675562929412555",
+  "user_ratings_total": 1,
+  "vicinity": "159 Mei Ling Street, Singapore"
+}

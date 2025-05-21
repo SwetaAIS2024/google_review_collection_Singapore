@@ -1,0 +1,56 @@
+{
+  "formatted_address": "202 Woodleigh Link, Singapore 360202",
+  "geometry": {
+    "location": {
+      "lat": 1.3396145,
+      "lng": 103.8714932
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340930280291502,
+        "lng": 103.8728421802915
+      },
+      "southwest": {
+        "lat": 1.338232319708498,
+        "lng": 103.8701442197085
+      }
+    }
+  },
+  "name": "Jiak Kueh 粿",
+  "place_id": "ChIJnQC5AAAX2jERvJamVR3zCTc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Anri Takemoto",
+      "author_url": "https://www.google.com/maps/contrib/107559441171425794659/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIDh7EEsGs9DmiUZrQxFjb2hniWaV6AACg7XM0OuUveNWMYNM6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Nice kueh, highly recommend the ang ku kueh",
+      "time": 1746694771,
+      "translated": false
+    },
+    {
+      "author_name": "JK Ong",
+      "author_url": "https://www.google.com/maps/contrib/111019396032378373784/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWahdG6UCJDeU05PbE1KjmVLFCq9fTQ0XKgpQm92EOZxQvMoCEDmQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725720835,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3965968254193014460",
+  "user_ratings_total": 2,
+  "vicinity": "202 Woodleigh Link, Singapore"
+}

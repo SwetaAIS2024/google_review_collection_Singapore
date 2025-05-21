@@ -1,0 +1,57 @@
+{
+  "formatted_address": "01-51 Sin Ming Rd, Singapore 570024",
+  "geometry": {
+    "location": {
+      "lat": 1.359476,
+      "lng": 103.8398622
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360843130291502,
+        "lng": 103.8411727802915
+      },
+      "southwest": {
+        "lat": 1.358145169708498,
+        "lng": 103.8384748197085
+      }
+    }
+  },
+  "name": "Lo Hee Noodle House",
+  "place_id": "ChIJ0eb3VyEX2jER38vc1QGhkRc",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Daoyang Lin",
+      "author_url": "https://www.google.com/maps/contrib/105853396985658293230/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdaxLlNoInfeVFElcfT_MBNTuPtuFWm9oXzVg0rVEDeq8u2XDbGA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good wanton mee with springy noodles cooked to perfection. The char siew is roasted very well. However, chilli is spicier than expected.",
+      "time": 1606005109,
+      "translated": false
+    },
+    {
+      "author_name": "Jeremy Tan",
+      "author_url": "https://www.google.com/maps/contrib/104231022409743352685/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYjpTPixHWAzdAzobN2PCT7_wXuiB3GgUejEdZ7_ozRP2tTs_c=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Closed\nDown now",
+      "time": 1707117101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1698315563750443999",
+  "user_ratings_total": 2,
+  "vicinity": "01-51 Sin Ming Road, Singapore"
+}

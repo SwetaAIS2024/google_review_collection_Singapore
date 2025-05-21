@@ -1,0 +1,29 @@
+{
+  "formatted_address": "205 Henderson Rd, Singapore 159549",
+  "geometry": {
+    "location": {
+      "lat": 1.2809195,
+      "lng": 103.820494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282315230291502,
+        "lng": 103.8217925302915
+      },
+      "southwest": {
+        "lat": 1.279617269708498,
+        "lng": 103.8190945697085
+      }
+    }
+  },
+  "name": "Sham Hashim",
+  "place_id": "ChIJ3WWslNcb2jERKuMoqFw64fs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18149852142912463658",
+  "vicinity": "205 Henderson Road"
+}

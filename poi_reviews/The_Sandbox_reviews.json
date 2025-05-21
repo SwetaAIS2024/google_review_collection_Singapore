@@ -1,0 +1,28 @@
+{
+  "formatted_address": "535 Clementi Rd, Block 56, Singapore 599489",
+  "geometry": {
+    "location": {
+      "lat": 1.3329833,
+      "lng": 103.7757842
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334256830291502,
+        "lng": 103.7769748802915
+      },
+      "southwest": {
+        "lat": 1.331558869708498,
+        "lng": 103.7742769197085
+      }
+    }
+  },
+  "name": "The Sandbox",
+  "place_id": "ChIJwV5ZZocQ2jERBFlRsTITS-g",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16738493548496771332",
+  "vicinity": "535 Clementi Road, Block 56, Singapore"
+}

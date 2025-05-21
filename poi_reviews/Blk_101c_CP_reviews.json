@@ -1,0 +1,68 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.339259,
+      "lng": 103.846786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340619530291502,
+        "lng": 103.8481056302915
+      },
+      "southwest": {
+        "lat": 1.337921569708498,
+        "lng": 103.8454076697085
+      }
+    }
+  },
+  "name": "Blk 101c CP",
+  "place_id": "ChIJ0zxPvGkX2jER7PI9U4RxrUQ",
+  "rating": 3.3,
+  "reviews": [
+    {
+      "author_name": "Tio Gabriel Tio Yong Ping",
+      "author_url": "https://www.google.com/maps/contrib/112496304834029525242/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXZXVbHKXCis8TgKsQKXH-00DuPpqvN43RO-MPBWjW0b0nCw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Very little choice of bus, outside 101C",
+      "time": 1738926420,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Dave",
+      "author_url": "https://www.google.com/maps/contrib/105897282998715861691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEQBK0ajNwXaRtx9SYpLYKkq1yWZMv6Y-fLAHe5J3HtNChDctjjw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "well. Why google map doesn't show Bus 129 here? Also, is it possible to display the route of the bus as did apple in the apple map?",
+      "time": 1506842006,
+      "translated": false
+    },
+    {
+      "author_name": "Ran Mac",
+      "author_url": "https://www.google.com/maps/contrib/103850319659084774961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5x0jN6Cmhpfh_4tG21qyXznY4qolITQ0M8uhioEdrjdUZRNvP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "For those who wants to go to Zhongshan Mall. Take bus 129 and alight directly infront at the mall",
+      "time": 1622658604,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4948736378696233708",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

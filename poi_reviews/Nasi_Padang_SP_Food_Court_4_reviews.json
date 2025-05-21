@@ -1,0 +1,45 @@
+{
+  "formatted_address": "500 Dover Rd, Singapore 139651",
+  "geometry": {
+    "location": {
+      "lat": 1.3114816,
+      "lng": 103.7774207
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312777780291502,
+        "lng": 103.7788461302915
+      },
+      "southwest": {
+        "lat": 1.310079819708498,
+        "lng": 103.7761481697085
+      }
+    }
+  },
+  "name": "Nasi Padang (SP Food Court 4)",
+  "place_id": "ChIJ9_j4JAAb2jER0gPpSKZeGX8",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "LP Pua",
+      "author_url": "https://www.google.com/maps/contrib/113241051085659633004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJat0H-xuRcFQ5fZT0JkY6ObyUNLgL0WoknObSDkfn6wl6eZJnmQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This Nasi Padang stall is located in Singapore Polytechnic Food Court 4. We ordered 2 plates, costing $3 for 2 vegetables and 1 meat, and $5 for 1 vegetable and 2 meats. Overall, the dishes were quite flavorful and tasty. For the price, it's definitely value for money. An added bonus is that the food court is air-conditioned.",
+      "time": 1712829819,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9158455385515426770",
+  "user_ratings_total": 1,
+  "vicinity": "500 Dover Road, Singapore"
+}

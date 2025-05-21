@@ -1,0 +1,43 @@
+{
+  "formatted_address": "301 Commonwealth Ave, Singapore 149729",
+  "geometry": {
+    "location": {
+      "lat": 1.2942007,
+      "lng": 103.8062233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295558780291502,
+        "lng": 103.8075547302915
+      },
+      "southwest": {
+        "lat": 1.292860819708498,
+        "lng": 103.8048567697085
+      }
+    }
+  },
+  "name": "DBS ATM - Queentown MRT Station",
+  "place_id": "ChIJXQCk9_Qb2jERraY5KHxmkqM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Pasupathi P.k",
+      "author_url": "https://www.google.com/maps/contrib/105096061788498533207/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpUcFIN3rVRX1ZQd_b2bxw-6B2Im3hyyK0TK-u9BM7u8xdFmY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1712557447,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11786595858218854061",
+  "user_ratings_total": 1,
+  "vicinity": "301 Commonwealth Avenue, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "378 Alexandra Rd, Singapore 159964",
+  "geometry": {
+    "location": {
+      "lat": 1.2864366,
+      "lng": 103.8013478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287750630291502,
+        "lng": 103.8027456802915
+      },
+      "southwest": {
+        "lat": 1.285052669708498,
+        "lng": 103.8000477197085
+      }
+    }
+  },
+  "name": "Alexandra Hospital Pick up/Drop off",
+  "place_id": "ChIJn_q0eQAb2jER8dAj2a-WBd8",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16070416527347929329",
+  "vicinity": "378 Alexandra Road, Singapore"
+}

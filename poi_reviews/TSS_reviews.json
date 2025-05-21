@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2793952,
+      "lng": 103.8546432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280622730291502,
+        "lng": 103.8560939802915
+      },
+      "southwest": {
+        "lat": 1.277924769708498,
+        "lng": 103.8533960197085
+      }
+    }
+  },
+  "name": "TSS",
+  "place_id": "ChIJkxiPzzoZ2jERb-BSDyPYlpY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10851097997288333423",
+  "vicinity": "Singapore"
+}

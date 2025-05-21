@@ -1,0 +1,30 @@
+{
+  "formatted_address": "HDB Whampoa #01-941, 86 Whampoa Drive (S)320086, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3229948,
+      "lng": 103.8557832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324286880291502,
+        "lng": 103.8572019302915
+      },
+      "southwest": {
+        "lat": 1.321588919708498,
+        "lng": 103.8545039697085
+      }
+    }
+  },
+  "name": "Soon Leong Minimart",
+  "place_id": "ChIJfyod5tkZ2jERPDogfos8uFc",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6320868646828653116",
+  "vicinity": "HDB Whampoa #01-941, 86 Whampoa Drive (S)320086"
+}

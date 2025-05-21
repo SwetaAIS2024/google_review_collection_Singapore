@@ -1,0 +1,67 @@
+{
+  "formatted_address": "31 Jurong West Street 63, Singapore 648310",
+  "geometry": {
+    "location": {
+      "lat": 1.3375496,
+      "lng": 103.696848
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338898580291502,
+        "lng": 103.6981969802915
+      },
+      "southwest": {
+        "lat": 1.336200619708498,
+        "lng": 103.6954990197085
+      }
+    }
+  },
+  "name": "OCBC ATM Pioneer MRT Station",
+  "place_id": "ChIJWc2mNJAP2jERMcvAkCIWy4M",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "DD",
+      "author_url": "https://www.google.com/maps/contrib/116622660847510840952/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPkjyranArNPu1oPVa-z4hbEPYvfgWXoXW1bfXPdpBLnT9hKc0RA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Situated above-ground(first floor) inside the MRT compound right opposite the faregate. Withdraw-only ATM.",
+      "time": 1653750253,
+      "translated": false
+    },
+    {
+      "author_name": "Chow Sem Lee",
+      "author_url": "https://www.google.com/maps/contrib/108242344930445648930/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQl-joKA910g_fcq6UtXS31mTNnz3PKfOeA7BCx79agBMurpnwMA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "No queue usually...",
+      "time": 1462356824,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriel Leanowl",
+      "author_url": "https://www.google.com/maps/contrib/115379225965110220611/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL22kyIRNkcKUSJIDZhDRP2lo2aU7dbBHXSyggvOwW7eGsgq8A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1547349334,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9496708576954075953",
+  "user_ratings_total": 3,
+  "vicinity": "31 Jurong West Street 63"
+}

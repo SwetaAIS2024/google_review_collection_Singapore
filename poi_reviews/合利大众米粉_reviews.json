@@ -1,0 +1,46 @@
+{
+  "formatted_address": "137 Tampines St. 11, #01-13, Singapore 521137",
+  "geometry": {
+    "location": {
+      "lat": 1.3456696,
+      "lng": 103.9445494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347139080291502,
+        "lng": 103.9459845302915
+      },
+      "southwest": {
+        "lat": 1.344441119708498,
+        "lng": 103.9432865697085
+      }
+    }
+  },
+  "name": "合利大众米粉",
+  "place_id": "ChIJoUwtDgA92jERYXqDX9FvBYs",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Tsin W61",
+      "author_url": "https://www.google.com/maps/contrib/112246979209348273781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5fBvH1U0jQqk8eYJGcmDFRZR1lB_UlepRQGporkxzpFNDw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The fried mee hoon tastes good and soft especially the chilli sauce. Reasonable price and have many choices of side dishes to add on to your meal.",
+      "time": 1742611625,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10017535891196836449",
+  "user_ratings_total": 1,
+  "vicinity": "137 Tampines Street 11, #01-13, Singapore"
+}

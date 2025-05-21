@@ -1,0 +1,57 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2635198,
+      "lng": 103.8220497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265098680291502,
+        "lng": 103.8228277802915
+      },
+      "southwest": {
+        "lat": 1.262400719708498,
+        "lng": 103.8201298197085
+      }
+    }
+  },
+  "name": "ICBC ATM",
+  "place_id": "ChIJNf0-yoIZ2jERh4JKYNaQVoE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Zhen Qin",
+      "author_url": "https://www.google.com/maps/contrib/108880969129301512034/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtDExP0PZEwMEw5VsZp4rpIodMKyphMUBVCrZBwYNmulkYj1s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "cash withdrawal is not available on the machine, only can do balance inquiry or fund transfer, what's the purpose of up keeping an ATM in such a high traffic mall if it cannot perform a basic function?",
+      "time": 1712648552,
+      "translated": false
+    },
+    {
+      "author_name": "LI YUTONG",
+      "author_url": "https://www.google.com/maps/contrib/115296410618154977132/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpwmhwuTHCr6g6jl9SYI5GamUMnMcFghS2XqISU01-YruwdQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "cannot withdraw🤬🤬🤬",
+      "time": 1731396924,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9319795729302717063",
+  "user_ratings_total": 2,
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

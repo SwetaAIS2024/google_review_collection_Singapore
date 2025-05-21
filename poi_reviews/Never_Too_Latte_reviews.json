@@ -1,0 +1,29 @@
+{
+  "formatted_address": "432 Race Course, Singapore 218678",
+  "geometry": {
+    "location": {
+      "lat": 1.315743,
+      "lng": 103.857899
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317042330291502,
+        "lng": 103.8593065302915
+      },
+      "southwest": {
+        "lat": 1.314344369708498,
+        "lng": 103.8566085697085
+      }
+    }
+  },
+  "name": "Never Too Latte",
+  "place_id": "ChIJ95gqJKMZ2jERDUnFlLOvCCY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2740633559084910861",
+  "vicinity": "432 Race Course"
+}

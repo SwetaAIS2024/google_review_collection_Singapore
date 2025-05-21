@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3144861,
+      "lng": 103.9375456
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315882430291502,
+        "lng": 103.9388898302915
+      },
+      "southwest": {
+        "lat": 1.313184469708498,
+        "lng": 103.9361918697085
+      }
+    }
+  },
+  "name": "Aft Sennet Rd",
+  "place_id": "ChIJZQo_f7gi2jERxD_GRuRQRlU",
+  "rating": 2.7,
+  "reviews": [
+    {
+      "author_name": "asyraf i",
+      "author_url": "https://www.google.com/maps/contrib/104211673550030263972/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG3fKTjGvoSWgiFy9RRlRlm-3olpeQ1idHuhKHXkRN6QG0_EHv=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Bus timings don't match, sometimes last bus doesn't even show up on the app and I get a pleasant surprise after being in despair.\n\nWake up your idea pls whoever responsible for syncing the timings",
+      "time": 1675644982,
+      "translated": false
+    },
+    {
+      "author_name": "GoAheadGroupFan",
+      "author_url": "https://www.google.com/maps/contrib/105877449322822053371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm3AkzrmFf7YEOM0hySeT8b1ju9l9ObcKvCd9XdBSJyrbHrZHX=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "The bus stop where I boarded PREMIUM 763 operated by Commute Solutions between Bayshore Road and Depot Road.",
+      "time": 1530624785,
+      "translated": false
+    },
+    {
+      "author_name": "kaung myat",
+      "author_url": "https://www.google.com/maps/contrib/111399202615800465707/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_Q9DokztRBCTaRpGsgvsFBowNJdj4GQnFcUsMrvj8w4aA1SQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1430930417,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6144687682963783620",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

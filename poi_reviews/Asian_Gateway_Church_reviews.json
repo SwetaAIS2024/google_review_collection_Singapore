@@ -1,0 +1,29 @@
+{
+  "formatted_address": "9 Tagore Ln, #04-10, Singapore 787472",
+  "geometry": {
+    "location": {
+      "lat": 1.3840859,
+      "lng": 103.8260488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385619080291502,
+        "lng": 103.8273420802915
+      },
+      "southwest": {
+        "lat": 1.382921119708498,
+        "lng": 103.8246441197085
+      }
+    }
+  },
+  "name": "Asian Gateway Church",
+  "place_id": "ChIJzUizMS8X2jERuiaXh5Ot8x4",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2230317089625155258",
+  "vicinity": "9 Tagore Lane, #04-10, Singapore"
+}

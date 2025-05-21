@@ -1,0 +1,30 @@
+{
+  "formatted_address": "133 New Bridge Rd, Singapore 059413",
+  "geometry": {
+    "location": {
+      "lat": 1.285362,
+      "lng": 103.845021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286646130291502,
+        "lng": 103.8461380302915
+      },
+      "southwest": {
+        "lat": 1.283948169708498,
+        "lng": 103.8434400697085
+      }
+    }
+  },
+  "name": "Peh Geok Hwa Chinese Physician",
+  "place_id": "ChIJ2zOiSwsZ2jERECPKm2ykzT0",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4453396392916427536",
+  "vicinity": "133 New Bridge Road, Singapore"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Thomson Rd, Singapore 300001",
+  "geometry": {
+    "location": {
+      "lat": 1.3253449,
+      "lng": 103.8423224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326627480291502,
+        "lng": 103.8437581802915
+      },
+      "southwest": {
+        "lat": 1.323929519708498,
+        "lng": 103.8410602197085
+      }
+    }
+  },
+  "name": "Kian Hup Ann Mini-Supermarket",
+  "place_id": "ChIJUfVqN-AZ2jERW6TSz6IekaY",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12002408166539306075",
+  "vicinity": "1 Thomson Road"
+}

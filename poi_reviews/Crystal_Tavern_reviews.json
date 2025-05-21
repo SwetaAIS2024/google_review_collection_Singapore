@@ -1,0 +1,86 @@
+{
+  "formatted_address": "157 Thomson Rd, Singapore 307610",
+  "geometry": {
+    "location": {
+      "lat": 1.3180199,
+      "lng": 103.8435905
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319301830291502,
+        "lng": 103.8451079302915
+      },
+      "southwest": {
+        "lat": 1.316603869708498,
+        "lng": 103.8424099697085
+      }
+    }
+  },
+  "name": "Crystal Tavern",
+  "place_id": "ChIJPxmAPQcZ2jERymyI0MdJx6E",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Batman",
+      "author_url": "https://www.google.com/maps/contrib/101143743181123369965/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVmFmy-Au3In8YiMAmw9VzLwSFAeEGiu41Cij00s0k0yjiSSiV=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "In my opinion, it was not as fun as the other pubs you will find in Orchard or Clarke Quay.",
+      "time": 1677775515,
+      "translated": false
+    },
+    {
+      "author_name": "Amanda Tiow",
+      "author_url": "https://www.google.com/maps/contrib/101121059504237483194/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEbZZG9-KzM-_6yhQVlFy_1rUWsGswbjqZHw4WuPhTn82UgQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Awesome place to chill 👍🏻",
+      "time": 1670328307,
+      "translated": false
+    },
+    {
+      "author_name": "Kai Kian Ng",
+      "author_url": "https://www.google.com/maps/contrib/101442289377309912305/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3QYdDCTEoMfLbYDVgFCocHEqgxGqpCXDHuUb-a-hT-lnRdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711465822,
+      "translated": false
+    },
+    {
+      "author_name": "MaT PiZ",
+      "author_url": "https://www.google.com/maps/contrib/117355464471390320150/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtDOVxaDCkPslj42Zv2aUYs8LNNPpWUNTf0p33AO0oeDGVLw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1666543630,
+      "translated": false
+    },
+    {
+      "author_name": "Iza Into",
+      "author_url": "https://www.google.com/maps/contrib/112202123718355417122/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVmyYhH4B9BZKNxd-iEArhKgpPjkhaYFTiHl-PT5C3Un8AfapG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1619707741,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11657367283017739466",
+  "user_ratings_total": 5,
+  "vicinity": "157 Thomson Road, Singapore"
+}

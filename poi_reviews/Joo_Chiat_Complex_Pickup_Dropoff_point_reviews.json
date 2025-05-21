@@ -1,0 +1,42 @@
+{
+  "formatted_address": "4 Joo Chiat Rd, Singapore 420004",
+  "geometry": {
+    "location": {
+      "lat": 1.3154727,
+      "lng": 103.8982231
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316860280291502,
+        "lng": 103.8994684302915
+      },
+      "southwest": {
+        "lat": 1.314162319708498,
+        "lng": 103.8967704697085
+      }
+    }
+  },
+  "name": "Joo Chiat Complex Pickup/Dropoff point",
+  "place_id": "ChIJP7DP3yYZ2jERQB1E27fSct0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zureen Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/116056393898665246800/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAfj8pw57Wn_19gvHn1xSN-Bq1zXH1RT6M_-hDeV3htSWJHg5_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1729597501,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15957048116826611008",
+  "user_ratings_total": 1,
+  "vicinity": "4 Joo Chiat Road, Singapore"
+}

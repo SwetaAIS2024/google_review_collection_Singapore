@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340874,
+      "lng": 103.961433
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342184180291502,
+        "lng": 103.9627210802915
+      },
+      "southwest": {
+        "lat": 1.339486219708498,
+        "lng": 103.9600231197085
+      }
+    }
+  },
+  "name": "Upp Changi Stn/SUTD",
+  "place_id": "ChIJr-HqXN882jER2E9Nqm_z-1g",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6411986155416145880",
+  "vicinity": "Singapore"
+}

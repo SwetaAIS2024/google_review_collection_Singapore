@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore, 新加坡",
+  "geometry": {
+    "location": {
+      "lat": 1.3233171,
+      "lng": 103.9366621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324578730291502,
+        "lng": 103.9380415802915
+      },
+      "southwest": {
+        "lat": 1.321880769708498,
+        "lng": 103.9353436197085
+      }
+    }
+  },
+  "name": "勿洛",
+  "place_id": "ChIJj7LNWOsj2jERz7GVt8fjK0Q",
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4912270265495695823",
+  "vicinity": "新加坡"
+}

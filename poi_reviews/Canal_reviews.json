@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Marine Parade, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2939107,
+      "lng": 103.8961605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.29674585,
+        "lng": 103.8971710802915
+      },
+      "southwest": {
+        "lat": 1.29296565,
+        "lng": 103.8944731197085
+      }
+    }
+  },
+  "name": "Canal",
+  "place_id": "ChIJpdECPAAZ2jERBf1t2vG0hJE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "🎣Beautiful Canal near the Boat Shed.\n🎣Very soothing and breezy.\nSit by the Canal in the evening, let the sound of the water and the cool breeze decluster your congested mind.",
+      "time": 1730446288,
+      "translated": false
+    },
+    {
+      "author_name": "alwyn",
+      "author_url": "https://www.google.com/maps/contrib/105653144240447559456/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkXnewpXOrbVMVPPKLXDTACsS6cXFhj359h07f72izYgpiuHKy=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1730528635,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10485704783270116613",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

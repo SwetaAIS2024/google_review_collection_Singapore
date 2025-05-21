@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Unnamed Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279808,
+      "lng": 103.7036629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281177580291502,
+        "lng": 103.7050432302915
+      },
+      "southwest": {
+        "lat": 1.278479619708498,
+        "lng": 103.7023452697085
+      }
+    }
+  },
+  "name": "PAC warehouse",
+  "place_id": "ChIJz4HsRgAF2jERBDURJlTcd-o",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16895214781077730564",
+  "vicinity": "Unnamed Road"
+}

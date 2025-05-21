@@ -1,0 +1,65 @@
+{
+  "formatted_address": "62 Somme Road, #01-03, Parc Somme, Farrer Park MRT, Singapore 207877",
+  "geometry": {
+    "location": {
+      "lat": 1.3112813,
+      "lng": 103.8585046
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312654130291502,
+        "lng": 103.8598173302915
+      },
+      "southwest": {
+        "lat": 1.309956169708498,
+        "lng": 103.8571193697085
+      }
+    }
+  },
+  "name": "Yu Cheng TCM 玉成中医中心",
+  "place_id": "ChIJNd6qDbsZ2jERbfDleM9JkpI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Wan Lin Chiam",
+      "author_url": "https://www.google.com/maps/contrib/112008076228336473525/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk8bSdp-uagM15OIfVEcW8rayLfj4hG6sI1NkZzupIOtXhmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Chanced upon this tcm. Doc zheng is friendly. His advice and medicine helps my ailment. Need to make appointment and it's cash payment only.",
+      "time": 1714654263,
+      "translated": false
+    },
+    {
+      "author_name": "K Sim",
+      "author_url": "https://www.google.com/maps/contrib/101532056021102171462/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnw4uYxf7djq2mrbOWCPqRSSuL1D2yYdK3WqmA3dj-Oxdmh4Aq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543673301,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Toh",
+      "author_url": "https://www.google.com/maps/contrib/106689744299937312401/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHC4EUBSKnzYMbmjvSg4V0iJ4tyB8D-HqU4_q14IQ8gJfKBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1526171268,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10561585231572627565",
+  "user_ratings_total": 3,
+  "vicinity": "62 Somme Road, #01-03, Parc Somme, Farrer Park MRT"
+}

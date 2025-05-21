@@ -1,0 +1,31 @@
+{
+  "formatted_address": "704 Bedok Reservoir Rd, Block 704, Singapore 470704",
+  "geometry": {
+    "location": {
+      "lat": 1.3363552,
+      "lng": 103.919809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337731330291502,
+        "lng": 103.9211052302915
+      },
+      "southwest": {
+        "lat": 1.335033369708498,
+        "lng": 103.9184072697085
+      }
+    }
+  },
+  "name": "Eng Pang Supermarket Pte. Ltd.",
+  "place_id": "ChIJOYJ97Vk92jER0ItOlX-kpfE",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17412504402170645456",
+  "vicinity": "704 Bedok Reservoir Road, Block 704"
+}

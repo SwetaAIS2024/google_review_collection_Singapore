@@ -1,0 +1,65 @@
+{
+  "formatted_address": "22 Cross St, Singapore 048421",
+  "geometry": {
+    "location": {
+      "lat": 1.2843189,
+      "lng": 103.8467228
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285777480291502,
+        "lng": 103.8480551802915
+      },
+      "southwest": {
+        "lat": 1.283079519708498,
+        "lng": 103.8453572197085
+      }
+    }
+  },
+  "name": "EHL Asia-Pacific Office Singapore",
+  "place_id": "ChIJ2fkF8QwZ2jERNo7EgF8OO28",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Christopher Bader",
+      "author_url": "https://www.google.com/maps/contrib/100352803288603129196/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTTgIcAHl9eq0uD8NAelftoLxn-8oHvoQqBMhoSFtCE5uiZ6Tj=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Cool office in a great location! :) Thank you for the wonderful hospitality.",
+      "time": 1488261039,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa Dion",
+      "author_url": "https://www.google.com/maps/contrib/112241855886403344299/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDEawKIIsTaOQADZRldBtQvc2BheJaQlHrAcXBon_9YTO8hg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583870327,
+      "translated": false
+    },
+    {
+      "author_name": "Harish Gadamsetty",
+      "author_url": "https://www.google.com/maps/contrib/109490536718703030682/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMSk5wgCLVtzl5cnpcKOKpzC8QeCpyT-C69C0UZCl7yWVPrTo=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510051207,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8015015765180976694",
+  "user_ratings_total": 3,
+  "vicinity": "22 Cross Street, Singapore"
+}

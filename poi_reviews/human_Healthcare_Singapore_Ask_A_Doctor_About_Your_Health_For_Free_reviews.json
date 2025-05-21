@@ -1,0 +1,30 @@
+{
+  "formatted_address": "7 Temasek Boulevard 12-07 Suntec Tower One, Singapore 038987",
+  "geometry": {
+    "location": {
+      "lat": 1.2954194,
+      "lng": 103.8584778
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296731980291502,
+        "lng": 103.8599261302915
+      },
+      "southwest": {
+        "lat": 1.294034019708498,
+        "lng": 103.8572281697085
+      }
+    }
+  },
+  "name": "human Healthcare Singapore: Ask A Doctor About Your Health For Free",
+  "place_id": "ChIJQRdLGDIZ2jER3TJNm7WrUkU",
+  "types": [
+    "dentist",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4995243733190259421",
+  "vicinity": "7 Temasek Boulevard 12-07 Suntec Tower One, Singapore"
+}

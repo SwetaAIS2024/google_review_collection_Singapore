@@ -1,0 +1,53 @@
+{
+  "formatted_address": "15E Jln Haji Salam, Singapore 468779",
+  "geometry": {
+    "location": {
+      "lat": 1.320178,
+      "lng": 103.952485
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321607980291502,
+        "lng": 103.9539197802915
+      },
+      "southwest": {
+        "lat": 1.318910019708498,
+        "lng": 103.9512218197085
+      }
+    }
+  },
+  "name": "Palm Tree Nines",
+  "place_id": "ChIJFV54cdEi2jERPyXTAr-4hDg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ang Alden",
+      "author_url": "https://www.google.com/maps/contrib/112189846374694778365/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2ieskh9MANQFE8gGV9zFiyh2EBszl0yJddkBg5EgItG_6MzGD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "the place was not so bad. i do love the place. i wish to go back there again.",
+      "time": 1576809585,
+      "translated": false
+    },
+    {
+      "author_name": "dulal hossain",
+      "author_url": "https://www.google.com/maps/contrib/100377456650322706119/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_1gbtgDC9G8r4ka5GIiDzQbUYvl28LKDHFL8HrvwqsI4c8b2sLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711588316,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4072583093575427391",
+  "user_ratings_total": 2,
+  "vicinity": "15E Jalan Haji Salam, Singapore"
+}

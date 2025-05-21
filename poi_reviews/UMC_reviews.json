@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.381097,
+      "lng": 103.932503
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382428180291502,
+        "lng": 103.9338416302915
+      },
+      "southwest": {
+        "lat": 1.379730219708498,
+        "lng": 103.9311436697085
+      }
+    }
+  },
+  "name": "UMC",
+  "place_id": "ChIJw4CpopQ92jERWGSu_z-rdAk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=681357735000695896",
+  "vicinity": "Singapore"
+}

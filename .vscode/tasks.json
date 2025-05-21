@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Install dependencies",
+            "type": "shell",
+            "command": "pip install -r requirements.txt",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Run main script",
+            "type": "shell",
+            "command": "python main.py",
+            "group": "test",
+            "problemMatcher": []
+        }
+    ]
+}

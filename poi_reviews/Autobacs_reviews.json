@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34698,
+      "lng": 103.76384
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348298330291502,
+        "lng": 103.7651967302915
+      },
+      "southwest": {
+        "lat": 1.345600369708498,
+        "lng": 103.7624987697085
+      }
+    }
+  },
+  "name": "Autobacs",
+  "place_id": "ChIJS32cNV0Q2jER5xWkpHpoXzI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mike Carmona",
+      "author_url": "https://www.google.com/maps/contrib/100313672372678431961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD7yT61iokB2BBgs6NOijRuOsGS-u6TxSxr9JCXTdZ-E9SKiH9=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Great auto shop, lots of things to see and some are even on sale. They help you find the right fitment for the parts and accesories you need.",
+      "time": 1521861857,
+      "translated": false
+    },
+    {
+      "author_name": "Vrind Patel",
+      "author_url": "https://www.google.com/maps/contrib/112337053525366156119/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXkbi8FLGuReJUgqwFyNgYIfFex3QS83lqo3hNNs-JzCZP-iOHxA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1627946610,
+      "translated": false
+    },
+    {
+      "author_name": "JL",
+      "author_url": "https://www.google.com/maps/contrib/118323783943469780759/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgZW9ydnouy2U_vL7ZNCS617Y0mPuXy2psGLo6GD7zhfvKX80eGg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607739296,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3629734700641424871",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

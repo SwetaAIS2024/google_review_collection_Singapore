@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Upper Pickering St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2847656,
+      "lng": 103.8456287
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286197030291502,
+        "lng": 103.8470281302915
+      },
+      "southwest": {
+        "lat": 1.283499069708498,
+        "lng": 103.8443301697085
+      }
+    }
+  },
+  "name": "M Basheer Ahamed",
+  "place_id": "ChIJ-5iwVQsZ2jEROMvwaExk_94",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16068672274822122296",
+  "vicinity": "1 Upper Pickering Street"
+}

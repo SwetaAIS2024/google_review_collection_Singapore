@@ -1,0 +1,42 @@
+{
+  "formatted_address": "150 Orchard Rd, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.3011967,
+      "lng": 103.8412416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302667280291502,
+        "lng": 103.8426740302915
+      },
+      "southwest": {
+        "lat": 1.299969319708498,
+        "lng": 103.8399760697085
+      }
+    }
+  },
+  "name": "Club Ai Lounge Pte Ltd",
+  "place_id": "ChIJBaw6-5YZ2jER0Hgy_wNlWIo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "shia li lee",
+      "author_url": "https://www.google.com/maps/contrib/106920254007458615922/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzywRKvopM8guTHLZRbiJPk3IomC9U27jrCmGDjdhDAoEH1w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705419987,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9968828843025397968",
+  "user_ratings_total": 1,
+  "vicinity": "150 Orchard Road"
+}

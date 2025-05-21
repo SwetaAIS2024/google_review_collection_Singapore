@@ -1,0 +1,28 @@
+{
+  "formatted_address": "20A Bali Ln, Singapore 189856",
+  "geometry": {
+    "location": {
+      "lat": 1.3007678,
+      "lng": 103.8587458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302180780291502,
+        "lng": 103.8600514302915
+      },
+      "southwest": {
+        "lat": 1.299482819708498,
+        "lng": 103.8573534697085
+      }
+    }
+  },
+  "name": "Don't Eat Snake",
+  "place_id": "ChIJz9hPYvMZ2jERPYC9bCEJXtA",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15014448246862741565",
+  "vicinity": "20A Bali Lane"
+}

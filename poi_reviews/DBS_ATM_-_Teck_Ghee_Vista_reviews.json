@@ -1,0 +1,29 @@
+{
+  "formatted_address": "304 Ang Mo Kio Ave 1, Teck Ghee Vista, Block 304, Singapore 560304",
+  "geometry": {
+    "location": {
+      "lat": 1.3663611,
+      "lng": 103.8449547
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367485530291502,
+        "lng": 103.8464003802915
+      },
+      "southwest": {
+        "lat": 1.364787569708498,
+        "lng": 103.8437024197085
+      }
+    }
+  },
+  "name": "DBS ATM - Teck Ghee Vista",
+  "place_id": "ChIJtbNhpQYX2jERPKyp2iKRNxk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1817080553550752828",
+  "vicinity": "304 Ang Mo Kio Avenue 1, Teck Ghee Vista, Block 304"
+}

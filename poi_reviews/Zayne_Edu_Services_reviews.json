@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1 Woodlands Rd, Singapore 677899",
+  "geometry": {
+    "location": {
+      "lat": 1.37978,
+      "lng": 103.760383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381065530291502,
+        "lng": 103.7617641302915
+      },
+      "southwest": {
+        "lat": 1.378367569708498,
+        "lng": 103.7590661697085
+      }
+    }
+  },
+  "name": "Zayne Edu Services",
+  "place_id": "ChIJTXT5XbwR2jERKd1DII9cuiI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "耐看哥（BeckhamYong）",
+      "author_url": "https://www.google.com/maps/contrib/104797993166056906837/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeH-Fkn3MI8TIiyiTzxdhklzM2RZowmtgzZ6rLmH2hrr2_mfM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1649168121,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2502414312749129001",
+  "user_ratings_total": 1,
+  "vicinity": "1 Woodlands Road"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2932794,
+      "lng": 103.8606598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294642280291502,
+        "lng": 103.8620292302915
+      },
+      "southwest": {
+        "lat": 1.291944319708498,
+        "lng": 103.8593312697085
+      }
+    }
+  },
+  "name": "Promenade Stn Exit B",
+  "place_id": "ChIJn2QQNqkZ2jERlcJxNdtFL2w",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Pan Arielle",
+      "author_url": "https://www.google.com/maps/contrib/107053183806165331857/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQhW16EBcd90ME_W2Yyl6VP-x8-OBfqUbh0lHkuN2FJkUh1w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Bus 97 from Harbour Front can stop here if you want to go to visit the Millennia walk (entrance).",
+      "time": 1727653697,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7795526287798420117",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

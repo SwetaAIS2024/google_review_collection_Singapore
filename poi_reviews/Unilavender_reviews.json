@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Ubi Cres, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3279339,
+      "lng": 103.8974039
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329253180291502,
+        "lng": 103.8987630302915
+      },
+      "southwest": {
+        "lat": 1.326555219708498,
+        "lng": 103.8960650697085
+      }
+    }
+  },
+  "name": "Unilavender",
+  "place_id": "ChIJc2fvEvYX2jERrtNDINTpL1U",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6138381914412929966",
+  "vicinity": "Ubi Crescent"
+}

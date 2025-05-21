@@ -1,0 +1,30 @@
+{
+  "formatted_address": "372 Bukit Batok Street 31, #01-366 Neighbourhood Centre, Singapore 650372",
+  "geometry": {
+    "location": {
+      "lat": 1.3589602,
+      "lng": 103.7512155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360328930291502,
+        "lng": 103.7522352802915
+      },
+      "southwest": {
+        "lat": 1.357630969708498,
+        "lng": 103.7495373197085
+      }
+    }
+  },
+  "name": "Fresh Pick Mart",
+  "place_id": "ChIJVwvMcgAR2jERK75tHjQqQmk",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7584671125782511147",
+  "vicinity": "372 Bukit Batok Street 31, #01-366 Neighbourhood Centre"
+}

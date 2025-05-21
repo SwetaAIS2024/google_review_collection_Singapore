@@ -1,0 +1,51 @@
+{
+  "formatted_address": "27A Jurong Port Rd, Singapore 619101",
+  "geometry": {
+    "location": {
+      "lat": 1.3157141,
+      "lng": 103.7202737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317127030291502,
+        "lng": 103.7216342802915
+      },
+      "southwest": {
+        "lat": 1.314429069708498,
+        "lng": 103.7189363197085
+      }
+    }
+  },
+  "name": "Systematic Engineering Pte Ltd",
+  "place_id": "ChIJKYL9TU4F2jERBzGoJurBVCU",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Rajesh S",
+      "author_url": "https://www.google.com/maps/contrib/117454454060207459279/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCMjRZ8QncbHxhMSwVg9hSJuxTFcUhVSlM9P14nG6GQv0nZlSb=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1637687023,
+      "translated": false
+    },
+    {
+      "author_name": "Aaron Choi",
+      "author_url": "https://www.google.com/maps/contrib/114726276453471675721/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1Ctm3tgIWXAxMt-wKMDIYxQuURsrI_Zu2oruvdjmNQxdinIs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1475744542,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2689988088862093575",
+  "user_ratings_total": 2,
+  "vicinity": "27A Jurong Port Road, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3646,
+      "lng": 103.743454
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365915530291502,
+        "lng": 103.7448455802915
+      },
+      "southwest": {
+        "lat": 1.363217569708498,
+        "lng": 103.7421476197085
+      }
+    }
+  },
+  "name": "Opp Dunearn Sec Sch",
+  "place_id": "ChIJ91gx1cwR2jER5h6v27QE6Ew",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5541684516305706726",
+  "vicinity": "Singapore"
+}

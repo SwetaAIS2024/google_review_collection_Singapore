@@ -1,0 +1,29 @@
+{
+  "formatted_address": "590 E Coast Rd, Singapore 458995",
+  "geometry": {
+    "location": {
+      "lat": 1.3110367,
+      "lng": 103.9201512
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312465430291502,
+        "lng": 103.9214666802915
+      },
+      "southwest": {
+        "lat": 1.309767469708498,
+        "lng": 103.9187687197085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil East Coast Road",
+  "place_id": "ChIJW6bUpJkj2jERDK_yu5kPfxs",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1981319514023964428",
+  "vicinity": "590 East Coast Road, Singapore"
+}

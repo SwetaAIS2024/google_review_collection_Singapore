@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.336809,
+      "lng": 103.694061
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338163880291502,
+        "lng": 103.6954223302915
+      },
+      "southwest": {
+        "lat": 1.335465919708498,
+        "lng": 103.6927243697085
+      }
+    }
+  },
+  "name": "Blk 986 CP",
+  "place_id": "ChIJDznGqpoP2jER0RuFlTTdvd4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16050227864934882257",
+  "vicinity": "Singapore"
+}

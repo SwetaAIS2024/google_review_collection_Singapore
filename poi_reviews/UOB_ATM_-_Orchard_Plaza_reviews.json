@@ -1,0 +1,29 @@
+{
+  "formatted_address": "150 Orchard Rd, #01-53/54/55 Orchard Plaza, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.3008223,
+      "lng": 103.8410672
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302474980291502,
+        "lng": 103.8425868302915
+      },
+      "southwest": {
+        "lat": 1.299777019708498,
+        "lng": 103.8398888697085
+      }
+    }
+  },
+  "name": "UOB ATM - Orchard Plaza",
+  "place_id": "ChIJjSGchooZ2jERFGpnEy_q3IM",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9501726801754810900",
+  "vicinity": "150 Orchard Road, #01-53/54/55 Orchard Plaza"
+}

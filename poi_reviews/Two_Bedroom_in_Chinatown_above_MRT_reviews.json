@@ -1,0 +1,64 @@
+{
+  "formatted_address": "331 New Bridge Rd, #04-16, Singapore 088764",
+  "geometry": {
+    "location": {
+      "lat": 1.2800957,
+      "lng": 103.8404534
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281417830291502,
+        "lng": 103.8416674302915
+      },
+      "southwest": {
+        "lat": 1.278719869708498,
+        "lng": 103.8389694697085
+      }
+    }
+  },
+  "name": "Two Bedroom in Chinatown above MRT",
+  "place_id": "ChIJpVYhbXIZ2jERetK0kQBKMVM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "郑刚立",
+      "author_url": "https://www.google.com/maps/contrib/111810691137017668420/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBhX5aGWgcSZlkJFMy0FcNFe8dzRXDT8z4agqY8pQ7PTdypw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "The environment is beautiful and the quality of the people is also very good",
+      "time": 1725321926,
+      "translated": true
+    },
+    {
+      "author_name": "Albert Ng",
+      "author_url": "https://www.google.com/maps/contrib/117299475885738181197/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3cTZRac98gy_4jJZ8rEU5Lv-TqCf_x7EvPOemmRSKFuHcdw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738637073,
+      "translated": false
+    },
+    {
+      "author_name": "GOODMAN HARA",
+      "author_url": "https://www.google.com/maps/contrib/116796771054604186532/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoOs7j5Gb__iT9MgPQUdOiOLQJZGwXcPpVP1DhBj2jIP9uoPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1679942687,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5994653945311842938",
+  "user_ratings_total": 3,
+  "vicinity": "331 New Bridge Road, #04-16, Singapore"
+}

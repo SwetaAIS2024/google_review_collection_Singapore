@@ -1,0 +1,56 @@
+{
+  "formatted_address": "1 Commonwealth Dr, Singapore 149603",
+  "geometry": {
+    "location": {
+      "lat": 1.2955912,
+      "lng": 103.7989408
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297027330291502,
+        "lng": 103.8003270302915
+      },
+      "southwest": {
+        "lat": 1.294329369708498,
+        "lng": 103.7976290697085
+      }
+    }
+  },
+  "name": "Alcoholics Anonymous",
+  "place_id": "ChIJlfn07Uca2jERO-QVuqp7lRE",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Komi Jayakumar",
+      "author_url": "https://www.google.com/maps/contrib/113678676451248094617/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMO4Ao7sBseUmH_0dV3WIAjlqGx9tk1mHtTHYkyvQ1O14KbD-88Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Amazing food.. spicy and perfect for the Hendricks Gin we had. The ambience and music was enthralling. Thank you for the memorable experience. Be back for more.",
+      "time": 1691510166,
+      "translated": false
+    },
+    {
+      "author_name": "Freddy Soh",
+      "author_url": "https://www.google.com/maps/contrib/108681159876877689909/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoxhn8DnjO_qEWZ6qCNBOa0AVew3fNBb1C2lODA-SKhHdm=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Call and most time not answer",
+      "time": 1689570225,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1267054843371316283",
+  "user_ratings_total": 2,
+  "vicinity": "1 Commonwealth Drive"
+}

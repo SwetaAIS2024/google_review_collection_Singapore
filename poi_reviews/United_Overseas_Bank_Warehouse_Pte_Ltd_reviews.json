@@ -1,0 +1,29 @@
+{
+  "formatted_address": "31 Pioneer Sector 1, Singapore 628435",
+  "geometry": {
+    "location": {
+      "lat": 1.301647,
+      "lng": 103.658045
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302545730291502,
+        "lng": 103.6593395302915
+      },
+      "southwest": {
+        "lat": 1.299847769708498,
+        "lng": 103.6566415697085
+      }
+    }
+  },
+  "name": "United Overseas Bank Warehouse Pte Ltd",
+  "place_id": "ChIJ0WC-vscF2jEROjDwRjRrfF4",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6808434608949964858",
+  "vicinity": "31 Pioneer Sector 1"
+}

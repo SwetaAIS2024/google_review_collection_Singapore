@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Anson Rd, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.2758761,
+      "lng": 103.8458687
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277103380291502,
+        "lng": 103.8473849302915
+      },
+      "southwest": {
+        "lat": 1.274405419708498,
+        "lng": 103.8446869697085
+      }
+    }
+  },
+  "name": "His Glory",
+  "place_id": "ChIJWw4PRBMZ2jERDDvpZEztjlM",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Moon choo Sum",
+      "author_url": "https://www.google.com/maps/contrib/112881884487781466674/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdp7V2KFkL7uoOcZ1hY4tPgwQQsqEaVTHSnIqLhg8TDc4pjQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1663067773,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6021010664207235852",
+  "user_ratings_total": 1,
+  "vicinity": "10 Anson Road, Singapore"
+}

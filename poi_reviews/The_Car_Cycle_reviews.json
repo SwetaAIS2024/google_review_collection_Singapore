@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3 Jln Tari Zapin, Singapore 799050",
+  "geometry": {
+    "location": {
+      "lat": 1.397841,
+      "lng": 103.8719923
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399186280291502,
+        "lng": 103.8733342802915
+      },
+      "southwest": {
+        "lat": 1.396488319708498,
+        "lng": 103.8706363197085
+      }
+    }
+  },
+  "name": "The Car Cycle",
+  "place_id": "ChIJUXY8v_AX2jERzPlL7oc4_Uc",
+  "types": [
+    "car_rental",
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5187364502270376396",
+  "vicinity": "3 Jalan Tari Zapin"
+}

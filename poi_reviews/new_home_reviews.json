@@ -1,0 +1,30 @@
+{
+  "formatted_address": "16 Bedok S Rd, Singapore 460016",
+  "geometry": {
+    "location": {
+      "lat": 1.320547,
+      "lng": 103.9355572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321946630291502,
+        "lng": 103.9371477302915
+      },
+      "southwest": {
+        "lat": 1.319248669708498,
+        "lng": 103.9344497697085
+      }
+    }
+  },
+  "name": "new home",
+  "place_id": "ChIJt9XXbAAX2jERxkrCShfx5cE",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13971838501327620806",
+  "vicinity": "16 Bedok South Road"
+}

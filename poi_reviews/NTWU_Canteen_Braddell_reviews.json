@@ -1,0 +1,46 @@
+{
+  "formatted_address": "205 Braddell Rd, Singapore 579701",
+  "geometry": {
+    "location": {
+      "lat": 1.3411878,
+      "lng": 103.8595435
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342575680291502,
+        "lng": 103.8608749302915
+      },
+      "southwest": {
+        "lat": 1.339877719708498,
+        "lng": 103.8581769697085
+      }
+    }
+  },
+  "name": "NTWU Canteen (Braddell)",
+  "place_id": "ChIJ0cGdLgAX2jER3lQVXHTMQaI",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "SC L",
+      "author_url": "https://www.google.com/maps/contrib/116604462374572974107/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIbi7V3pfxjO1uIOnd5VKavyoh2NK8NsT2JBGLhi4WsZBbDw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "A simple canteen for staff and visitors of the workshops. Very friendly auntie at the drink stall.",
+      "time": 1688788265,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11691850907763692766",
+  "user_ratings_total": 1,
+  "vicinity": "205 Braddell Road, Singapore"
+}

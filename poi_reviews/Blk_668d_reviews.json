@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340891,
+      "lng": 103.702545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342255530291502,
+        "lng": 103.7038576802915
+      },
+      "southwest": {
+        "lat": 1.339557569708498,
+        "lng": 103.7011597197085
+      }
+    }
+  },
+  "name": "Blk 668d",
+  "place_id": "ChIJ6YxCg5MP2jERd_Ld4UKYWL4",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13715880078181528183",
+  "vicinity": "Singapore"
+}

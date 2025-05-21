@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1 Sallim Rd, Singapore 387621",
+  "geometry": {
+    "location": {
+      "lat": 1.3451129,
+      "lng": 103.7649294
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346463880291502,
+        "lng": 103.7662784302915
+      },
+      "southwest": {
+        "lat": 1.343765919708498,
+        "lng": 103.7635804697085
+      }
+    }
+  },
+  "name": "Canossian School for the Hearing Impaired",
+  "place_id": "ChIJc9yc7WcQ2jERgGQP0slHqZM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rahman Saidur",
+      "author_url": "https://www.google.com/maps/contrib/115933167409208949056/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZWoBuHQZtV6zQudVpb2xlYsi2GOqvnBjJ0Q0obJ9srxv9a1A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732926819,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10640114526777730176",
+  "user_ratings_total": 1,
+  "vicinity": "1 Sallim Road"
+}

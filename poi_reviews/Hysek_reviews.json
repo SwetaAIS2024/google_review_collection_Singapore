@@ -1,0 +1,28 @@
+{
+  "formatted_address": "2 Bayfront Ave, Singapore 018972",
+  "geometry": {
+    "location": {
+      "lat": 1.284354,
+      "lng": 103.859717
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285731280291502,
+        "lng": 103.8614212802915
+      },
+      "southwest": {
+        "lat": 1.283033319708498,
+        "lng": 103.8587233197085
+      }
+    }
+  },
+  "name": "Hysek",
+  "place_id": "ChIJx4wPggYZ2jER8M11SO8uYKY",
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11988633813308001776",
+  "vicinity": "2 Bayfront Avenue"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "2 Bayfront Ave, B2, Singapore 018972",
+  "geometry": {
+    "location": {
+      "lat": 1.284354,
+      "lng": 103.859717
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285559630291502,
+        "lng": 103.8613856302915
+      },
+      "southwest": {
+        "lat": 1.282861669708498,
+        "lng": 103.8586876697085
+      }
+    }
+  },
+  "name": "Fjord",
+  "place_id": "ChIJx4wPggYZ2jERmr3CqGr4_jk",
+  "types": [
+    "jewelry_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4179050641227955610",
+  "vicinity": "2 Bayfront Avenue, B2"
+}

@@ -1,0 +1,46 @@
+{
+  "formatted_address": "727 Clementi West Street 2, #01-232, Singapore 120727",
+  "geometry": {
+    "location": {
+      "lat": 1.304455,
+      "lng": 103.763716
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305884280291502,
+        "lng": 103.7653977802915
+      },
+      "southwest": {
+        "lat": 1.303186319708498,
+        "lng": 103.7626998197085
+      }
+    }
+  },
+  "name": "長城 Coffee Shop Blk 727",
+  "place_id": "ChIJVanKYEwb2jERPHZY4aL1Jyg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chin Fung Ong",
+      "author_url": "https://www.google.com/maps/contrib/116830559331192751829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr3mDSKGtzVkyWnS6zku6tWEKPoV-TdcOAPTZgFBbGvGif1gWV=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Great find, new stall! For a satisfying, good portioned complete meal -meat, pasta and sides all for $6.90! It’s a steal",
+      "time": 1739280249,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2893551365523011132",
+  "user_ratings_total": 1,
+  "vicinity": "727 Clementi West Street 2, #01-232, Singapore"
+}

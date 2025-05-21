@@ -1,0 +1,44 @@
+{
+  "formatted_address": "25 Airline Rd, Singapore 819829",
+  "geometry": {
+    "location": {
+      "lat": 1.3772009,
+      "lng": 103.997269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378718130291502,
+        "lng": 103.9982499802915
+      },
+      "southwest": {
+        "lat": 1.376020169708498,
+        "lng": 103.9955520197085
+      }
+    }
+  },
+  "name": "Singapore Flying College Pte Ltd",
+  "place_id": "ChIJ0duAIHI82jER_eWfkXcrYcc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Manisha",
+      "author_url": "https://www.google.com/maps/contrib/114240415914273770818/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfs4cZ6SetURfneaUDMorRQRnrmMBTYe63u2FMF6egG4UIsQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "Very nice college",
+      "time": 1467515666,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14366812078832870909",
+  "user_ratings_total": 1,
+  "vicinity": "25 Airline Road"
+}

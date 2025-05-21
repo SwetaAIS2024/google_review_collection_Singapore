@@ -1,0 +1,43 @@
+{
+  "formatted_address": "620A Lor 1 Toa Payoh, Singapore 319762",
+  "geometry": {
+    "location": {
+      "lat": 1.336866,
+      "lng": 103.8414307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338216730291502,
+        "lng": 103.8432613802915
+      },
+      "southwest": {
+        "lat": 1.335518769708498,
+        "lng": 103.8405634197085
+      }
+    }
+  },
+  "name": "Toa payoh hospital (old)",
+  "place_id": "ChIJlQjDZAAX2jER_laMqVMC_Yo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "R R",
+      "author_url": "https://www.google.com/maps/contrib/104149410256952067167/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI5DMpwQ8QPlp-vNqz-DDK7M2Ouu_PFna5MbPvZzaHpv-dNA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733582901,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10015163704691939070",
+  "user_ratings_total": 1,
+  "vicinity": "620A Lorong 1 Toa Payoh, Singapore"
+}

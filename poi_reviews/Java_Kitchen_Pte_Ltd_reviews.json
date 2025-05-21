@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2640843,
+      "lng": 103.8223833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265443180291502,
+        "lng": 103.8231675
+      },
+      "southwest": {
+        "lat": 1.262745219708498,
+        "lng": 103.8201315
+      }
+    }
+  },
+  "name": "Java Kitchen Pte Ltd",
+  "place_id": "ChIJQ7ONulgZ2jERR7vifixFn2c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ariyanni Hamidon",
+      "author_url": "https://www.google.com/maps/contrib/112564273416864051584/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcDC_RTBeM2aULIQgcA9p7WbrilROY5C9BC2ZX87x0yZqMmQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568009260,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7466762764613237575",
+  "user_ratings_total": 1,
+  "vicinity": "1 HarbourFront Walk"
+}

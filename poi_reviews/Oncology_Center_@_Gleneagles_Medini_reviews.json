@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Lvl 1, COE Building, No. 2, Jalan Medini Utara 4, Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4269245,
+      "lng": 103.6355993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.428223680291502,
+        "lng": 103.6368636802915
+      },
+      "southwest": {
+        "lat": 1.425525719708498,
+        "lng": 103.6341657197085
+      }
+    }
+  },
+  "name": "Oncology Center @ Gleneagles Medini",
+  "place_id": "ChIJCZk7BXYM2jERfPUWNL7L4Po",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Emily Chow",
+      "author_url": "https://www.google.com/maps/contrib/102454213749390589499/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpGHNgXGOeJOF9EaPovn8ymkoWekybWkcjnZH1MZUjNR7fTLU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1602605255,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18077672922043315580",
+  "user_ratings_total": 1,
+  "vicinity": "Lvl 1, COE Building, No. 2, Jalan Medini Utara 4, Medini Iskandar, Iskandar Puteri"
+}

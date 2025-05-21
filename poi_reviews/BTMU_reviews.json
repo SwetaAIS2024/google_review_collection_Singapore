@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Straits View, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2779248,
+      "lng": 103.852877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279460480291502,
+        "lng": 103.8543265302915
+      },
+      "southwest": {
+        "lat": 1.276762519708498,
+        "lng": 103.8516285697085
+      }
+    }
+  },
+  "name": "BTMU",
+  "place_id": "ChIJJdMUuBEZ2jERNlm0iedyCSA",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2308502622777399606",
+  "vicinity": "Straits View"
+}

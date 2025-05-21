@@ -1,0 +1,28 @@
+{
+  "formatted_address": "The Chinese High School Clock Tower Building, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3265101,
+      "lng": 103.8027576
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327763780291502,
+        "lng": 103.8042270802915
+      },
+      "southwest": {
+        "lat": 1.325065819708498,
+        "lng": 103.8015291197085
+      }
+    }
+  },
+  "name": "iSpark Room (The Space)",
+  "place_id": "ChIJxXB5SQAb2jERx44JI41spgM",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=263016981681770183",
+  "vicinity": "The Chinese High School Clock Tower Building"
+}

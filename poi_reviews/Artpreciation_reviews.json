@@ -1,0 +1,28 @@
+{
+  "formatted_address": "231 Bain St, #01-65, Complex 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2971365,
+      "lng": 103.8532693
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298410380291502,
+        "lng": 103.8544725302915
+      },
+      "southwest": {
+        "lat": 1.295712419708498,
+        "lng": 103.8517745697085
+      }
+    }
+  },
+  "name": "Artpreciation",
+  "place_id": "ChIJ2e0lbxwZ2jEReMhlI7lKnnk",
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8763524083932842104",
+  "vicinity": "231 Bain Street, #01-65, Complex"
+}

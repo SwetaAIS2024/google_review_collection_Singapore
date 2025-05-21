@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2776519,
+      "lng": 103.8085881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279062430291502,
+        "lng": 103.8099554802915
+      },
+      "southwest": {
+        "lat": 1.276364469708498,
+        "lng": 103.8072575197085
+      }
+    }
+  },
+  "name": "Blk 85",
+  "place_id": "ChIJ1_UdIMUb2jER5hzu9GR2Qj8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mudz mudz",
+      "author_url": "https://www.google.com/maps/contrib/111123242005596825743/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLA19nXt16OPaB2mTumgVxGOBSJ7-GxAN2ygKSvTQUF3WYbw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good view of sentosa and MBC",
+      "time": 1607936402,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4558335948830416102",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

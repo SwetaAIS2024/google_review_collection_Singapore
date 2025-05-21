@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31441,
+      "lng": 103.93499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315704630291502,
+        "lng": 103.9363450302915
+      },
+      "southwest": {
+        "lat": 1.313006669708498,
+        "lng": 103.9336470697085
+      }
+    }
+  },
+  "name": "Evergreen Gdn, Upp East Coast Rd",
+  "place_id": "ChIJMTXBVbgi2jEROuJZ-3Xux4s",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10072281282132959802",
+  "vicinity": "Singapore"
+}

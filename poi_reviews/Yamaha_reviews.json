@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Pendas, Malaysia, 81550 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3787512,
+      "lng": 103.6345908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380026930291502,
+        "lng": 103.6359740802915
+      },
+      "southwest": {
+        "lat": 1.377328969708498,
+        "lng": 103.6332761197085
+      }
+    }
+  },
+  "name": "Yamaha",
+  "place_id": "ChIJBRgTZjMJ2jERlGcxHDJAkOw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alay Oleng",
+      "author_url": "https://www.google.com/maps/contrib/106044834494149186049/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwXtdPopZtvebO7SnryG4s8AORB14su4nKQKHzYZ_sgPOVGQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Ok",
+      "time": 1614370575,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17046195173562869652",
+  "user_ratings_total": 1,
+  "vicinity": "Malaysia"
+}

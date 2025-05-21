@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.355863,
+      "lng": 103.686111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357172730291502,
+        "lng": 103.6874643302915
+      },
+      "southwest": {
+        "lat": 1.354474769708498,
+        "lng": 103.6847663697085
+      }
+    }
+  },
+  "name": "Hall 11 Blk 55",
+  "place_id": "ChIJpR9gg6gP2jERvQSCNEJaRJM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10611705862387008701",
+  "vicinity": "Singapore"
+}

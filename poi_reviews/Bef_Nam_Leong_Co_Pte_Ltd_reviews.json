@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.297297,
+      "lng": 103.666306
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298668530291502,
+        "lng": 103.6676362802915
+      },
+      "southwest": {
+        "lat": 1.295970569708498,
+        "lng": 103.6649383197085
+      }
+    }
+  },
+  "name": "Bef Nam Leong Co Pte Ltd",
+  "place_id": "ChIJW8xG2bAF2jER0Ahkmm4ZcFk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Darren Goh",
+      "author_url": "https://www.google.com/maps/contrib/112825912956259970495/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOTOJFcuEg-slMkdzS45iVLD3s1lkJ9nrfV9iuuBJpVo6lXA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562901281,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6444679029594523856",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

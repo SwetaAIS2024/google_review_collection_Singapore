@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3036306,
+      "lng": 103.9029667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304945680291502,
+        "lng": 103.9042573802915
+      },
+      "southwest": {
+        "lat": 1.302247719708498,
+        "lng": 103.9015594197085
+      }
+    }
+  },
+  "name": "Singapore Katong V Village Hotel",
+  "place_id": "ChIJq7-_CXIY2jERty3jd_AKnMM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14095152961682615735",
+  "vicinity": "Singapore"
+}

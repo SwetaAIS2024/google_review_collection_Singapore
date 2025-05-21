@@ -1,0 +1,43 @@
+{
+  "formatted_address": "624 Choa Chu Kang Street 62, Singapore 680624",
+  "geometry": {
+    "location": {
+      "lat": 1.3980127,
+      "lng": 103.7470746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399680580291502,
+        "lng": 103.7485476302915
+      },
+      "southwest": {
+        "lat": 1.396982619708498,
+        "lng": 103.7458496697085
+      }
+    }
+  },
+  "name": "Local Delights",
+  "place_id": "ChIJu_U9EPQR2jERxSwf1te9K0Q",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Soh Xuan Yi",
+      "author_url": "https://www.google.com/maps/contrib/102487572603113857049/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTtKe4hLf3EfbBhI86L8Irg888Av6EkKwEVajQEFBbwH7CokAd=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657894125,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4912228553285643461",
+  "user_ratings_total": 1,
+  "vicinity": "624 Choa Chu Kang Street 62"
+}

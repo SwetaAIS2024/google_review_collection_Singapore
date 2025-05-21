@@ -1,0 +1,52 @@
+{
+  "formatted_address": "150 Ubi Ave 4, Singapore 408825",
+  "geometry": {
+    "location": {
+      "lat": 1.3345138,
+      "lng": 103.8961838
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335967280291502,
+        "lng": 103.8974935802915
+      },
+      "southwest": {
+        "lat": 1.333269319708498,
+        "lng": 103.8947956197085
+      }
+    }
+  },
+  "name": "ComOffice Supplies Pte. Ltd.",
+  "place_id": "ChIJvZQEWuwX2jEReVKM6QZ73I8",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Fathima Ramsiya",
+      "author_url": "https://www.google.com/maps/contrib/115082904062659878371/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULVL1079nivleQsKMubxil3yUtqMhHh9CDwR_AZPIya8ftXu6T=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711963115,
+      "translated": false
+    },
+    {
+      "author_name": "Mohamed",
+      "author_url": "https://www.google.com/maps/contrib/105963410155355519345/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVfacoGX7eWOgzLi48OHy9ebb6AEj_u5Tgo73PQb47kEL5BnVp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1595726072,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10366295711918346873",
+  "user_ratings_total": 2,
+  "vicinity": "150 Ubi Avenue 4, Singapore"
+}

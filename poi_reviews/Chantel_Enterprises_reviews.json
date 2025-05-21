@@ -1,0 +1,30 @@
+{
+  "formatted_address": "27 Foch Rd, Singapore 209264",
+  "geometry": {
+    "location": {
+      "lat": 1.3123879,
+      "lng": 103.8599085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313740030291502,
+        "lng": 103.8612942302915
+      },
+      "southwest": {
+        "lat": 1.311042069708498,
+        "lng": 103.8585962697085
+      }
+    }
+  },
+  "name": "Chantel Enterprises",
+  "place_id": "ChIJu2Q_LckZ2jERC5U5QfEqiPM",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17548323163718915339",
+  "vicinity": "27 Foch Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.402737,
+      "lng": 103.754677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404096180291502,
+        "lng": 103.7559717302915
+      },
+      "southwest": {
+        "lat": 1.401398219708498,
+        "lng": 103.7532737697085
+      }
+    }
+  },
+  "name": "Eurokars Ctr",
+  "place_id": "ChIJHz2hZCAS2jERsBir2ZwhCUk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5262774597109618864",
+  "vicinity": "Singapore"
+}

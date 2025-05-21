@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Hougang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3802291,
+      "lng": 103.884065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.381581330291502,
+        "lng": 103.8856242802915
+      },
+      "southwest": {
+        "lat": 1.378883369708498,
+        "lng": 103.8829263197085
+      }
+    }
+  },
+  "name": "Mindful Meadows Community Garden",
+  "place_id": "ChIJDTC0WgAX2jERev37GqgxpbU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "TF? OK.",
+      "author_url": "https://www.google.com/maps/contrib/117580195581722416281/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEYU5VGWoes9cyqmGS490Ga7s7fys7sp-RVfDR-aDi6vyUZl2qSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Very mindful, very demure. 5 stars.",
+      "time": 1726274391,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13088922490099203450",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

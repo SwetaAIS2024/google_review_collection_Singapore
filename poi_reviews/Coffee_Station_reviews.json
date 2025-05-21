@@ -1,0 +1,30 @@
+{
+  "formatted_address": "77 Ayer Rajah Crescent, Singapore 139954",
+  "geometry": {
+    "location": {
+      "lat": 1.2974124,
+      "lng": 103.7875038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298713830291502,
+        "lng": 103.7889647802915
+      },
+      "southwest": {
+        "lat": 1.296015869708498,
+        "lng": 103.7862668197085
+      }
+    }
+  },
+  "name": "Coffee Station",
+  "place_id": "ChIJk7fc3E8a2jERle5ibB6V_3s",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8935024143626333845",
+  "vicinity": "77 Ayer Rajah Crescent"
+}

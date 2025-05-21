@@ -1,0 +1,43 @@
+{
+  "formatted_address": "10 Sinaran Dr, #10-12, Singapore 307506",
+  "geometry": {
+    "location": {
+      "lat": 1.3207786,
+      "lng": 103.8442073
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322400930291502,
+        "lng": 103.8455281302915
+      },
+      "southwest": {
+        "lat": 1.319702969708498,
+        "lng": 103.8428301697085
+      }
+    }
+  },
+  "name": "Dr Tammi Quek Developmental and Behavioural Paediatrics Clinic Pte Ltd",
+  "place_id": "ChIJGYoTXecZ2jERX72Qvuee9G0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Golden Harmony",
+      "author_url": "https://www.google.com/maps/contrib/113253988168642999106/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJTCeXfFHSUIFzEdKHrJMvko_P6ysQ7HhIGGdbFn3AHWh_lw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642433834,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7923132362623335775",
+  "user_ratings_total": 1,
+  "vicinity": "10 Sinaran Drive, #10-12"
+}

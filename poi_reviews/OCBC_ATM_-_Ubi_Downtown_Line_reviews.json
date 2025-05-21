@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 51 Ubi Ave 2, Ubi Downtown Line Station, Singapore 408899",
+  "geometry": {
+    "location": {
+      "lat": 1.3312903,
+      "lng": 103.9021531
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.332570830291502,
+        "lng": 103.9032634802915
+      },
+      "southwest": {
+        "lat": 1.329872869708498,
+        "lng": 103.9005655197085
+      }
+    }
+  },
+  "name": "OCBC ATM - Ubi Downtown Line",
+  "place_id": "ChIJ4advt4oX2jER6PKYqNWBruA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16190020465100124904",
+  "vicinity": "No. 51 Ubi Avenue 2, Ubi Downtown Line Station"
+}

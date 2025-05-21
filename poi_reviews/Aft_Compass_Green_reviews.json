@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Tanah Merah Besar Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3605382,
+      "lng": 103.9744984
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361924880291502,
+        "lng": 103.9758617802915
+      },
+      "southwest": {
+        "lat": 1.359226919708498,
+        "lng": 103.9731638197085
+      }
+    }
+  },
+  "name": "Aft Compass Green",
+  "place_id": "ChIJgerkBfc82jER6tujMGxK_fY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Allen Gian",
+      "author_url": "https://www.google.com/maps/contrib/116189970148223179629/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt9DwNN69FtljXAf9ItRg7nIBm-ZE1XWSbcz5HUEYI2R2TPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1542728268,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17797463130971036650",
+  "user_ratings_total": 1,
+  "vicinity": "Tanah Merah Besar Road"
+}

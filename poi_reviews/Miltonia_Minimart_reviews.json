@@ -1,0 +1,30 @@
+{
+  "formatted_address": "544 Miltonia Cl, Singapore 768116",
+  "geometry": {
+    "location": {
+      "lat": 1.4172049,
+      "lng": 103.8480518
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418669930291502,
+        "lng": 103.8493669302915
+      },
+      "southwest": {
+        "lat": 1.415971969708498,
+        "lng": 103.8466689697085
+      }
+    }
+  },
+  "name": "Miltonia Minimart",
+  "place_id": "ChIJzWVPXQAV2jERP7vSaH7bU3I",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8238169479361772351",
+  "vicinity": "544 Miltonia Close"
+}

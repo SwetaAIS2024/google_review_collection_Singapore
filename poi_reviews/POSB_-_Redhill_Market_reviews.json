@@ -1,0 +1,79 @@
+{
+  "formatted_address": "79 Redhill Ln, Singapore 150079",
+  "geometry": {
+    "location": {
+      "lat": 1.2878266,
+      "lng": 103.8181035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.289180980291502,
+        "lng": 103.8193423302915
+      },
+      "southwest": {
+        "lat": 1.286483019708498,
+        "lng": 103.8166443697085
+      }
+    }
+  },
+  "name": "POSB - Redhill Market",
+  "place_id": "ChIJmXBr5tQb2jERALTiUfRdsHM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Kelvinn Chan",
+      "author_url": "https://www.google.com/maps/contrib/103164312217043843796/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIHk4Fk1v9m1xE_cZyLxKKbn-PNtKvXoLdebQbzm-_0GfnEqV7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Banking needs",
+      "time": 1742978179,
+      "translated": false
+    },
+    {
+      "author_name": "ryan",
+      "author_url": "https://www.google.com/maps/contrib/102359212813058693270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQzl5zVeioj1qnzaSouzJh1Mj_ZE_e-z7crhTxS3FsVf7lU9v9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Partially sheltered",
+      "time": 1493203091,
+      "translated": false
+    },
+    {
+      "author_name": "Raviteja Marivada",
+      "author_url": "https://www.google.com/maps/contrib/115329878918962519377/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhxD03YLgcrF25Hs8qErp8vwIqGwBO-j4B42DilaQ_4EUYkRTo0A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Atm",
+      "time": 1494840505,
+      "translated": false
+    },
+    {
+      "author_name": "bob tim",
+      "author_url": "https://www.google.com/maps/contrib/108001175651637558283/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtfMC23rJn5WM8CfX2uw2YS-1g1ras3rPfNGBc_4R-Juns5e-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1466749428,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8336266214190003200",
+  "user_ratings_total": 4,
+  "vicinity": "79 Redhill Lane"
+}

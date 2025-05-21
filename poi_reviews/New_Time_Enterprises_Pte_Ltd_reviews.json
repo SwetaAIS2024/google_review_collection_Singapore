@@ -1,0 +1,61 @@
+{
+  "formatted_address": "10 Benoi Rd, Singapore 629885",
+  "geometry": {
+    "location": {
+      "lat": 1.3008913,
+      "lng": 103.680867
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302328030291502,
+        "lng": 103.6815712302915
+      },
+      "southwest": {
+        "lat": 1.299630069708498,
+        "lng": 103.6788732697085
+      }
+    }
+  },
+  "name": "New Time Enterprises Pte Ltd",
+  "place_id": "ChIJ-XkpnKcF2jERlGWzz1jhafY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sukhwinder Singh Padda",
+      "author_url": "https://www.google.com/maps/contrib/104936290666456079612/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlhXVvShJfxl85drQhEz8PBvoJjSUY8O07tAwM-ZgLvL1MkrUT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569998637,
+      "translated": false
+    },
+    {
+      "author_name": "Muhammad Yasin",
+      "author_url": "https://www.google.com/maps/contrib/115707470083591707516/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnK3ZUsxFKG2L3QEbtZ8GcvYXNKzowLVJhtNFqdzDxpjgkFdR6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565447962,
+      "translated": false
+    },
+    {
+      "author_name": "Ye Htut",
+      "author_url": "https://www.google.com/maps/contrib/117754275472369243507/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6bB1Hqu6q8memeED4JniHKfbn_BlrAAvgRX9y8Sbx-t3GbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513770304,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17755970777442903444",
+  "user_ratings_total": 3,
+  "vicinity": "10 Benoi Road"
+}

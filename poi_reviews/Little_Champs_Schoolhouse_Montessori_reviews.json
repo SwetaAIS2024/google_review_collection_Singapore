@@ -1,0 +1,42 @@
+{
+  "formatted_address": "447 Ang Mo Kio Ave 10, Singapore 560447",
+  "geometry": {
+    "location": {
+      "lat": 1.367569,
+      "lng": 103.8558911
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368985330291502,
+        "lng": 103.8572661302915
+      },
+      "southwest": {
+        "lat": 1.366287369708498,
+        "lng": 103.8545681697085
+      }
+    }
+  },
+  "name": "Little Champs Schoolhouse (Montessori)",
+  "place_id": "ChIJKRe2SeMW2jERGI3tTvWehH4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shielyn Diploma",
+      "author_url": "https://www.google.com/maps/contrib/115459002096214039774/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_L6MaIcGeTZSfUztuNkZkBsUKeLg8mQhK27EQk-bU5sRZ0Mo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1694960212,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9116586322133093656",
+  "user_ratings_total": 1,
+  "vicinity": "447 Ang Mo Kio Avenue 10"
+}

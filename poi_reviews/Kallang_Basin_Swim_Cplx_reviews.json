@@ -1,0 +1,82 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.323359,
+      "lng": 103.872566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324718430291502,
+        "lng": 103.8739289302915
+      },
+      "southwest": {
+        "lat": 1.322020469708498,
+        "lng": 103.8712309697085
+      }
+    }
+  },
+  "name": "Kallang Basin Swim Cplx",
+  "place_id": "ChIJN9dOxisY2jERVQSdlP2ScfE",
+  "rating": 4.2,
+  "reviews": [
+    {
+      "author_name": "Cuong Nguyen (Alfred)",
+      "author_url": "https://www.google.com/maps/contrib/109524607658296668317/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwWB73-gZyYlSTXwTRA2ONyR6nwVVP_6ppg9KlGII218zoysbfsw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1672827139,
+      "translated": false
+    },
+    {
+      "author_name": "gamer 0304125",
+      "author_url": "https://www.google.com/maps/contrib/102788183957902913942/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKgvMZ5VbJLEfeXUuNG1mGpsW0cCSYvGMJnv4OlgsckK6YmvUK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584329485,
+      "translated": false
+    },
+    {
+      "author_name": "Evon Ong",
+      "author_url": "https://www.google.com/maps/contrib/108168253722389526322/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9AyEDriZeqBi5dZBwRI9m1P8PTxLvp0s2aNWLwqgyLvQiLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563095878,
+      "translated": false
+    },
+    {
+      "author_name": "lilygoh lily",
+      "author_url": "https://www.google.com/maps/contrib/114341007877482669342/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmvErnM4LR75q8yL8yH4bVAMjM4m1KPi18HaZOMByRDNfeHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531799196,
+      "translated": false
+    },
+    {
+      "author_name": "Ismail",
+      "author_url": "https://www.google.com/maps/contrib/105737390997942360325/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhNnd8OMi2zkj13xvBJgEsL3Gllbi437NmdauWhwotFZ_5JQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1520595256,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17397848453326636117",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

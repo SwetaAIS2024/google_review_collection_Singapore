@@ -1,0 +1,63 @@
+{
+  "formatted_address": "8 Marina Blvd, #13-03, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.2799016,
+      "lng": 103.8540214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281483230291502,
+        "lng": 103.8554465302915
+      },
+      "southwest": {
+        "lat": 1.278785269708498,
+        "lng": 103.8527485697085
+      }
+    }
+  },
+  "name": "Cathay United Bank",
+  "place_id": "ChIJlyYcYw4Z2jERZG_FX2A5c9E",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Heng Heng",
+      "author_url": "https://www.google.com/maps/contrib/107147053599082205663/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaP6zedsyv9Rg1XuwmnKSaaJqbEhDf1_usZjvjxXxYkBo19g=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "12 months ago",
+      "text": "",
+      "time": 1716528311,
+      "translated": false
+    },
+    {
+      "author_name": "Xuan Yu Lim",
+      "author_url": "https://www.google.com/maps/contrib/118011844766774377293/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjDDIp2Vom4lp-JGlM3cBz6jFpzt8r0JjMTbH7nteyjXxSKw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555310998,
+      "translated": false
+    },
+    {
+      "author_name": "Doris Mt",
+      "author_url": "https://www.google.com/maps/contrib/102615732682812751547/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsDI_3mAuZX98PnjT0KkAnAgOTmesIdqsbSr8BUhBWdKjEcLq3_Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533279093,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15092469862335082340",
+  "user_ratings_total": 3,
+  "vicinity": "8 Marina Boulevard, #13-03, Singapore"
+}

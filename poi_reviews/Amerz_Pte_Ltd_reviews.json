@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Tampines Grande, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545344,
+      "lng": 103.9423151
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355752730291502,
+        "lng": 103.9437480802915
+      },
+      "southwest": {
+        "lat": 1.353054769708498,
+        "lng": 103.9410501197085
+      }
+    }
+  },
+  "name": "Amerz Pte Ltd",
+  "place_id": "ChIJr-GI8Q092jERMp1_6r3HdCs",
+  "types": [
+    "insurance_agency",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3131347259426315570",
+  "vicinity": "3 Tampines Grande"
+}

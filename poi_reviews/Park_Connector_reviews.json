@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Punggol park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3792085,
+      "lng": 103.899994
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380793380291502,
+        "lng": 103.9011402802915
+      },
+      "southwest": {
+        "lat": 1.378095419708498,
+        "lng": 103.8984423197085
+      }
+    }
+  },
+  "name": "Park Connector",
+  "place_id": "ChIJ3b2FGQAX2jERenVXmefhL20",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alvin Lim",
+      "author_url": "https://www.google.com/maps/contrib/118302592391028803090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURMF3PiO47_loldhYfYHmBFfmXZidC6KIimgaroOE5-iatqg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The park connector beside Punggol Park offers a scenic and well-maintained route, perfect for walking, jogging, and cycling. Lined with lush greenery and offering glimpses of the Serangoon Reservoir, it provides a peaceful escape from the urban hustle. The path is smooth and well-connected, making it ideal for both leisure strolls and active commutes. Benches and shaded areas along the way add to the comfort, while the proximity to Punggol Park allows for extended recreational options. A great spot for nature lovers and fitness enthusiasts alike!",
+      "time": 1744903151,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7867755458865886586",
+  "user_ratings_total": 1,
+  "vicinity": "Punggol park"
+}

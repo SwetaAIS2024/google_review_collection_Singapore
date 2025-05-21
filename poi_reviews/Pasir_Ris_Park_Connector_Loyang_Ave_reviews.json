@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Pasir Ris, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3662196,
+      "lng": 103.9665115
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367555180291502,
+        "lng": 103.9677189802915
+      },
+      "southwest": {
+        "lat": 1.364857219708498,
+        "lng": 103.9650210197085
+      }
+    }
+  },
+  "name": "Pasir Ris Park Connector (Loyang Ave)",
+  "place_id": "ChIJm-SAUQA92jERr16WU4GaBH8",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9152610222967512751",
+  "vicinity": ""
+}

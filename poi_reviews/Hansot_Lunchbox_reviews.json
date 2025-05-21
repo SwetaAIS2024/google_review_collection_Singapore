@@ -1,0 +1,46 @@
+{
+  "formatted_address": "GF-04, HIJAUAN MEDINI, Persiaran Medini Sentral 1, BANDAR MEDINI ISKANDAR, 79250 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4176339,
+      "lng": 103.62619
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418980330291502,
+        "lng": 103.6274742802915
+      },
+      "southwest": {
+        "lat": 1.416282369708498,
+        "lng": 103.6247763197085
+      }
+    }
+  },
+  "name": "Hansot Lunchbox",
+  "place_id": "ChIJx3aTk2kL2jERI3iZlOcQgOY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "최형윤",
+      "author_url": "https://www.google.com/maps/contrib/103496474403643806197/reviews",
+      "language": "en-US",
+      "original_language": "ko",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWspv89gEyU5L1iddGRa_5AtdqSaDS8-ysCUcVi0KDeJthDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This is a place where you can buy Korean side dishes. The taste and price are very good.",
+      "time": 1747031670,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16609294012558964771",
+  "user_ratings_total": 1,
+  "vicinity": "GF-04, HIJAUAN MEDINI, Persiaran Medini Sentral 1, BANDAR MEDINI ISKANDAR, Iskandar Puteri"
+}

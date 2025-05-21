@@ -1,0 +1,29 @@
+{
+  "formatted_address": "322 Hougang Ave 5, #01-84, Singapore 530322",
+  "geometry": {
+    "location": {
+      "lat": 1.3670512,
+      "lng": 103.8972259
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368447280291502,
+        "lng": 103.8985767302915
+      },
+      "southwest": {
+        "lat": 1.365749319708498,
+        "lng": 103.8958787697085
+      }
+    }
+  },
+  "name": "DBS ATM - Hougang Avenue 5/322",
+  "place_id": "ChIJy4LmOjoW2jERuYTJupsqhi4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3352413820965979321",
+  "vicinity": "322 Hougang Avenue 5, #01-84, Singapore"
+}

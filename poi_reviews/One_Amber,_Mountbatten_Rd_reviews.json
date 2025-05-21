@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.30234,
+      "lng": 103.89907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303745580291502,
+        "lng": 103.9003939802915
+      },
+      "southwest": {
+        "lat": 1.301047619708498,
+        "lng": 103.8976960197085
+      }
+    }
+  },
+  "name": "One Amber, Mountbatten Rd",
+  "place_id": "ChIJS_Lomm4Y2jERdo1yhMhcmJk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11067698100548308342",
+  "vicinity": "Singapore"
+}

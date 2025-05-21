@@ -1,0 +1,28 @@
+{
+  "formatted_address": "79100 Iskandar Puteri, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.42091,
+      "lng": 103.63841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.422290680291502,
+        "lng": 103.6397666302915
+      },
+      "southwest": {
+        "lat": 1.419592719708498,
+        "lng": 103.6370686697085
+      }
+    }
+  },
+  "name": "Iskandar Residence",
+  "place_id": "ChIJQzY2xQoM2jER7hthTRk22Uk",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5321343917015243758",
+  "vicinity": "Malaysia"
+}

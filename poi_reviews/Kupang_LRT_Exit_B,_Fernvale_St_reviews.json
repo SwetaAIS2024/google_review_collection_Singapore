@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39813,
+      "lng": 103.88128
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399472930291502,
+        "lng": 103.8825602302915
+      },
+      "southwest": {
+        "lat": 1.396774969708498,
+        "lng": 103.8798622697085
+      }
+    }
+  },
+  "name": "Kupang LRT (Exit B), Fernvale St",
+  "place_id": "ChIJt3uPE3cW2jERBnBqG-ROOhU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1529621765065175046",
+  "vicinity": "Singapore"
+}

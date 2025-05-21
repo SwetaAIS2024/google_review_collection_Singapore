@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Cemetery North St 4A, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3838638,
+      "lng": 103.6863219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385182580291502,
+        "lng": 103.6876580802915
+      },
+      "southwest": {
+        "lat": 1.382484619708498,
+        "lng": 103.6849601197085
+      }
+    }
+  },
+  "name": "Kubur Nenek Laiha Abdul Majeed",
+  "place_id": "ChIJwRO-XAAP2jER2abS5WNtFTA",
+  "types": [
+    "cemetery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3464795764156442329",
+  "vicinity": "Cemetery North Street 4A"
+}

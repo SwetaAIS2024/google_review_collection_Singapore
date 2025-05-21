@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Blk 150 Bishan St.11, #01-141, Singapore 570150",
+  "geometry": {
+    "location": {
+      "lat": 1.344518,
+      "lng": 103.855269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345836030291502,
+        "lng": 103.8565230302915
+      },
+      "southwest": {
+        "lat": 1.343138069708498,
+        "lng": 103.8538250697085
+      }
+    }
+  },
+  "name": "VARSHINI SUPERMART PTE LTD",
+  "place_id": "ChIJn_8KXgAX2jERa47s6yCovHM",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8339725469333884523",
+  "vicinity": "Blk 150 Bishan Street 11, #01-141, Singapore"
+}

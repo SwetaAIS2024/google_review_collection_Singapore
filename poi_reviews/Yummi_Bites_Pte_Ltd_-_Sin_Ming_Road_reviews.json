@@ -1,0 +1,57 @@
+{
+  "formatted_address": "22 Sin Ming Rd, Singapore 570022",
+  "geometry": {
+    "location": {
+      "lat": 1.3577338,
+      "lng": 103.8394854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359140930291502,
+        "lng": 103.8407564802915
+      },
+      "southwest": {
+        "lat": 1.356442969708498,
+        "lng": 103.8380585197085
+      }
+    }
+  },
+  "name": "Yummi Bites Pte Ltd - Sin Ming Road",
+  "place_id": "ChIJZ8NpgCQX2jERTKXa8eHWCfE",
+  "rating": 1.5,
+  "reviews": [
+    {
+      "author_name": "Samuel Mak",
+      "author_url": "https://www.google.com/maps/contrib/117888105699097274234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVGZStrUfKZuafGDFJFD5079nAxkkre688qStmaMcfyxkh9g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "Charging $1.60 for a piece of fried Nian gao, make sure it is above average taste.\nSeems like I need to lower down my expectation after trying the nian gao at Sin Meng.",
+      "time": 1733298528,
+      "translated": false
+    },
+    {
+      "author_name": "Zayn Kelly",
+      "author_url": "https://www.google.com/maps/contrib/113415619943224193139/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDaTdzRvBEWinFMgkCVbBOcEx3nVFacDqHNQ9AtaamkATwovHq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "The food was OK la, it's just that the serving very small. I was very hungry even after eating one plate of char kway teow. Overall wouldn't reccomend.",
+      "time": 1525511105,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17368649703844652364",
+  "user_ratings_total": 2,
+  "vicinity": "22 Sin Ming Road"
+}

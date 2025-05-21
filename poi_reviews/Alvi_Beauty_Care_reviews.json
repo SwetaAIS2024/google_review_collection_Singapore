@@ -1,0 +1,52 @@
+{
+  "formatted_address": "74, Jalan Eko Botani 3/2, 79100 Iskandar Puteri, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4392276,
+      "lng": 103.6202641
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440644430291502,
+        "lng": 103.6216617302915
+      },
+      "southwest": {
+        "lat": 1.437946469708498,
+        "lng": 103.6189637697085
+      }
+    }
+  },
+  "name": "Alvi Beauty Care",
+  "place_id": "ChIJP_jDLioL2jERp17jUzboTbo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kuscera Youngblood",
+      "author_url": "https://www.google.com/maps/contrib/113026165716523410115/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZOPyGJaFdrfv7paPZeCmqL3K8JdrO0yAMylfpWMh8Y3-FvBgd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561626240,
+      "translated": false
+    },
+    {
+      "author_name": "Aneesha Parwani",
+      "author_url": "https://www.google.com/maps/contrib/117622320306376663376/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUQQwsim1AGZKe57CQw21MB2_OPlqRzEC1NdUUIcS01cT9gE0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1561624947,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13424641384294604455",
+  "user_ratings_total": 2,
+  "vicinity": "74, Jalan Eko Botani 3/2, Iskandar Puteri"
+}

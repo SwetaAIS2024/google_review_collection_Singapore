@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Bedok Reservoir, Singapore 479263",
+  "geometry": {
+    "location": {
+      "lat": 1.3383241,
+      "lng": 103.9278533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339722630291502,
+        "lng": 103.9293787802915
+      },
+      "southwest": {
+        "lat": 1.337024669708498,
+        "lng": 103.9266808197085
+      }
+    }
+  },
+  "name": "Fernandez Barista Coffee Bar Singapore",
+  "place_id": "ChIJRYQ4IDk92jERjPmwLADLN-E",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16228662983863105932",
+  "vicinity": "Bedok Reservoir"
+}

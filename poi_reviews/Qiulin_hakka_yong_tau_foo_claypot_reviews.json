@@ -1,0 +1,57 @@
+{
+  "formatted_address": "253 Choa Chu Kang Ave 1, Singapore 680253",
+  "geometry": {
+    "location": {
+      "lat": 1.3774405,
+      "lng": 103.744394
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378821030291502,
+        "lng": 103.7458572302915
+      },
+      "southwest": {
+        "lat": 1.376123069708498,
+        "lng": 103.7431592697085
+      }
+    }
+  },
+  "name": "Qiulin hakka yong tau foo claypot",
+  "place_id": "ChIJ_3T2YwAR2jERPJdmFswU4SY",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Ember Shen",
+      "author_url": "https://www.google.com/maps/contrib/117465885711011307889/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTDsusnetYbY0hLczH1lIOHCatqSOTs-gwxdOqaEw5c2XKknU=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Bak kut teh meat is very stringy.\n\nVinegar trotter sauce is watery.\n\nBut other than that, the taste is good\n\nGuy who works here seem fierce",
+      "time": 1737965508,
+      "translated": false
+    },
+    {
+      "author_name": "Derrick Oh",
+      "author_url": "https://www.google.com/maps/contrib/110989795259891877293/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ43giVr_umRF890T8M0a4Sq1H16rvTeKrYFyASaRmcNh-WfA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Staff was nice , Yong tau foo was good. The meat was a lot",
+      "time": 1746077216,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2801543309982865212",
+  "user_ratings_total": 2,
+  "vicinity": "253 Choa Chu Kang Avenue 1"
+}

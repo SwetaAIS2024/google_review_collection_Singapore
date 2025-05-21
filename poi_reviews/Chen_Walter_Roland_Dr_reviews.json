@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6 Napier Rd, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.307592,
+      "lng": 103.8199224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308870880291502,
+        "lng": 103.8213199802915
+      },
+      "southwest": {
+        "lat": 1.306172919708498,
+        "lng": 103.8186220197085
+      }
+    }
+  },
+  "name": "Chen Walter Roland Dr",
+  "place_id": "ChIJj0VnOSAa2jERpA6y1B8IOUg",
+  "types": [
+    "veterinary_care",
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5204199777208766116",
+  "vicinity": "6 Napier Road"
+}

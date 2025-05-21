@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Orchard Blvd, Singapore 248649",
+  "geometry": {
+    "location": {
+      "lat": 1.3031601,
+      "lng": 103.8237124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304419680291502,
+        "lng": 103.8249425802915
+      },
+      "southwest": {
+        "lat": 1.301721719708498,
+        "lng": 103.8222446197085
+      }
+    }
+  },
+  "name": "Ang Peng Chye Dr",
+  "place_id": "ChIJByBqiIkZ2jERKWVShdpJLFQ",
+  "types": [
+    "veterinary_care",
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6065304001049683241",
+  "vicinity": "1 Orchard Boulevard"
+}

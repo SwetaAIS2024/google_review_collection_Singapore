@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Park Rd, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.2839967,
+      "lng": 103.8424968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285257030291502,
+        "lng": 103.8439914302915
+      },
+      "southwest": {
+        "lat": 1.282559069708498,
+        "lng": 103.8412934697085
+      }
+    }
+  },
+  "name": "AXS Station @ People's Park Complex",
+  "place_id": "ChIJ62EDe3MZ2jER9Rv_a_J-9GI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7130463689693404149",
+  "vicinity": "1 Park Road, Singapore"
+}

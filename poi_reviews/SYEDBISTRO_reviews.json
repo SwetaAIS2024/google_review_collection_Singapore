@@ -1,0 +1,30 @@
+{
+  "formatted_address": "107 Ang Mo Kio Ave 4, Singapore 560107",
+  "geometry": {
+    "location": {
+      "lat": 1.3732755,
+      "lng": 103.8373731
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374651530291502,
+        "lng": 103.8386658802915
+      },
+      "southwest": {
+        "lat": 1.371953569708498,
+        "lng": 103.8359679197085
+      }
+    }
+  },
+  "name": "SYEDBISTRO",
+  "place_id": "ChIJhe_CTwAX2jERBhZLLwgHlQ8",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1122811413833389574",
+  "vicinity": "107 Ang Mo Kio Avenue 4"
+}

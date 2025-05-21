@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.303936,
+      "lng": 103.8269738
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305340230291502,
+        "lng": 103.8282744302915
+      },
+      "southwest": {
+        "lat": 1.302642269708498,
+        "lng": 103.8255764697085
+      }
+    }
+  },
+  "name": "Bef Tomlinson Rd",
+  "place_id": "ChIJm_Xd8IsZ2jERH2JVLnhqqbE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Dancing Caulk",
+      "author_url": "https://www.google.com/maps/contrib/116466322714469390636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQkIThZxBJolsrh85wi_O50wfANXjK4AfKWi0cdsSzYWjFffA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Horrible visibility of the buses. Have to stand much infront and be constantly looking out for the bus to wave to as if you dont it will just zip by you. Bus 111 also packed af front to back when at night. Like why a single decker make it a double decker bru, atleast at late hours.",
+      "time": 1737723319,
+      "translated": false
+    },
+    {
+      "author_name": "Meilani Mckinney",
+      "author_url": "https://www.google.com/maps/contrib/114581078715929063995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdohYdclUTB8yIAABVNREtChvypxCqOMqUBKtq9CjczwBPYA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "The 106 service in the mornings (7:11/7:13 thereabouts) is “captained” by unreliable timekeeping. The time table does not accurately reflect the times the bus arrives at and instead the system jumps all over the place to accommodate when the driver arrives at the stops…some even zooming past and not stopping. Most frequently is an old Chinese captain who drives past fast and ignores people at the Bef Tomlinson stop. It’s annoying and not a good reflection of the so called “reliable and efficient public transportation” that is Singapore. This “captain” doesn’t need to make the 106 his personal power trip. This is a job, to serve the paying public, first and foremost. Arrive on the stated times so that the public can plan their journeys and connections. Slow the pace of driving to get to stops. Other countries will update buses as “delayed” or “on time” but in Singapore it seems like it’s all about “face” and everything wants to ultimately seem “on time” so this means there’s no accountability and no room for improvement or criticism. Do better!",
+      "time": 1677194701,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12801880480183312927",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

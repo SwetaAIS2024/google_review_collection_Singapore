@@ -1,0 +1,58 @@
+{
+  "formatted_address": "935 Tampines Street 91, #01-K1 Tampines Palmspring, Singapore 520935",
+  "geometry": {
+    "location": {
+      "lat": 1.3456322,
+      "lng": 103.941045
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347071180291502,
+        "lng": 103.9423473302915
+      },
+      "southwest": {
+        "lat": 1.344373219708497,
+        "lng": 103.9396493697085
+      }
+    }
+  },
+  "name": "Goodsmart",
+  "place_id": "ChIJ-UmHmBU92jERU1dGFbJYZYQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ayden",
+      "author_url": "https://www.google.com/maps/contrib/106135019536209720427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBcpH_OTejBEuLjokFAz_VPLkSdxym8hrGbyPJGmB430Mvn42NwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Goodsmart is a quiet convenience store at Block 926 Tampines. It has multiple provisions that are sold at cheap prices. However, the actual shop is too small to house all the goods, and most of it is stashed outside, which may cause a problem for accessibility, especially when trying to get in and liberating some smaller snacks.",
+      "time": 1615599043,
+      "translated": false
+    },
+    {
+      "author_name": "Noor Firdaus Abdul Samad",
+      "author_url": "https://www.google.com/maps/contrib/106113972277772283238/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAY4447gZpP2vyMVlMrTcXnPtP1DxYmPFMsEZX-g2ASp4qUk4o=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Din is friendly and cheerful guy",
+      "time": 1696483191,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9540128907538618195",
+  "user_ratings_total": 2,
+  "vicinity": "935 Tampines Street 91, #01-K1 Tampines Palmspring, Singapore"
+}

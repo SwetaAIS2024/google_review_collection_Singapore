@@ -1,0 +1,29 @@
+{
+  "formatted_address": "516A N Bridge Rd, #02-01, Singapore 188740",
+  "geometry": {
+    "location": {
+      "lat": 1.2989463,
+      "lng": 103.8556066
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300531180291502,
+        "lng": 103.8569987302915
+      },
+      "southwest": {
+        "lat": 1.297833219708498,
+        "lng": 103.8543007697085
+      }
+    }
+  },
+  "name": "Club X",
+  "place_id": "ChIJ5xVTRsoZ2jERKubBdA14UBI",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1319686690008327722",
+  "vicinity": "516A North Bridge Road, #02-01"
+}

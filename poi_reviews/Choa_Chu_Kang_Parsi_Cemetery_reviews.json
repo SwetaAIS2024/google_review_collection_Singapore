@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3716851,
+      "lng": 103.6986972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373204280291502,
+        "lng": 103.7000517802915
+      },
+      "southwest": {
+        "lat": 1.370506319708498,
+        "lng": 103.6973538197085
+      }
+    }
+  },
+  "name": "Choa Chu Kang Parsi Cemetery",
+  "place_id": "ChIJA15lC5wP2jERTQbJAtTkw1g",
+  "types": [
+    "cemetery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6396207495027164749",
+  "vicinity": "Singapore"
+}

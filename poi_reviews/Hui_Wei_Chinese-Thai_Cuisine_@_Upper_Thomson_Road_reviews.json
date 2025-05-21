@@ -1,0 +1,45 @@
+{
+  "formatted_address": "906 Upper Thomson Rd, Singapore 787110",
+  "geometry": {
+    "location": {
+      "lat": 1.397568,
+      "lng": 103.818627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399175180291502,
+        "lng": 103.8198875802915
+      },
+      "southwest": {
+        "lat": 1.396477219708498,
+        "lng": 103.8171896197085
+      }
+    }
+  },
+  "name": "Hui Wei Chinese-Thai Cuisine @ Upper Thomson Road",
+  "place_id": "ChIJk543fVQR2jERQl2QzhIIA2I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "ghl ghl",
+      "author_url": "https://www.google.com/maps/contrib/100529062452118147222/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITBnBAMJuj1AUZziogPqFiwUq57WZQErUodW49ajvCUCuz2A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best",
+      "time": 1700304101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7062497517515070786",
+  "user_ratings_total": 1,
+  "vicinity": "906 Upper Thomson Road"
+}

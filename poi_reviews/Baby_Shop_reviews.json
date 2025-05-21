@@ -1,0 +1,29 @@
+{
+  "formatted_address": "203 Hougang St 21, Singapore 530203",
+  "geometry": {
+    "location": {
+      "lat": 1.3577976,
+      "lng": 103.8845426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359231630291502,
+        "lng": 103.8860366302915
+      },
+      "southwest": {
+        "lat": 1.356533669708498,
+        "lng": 103.8833386697085
+      }
+    }
+  },
+  "name": "Baby Shop",
+  "place_id": "ChIJKVYmSLEX2jERa68d8U3T0Yo",
+  "types": [
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10003008579077779307",
+  "vicinity": "203 Hougang Street 21"
+}

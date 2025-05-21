@@ -1,0 +1,30 @@
+{
+  "formatted_address": "15 Central Blvd, B1-02 Downtown DTL MRT Station, Singapore 018969",
+  "geometry": {
+    "location": {
+      "lat": 1.2792813,
+      "lng": 103.8527634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280646830291502,
+        "lng": 103.8542375802915
+      },
+      "southwest": {
+        "lat": 1.277948869708498,
+        "lng": 103.8515396197085
+      }
+    }
+  },
+  "name": "K Infinity",
+  "place_id": "ChIJoeZK3dYZ2jERYOPiKzZW8Q0",
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1004678982544843616",
+  "vicinity": "15 Central Boulevard, B1-02 Downtown DTL MRT Station"
+}

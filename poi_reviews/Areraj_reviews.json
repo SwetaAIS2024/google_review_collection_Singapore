@@ -1,0 +1,54 @@
+{
+  "formatted_address": "1 Fusionopolis Pl, Singapore 138632",
+  "geometry": {
+    "location": {
+      "lat": 1.3001663,
+      "lng": 103.7886488
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301646230291502,
+        "lng": 103.7898241302915
+      },
+      "southwest": {
+        "lat": 1.298948269708498,
+        "lng": 103.7871261697085
+      }
+    }
+  },
+  "name": "Areraj",
+  "place_id": "ChIJ5bkwvNob2jERtER6w0mLISA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "luan beckman",
+      "author_url": "https://www.google.com/maps/contrib/111680771496610148249/reviews",
+      "language": "pt",
+      "original_language": "pt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYruRnpqK-0ORDYQGIZw5S3viOOPkuSfhHCuRWQTQxKle95Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "boa",
+      "time": 1728183404,
+      "translated": false
+    },
+    {
+      "author_name": "Prem chand Verma",
+      "author_url": "https://www.google.com/maps/contrib/109932231011564378028/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK59e1pUbpZv_jxvxA2SDmq4qPllCym2Gay35RLK6gjOybbzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741447969,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2315284832373589172",
+  "user_ratings_total": 2,
+  "vicinity": "1 Fusionopolis Place"
+}

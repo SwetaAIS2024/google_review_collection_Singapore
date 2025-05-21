@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324668,
+      "lng": 103.91452
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326030080291502,
+        "lng": 103.9158672302915
+      },
+      "southwest": {
+        "lat": 1.323332119708498,
+        "lng": 103.9131692697085
+      }
+    }
+  },
+  "name": "Bef Jln Kembangan",
+  "place_id": "ChIJK3G3naoi2jERW9onFX9j0Qk",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Linda Ng",
+      "author_url": "https://www.google.com/maps/contrib/103053112098611860304/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXXEEirIVjDz569OE9eN-sqKAZDq8ESeeyDS1kgsdx7d3Vvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740367793,
+      "translated": false
+    },
+    {
+      "author_name": "Erriena Sultan",
+      "author_url": "https://www.google.com/maps/contrib/118288097531019732747/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLasN0zNHDGUI0VWizLvrtktmxSRK2ogn5KWS6Iu2iB4Ma35g=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501826664,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=707456013940808283",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

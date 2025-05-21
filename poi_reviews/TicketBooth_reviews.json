@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1 Pasir Ris Cl, Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3759668,
+      "lng": 103.9554148
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377315230291502,
+        "lng": 103.9566522802915
+      },
+      "southwest": {
+        "lat": 1.374617269708498,
+        "lng": 103.9539543197085
+      }
+    }
+  },
+  "name": "TicketBooth",
+  "place_id": "ChIJseMqKLQ92jER3vBjz2DVEC4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3319387537145065694",
+  "vicinity": "1 Pasir Ris Close"
+}

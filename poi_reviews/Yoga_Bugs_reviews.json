@@ -1,0 +1,29 @@
+{
+  "formatted_address": "200 Turf Club Rd, Singapore 287994",
+  "geometry": {
+    "location": {
+      "lat": 1.337685,
+      "lng": 103.793667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339083980291502,
+        "lng": 103.7951372302915
+      },
+      "southwest": {
+        "lat": 1.336386019708498,
+        "lng": 103.7924392697085
+      }
+    }
+  },
+  "name": "Yoga Bugs",
+  "place_id": "ChIJAwPkO5cQ2jERDiaSvi8x8m8",
+  "types": [
+    "gym",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8066563963704452622",
+  "vicinity": "200 Turf Club Road"
+}

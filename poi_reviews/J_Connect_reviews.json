@@ -1,0 +1,78 @@
+{
+  "formatted_address": "130 Jurong Gateway Rd, Singapore 600130",
+  "geometry": {
+    "location": {
+      "lat": 1.3342,
+      "lng": 103.7394317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335404680291502,
+        "lng": 103.7408052802915
+      },
+      "southwest": {
+        "lat": 1.332706719708498,
+        "lng": 103.7381073197085
+      }
+    }
+  },
+  "name": "J Connect",
+  "place_id": "ChIJxwIJdgUQ2jER-b-k3wyHgxs",
+  "rating": 3.8,
+  "reviews": [
+    {
+      "author_name": "Justin Xiao",
+      "author_url": "https://www.google.com/maps/contrib/114147367394477307367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_-a4NnLA931UIXHgFK91lHpXvPQ23HvtNypf36FQyK6iFu2zotQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "This is a hdb block shopping mall with small shops around. The useful part is a bathroom that is located on the ground floor near the list",
+      "time": 1713000154,
+      "translated": false
+    },
+    {
+      "author_name": "LL Low",
+      "author_url": "https://www.google.com/maps/contrib/113471370063333847519/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNJUzc66IZGaslEWKKLsFsh_siSrlNJnorC6TFGCC5dK54Wg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "A lot of food courts and eateries",
+      "time": 1553178060,
+      "translated": false
+    },
+    {
+      "author_name": "Kelly Yeo",
+      "author_url": "https://www.google.com/maps/contrib/116262880495219554120/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXPCNAC4Jw7hgS-_VcXOdZq9VsGF2mJda0Z3BBDsRxnZSVkW0x3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": ", the set meal here is quite delicious!",
+      "time": 1743256569,
+      "translated": true
+    },
+    {
+      "author_name": "ELSIN",
+      "author_url": "https://www.google.com/maps/contrib/101082799072782802070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1_xxSJ8Lzm2pTfaWa8ie9LYcxir5iPgdEu-ezRiJgqS8fK7uV=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727403620,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1982576750334623737",
+  "user_ratings_total": 4,
+  "vicinity": "130 Jurong Gateway Road, Singapore"
+}

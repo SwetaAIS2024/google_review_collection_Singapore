@@ -1,0 +1,45 @@
+{
+  "formatted_address": "117 Bukit Merah Vw, #01-K1, Singapore 151117",
+  "geometry": {
+    "location": {
+      "lat": 1.2842933,
+      "lng": 103.8219204
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285751280291502,
+        "lng": 103.8232557302915
+      },
+      "southwest": {
+        "lat": 1.283053319708498,
+        "lng": 103.8205577697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT MERAH VIEW/117",
+  "place_id": "ChIJbXmDPOEZ2jERzwkaO3mEeXY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "S L",
+      "author_url": "https://www.google.com/maps/contrib/111316266362121177513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8I2uN7gwPn5CkePxatLABOvENTIHlM1m1__Wx9OjEuTf-wA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Located at Blk 117 near the end of the Bt Merah View Hawker Centre. It’s a well-hidden ATM unknown to even some residents in the area ;-)",
+      "time": 1707029051,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8537000224874957263",
+  "user_ratings_total": 1,
+  "vicinity": "117 Bukit Merah View, #01-K1"
+}

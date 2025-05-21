@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.327597,
+      "lng": 103.680489
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.328978480291502,
+        "lng": 103.6818378302915
+      },
+      "southwest": {
+        "lat": 1.326280519708498,
+        "lng": 103.6791398697085
+      }
+    }
+  },
+  "name": "Opp Molex",
+  "place_id": "ChIJ2Z3F2X8P2jERunY6FgIHPKs",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12338744784632575674",
+  "vicinity": "Singapore"
+}

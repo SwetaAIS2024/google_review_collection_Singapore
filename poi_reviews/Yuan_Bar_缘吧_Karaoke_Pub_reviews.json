@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Singapore, N Bridge Rd, 470号, Bugis Cube, #04-16 邮政编码: 188735",
+  "geometry": {
+    "location": {
+      "lat": 1.2981918,
+      "lng": 103.8556572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299602930291502,
+        "lng": 103.8569193302915
+      },
+      "southwest": {
+        "lat": 1.296904969708498,
+        "lng": 103.8542213697085
+      }
+    }
+  },
+  "name": "Yuan Bar 缘吧 Karaoke Pub",
+  "place_id": "ChIJ8TFTueIZ2jERK5GD1wfAwwg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Clara Yeo",
+      "author_url": "https://www.google.com/maps/contrib/115817441603285259345/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ2Nr3EIxyVYlKSX85mzKLbMS7DKxEWG_FjEjFybMBV79ITWF2vA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Friendly welcoming service. Small and cosy place. Has Heineken and carlsberg, great beer choices. Doesn't open daily, be sure to call and check opening hours prior to visit.",
+      "time": 1743108148,
+      "translated": false
+    },
+    {
+      "author_name": "Chris Tan",
+      "author_url": "https://www.google.com/maps/contrib/114456813345563276818/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXrI2mJlNOs5qQygFdOLSoDughNYw3pN_FF_bH2wfZTJaz5YNP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "A cosy and clean bar to sing and have some chill beers after a whole day work.\nthe system is good and the drinks are priced reasonably.\nConvenient location in the heart of bugis.\nThumbs up to the operator of this cosy pub.",
+      "time": 1721897310,
+      "translated": false
+    }
+  ],
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=631559512675029291",
+  "user_ratings_total": 2,
+  "vicinity": "470 North Bridge Road, #04-16 Bugis Cube"
+}

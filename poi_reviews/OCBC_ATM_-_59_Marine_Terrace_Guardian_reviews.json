@@ -1,0 +1,29 @@
+{
+  "formatted_address": "59 Marine Ter, Block 59, Singapore 440059",
+  "geometry": {
+    "location": {
+      "lat": 1.3058298,
+      "lng": 103.9147414
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307095380291502,
+        "lng": 103.9160180802915
+      },
+      "southwest": {
+        "lat": 1.304397419708498,
+        "lng": 103.9133201197085
+      }
+    }
+  },
+  "name": "OCBC ATM - 59 Marine Terrace Guardian",
+  "place_id": "ChIJQXt82Z8i2jERsQ3DRUih00Y",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5103600134521032113",
+  "vicinity": "59 Marine Terrace, Block 59"
+}

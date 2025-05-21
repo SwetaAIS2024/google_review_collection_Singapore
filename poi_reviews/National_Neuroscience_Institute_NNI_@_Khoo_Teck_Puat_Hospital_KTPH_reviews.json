@@ -1,0 +1,29 @@
+{
+  "formatted_address": "90 Yishun Central, Singapore 768828",
+  "geometry": {
+    "location": {
+      "lat": 1.4242972,
+      "lng": 103.8385907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.425481880291502,
+        "lng": 103.8400739302915
+      },
+      "southwest": {
+        "lat": 1.422783919708498,
+        "lng": 103.8373759697085
+      }
+    }
+  },
+  "name": "National Neuroscience Institute (NNI) @ Khoo Teck Puat Hospital (KTPH)",
+  "place_id": "ChIJGzhCsZoV2jERq0CQFtkoD0w",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5480644184384749739",
+  "vicinity": "90 Yishun Central"
+}

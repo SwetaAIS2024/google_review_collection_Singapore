@@ -1,0 +1,58 @@
+{
+  "formatted_address": "120 Bukit Merah Lane 1, #01-80 Singapore. Stall, Singapore 150120",
+  "geometry": {
+    "location": {
+      "lat": 1.2862901,
+      "lng": 103.804392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287587030291502,
+        "lng": 103.8058099802915
+      },
+      "southwest": {
+        "lat": 1.284889069708498,
+        "lng": 103.8031120197085
+      }
+    }
+  },
+  "name": "Green Kopi & Toast",
+  "place_id": "ChIJ_642BAAb2jER3jrj1ao1AeI",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Mark Yeo",
+      "author_url": "https://www.google.com/maps/contrib/102332048638713474085/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAccgGfWWb9NX1S_kibW99oEwgdegfStODu0UPNVVmrPieOXq7=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "The chicken banhmi is nice. It's quite spicy too. Took the set that came with coffee and we switched to kopi peng due to the super hot weather today.",
+      "time": 1730351762,
+      "translated": false
+    },
+    {
+      "author_name": "Captain HJY",
+      "author_url": "https://www.google.com/maps/contrib/105011024509191691658/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvCeIHpMwCVvictkwQpdJ0By_QWguH2QFggvU05Sfi7kH6kA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "The drinks are good. The food is interesting which was what attracted me to order from this stall, but there was one problem.\n\nThis stall is operated by one person. As a result, very slow service. Unlike the other drink stall operated by a husband and wife team, this stall is operated by one person. As a result, preparation of food orders takes a long time, as the staff is 'distracted' by customers who come after you and order drinks, and ends up making the drinks and neglecting your food order. We are talking 25min+ wait for food items.",
+      "time": 1737165962,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16285356735397575390",
+  "user_ratings_total": 2,
+  "vicinity": "120 Bukit Merah Lane 1, #01-80 Singapore. Stall"
+}

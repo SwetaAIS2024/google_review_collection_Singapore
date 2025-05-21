@@ -1,0 +1,27 @@
+{
+  "formatted_address": "1P Pine Grove, Block 1P, Singapore 591401",
+  "geometry": {
+    "location": {
+      "lat": 1.3182869,
+      "lng": 103.7740126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319773780291502,
+        "lng": 103.7754269302915
+      },
+      "southwest": {
+        "lat": 1.317075819708498,
+        "lng": 103.7727289697085
+      }
+    }
+  },
+  "name": "Dynamic Pickaxe",
+  "place_id": "ChIJj4ay4Ica2jERTHmK9vF9Xrc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13213136834928474444",
+  "vicinity": "1P Pine Grove, Block 1P, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "517F Jurong West Street 52, Singapore 646517",
+  "geometry": {
+    "location": {
+      "lat": 1.3443022,
+      "lng": 103.7202409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345721830291502,
+        "lng": 103.7216334302915
+      },
+      "southwest": {
+        "lat": 1.343023869708498,
+        "lng": 103.7189354697085
+      }
+    }
+  },
+  "name": "Bus Stop (28091)",
+  "place_id": "ChIJ57_xoecP2jEREOezTt4BTaE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11622948267627898640",
+  "vicinity": "517F Jurong West Street 52, Singapore"
+}

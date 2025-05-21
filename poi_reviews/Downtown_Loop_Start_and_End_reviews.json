@@ -1,0 +1,28 @@
+{
+  "formatted_address": "418 Pasir Ris Drive, #3, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3034865,
+      "lng": 103.8556107
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304864480291502,
+        "lng": 103.8569477302915
+      },
+      "southwest": {
+        "lat": 1.302166519708498,
+        "lng": 103.8542497697085
+      }
+    }
+  },
+  "name": "Downtown Loop (Start & End)",
+  "place_id": "ChIJeW_J3_cZ2jERLoqN0f9z8lY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6265197574195350062",
+  "vicinity": "418 Pasir Ris Drive, #3"
+}

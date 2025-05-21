@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Jln Lekar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3823766,
+      "lng": 103.722303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383724430291502,
+        "lng": 103.7236432302915
+      },
+      "southwest": {
+        "lat": 1.381026469708498,
+        "lng": 103.7209452697085
+      }
+    }
+  },
+  "name": "PUB Jalan Lekar Pump Sump",
+  "place_id": "ChIJ_Yj6NAAP2jERmJZrGvhi71M",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Murugesan P",
+      "author_url": "https://www.google.com/maps/contrib/106490504235442032117/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkAEF44TCXGM4kJls1t_yo6g_CmGAaKLYB8FpiTG1bJ58pMQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1739686689,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6048161642316535448",
+  "user_ratings_total": 1,
+  "vicinity": "Jalan Lekar"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "30 Third Hospital Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2803304,
+      "lng": 103.8345605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281531780291502,
+        "lng": 103.8357106802915
+      },
+      "southwest": {
+        "lat": 1.278833819708498,
+        "lng": 103.8330127197085
+      }
+    }
+  },
+  "name": "AXS Station - SGH Block 7",
+  "place_id": "ChIJPZJUsh0Z2jERZRdq2UvvU54",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584119774,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11408725390108792677",
+  "user_ratings_total": 1,
+  "vicinity": "30 Third Hospital Avenue"
+}

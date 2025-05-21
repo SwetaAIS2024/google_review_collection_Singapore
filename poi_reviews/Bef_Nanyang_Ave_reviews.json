@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Jln Bahar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3562685,
+      "lng": 103.6958193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357659480291502,
+        "lng": 103.6972037302915
+      },
+      "southwest": {
+        "lat": 1.354961519708498,
+        "lng": 103.6945057697085
+      }
+    }
+  },
+  "name": "Bef Nanyang Ave",
+  "place_id": "ChIJBxXSPbAP2jERuJrVpy6jaeM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16386808139943877304",
+  "vicinity": "Jalan Bahar"
+}

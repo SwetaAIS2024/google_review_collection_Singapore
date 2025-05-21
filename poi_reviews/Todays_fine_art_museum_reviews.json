@@ -1,0 +1,28 @@
+{
+  "formatted_address": "231 Bain St, #03-33, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.2965751,
+      "lng": 103.8536974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298081430291502,
+        "lng": 103.8551465302915
+      },
+      "southwest": {
+        "lat": 1.295383469708498,
+        "lng": 103.8524485697085
+      }
+    }
+  },
+  "name": "Today's fine art museum",
+  "place_id": "ChIJV9HEsX8Z2jERiIFfUdWy8eI",
+  "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16353048351221973384",
+  "vicinity": "231 Bain Street, #03-33, Singapore"
+}

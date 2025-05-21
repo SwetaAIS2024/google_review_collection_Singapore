@@ -1,0 +1,55 @@
+{
+  "formatted_address": "049315, Collyer Quay, 09-01号, Ocean Financial Centre, 049315 10",
+  "geometry": {
+    "location": {
+      "lat": 1.2830123,
+      "lng": 103.852015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284342280291502,
+        "lng": 103.8533482802915
+      },
+      "southwest": {
+        "lat": 1.281644319708498,
+        "lng": 103.8506503197085
+      }
+    }
+  },
+  "name": "KOOKMIN BANK CO., LTD. SINGAPORE BRANCH",
+  "place_id": "ChIJMR2zIsEZ2jERjLYapT-ii1E",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "J R",
+      "author_url": "https://www.google.com/maps/contrib/110477736962526976803/reviews",
+      "language": "en-US",
+      "original_language": "ko",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKdYYcR6ECCRbHbQ814RKEwDkA_yhc_C1zh6siJOPlRAy0ig=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "Why is Kookmin Bank here?",
+      "time": 1737307676,
+      "translated": true
+    },
+    {
+      "author_name": "Y A",
+      "author_url": "https://www.google.com/maps/contrib/113911748047753767712/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlQGXz0Y_h55vIejd-BR53t2svD4lS2iCMk6Ed1GEnjCiucCqU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726720961,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5875968533071574668",
+  "user_ratings_total": 2,
+  "vicinity": "049315 10, 09-01 Collyer Quay, Ocean Financial Centre"
+}

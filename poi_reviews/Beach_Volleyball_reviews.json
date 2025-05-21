@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Marine Parade, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3015872,
+      "lng": 103.9168631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303444680291502,
+        "lng": 103.9184751802915
+      },
+      "southwest": {
+        "lat": 1.300746719708498,
+        "lng": 103.9157772197085
+      }
+    }
+  },
+  "name": "Beach Volleyball",
+  "place_id": "ChIJTUOcTwAj2jERY3NC32ckNq0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "🏐A most sandy and flat part of the beach at East Coast Park dedicated to beach volleyball.\n🏐An interesting ball game that was most likely originated on Waikiki Beach in Hawaii.",
+      "time": 1732056270,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12481203445849813859",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

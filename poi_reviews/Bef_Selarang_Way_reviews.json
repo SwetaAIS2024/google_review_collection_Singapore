@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.373048,
+      "lng": 103.976143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374446680291502,
+        "lng": 103.9775040802915
+      },
+      "southwest": {
+        "lat": 1.371748719708498,
+        "lng": 103.9748061197085
+      }
+    }
+  },
+  "name": "Bef Selarang Way",
+  "place_id": "ChIJvS1KzkQ82jER6aBb2MmXVcg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kee Khong",
+      "author_url": "https://www.google.com/maps/contrib/105561363296931278284/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTzq7hjYs-f5kVWpUdohxposKQuw0HSUrouO0Y6mj2WhjROVbP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529635674,
+      "translated": false
+    },
+    {
+      "author_name": "Jun Wei Ong",
+      "author_url": "https://www.google.com/maps/contrib/111508402855960639084/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4PLQe5GvNhA9HyGNo69DYzzp-IZ9suUxPvWQ7u35Idt985Oyt=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484095864,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14435611073780097257",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

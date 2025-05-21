@@ -1,0 +1,30 @@
+{
+  "formatted_address": "122 Neil Rd, Singapore 088856",
+  "geometry": {
+    "location": {
+      "lat": 1.278985,
+      "lng": 103.841645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280285680291502,
+        "lng": 103.8430477302915
+      },
+      "southwest": {
+        "lat": 1.277587719708498,
+        "lng": 103.8403497697085
+      }
+    }
+  },
+  "name": "Ang Choon Siang",
+  "place_id": "ChIJXYJdnG0Z2jERXEZP1sUnX2k",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7592831227427505756",
+  "vicinity": "122 Neil Road"
+}

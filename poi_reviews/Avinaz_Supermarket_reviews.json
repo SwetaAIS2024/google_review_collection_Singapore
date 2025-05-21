@@ -1,0 +1,45 @@
+{
+  "formatted_address": "65 Yung Kuang Rd, #01-95, Singapore 610065",
+  "geometry": {
+    "location": {
+      "lat": 1.3324239,
+      "lng": 103.7228254
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333776630291502,
+        "lng": 103.7242932302915
+      },
+      "southwest": {
+        "lat": 1.331078669708498,
+        "lng": 103.7215952697085
+      }
+    }
+  },
+  "name": "Avinaz Supermarket",
+  "place_id": "ChIJXX2m-fsP2jERCX-cNwpBTsE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Bharathi Raj",
+      "author_url": "https://www.google.com/maps/contrib/118069187254241285350/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULck48guHHCxvOi83B3VnIP6KTAFN7jPEjc3GCELW2GfTX_mI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553013648,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13929142209642004233",
+  "user_ratings_total": 1,
+  "vicinity": "65 Yung Kuang Road, #01-95, Singapore"
+}

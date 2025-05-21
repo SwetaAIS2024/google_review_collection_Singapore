@@ -1,0 +1,54 @@
+{
+  "formatted_address": "65 Yung Kuang Rd, #01-103, Singapore 610065",
+  "geometry": {
+    "location": {
+      "lat": 1.33237,
+      "lng": 103.7228874
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333788830291502,
+        "lng": 103.7243241802915
+      },
+      "southwest": {
+        "lat": 1.331090869708498,
+        "lng": 103.7216262197085
+      }
+    }
+  },
+  "name": "May Siang Snacks",
+  "place_id": "ChIJGcdYXgoP2jERTJinA6Ufdqs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "James Kok",
+      "author_url": "https://www.google.com/maps/contrib/116745879075996148739/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5-uGtzuVmGr0kks2Ltw548zOR6jeyIgq4aSiP76stzwuGeX35=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745062255,
+      "translated": false
+    },
+    {
+      "author_name": "JUN YI LER",
+      "author_url": "https://www.google.com/maps/contrib/100094845501160698694/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJARhjDUZiODvyjaNtfmagIF4Lvrutsv2bgfjPGk0MOCCHooQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1673302411,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12355097421328914508",
+  "user_ratings_total": 2,
+  "vicinity": "65 Yung Kuang Road, #01-103"
+}

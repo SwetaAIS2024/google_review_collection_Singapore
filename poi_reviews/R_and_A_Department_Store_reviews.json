@@ -1,0 +1,28 @@
+{
+  "formatted_address": "335 Smith St, Singapore 050335",
+  "geometry": {
+    "location": {
+      "lat": 1.2824043,
+      "lng": 103.8433125
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283800330291502,
+        "lng": 103.8446709802915
+      },
+      "southwest": {
+        "lat": 1.281102369708498,
+        "lng": 103.8419730197085
+      }
+    }
+  },
+  "name": "R & A Department Store",
+  "place_id": "ChIJd0C-GXMZ2jERTBwYo9qF17M",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12958973626867522636",
+  "vicinity": "335 Smith Street"
+}

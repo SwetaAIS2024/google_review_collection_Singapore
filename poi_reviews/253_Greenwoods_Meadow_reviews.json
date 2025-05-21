@@ -1,0 +1,63 @@
+{
+  "formatted_address": "253 Greenwood Ave, Singapore 286878",
+  "geometry": {
+    "location": {
+      "lat": 1.337473,
+      "lng": 103.805144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338741580291502,
+        "lng": 103.8063651302915
+      },
+      "southwest": {
+        "lat": 1.336043619708498,
+        "lng": 103.8036671697085
+      }
+    }
+  },
+  "name": "253 Greenwoods Meadow",
+  "place_id": "ChIJj0JNaLsQ2jERkKlsuaBxBGw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sleiman Alsabbagh",
+      "author_url": "https://www.google.com/maps/contrib/108099712420827381141/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAb_gN_Ttd9RDulDaMb-kqF6iEic6W72eyaSE6ah5rUrTQeW8P=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "135 AH",
+      "time": 1722045942,
+      "translated": true
+    },
+    {
+      "author_name": "samoan demigod",
+      "author_url": "https://www.google.com/maps/contrib/105322072331187950297/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeyLnLTtD0dNCRiT4sfeXrcJzwlo3g1R4dm26xk_rfq2RW67U=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560588551,
+      "translated": false
+    },
+    {
+      "author_name": "Kirztan Jerecia",
+      "author_url": "https://www.google.com/maps/contrib/103881915411927460632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYK78zvtdqTnEqL_VMPFBuzE_0CenLiY2fS6yQF-jlKmvzK-I=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1543492184,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7783470991122672016",
+  "user_ratings_total": 3,
+  "vicinity": "253 Greenwood Avenue"
+}

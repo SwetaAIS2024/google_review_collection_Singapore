@@ -1,0 +1,45 @@
+{
+  "formatted_address": "503 W Coast Dr, Singapore 120503",
+  "geometry": {
+    "location": {
+      "lat": 1.3118695,
+      "lng": 103.7597825
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313118930291502,
+        "lng": 103.7610917302915
+      },
+      "southwest": {
+        "lat": 1.310420969708498,
+        "lng": 103.7583937697085
+      }
+    }
+  },
+  "name": "Putri Hana (Stall 69)",
+  "place_id": "ChIJjzwdyZMa2jERqmo9sVjC2kY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Riani Amin",
+      "author_url": "https://www.google.com/maps/contrib/115633862179597671419/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXt0kOWGP_KjLkpZFSJ1M6OUzzzvvCvlysyClMaFCXpOO3x0x1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "My fav black pepper chicken rice here... couldn't find anything better elsewhere.",
+      "time": 1615081121,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5105606813764381354",
+  "user_ratings_total": 1,
+  "vicinity": "503 West Coast Drive"
+}

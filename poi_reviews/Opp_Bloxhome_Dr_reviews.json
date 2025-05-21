@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.364121,
+      "lng": 103.861038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.365466480291502,
+        "lng": 103.8623924802915
+      },
+      "southwest": {
+        "lat": 1.362768519708498,
+        "lng": 103.8596945197085
+      }
+    }
+  },
+  "name": "Opp Bloxhome Dr",
+  "place_id": "ChIJeeg69P0W2jER8YtOj0sjTJY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "khai Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/105627719524107717435/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmvRPSY8nkX4DLagyREJ2_8mw59PQR-lFHIUgBK1NJCVG0Gw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1584358569,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10830070011353009137",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

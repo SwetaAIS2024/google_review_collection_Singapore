@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Blk 257 Bangkit Rd, #01-61, Singapore 670257",
+  "geometry": {
+    "location": {
+      "lat": 1.3787767,
+      "lng": 103.7732216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380182730291502,
+        "lng": 103.7746694302915
+      },
+      "southwest": {
+        "lat": 1.377484769708498,
+        "lng": 103.7719714697085
+      }
+    }
+  },
+  "name": "Mummy Noodle House",
+  "place_id": "ChIJuV2dfq0R2jERLLVMFGRuMtY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Daniel Lim",
+      "author_url": "https://www.google.com/maps/contrib/108134641680568122019/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoLVKNjnEQvrXPxjATiiJxIoJcjVnnwF09kI1GQjvvzNH5Cg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Khao Soi Gai is pretty hard to find in SG; it's my favourite nothern thai dish. This is where I come for my fix.\n\nIt's good. Rich flavour, succulent chicken. Quite delicious, and I'm glad this stall is a bus ride away from me. Note the opening hours. It's mainly a lunch spot.",
+      "time": 1730537707,
+      "translated": false
+    },
+    {
+      "author_name": "Keet Lee (KEET)",
+      "author_url": "https://www.google.com/maps/contrib/107825969106247472063/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjrKk-yUsyGD8iua487cvaIABiuoVj8J-d0-PXJ5Uzug1emSPIMQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Authentic Thai Style Curry Noodle. The Lor Mee was also good too :)",
+      "time": 1700303440,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15434520249068467500",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 257 Bangkit Road, #01-61"
+}

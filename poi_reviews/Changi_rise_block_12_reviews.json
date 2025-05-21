@@ -1,0 +1,42 @@
+{
+  "formatted_address": "12 Simei Rise, Singapore 528805",
+  "geometry": {
+    "location": {
+      "lat": 1.3485428,
+      "lng": 103.9593375
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349879680291502,
+        "lng": 103.9606144302915
+      },
+      "southwest": {
+        "lat": 1.347181719708498,
+        "lng": 103.9579164697085
+      }
+    }
+  },
+  "name": "Changi rise block 12",
+  "place_id": "ChIJJefTbB492jERRguxPmIW1ws",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zharfan Aiman",
+      "author_url": "https://www.google.com/maps/contrib/116813985138517344817/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqgRcpOOTTvIM8HtBXJa0MC2SN9jTT9vsXiZlEGorvBUnsTI-x=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1528390737,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=853175265624394566",
+  "user_ratings_total": 1,
+  "vicinity": "12 Simei Rise"
+}

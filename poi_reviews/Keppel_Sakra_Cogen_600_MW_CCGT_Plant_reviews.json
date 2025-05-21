@@ -1,0 +1,51 @@
+{
+  "formatted_address": "121 Sakra Ave, Singapore 628534",
+  "geometry": {
+    "location": {
+      "lat": 1.2639414,
+      "lng": 103.6959004
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265282080291502,
+        "lng": 103.6972495302915
+      },
+      "southwest": {
+        "lat": 1.262584119708498,
+        "lng": 103.6945515697085
+      }
+    }
+  },
+  "name": "Keppel Sakra Cogen 600 MW CCGT Plant",
+  "place_id": "ChIJ2TMglkwF2jER8ChixH6mGAQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Mohd jufry Bin kadri",
+      "author_url": "https://www.google.com/maps/contrib/101453383899688390353/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOz8H05CaEFCSZamm9KWPLnvT6gFirYdexd_epbC3k4W4KYA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743025941,
+      "translated": false
+    },
+    {
+      "author_name": "road runner",
+      "author_url": "https://www.google.com/maps/contrib/107650416391984765382/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOZuIwaLUoTZYtWXwIGXO1w0F9GwG-7Geoq7gV5t97QksWBg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1685953719,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=295168838983624944",
+  "user_ratings_total": 2,
+  "vicinity": "121 Sakra Avenue, Singapore"
+}

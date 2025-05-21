@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.393108,
+      "lng": 103.9013167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.394465080291502,
+        "lng": 103.9026600802915
+      },
+      "southwest": {
+        "lat": 1.391767119708498,
+        "lng": 103.8999621197085
+      }
+    }
+  },
+  "name": "St. Anne's Ch",
+  "place_id": "ChIJM-7svw8W2jERjRFy-W595_Y",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "_ “‪vinson‬” _",
+      "author_url": "https://www.google.com/maps/contrib/114113574598257242115/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyIfKQUu4H3MkDhtNFBpUC-ibqvxAwPpU63-0KbAK0jZVDixDd=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Brings me to school",
+      "time": 1596579791,
+      "translated": false
+    },
+    {
+      "author_name": "Advait Maniyar",
+      "author_url": "https://www.google.com/maps/contrib/112489435248057739226/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbf51fiPElxGCxCafefegGJrH85hr-OwQmaTO0quS1B5vr_7Rk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485659156,
+      "translated": false
+    },
+    {
+      "author_name": "Vinayak Prabahar",
+      "author_url": "https://www.google.com/maps/contrib/110984334773559399936/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS2BJT2SmvJ1NRi5mY9W0EHAZXntg5T64BITHmJWFKqHV3ShM=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482498787,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17791326768535310733",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

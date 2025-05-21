@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 058727",
+  "geometry": {
+    "location": {
+      "lat": 1.284945,
+      "lng": 103.8461762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286222880291502,
+        "lng": 103.8478291802915
+      },
+      "southwest": {
+        "lat": 1.283524919708498,
+        "lng": 103.8451312197085
+      }
+    }
+  },
+  "name": "Natural One",
+  "place_id": "ChIJZ6wfaQsZ2jER9aMO85fQ5GI",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7126049861443429365",
+  "vicinity": ""
+}

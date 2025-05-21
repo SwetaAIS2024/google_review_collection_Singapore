@@ -1,0 +1,30 @@
+{
+  "formatted_address": "516 Old Choa Chu Kang Rd, Singapore 698907",
+  "geometry": {
+    "location": {
+      "lat": 1.3782826,
+      "lng": 103.718396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379144330291502,
+        "lng": 103.7197428302915
+      },
+      "southwest": {
+        "lat": 1.376446369708498,
+        "lng": 103.7170448697085
+      }
+    }
+  },
+  "name": "Pallathur",
+  "place_id": "ChIJkToOVgAP2jERNZC1wWig4Xk",
+  "types": [
+    "bakery",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8782477120136122421",
+  "vicinity": "516 Old Choa Chu Kang Road"
+}

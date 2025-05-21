@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3438474,
+      "lng": 103.8782628
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345160180291502,
+        "lng": 103.8795827802915
+      },
+      "southwest": {
+        "lat": 1.342462219708498,
+        "lng": 103.8768848197085
+      }
+    }
+  },
+  "name": "Bartley Chr Ch",
+  "place_id": "ChIJE4i_P5gX2jER8wW4WZu9NAM",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=231017955825550835",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.361285,
+      "lng": 103.838501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362628230291502,
+        "lng": 103.8398619802915
+      },
+      "southwest": {
+        "lat": 1.359930269708498,
+        "lng": 103.8371640197085
+      }
+    }
+  },
+  "name": "Opp Nea Reg Off",
+  "place_id": "ChIJFcUN0SYX2jER9m8S_g61me4",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "md hasni",
+      "author_url": "https://www.google.com/maps/contrib/116934424410934458323/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpJAQgMGFC2cMaE8LSxBuBsZTAxnKh-h6zyASGMyQ7eiUIi745rw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Nearest bus stop to NEA North East building and the Tse Tho AumTemple. However, quite a walk to LTA building.",
+      "time": 1519284970,
+      "translated": false
+    },
+    {
+      "author_name": "sae yaeh Armoei",
+      "author_url": "https://www.google.com/maps/contrib/101866739645556091324/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpkxgYwRI9s4zQL7rufWg9xqdVyyjCDFnw8mPj2QnFevA_Jw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522721770,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Hunghuat",
+      "author_url": "https://www.google.com/maps/contrib/103829517146590271656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2kkX_CP6Zptj2IPjPyoYhsxbAhWJHBbAvXJz9aUONqsnd0esa=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1507349674,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17192972128460369910",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

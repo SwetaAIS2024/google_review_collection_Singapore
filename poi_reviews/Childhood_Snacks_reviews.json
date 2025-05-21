@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Kent Ridge Crescent, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2937655,
+      "lng": 103.7848079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295170880291502,
+        "lng": 103.7860418802915
+      },
+      "southwest": {
+        "lat": 1.292472919708498,
+        "lng": 103.7833439197085
+      }
+    }
+  },
+  "name": "Childhood Snacks",
+  "place_id": "ChIJx4YvcgAb2jERvdY7zj1MXPA",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17319802095296829117",
+  "vicinity": "Kent Ridge Crescent"
+}

@@ -1,0 +1,27 @@
+{
+  "formatted_address": "8 Victoria Park Rd, Singapore 266492",
+  "geometry": {
+    "location": {
+      "lat": 1.3183899,
+      "lng": 103.8049296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319828630291502,
+        "lng": 103.8062855302915
+      },
+      "southwest": {
+        "lat": 1.317130669708498,
+        "lng": 103.8035875697085
+      }
+    }
+  },
+  "name": "Society of Jesus",
+  "place_id": "ChIJE9uCDQ4a2jERzguRB7gwLd8",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16081563411368971214",
+  "vicinity": "8 Victoria Park Road"
+}

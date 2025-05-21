@@ -1,0 +1,51 @@
+{
+  "formatted_address": "30, Jalan Mega 1/5, 81550 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4413324,
+      "lng": 103.6055678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.442786280291502,
+        "lng": 103.6069713302915
+      },
+      "southwest": {
+        "lat": 1.440088319708498,
+        "lng": 103.6042733697085
+      }
+    }
+  },
+  "name": "Wartsila",
+  "place_id": "ChIJNzwY3QkL2jERq6j4wDJYG04",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Meiling Teng",
+      "author_url": "https://www.google.com/maps/contrib/112299830403063586223/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkM5-LYp_VNnNTblrBbvvF6_r2tTuedT5xIo-1I1j24zuEG5Nk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721228549,
+      "translated": false
+    },
+    {
+      "author_name": "Yaya Gala",
+      "author_url": "https://www.google.com/maps/contrib/117154442442074027043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzlUu8DoLwMklYvPhVjt45l65E9zPibN9P37lPWReWU_AzcA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1565899124,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5628189134338697387",
+  "user_ratings_total": 2,
+  "vicinity": "30, Jalan Mega 1/5, Gelang Patah"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "7030 Ang Mo Kio Ave 5, #04-07 Northstar@AMK, Singapore 569880",
+  "geometry": {
+    "location": {
+      "lat": 1.3777635,
+      "lng": 103.8757964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378873580291502,
+        "lng": 103.8771360802915
+      },
+      "southwest": {
+        "lat": 1.376175619708498,
+        "lng": 103.8744381197085
+      }
+    }
+  },
+  "name": "Immco Pte Ltd",
+  "place_id": "ChIJ14DY6s8Z2jERJypt9IY8vao",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Dark Angel",
+      "author_url": "https://www.google.com/maps/contrib/111878067204570520585/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_s75c3eWqru8zokf0vjw4OzjzM4GRV8CzF5-sDMbaEf-674A=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1726038918,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12303056307370142247",
+  "user_ratings_total": 1,
+  "vicinity": "7030 Ang Mo Kio Avenue 5, #04-07 Northstar@AMK"
+}

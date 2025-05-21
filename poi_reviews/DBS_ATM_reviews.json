@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Maritime Square, #02-122/123 Harbourfront Centre, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.264117,
+      "lng": 103.8201031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.265321530291502,
+        "lng": 103.8215228302915
+      },
+      "southwest": {
+        "lat": 1.262623569708498,
+        "lng": 103.8188248697085
+      }
+    }
+  },
+  "name": "DBS ATM",
+  "place_id": "ChIJSX58E-Ib2jER-bN2DD40Lpw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11253989959947170809",
+  "vicinity": "1 Maritime Square, #02-122/123 Harbourfront Centre"
+}

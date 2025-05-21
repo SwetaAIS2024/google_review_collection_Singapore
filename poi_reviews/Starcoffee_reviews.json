@@ -1,0 +1,30 @@
+{
+  "formatted_address": "259 Bangkit Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3371727,
+      "lng": 103.8826827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338558480291502,
+        "lng": 103.8840558302915
+      },
+      "southwest": {
+        "lat": 1.335860519708498,
+        "lng": 103.8813578697085
+      }
+    }
+  },
+  "name": "Starcoffee",
+  "place_id": "ChIJvRhFVwAX2jER5BHPXpYto9s",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15826543639369028068",
+  "vicinity": "259 Bangkit Road"
+}

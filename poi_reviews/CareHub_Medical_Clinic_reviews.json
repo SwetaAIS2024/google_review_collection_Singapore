@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 13 Marine Ter, #01-176, Singapore 440013",
+  "geometry": {
+    "location": {
+      "lat": 1.3040803,
+      "lng": 103.9156225
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305419880291502,
+        "lng": 103.9170557302915
+      },
+      "southwest": {
+        "lat": 1.302721919708498,
+        "lng": 103.9143577697085
+      }
+    }
+  },
+  "name": "CareHub Medical Clinic",
+  "place_id": "ChIJQXBt3g0j2jERcifMSEQzT2I",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7083937107249211250",
+  "vicinity": "Blk 13 Marine Terrace, #01-176"
+}

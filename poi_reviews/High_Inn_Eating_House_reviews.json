@@ -1,0 +1,30 @@
+{
+  "formatted_address": "442 Clementi Ave 3, Singapore 120442",
+  "geometry": {
+    "location": {
+      "lat": 1.314037,
+      "lng": 103.7643992
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315315830291502,
+        "lng": 103.7656993802915
+      },
+      "southwest": {
+        "lat": 1.312617869708498,
+        "lng": 103.7630014197085
+      }
+    }
+  },
+  "name": "High Inn Eating House",
+  "place_id": "ChIJRycmGo4a2jERgizjcnpezcM",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14109037087628143746",
+  "vicinity": "442 Clementi Avenue 3"
+}

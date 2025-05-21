@@ -1,0 +1,63 @@
+{
+  "formatted_address": "6 Stadium Blvd, Singapore 397797",
+  "geometry": {
+    "location": {
+      "lat": 1.3058291,
+      "lng": 103.8798251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307147930291502,
+        "lng": 103.8811877802915
+      },
+      "southwest": {
+        "lat": 1.304449969708498,
+        "lng": 103.8784898197085
+      }
+    }
+  },
+  "name": "Netball S'pore",
+  "place_id": "ChIJgaZg2EcY2jERyg72dpVHIco",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Winston Wong",
+      "author_url": "https://www.google.com/maps/contrib/103235641006338279074/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Cghrf0-cpDpbmzUdfiV4wafgvv92YCbfB0Z9gyBr4Mli_ybL=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Excellent courts. Parking limited.",
+      "time": 1722946612,
+      "translated": false
+    },
+    {
+      "author_name": "Ismail Ziam",
+      "author_url": "https://www.google.com/maps/contrib/114652050440967577234/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKkn3RiUz3t6c5M--mxSnH1-cGP06Z7h9SgBGbvYZQsqpvgZer=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488881083,
+      "translated": false
+    },
+    {
+      "author_name": "Heng Soon Heng",
+      "author_url": "https://www.google.com/maps/contrib/110516604799398772020/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsWzzl33BevcOyRg0tHuymq3QeLv-ZgD9REFkn86lu-XCMow=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1421989511,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14565001377164431050",
+  "user_ratings_total": 3,
+  "vicinity": "6 Stadium Boulevard, Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.348383,
+      "lng": 103.880188
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.349738480291502,
+        "lng": 103.8815735302915
+      },
+      "southwest": {
+        "lat": 1.347040519708498,
+        "lng": 103.8788755697085
+      }
+    }
+  },
+  "name": "Opp Bethany Presby Ch",
+  "place_id": "ChIJr2zmyLwX2jERloO-ZxJDQns",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Christopher Seow",
+      "author_url": "https://www.google.com/maps/contrib/109499295766146670121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURRPNE0nZ7ED2qNk0xnkv1W7NvhEimTGteyiMUp3RbJLXvIx-zcQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Very smoky place that have many cars especially peak hours.",
+      "time": 1640780140,
+      "translated": false
+    },
+    {
+      "author_name": "Sze Boon",
+      "author_url": "https://www.google.com/maps/contrib/111598496517738190809/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVzQH1mH4ZL-M-ZH8NNwoiOSJdmboKACmY3__bG--Vxe2N4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509431971,
+      "translated": false
+    },
+    {
+      "author_name": "Legyta Vyky Setyanie",
+      "author_url": "https://www.google.com/maps/contrib/117377159497994312178/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwoGhuSM5FfxncCG3l-F042ZRN9AdTTgwUOGqFQF2Vl4nBlwdiXw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485048901,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8881735161457050518",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

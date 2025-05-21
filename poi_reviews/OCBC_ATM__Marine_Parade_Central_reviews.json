@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Marine Parade Central, Singapore 449411",
+  "geometry": {
+    "location": {
+      "lat": 1.3014751,
+      "lng": 103.9070238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302864230291502,
+        "lng": 103.9083455302915
+      },
+      "southwest": {
+        "lat": 1.300166269708498,
+        "lng": 103.9056475697085
+      }
+    }
+  },
+  "name": "OCBC ATM | Marine Parade Central",
+  "place_id": "ChIJ5UQfFXEY2jERZbNjoP3hY_U",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Edward Tan",
+      "author_url": "https://www.google.com/maps/contrib/108759979760879735761/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj2fcGVmtzNaGf-WxZEiJbw41-wopzuOCUN8jkhqk5q9_xpH6I=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "Provides both cash withdrawal and deposit services.",
+      "time": 1506461279,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17682225041420563301",
+  "user_ratings_total": 1,
+  "vicinity": "6 Marine Parade Central"
+}

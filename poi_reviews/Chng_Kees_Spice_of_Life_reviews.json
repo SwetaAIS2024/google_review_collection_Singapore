@@ -1,0 +1,44 @@
+{
+  "formatted_address": "65 Airport Blvd., Singapore 819663",
+  "geometry": {
+    "location": {
+      "lat": 1.354371,
+      "lng": 103.98517
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355787830291502,
+        "lng": 103.9870463802915
+      },
+      "southwest": {
+        "lat": 1.353089869708498,
+        "lng": 103.9843484197085
+      }
+    }
+  },
+  "name": "Chng Kee's Spice of Life",
+  "place_id": "ChIJkUm6XI082jERZoELi9e6hD8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Richmond Walter",
+      "author_url": "https://www.google.com/maps/contrib/116341081118834200033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxOxnySap4DvjelPU45OpZ_cqeCinONOIpUZXKDSeGnjTkLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Horrible sauce with sulphite ingredient. No expiry date on the bottom of sauce.",
+      "time": 1742462667,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4576988556228788582",
+  "user_ratings_total": 1,
+  "vicinity": "65 Airport Boulevard, Singapore"
+}

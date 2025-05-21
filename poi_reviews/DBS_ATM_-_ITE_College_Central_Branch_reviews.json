@@ -1,0 +1,43 @@
+{
+  "formatted_address": "2 Ang Mo Kio Drive Blk A #01-10, Singapore 567720",
+  "geometry": {
+    "location": {
+      "lat": 1.3766843,
+      "lng": 103.8561382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378127580291502,
+        "lng": 103.8573412302915
+      },
+      "southwest": {
+        "lat": 1.375429619708498,
+        "lng": 103.8546432697085
+      }
+    }
+  },
+  "name": "DBS ATM - ITE College Central Branch",
+  "place_id": "ChIJM-mprokX2jER3lfnk_ByTuw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tan Siew kwee",
+      "author_url": "https://www.google.com/maps/contrib/108418905426655602426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkhZu8njh83T8IMif9Q3uWc4Y4RcTqQO1he2u6WuXEZcxpOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604370382,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17027673618733553630",
+  "user_ratings_total": 1,
+  "vicinity": "2 Ang Mo Kio Drive Blk A #01-10, Singapore"
+}

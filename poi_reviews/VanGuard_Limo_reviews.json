@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Ean Kiam Pl, Singapore 429129",
+  "geometry": {
+    "location": {
+      "lat": 1.304674,
+      "lng": 103.9021382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306004530291502,
+        "lng": 103.9034616802915
+      },
+      "southwest": {
+        "lat": 1.303306569708498,
+        "lng": 103.9007637197085
+      }
+    }
+  },
+  "name": "VanGuard Limo",
+  "place_id": "ChIJp5hOdG0Y2jERftxQOyYTj3I",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8254837696918248574",
+  "vicinity": "Ean Kiam Place"
+}

@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Yuan Ching Rd, Jurong Superbowl, Singapore 618640",
+  "geometry": {
+    "location": {
+      "lat": 1.3259229,
+      "lng": 103.72471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327292230291502,
+        "lng": 103.7261277302915
+      },
+      "southwest": {
+        "lat": 1.324594269708498,
+        "lng": 103.7234297697085
+      }
+    }
+  },
+  "name": "UOB ATM - Jurong SuperBowl",
+  "place_id": "ChIJd0jKulUF2jERCLXa03Fee0g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wendell Mendoza",
+      "author_url": "https://www.google.com/maps/contrib/112105407442652473656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNroHaWZMq_3CR3WW6RbPKTMAaL7b_GMNOL212PCuaBfYcXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1347068834,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5222872035844863240",
+  "user_ratings_total": 1,
+  "vicinity": "1 Yuan Ching Road, Jurong Superbowl, Singapore"
+}

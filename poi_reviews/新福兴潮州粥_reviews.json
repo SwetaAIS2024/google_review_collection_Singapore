@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Sims Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3148171,
+      "lng": 103.8805017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316116830291502,
+        "lng": 103.8818698302915
+      },
+      "southwest": {
+        "lat": 1.313418869708498,
+        "lng": 103.8791718697085
+      }
+    }
+  },
+  "name": "新福兴潮州粥",
+  "place_id": "ChIJIQYVQgAZ2jERqbwTtzvwDdk",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15640421220192861353",
+  "vicinity": "Sims Avenue"
+}

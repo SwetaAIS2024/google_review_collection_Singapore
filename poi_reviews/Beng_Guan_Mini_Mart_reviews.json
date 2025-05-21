@@ -1,0 +1,46 @@
+{
+  "formatted_address": "Bedok North Street 2, #01-102 Block 122, Singapore 460122",
+  "geometry": {
+    "location": {
+      "lat": 1.3287484,
+      "lng": 103.93801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.330179030291502,
+        "lng": 103.9392672802915
+      },
+      "southwest": {
+        "lat": 1.327481069708498,
+        "lng": 103.9365693197085
+      }
+    }
+  },
+  "name": "Beng Guan Mini Mart",
+  "place_id": "ChIJrUxEjzU92jERvEfxLJ6i158",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Terri Morales",
+      "author_url": "https://www.google.com/maps/contrib/109539891445138775400/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl0wzVrMiMT9vwr92S8rsNuh5eJhxBxp1V_dHNALOV1bdUGcc=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "The cashier auntie is always very rude and lazy unlike the shop owner auntie.",
+      "time": 1719818602,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11517853372265875388",
+  "user_ratings_total": 1,
+  "vicinity": "Bedok North Street 2, #01-102 Block 122"
+}

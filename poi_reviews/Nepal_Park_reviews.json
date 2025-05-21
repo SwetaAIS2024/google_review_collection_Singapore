@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Nepal Park, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3019099,
+      "lng": 103.788591
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303276130291502,
+        "lng": 103.7899661302915
+      },
+      "southwest": {
+        "lat": 1.300578169708498,
+        "lng": 103.7872681697085
+      }
+    }
+  },
+  "name": "Nepal Park",
+  "place_id": "ChIJuxZrdQAb2jERiia8mSnb5VU",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6189594234610001546",
+  "vicinity": "Nepal Park"
+}

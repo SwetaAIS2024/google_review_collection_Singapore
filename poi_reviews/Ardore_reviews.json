@@ -1,0 +1,29 @@
+{
+  "formatted_address": "17 Defu Lane 6, Singapore 539372",
+  "geometry": {
+    "location": {
+      "lat": 1.3598027,
+      "lng": 103.8974654
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361239980291502,
+        "lng": 103.8988034302915
+      },
+      "southwest": {
+        "lat": 1.358542019708498,
+        "lng": 103.8961054697085
+      }
+    }
+  },
+  "name": "Ardore",
+  "place_id": "ChIJSWfFDcwX2jER0gPJ5Ow5Glc",
+  "types": [
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6276392720307651538",
+  "vicinity": "17 Defu Lane 6"
+}

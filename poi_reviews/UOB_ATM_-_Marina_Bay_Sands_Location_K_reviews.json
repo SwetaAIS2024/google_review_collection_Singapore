@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 10 Bayfront Avenue, Location K Level 01 near, #01-50 Marina Bay Sands, Singapore 018956",
+  "geometry": {
+    "location": {
+      "lat": 1.282275,
+      "lng": 103.858322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283595780291502,
+        "lng": 103.8597788302915
+      },
+      "southwest": {
+        "lat": 1.280897819708498,
+        "lng": 103.8570808697085
+      }
+    }
+  },
+  "name": "UOB ATM - Marina Bay Sands Location K",
+  "place_id": "ChIJoayfpgUZ2jERQKbLyDAlGCA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2312639300112197184",
+  "vicinity": "No. 10 Bayfront Avenue, Location K Level 01 near, #01-50 Marina Bay Sands"
+}

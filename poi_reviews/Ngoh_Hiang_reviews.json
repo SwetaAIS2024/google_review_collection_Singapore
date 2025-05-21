@@ -1,0 +1,43 @@
+{
+  "formatted_address": "530 Ang Mo Kio Ave 10, Singapore 560530",
+  "geometry": {
+    "location": {
+      "lat": 1.372766,
+      "lng": 103.85535
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374035430291502,
+        "lng": 103.8567576302915
+      },
+      "southwest": {
+        "lat": 1.371337469708498,
+        "lng": 103.8540596697085
+      }
+    }
+  },
+  "name": "Ngoh Hiang",
+  "place_id": "ChIJ76FTW-UW2jERR5SfWCTc3JU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ursula Alexander",
+      "author_url": "https://www.google.com/maps/contrib/112439600595749290381/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9i3N8lrhxARdmfTzBK6-4zmu6ei0aARgyHo66qU-FrbxCEQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1688686295,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10798748055191393351",
+  "user_ratings_total": 1,
+  "vicinity": "530 Ang Mo Kio Avenue 10, Singapore"
+}

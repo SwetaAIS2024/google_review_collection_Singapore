@@ -1,0 +1,28 @@
+{
+  "formatted_address": "654 Hougang Ave 8, Singapore 530654",
+  "geometry": {
+    "location": {
+      "lat": 1.37281,
+      "lng": 103.881573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374219830291502,
+        "lng": 103.8828952302915
+      },
+      "southwest": {
+        "lat": 1.371521869708498,
+        "lng": 103.8801972697085
+      }
+    }
+  },
+  "name": "Hock Lian Bus Transport Service",
+  "place_id": "ChIJ7Szhjk8W2jERiWwjaMcqd2M",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7167244367917444233",
+  "vicinity": "654 Hougang Avenue 8"
+}

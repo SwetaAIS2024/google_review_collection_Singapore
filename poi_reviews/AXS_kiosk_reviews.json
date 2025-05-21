@@ -1,0 +1,29 @@
+{
+  "formatted_address": "118 Commonwealth Cres Singapore 140118 Commonwealth Cres, Singapore 140118",
+  "geometry": {
+    "location": {
+      "lat": 1.3068855,
+      "lng": 103.8004542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308369480291502,
+        "lng": 103.8018434802915
+      },
+      "southwest": {
+        "lat": 1.305671519708498,
+        "lng": 103.7991455197085
+      }
+    }
+  },
+  "name": "AXS kiosk",
+  "place_id": "ChIJl6eAxz8a2jERv5n4g0GsbBw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2048201327933692351",
+  "vicinity": "118 Commonwealth Cres Singapore 140118 Commonwealth Crescent, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Tampines Grande, #03-58, Singapore 528799",
+  "geometry": {
+    "location": {
+      "lat": 1.3545664,
+      "lng": 103.942316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355768730291502,
+        "lng": 103.9437486302915
+      },
+      "southwest": {
+        "lat": 1.353070769708498,
+        "lng": 103.9410506697085
+      }
+    }
+  },
+  "name": "DPO Organization",
+  "place_id": "ChIJr-GI8Q092jERZkDXYojHT18",
+  "types": [
+    "insurance_agency",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6867927345351049318",
+  "vicinity": "3 Tampines Grande, #03-58"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "254 Jurong East St 24, Singapore 600254",
+  "geometry": {
+    "location": {
+      "lat": 1.3437644,
+      "lng": 103.7376987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345092480291502,
+        "lng": 103.7391107302915
+      },
+      "southwest": {
+        "lat": 1.342394519708498,
+        "lng": 103.7364127697085
+      }
+    }
+  },
+  "name": "Jin Li Tea Stall",
+  "place_id": "ChIJZZZoqxkQ2jERnXtgBfgTQAI",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "HS Lim",
+      "author_url": "https://www.google.com/maps/contrib/115535175613259076481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRhd362QRe7jx37NvedguQrnWUW3UmhcH-L2WO3wN7vRmIRwOS=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Jin Li Tea Stall 進利茶室\nGood coffee and always servuxe with :)\n\nLast update Nov2018",
+      "time": 1542689096,
+      "translated": false
+    },
+    {
+      "author_name": "mei f",
+      "author_url": "https://www.google.com/maps/contrib/108304151445003909023/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbh8dhEizMN0exQKN3_WewCyxhjVdsv9g4ckFDiQgaPHJlqPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Lovely service, lovely kopi",
+      "time": 1721696576,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=162151542548364189",
+  "user_ratings_total": 2,
+  "vicinity": "254 Jurong East Street 24, Singapore"
+}

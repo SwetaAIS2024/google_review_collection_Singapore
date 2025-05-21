@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Marina Coastal Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2660036,
+      "lng": 103.8603372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.267348680291502,
+        "lng": 103.8616855302915
+      },
+      "southwest": {
+        "lat": 1.264650719708498,
+        "lng": 103.8589875697085
+      }
+    }
+  },
+  "name": "MLS Meteorite Logistics Services",
+  "place_id": "ChIJqbORjiMZ2jERY7dcfyxySZE",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10469024344240338787",
+  "vicinity": "Marina Coastal Drive"
+}

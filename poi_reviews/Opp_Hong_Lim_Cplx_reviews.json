@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2840377,
+      "lng": 103.8452651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285422980291502,
+        "lng": 103.8466407302915
+      },
+      "southwest": {
+        "lat": 1.282725019708498,
+        "lng": 103.8439427697085
+      }
+    }
+  },
+  "name": "Opp Hong Lim Cplx",
+  "place_id": "ChIJtfpUrgwZ2jERHO8H8yW2_CU",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "DR DAVY GOH",
+      "author_url": "https://www.google.com/maps/contrib/100178836333366849641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgw59O9S7vDEVVAfvnlh8FjGqH7dJNCO1Ny29_mPQYDa7ZKqnxOg=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "Always very crowded. Not enough space for the commuters. And the shelter was also a bit small, not able to protect the commuters against the elements of weather.\nWould be better, if the bus stop could be made bigger, more spacious to accommodate the commuters.",
+      "time": 1653736442,
+      "translated": false
+    },
+    {
+      "author_name": "micheal Liew",
+      "author_url": "https://www.google.com/maps/contrib/110371337723912100135/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4UmFeqgNL-Vvq50DuC_vQqPuE48K6pIU4HJ93GQ8RQHuX7w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1670329775,
+      "translated": false
+    },
+    {
+      "author_name": "zhuniu Happy",
+      "author_url": "https://www.google.com/maps/contrib/113771038066475830043/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLDKD0qLsKweyIAtfHMgCd8tGR__XzZNpYVu1KAEK4KJmbww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1488816757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2737262947641847580",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

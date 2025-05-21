@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.424841,
+      "lng": 103.756844
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.426187080291502,
+        "lng": 103.7581635302915
+      },
+      "southwest": {
+        "lat": 1.423489119708498,
+        "lng": 103.7554655697085
+      }
+    }
+  },
+  "name": "Aft W'Lands Rd",
+  "place_id": "ChIJ5YuJREES2jER-rPhywmvsCA",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Nope Thanks",
+      "author_url": "https://www.google.com/maps/contrib/114697604520200224046/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXnzYMGyAmDW1ib2R4BPvu5YIPSpxNYdhGuPT5p42K2Fwl8A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Only one bus service",
+      "time": 1723277608,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2355575061724902394",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

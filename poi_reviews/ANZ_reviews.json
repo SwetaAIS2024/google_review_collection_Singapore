@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3051586,
+      "lng": 103.8240668
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.306586080291502,
+        "lng": 103.8254192802915
+      },
+      "southwest": {
+        "lat": 1.303888119708498,
+        "lng": 103.8227213197085
+      }
+    }
+  },
+  "name": "ANZ",
+  "place_id": "ChIJv0MLUYoZ2jERpMQ0e_MexS4",
+  "types": [
+    "atm",
+    "subpremise",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da198a510b43bf:0x2ec51ef37b34c4a4",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3401796,
+      "lng": 103.8543817
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341355880291502,
+        "lng": 103.8558651302915
+      },
+      "southwest": {
+        "lat": 1.338657919708498,
+        "lng": 103.8531671697085
+      }
+    }
+  },
+  "name": "Quan Chin Cafe",
+  "place_id": "ChIJc6rdcG4X2jERkw_3xfb4PF8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wengkit Cheong",
+      "author_url": "https://www.google.com/maps/contrib/117177266822847330772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvCbvY-vCSXFT3dKdU0vQV4Nn1vyDtgE7fttM2P-dSP9oW7Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Excellent coffee. Coffee powder is good quality, not smeared with sugar. Water very hot. My vote for the coffee in this market",
+      "time": 1637285515,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6862633670972739475",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

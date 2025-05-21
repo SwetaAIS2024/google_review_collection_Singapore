@@ -1,0 +1,59 @@
+{
+  "formatted_address": "537 Bedok North Street 3, #01-513 Kaki Bukit Mall, Singapore 460537",
+  "geometry": {
+    "location": {
+      "lat": 1.3324851,
+      "lng": 103.9241651
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333891480291502,
+        "lng": 103.9254976302915
+      },
+      "southwest": {
+        "lat": 1.331193519708498,
+        "lng": 103.9227996697085
+      }
+    }
+  },
+  "name": "ACE Marketplace",
+  "place_id": "ChIJwQK0UgA92jERvBlkSYEy-2s",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "xam chin",
+      "author_url": "https://www.google.com/maps/contrib/112430444128981610751/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRqdaQpcwOFVgKsX8AZmqCfiIxEkAtnJZxVNwoC7XZ7UsW_g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Good place to get products at cheaper prices",
+      "time": 1736114545,
+      "translated": false
+    },
+    {
+      "author_name": "Ayako N",
+      "author_url": "https://www.google.com/maps/contrib/111715625032920437828/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqNajNjfm7YWgMyJmVyHu9yO8F7g4eplPndszIvO-c4CwJ-RY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "This is a convenience store located in Bedok North.\n\nThe store is not that big, but they carry a wide variety of products. (For some reason, I couldn't find any mineral water.) The store also sells gin from Japan's ROKU, canned beer, and Jacob's Chardonnay wine ($26 before tax).",
+      "time": 1736077562,
+      "translated": true
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7780868312076130748",
+  "user_ratings_total": 2,
+  "vicinity": "537 Bedok North Street 3, #01-513 Kaki Bukit Mall"
+}

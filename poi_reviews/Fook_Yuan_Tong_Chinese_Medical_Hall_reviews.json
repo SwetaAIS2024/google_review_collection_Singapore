@@ -1,0 +1,44 @@
+{
+  "formatted_address": "342 Ubi Ave 1, Singapore 400342",
+  "geometry": {
+    "location": {
+      "lat": 1.3265063,
+      "lng": 103.9011351
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327847130291502,
+        "lng": 103.9024200802915
+      },
+      "southwest": {
+        "lat": 1.325149169708498,
+        "lng": 103.8997221197085
+      }
+    }
+  },
+  "name": "Fook Yuan Tong Chinese Medical Hall",
+  "place_id": "ChIJrTuO3vcX2jERlJfHiYdxvf4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jeremy Ng",
+      "author_url": "https://www.google.com/maps/contrib/109666522313313793502/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhjLjCMVQJJXpntoCYXkMMWrM2oLWOdFZySlRRicto4hAw35g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "",
+      "time": 1422532035,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18355952483178092436",
+  "user_ratings_total": 1,
+  "vicinity": "342 Ubi Avenue 1, Singapore"
+}

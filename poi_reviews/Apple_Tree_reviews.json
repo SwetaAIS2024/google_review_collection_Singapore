@@ -1,0 +1,44 @@
+{
+  "formatted_address": "255 Kim Keat Ave, Singapore 310255",
+  "geometry": {
+    "location": {
+      "lat": 1.3317753,
+      "lng": 103.8581553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333184030291502,
+        "lng": 103.8595012302915
+      },
+      "southwest": {
+        "lat": 1.330486069708498,
+        "lng": 103.8568032697085
+      }
+    }
+  },
+  "name": "Apple Tree",
+  "place_id": "ChIJDy7EXXsX2jER51hlekmNw1w",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Jeffrey Wong",
+      "author_url": "https://www.google.com/maps/contrib/110486540963621820440/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC4H53pmQ99-ceOsRg1OfLWUgTL8syihDAhAwWbgMYVYAFdUOHnA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Neighbourhood preschool",
+      "time": 1640901082,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6684341618673539303",
+  "user_ratings_total": 1,
+  "vicinity": "255 Kim Keat Avenue"
+}

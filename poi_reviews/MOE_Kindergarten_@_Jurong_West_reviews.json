@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Jurong West Street 62, Singapore 641601",
+  "geometry": {
+    "location": {
+      "lat": 1.339711,
+      "lng": 103.6994607
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341292130291502,
+        "lng": 103.7007705802915
+      },
+      "southwest": {
+        "lat": 1.338594169708498,
+        "lng": 103.6980726197085
+      }
+    }
+  },
+  "name": "MOE Kindergarten @ Jurong West",
+  "place_id": "ChIJSQHt4fEP2jERpOJMKoC3OzY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Chin Guan Lim",
+      "author_url": "https://www.google.com/maps/contrib/114803418879446529103/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZcSf5OfOO3YNvYoz8pmKVMQXgSJMQVnfN0GfHRRMpl1lyQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Mobile number is wrong but Google refused to change despite repeated attempts to get them to change",
+      "time": 1676539368,
+      "translated": false
+    },
+    {
+      "author_name": "Wu Hui",
+      "author_url": "https://www.google.com/maps/contrib/107788568314645690917/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIF2M8yjdzrlfj7GoGqvnyKZXeyL06Hgkci2ay68GP2rNrQPg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1661163860,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3907918862767415972",
+  "user_ratings_total": 2,
+  "vicinity": "Jurong West Street 62"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6A Napier Rd, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3075913,
+      "lng": 103.8199212
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308870530291502,
+        "lng": 103.8213193802915
+      },
+      "southwest": {
+        "lat": 1.306172569708498,
+        "lng": 103.8186214197085
+      }
+    }
+  },
+  "name": "Singapore Orthopaedic Specialists",
+  "place_id": "ChIJUSMYJSAa2jERUljHSqhv7oE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Luke Chua",
+      "author_url": "https://www.google.com/maps/contrib/102641779404640101300/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzZgRxU0AQ3R3BURr5PueUr0fusBQrIuGkBWXfkBZQfcV5IA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "Had an appointment for 3:45, got a call from clinic assistant at 3:20 urging me to arrive on time. Arrived at 3:45, only to find there was another patient ahead in line of me, and doctor had just walked out and told his assistants he would be out for 30 min. Assistants had no idea where he was going and didn't try to find out. Will not visit again.",
+      "time": 1497863770,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9362543443949606994",
+  "user_ratings_total": 1,
+  "vicinity": "6A Napier Road"
+}

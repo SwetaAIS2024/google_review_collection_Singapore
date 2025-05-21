@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Seletar, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4028912,
+      "lng": 103.8718962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404218880291502,
+        "lng": 103.8731841302915
+      },
+      "southwest": {
+        "lat": 1.401520919708498,
+        "lng": 103.8704861697085
+      }
+    }
+  },
+  "name": "Jalan Kayu Guardhouse shelter",
+  "place_id": "ChIJraUOawAV2jERgfEfE3kgTlU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A nice shelter from the elements. There is a drinking water cooler, benches and also a bicycle park next to it.",
+      "time": 1712648272,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6146886245791297921",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

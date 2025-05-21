@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Blk 377 Hougang St. 32, B1-K1, Singapore 530377",
+  "geometry": {
+    "location": {
+      "lat": 1.3626345,
+      "lng": 103.8943795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363980880291502,
+        "lng": 103.8956847302915
+      },
+      "southwest": {
+        "lat": 1.361282919708498,
+        "lng": 103.8929867697085
+      }
+    }
+  },
+  "name": "UOB ATM - Hougang Rivercourt",
+  "place_id": "ChIJ1V7R11MX2jERGteHtbCF2NI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Zheng Yi Lee",
+      "author_url": "https://www.google.com/maps/contrib/114392499976370378798/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLReQldL2Y6vI4Hm6qxtdeh_wqUjTKm5dLDfGFXRGLpJkgm8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740741307,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15193040336940685082",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 377 Hougang Street 32, B1-K1"
+}

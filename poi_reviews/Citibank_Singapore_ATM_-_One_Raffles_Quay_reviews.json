@@ -1,0 +1,65 @@
+{
+  "formatted_address": "One, 1 Raffles Quay, #B1-K1, Singapore 048583",
+  "geometry": {
+    "location": {
+      "lat": 1.2810947,
+      "lng": 103.8516568
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282839780291502,
+        "lng": 103.8531960802915
+      },
+      "southwest": {
+        "lat": 1.280141819708498,
+        "lng": 103.8504981197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - One Raffles Quay",
+  "place_id": "ChIJNbgqaQ4Z2jER_07svsxla1g",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Jared Yapp",
+      "author_url": "https://www.google.com/maps/contrib/108718398282357025697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUN7KheR3hAyPuz0D-IZtntkwvCDRyV_RfsnbcmSjYV5V1VnaMxA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "This ATM is in the north tower, in the basement, next to the Raffles MTR entrance.",
+      "time": 1563020636,
+      "translated": false
+    },
+    {
+      "author_name": "Mgmg Mgmg",
+      "author_url": "https://www.google.com/maps/contrib/100123320457768380510/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZhmA6ovXIDjjlRZbN27unNnXR_Jf84o2Bc-c_pjCoKMussQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1743327126,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Olofsson",
+      "author_url": "https://www.google.com/maps/contrib/116901081072390739211/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcr6wCR3yp_2TjxcmR9wd4Qk9c7ZrVyS_T4_lR-e-2q9V1fBw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1722281781,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6371298027896590079",
+  "user_ratings_total": 3,
+  "vicinity": "One, 1 Raffles Quay, #B1-K1"
+}

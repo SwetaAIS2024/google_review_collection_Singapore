@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.332718,
+      "lng": 103.844048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334042480291502,
+        "lng": 103.8453725302915
+      },
+      "southwest": {
+        "lat": 1.331344519708498,
+        "lng": 103.8426745697085
+      }
+    }
+  },
+  "name": "Oleander Twrs",
+  "place_id": "ChIJh4D6kV0X2jERWTFLOICh3mk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "SUDHAKAR P",
+      "author_url": "https://www.google.com/maps/contrib/101218855283035085907/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_pyD5-ac3pRWFflOaPCfn8OOD42_2hySp4-DZxfrMfwXOyMu-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1485587088,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7628712390884536665",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

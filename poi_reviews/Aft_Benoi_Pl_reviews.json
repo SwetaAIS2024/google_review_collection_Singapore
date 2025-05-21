@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.312791,
+      "lng": 103.678879
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314463930291502,
+        "lng": 103.6801997302915
+      },
+      "southwest": {
+        "lat": 1.311765969708498,
+        "lng": 103.6775017697085
+      }
+    }
+  },
+  "name": "Aft Benoi Pl",
+  "place_id": "ChIJm6h_mp4F2jERcSVZOPEaFhE",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1231201171467216241",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,52 @@
+{
+  "formatted_address": "College of Computing & Data Science, Block N 4 #01A-1C,, 50, Nanyang Ave, Block N3.1, Singapore 639798",
+  "geometry": {
+    "location": {
+      "lat": 1.3461557,
+      "lng": 103.6820426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347583930291502,
+        "lng": 103.6833911802915
+      },
+      "southwest": {
+        "lat": 1.344885969708498,
+        "lng": 103.6806932197085
+      }
+    }
+  },
+  "name": "CCDS Lounge",
+  "place_id": "ChIJ_7e2THUP2jERch5gfYacRZs",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Tanvi Gupta",
+      "author_url": "https://www.google.com/maps/contrib/111304075396114075656/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBpOlE1G-TFgzVPKmanUfacACBayxmlTNzHb_SdritXfDpp4GM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1492001237,
+      "translated": false
+    },
+    {
+      "author_name": "Rohan Sood",
+      "author_url": "https://www.google.com/maps/contrib/106150318038173657555/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYIX4qZTFFQgWbn77qgXk-6ww2Np8OX8BDcyJda8LIPwL7gPAsRg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484561690,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11188520950714867314",
+  "user_ratings_total": 2,
+  "vicinity": "College of Computing & Data Science, Block N 4 #01A-1C,, 50, Nanyang Avenue, Block N3.1, Singapore"
+}

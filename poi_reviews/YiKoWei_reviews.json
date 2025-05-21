@@ -1,0 +1,70 @@
+{
+  "formatted_address": "2105 Airport Blvd., Singapore 819652",
+  "geometry": {
+    "location": {
+      "lat": 1.3566325,
+      "lng": 103.9873341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357911380291502,
+        "lng": 103.9888337802915
+      },
+      "southwest": {
+        "lat": 1.355213419708498,
+        "lng": 103.9861358197085
+      }
+    }
+  },
+  "name": "YiKoWei",
+  "place_id": "ChIJJ5q5x9s92jERKbT3PTfKFJw",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Melvin Ang",
+      "author_url": "https://www.google.com/maps/contrib/102937566364960712955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkPWgXF_iR5L7jZ2bTJlYbSKA2lh0QD7H7rI_GVFVtLIr1wqzIzA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The ONLY place for my muah chee fix! Amazing staff, uber friendly and talks to you as if you’re family!",
+      "time": 1662539616,
+      "translated": false
+    },
+    {
+      "author_name": "D Y",
+      "author_url": "https://www.google.com/maps/contrib/101818225602450964281/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-19UKXP7Tyeb6y9r7rsdZDtlRa9oF7zkO3VVS0Prnub4sPmo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Good poh piah. Although not sure of their opening times on occasion.",
+      "time": 1679849177,
+      "translated": false
+    },
+    {
+      "author_name": "Julian W.",
+      "author_url": "https://www.google.com/maps/contrib/108980951554403203384/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNVtxeKptarwsUE9vHedAkkFc1Su5XCqvLpIcUQrPsz1mwAQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Good selection of local treats",
+      "time": 1611709303,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11246836508062626857",
+  "user_ratings_total": 3,
+  "vicinity": "2105 Airport Boulevard, Singapore"
+}

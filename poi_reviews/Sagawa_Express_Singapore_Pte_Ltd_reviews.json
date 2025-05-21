@@ -1,0 +1,27 @@
+{
+  "formatted_address": "02-26 Airline Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384317130291502,
+        "lng": 104.0005482802915
+      },
+      "southwest": {
+        "lat": 1.381619169708498,
+        "lng": 103.9978503197085
+      }
+    }
+  },
+  "name": "Sagawa Express Singapore Pte Ltd",
+  "place_id": "ChIJ-yLjZ3UQ2jERL63ReP4LvZg",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11005966251939966255",
+  "vicinity": "02-26 Airline Road"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Punggol Dr., #653A, Singapore 821653",
+  "geometry": {
+    "location": {
+      "lat": 1.4025582,
+      "lng": 103.9125114
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403907180291502,
+        "lng": 103.9138603802915
+      },
+      "southwest": {
+        "lat": 1.401209219708498,
+        "lng": 103.9111624197085
+      }
+    }
+  },
+  "name": "Ponggol end",
+  "place_id": "ChIJ1yvOIQAV2jERWwZIT3XXpXw",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8981821930701588059",
+  "vicinity": "Punggol Drive, #653A"
+}

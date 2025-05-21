@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 8, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3797039,
+      "lng": 103.84735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380902080291502,
+        "lng": 103.8484687802915
+      },
+      "southwest": {
+        "lat": 1.378204119708498,
+        "lng": 103.8457708197085
+      }
+    }
+  },
+  "name": "T-Cafe",
+  "place_id": "ChIJOWXonesW2jER9cEyhD2MG6E",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Wilfred Loy Yong Kang",
+      "author_url": "https://www.google.com/maps/contrib/108637917446086511173/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcZoWGontxtCjvTyahJD_JN3-rRHXZoxMiCk_ouLoiyODucxAX3g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Aunty here very friendly, Oreo chocolate blend is of nice price here!",
+      "time": 1707369547,
+      "translated": false
+    },
+    {
+      "author_name": "mochi",
+      "author_url": "https://www.google.com/maps/contrib/116952138309724443644/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVKjsdWWbxQcPJqPph1QKH4yo3pavMrjKAdvKadM0OE3rnqS6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I hate nyp but get coffee here everyday😻",
+      "time": 1688626820,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11609026660316398069",
+  "user_ratings_total": 2,
+  "vicinity": "Ang Mo Kio Avenue 8"
+}

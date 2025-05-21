@@ -1,0 +1,75 @@
+{
+  "formatted_address": "10 Bayfront Ave #L1-I2 The Shoppes at Marina Bay Sands, Singapore 018956",
+  "geometry": {
+    "location": {
+      "lat": 1.283814,
+      "lng": 103.859325
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285238280291502,
+        "lng": 103.8611435302915
+      },
+      "southwest": {
+        "lat": 1.282540319708498,
+        "lng": 103.8584455697085
+      }
+    }
+  },
+  "name": "Bank of China ATM",
+  "place_id": "ChIJ__EU0QUZ2jERj4NMBsYejnY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "liang song",
+      "author_url": "https://www.google.com/maps/contrib/102872856177532851430/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW-pMVtHcpe0TKh7q_plJlqK-RiBcFPfQe-67UtD1k8yqZig=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "5 months ago",
+      "text": "After wandering around Jinsha for a long time, I found it in a very inconspicuous place. The result is that the service is not available. I will give you credit to Bank of China.",
+      "time": 1734504571,
+      "translated": true
+    },
+    {
+      "author_name": "Luisa Munoz",
+      "author_url": "https://www.google.com/maps/contrib/113862107229517949265/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbywvRpiiQ6NW7uXUFDvlGouHETh6Kik2UjV97wZFY3tTOu1g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698213527,
+      "translated": false
+    },
+    {
+      "author_name": "Charlotte Han",
+      "author_url": "https://www.google.com/maps/contrib/111298568630626681172/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVA3EaUxbPoZq9XCdV-o4UO61Tb0AXek61gW9eV1AtBF_53v4pP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501748131,
+      "translated": false
+    },
+    {
+      "author_name": "许帅帅",
+      "author_url": "https://www.google.com/maps/contrib/109852604390837427624/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3lHfwz2aiFMfGBX0FssINxHEQXdvKEnSUpU_Ft8_EQbnYqg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1452997750,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8542799379026445199",
+  "user_ratings_total": 4,
+  "vicinity": "10 Bayfront Ave #L1-I2 The Shoppes at Marina Bay Sands"
+}

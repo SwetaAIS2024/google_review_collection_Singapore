@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5 Changi Business Park Central 1, Level 3, Singapore 486038",
+  "geometry": {
+    "location": {
+      "lat": 1.3344429,
+      "lng": 103.9625931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335774480291502,
+        "lng": 103.9637098302915
+      },
+      "southwest": {
+        "lat": 1.333076519708498,
+        "lng": 103.9610118697085
+      }
+    }
+  },
+  "name": "The Arena @ L3",
+  "place_id": "ChIJJwzGQwA92jERx2cCA14qM4w",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10102464972387936199",
+  "vicinity": "5 Changi Business Park Central 1, Level 3, Singapore"
+}

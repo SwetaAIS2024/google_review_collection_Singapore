@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3361061,
+      "lng": 103.9041943
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337535280291502,
+        "lng": 103.9054608802915
+      },
+      "southwest": {
+        "lat": 1.334837319708498,
+        "lng": 103.9027629197085
+      }
+    }
+  },
+  "name": "Hock San Yuen Food Mfy Pte Ltd",
+  "place_id": "ChIJfc__N-UX2jERdRhJyuyDU3M",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8310130790458005621",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Jurong West, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3365688,
+      "lng": 103.6798921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338306580291502,
+        "lng": 103.6812434802915
+      },
+      "southwest": {
+        "lat": 1.335608619708498,
+        "lng": 103.6785455197085
+      }
+    }
+  },
+  "name": "OCS Delta Wing",
+  "place_id": "ChIJeUVIiJEP2jERCV_veGjBhe8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "RJ Zhang",
+      "author_url": "https://www.google.com/maps/contrib/107612938988325065550/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLUzOvB2Wm8IYYlF8ETdMmR9Y1RaYAVxNQPfk0XP4Nl1r0SXSK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1734180845,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17259413801417006857",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

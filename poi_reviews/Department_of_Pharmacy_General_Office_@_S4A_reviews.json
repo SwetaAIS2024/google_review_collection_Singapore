@@ -1,0 +1,41 @@
+{
+  "formatted_address": "Blk S4A, #03-01, Science Drive 4,, Singapore 117597",
+  "geometry": {
+    "location": {
+      "lat": 1.295847,
+      "lng": 103.779173
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297259880291502,
+        "lng": 103.7805455302915
+      },
+      "southwest": {
+        "lat": 1.294561919708498,
+        "lng": 103.7778475697085
+      }
+    }
+  },
+  "name": "Department of Pharmacy General Office @ S4A",
+  "place_id": "ChIJOzVD71Ya2jERfe72pKASUuk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Elston Foo",
+      "author_url": "https://www.google.com/maps/contrib/103715392715969934504/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmE-cR0JRPCAO2dJdb9Vxjoj4nrQoXlEkpfCDgQgppo3RoF5IlBQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489507218,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16812520840099196541",
+  "user_ratings_total": 1,
+  "vicinity": "Blk S4A, #03-01, Science Drive 4,"
+}

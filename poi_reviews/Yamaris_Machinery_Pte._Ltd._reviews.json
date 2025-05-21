@@ -1,0 +1,41 @@
+{
+  "formatted_address": "15 Pioneer Sector 3, Singapore 628348",
+  "geometry": {
+    "location": {
+      "lat": 1.307714,
+      "lng": 103.659273
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309296130291502,
+        "lng": 103.6608467302915
+      },
+      "southwest": {
+        "lat": 1.306598169708498,
+        "lng": 103.6581487697085
+      }
+    }
+  },
+  "name": "Yamaris Machinery Pte. Ltd.",
+  "place_id": "ChIJ0UiFmI0P2jERGYuw0RJ7FMY",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "이홍락",
+      "author_url": "https://www.google.com/maps/contrib/104659123460349209244/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIil63Vo7XETRckJxlgrAnj-APuFiZlws5YJPm_FokGq8xhsw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523454693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14273168439801580313",
+  "user_ratings_total": 1,
+  "vicinity": "15 Pioneer Sector 3, Singapore"
+}

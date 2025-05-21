@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Unnamed Road, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.279665,
+      "lng": 103.703457
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281148630291502,
+        "lng": 103.7047574802915
+      },
+      "southwest": {
+        "lat": 1.278450669708498,
+        "lng": 103.7020595197085
+      }
+    }
+  },
+  "name": "Mechanical Workshop",
+  "place_id": "ChIJmyRFfsMF2jERCSPTj9zG28g",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sadek Hossain",
+      "author_url": "https://www.google.com/maps/contrib/104449072506888706475/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8U4y_N9Gnu64r-ll1gZiam23O4j17bSZ5LmBjG1wM_U_4VdKd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Good",
+      "time": 1677075895,
+      "translated": false
+    }
+  ],
+  "types": [
+    "storage",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14473380478093304585",
+  "user_ratings_total": 1,
+  "vicinity": "Unnamed Road"
+}

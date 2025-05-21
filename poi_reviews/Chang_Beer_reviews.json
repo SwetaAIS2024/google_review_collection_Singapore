@@ -1,0 +1,28 @@
+{
+  "formatted_address": "218 Geylang Rd, Singapore 389278",
+  "geometry": {
+    "location": {
+      "lat": 1.312129,
+      "lng": 103.8770921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313530530291502,
+        "lng": 103.8784251302915
+      },
+      "southwest": {
+        "lat": 1.310832569708498,
+        "lng": 103.8757271697085
+      }
+    }
+  },
+  "name": "Chang Beer",
+  "place_id": "ChIJWfWMKzcY2jEREAIavBch3o4",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10294702184039318032",
+  "vicinity": "218 Geylang Road, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "354 Kang Ching Rd, #01-23, Singapore 610354",
+  "geometry": {
+    "location": {
+      "lat": 1.3387942,
+      "lng": 103.7211084
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340038380291502,
+        "lng": 103.7225275802915
+      },
+      "southwest": {
+        "lat": 1.337340419708498,
+        "lng": 103.7198296197085
+      }
+    }
+  },
+  "name": "M.Y World @ Kang Ching",
+  "place_id": "ChIJb18lreUP2jERmaXNLWqk-SE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Srinivasan V",
+      "author_url": "https://www.google.com/maps/contrib/104622806208813560245/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpWfuIurDVYHBvBe38kVkrS7z20B7whBSHDQ5zcBRpsNGyMQgrDg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Good.",
+      "time": 1602411454,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2448168648394515865",
+  "user_ratings_total": 1,
+  "vicinity": "354 Kang Ching Road, #01-23"
+}

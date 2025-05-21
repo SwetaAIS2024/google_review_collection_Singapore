@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Wholesale Centre, Singapore 110001",
+  "geometry": {
+    "location": {
+      "lat": 1.2853884,
+      "lng": 103.778933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286657480291502,
+        "lng": 103.7802207802915
+      },
+      "southwest": {
+        "lat": 1.283959519708498,
+        "lng": 103.7775228197085
+      }
+    }
+  },
+  "name": "Ken Venture Investment Pte. Ltd.",
+  "place_id": "ChIJDVtFxasb2jERxW2BA6Z4qtE",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15108020554386468293",
+  "vicinity": "1 Wholesale Centre"
+}

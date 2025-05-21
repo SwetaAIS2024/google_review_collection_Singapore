@@ -1,0 +1,29 @@
+{
+  "formatted_address": "123 Bukit Merah Lane 1, # 01-78, Singapore 150123",
+  "geometry": {
+    "location": {
+      "lat": 1.2870986,
+      "lng": 103.8042935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288527630291502,
+        "lng": 103.8055275302915
+      },
+      "southwest": {
+        "lat": 1.285829669708498,
+        "lng": 103.8028295697085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB BUKIT MERAH LANE 1/123",
+  "place_id": "ChIJQ3VjPYgb2jER_IFrfA8OIIs",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10025028230201442812",
+  "vicinity": "123 Bukit Merah Lane 1, # 01-78"
+}

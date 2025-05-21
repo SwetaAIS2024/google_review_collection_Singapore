@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6A Napier Rd, Level 3 Gleneagles Hospital, Singapore 258500",
+  "geometry": {
+    "location": {
+      "lat": 1.3073733,
+      "lng": 103.8198594
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308721330291502,
+        "lng": 103.8212640302915
+      },
+      "southwest": {
+        "lat": 1.306023369708498,
+        "lng": 103.8185660697085
+      }
+    }
+  },
+  "name": "Parkway Cancer Centre Singapore - Gleneagles Hospital, Level 3",
+  "place_id": "ChIJY5cwPlIb2jERRVn-FXwu6vQ",
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17647969200284522821",
+  "vicinity": "6A Napier Road, Level 3 Gleneagles Hospital"
+}

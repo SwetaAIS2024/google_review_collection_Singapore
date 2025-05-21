@@ -1,0 +1,30 @@
+{
+  "formatted_address": "51 Upper Bukit Timah Rd, Singapore 588172",
+  "geometry": {
+    "location": {
+      "lat": 1.3394498,
+      "lng": 103.7760782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340880680291502,
+        "lng": 103.7776019802915
+      },
+      "southwest": {
+        "lat": 1.338182719708498,
+        "lng": 103.7749040197085
+      }
+    }
+  },
+  "name": "Country Town",
+  "place_id": "ChIJHTZW3IkQ2jERY1FXO22TFJA",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10382085138352132451",
+  "vicinity": "51 Upper Bukit Timah Road, Singapore"
+}

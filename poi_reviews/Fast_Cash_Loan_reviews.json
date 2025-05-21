@@ -1,0 +1,29 @@
+{
+  "formatted_address": "N Bridge Rd, Block 465, Singapore 191465",
+  "geometry": {
+    "location": {
+      "lat": 1.2988534,
+      "lng": 103.8558886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300202380291502,
+        "lng": 103.8572375802915
+      },
+      "southwest": {
+        "lat": 1.297504419708498,
+        "lng": 103.8545396197085
+      }
+    }
+  },
+  "name": "Fast Cash Loan",
+  "place_id": "ChIJHQHwMrQZ2jERW5bmbTP-bdU",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15379227799380727387",
+  "vicinity": "North Bridge Road, Block 465"
+}

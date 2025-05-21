@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Pasir Ris Drive 10, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3814989,
+      "lng": 103.9374208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382817918174854,
+        "lng": 103.9387660118304
+      },
+      "southwest": {
+        "lat": 1.380119957591849,
+        "lng": 103.9360680512474
+      }
+    }
+  },
+  "name": "The Green Oval",
+  "place_id": "ChIJh4cPWZU92jERA9RV19bJJB0",
+  "types": [
+    "park",
+    "premise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Pasir+Ris+Drive+10,+Singapore&ftid=0x31da3d95590f8787:0x1d24c9d6d755d403",
+  "vicinity": "Singapore"
+}

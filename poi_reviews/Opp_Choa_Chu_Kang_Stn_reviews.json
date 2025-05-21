@@ -1,0 +1,63 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.384254,
+      "lng": 103.744537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385632680291502,
+        "lng": 103.7458769802915
+      },
+      "southwest": {
+        "lat": 1.382934719708498,
+        "lng": 103.7431790197085
+      }
+    }
+  },
+  "name": "Opp Choa Chu Kang Stn",
+  "place_id": "ChIJIc79w-kR2jERfCssvlUylFc",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "KK",
+      "author_url": "https://www.google.com/maps/contrib/114289973022107093994/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiAKWb2wEq1K6unk0ztJF-Y5jkZy6ol2D_HXfY1zjDsLH6f32hlA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1601001630,
+      "translated": false
+    },
+    {
+      "author_name": "Kiew Zhen Yi",
+      "author_url": "https://www.google.com/maps/contrib/104968050935359491973/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVySmIVkdelnM0fx2jh6307nxVncQJxK3Z8OokV2dHmWv8o5lLMfQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583716614,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Ong",
+      "author_url": "https://www.google.com/maps/contrib/100494754153881475737/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaPOzI0fcBIBMZjsEsxqgEXYB_xgEr3m6tLhwICipYAyA8Uq_0ig=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1582068790,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6310724321697082236",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

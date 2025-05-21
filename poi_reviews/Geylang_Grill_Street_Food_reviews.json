@@ -1,0 +1,43 @@
+{
+  "formatted_address": "1 Corporation Dr, #01-06, Singapore 619775",
+  "geometry": {
+    "location": {
+      "lat": 1.3247606,
+      "lng": 103.7228036
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325949280291502,
+        "lng": 103.7240575802915
+      },
+      "southwest": {
+        "lat": 1.323251319708498,
+        "lng": 103.7213596197085
+      }
+    }
+  },
+  "name": "Geylang Grill Street Food",
+  "place_id": "ChIJ43S1MgAF2jERfnqUfnsIHDM",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lv Jie",
+      "author_url": "https://www.google.com/maps/contrib/104535198924600860422/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqMAiTzpuYTvwJgldbRMHmJN5Tu6V-YYHEDYVxtRFIYuH6lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731493473,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3682827921779882622",
+  "user_ratings_total": 1,
+  "vicinity": "1 Corporation Drive, #01-06, Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "171 Chin Swee Rd, Singapore 169877",
+  "geometry": {
+    "location": {
+      "lat": 1.2868797,
+      "lng": 103.8401485
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288280230291502,
+        "lng": 103.8414649302915
+      },
+      "southwest": {
+        "lat": 1.285582269708498,
+        "lng": 103.8387669697085
+      }
+    }
+  },
+  "name": "The Coffee Connection",
+  "place_id": "ChIJXbnVNHQZ2jER8aHsZoZ5m1I",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5952484950659604977",
+  "vicinity": "171 Chin Swee Road, Singapore"
+}

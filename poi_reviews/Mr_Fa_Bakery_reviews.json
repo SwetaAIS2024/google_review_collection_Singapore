@@ -1,0 +1,47 @@
+{
+  "formatted_address": "Singapore, Circuit Rd, 86号#01-1003 邮政编码: 370086",
+  "geometry": {
+    "location": {
+      "lat": 1.3229261,
+      "lng": 103.8853414
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324281330291502,
+        "lng": 103.8867685302915
+      },
+      "southwest": {
+        "lat": 1.321583369708498,
+        "lng": 103.8840705697085
+      }
+    }
+  },
+  "name": "Mr Fa Bakery",
+  "place_id": "ChIJWyY6elgZ2jERslTJeRKWsQ0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Berland Shaw",
+      "author_url": "https://www.google.com/maps/contrib/101359192577626208629/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHtlZcYT--nT4FWdwOBCq16wk6qFJlIrURE6JPh561sMjyiJU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "The best pineapple pastry in town!!!!! Made from dole pineapple, not too sweet not too sour, balanced. The mixed egg yolk puff also recommended! Need to reserve in advance. Customised cake also recommended👍🏻",
+      "time": 1641647720,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "bakery",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=986734799467664562",
+  "user_ratings_total": 1,
+  "vicinity": "86 Circuit Road, #01-1003, Singapore"
+}

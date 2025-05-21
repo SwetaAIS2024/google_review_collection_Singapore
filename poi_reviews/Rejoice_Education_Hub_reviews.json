@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50 E Coast Rd, Singapore 428769",
+  "geometry": {
+    "location": {
+      "lat": 1.3043651,
+      "lng": 103.9040224
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305476580291502,
+        "lng": 103.9056429302915
+      },
+      "southwest": {
+        "lat": 1.302778619708498,
+        "lng": 103.9029449697085
+      }
+    }
+  },
+  "name": "Rejoice Education Hub",
+  "place_id": "ChIJw_hwL3IY2jERGoWsRlF-4DM",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3738126578260673818",
+  "vicinity": "50 East Coast Road"
+}

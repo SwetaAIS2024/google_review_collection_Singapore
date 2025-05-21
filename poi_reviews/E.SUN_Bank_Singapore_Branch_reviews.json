@@ -1,0 +1,53 @@
+{
+  "formatted_address": "8 Marina Boulevard, #09-01, Tower 1 Marina Bay Financial Centre, Singapore 018981",
+  "geometry": {
+    "location": {
+      "lat": 1.2796245,
+      "lng": 103.8547469
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280799130291502,
+        "lng": 103.8562383302915
+      },
+      "southwest": {
+        "lat": 1.278101169708498,
+        "lng": 103.8535403697085
+      }
+    }
+  },
+  "name": "E.SUN Bank Singapore Branch",
+  "place_id": "ChIJAQDA7xEZ2jERuyOnzR_laoE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "gigi chiang",
+      "author_url": "https://www.google.com/maps/contrib/114501125753135533519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_r-nTjqSAlQH21ag71tpM72uf3_etu354jjv4E0Y06cWC_FRINw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736237424,
+      "translated": false
+    },
+    {
+      "author_name": "Kiagus Muhammad Faisal",
+      "author_url": "https://www.google.com/maps/contrib/105311559223366482105/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwBGBzwTsitaFClIcEmjsiS0Y_eSuYZZu-O84l1Fe3ZtXjFWc9og=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1525169311,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9325517903181063099",
+  "user_ratings_total": 2,
+  "vicinity": "8 Marina Boulevard, #09-01, Tower 1 Marina Bay Financial Centre"
+}

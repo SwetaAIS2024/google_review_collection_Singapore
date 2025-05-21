@@ -1,0 +1,29 @@
+{
+  "formatted_address": "55 Waterloo St, Singapore 187594",
+  "geometry": {
+    "location": {
+      "lat": 1.2983702,
+      "lng": 103.8513664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299755880291502,
+        "lng": 103.8526714302915
+      },
+      "southwest": {
+        "lat": 1.297057919708498,
+        "lng": 103.8499734697085
+      }
+    }
+  },
+  "name": "Catholic Medical Guild (CMG)",
+  "place_id": "ChIJyzOtUrsZ2jER5mklVsJ0lWc",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7464000335454235110",
+  "vicinity": "55 Waterloo Street"
+}

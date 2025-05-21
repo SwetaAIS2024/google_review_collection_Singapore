@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Keat Hong Cl, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3744652,
+      "lng": 103.7425722
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375844380291502,
+        "lng": 103.7439297802915
+      },
+      "southwest": {
+        "lat": 1.373146419708498,
+        "lng": 103.7412318197085
+      }
+    }
+  },
+  "name": "Keat hong",
+  "place_id": "ChIJE3t7QQAR2jER297Ep6AmC_g",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17873422017601265371",
+  "vicinity": "Keat Hong Close"
+}

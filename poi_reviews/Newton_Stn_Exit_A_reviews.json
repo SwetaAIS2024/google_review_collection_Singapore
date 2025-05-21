@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3125886,
+      "lng": 103.8382298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.313824880291502,
+        "lng": 103.8394192802915
+      },
+      "southwest": {
+        "lat": 1.311126919708498,
+        "lng": 103.8367213197085
+      }
+    }
+  },
+  "name": "Newton Stn Exit A",
+  "place_id": "ChIJ64LEHewZ2jER9hJ9bMIFtJQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Sheltered bus stop, that brings you down towards Novena, Ang Mo Kio, and Balestier side.  It's connected to the MRT station, and has alot of cameras and bulletin boards that tell you the time the next buses are coming. Very convenient!",
+      "time": 1585469185,
+      "translated": false
+    },
+    {
+      "author_name": "Ran Mac",
+      "author_url": "https://www.google.com/maps/contrib/103850319659084774961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5x0jN6Cmhpfh_4tG21qyXznY4qolITQ0M8uhioEdrjdUZRNvP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "If you are trapped at newton with line fault and need to go to novena , take bus 162 and 167 from here and alight 2 stops later at the church",
+      "time": 1496391533,
+      "translated": false
+    },
+    {
+      "author_name": "faridul huk",
+      "author_url": "https://www.google.com/maps/contrib/106219260296376847111/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk8h2nf8kO0nfoCjJLIpOyMU0FFeoW2lsKeVA4y2mL307iRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1567170962,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10715195746023183094",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

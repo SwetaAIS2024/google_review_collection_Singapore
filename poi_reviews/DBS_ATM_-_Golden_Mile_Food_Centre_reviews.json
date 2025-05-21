@@ -1,0 +1,29 @@
+{
+  "formatted_address": "505 Beach Rd, Singapore 199583",
+  "geometry": {
+    "location": {
+      "lat": 1.30296,
+      "lng": 103.8638529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304205480291502,
+        "lng": 103.8653319302915
+      },
+      "southwest": {
+        "lat": 1.301507519708498,
+        "lng": 103.8626339697085
+      }
+    }
+  },
+  "name": "DBS ATM - Golden Mile Food Centre",
+  "place_id": "ChIJRVPq6ZUZ2jER9qhpCxUPitw",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15891530818190420214",
+  "vicinity": "505 Beach Road, Singapore"
+}

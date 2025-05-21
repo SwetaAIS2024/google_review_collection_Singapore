@@ -1,0 +1,29 @@
+{
+  "formatted_address": "38 Handy Rd, Singapore 229239",
+  "geometry": {
+    "location": {
+      "lat": 1.3002822,
+      "lng": 103.8450021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301676130291502,
+        "lng": 103.8465197302915
+      },
+      "southwest": {
+        "lat": 1.298978169708498,
+        "lng": 103.8438217697085
+      }
+    }
+  },
+  "name": "Bank Of Nalpon",
+  "place_id": "ChIJr9PcYr0Z2jERP3tCHP8ytGc",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7472653752986663743",
+  "vicinity": "38 Handy Road, Singapore"
+}

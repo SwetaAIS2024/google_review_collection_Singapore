@@ -1,0 +1,53 @@
+{
+  "formatted_address": "10 Tembusu Cres, Singapore 627831",
+  "geometry": {
+    "location": {
+      "lat": 1.2768451,
+      "lng": 103.6775809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278188430291502,
+        "lng": 103.6789345302915
+      },
+      "southwest": {
+        "lat": 1.275490469708498,
+        "lng": 103.6762365697085
+      }
+    }
+  },
+  "name": "Tembusu",
+  "place_id": "ChIJ81CoJfwF2jER_btuPUwdguw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "PURIYADHA PUDHIR",
+      "author_url": "https://www.google.com/maps/contrib/117243797439641754584/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1m1gNaumF58bplewZK7fuRE_mGH-yXsjuNnHjUcANOpMLOGms=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "It's a good place for making a yard for companies,,",
+      "time": 1652771804,
+      "translated": false
+    },
+    {
+      "author_name": "Sathya Dhavaa",
+      "author_url": "https://www.google.com/maps/contrib/104065406262831859274/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZMmwdDAD0Biofzogx5lnQdgOupAjorE7L20O8lyMG2SPGudI=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1724124044,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17042216153208765437",
+  "user_ratings_total": 2,
+  "vicinity": "10 Tembusu Crescent"
+}

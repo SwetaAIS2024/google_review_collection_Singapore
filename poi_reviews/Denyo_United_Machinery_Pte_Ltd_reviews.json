@@ -1,0 +1,51 @@
+{
+  "formatted_address": "9 Neythal Rd, Singapore 628614",
+  "geometry": {
+    "location": {
+      "lat": 1.3241715,
+      "lng": 103.7022857
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325691780291502,
+        "lng": 103.7033498802915
+      },
+      "southwest": {
+        "lat": 1.322993819708498,
+        "lng": 103.7006519197085
+      }
+    }
+  },
+  "name": "Denyo United Machinery Pte Ltd",
+  "place_id": "ChIJ7wQpB8cF2jER7244BaYxI9o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jun Xian Kok",
+      "author_url": "https://www.google.com/maps/contrib/106569121769950936091/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhldVVmZuAlwkPfmtydWZriOw0sHdSAl_r7X2Pbw-DF0ozZ-El=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1575524889,
+      "translated": false
+    },
+    {
+      "author_name": "Joseph Siau",
+      "author_url": "https://www.google.com/maps/contrib/107019526259230647801/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC78trBpaKCvuZk_PZ4TmSGu1P8Imr3K7VVu2vev2bW0ovJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1570061978,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15718461713575079663",
+  "user_ratings_total": 2,
+  "vicinity": "9 Neythal Road"
+}

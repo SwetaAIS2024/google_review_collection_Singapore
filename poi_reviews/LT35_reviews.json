@@ -1,0 +1,28 @@
+{
+  "formatted_address": "14 Medical Dr, Level 1, Singapore 117599",
+  "geometry": {
+    "location": {
+      "lat": 1.2953446,
+      "lng": 103.7814238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296562480291502,
+        "lng": 103.7829283302915
+      },
+      "southwest": {
+        "lat": 1.293864519708498,
+        "lng": 103.7802303697085
+      }
+    }
+  },
+  "name": "LT35",
+  "place_id": "ChIJO8zDNVEa2jERD0t9bMQk_18",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6917287978716711695",
+  "vicinity": "14 Medical Drive, Level 1"
+}

@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.340543,
+      "lng": 103.822311
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341856680291502,
+        "lng": 103.8236720802915
+      },
+      "southwest": {
+        "lat": 1.339158719708498,
+        "lng": 103.8209741197085
+      }
+    }
+  },
+  "name": "Aft Wallace Way",
+  "place_id": "ChIJIdqhqEwX2jERml8z74ceaJo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "J3ffh0ng L!m",
+      "author_url": "https://www.google.com/maps/contrib/107415907131094430061/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOziRjGaVrHcI8S4Nz2SAFeqrTrJhNIpLwLMaTACLzof68zEdD=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553613714,
+      "translated": false
+    },
+    {
+      "author_name": "Notbros J",
+      "author_url": "https://www.google.com/maps/contrib/113879726975474675907/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVt0HfYF8MittuZ91X50AsLW4aLQisqSU-hKwtC2wWdGSCoIsiA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522759894,
+      "translated": false
+    },
+    {
+      "author_name": "Mirun Naim",
+      "author_url": "https://www.google.com/maps/contrib/113176949443589557909/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4ksVg3O1PEZqWMpoVi1rugqZSbz5kHn_DvKldWPRcPHThKg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1461338878,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11126176448601350042",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

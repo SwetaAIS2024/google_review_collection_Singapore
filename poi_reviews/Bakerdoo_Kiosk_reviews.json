@@ -1,0 +1,30 @@
+{
+  "formatted_address": "846 Yishun Ring Rd, #01-3649, Singapore 760846",
+  "geometry": {
+    "location": {
+      "lat": 1.4162196,
+      "lng": 103.8345796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417617180291502,
+        "lng": 103.8358302302915
+      },
+      "southwest": {
+        "lat": 1.414919219708498,
+        "lng": 103.8331322697085
+      }
+    }
+  },
+  "name": "Bakerdoo Kiosk",
+  "place_id": "ChIJa6UsCwQV2jERwenaiPW4nG0",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7898391211203553729",
+  "vicinity": "846 Yishun Ring Road, #01-3649"
+}

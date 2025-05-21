@@ -1,0 +1,31 @@
+{
+  "formatted_address": "30 Labrador Villa Rd, Singapore 119189",
+  "geometry": {
+    "location": {
+      "lat": 1.2679766,
+      "lng": 103.8004316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.269363030291502,
+        "lng": 103.8019228802915
+      },
+      "southwest": {
+        "lat": 1.266665069708498,
+        "lng": 103.7992249197085
+      }
+    }
+  },
+  "name": "Labrador House",
+  "place_id": "ChIJ0VX2Xogb2jERaISeQ8Vwzvc",
+  "types": [
+    "restaurant",
+    "night_club",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17856333565115925608",
+  "vicinity": "30 Labrador Villa Road"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338702,
+      "lng": 103.819893
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339965080291502,
+        "lng": 103.8211750302915
+      },
+      "southwest": {
+        "lat": 1.337267119708498,
+        "lng": 103.8184770697085
+      }
+    }
+  },
+  "name": "Aft Lornie Wk",
+  "place_id": "ChIJkTJKGbMQ2jERtjgNWQ_Z-FA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "YEE YEULIANG",
+      "author_url": "https://www.google.com/maps/contrib/101722167008369081512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXk6u-go_Cz4AJj9zNqY9WeYQ-izBFs2CeZ1w1dB4Z1AEPchjNg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "Convinent",
+      "time": 1490959267,
+      "translated": false
+    },
+    {
+      "author_name": "Sachin Mahajan",
+      "author_url": "https://www.google.com/maps/contrib/105381860853853285964/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYqYi2eZonQhpAVIwhDSlpmZSfimQpiSJyqOGUtteXwG25BA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1604395627,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5834651977200253110",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

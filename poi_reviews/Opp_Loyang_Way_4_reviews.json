@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377729,
+      "lng": 103.975906
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379078180291502,
+        "lng": 103.9772547302915
+      },
+      "southwest": {
+        "lat": 1.376380219708498,
+        "lng": 103.9745567697085
+      }
+    }
+  },
+  "name": "Opp Loyang Way 4",
+  "place_id": "ChIJV8_khEY82jER3i7sOQH7LAU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=372948851850227422",
+  "vicinity": "Singapore"
+}

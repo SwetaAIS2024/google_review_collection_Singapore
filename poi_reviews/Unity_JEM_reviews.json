@@ -1,0 +1,30 @@
+{
+  "formatted_address": "50 Jurong Gateway Road #B1-21/22 & #B3-01, Jem, Singapore 608549",
+  "geometry": {
+    "location": {
+      "lat": 1.3337765,
+      "lng": 103.7436699
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.3347822,
+        "lng": 103.7447692302915
+      },
+      "southwest": {
+        "lat": 1.3316046,
+        "lng": 103.7420712697085
+      }
+    }
+  },
+  "name": "Unity JEM",
+  "place_id": "ChIJPQOkQrsR2jERe0v_Wk3XbVs",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6588158557152037755",
+  "vicinity": "50 Jurong Gateway Road #B1-21/22 & #B3-01, Jem"
+}

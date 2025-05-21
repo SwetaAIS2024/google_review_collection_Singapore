@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317867,
+      "lng": 103.921745
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319191430291502,
+        "lng": 103.9230705802915
+      },
+      "southwest": {
+        "lat": 1.316493469708498,
+        "lng": 103.9203726197085
+      }
+    }
+  },
+  "name": "Flamingo Valley",
+  "place_id": "ChIJy2e1aq8i2jER3nwOdUXm1Us",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Kok Keong Teo (阿强)",
+      "author_url": "https://www.google.com/maps/contrib/117835615781032717055/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWPfUMbu3UHRnoDfirG2S8m14t2t9hNF4MYwWE54MY4M0qJ_Gf=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1671594397,
+      "translated": false
+    },
+    {
+      "author_name": "Zhang Qiang",
+      "author_url": "https://www.google.com/maps/contrib/100509624413846949719/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5U8GbrstoIM48F61HckXvkKbaDnigjbjwkzZNTNrClqsyQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1484373341,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5464526908874980574",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

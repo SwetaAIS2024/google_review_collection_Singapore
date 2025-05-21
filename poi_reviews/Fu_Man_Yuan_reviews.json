@@ -1,0 +1,46 @@
+{
+  "formatted_address": "449 Ang Mo Kio Ave 10, Block 449, Singapore 560449",
+  "geometry": {
+    "location": {
+      "lat": 1.3680276,
+      "lng": 103.8559719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.369605980291502,
+        "lng": 103.8572503302915
+      },
+      "southwest": {
+        "lat": 1.366908019708498,
+        "lng": 103.8545523697085
+      }
+    }
+  },
+  "name": "Fu Man Yuan",
+  "place_id": "ChIJj2IAK7wX2jER3snA8bn7F2s",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Daphne Seow",
+      "author_url": "https://www.google.com/maps/contrib/104327864622972505344/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7jQEth0XZevqWNfBvWeCXBQ167P2KPSj8A7x-w3Qkg9Btag=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Lots of local traditional biscuits and malaysian traditional snacks. Includes tau sar piah, khong guan biscuits in a tin where you can choose and buy by quantity, keropoks, etc.\n\nGood variety and affordable prices. Good for own consumption or for gifts. Nice shopping experience just browsing through the plethora of products.",
+      "time": 1699498665,
+      "translated": false
+    }
+  ],
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7716913262566099422",
+  "user_ratings_total": 1,
+  "vicinity": "449 Ang Mo Kio Avenue 10, Block 449"
+}

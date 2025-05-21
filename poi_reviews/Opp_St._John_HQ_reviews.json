@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3020938,
+      "lng": 103.8629014
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303397880291502,
+        "lng": 103.8642792302915
+      },
+      "southwest": {
+        "lat": 1.300699919708498,
+        "lng": 103.8615812697085
+      }
+    }
+  },
+  "name": "Opp St. John HQ",
+  "place_id": "ChIJAUmv6LMZ2jERzkc0NcUrNnw",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "nindy arnila",
+      "author_url": "https://www.google.com/maps/contrib/103026936650677928284/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM-nyqcAW3MQQB6e7w2OHqeP7taD7loRsMZM2JNVBs8RoO6uaK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1563632929,
+      "translated": false
+    },
+    {
+      "author_name": "Edison Gaw",
+      "author_url": "https://www.google.com/maps/contrib/107492275420085755258/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQQYHdTU_6y6IfgoC38zx_lZ1QHyPqCZNlLOeBGDHAmG6Caj34Zw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502969812,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8950389435446609870",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

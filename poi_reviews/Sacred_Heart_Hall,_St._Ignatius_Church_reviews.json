@@ -1,0 +1,42 @@
+{
+  "formatted_address": "8 Victoria Park Rd, Singapore 266492",
+  "geometry": {
+    "location": {
+      "lat": 1.3190763,
+      "lng": 103.8056403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320390530291502,
+        "lng": 103.8069465302915
+      },
+      "southwest": {
+        "lat": 1.317692569708498,
+        "lng": 103.8042485697085
+      }
+    }
+  },
+  "name": "Sacred Heart Hall, St. Ignatius Church",
+  "place_id": "ChIJmT6DDQ4a2jERaRRecVQPp5w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Colin Lauw",
+      "author_url": "https://www.google.com/maps/contrib/101189169312009348400/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8eACAfLH0SEQCJHOEQ5ACxMEQKpe9053BpiehGzOeb-az0ck=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740186695,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11288007846381098089",
+  "user_ratings_total": 1,
+  "vicinity": "8 Victoria Park Road"
+}

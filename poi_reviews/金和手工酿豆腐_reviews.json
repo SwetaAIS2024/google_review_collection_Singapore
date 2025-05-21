@@ -1,0 +1,43 @@
+{
+  "formatted_address": "7030 Ang Mo Kio Ave 5, Northstar@AMK, Singapore 569880",
+  "geometry": {
+    "location": {
+      "lat": 1.3776582,
+      "lng": 103.8757852
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379273280291502,
+        "lng": 103.8769762302915
+      },
+      "southwest": {
+        "lat": 1.376575319708498,
+        "lng": 103.8742782697085
+      }
+    }
+  },
+  "name": "金和手工酿豆腐",
+  "place_id": "ChIJP4epXAAX2jERYlCobUzpSUI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Paul Cheng",
+      "author_url": "https://www.google.com/maps/contrib/117930124872610010868/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoAvcsaFDiYLzfx89i3IccCVbUKrc9eLaMzz5Y4wJEaODlDA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1740850540,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4776605394269655138",
+  "user_ratings_total": 1,
+  "vicinity": "7030 Ang Mo Kio Avenue 5, Northstar@AMK, Singapore"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bamboo Trail, Singapore 573868",
+  "geometry": {
+    "location": {
+      "lat": 1.373906,
+      "lng": 103.8250863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375200830291502,
+        "lng": 103.8270265802915
+      },
+      "southwest": {
+        "lat": 1.372502869708498,
+        "lng": 103.8243286197085
+      }
+    }
+  },
+  "name": "Bamboo Trail",
+  "place_id": "ChIJ4fkD1dMX2jERSdTyw1wpEQk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Branching off from the juncture of Costus Trail and Oncospermum Trail, Bamboo Trail continue along the the reservior's water edge to link up with Cyathea Trail.",
+      "time": 1733119183,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=653348899346633801",
+  "user_ratings_total": 1,
+  "vicinity": "Bamboo Trail, Singapore"
+}

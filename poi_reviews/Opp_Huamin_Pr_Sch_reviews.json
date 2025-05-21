@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.426374,
+      "lng": 103.842598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.427746730291502,
+        "lng": 103.8439687802915
+      },
+      "southwest": {
+        "lat": 1.425048769708498,
+        "lng": 103.8412708197085
+      }
+    }
+  },
+  "name": "Opp Huamin Pr Sch",
+  "place_id": "ChIJJ4A0o2kU2jERcxAWooN-ycQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Batam Lim",
+      "author_url": "https://www.google.com/maps/contrib/101127819702524781360/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoPANbYSLeYf4YztKwO545OEGiIuUrUYm-G68aVscvD-iYig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 years ago",
+      "text": "My home",
+      "time": 1341408904,
+      "translated": false
+    },
+    {
+      "author_name": "mpilahk m",
+      "author_url": "https://www.google.com/maps/contrib/101767087363067634638/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXMfsbal0IuSPE4iQDujFCxkz2paiQtm1Ju1lOsNU8g_57kRM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1527701140,
+      "translated": false
+    },
+    {
+      "author_name": "Nelly Eleanor",
+      "author_url": "https://www.google.com/maps/contrib/114792620408025636195/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViirKccKTA6mJppRPlyVGSMLFhrTb476fxDcYkM4Nvgo869Rvh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523943466,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14180004005577887859",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "57 Portchester Ave, Singapore 556339",
+  "geometry": {
+    "location": {
+      "lat": 1.3671643,
+      "lng": 103.8633668
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368556780291502,
+        "lng": 103.8647636802915
+      },
+      "southwest": {
+        "lat": 1.365858819708498,
+        "lng": 103.8620657197085
+      }
+    }
+  },
+  "name": "ciao",
+  "place_id": "ChIJFb_ObgAX2jERfvDBw4Nzhjc",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4001012328727441534",
+  "vicinity": "57 Portchester Avenue, Singapore"
+}

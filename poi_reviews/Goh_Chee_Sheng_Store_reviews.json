@@ -1,0 +1,31 @@
+{
+  "formatted_address": "200 Jln Sultan, Singapore 199018",
+  "geometry": {
+    "location": {
+      "lat": 1.3038447,
+      "lng": 103.8614441
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305095480291502,
+        "lng": 103.8626295802915
+      },
+      "southwest": {
+        "lat": 1.302397519708498,
+        "lng": 103.8599316197085
+      }
+    }
+  },
+  "name": "Goh Chee Sheng Store",
+  "place_id": "ChIJlyn7sLYZ2jERfe2UGTs0UpM",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10615604700102585725",
+  "vicinity": "200 Jalan Sultan"
+}

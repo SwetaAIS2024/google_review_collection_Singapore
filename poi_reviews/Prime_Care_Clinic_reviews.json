@@ -1,0 +1,29 @@
+{
+  "formatted_address": "368 Geylang Rd, Singapore 389381",
+  "geometry": {
+    "location": {
+      "lat": 1.3128138,
+      "lng": 103.8814144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314225830291502,
+        "lng": 103.8827476802915
+      },
+      "southwest": {
+        "lat": 1.311527869708498,
+        "lng": 103.8800497197085
+      }
+    }
+  },
+  "name": "Prime Care Clinic",
+  "place_id": "ChIJ-QeXPDoY2jERMO6NPJSb-Ns",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15850589949503860272",
+  "vicinity": "368 Geylang Road"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Blk 3, Level 1, Singapore General Hospital, Outram Rd, Singapore 169608",
+  "geometry": {
+    "location": {
+      "lat": 1.278585,
+      "lng": 103.8344811
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279850330291502,
+        "lng": 103.8359319302915
+      },
+      "southwest": {
+        "lat": 1.277152369708498,
+        "lng": 103.8332339697085
+      }
+    }
+  },
+  "name": "Baby & Child Clinic",
+  "place_id": "ChIJuRt9vqQZ2jERZ75AAyqq07U",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Rick",
+      "author_url": "https://www.google.com/maps/contrib/100865142100347658512/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdNLw6tzJ7pES5ZDpwNUifeGP6R6_j17IdIa8gxJAETJv94HZi=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1690359278,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548875398,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13102002838370827879",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 3, Level 1, Singapore General Hospital, Outram Road"
+}

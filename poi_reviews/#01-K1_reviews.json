@@ -1,0 +1,30 @@
+{
+  "formatted_address": "313 Orchard Rd, Singapore 238895",
+  "geometry": {
+    "location": {
+      "lat": 1.3010432,
+      "lng": 103.8386482
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302295480291502,
+        "lng": 103.8399251802915
+      },
+      "southwest": {
+        "lat": 1.299597519708498,
+        "lng": 103.8372272197085
+      }
+    }
+  },
+  "name": "#01-K1",
+  "place_id": "ChIJhx3gK5EZ2jERzOO9xdoo3Pw",
+  "types": [
+    "atm",
+    "subpremise",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=313+Orchard+Rd,+Singapore+238895&ftid=0x31da19912be01d87:0xfcdc28dac5bde3cc",
+  "vicinity": "Singapore"
+}

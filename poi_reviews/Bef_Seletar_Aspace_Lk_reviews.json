@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.402289,
+      "lng": 103.859627
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403709680291502,
+        "lng": 103.8609687302915
+      },
+      "southwest": {
+        "lat": 1.401011719708497,
+        "lng": 103.8582707697085
+      }
+    }
+  },
+  "name": "Bef Seletar A'space Lk",
+  "place_id": "ChIJCw0azCkU2jERuTVS1IPdlZo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11139052811643401657",
+  "vicinity": "Singapore"
+}

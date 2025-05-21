@@ -1,0 +1,28 @@
+{
+  "formatted_address": "628 Upper Thomson Rd, Singapore 787131",
+  "geometry": {
+    "location": {
+      "lat": 1.3807778,
+      "lng": 103.8273323
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.382095680291502,
+        "lng": 103.8286210302915
+      },
+      "southwest": {
+        "lat": 1.379397719708498,
+        "lng": 103.8259230697085
+      }
+    }
+  },
+  "name": "Bus Stop (56049)",
+  "place_id": "ChIJy_cVKsoW2jERHXej1ufDBOY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16574587929136166685",
+  "vicinity": "628 Upper Thomson Road, Singapore"
+}

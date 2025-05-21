@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore, French Rd, #01-55, But 802",
+  "geometry": {
+    "location": {
+      "lat": 1.3074647,
+      "lng": 103.8600774
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308837380291502,
+        "lng": 103.8614062302915
+      },
+      "southwest": {
+        "lat": 1.306139419708498,
+        "lng": 103.8587082697085
+      }
+    }
+  },
+  "name": "日本西药房",
+  "place_id": "ChIJl4Zr5Q4Z2jERFNx1OohoQd4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Priscilla Wang",
+      "author_url": "https://www.google.com/maps/contrib/117479422685178723062/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVLHYm4SPjHro7yXwfskCPYwdkTvnSMCzzKpAT1vNrcYPno5A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736754758,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16015196684211837972",
+  "user_ratings_total": 1,
+  "vicinity": "But 802, French Road, #01-55"
+}

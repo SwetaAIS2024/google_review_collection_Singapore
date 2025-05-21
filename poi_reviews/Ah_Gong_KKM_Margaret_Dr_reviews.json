@@ -1,0 +1,66 @@
+{
+  "formatted_address": "40 Margaret Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.296698,
+      "lng": 103.8060987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298019730291502,
+        "lng": 103.8074245302915
+      },
+      "southwest": {
+        "lat": 1.295321769708498,
+        "lng": 103.8047265697085
+      }
+    }
+  },
+  "name": "Ah Gong KKM (Margaret Dr)",
+  "place_id": "ChIJ18zCOgAb2jERfvRk432jnn8",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Candied Stars",
+      "author_url": "https://www.google.com/maps/contrib/109255972854924437353/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQZO4-CNpLPr2qNzqepH44yQAhAyLbG5s2vQ9L_FrqaNDKnew=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Tried the spicy version with prawns, egg and pork and normal soup version with clams, prawns, pork and egg today.\n\nI enjoyed both versions. The noodles were curly and springy, the protein portions are generous and the soup is tasty. The pork liver is soft too!\n\nI will definitely return and you should give it a try.",
+      "time": 1747053741,
+      "translated": false
+    },
+    {
+      "author_name": "Matt",
+      "author_url": "https://www.google.com/maps/contrib/118016059707368058383/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKr8TMQpVz_8pCGBIij7e-uN7mlpNTCqxZ8hhFxO-_Rx8ei5Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1747039589,
+      "translated": false
+    },
+    {
+      "author_name": "Bryan",
+      "author_url": "https://www.google.com/maps/contrib/104624206894936794733/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGLpL6dWZUuylJ4ke6jvM_YY98eB1sAIUHHK7uv3X_H3kzVSzLNw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1746976757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9195967250218415230",
+  "user_ratings_total": 3,
+  "vicinity": "40 Margaret Drive"
+}

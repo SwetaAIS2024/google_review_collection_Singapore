@@ -1,0 +1,28 @@
+{
+  "formatted_address": "601 Island Club Rd, Singapore 578775",
+  "geometry": {
+    "location": {
+      "lat": 1.3606979,
+      "lng": 103.8143896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362069930291502,
+        "lng": 103.8157535302915
+      },
+      "southwest": {
+        "lat": 1.359371969708498,
+        "lng": 103.8130555697085
+      }
+    }
+  },
+  "name": "Shelter",
+  "place_id": "ChIJIynIfAAR2jERNVoYz5alktI",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15173372161702779445",
+  "vicinity": "601 Island Club Road"
+}

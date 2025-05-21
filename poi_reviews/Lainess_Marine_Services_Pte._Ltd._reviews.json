@@ -1,0 +1,41 @@
+{
+  "formatted_address": "15 Benoi Rd, Singapore 629888",
+  "geometry": {
+    "location": {
+      "lat": 1.3010644,
+      "lng": 103.6779406
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302487280291502,
+        "lng": 103.6793638302915
+      },
+      "southwest": {
+        "lat": 1.299789319708498,
+        "lng": 103.6766658697085
+      }
+    }
+  },
+  "name": "Lainess Marine Services Pte. Ltd.",
+  "place_id": "ChIJF128aKYF2jERwe9rWo2tfFI",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "moffazal hossain khan kajol",
+      "author_url": "https://www.google.com/maps/contrib/107514469013537584418/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDKtB4jtvciP5Hc1FxFMPQT3zZ0T_ZF7Yp16MDyeEqttEKevEF=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1729729168,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5943816430841229249",
+  "user_ratings_total": 1,
+  "vicinity": "15 Benoi Road"
+}

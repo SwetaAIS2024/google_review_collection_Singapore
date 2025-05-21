@@ -1,0 +1,41 @@
+{
+  "formatted_address": "20 Harbour Dr, Singapore 117612",
+  "geometry": {
+    "location": {
+      "lat": 1.2830834,
+      "lng": 103.7793376
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284350530291502,
+        "lng": 103.7806380302915
+      },
+      "southwest": {
+        "lat": 1.281652569708498,
+        "lng": 103.7779400697085
+      }
+    }
+  },
+  "name": "ECL",
+  "place_id": "ChIJ1xK8Pqkb2jERLn5Hnh0z7CI",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Yamaha Singapore",
+      "author_url": "https://www.google.com/maps/contrib/105614578299512257117/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw20T2kYyyF1_UIiGCbmUc-L4_vdDAhvY-G8W1HZhT-THrne4D=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1554622310,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2516442494095818286",
+  "user_ratings_total": 1,
+  "vicinity": "20 Harbour Drive, Singapore"
+}

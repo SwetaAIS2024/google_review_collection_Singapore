@@ -1,0 +1,29 @@
+{
+  "formatted_address": "6 Raffles Quay\nSingapore 048580 Raffles Quay, Singapore 048580",
+  "geometry": {
+    "location": {
+      "lat": 1.2817257,
+      "lng": 103.8514785
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283028130291502,
+        "lng": 103.8528959302915
+      },
+      "southwest": {
+        "lat": 1.280330169708498,
+        "lng": 103.8501979697085
+      }
+    }
+  },
+  "name": "Physio",
+  "place_id": "ChIJqR6DZA4Z2jERa_AzP05JfJI",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10555392227066245227",
+  "vicinity": "6 Raffles Quay\nSingapore 048580 Raffles Quay, Singapore"
+}

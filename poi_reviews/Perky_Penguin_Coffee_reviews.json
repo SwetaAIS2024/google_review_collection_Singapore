@@ -1,0 +1,58 @@
+{
+  "formatted_address": "501 Stirling Rd, Management Development Institute of Singapore (MDIS, Singapore 148951",
+  "geometry": {
+    "location": {
+      "lat": 1.297104,
+      "lng": 103.8005333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298404030291502,
+        "lng": 103.8020269302915
+      },
+      "southwest": {
+        "lat": 1.295706069708498,
+        "lng": 103.7993289697085
+      }
+    }
+  },
+  "name": "Perky Penguin Coffee",
+  "place_id": "ChIJo4Tq9KUb2jERF3oeRcc24fc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Nguyen Duc Khai",
+      "author_url": "https://www.google.com/maps/contrib/104573391138930152792/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT0-aaqSUz6W-VD1-daIN2owzS_7ZU4uhKOebos2U63d1iTQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Only one time that one of the main staff went to toilet so i have to wait for 10 minutes before getting my Teh C, the drinks are nice",
+      "time": 1741851311,
+      "translated": false
+    },
+    {
+      "author_name": "Rasmus Krøner",
+      "author_url": "https://www.google.com/maps/contrib/102768374888432665747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUydNrQDV3KKji-gxabvEQLJPs92G1rZw4nkjxu7L7ZVke6fQMPtA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Very nice staff!",
+      "time": 1737355454,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17861617826614114839",
+  "user_ratings_total": 2,
+  "vicinity": "501 Stirling Road, Management Development Institute of Singapore (MDIS"
+}

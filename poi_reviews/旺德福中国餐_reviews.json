@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore, Sin Ming Ln, Blk 22号#01-258 邮政编码: 570022",
+  "geometry": {
+    "location": {
+      "lat": 1.3577415,
+      "lng": 103.8338347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359072980291502,
+        "lng": 103.8352215302915
+      },
+      "southwest": {
+        "lat": 1.356375019708498,
+        "lng": 103.8325235697085
+      }
+    }
+  },
+  "name": "旺德福中国餐",
+  "place_id": "ChIJ5awECQAX2jERdZv_1R3Rcls",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Lillian Lim",
+      "author_url": "https://www.google.com/maps/contrib/117364343752788052876/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvzL2ytT32xFtLtCF84HaBJ8TJD8sRJgki95zEE7LlKCJhRw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733997919,
+      "translated": false
+    },
+    {
+      "author_name": "ying wang",
+      "author_url": "https://www.google.com/maps/contrib/112086890446062706101/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLpfJwVVxdWUo1InNNCHzuZOWJezNufHPM7uFNt7X-jb_m9w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733899709,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6589559130871012213",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 22 Sin Ming Lane, #01-258"
+}

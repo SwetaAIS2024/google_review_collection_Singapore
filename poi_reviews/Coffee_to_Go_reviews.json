@@ -1,0 +1,30 @@
+{
+  "formatted_address": "34 Arab St, #02-02, Singapore 199733",
+  "geometry": {
+    "location": {
+      "lat": 1.300666,
+      "lng": 103.8598559
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301956330291502,
+        "lng": 103.8611312302915
+      },
+      "southwest": {
+        "lat": 1.299258369708498,
+        "lng": 103.8584332697085
+      }
+    }
+  },
+  "name": "Coffee to Go",
+  "place_id": "ChIJb5lssYQZ2jERo6pKZiKIqmc",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7469932613273823907",
+  "vicinity": "34 Arab Street, #02-02, Singapore"
+}

@@ -1,0 +1,68 @@
+{
+  "formatted_address": "11 Collyer Quay, #17-00 The Arcade, Singapore 049317",
+  "geometry": {
+    "location": {
+      "lat": 1.2835175,
+      "lng": 103.8522903
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284825130291502,
+        "lng": 103.8537974302915
+      },
+      "southwest": {
+        "lat": 1.282127169708498,
+        "lng": 103.8510994697085
+      }
+    }
+  },
+  "name": "Fusion Cosmetics Pte Ltd",
+  "place_id": "ChIJ2YVIvnAZ2jERYItHIZ0WQzA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Patrizia Malagutti",
+      "author_url": "https://www.google.com/maps/contrib/117623407336260602367/reviews",
+      "language": "en-US",
+      "original_language": "es",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp40RjBQ8NP5q9U6b1kWcOALcguD1UITWCZH9kaA9Quane_gfy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "It has everything",
+      "time": 1590163339,
+      "translated": true
+    },
+    {
+      "author_name": "Anas Shah",
+      "author_url": "https://www.google.com/maps/contrib/108890052443959408997/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtT_EN5m__LHNcg2Y_nZyfnzD_xHz5g39HdYk2bJetj38A_SGR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1659801761,
+      "translated": false
+    },
+    {
+      "author_name": "Harish Shirbhayye",
+      "author_url": "https://www.google.com/maps/contrib/106698313209557525943/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR96mYktYThNVnRZRbi6lZb6ioD2HjJHayM7pyWcLILaS8WA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548236775,
+      "translated": false
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "hair_care",
+    "department_store",
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3477648201384168288",
+  "user_ratings_total": 3,
+  "vicinity": "11 Collyer Quay, #17-00 The Arcade"
+}

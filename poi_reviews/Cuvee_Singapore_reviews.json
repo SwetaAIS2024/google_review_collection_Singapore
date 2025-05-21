@@ -1,0 +1,45 @@
+{
+  "formatted_address": "5B Portsdown Rd, #01-01, Singapore 139311",
+  "geometry": {
+    "location": {
+      "lat": 1.2945127,
+      "lng": 103.7959729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295855530291502,
+        "lng": 103.7972557302915
+      },
+      "southwest": {
+        "lat": 1.293157569708498,
+        "lng": 103.7945577697085
+      }
+    }
+  },
+  "name": "Cuvee Singapore",
+  "place_id": "ChIJP9GYjj4b2jERbr0d-8tGZeE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "James Lim",
+      "author_url": "https://www.google.com/maps/contrib/106369547699167987919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRaukeZgjkFOUkjt796IkYOP3LVWAHo4t0f2hXTLAhEfYsLZIc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Dog friendly.",
+      "time": 1691333693,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16241465473086897518",
+  "user_ratings_total": 1,
+  "vicinity": "5B Portsdown Road, #01-01"
+}

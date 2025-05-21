@@ -1,0 +1,30 @@
+{
+  "formatted_address": "21 Bukit Batok Cres, Singapore 658065",
+  "geometry": {
+    "location": {
+      "lat": 1.3371646,
+      "lng": 103.7596981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338627080291502,
+        "lng": 103.7610620802915
+      },
+      "southwest": {
+        "lat": 1.335929119708498,
+        "lng": 103.7583641197085
+      }
+    }
+  },
+  "name": "VicWell BioMedical Pte Ltd",
+  "place_id": "ChIJMYKIO24Q2jER4WX1uhl7Qqw",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12412618873427551713",
+  "vicinity": "21 Bukit Batok Crescent"
+}

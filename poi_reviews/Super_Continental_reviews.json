@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338863,
+      "lng": 103.6374126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340385980291502,
+        "lng": 103.6389308802915
+      },
+      "southwest": {
+        "lat": 1.337688019708498,
+        "lng": 103.6362329197085
+      }
+    }
+  },
+  "name": "Super Continental",
+  "place_id": "ChIJg8tNI00P2jERK-zB514rX68",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12636866766040067115",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Jurong Gateway Rd, Singapore 609646",
+  "geometry": {
+    "location": {
+      "lat": 1.3350845,
+      "lng": 103.7398226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336592180291502,
+        "lng": 103.7411058802915
+      },
+      "southwest": {
+        "lat": 1.333894219708498,
+        "lng": 103.7384079197085
+      }
+    }
+  },
+  "name": "DirectCredit Singapore",
+  "place_id": "ChIJIaAaZgUQ2jERgqNiLbn0x5k",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11081094484335960962",
+  "vicinity": "21 Jurong Gateway Road"
+}

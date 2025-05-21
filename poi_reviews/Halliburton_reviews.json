@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.280501,
+      "lng": 103.627113
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281881830291502,
+        "lng": 103.6284731802915
+      },
+      "southwest": {
+        "lat": 1.279183869708498,
+        "lng": 103.6257752197085
+      }
+    }
+  },
+  "name": "Halliburton",
+  "place_id": "ChIJw8gb0ZoG2jERDQ0sNTYBPIo",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9960837808168635661",
+  "vicinity": "Singapore"
+}

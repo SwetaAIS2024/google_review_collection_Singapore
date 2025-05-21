@@ -1,0 +1,30 @@
+{
+  "formatted_address": "177 Bukit Batok West Ave. 8, #01-247, Singapore 650177",
+  "geometry": {
+    "location": {
+      "lat": 1.3463485,
+      "lng": 103.7417238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347843330291502,
+        "lng": 103.7431000302915
+      },
+      "southwest": {
+        "lat": 1.345145369708498,
+        "lng": 103.7404020697085
+      }
+    }
+  },
+  "name": "Santhi Store",
+  "place_id": "ChIJd1KYSAAR2jER4DDWEIQPSs4",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14864710579982315744",
+  "vicinity": "177 Bukit Batok West Avenue 8, #01-247, Singapore"
+}

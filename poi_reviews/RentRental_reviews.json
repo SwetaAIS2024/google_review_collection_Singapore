@@ -1,0 +1,30 @@
+{
+  "formatted_address": "160 Sin Ming Dr, #05-08 Sin Ming AutoCity, Singapore 575722",
+  "geometry": {
+    "location": {
+      "lat": 1.3597064,
+      "lng": 103.8381238
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361075630291502,
+        "lng": 103.8394354302915
+      },
+      "southwest": {
+        "lat": 1.358377669708498,
+        "lng": 103.8367374697085
+      }
+    }
+  },
+  "name": "RentRental",
+  "place_id": "ChIJUyOOPGQX2jERhQwMQu3S8yQ",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2662703721163263109",
+  "vicinity": "160 Sin Ming Drive, #05-08 Sin Ming AutoCity"
+}

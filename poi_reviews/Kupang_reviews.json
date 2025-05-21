@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39821,
+      "lng": 103.88126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.399534230291502,
+        "lng": 103.8825494302915
+      },
+      "southwest": {
+        "lat": 1.396836269708498,
+        "lng": 103.8798514697085
+      }
+    }
+  },
+  "name": "Kupang",
+  "place_id": "ChIJSeqlE3cW2jER8BY5Auj-LJw",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11253649841315190512",
+  "vicinity": "Singapore"
+}

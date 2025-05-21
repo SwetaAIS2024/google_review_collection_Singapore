@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Lower Kent Ridge Rd, #02-16, Singapore 119082",
+  "geometry": {
+    "location": {
+      "lat": 1.2937479,
+      "lng": 103.7840382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295162080291502,
+        "lng": 103.7855642802915
+      },
+      "southwest": {
+        "lat": 1.292464119708498,
+        "lng": 103.7828663197085
+      }
+    }
+  },
+  "name": "POSB ATM (within NTUC Fairprice)",
+  "place_id": "ChIJedwT6Hcb2jERp7PpvYW3jHA",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8110058814032163751",
+  "vicinity": "1 Lower Kent Ridge Road, #02-16, Singapore"
+}

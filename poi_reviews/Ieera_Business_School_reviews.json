@@ -1,0 +1,30 @@
+{
+  "formatted_address": "95 Tampines Rd, Singapore 535119",
+  "geometry": {
+    "location": {
+      "lat": 1.3612249,
+      "lng": 103.8885637
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362472080291502,
+        "lng": 103.8899246302915
+      },
+      "southwest": {
+        "lat": 1.359774119708498,
+        "lng": 103.8872266697085
+      }
+    }
+  },
+  "name": "Ieera Business School",
+  "place_id": "ChIJDUmKq7UX2jERi8uKNXAncDE",
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3562390668138171275",
+  "vicinity": "95 Tampines Road"
+}

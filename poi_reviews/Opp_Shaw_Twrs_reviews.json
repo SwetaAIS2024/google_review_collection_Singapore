@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore 189768",
+  "geometry": {
+    "location": {
+      "lat": 1.2970432,
+      "lng": 103.8565396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298353930291502,
+        "lng": 103.8579358302915
+      },
+      "southwest": {
+        "lat": 1.295655969708498,
+        "lng": 103.8552378697085
+      }
+    }
+  },
+  "name": "Opp Shaw Twrs",
+  "place_id": "ChIJqwBHiq8Z2jER3sLlb-hKuk4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Alicia John",
+      "author_url": "https://www.google.com/maps/contrib/103236503078307848584/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1VLQxesDRauUpwMjs6zOr4aN7LTt-n3WVkfu1WPzqkaVnRNs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742820658,
+      "translated": false
+    },
+    {
+      "author_name": "Benson Lin",
+      "author_url": "https://www.google.com/maps/contrib/108603798101319739871/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkkS-kgMypG4u69wnzRitrcTSDCfpDflSRzmTcXX8so2ejbdg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1437042181,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5672929042796757726",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

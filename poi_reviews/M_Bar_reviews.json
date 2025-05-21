@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3396651,
+      "lng": 103.7058532
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340971530291502,
+        "lng": 103.7070851802915
+      },
+      "southwest": {
+        "lat": 1.338273569708498,
+        "lng": 103.7043872197085
+      }
+    }
+  },
+  "name": "M Bar",
+  "place_id": "ChIJAzFmzewP2jERtkEev_CqNZk",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11039918012543943094",
+  "vicinity": "Singapore"
+}

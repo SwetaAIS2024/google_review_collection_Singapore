@@ -1,0 +1,42 @@
+{
+  "formatted_address": "6 Raffles Quay, Singapore 048580",
+  "geometry": {
+    "location": {
+      "lat": 1.2817911,
+      "lng": 103.8514035
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283065730291502,
+        "lng": 103.8528617802915
+      },
+      "southwest": {
+        "lat": 1.280367769708498,
+        "lng": 103.8501638197085
+      }
+    }
+  },
+  "name": "Recoded Pte. Ltd.",
+  "place_id": "ChIJ__9DYw4Z2jERjR7zwDPvLkQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Veritas Reagen",
+      "author_url": "https://www.google.com/maps/contrib/103640094887879642819/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTAX-n4qRhgoFyKxCIuybekdezthoGQsoQM0xJwGrj8aLYJW_J=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1732501577,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4913127249067318925",
+  "user_ratings_total": 1,
+  "vicinity": "6 Raffles Quay"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "6 Lor 9 Geylang, Singapore 388754",
+  "geometry": {
+    "location": {
+      "lat": 1.3127117,
+      "lng": 103.8766558
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314031880291502,
+        "lng": 103.8779078802915
+      },
+      "southwest": {
+        "lat": 1.311333919708498,
+        "lng": 103.8752099197085
+      }
+    }
+  },
+  "name": "Lim Chiu HOR Clinic",
+  "place_id": "ChIJS2f0KTEY2jER606MXMRsyY0",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Werner Senft",
+      "author_url": "https://www.google.com/maps/contrib/111124779981021157655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqgmZ6IDx35kePzx0xcDCv6s_Yu02S9JEjTBauA4nnKZ3VvxyA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "TCM clinic acupuncture, cupping, herbal meds,",
+      "time": 1514597132,
+      "translated": false
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10216816820288769771",
+  "user_ratings_total": 1,
+  "vicinity": "6 Lorong 9 Geylang"
+}

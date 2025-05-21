@@ -1,0 +1,41 @@
+{
+  "formatted_address": "520 Jurong West Street 52, Block 520, Singapore 640520",
+  "geometry": {
+    "location": {
+      "lat": 1.3460457,
+      "lng": 103.7182939
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347462330291502,
+        "lng": 103.7196937302915
+      },
+      "southwest": {
+        "lat": 1.344764369708498,
+        "lng": 103.7169957697085
+      }
+    }
+  },
+  "name": "7oaks Student Care Centre (Jurong)",
+  "place_id": "ChIJ9ZzxVt0P2jER9WN6rM_m3dc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Siti Jumaathi",
+      "author_url": "https://www.google.com/maps/contrib/108926715040345006329/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGpCkntLSjd_e_h9uWk2XPV1QLZj9sSTtx9l_kV7YZdbXOBA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1528670160,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15554842467633882101",
+  "user_ratings_total": 1,
+  "vicinity": "520 Jurong West Street 52, Block 520, Singapore"
+}

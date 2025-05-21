@@ -1,0 +1,44 @@
+{
+  "formatted_address": "422B Northshore Dr, #01-735, Singapore 822422",
+  "geometry": {
+    "location": {
+      "lat": 1.4200414,
+      "lng": 103.9049967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421186830291502,
+        "lng": 103.9064175302915
+      },
+      "southwest": {
+        "lat": 1.418488869708498,
+        "lng": 103.9037195697085
+      }
+    }
+  },
+  "name": "E-Bridge Pre-School Northshore Drive",
+  "place_id": "ChIJkS3D5K4V2jERZqznZQAKn8I",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Vienna",
+      "author_url": "https://www.google.com/maps/contrib/111328352997954473385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuJwNu5Rf3pzsqNz_0eI1Y5KuubFyzMUqskGq8lbihfA87JpU1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "terrible management.",
+      "time": 1707131991,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14023938761480973414",
+  "user_ratings_total": 1,
+  "vicinity": "422B Northshore Drive, #01-735"
+}

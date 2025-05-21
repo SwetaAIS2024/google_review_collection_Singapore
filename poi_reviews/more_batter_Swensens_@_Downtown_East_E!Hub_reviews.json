@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore 519599",
+  "geometry": {
+    "location": {
+      "lat": 1.3762097,
+      "lng": 103.9554195
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377633880291502,
+        "lng": 103.9567170802915
+      },
+      "southwest": {
+        "lat": 1.374935919708498,
+        "lng": 103.9540191197085
+      }
+    }
+  },
+  "name": "more batter (Swensen's @ Downtown East E!Hub)",
+  "place_id": "ChIJGVtEmQo92jERTcR_fVbtxUk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gabriel Chua",
+      "author_url": "https://www.google.com/maps/contrib/116616388211078653585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdFgNHfmT-oxI4nlLRWa8DOPaQFoGWPAGMDZCiffz4_rqhCaxhLw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice place 😊",
+      "time": 1678001993,
+      "translated": false
+    },
+    {
+      "author_name": "Elvin Lee",
+      "author_url": "https://www.google.com/maps/contrib/112378860535608099343/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbcNNUwGbYLqXUfnmebXqrMg55ndSBon66IRDvZSr5F5YctQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1742474430,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5315915890909234253",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

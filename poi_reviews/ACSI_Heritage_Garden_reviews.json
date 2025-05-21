@@ -1,0 +1,44 @@
+{
+  "formatted_address": "121 Dover Rd, Singapore 139650",
+  "geometry": {
+    "location": {
+      "lat": 1.3023863,
+      "lng": 103.7809877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303766130291502,
+        "lng": 103.7822693302915
+      },
+      "southwest": {
+        "lat": 1.301068169708498,
+        "lng": 103.7795713697085
+      }
+    }
+  },
+  "name": "ACS(I) Heritage Garden",
+  "place_id": "ChIJtz9ZHAAb2jER1bOqeaHTedA",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Nathanael Chia",
+      "author_url": "https://www.google.com/maps/contrib/110687995347117039853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9cZCqbnnoxTgFYqgDvURuyGgqn-LzYPWGCSSd7nEsOlucAVmf=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "ACS Heritage my",
+      "time": 1743843261,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15022270722555425749",
+  "user_ratings_total": 1,
+  "vicinity": "121 Dover Road"
+}

@@ -1,0 +1,31 @@
+{
+  "formatted_address": "478 Tampines Street 44, Singapore 520478",
+  "geometry": {
+    "location": {
+      "lat": 1.3614386,
+      "lng": 103.9533041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362803630291502,
+        "lng": 103.9546885302915
+      },
+      "southwest": {
+        "lat": 1.360105669708498,
+        "lng": 103.9519905697085
+      }
+    }
+  },
+  "name": "Golden Million Medical Hall",
+  "place_id": "ChIJJwknIgc92jERWM7STnlxIAw",
+  "types": [
+    "pharmacy",
+    "hospital",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=873823093537295960",
+  "vicinity": "478 Tampines Street 44"
+}

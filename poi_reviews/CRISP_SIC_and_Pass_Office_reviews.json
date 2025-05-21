@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Jurong Island, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2828242,
+      "lng": 103.7053492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284126880291502,
+        "lng": 103.7066136302915
+      },
+      "southwest": {
+        "lat": 1.281428919708498,
+        "lng": 103.7039156697085
+      }
+    }
+  },
+  "name": "CRISP SIC & Pass Office",
+  "place_id": "ChIJ4bkn9ScF2jERPg9-7qHiuWg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "chandra palanivelu",
+      "author_url": "https://www.google.com/maps/contrib/113336830639579917872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG8GgGpgVCVGNkcN8rKZM-PapSB-avM7bmvmJzB0clGg3JSoc6gw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Me working on",
+      "time": 1700792832,
+      "translated": false
+    },
+    {
+      "author_name": "Davide Carrà",
+      "author_url": "https://www.google.com/maps/contrib/100501093417841490525/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBAssqipp0GKtux_yIDJJ2KtXzGpWDFhHHGkLMEWLiTC8NE2VY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723677117,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7546311835754827582",
+  "user_ratings_total": 2,
+  "vicinity": "Jurong Island"
+}

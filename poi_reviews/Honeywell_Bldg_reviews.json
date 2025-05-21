@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.336939,
+      "lng": 103.966049
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338279630291502,
+        "lng": 103.9674108302915
+      },
+      "southwest": {
+        "lat": 1.335581669708498,
+        "lng": 103.9647128697085
+      }
+    }
+  },
+  "name": "Honeywell Bldg",
+  "place_id": "ChIJAchIjtk82jERwGAjobth0fU",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Raju Mopidevi",
+      "author_url": "https://www.google.com/maps/contrib/109068398538510055408/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-uaaGeWfH-Om7DVMQNVh31ZB5pijJhAIJUAvP8Prrmif1JNA-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502193676,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17713046267915100352",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

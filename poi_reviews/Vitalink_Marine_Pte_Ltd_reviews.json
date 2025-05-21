@@ -1,0 +1,41 @@
+{
+  "formatted_address": "15 Benoi Rd, Singapore 629888",
+  "geometry": {
+    "location": {
+      "lat": 1.3010855,
+      "lng": 103.6780443
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302477230291502,
+        "lng": 103.6794362302915
+      },
+      "southwest": {
+        "lat": 1.299779269708498,
+        "lng": 103.6767382697085
+      }
+    }
+  },
+  "name": "Vitalink Marine Pte Ltd",
+  "place_id": "ChIJ27eHaKYF2jERIQYl8C88zBg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "MD ALAUL ISLAM",
+      "author_url": "https://www.google.com/maps/contrib/102059746323922166914/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKd0mEN7-1O1olVVJu5hMPHFvpmFxG2rY5MYb-k1vDvCT5WNo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1631497575,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1786869328749332001",
+  "user_ratings_total": 1,
+  "vicinity": "15 Benoi Road, Singapore"
+}

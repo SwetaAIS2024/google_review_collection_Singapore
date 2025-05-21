@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2857196,
+      "lng": 103.8013809
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.287142180291502,
+        "lng": 103.8026686802915
+      },
+      "southwest": {
+        "lat": 1.284444219708498,
+        "lng": 103.7999707197085
+      }
+    }
+  },
+  "name": "Cafeteria",
+  "place_id": "ChIJe1ufr9Ab2jERaQPzn4VxRv0",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18250399358693606249",
+  "vicinity": "Singapore"
+}

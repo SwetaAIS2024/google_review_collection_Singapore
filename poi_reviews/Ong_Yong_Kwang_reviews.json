@@ -1,0 +1,29 @@
+{
+  "formatted_address": "802 Tampines Ave 4, Singapore 520802",
+  "geometry": {
+    "location": {
+      "lat": 1.346117,
+      "lng": 103.9380249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347461280291502,
+        "lng": 103.9394925302915
+      },
+      "southwest": {
+        "lat": 1.344763319708498,
+        "lng": 103.9367945697085
+      }
+    }
+  },
+  "name": "Ong Yong Kwang",
+  "place_id": "ChIJsZb5NhU92jER9ZVKxzbJgj0",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4432326220394960373",
+  "vicinity": "802 Tampines Avenue 4"
+}

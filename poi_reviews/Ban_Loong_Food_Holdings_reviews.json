@@ -1,0 +1,30 @@
+{
+  "formatted_address": "3017 Bedok North Street 5, #05-27, Singapore 486121",
+  "geometry": {
+    "location": {
+      "lat": 1.3437936,
+      "lng": 103.7550477
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345098780291502,
+        "lng": 103.7563799802915
+      },
+      "southwest": {
+        "lat": 1.342400819708498,
+        "lng": 103.7536820197085
+      }
+    }
+  },
+  "name": "Ban Loong Food Holdings",
+  "place_id": "ChIJvfT2dgAR2jERCt_MGQzPAmo",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7638895568853196554",
+  "vicinity": "3017 Bedok North Street 5, #05-27, Singapore"
+}

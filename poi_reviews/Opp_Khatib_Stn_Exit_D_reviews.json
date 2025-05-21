@@ -1,0 +1,74 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.418701,
+      "lng": 103.832932
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.420058830291502,
+        "lng": 103.8342830802915
+      },
+      "southwest": {
+        "lat": 1.417360869708498,
+        "lng": 103.8315851197085
+      }
+    }
+  },
+  "name": "Opp Khatib Stn Exit D",
+  "place_id": "ChIJbfOfYw0U2jERlirf7Wu17v8",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "CH L",
+      "author_url": "https://www.google.com/maps/contrib/102048570496896139289/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaEMpgd-qQGd3blVd_acFaRHiUAPpY9IxPs-XZWPUBFVsJhDO_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Normal Public Transport",
+      "time": 1614901381,
+      "translated": false
+    },
+    {
+      "author_name": "Lip Boon Ng",
+      "author_url": "https://www.google.com/maps/contrib/115419584001500701755/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3V1AwffP-W22tNR8TGGElnr5QKoWsHGjSA1GdQZzqaBhcyy0I=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1662994594,
+      "translated": false
+    },
+    {
+      "author_name": "Joelle Lim",
+      "author_url": "https://www.google.com/maps/contrib/111492848262668846734/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTiy43An_wvfSyXuo7w-dCatkfasc3aWVnzUklVw5k2v1GIxUL=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1500169419,
+      "translated": false
+    },
+    {
+      "author_name": "Chris Soh",
+      "author_url": "https://www.google.com/maps/contrib/114018132474438304709/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNTTSE21uiVkjzsXFJKPeJQV3ysLurO1k18fWmL_zjkjkM_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1489227556,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18441876999285713558",
+  "user_ratings_total": 4,
+  "vicinity": "Singapore"
+}

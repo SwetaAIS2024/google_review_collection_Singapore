@@ -1,0 +1,28 @@
+{
+  "formatted_address": "120D Rivervale Dr, Singapore 544120",
+  "geometry": {
+    "location": {
+      "lat": 1.3846796,
+      "lng": 103.9037863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385920480291502,
+        "lng": 103.9050866802915
+      },
+      "southwest": {
+        "lat": 1.383222519708498,
+        "lng": 103.9023887197085
+      }
+    }
+  },
+  "name": "FP (Future Park)",
+  "place_id": "ChIJN0QBjYYX2jERiRy30FhkgjU",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3855754563604126857",
+  "vicinity": "120D Rivervale Drive, Singapore"
+}

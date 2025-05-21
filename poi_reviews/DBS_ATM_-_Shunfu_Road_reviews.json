@@ -1,0 +1,29 @@
+{
+  "formatted_address": "320 Shunfu Rd, Singapore 570320",
+  "geometry": {
+    "location": {
+      "lat": 1.351938,
+      "lng": 103.837327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.353242030291502,
+        "lng": 103.8386356802915
+      },
+      "southwest": {
+        "lat": 1.350544069708498,
+        "lng": 103.8359377197085
+      }
+    }
+  },
+  "name": "DBS ATM - Shunfu Road",
+  "place_id": "ChIJ0XoDH8oX2jERMgi17_srQxU",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1532116659294505010",
+  "vicinity": "320 Shunfu Road, Singapore"
+}

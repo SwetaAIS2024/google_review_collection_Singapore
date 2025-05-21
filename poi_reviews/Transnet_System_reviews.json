@@ -1,0 +1,27 @@
+{
+  "formatted_address": "275 Thomson Rd, Singapore 307645",
+  "geometry": {
+    "location": {
+      "lat": 1.3211517,
+      "lng": 103.8415839
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322601630291502,
+        "lng": 103.8430649302915
+      },
+      "southwest": {
+        "lat": 1.319903669708498,
+        "lng": 103.8403669697085
+      }
+    }
+  },
+  "name": "Transnet System",
+  "place_id": "ChIJAdWxH-cZ2jERf6hrFLQIrCA",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2354266274737662079",
+  "vicinity": "275 Thomson Road"
+}

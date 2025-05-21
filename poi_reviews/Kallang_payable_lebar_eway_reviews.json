@@ -1,0 +1,30 @@
+{
+  "formatted_address": "KPE, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338708,
+      "lng": 103.896667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340078180291502,
+        "lng": 103.8979888302915
+      },
+      "southwest": {
+        "lat": 1.337380219708498,
+        "lng": 103.8952908697085
+      }
+    }
+  },
+  "name": "Kallang payable lebar eway",
+  "place_id": "ChIJVUrvIQAX2jERK0Qrwl97XiU",
+  "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2692725278423860267",
+  "vicinity": "Kallang-Paya Lebar Expressway"
+}

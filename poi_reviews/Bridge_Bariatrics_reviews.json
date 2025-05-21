@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Singapore 228510",
+  "geometry": {
+    "location": {
+      "lat": 1.3045739,
+      "lng": 103.835553
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305771880291502,
+        "lng": 103.8367762302915
+      },
+      "southwest": {
+        "lat": 1.303073919708498,
+        "lng": 103.8340782697085
+      }
+    }
+  },
+  "name": "Bridge Bariatrics",
+  "place_id": "ChIJ_3neSJIZ2jER2a5LBjXBu0Y",
+  "types": [
+    "veterinary_care",
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5096879836782898905",
+  "vicinity": ""
+}

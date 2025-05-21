@@ -1,0 +1,55 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3169228,
+      "lng": 103.8791171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318416480291502,
+        "lng": 103.8808444302915
+      },
+      "southwest": {
+        "lat": 1.315718519708498,
+        "lng": 103.8781464697085
+      }
+    }
+  },
+  "name": "阿山茶室",
+  "place_id": "ChIJW9JuAjAY2jER2qMBeap9JLU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Andrew Yang",
+      "author_url": "https://www.google.com/maps/contrib/117707541193969568180/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAUhLopbFsRapHIwuOJ9a5uyP3RD8EIWeiJvQC2oG-0hUZKy2E=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "One of the finest nanyang coffee one can ask for.  Ah Sam Coffee is the best that you can ever get while paying at absurdly cheap rates.",
+      "time": 1647138413,
+      "translated": false
+    },
+    {
+      "author_name": "Ezekiel Tang",
+      "author_url": "https://www.google.com/maps/contrib/118100747000488219426/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwlEDkMyfooHnCVAC-uw9us9xOTGM0QkxCShb0z85_FM3LQg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1592422171,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13052695791154602970",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

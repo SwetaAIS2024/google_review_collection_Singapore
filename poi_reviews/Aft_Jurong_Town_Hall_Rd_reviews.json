@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3237955,
+      "lng": 103.7430609
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325010330291502,
+        "lng": 103.7447795802915
+      },
+      "southwest": {
+        "lat": 1.322312369708498,
+        "lng": 103.7420816197085
+      }
+    }
+  },
+  "name": "Aft Jurong Town Hall Rd",
+  "place_id": "ChIJ2WkMXKYa2jERJCOkU5QSBiw",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Ranjith M.Ranjith",
+      "author_url": "https://www.google.com/maps/contrib/116218975029706494179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfsvyCeaduz0wsFkyFQ39Pbg0s6vAmh8hRHTZ-ZezwEUzZL-90=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "Good",
+      "time": 1716356672,
+      "translated": false
+    },
+    {
+      "author_name": "HU ST",
+      "author_url": "https://www.google.com/maps/contrib/103112447804506634614/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0RQ1RUMijjil8-YGFSFl9P8peWCIiKrzTSX61L2rUYcsp6nU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532712102,
+      "translated": false
+    },
+    {
+      "author_name": "Easan",
+      "author_url": "https://www.google.com/maps/contrib/106625146470016521907/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNbDE2iDLxigFLDHtHJDVy5ERHDvvudMbTTN5kiuh9HYtCMjmxGQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1510496097,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3172243415796818724",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

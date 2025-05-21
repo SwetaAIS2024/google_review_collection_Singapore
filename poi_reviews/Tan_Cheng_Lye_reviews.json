@@ -1,0 +1,31 @@
+{
+  "formatted_address": "101 Upper Cross St, Singapore 058357",
+  "geometry": {
+    "location": {
+      "lat": 1.285697,
+      "lng": 103.843945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286911030291502,
+        "lng": 103.8454818802915
+      },
+      "southwest": {
+        "lat": 1.284213069708498,
+        "lng": 103.8427839197085
+      }
+    }
+  },
+  "name": "Tan Cheng Lye",
+  "place_id": "ChIJcf_XvnQZ2jERitxCd8NBO80",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14788486109176454282",
+  "vicinity": "101 Upper Cross Street, Singapore"
+}

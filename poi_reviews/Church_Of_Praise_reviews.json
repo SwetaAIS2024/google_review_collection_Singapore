@@ -1,0 +1,43 @@
+{
+  "formatted_address": "5 Koek Rd, Cuppage Plaza, Singapore 228796",
+  "geometry": {
+    "location": {
+      "lat": 1.302051,
+      "lng": 103.8407372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303558380291502,
+        "lng": 103.8419688302915
+      },
+      "southwest": {
+        "lat": 1.300860419708498,
+        "lng": 103.8392708697085
+      }
+    }
+  },
+  "name": "Church Of Praise",
+  "place_id": "ChIJr2STXskZ2jERkjnO80DV2WI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kelvin Tan",
+      "author_url": "https://www.google.com/maps/contrib/105948011447825576492/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHfDJOMK7uwm37lTnc8o3j6X38GjAjXIMJnWGhqT803OUjKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1617510254,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7122958760608151954",
+  "user_ratings_total": 1,
+  "vicinity": "5 Koek Road, Cuppage Plaza, Singapore"
+}

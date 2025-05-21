@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Orchard Plaza, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.301284,
+      "lng": 103.841309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302716680291502,
+        "lng": 103.8427077302915
+      },
+      "southwest": {
+        "lat": 1.300018719708498,
+        "lng": 103.8400097697085
+      }
+    }
+  },
+  "name": "Soq Pte Ltd",
+  "place_id": "ChIJNQHmJ64Z2jERfCgwU5mYh7Q",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13008533832976050300",
+  "vicinity": "Orchard Plaza"
+}

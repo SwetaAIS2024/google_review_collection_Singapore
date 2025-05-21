@@ -1,0 +1,29 @@
+{
+  "formatted_address": "18 Toh Yi Dr, Singapore 590018",
+  "geometry": {
+    "location": {
+      "lat": 1.3399394,
+      "lng": 103.7735879
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341230880291502,
+        "lng": 103.7750254302915
+      },
+      "southwest": {
+        "lat": 1.338532919708498,
+        "lng": 103.7723274697085
+      }
+    }
+  },
+  "name": "DBS ATM - Toh Yi Drive",
+  "place_id": "ChIJk5rUOhER2jER3JwTnSxBoJ0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11358149920098065628",
+  "vicinity": "18 Toh Yi Drive, Singapore"
+}

@@ -1,0 +1,65 @@
+{
+  "formatted_address": "4 Gul Link, Singapore 629374",
+  "geometry": {
+    "location": {
+      "lat": 1.3147062,
+      "lng": 103.6617709
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316125830291502,
+        "lng": 103.6630448302915
+      },
+      "southwest": {
+        "lat": 1.313427869708498,
+        "lng": 103.6603468697085
+      }
+    }
+  },
+  "name": "Yong Chan Metal",
+  "place_id": "ChIJ____D5MF2jERmrAigQwMCTk",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "KIMSOON ONG",
+      "author_url": "https://www.google.com/maps/contrib/107078913041149487033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvdekbuZ2AqwR8w6Ko99cV4aNPI7QWeB_Lz8gUmZ3LWasIEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Nice one pal",
+      "time": 1737370746,
+      "translated": false
+    },
+    {
+      "author_name": "Lai Ying Wah",
+      "author_url": "https://www.google.com/maps/contrib/101623501393772877843/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH9XD96jQd7U-_ScOfCWU0Gu4PU0QQ2hVXZNa60TveEsoWmQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Can solve all your industrial air-conditioning problems",
+      "time": 1515739361,
+      "translated": true
+    },
+    {
+      "author_name": "Han Bin",
+      "author_url": "https://www.google.com/maps/contrib/117143794077132947770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg7-KwjqLSeHDip2mjpXMELoSOMgGTF0gz0eSegt4jzgdMvVs=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1466149700,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4109829382797963418",
+  "user_ratings_total": 3,
+  "vicinity": "4 Gul Link, Singapore"
+}

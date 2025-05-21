@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Soon Lee St, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3332978,
+      "lng": 103.6989356
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334615280291502,
+        "lng": 103.7002852302915
+      },
+      "southwest": {
+        "lat": 1.331917319708498,
+        "lng": 103.6975872697085
+      }
+    }
+  },
+  "name": "Dr Vital Singapore",
+  "place_id": "ChIJydYKlo4P2jERs2TXo052Tf8",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18396490133006673075",
+  "vicinity": "Soon Lee Street"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "22 New Industrial Rd, #01-22, Singapore 536208",
+  "geometry": {
+    "location": {
+      "lat": 1.3436465,
+      "lng": 103.8863974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345085980291502,
+        "lng": 103.8875411802915
+      },
+      "southwest": {
+        "lat": 1.342388019708498,
+        "lng": 103.8848432197085
+      }
+    }
+  },
+  "name": "FREAN COFFEE",
+  "place_id": "ChIJKYzkmF0X2jERJVkdDruAZDs",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "James Kee",
+      "author_url": "https://www.google.com/maps/contrib/111105519975276575472/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEAs8RoHK72zjWRMsFULSX4VsYpj7kArz6bga44t4CJjnRnIdYiA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "The coffee staff there don't wear masks, which is very unhygienic.",
+      "time": 1612403829,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4279687086792857893",
+  "user_ratings_total": 1,
+  "vicinity": "22 New Industrial Road, #01-22"
+}

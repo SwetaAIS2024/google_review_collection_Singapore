@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Tuas Ave 13, Singapore 638988",
+  "geometry": {
+    "location": {
+      "lat": 1.3223243,
+      "lng": 103.6402097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323592430291502,
+        "lng": 103.6416712802915
+      },
+      "southwest": {
+        "lat": 1.320894469708498,
+        "lng": 103.6389733197085
+      }
+    }
+  },
+  "name": "DBS ATM - JTC Tuas Food Centre",
+  "place_id": "ChIJlciM7dwF2jERIfwrZXcdOJg",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10968549291096538145",
+  "vicinity": "21 Tuas Avenue 13, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.382146,
+      "lng": 103.754486
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.383484330291502,
+        "lng": 103.7558315302915
+      },
+      "southwest": {
+        "lat": 1.380786369708498,
+        "lng": 103.7531335697085
+      }
+    }
+  },
+  "name": "Aft Teck Whye Walk",
+  "place_id": "ChIJzwEotr8R2jERuxmRJ9EQG2c",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7429550500775795131",
+  "vicinity": "Singapore"
+}

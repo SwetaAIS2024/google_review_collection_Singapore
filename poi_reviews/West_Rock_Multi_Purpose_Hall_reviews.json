@@ -1,0 +1,42 @@
+{
+  "formatted_address": "462 Bukit Batok West Ave. 8, Singapore 653462",
+  "geometry": {
+    "location": {
+      "lat": 1.3544242,
+      "lng": 103.7400859
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355862080291502,
+        "lng": 103.7414933802915
+      },
+      "southwest": {
+        "lat": 1.353164119708498,
+        "lng": 103.7387954197085
+      }
+    }
+  },
+  "name": "West Rock Multi Purpose Hall",
+  "place_id": "ChIJfcBzBQAR2jER4jCpBPW_8bs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Thomas Tong",
+      "author_url": "https://www.google.com/maps/contrib/106580139698372526623/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJr8Fj9hfUWMQ9PUa2RH4TcATqwA5bKrdantRglrSYcBfQwPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "",
+      "time": 1747756221,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13542816613545881826",
+  "user_ratings_total": 1,
+  "vicinity": "462 Bukit Batok West Avenue 8, Singapore"
+}

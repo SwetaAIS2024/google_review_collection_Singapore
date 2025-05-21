@@ -1,0 +1,58 @@
+{
+  "formatted_address": "802 Tampines Ave 4, #01-07, Singapore 520802",
+  "geometry": {
+    "location": {
+      "lat": 1.346396,
+      "lng": 103.9380303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347744480291502,
+        "lng": 103.9395408302915
+      },
+      "southwest": {
+        "lat": 1.345046519708498,
+        "lng": 103.9368428697085
+      }
+    }
+  },
+  "name": "Fried Delight 三炒",
+  "place_id": "ChIJJW03TwA92jERpfuGjnn6qY0",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Tsin W61",
+      "author_url": "https://www.google.com/maps/contrib/112246979209348273781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5fBvH1U0jQqk8eYJGcmDFRZR1lB_UlepRQGporkxzpFNDw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Selling three types of fried food, such as Hokkien prawn Noodles, carrot cake and oyster.  the taste is heavy for the fried hokkien prawn mee. good to eat when you are near the coffee shop which near the existing of Tampines West station.",
+      "time": 1726966612,
+      "translated": false
+    },
+    {
+      "author_name": "Desmond Ho",
+      "author_url": "https://www.google.com/maps/contrib/110109942140832232367/reviews",
+      "language": "en-US",
+      "original_language": "nl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbwXSuXYI6u4EJdyWP9jR6_37AUXCyCEfwNJTdnMnaoEo3XilF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "$5.50 from good hokkien mee",
+      "time": 1726901666,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10207965430401137573",
+  "user_ratings_total": 2,
+  "vicinity": "802 Tampines Avenue 4, #01-07, Singapore"
+}

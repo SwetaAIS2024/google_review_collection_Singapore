@@ -1,0 +1,42 @@
+{
+  "formatted_address": "3 Ang Mo Kio Street 62, Singapore 569139",
+  "geometry": {
+    "location": {
+      "lat": 1.3858946,
+      "lng": 103.8454928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.387298280291502,
+        "lng": 103.8469286802915
+      },
+      "southwest": {
+        "lat": 1.384600319708498,
+        "lng": 103.8442307197085
+      }
+    }
+  },
+  "name": "Thinkkidz Childcare",
+  "place_id": "ChIJx0-nyL4X2jERX1OWbPXMhMg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Madhan Selvam",
+      "author_url": "https://www.google.com/maps/contrib/117597736931105603900/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSZ-ljk0Y59i1x_knJFhynN71WuijdDJpfrlN0A9XzinVA2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1665743667,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14448898858972238687",
+  "user_ratings_total": 1,
+  "vicinity": "3 Ang Mo Kio Street 62, Singapore"
+}

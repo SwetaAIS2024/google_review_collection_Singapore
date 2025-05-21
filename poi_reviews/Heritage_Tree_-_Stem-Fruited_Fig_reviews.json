@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Canterbury Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2832764,
+      "lng": 103.7953316
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284740980291502,
+        "lng": 103.7970229802915
+      },
+      "southwest": {
+        "lat": 1.282043019708498,
+        "lng": 103.7943250197085
+      }
+    }
+  },
+  "name": "Heritage Tree - Stem-Fruited Fig",
+  "place_id": "ChIJi1jG8R4b2jER1rMsegpn3Kg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gabriellius Le",
+      "author_url": "https://www.google.com/maps/contrib/116576851611807790661/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWyRpVJTAq--xrso9LGHodgz_exHXJkpAmUcsxi8qXq0RBBcer=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "There is a huge shadow of young leaves and yellow falling ones under the tree and its root!",
+      "time": 1714282700,
+      "translated": false
+    },
+    {
+      "author_name": "Marlene Lee",
+      "author_url": "https://www.google.com/maps/contrib/111488905286087650300/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTtN3p1GwFCxxf-Sg_PCh4sVDzbYPV5Tlf9K0qehUjWQHLfyY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice greenery. A super tall heritage tree right at my sight. I’m in awe!",
+      "time": 1655598388,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12167713587945321430",
+  "user_ratings_total": 2,
+  "vicinity": "Canterbury Road"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Holland Grove Dr, Dover MRT, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3113849,
+      "lng": 103.7786069
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.312692780291502,
+        "lng": 103.7798047802915
+      },
+      "southwest": {
+        "lat": 1.309994819708498,
+        "lng": 103.7771068197085
+      }
+    }
+  },
+  "name": "Dover MRT to Holland Grove",
+  "place_id": "ChIJdZwvRgAb2jERFKzoFsLkuOU",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16553231952659393556",
+  "vicinity": "Holland Grove Drive, Dover MRT"
+}

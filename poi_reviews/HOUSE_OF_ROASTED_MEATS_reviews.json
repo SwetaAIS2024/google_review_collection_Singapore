@@ -1,0 +1,43 @@
+{
+  "formatted_address": "631 Bedok Reservoir Rd, #01-886 EUNOS GROVE, Singapore 470631",
+  "geometry": {
+    "location": {
+      "lat": 1.333561,
+      "lng": 103.9150354
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335025780291502,
+        "lng": 103.9161969302915
+      },
+      "southwest": {
+        "lat": 1.332327819708498,
+        "lng": 103.9134989697085
+      }
+    }
+  },
+  "name": "HOUSE OF ROASTED MEATS",
+  "place_id": "ChIJZy7wb_A92jERdM_hRdKbOKQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Bob Swee",
+      "author_url": "https://www.google.com/maps/contrib/117766681709515298166/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6vp_IntwbqSBwK5fb_J0F5wz2sFZlLKKY2YoreXk__fCYMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "",
+      "time": 1746677854,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11833379348333842292",
+  "user_ratings_total": 1,
+  "vicinity": "631 Bedok Reservoir Road, #01-886 EUNOS GROVE, Singapore"
+}

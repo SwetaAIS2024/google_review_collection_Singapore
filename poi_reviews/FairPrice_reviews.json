@@ -1,0 +1,31 @@
+{
+  "formatted_address": "8 Dairy Farm Ln, Singapore 677624",
+  "geometry": {
+    "location": {
+      "lat": 1.3668138,
+      "lng": 103.774261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368162380291502,
+        "lng": 103.7755256802915
+      },
+      "southwest": {
+        "lat": 1.365464419708498,
+        "lng": 103.7728277197085
+      }
+    }
+  },
+  "name": "FairPrice",
+  "place_id": "ChIJsRkNYqoR2jERS7YBmXDxw7A",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12737289637039552075",
+  "vicinity": "8 Dairy Farm Lane"
+}

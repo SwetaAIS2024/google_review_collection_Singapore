@@ -1,0 +1,28 @@
+{
+  "formatted_address": "5 Engineering Drive 1, Singapore 117608",
+  "geometry": {
+    "location": {
+      "lat": 1.2995034,
+      "lng": 103.7730365
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300780330291502,
+        "lng": 103.7742177302915
+      },
+      "southwest": {
+        "lat": 1.298082369708498,
+        "lng": 103.7715197697085
+      }
+    }
+  },
+  "name": "SHINE",
+  "place_id": "ChIJvxLuhPca2jERwQv74tWpbgM",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=247321765653187521",
+  "vicinity": "5 Engineering Drive 1"
+}

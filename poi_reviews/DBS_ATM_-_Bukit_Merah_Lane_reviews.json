@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Bukit Merah Lane 1, #01-78 Blk 123, Singapore 150123",
+  "geometry": {
+    "location": {
+      "lat": 1.2869943,
+      "lng": 103.8042623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.288082230291502,
+        "lng": 103.8053217802915
+      },
+      "southwest": {
+        "lat": 1.285384269708498,
+        "lng": 103.8026238197085
+      }
+    }
+  },
+  "name": "DBS ATM - Bukit Merah Lane",
+  "place_id": "ChIJPaJVLfwb2jERqAuLvb2HVBQ",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1464945027800828840",
+  "vicinity": "Bukit Merah Lane 1, #01-78 Blk 123"
+}

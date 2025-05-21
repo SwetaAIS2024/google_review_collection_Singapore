@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.374619,
+      "lng": 103.719841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375949680291502,
+        "lng": 103.7211898302915
+      },
+      "southwest": {
+        "lat": 1.373251719708498,
+        "lng": 103.7184918697085
+      }
+    }
+  },
+  "name": "Opp Army Logistics Base",
+  "place_id": "ChIJFd3meyUO2jERPMmH0cE_T7I",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "mordan life",
+      "author_url": "https://www.google.com/maps/contrib/114870017907264788179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN15BZbTon39qDBFioXRVKxbv3Vih2R5uOx5QXtIwpgBVtcFg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Very good",
+      "time": 1587918184,
+      "translated": false
+    },
+    {
+      "author_name": "সেলিম মাহমুদ",
+      "author_url": "https://www.google.com/maps/contrib/108899302618506653664/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCN4J5XXfb4-2a-jItbGoqM8RduXqUFv-U8ScIVRCaKxa-rDUQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1652592692,
+      "translated": false
+    },
+    {
+      "author_name": "khan by By",
+      "author_url": "https://www.google.com/maps/contrib/101111005529616302405/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsRWKJX_XkXPJuRo5KUNQ9MM7lZPg6_ZOx3K_D5JnXdEoaiaXaHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1486793234,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12848558363587889468",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

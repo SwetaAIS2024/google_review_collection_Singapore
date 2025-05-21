@@ -1,0 +1,29 @@
+{
+  "formatted_address": "38 Beach Rd, #32-11 South Beach Tower, Singapore 189767",
+  "geometry": {
+    "location": {
+      "lat": 1.2956544,
+      "lng": 103.8564952
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297080230291502,
+        "lng": 103.8578935802915
+      },
+      "southwest": {
+        "lat": 1.294382269708498,
+        "lng": 103.8551956197085
+      }
+    }
+  },
+  "name": "Intesa Sanpaolo SpA",
+  "place_id": "ChIJPxC03a4Z2jERzFi7wWwhQa4",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12556353987076118732",
+  "vicinity": "38 Beach Road, #32-11 South Beach Tower, Singapore"
+}

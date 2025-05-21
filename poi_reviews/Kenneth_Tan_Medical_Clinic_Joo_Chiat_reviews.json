@@ -1,0 +1,29 @@
+{
+  "formatted_address": "172 Joo Chiat Rd, Singapore 427443",
+  "geometry": {
+    "location": {
+      "lat": 1.3127283,
+      "lng": 103.8998317
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314132330291502,
+        "lng": 103.9012577802915
+      },
+      "southwest": {
+        "lat": 1.311434369708498,
+        "lng": 103.8985598197085
+      }
+    }
+  },
+  "name": "Kenneth Tan Medical Clinic (Joo Chiat)",
+  "place_id": "ChIJMwjr1ZUZ2jERjlgym0OZM_Y",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17740691872788142222",
+  "vicinity": "172 Joo Chiat Road"
+}

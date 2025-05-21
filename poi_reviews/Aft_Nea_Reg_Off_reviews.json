@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.360924,
+      "lng": 103.838501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362278530291502,
+        "lng": 103.8398368802915
+      },
+      "southwest": {
+        "lat": 1.359580569708498,
+        "lng": 103.8371389197085
+      }
+    }
+  },
+  "name": "Aft Nea Reg Off",
+  "place_id": "ChIJ769ZziYX2jERm7jMayupeWk",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "RAYNER CHEN",
+      "author_url": "https://www.google.com/maps/contrib/109914015056638774884/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6x9OZ-er-2Dp_8SpaPIRVQk0Vb3HYFYzAsH1csIQ0EKOLldM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "8 years ago",
+      "text": "The bus stop doesn't allowed wheelchairs to use ramp to hop on or drop off",
+      "time": 1490056252,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7600291850121689243",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "302 Jln. Ahmad Ibrahim, Singapore 619594",
+  "geometry": {
+    "location": {
+      "lat": 1.3250567,
+      "lng": 103.7247092
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326434480291502,
+        "lng": 103.7260511802915
+      },
+      "southwest": {
+        "lat": 1.323736519708498,
+        "lng": 103.7233532197085
+      }
+    }
+  },
+  "name": "DBS ATM - ExxonMobil Jalan Ahmad Ibrahim",
+  "place_id": "ChIJedC8_zYF2jERdb5f-5-QUj8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "momo my",
+      "author_url": "https://www.google.com/maps/contrib/108569659989892866063/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwuJscpn8NdtQD9ANWF2Z3_-BgBsF6M5Eo3nd0OnWabrOeGw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Very friendly cashier 3 counters and there's a minimart which I forgot the name if I am not wrong it is \"Cheers\" or \"NTUC XTRA\" can buy polar puffs here too",
+      "time": 1642530206,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4562868389271289461",
+  "user_ratings_total": 1,
+  "vicinity": "302 Jalan Ahmad Ibrahim"
+}

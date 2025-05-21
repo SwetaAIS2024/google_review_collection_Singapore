@@ -1,0 +1,29 @@
+{
+  "formatted_address": "81 Telok Blangah Rd Harbourfront Mrt Stn, Singapore 098867",
+  "geometry": {
+    "location": {
+      "lat": 1.2651686,
+      "lng": 103.8218281
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266684180291502,
+        "lng": 103.8231855302915
+      },
+      "southwest": {
+        "lat": 1.263986219708498,
+        "lng": 103.8204875697085
+      }
+    }
+  },
+  "name": "DBS ATM - Harbourfront Mrt Stn",
+  "place_id": "ChIJ5ZIZXjIb2jERvnv09Z73dys",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3132244327962803134",
+  "vicinity": "81 Telok Blangah Rd Harbourfront Mrt Stn"
+}

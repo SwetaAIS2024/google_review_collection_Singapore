@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Lor 8 Toa Payoh, #04-08 Blk 15, Singapore 319262",
+  "geometry": {
+    "location": {
+      "lat": 1.3401261,
+      "lng": 103.8579108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341427780291502,
+        "lng": 103.8592593802915
+      },
+      "southwest": {
+        "lat": 1.338729819708498,
+        "lng": 103.8565614197085
+      }
+    }
+  },
+  "name": "K W Upholstery & Furnishing",
+  "place_id": "ChIJ0dYminEX2jERmalcjYGMQpM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Yvonne",
+      "author_url": "https://www.google.com/maps/contrib/109129709608129257016/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwDNmiEx8UIjZD29RyUzyhE0zpZu08a0h0pjbhd2xN5ZAM6A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1607702325,
+      "translated": false
+    },
+    {
+      "author_name": "Vignesh",
+      "author_url": "https://www.google.com/maps/contrib/103905976427636417587/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6rkqLN_EY5hEQznRAyfeXTglid3b3xS0M9sXe1UFhX5B7Pw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532410070,
+      "translated": false
+    }
+  ],
+  "types": [
+    "furniture_store",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10611198160088639897",
+  "user_ratings_total": 2,
+  "vicinity": "Lorong 8 Toa Payoh, #04-08 Blk 15"
+}

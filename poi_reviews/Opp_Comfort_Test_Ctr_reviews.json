@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3365654,
+      "lng": 103.8947462
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337875880291502,
+        "lng": 103.8961324802915
+      },
+      "southwest": {
+        "lat": 1.335177919708498,
+        "lng": 103.8934345197085
+      }
+    }
+  },
+  "name": "Opp Comfort Test Ctr",
+  "place_id": "ChIJieCZme0X2jERRDU8yJVhFpY",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10814938851114235204",
+  "vicinity": "Singapore"
+}

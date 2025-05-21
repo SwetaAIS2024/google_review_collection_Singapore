@@ -1,0 +1,45 @@
+{
+  "formatted_address": "409 Ang Mo Kio Ave 10, #01-23, 409 Market & Food Centre, Singapore 560409",
+  "geometry": {
+    "location": {
+      "lat": 1.3627194,
+      "lng": 103.8554121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363875780291502,
+        "lng": 103.8566892802915
+      },
+      "southwest": {
+        "lat": 1.361177819708498,
+        "lng": 103.8539913197085
+      }
+    }
+  },
+  "name": "San Teck Coffee Stall",
+  "place_id": "ChIJpSUWRx0X2jERS-n4we_VPUk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Victor Ng",
+      "author_url": "https://www.google.com/maps/contrib/115343125507441223772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcqOK80-PeAlasZdZRu6VWPvo1x0vjbJzMGsEdA_v3s_1M4Q=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Robust coffee albeit abit too sweet.",
+      "time": 1740712073,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5277609564076304715",
+  "user_ratings_total": 1,
+  "vicinity": "409 Ang Mo Kio Avenue 10, #01-23, 409 Market & Food Centre"
+}

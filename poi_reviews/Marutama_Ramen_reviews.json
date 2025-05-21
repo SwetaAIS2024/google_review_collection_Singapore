@@ -1,0 +1,29 @@
+{
+  "formatted_address": "171 Kampong Ampat, Singapore 368330",
+  "geometry": {
+    "location": {
+      "lat": 1.3359084,
+      "lng": 103.882773
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337200030291502,
+        "lng": 103.8841926302915
+      },
+      "southwest": {
+        "lat": 1.334502069708498,
+        "lng": 103.8814946697085
+      }
+    }
+  },
+  "name": "Marutama Ramen",
+  "place_id": "ChIJAQBA1JEX2jERinzAWX2kfcY",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14302768849882217610",
+  "vicinity": "171 Kampong Ampat"
+}

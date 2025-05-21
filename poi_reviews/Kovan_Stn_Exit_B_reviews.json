@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3605478,
+      "lng": 103.8852388
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361832830291502,
+        "lng": 103.8866468302915
+      },
+      "southwest": {
+        "lat": 1.359134869708498,
+        "lng": 103.8839488697085
+      }
+    }
+  },
+  "name": "Kovan Stn Exit B",
+  "place_id": "ChIJf2USirMX2jERAQIbXbn6e5U",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Benjamin Alexi",
+      "author_url": "https://www.google.com/maps/contrib/105783973549705464816/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Gkfjsg30ktcTFwq3-BGBg9H2r_LR28V2a8Q5Q6PFxAb0Z7bT=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "08th MAY 2022 SUNDAY\n2010HRS\nBUS came , however once the golden opportunity is missed, the frequency of buses have to wait is probably longer than usual 10mins",
+      "time": 1652015844,
+      "translated": false
+    },
+    {
+      "author_name": "Tora Rave",
+      "author_url": "https://www.google.com/maps/contrib/108751894931098569189/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkYt8eKz_GWOEFisAvwkRYtJbHKNzKVydKbMdYKe9s4htqng=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1477996982,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10771478607824617985",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

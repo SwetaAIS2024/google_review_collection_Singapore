@@ -1,0 +1,29 @@
+{
+  "formatted_address": "205 Hougang St 21, Singapore 530205",
+  "geometry": {
+    "location": {
+      "lat": 1.3596018,
+      "lng": 103.8851737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360748780291502,
+        "lng": 103.8865576302915
+      },
+      "southwest": {
+        "lat": 1.358050819708498,
+        "lng": 103.8838596697085
+      }
+    }
+  },
+  "name": "Beau Aesthetics",
+  "place_id": "ChIJud-5-bMX2jERTFLr9QPuHkg",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5196852720810283596",
+  "vicinity": "205 Hougang Street 21, Singapore"
+}

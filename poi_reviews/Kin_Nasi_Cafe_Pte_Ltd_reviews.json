@@ -1,0 +1,45 @@
+{
+  "formatted_address": "705 Serangoon Rd, Block A, #01-08, Singapore 328127",
+  "geometry": {
+    "location": {
+      "lat": 1.3173275,
+      "lng": 103.8593328
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318621730291502,
+        "lng": 103.8607256802915
+      },
+      "southwest": {
+        "lat": 1.315923769708498,
+        "lng": 103.8580277197085
+      }
+    }
+  },
+  "name": "Kin Nasi Cafe Pte Ltd",
+  "place_id": "ChIJW2NUUvYZ2jERB3T-PtJ6CoE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kitty Hello",
+      "author_url": "https://www.google.com/maps/contrib/108252522171137420524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcnJV8W66YWQRohtW5IKXBlamIuI1-LePlqr_p5gySrolbzw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Total bill $10 :) Generally the taste of the food is good.",
+      "time": 1747109499,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9298379424078394375",
+  "user_ratings_total": 1,
+  "vicinity": "705 Serangoon Road, Block A, #01-08"
+}

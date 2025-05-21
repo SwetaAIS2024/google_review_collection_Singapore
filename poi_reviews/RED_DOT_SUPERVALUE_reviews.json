@@ -1,0 +1,58 @@
+{
+  "formatted_address": "118 Rivervale Dr, #01-27, Singapore 540118",
+  "geometry": {
+    "location": {
+      "lat": 1.3855939,
+      "lng": 103.9019834
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.386904330291502,
+        "lng": 103.9034175302915
+      },
+      "southwest": {
+        "lat": 1.384206369708498,
+        "lng": 103.9007195697085
+      }
+    }
+  },
+  "name": "RED DOT SUPERVALUE",
+  "place_id": "ChIJIbEfxGYX2jERAg6Euu-MVIg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Esther K",
+      "author_url": "https://www.google.com/maps/contrib/117620932784332029283/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3L6jPQnLDCJ4bqi0XijPCKexI8ERDITbI6WVUYgqwlQ5tiznu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I love to go to this store. There is always things I can buy here :)",
+      "time": 1738804973,
+      "translated": false
+    },
+    {
+      "author_name": "Backyard Xplorer",
+      "author_url": "https://www.google.com/maps/contrib/102260626085916018032/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeAsxA0ZL92WBe1c9egfujwIiv91L1o5erLeWy9caKKn3I8Q5Y=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Convenience store at rivervale plaza . Some item no pricing else everything is neat and tidy. Latest store at this plaza",
+      "time": 1696167217,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9823631648456183298",
+  "user_ratings_total": 2,
+  "vicinity": "118 Rivervale Drive, #01-27"
+}

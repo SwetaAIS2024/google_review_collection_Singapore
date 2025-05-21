@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Blk 131 Jurong East Street 13 #04-255Singapore 600131, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.334589,
+      "lng": 103.740086
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335920780291502,
+        "lng": 103.7414252802915
+      },
+      "southwest": {
+        "lat": 1.333222819708498,
+        "lng": 103.7387273197085
+      }
+    }
+  },
+  "name": "Stalford Learning Centre",
+  "place_id": "ChIJn_KcewUQ2jERWUHTlp1QLbc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Heerah Ramaiyya",
+      "author_url": "https://www.google.com/maps/contrib/107771460217145547994/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8tiukvXPpnyL8E4hAlTOt8ADZkFzzRvegsBzzStyEiF9qjoTj=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515811067,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "secondary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13199294720663306585",
+  "user_ratings_total": 1,
+  "vicinity": "Blk 131 Jurong East Street 13 #04-255Singapore 600131"
+}

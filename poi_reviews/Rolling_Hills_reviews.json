@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Toa Payoh, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3398552,
+      "lng": 103.8753539
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341074130291502,
+        "lng": 103.8768682802915
+      },
+      "southwest": {
+        "lat": 1.338376169708498,
+        "lng": 103.8741703197085
+      }
+    }
+  },
+  "name": "Rolling Hills",
+  "place_id": "ChIJ78biQwAX2jERCTYd4HtCKcg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Next to the Adventure Playwoods is the Rolling Hills at Bidadari Park.\nWalk along the winding gravel-paved paths next to the many small mounds surroundings.\nThese picturesque mounds seem somewhere out of the ordinary.\nStunning photo spot. 💯",
+      "time": 1726900368,
+      "translated": false
+    },
+    {
+      "author_name": "Keng C Lai",
+      "author_url": "https://www.google.com/maps/contrib/100700263996350738786/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdA7kbzn9te2yvhJ8WBBSzm3k8Er4PJbm65MNPVMtk4QfUjCjs8Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "Looks big on picture in fact they are mounds.",
+      "time": 1735360370,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14423132381439145481",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

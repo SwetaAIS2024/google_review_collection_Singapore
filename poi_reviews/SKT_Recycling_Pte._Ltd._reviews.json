@@ -1,0 +1,41 @@
+{
+  "formatted_address": "22 Sungei Kadut Street 3, Singapore 729151",
+  "geometry": {
+    "location": {
+      "lat": 1.4162189,
+      "lng": 103.745379
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417596130291502,
+        "lng": 103.7467187802915
+      },
+      "southwest": {
+        "lat": 1.414898169708498,
+        "lng": 103.7440208197085
+      }
+    }
+  },
+  "name": "SKT Recycling Pte. Ltd.",
+  "place_id": "ChIJYeCAWBES2jER7yWkS_seGZM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Adrian Ling",
+      "author_url": "https://www.google.com/maps/contrib/101390856281066008714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnBEEFtpHBLg61COT4JpL38ea0IL1tQJw3k3lafVB9D9bMtg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558648810,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10599537262647846383",
+  "user_ratings_total": 1,
+  "vicinity": "22 Sungei Kadut Street 3"
+}

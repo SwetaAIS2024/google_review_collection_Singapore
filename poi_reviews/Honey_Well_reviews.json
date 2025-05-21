@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377968,
+      "lng": 103.974686
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379303630291502,
+        "lng": 103.9760096802915
+      },
+      "southwest": {
+        "lat": 1.376605669708498,
+        "lng": 103.9733117197085
+      }
+    }
+  },
+  "name": "Honey Well",
+  "place_id": "ChIJ96RKZUY82jERyFkNKp5Lpe0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17124176300828613064",
+  "vicinity": "Singapore"
+}

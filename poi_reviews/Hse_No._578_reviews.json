@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31804,
+      "lng": 103.787903
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319375980291502,
+        "lng": 103.7892716802915
+      },
+      "southwest": {
+        "lat": 1.316678019708498,
+        "lng": 103.7865737197085
+      }
+    }
+  },
+  "name": "Hse No. 578",
+  "place_id": "ChIJv1r3GXAa2jER51EW356AuGQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7257692219343524327",
+  "vicinity": "Singapore"
+}

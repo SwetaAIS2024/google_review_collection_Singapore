@@ -1,0 +1,28 @@
+{
+  "formatted_address": "1 Railway station, Singapore 599938",
+  "geometry": {
+    "location": {
+      "lat": 1.334316,
+      "lng": 103.781079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335652930291502,
+        "lng": 103.7822107802915
+      },
+      "southwest": {
+        "lat": 1.332954969708498,
+        "lng": 103.7795128197085
+      }
+    }
+  },
+  "name": "Greenway at Bukit Timah St",
+  "place_id": "ChIJxVGNJgAR2jERLTXWY9r_h2M",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7171982245053740333",
+  "vicinity": "1 Railway station"
+}

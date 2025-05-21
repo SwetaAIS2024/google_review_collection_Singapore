@@ -1,0 +1,74 @@
+{
+  "formatted_address": "4 Medical Drive, MD10, National University of Singapore, Singapore 117594",
+  "geometry": {
+    "location": {
+      "lat": 1.296522,
+      "lng": 103.781942
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.297914080291502,
+        "lng": 103.7833066302915
+      },
+      "southwest": {
+        "lat": 1.295216119708498,
+        "lng": 103.7806086697085
+      }
+    }
+  },
+  "name": "Department of Anatomy, NUS",
+  "place_id": "ChIJk4kk2FAa2jER_zcE_-Zi1U8",
+  "rating": 4.8,
+  "reviews": [
+    {
+      "author_name": "Din islam Raton",
+      "author_url": "https://www.google.com/maps/contrib/115265643168965631543/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7RkWTKp8D3FTJAdfyA8meaDxurTkW7qIApf5IZYEA8YEkBasdcQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good",
+      "time": 1632405797,
+      "translated": false
+    },
+    {
+      "author_name": "Hasan Mehdi",
+      "author_url": "https://www.google.com/maps/contrib/109758927728883916635/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRVpz2pGgnvqeFaIZKIgit0Cb9YHSR_WU_2N7TluURs_GzNM164w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1659063335,
+      "translated": false
+    },
+    {
+      "author_name": "Louis Ang",
+      "author_url": "https://www.google.com/maps/contrib/107171389327867991212/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjLbLnQyKTLY2qrQePPU-3yp1HzxAHlciJaWNqpHcrc1Z4a3mx=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1648258198,
+      "translated": false
+    },
+    {
+      "author_name": "Anasoori Sunil",
+      "author_url": "https://www.google.com/maps/contrib/109804232607966371037/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdZGrl1Mj6zbVJ9X-P5N6DBA15ZEP1v5On4aNT_amrSfE7lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1622362397,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5752612843296143359",
+  "user_ratings_total": 4,
+  "vicinity": "4 Medical Drive, MD10, National University of Singapore"
+}

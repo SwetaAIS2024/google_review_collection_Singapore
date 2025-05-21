@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Piccadilly Circus, Singapore 797641",
+  "geometry": {
+    "location": {
+      "lat": 1.4031573,
+      "lng": 103.8718043
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404528630291502,
+        "lng": 103.8730595302915
+      },
+      "southwest": {
+        "lat": 1.401830669708498,
+        "lng": 103.8703615697085
+      }
+    }
+  },
+  "name": "Jalan Kayu Node",
+  "place_id": "ChIJkb2Xo6YV2jER_Jf3zzUREJY",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10813161628136609788",
+  "vicinity": "3 Piccadilly Circus, Singapore"
+}

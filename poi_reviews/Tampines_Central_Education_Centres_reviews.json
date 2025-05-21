@@ -1,0 +1,28 @@
+{
+  "formatted_address": "713 Tampines Street 71, Block 713, Singapore 520713",
+  "geometry": {
+    "location": {
+      "lat": 1.3594981,
+      "lng": 103.9376971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360844830291502,
+        "lng": 103.9389847302915
+      },
+      "southwest": {
+        "lat": 1.358146869708498,
+        "lng": 103.9362867697085
+      }
+    }
+  },
+  "name": "Tampines Central Education Centres",
+  "place_id": "ChIJ_2UuTQs92jER1iHXt5vuD7U",
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13046908998087287254",
+  "vicinity": "713 Tampines Street 71, Block 713, Singapore"
+}

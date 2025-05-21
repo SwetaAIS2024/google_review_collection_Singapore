@@ -1,0 +1,29 @@
+{
+  "formatted_address": "371 Alexandra Rd, Singapore 159963",
+  "geometry": {
+    "location": {
+      "lat": 1.2847874,
+      "lng": 103.802372
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286204580291502,
+        "lng": 103.8035888302915
+      },
+      "southwest": {
+        "lat": 1.283506619708497,
+        "lng": 103.8008908697085
+      }
+    }
+  },
+  "name": "American International Assurance Company",
+  "place_id": "ChIJxbMg2csb2jERrPjWtNIAD2s",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7714385591686068396",
+  "vicinity": "371 Alexandra Road"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "941 Upper Serangoon Rd, Singapore 534709",
+  "geometry": {
+    "location": {
+      "lat": 1.3613679,
+      "lng": 103.8861498
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362667230291502,
+        "lng": 103.8875452802915
+      },
+      "southwest": {
+        "lat": 1.359969269708498,
+        "lng": 103.8848473197085
+      }
+    }
+  },
+  "name": "Tea-Rice Kitchen",
+  "place_id": "ChIJSaIXijwX2jERPkXzb-B6csI",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chea Hooi",
+      "author_url": "https://www.google.com/maps/contrib/106646073716672098546/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgiDq9DwLGor97ehGp1uokv9C5LyUEP35s33TLsZeWbIoH5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Like the food is delicious and cheap👍👍👍",
+      "time": 1573308827,
+      "translated": true
+    },
+    {
+      "author_name": "kid_ zoro",
+      "author_url": "https://www.google.com/maps/contrib/114355284763686476682/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpElCxTqu1g8NAPIoHf8p_1ZbenN1AAvLnTTVeRUeqruATRZNc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "There are many kinds of food",
+      "time": 1553864480,
+      "translated": true
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14011396495072511294",
+  "user_ratings_total": 2,
+  "vicinity": "941 Upper Serangoon Road"
+}

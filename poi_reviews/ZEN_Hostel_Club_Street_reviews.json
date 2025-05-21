@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Ann Siang Rd, Singapore 069716",
+  "geometry": {
+    "location": {
+      "lat": 1.2809,
+      "lng": 103.846
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282378180291502,
+        "lng": 103.8471958302915
+      },
+      "southwest": {
+        "lat": 1.279680219708498,
+        "lng": 103.8444978697085
+      }
+    }
+  },
+  "name": "ZEN Hostel Club Street",
+  "place_id": "ChIJF6IPQQ0Z2jERXHW8Xc9p60Y",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "B Cta",
+      "author_url": "https://www.google.com/maps/contrib/114143654847673770811/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKVU_bodW9KCbi0kG-ruvHwgJNkofTcmAyPi2zn6xpayUdWoKmnw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1533282605,
+      "translated": false
+    },
+    {
+      "author_name": "NARITHA THEPDACHA",
+      "author_url": "https://www.google.com/maps/contrib/101313675817659710328/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsJsSnuaYF3G0qttpA1nk2EemQZ2CaDM1e-vZ8d7r4kEQs8SML=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518515656,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5110294541533738332",
+  "user_ratings_total": 2,
+  "vicinity": "Ann Siang Road"
+}

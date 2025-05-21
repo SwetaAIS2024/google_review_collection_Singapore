@@ -1,0 +1,30 @@
+{
+  "formatted_address": "211 Henderson Rd, Singapore 159552",
+  "geometry": {
+    "location": {
+      "lat": 1.2820206,
+      "lng": 103.8195886
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283454480291502,
+        "lng": 103.8208327802915
+      },
+      "southwest": {
+        "lat": 1.280756519708498,
+        "lng": 103.8181348197085
+      }
+    }
+  },
+  "name": "Macroserve Pte Ltd",
+  "place_id": "ChIJKYoPudcb2jERqcHQSOZZW2I",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7087357284196598185",
+  "vicinity": "211 Henderson Road, Singapore"
+}

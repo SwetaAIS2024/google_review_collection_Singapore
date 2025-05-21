@@ -1,0 +1,29 @@
+{
+  "formatted_address": "771 Pasir Ris Street 71, #06-356, Singapore 510771",
+  "geometry": {
+    "location": {
+      "lat": 1.3755346,
+      "lng": 103.9364691
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.376918080291502,
+        "lng": 103.9378854802915
+      },
+      "southwest": {
+        "lat": 1.374220119708498,
+        "lng": 103.9351875197085
+      }
+    }
+  },
+  "name": "Chinese Traditional Medcine",
+  "place_id": "ChIJ7W0j2u092jERSvLTwFlY0gc",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=563610045885182538",
+  "vicinity": "771 Pasir Ris Street 71, #06-356"
+}

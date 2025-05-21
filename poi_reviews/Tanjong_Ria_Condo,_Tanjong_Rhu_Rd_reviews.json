@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29687,
+      "lng": 103.87579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298266330291502,
+        "lng": 103.8770914302915
+      },
+      "southwest": {
+        "lat": 1.295568369708498,
+        "lng": 103.8743934697085
+      }
+    }
+  },
+  "name": "Tanjong Ria Condo, Tanjong Rhu Rd",
+  "place_id": "ChIJ47x1uVEY2jERu9JQzoAYpDE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kunal Kundaje",
+      "author_url": "https://www.google.com/maps/contrib/111686912517409582058/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrIni7C32xPVQoqpL7VJjLgzZpH8PoT1GApb9GyO_pe3xmMw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727103795,
+      "translated": false
+    },
+    {
+      "author_name": "Pengcheng Yang",
+      "author_url": "https://www.google.com/maps/contrib/112295680931908228714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwp5IO0VRUlSNaLFdiWXM4CyJuKERNNxUxq2XYd979_PQOdHG1=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1695790608,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3577010945535300283",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

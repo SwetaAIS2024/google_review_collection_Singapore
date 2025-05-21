@@ -1,0 +1,81 @@
+{
+  "formatted_address": "Ayer Rajah Crescent, #01-07, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2972936,
+      "lng": 103.7861038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298558330291502,
+        "lng": 103.7874440302915
+      },
+      "southwest": {
+        "lat": 1.295860369708498,
+        "lng": 103.7847460697085
+      }
+    }
+  },
+  "name": "Kubova Cuisine",
+  "place_id": "ChIJJ2APvSgb2jERszSMCIUmaKY",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Ronald Luc",
+      "author_url": "https://www.google.com/maps/contrib/102226266850342929000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJiJ-jmSwrYgcitOkcE1DGPdjqNrLrZfeHrDn_1zR_j9_mlBoU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It's invite-only restaurant. It'll hit you with unexpected flavors and detailed explanation of history and physics of cooking it.",
+      "time": 1689486980,
+      "translated": false
+    },
+    {
+      "author_name": "Herman Thong",
+      "author_url": "https://www.google.com/maps/contrib/117267782322542767582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINCLi2nDCNOng930EGmFfaa1sJeZ-57mdbCWTQcGD3M99eK-A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "10/10 would come again",
+      "time": 1722226405,
+      "translated": false
+    },
+    {
+      "author_name": "Owen",
+      "author_url": "https://www.google.com/maps/contrib/108011611651271232461/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj1rFbEcLPdarTdBKnN-PjyPT_GYcCVBY3bHDodnzZ-sYJkkEb=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Pizza was amazing",
+      "time": 1693913974,
+      "translated": false
+    },
+    {
+      "author_name": "Mary Hanets",
+      "author_url": "https://www.google.com/maps/contrib/112761890527224101039/reviews",
+      "language": "en-US",
+      "original_language": "ru",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZ3FGDFDqg2jNthDy_n0Cd9qn2Q4dw7AGVHfoWDdGreoGDfg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "There is no restaurant. The link is to a culinary blog. Someone gets a taxi fare from Google maps",
+      "time": 1739102576,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11990876360689857715",
+  "user_ratings_total": 4,
+  "vicinity": "Ayer Rajah Crescent, #01-07"
+}

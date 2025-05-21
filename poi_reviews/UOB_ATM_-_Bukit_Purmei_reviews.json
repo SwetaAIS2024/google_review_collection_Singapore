@@ -1,0 +1,29 @@
+{
+  "formatted_address": "109 Bukit Purmei Rd, #01-K1, Singapore 090109",
+  "geometry": {
+    "location": {
+      "lat": 1.2739482,
+      "lng": 103.8252941
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275200430291502,
+        "lng": 103.8266351802915
+      },
+      "southwest": {
+        "lat": 1.272502469708498,
+        "lng": 103.8239372197085
+      }
+    }
+  },
+  "name": "UOB ATM - Bukit Purmei",
+  "place_id": "ChIJpTDRDAEZ2jERJLTUu1MPnm4",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7970825242800337956",
+  "vicinity": "109 Bukit Purmei Road, #01-K1"
+}

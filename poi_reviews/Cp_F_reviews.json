@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3008444,
+      "lng": 103.8771598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302159230291502,
+        "lng": 103.8785243302915
+      },
+      "southwest": {
+        "lat": 1.299461269708498,
+        "lng": 103.8758263697085
+      }
+    }
+  },
+  "name": "Cp F",
+  "place_id": "ChIJsZEgBE8Y2jERrfuOVcXgch4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2194063106631465901",
+  "vicinity": "Singapore"
+}

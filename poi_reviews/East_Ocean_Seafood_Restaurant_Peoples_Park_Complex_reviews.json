@@ -1,0 +1,45 @@
+{
+  "formatted_address": "1 Park Rd, People's Park Complex, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.284095,
+      "lng": 103.8425309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285308330291502,
+        "lng": 103.8440387302915
+      },
+      "southwest": {
+        "lat": 1.282610369708498,
+        "lng": 103.8413407697085
+      }
+    }
+  },
+  "name": "East Ocean Seafood Restaurant People's Park Complex",
+  "place_id": "ChIJ126ffHMZ2jERqD1oXi1yu94",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "DAMIENCKC",
+      "author_url": "https://www.google.com/maps/contrib/107052059235455805763/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw9_ZQzPAHxxeuatXUycgjXLfU5nvEwuij7TU2vz9FuNb6gO1L=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Gd",
+      "time": 1485366795,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16049547236247879080",
+  "user_ratings_total": 1,
+  "vicinity": "1 Park Road, People's Park Complex"
+}

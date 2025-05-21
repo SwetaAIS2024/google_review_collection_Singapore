@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Ulu Pandan Park Connector, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3229983,
+      "lng": 103.7672382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324753880291502,
+        "lng": 103.7686622802915
+      },
+      "southwest": {
+        "lat": 1.322055919708498,
+        "lng": 103.7659643197085
+      }
+    }
+  },
+  "name": "Bypass (Ulu Pandan PC - Sunset Way)",
+  "place_id": "ChIJrZ0BJnMb2jERcsejk01saUg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Javier",
+      "author_url": "https://www.google.com/maps/contrib/113399148418834468019/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxdhnZB9KA3wkHg1-wLEiTRfv_Wf7lerg32KwNzR9PCVikU__R=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1711081677,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5217820723730696050",
+  "user_ratings_total": 1,
+  "vicinity": "Ulu Pandan Park Connector"
+}

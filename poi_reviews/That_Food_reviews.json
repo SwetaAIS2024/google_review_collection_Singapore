@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Ang Mo Kio, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3654903,
+      "lng": 103.8531437
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366819530291502,
+        "lng": 103.8545398802915
+      },
+      "southwest": {
+        "lat": 1.364121569708498,
+        "lng": 103.8518419197085
+      }
+    }
+  },
+  "name": "That Food",
+  "place_id": "ChIJZxYybAAX2jEREhaleZMikIg",
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9840403202600932882",
+  "vicinity": ""
+}

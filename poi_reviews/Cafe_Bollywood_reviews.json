@@ -1,0 +1,89 @@
+{
+  "formatted_address": "67 a Bussorah St, Singapore 199480",
+  "geometry": {
+    "location": {
+      "lat": 1.3008267,
+      "lng": 103.8600718
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302193680291502,
+        "lng": 103.8614450802915
+      },
+      "southwest": {
+        "lat": 1.299495719708498,
+        "lng": 103.8587471197085
+      }
+    }
+  },
+  "name": "Cafe Bollywood",
+  "place_id": "ChIJB-FiCLEZ2jERLH0sCZPc8AY",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Rahul Chauhan",
+      "author_url": "https://www.google.com/maps/contrib/102624422667293329458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2S-DPsFVcpCvuMGqJVJcY-N2qUylAwFBSAMVjXET02zgZRQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "The google location is incorrect. It takes you to some Lebanese restaurant on Arab St.",
+      "time": 1691313866,
+      "translated": false
+    },
+    {
+      "author_name": "Mansi Jain",
+      "author_url": "https://www.google.com/maps/contrib/114623556091966337637/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKC3LeziK11x4Az8Cr_kCf9MDuZ7rKG5yPddeqN61MsD9Lcs9HM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "Tastes amazing",
+      "time": 1563643950,
+      "translated": false
+    },
+    {
+      "author_name": "Shalabh Verma",
+      "author_url": "https://www.google.com/maps/contrib/113136485131517723937/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcHnv_klb6piWkwb3M_EkYhuQVZYtYCCNFTIxZCHA1fLnynnXu=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1524985523,
+      "translated": false
+    },
+    {
+      "author_name": "Shalini Gupta",
+      "author_url": "https://www.google.com/maps/contrib/110639736723917552415/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHkTcl_Juo-IgYmLok_yXrid0v8CXGcLCQD2_AEJgCpE-17bdy=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1522770523,
+      "translated": false
+    },
+    {
+      "author_name": "Manasi bhargav",
+      "author_url": "https://www.google.com/maps/contrib/103237334218272809785/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaNl4fhFqxZRihMA1rcKxADjxj71ZUxEM26pSNasHK02kEUNtr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1518761756,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=500142082710338860",
+  "user_ratings_total": 8,
+  "vicinity": "67 a Bussorah Street"
+}

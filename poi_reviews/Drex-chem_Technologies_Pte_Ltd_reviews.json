@@ -1,0 +1,64 @@
+{
+  "formatted_address": "1 Tuas Ave 16, Singapore 638924",
+  "geometry": {
+    "location": {
+      "lat": 1.3200896,
+      "lng": 103.6418528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321424380291502,
+        "lng": 103.6432169302915
+      },
+      "southwest": {
+        "lat": 1.318726419708498,
+        "lng": 103.6405189697085
+      }
+    }
+  },
+  "name": "Drex-chem Technologies Pte Ltd",
+  "place_id": "ChIJe-Xmb_sF2jERKhkUVKhSDWI",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Sk Raja",
+      "author_url": "https://www.google.com/maps/contrib/107349339687842574847/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVILULzIkatD4dVXUdblnt4LP5UHeRD76qAhCOnms1CbkC_Br4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702371271,
+      "translated": false
+    },
+    {
+      "author_name": "Vivian Yee",
+      "author_url": "https://www.google.com/maps/contrib/116159930241722713505/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxJ7hnONmtw_FTPzeKCbJsyF7Bw3swW09Qct9xhgFAIFuDOQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1548171889,
+      "translated": false
+    },
+    {
+      "author_name": "Premkumar Sukumaran",
+      "author_url": "https://www.google.com/maps/contrib/115875610097541214632/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMoaUwPjNCwwblGYIZlNFkAjIhxkFjKfFw7BEc4d9Q_MP3PVc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1531723748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "health",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7065394273332762922",
+  "user_ratings_total": 3,
+  "vicinity": "1 Tuas Avenue 16"
+}

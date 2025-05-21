@@ -1,0 +1,55 @@
+{
+  "formatted_address": "57A New Upper Changi Rd, #01-1384, Singapore 462057",
+  "geometry": {
+    "location": {
+      "lat": 1.323705,
+      "lng": 103.941309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324922380291502,
+        "lng": 103.9426798302915
+      },
+      "southwest": {
+        "lat": 1.322224419708498,
+        "lng": 103.9399818697085
+      }
+    }
+  },
+  "name": "SL Jewellery",
+  "place_id": "ChIJIaM4pssi2jER4AR6zGP3dXQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Candy Pham",
+      "author_url": "https://www.google.com/maps/contrib/101631736981178192387/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfKuc-CvUiNK4nk2uft_AY68Zq4GxASIxNaaXtd4037fltQQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Good service - Good Quality - Good price",
+      "time": 1717363306,
+      "translated": false
+    },
+    {
+      "author_name": "Candy Lim",
+      "author_url": "https://www.google.com/maps/contrib/109129910624463396549/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE3R_usNEhkmYPTzmuQU_A9-BDo2z_0Ejzw-eTRhGSAmy0jg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704616345,
+      "translated": false
+    }
+  ],
+  "types": [
+    "jewelry_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8391885488679159008",
+  "user_ratings_total": 2,
+  "vicinity": "57A New Upper Changi Road, #01-1384, Singapore"
+}

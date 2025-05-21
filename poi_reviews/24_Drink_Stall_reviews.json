@@ -1,0 +1,66 @@
+{
+  "formatted_address": "448 Clementi Ave 3, #01-07, Singapore 120448",
+  "geometry": {
+    "location": {
+      "lat": 1.3133068,
+      "lng": 103.76449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314732680291502,
+        "lng": 103.7656640802915
+      },
+      "southwest": {
+        "lat": 1.312034719708498,
+        "lng": 103.7629661197085
+      }
+    }
+  },
+  "name": "24 Drink Stall",
+  "place_id": "ChIJdb6r-DIb2jERog62gYfXVww",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sebastian Tng",
+      "author_url": "https://www.google.com/maps/contrib/105953305744594940229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ50eNzsm8oXQDgS9NmZz9J4gBBQwai3yxKmFhQx5O9Ub2D=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Friendly service",
+      "time": 1743842017,
+      "translated": false
+    },
+    {
+      "author_name": "Florentina Marwisitaningrum",
+      "author_url": "https://www.google.com/maps/contrib/118198773149397581864/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhyppwWSYd9bSVc4_4cXx-rxgB7t0IEjh7hDmGc2IeWqXrxw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1745037482,
+      "translated": false
+    },
+    {
+      "author_name": "YW",
+      "author_url": "https://www.google.com/maps/contrib/115789549350974720527/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7VYwLwkmK0JJxv85UkU7UkvkjYtbwW6xdmqa6nxo9o_lSQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1653700921,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=889416428425711266",
+  "user_ratings_total": 3,
+  "vicinity": "448 Clementi Avenue 3, #01-07"
+}

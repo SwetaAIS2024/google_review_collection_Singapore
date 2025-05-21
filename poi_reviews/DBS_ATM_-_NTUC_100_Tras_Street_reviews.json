@@ -1,0 +1,29 @@
+{
+  "formatted_address": "100 Tras St, #B1-01 100, AM1 079027",
+  "geometry": {
+    "location": {
+      "lat": 1.27493,
+      "lng": 103.84355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.276223880291502,
+        "lng": 103.8447820302915
+      },
+      "southwest": {
+        "lat": 1.273525919708498,
+        "lng": 103.8420840697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC 100 Tras Street",
+  "place_id": "ChIJTXHs_HsZ2jERnIghmpV5yQk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=705228500103170204",
+  "vicinity": "100 Tras Street, #B1-01 100, AM1"
+}

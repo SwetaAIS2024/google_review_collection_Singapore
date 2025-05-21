@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.333791,
+      "lng": 103.643639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335101980291502,
+        "lng": 103.6449526802915
+      },
+      "southwest": {
+        "lat": 1.332404019708498,
+        "lng": 103.6422547197085
+      }
+    }
+  },
+  "name": "Kee Wee Hup Kee",
+  "place_id": "ChIJyVbrFFEP2jER7A07WqYiCUQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4902487767243230700",
+  "vicinity": "Singapore"
+}

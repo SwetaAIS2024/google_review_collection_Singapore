@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Kallang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3039225,
+      "lng": 103.8679057
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305014180291502,
+        "lng": 103.8688611302915
+      },
+      "southwest": {
+        "lat": 1.302316219708498,
+        "lng": 103.8661631697085
+      }
+    }
+  },
+  "name": "Underpass @ Merdeka Bridge",
+  "place_id": "ChIJG7PsBgAZ2jERXgOpLo1B0Fc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The Underpass under the Merdeka Bridge allow for an uninterrupted travel between Marina Promenade and Kallang Riverside Park, as it do away with the cumbersome need to cross Nicoll Highway to the other side.",
+      "time": 1714123079,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6327629551084569438",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

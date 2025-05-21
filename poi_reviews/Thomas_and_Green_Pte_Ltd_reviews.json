@@ -1,0 +1,30 @@
+{
+  "formatted_address": "190 Middle Road, #12-10, Fortune Centre, 188979, Singapore 188979",
+  "geometry": {
+    "location": {
+      "lat": 1.3005243,
+      "lng": 103.8521508
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301962830291502,
+        "lng": 103.8535731802915
+      },
+      "southwest": {
+        "lat": 1.299264869708498,
+        "lng": 103.8508752197085
+      }
+    }
+  },
+  "name": "Thomas & Green Pte Ltd",
+  "place_id": "ChIJiZHpDLsZ2jERdkJPCKJZk60",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12507439142596985462",
+  "vicinity": "190 Middle Road, #12-10, Fortune Centre, 188979"
+}

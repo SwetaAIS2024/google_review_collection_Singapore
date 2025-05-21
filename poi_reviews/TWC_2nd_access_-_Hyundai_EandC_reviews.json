@@ -1,0 +1,65 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.319591,
+      "lng": 103.6276626
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321314180291502,
+        "lng": 103.6291591302915
+      },
+      "southwest": {
+        "lat": 1.318616219708498,
+        "lng": 103.6264611697085
+      }
+    }
+  },
+  "name": "TWC 2nd access - Hyundai E&C",
+  "place_id": "ChIJGfOMCH0H2jER_58qKUElSEM",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Louie M",
+      "author_url": "https://www.google.com/maps/contrib/113363922024806184999/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqiQ_VXpzfkD9D9hFBzSoPxXKM7OxwB2Vo84jKsfTfXDer_J7gAA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good job, Hyundai",
+      "time": 1652074039,
+      "translated": false
+    },
+    {
+      "author_name": "Muhamad Rozman",
+      "author_url": "https://www.google.com/maps/contrib/114378277221690903383/reviews",
+      "language": "en-US",
+      "original_language": "ms",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLorA73HpCQdjZ4OFRHZY9DZyTD5v5VWD10gmN7MguWl19tlw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 years ago",
+      "text": "Guaed is like shit",
+      "time": 1619917174,
+      "translated": true
+    },
+    {
+      "author_name": "guhan jamin",
+      "author_url": "https://www.google.com/maps/contrib/109011547160337400832/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9-1LWVz-dN-PqnpMXE9vv_V1p3nB7psF5oKERfmfccRIHTrWvpg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1706749922,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4848165960658100223",
+  "user_ratings_total": 3,
+  "vicinity": ""
+}

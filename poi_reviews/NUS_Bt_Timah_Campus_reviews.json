@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3223488,
+      "lng": 103.8189174
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323748530291502,
+        "lng": 103.8202767802915
+      },
+      "southwest": {
+        "lat": 1.321050569708498,
+        "lng": 103.8175788197085
+      }
+    }
+  },
+  "name": "NUS Bt Timah Campus",
+  "place_id": "ChIJgxDLgwEa2jERbchoPlmzyis",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3155531684806969453",
+  "vicinity": "Singapore"
+}

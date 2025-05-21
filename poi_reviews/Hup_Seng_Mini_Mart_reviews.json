@@ -1,0 +1,30 @@
+{
+  "formatted_address": "HDB Bedok #01-3089, 742 Bedok Reservoir Road (S)470742, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3379303,
+      "lng": 103.9218405
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339295330291502,
+        "lng": 103.9231582302915
+      },
+      "southwest": {
+        "lat": 1.336597369708498,
+        "lng": 103.9204602697085
+      }
+    }
+  },
+  "name": "Hup Seng Mini Mart",
+  "place_id": "ChIJlc79tFs92jERoygHXzCyAYY",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9656194996881533091",
+  "vicinity": "HDB Bedok #01-3089, 742 Bedok Reservoir Road (S)470742"
+}

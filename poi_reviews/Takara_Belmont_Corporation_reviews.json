@@ -1,0 +1,30 @@
+{
+  "formatted_address": "36 Newton Rd, Singapore 307964",
+  "geometry": {
+    "location": {
+      "lat": 1.316825,
+      "lng": 103.8419119
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318063730291502,
+        "lng": 103.8432735302915
+      },
+      "southwest": {
+        "lat": 1.315365769708498,
+        "lng": 103.8405755697085
+      }
+    }
+  },
+  "name": "Takara Belmont Corporation",
+  "place_id": "ChIJKe5fh-gZ2jER0ArWSCjqdAA",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=32908556040014544",
+  "vicinity": "36 Newton Road"
+}

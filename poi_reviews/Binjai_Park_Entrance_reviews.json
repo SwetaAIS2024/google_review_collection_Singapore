@@ -1,0 +1,28 @@
+{
+  "formatted_address": "3 Binjai Park, Singapore 589819",
+  "geometry": {
+    "location": {
+      "lat": 1.3356107,
+      "lng": 103.7865636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336935980291502,
+        "lng": 103.7879514802915
+      },
+      "southwest": {
+        "lat": 1.334238019708498,
+        "lng": 103.7852535197085
+      }
+    }
+  },
+  "name": "Binjai Park Entrance",
+  "place_id": "ChIJ7xf8RAAR2jERf6HmKyJZF_w",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18165085625322479999",
+  "vicinity": "3 Binjai Park, Singapore"
+}

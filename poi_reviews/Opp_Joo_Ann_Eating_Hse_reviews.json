@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3262794,
+      "lng": 103.6966975
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327627880291502,
+        "lng": 103.6979969802915
+      },
+      "southwest": {
+        "lat": 1.324929919708498,
+        "lng": 103.6952990197085
+      }
+    }
+  },
+  "name": "Opp Joo Ann Eating Hse",
+  "place_id": "ChIJpxi4jGIF2jERl2S3bapaRy4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3334733737122817175",
+  "vicinity": "Singapore"
+}

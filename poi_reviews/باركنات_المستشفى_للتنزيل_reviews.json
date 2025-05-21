@@ -1,0 +1,29 @@
+{
+  "formatted_address": "301 South Buona Vista Rd, Singapore 118177",
+  "geometry": {
+    "location": {
+      "lat": 1.2933881,
+      "lng": 103.7842699
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294884830291502,
+        "lng": 103.7857015302915
+      },
+      "southwest": {
+        "lat": 1.292186869708498,
+        "lng": 103.7830035697085
+      }
+    }
+  },
+  "name": "باركنات المستشفى للتنزيل",
+  "place_id": "ChIJ_Qyo0lMa2jERAUubdkxnEIk",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9876507560928561921",
+  "vicinity": "301 South Buona Vista Road"
+}

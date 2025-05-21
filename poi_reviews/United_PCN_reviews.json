@@ -1,0 +1,29 @@
+{
+  "formatted_address": "994 Bendemeer Rd, #06-09 B Central, Singapore 339943",
+  "geometry": {
+    "location": {
+      "lat": 1.3196178,
+      "lng": 103.865015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321015780291502,
+        "lng": 103.8662924302915
+      },
+      "southwest": {
+        "lat": 1.318317819708498,
+        "lng": 103.8635944697085
+      }
+    }
+  },
+  "name": "United PCN",
+  "place_id": "ChIJScii0kQZ2jERayi2-ChHW10",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6727048709704919147",
+  "vicinity": "994 Bendemeer Road, #06-09 B Central"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "32 Harbour Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2846071,
+      "lng": 103.7740931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286001680291502,
+        "lng": 103.7753656302915
+      },
+      "southwest": {
+        "lat": 1.283303719708498,
+        "lng": 103.7726676697085
+      }
+    }
+  },
+  "name": "Muslim Cooked Food",
+  "place_id": "ChIJKas7cAAb2jERi9GMyBJJOw4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1025493685179830667",
+  "vicinity": "32 Harbour Drive"
+}

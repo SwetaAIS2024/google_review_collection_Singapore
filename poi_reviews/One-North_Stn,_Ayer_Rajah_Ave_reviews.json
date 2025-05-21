@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29865,
+      "lng": 103.78734
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299984180291502,
+        "lng": 103.7886821802915
+      },
+      "southwest": {
+        "lat": 1.297286219708498,
+        "lng": 103.7859842197085
+      }
+    }
+  },
+  "name": "One-North Stn, Ayer Rajah Ave",
+  "place_id": "ChIJIQvl-E8a2jERyyZGg1PX0oE",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "pyre gw",
+      "author_url": "https://www.google.com/maps/contrib/113620688096394969539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWesD7xEmUs64HTHe5FghsPi4sibnpQV7cPn52EkbRTaK1SAKbG=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "Bus arrival display not working for long time. Not fixed for long time.",
+      "time": 1668472927,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9354776129686611659",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

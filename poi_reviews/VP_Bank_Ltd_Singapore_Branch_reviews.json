@@ -1,0 +1,29 @@
+{
+  "formatted_address": "128 Beach Rd, #13-01 Guoco Midtown, Singapore 189773",
+  "geometry": {
+    "location": {
+      "lat": 1.2975496,
+      "lng": 103.8576995
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299003080291502,
+        "lng": 103.8589493302915
+      },
+      "southwest": {
+        "lat": 1.296305119708498,
+        "lng": 103.8562513697085
+      }
+    }
+  },
+  "name": "VP Bank Ltd Singapore Branch",
+  "place_id": "ChIJORPMng4Z2jERWUoiC7YZbtU",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15379258047178361433",
+  "vicinity": "128 Beach Road, #13-01 Guoco Midtown"
+}

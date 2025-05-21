@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Parliament Place, Singapore 178880",
+  "geometry": {
+    "location": {
+      "lat": 1.3040835,
+      "lng": 103.8630671
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305481430291502,
+        "lng": 103.8645596302915
+      },
+      "southwest": {
+        "lat": 1.302783469708498,
+        "lng": 103.8618616697085
+      }
+    }
+  },
+  "name": "Koh Eng Huat",
+  "place_id": "ChIJ5xJRObQZ2jERHqsnb-CeLzo",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4192744464879954718",
+  "vicinity": "1 Parliament Place"
+}

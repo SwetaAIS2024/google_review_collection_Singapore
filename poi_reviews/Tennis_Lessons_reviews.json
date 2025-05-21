@@ -1,0 +1,29 @@
+{
+  "formatted_address": "21 Evans Rd, Singapore 259366",
+  "geometry": {
+    "location": {
+      "lat": 1.3183879,
+      "lng": 103.8194624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319686080291502,
+        "lng": 103.8209520302915
+      },
+      "southwest": {
+        "lat": 1.316988119708498,
+        "lng": 103.8182540697085
+      }
+    }
+  },
+  "name": "Tennis Lessons",
+  "place_id": "ChIJLffMwgIa2jER7w216ry9dN4",
+  "types": [
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16029645592807673327",
+  "vicinity": "21 Evans Road, Singapore"
+}

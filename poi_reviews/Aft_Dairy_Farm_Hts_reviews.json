@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3648935,
+      "lng": 103.7733617
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.366206330291502,
+        "lng": 103.7747134302915
+      },
+      "southwest": {
+        "lat": 1.363508369708498,
+        "lng": 103.7720154697085
+      }
+    }
+  },
+  "name": "Aft Dairy Farm Hts",
+  "place_id": "ChIJaQW50aoR2jERajD6sxYzOKM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "joon",
+      "author_url": "https://www.google.com/maps/contrib/100970843265121731793/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6ZevZXyjb3l6lyxSyqjcfE2NTEtAPMhAdkoL_-J1yfy41iA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Near gess",
+      "time": 1608012234,
+      "translated": false
+    },
+    {
+      "author_name": "CZC",
+      "author_url": "https://www.google.com/maps/contrib/114228349954221708385/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLgeV0ZnaS3lAx8MBBHwgu8vpsbwpFvUKvCY7hVRmxlNLW9g=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1613348056,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11761206599479865450",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

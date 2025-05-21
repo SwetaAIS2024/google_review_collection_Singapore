@@ -1,0 +1,44 @@
+{
+  "formatted_address": "183 Thomson Rd, Singapore 307628",
+  "geometry": {
+    "location": {
+      "lat": 1.3180199,
+      "lng": 103.8435905
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319301830291502,
+        "lng": 103.8451079302915
+      },
+      "southwest": {
+        "lat": 1.316603869708498,
+        "lng": 103.8424099697085
+      }
+    }
+  },
+  "name": "ISA",
+  "place_id": "ChIJqfsGlucZ2jER-XJbNTYOMos",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Anchita Agrawal",
+      "author_url": "https://www.google.com/maps/contrib/110008718413454764062/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDEwA3iQvpC8RCQJXgxOMC-sdQD_LLhpo04s3ZUkN20rB7od0=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "Very bad experience, care taker of the apartment(James) he is very rude, he doesn't know how to talk with the people. The rooms were clean. I'm giving one star only for James behaviour. If there was an option for giving negative stars I would like to give that also to him.",
+      "time": 1687246954,
+      "translated": false
+    }
+  ],
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10030094946093724409",
+  "user_ratings_total": 1,
+  "vicinity": "183 Thomson Road, Singapore"
+}

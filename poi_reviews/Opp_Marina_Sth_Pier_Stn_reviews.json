@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2716205,
+      "lng": 103.8630111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.272936880291502,
+        "lng": 103.8643833802915
+      },
+      "southwest": {
+        "lat": 1.270238919708498,
+        "lng": 103.8616854197085
+      }
+    }
+  },
+  "name": "Opp Marina Sth Pier Stn",
+  "place_id": "ChIJhwTLOR8Z2jER9Tyi2U-VvAk",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "HLA MOE",
+      "author_url": "https://www.google.com/maps/contrib/118083380521902444396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4XQIAvsA44t3Rp9ZvMKE4s2zJBW8KBWGfbEGKEXv1sgJjg_g=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Opposite Marina South Pier",
+      "time": 1536453648,
+      "translated": false
+    },
+    {
+      "author_name": "Md Pathan",
+      "author_url": "https://www.google.com/maps/contrib/112600739570001264808/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYk-a8e_tUSS1MIf0VSxv7kKrNO5EONBGBNaNlUfNwXFexyQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1523661900,
+      "translated": false
+    },
+    {
+      "author_name": "nightxmared",
+      "author_url": "https://www.google.com/maps/contrib/107660043982995241439/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJiF-5YH3_-BDqlsuSoFE6HZWd8LQi5ZDgZTLqrQ1xWPwsNkY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1512802878,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=701599812149198069",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

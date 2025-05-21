@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2843917,
+      "lng": 103.8653337
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.2853925,
+        "lng": 103.8666824802915
+      },
+      "southwest": {
+        "lat": 1.2815121,
+        "lng": 103.8639845197085
+      }
+    }
+  },
+  "name": "Succulent Garden",
+  "place_id": "ChIJB96sgQEZ2jER4jDIDp64ZAs",
+  "types": [
+    "park",
+    "subpremise",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?q=Singapore&ftid=0x31da190181acde07:0xb64b89e0ec830e2",
+  "vicinity": "Singapore"
+}

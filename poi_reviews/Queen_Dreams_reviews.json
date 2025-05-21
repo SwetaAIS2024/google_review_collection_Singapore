@@ -1,0 +1,30 @@
+{
+  "formatted_address": "356 Hougang Ave 7, #01-783, Singapore 530356",
+  "geometry": {
+    "location": {
+      "lat": 1.3724718,
+      "lng": 103.8986841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.373733230291502,
+        "lng": 103.9000765302915
+      },
+      "southwest": {
+        "lat": 1.371035269708498,
+        "lng": 103.8973785697085
+      }
+    }
+  },
+  "name": "Queen Dreams",
+  "place_id": "ChIJ9ZPkD7MX2jERhKGoCYRvjTE",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3570632692463083908",
+  "vicinity": "356 Hougang Avenue 7, #01-783, Singapore"
+}

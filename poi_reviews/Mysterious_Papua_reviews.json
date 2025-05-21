@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Central Water Catchment, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4057535,
+      "lng": 103.7816649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406974880291502,
+        "lng": 103.7832068302915
+      },
+      "southwest": {
+        "lat": 1.404276919708498,
+        "lng": 103.7805088697085
+      }
+    }
+  },
+  "name": "Mysterious Papua",
+  "place_id": "ChIJy9mKEgAT2jERul8fEVWf1o4",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "HANS XIA",
+      "author_url": "https://www.google.com/maps/contrib/109770799046370961256/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7gT44Z5abYdGHeroO0Jd_LQ0s8vx3XfHbHRu9UuTYd-7r0OYM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736693220,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10292589186110152634",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

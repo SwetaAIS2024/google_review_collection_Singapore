@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Green condo Street 4, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3415442,
+      "lng": 103.9580247
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342853980291502,
+        "lng": 103.9593789802915
+      },
+      "southwest": {
+        "lat": 1.340156019708498,
+        "lng": 103.9566810197085
+      }
+    }
+  },
+  "name": "Bidhya subba",
+  "place_id": "ChIJ1cIvJgA92jERULFz5nqGtjM",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3726313604106137936",
+  "vicinity": "Green condo Street 4"
+}

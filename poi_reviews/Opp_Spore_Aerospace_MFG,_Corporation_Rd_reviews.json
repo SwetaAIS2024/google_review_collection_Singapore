@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.34208,
+      "lng": 103.71601
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343432430291502,
+        "lng": 103.7173363302915
+      },
+      "southwest": {
+        "lat": 1.340734469708498,
+        "lng": 103.7146383697085
+      }
+    }
+  },
+  "name": "Opp S'pore Aerospace MFG, Corporation Rd",
+  "place_id": "ChIJIyb3uOgP2jERPGKj4u-R5qI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11738229938273346108",
+  "vicinity": "Singapore"
+}

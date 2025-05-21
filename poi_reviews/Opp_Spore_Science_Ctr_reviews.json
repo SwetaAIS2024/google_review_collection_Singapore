@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3342018,
+      "lng": 103.7370216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335511230291502,
+        "lng": 103.7383231302915
+      },
+      "southwest": {
+        "lat": 1.332813269708498,
+        "lng": 103.7356251697085
+      }
+    }
+  },
+  "name": "Opp S'pore Science Ctr",
+  "place_id": "ChIJsV3cVwQQ2jERYuD3hG3G6Ck",
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3019881723836489826",
+  "vicinity": "Singapore"
+}

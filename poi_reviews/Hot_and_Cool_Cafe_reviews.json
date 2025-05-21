@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 Bedok Rd, #01-21, Bedok Food Centre, Singapore 469572",
+  "geometry": {
+    "location": {
+      "lat": 1.3203272,
+      "lng": 103.9553335
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321835980291502,
+        "lng": 103.9567636302915
+      },
+      "southwest": {
+        "lat": 1.319138019708498,
+        "lng": 103.9540656697085
+      }
+    }
+  },
+  "name": "Hot & Cool Cafe",
+  "place_id": "ChIJHdcFtNYi2jERwRHc_1FRhL0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13656129382720999873",
+  "vicinity": "1 Bedok Rd, #01-21, Bedok Food Centre, Singapore"
+}

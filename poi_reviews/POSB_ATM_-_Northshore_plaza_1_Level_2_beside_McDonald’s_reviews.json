@@ -1,0 +1,43 @@
+{
+  "formatted_address": "407 Northshore Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4170786,
+      "lng": 103.9017235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.418502380291502,
+        "lng": 103.9030063302915
+      },
+      "southwest": {
+        "lat": 1.415804419708498,
+        "lng": 103.9003083697085
+      }
+    }
+  },
+  "name": "POSB ATM - Northshore plaza 1 (Level 2) beside McDonald’s",
+  "place_id": "ChIJL3JIEHsV2jER8MMrTNkhYnk",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Redhot Wassabi Chillipepper",
+      "author_url": "https://www.google.com/maps/contrib/103426594736012590652/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbdJ72JyEZZaoqzJAZTLKdrfvehoPjvJ5V6QobxMy-fmk7-Dgmyw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657016748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8746590643476481008",
+  "user_ratings_total": 1,
+  "vicinity": "407 Northshore Drive"
+}

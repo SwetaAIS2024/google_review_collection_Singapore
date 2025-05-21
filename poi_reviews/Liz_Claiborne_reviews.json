@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1 HarbourFront Walk, Singapore 098585",
+  "geometry": {
+    "location": {
+      "lat": 1.2652178,
+      "lng": 103.8220592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.266592330291502,
+        "lng": 103.8235446302915
+      },
+      "southwest": {
+        "lat": 1.263894369708498,
+        "lng": 103.8208466697085
+      }
+    }
+  },
+  "name": "Liz Claiborne",
+  "place_id": "ChIJQ7ONulgZ2jER8LDp7isE3K0",
+  "types": [
+    "clothing_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12527892850176274672",
+  "vicinity": "1 HarbourFront Walk, Singapore"
+}

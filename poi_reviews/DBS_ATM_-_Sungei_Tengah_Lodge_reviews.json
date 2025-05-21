@@ -1,0 +1,43 @@
+{
+  "formatted_address": "500 Old Choa Chu Kang Rd, Singapore 698924",
+  "geometry": {
+    "location": {
+      "lat": 1.3765442,
+      "lng": 103.7187025
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.377730080291502,
+        "lng": 103.7200496802915
+      },
+      "southwest": {
+        "lat": 1.375032119708498,
+        "lng": 103.7173517197085
+      }
+    }
+  },
+  "name": "DBS ATM - Sungei Tengah Lodge",
+  "place_id": "ChIJSfJURYgP2jERlcziyuhJKQQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Minto siddha",
+      "author_url": "https://www.google.com/maps/contrib/100580661340781771670/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5dKgEKoDjYD061jA-w9I2zNOu4JeXAQfyQ2mQu--OXFhENbcC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "",
+      "time": 1736426000,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=299852114381950101",
+  "user_ratings_total": 1,
+  "vicinity": "500 Old Choa Chu Kang Road"
+}

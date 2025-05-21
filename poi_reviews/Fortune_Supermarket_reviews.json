@@ -1,0 +1,31 @@
+{
+  "formatted_address": "115 Jalan Bukit Merah, Block 115, Singapore 160115",
+  "geometry": {
+    "location": {
+      "lat": 1.2810588,
+      "lng": 103.8265962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282473780291502,
+        "lng": 103.8279797802915
+      },
+      "southwest": {
+        "lat": 1.279775819708498,
+        "lng": 103.8252818197085
+      }
+    }
+  },
+  "name": "Fortune Supermarket",
+  "place_id": "ChIJT_GxP5wZ2jERJB3yc9SUdvs",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18119833790970993956",
+  "vicinity": "115 Jalan Bukit Merah, Block 115, Singapore"
+}

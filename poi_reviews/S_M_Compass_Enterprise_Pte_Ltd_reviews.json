@@ -1,0 +1,29 @@
+{
+  "formatted_address": "3 Howard Rd, Singapore 369578",
+  "geometry": {
+    "location": {
+      "lat": 1.333191,
+      "lng": 103.8856291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334555180291502,
+        "lng": 103.8870570302915
+      },
+      "southwest": {
+        "lat": 1.331857219708498,
+        "lng": 103.8843590697085
+      }
+    }
+  },
+  "name": "S M Compass Enterprise Pte Ltd",
+  "place_id": "ChIJVwfMKowX2jERTskNR2KhmMo",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14598595635592415566",
+  "vicinity": "3 Howard Road, Singapore"
+}

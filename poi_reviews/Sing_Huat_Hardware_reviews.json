@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.31796,
+      "lng": 103.676605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319310530291502,
+        "lng": 103.6779809302915
+      },
+      "southwest": {
+        "lat": 1.316612569708498,
+        "lng": 103.6752829697085
+      }
+    }
+  },
+  "name": "Sing Huat Hardware",
+  "place_id": "ChIJd5QEVZsF2jERaT5LtqGf7YI",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9434372311307992681",
+  "vicinity": "Singapore"
+}

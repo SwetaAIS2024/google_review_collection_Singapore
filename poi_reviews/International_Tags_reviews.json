@@ -1,0 +1,29 @@
+{
+  "formatted_address": "155 Kallang Wy, #04, Singapore 349244",
+  "geometry": {
+    "location": {
+      "lat": 1.3217727,
+      "lng": 103.8758982
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323086930291502,
+        "lng": 103.8772194802915
+      },
+      "southwest": {
+        "lat": 1.320388969708498,
+        "lng": 103.8745215197085
+      }
+    }
+  },
+  "name": "International Tags",
+  "place_id": "ChIJ25JFzC4Y2jERlRZcDi-TSkY",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5065022561245206165",
+  "vicinity": "155 Kallang Way, #04"
+}

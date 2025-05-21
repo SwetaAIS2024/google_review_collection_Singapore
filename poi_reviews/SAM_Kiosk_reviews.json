@@ -1,0 +1,29 @@
+{
+  "formatted_address": "460 Alexandra Rd, Singapore 119963",
+  "geometry": {
+    "location": {
+      "lat": 1.2740935,
+      "lng": 103.801445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.275504580291502,
+        "lng": 103.8028515302915
+      },
+      "southwest": {
+        "lat": 1.272806619708498,
+        "lng": 103.8001535697085
+      }
+    }
+  },
+  "name": "SAM Kiosk",
+  "place_id": "ChIJeQ6AH8Eb2jERV6Cn0A5nVZ8",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11481196138378797143",
+  "vicinity": "460 Alexandra Road, Singapore"
+}

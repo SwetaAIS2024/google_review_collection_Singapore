@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Temasek Ave, #27-01 Centennial Tower, Three, Singapore 039190",
+  "geometry": {
+    "location": {
+      "lat": 1.2934268,
+      "lng": 103.860354
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294992880291502,
+        "lng": 103.8616269802915
+      },
+      "southwest": {
+        "lat": 1.292294919708498,
+        "lng": 103.8589290197085
+      }
+    }
+  },
+  "name": "QNB Singapore",
+  "place_id": "ChIJqUP_MKkZ2jERuJuo41mMX3w",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jagannath",
+      "author_url": "https://www.google.com/maps/contrib/111593085499796701888/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg9NPYl8Mhy0dh2RwjMqIOGDPHBRrRmnNx23N4pOF5EdRQANLa=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Good service",
+      "time": 1518356603,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8962036101190032312",
+  "user_ratings_total": 1,
+  "vicinity": "Temasek Avenue, #27-01 Centennial Tower, Three"
+}

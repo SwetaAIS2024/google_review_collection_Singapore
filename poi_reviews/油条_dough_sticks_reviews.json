@@ -1,0 +1,30 @@
+{
+  "formatted_address": "477 Tampines Street 43, Singapore 520477",
+  "geometry": {
+    "location": {
+      "lat": 1.3608293,
+      "lng": 103.9530602
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362396930291502,
+        "lng": 103.9542416302915
+      },
+      "southwest": {
+        "lat": 1.359698969708498,
+        "lng": 103.9515436697085
+      }
+    }
+  },
+  "name": "油条 dough sticks",
+  "place_id": "ChIJY9QJQwA92jERMfSdqKsON4A",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9238869291004982321",
+  "vicinity": "477 Tampines Street 43"
+}

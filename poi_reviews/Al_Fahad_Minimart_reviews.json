@@ -1,0 +1,30 @@
+{
+  "formatted_address": "475 Tampines Street 44, Singapore 520475",
+  "geometry": {
+    "location": {
+      "lat": 1.360322,
+      "lng": 103.953147
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.361702680291502,
+        "lng": 103.9548552802915
+      },
+      "southwest": {
+        "lat": 1.359004719708498,
+        "lng": 103.9521573197085
+      }
+    }
+  },
+  "name": "Al Fahad Minimart",
+  "place_id": "ChIJ-9Mn7wY92jERtLK4AD40O4U",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9600324471575065268",
+  "vicinity": "475 Tampines Street 44"
+}

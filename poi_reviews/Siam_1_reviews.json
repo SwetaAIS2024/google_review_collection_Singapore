@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.345297,
+      "lng": 103.882206
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346676730291502,
+        "lng": 103.8835385802915
+      },
+      "southwest": {
+        "lat": 1.343978769708498,
+        "lng": 103.8808406197085
+      }
+    }
+  },
+  "name": "Siam 1",
+  "place_id": "ChIJ4Ry8fr0X2jERPmLzwB9gC3c",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8578055604754670142",
+  "vicinity": "Singapore"
+}

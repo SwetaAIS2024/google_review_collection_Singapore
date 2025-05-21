@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.39292,
+      "lng": 103.87907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.394270630291502,
+        "lng": 103.8803997802915
+      },
+      "southwest": {
+        "lat": 1.391572669708498,
+        "lng": 103.8777018197085
+      }
+    }
+  },
+  "name": "Before H2O residences, Fernvale Lk",
+  "place_id": "ChIJY62ho3oW2jERQqkFOfXNJF0",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Mark Koh",
+      "author_url": "https://www.google.com/maps/contrib/104379740216436886242/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjZ6kOAQ9NjSSXIGd2q1J0KiYFfet7hQM0-EITbHyuY2X1YiZH=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "There isn’t a bus stop at the location.",
+      "time": 1724573418,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6711715797796235586",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

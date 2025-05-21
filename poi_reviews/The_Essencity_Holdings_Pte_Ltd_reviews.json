@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9006 Tampines Street 93, Singapore 528840",
+  "geometry": {
+    "location": {
+      "lat": 1.339813,
+      "lng": 103.942417
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341148180291502,
+        "lng": 103.9439185802915
+      },
+      "southwest": {
+        "lat": 1.338450219708498,
+        "lng": 103.9412206197085
+      }
+    }
+  },
+  "name": "The Essencity Holdings Pte Ltd",
+  "place_id": "ChIJS_71Szk92jERy-3F5SgN8YQ",
+  "types": [
+    "car_repair",
+    "electronics_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9579452351698562507",
+  "vicinity": "9006 Tampines Street 93"
+}

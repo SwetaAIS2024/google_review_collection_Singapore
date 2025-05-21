@@ -1,0 +1,28 @@
+{
+  "formatted_address": "9 Changi Coast Walk, Singapore 499741",
+  "geometry": {
+    "location": {
+      "lat": 1.3168792,
+      "lng": 103.9784751
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318226180291502,
+        "lng": 103.9798679802915
+      },
+      "southwest": {
+        "lat": 1.315528219708498,
+        "lng": 103.9771700197085
+      }
+    }
+  },
+  "name": "TP Shuffle",
+  "place_id": "ChIJ1b_ddQAj2jERPNSBw3--ccg",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14443534935904080956",
+  "vicinity": "9 Changi Coast Walk"
+}

@@ -1,0 +1,44 @@
+{
+  "formatted_address": "114 Aljunied Ave 2, Singapore 380114",
+  "geometry": {
+    "location": {
+      "lat": 1.321746,
+      "lng": 103.886822
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322957280291502,
+        "lng": 103.8882105302915
+      },
+      "southwest": {
+        "lat": 1.320259319708498,
+        "lng": 103.8855125697085
+      }
+    }
+  },
+  "name": "Bethel Kinderlites",
+  "place_id": "ChIJpcLTXyEY2jERsf-sQF1mI94",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Roland Chia",
+      "author_url": "https://www.google.com/maps/contrib/110607036671950065950/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhp9A6YLkQLBwo0cikUzFQ3RzRow_aGmGuulg0UpXOo6hLdVCO=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Wonderful teachers and affordable fees",
+      "time": 1511092199,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16006750051307945905",
+  "user_ratings_total": 1,
+  "vicinity": "114 Aljunied Avenue 2, Singapore"
+}

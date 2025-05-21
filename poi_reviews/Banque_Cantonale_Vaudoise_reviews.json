@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Suntec Tower One #32-01, 7 Temasek Boulevard (S)038987, Singapore 038987",
+  "geometry": {
+    "location": {
+      "lat": 1.2954078,
+      "lng": 103.8584075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.296693930291502,
+        "lng": 103.8598879302915
+      },
+      "southwest": {
+        "lat": 1.293995969708498,
+        "lng": 103.8571899697085
+      }
+    }
+  },
+  "name": "Banque Cantonale Vaudoise",
+  "place_id": "ChIJsy8lEK8Z2jER_tDCFTLF9NE",
+  "types": [
+    "bank",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15128933867148464382",
+  "vicinity": "Suntec Tower One #32-01, 7 Temasek Boulevard (S)038987"
+}

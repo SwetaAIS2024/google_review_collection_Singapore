@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2814408,
+      "lng": 103.7929064
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282322580291502,
+        "lng": 103.7942691802915
+      },
+      "southwest": {
+        "lat": 1.279624619708498,
+        "lng": 103.7915712197085
+      }
+    }
+  },
+  "name": "Canopy Walk Endpoint",
+  "place_id": "ChIJZwlS91cb2jERr9XjpEiTlCk",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Desmond Koh",
+      "author_url": "https://www.google.com/maps/contrib/117297111931730200169/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpELJnkjsf28YbaGj5DQI-CQSBsTjmL-03L94nOGt-PIvZ_w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "No idea what the Japanese words mean, but taken a few pictures of the location.",
+      "time": 1665303079,
+      "translated": false
+    },
+    {
+      "author_name": "FALL落落ING",
+      "author_url": "https://www.google.com/maps/contrib/103976010222888736983/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9UcAeBESYy0a5-Yva7Sx4xmPLvwc-bchH49KKTIhEb52a-ccI=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 weeks ago",
+      "text": "The scenery is nice. You can overlook the harbor in the distance. You can walk in the woods. You can smell the oil smell of the harbor. Not friendly to people with sensitive sense of smell.",
+      "time": 1745310674,
+      "translated": true
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2996181592321545647",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "140 Telok Ayer St, 140, Singapore 068604",
+  "geometry": {
+    "location": {
+      "lat": 1.2813788,
+      "lng": 103.8478884
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282708530291502,
+        "lng": 103.8492720802915
+      },
+      "southwest": {
+        "lat": 1.280010569708498,
+        "lng": 103.8465741197085
+      }
+    }
+  },
+  "name": "Telón Ayer Landing Site",
+  "place_id": "ChIJ5Y-33kwZ2jERaW204B35FpY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Mino VLB",
+      "author_url": "https://www.google.com/maps/contrib/117654603454325110450/reviews",
+      "language": "en-US",
+      "original_language": "nl",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAHHv6sF4zZf3Fq0JrtUwwGctPT21uEX5PhagIcxj-SvMptoIp=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "It is a very nice resting place with some rest benches and some well-done works of art.",
+      "time": 1544444133,
+      "translated": true
+    }
+  ],
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10815105461896113513",
+  "user_ratings_total": 1,
+  "vicinity": "140 Telok Ayer Street, 140"
+}

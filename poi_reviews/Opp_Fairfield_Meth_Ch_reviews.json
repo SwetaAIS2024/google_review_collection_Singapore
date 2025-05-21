@@ -1,0 +1,56 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2796786,
+      "lng": 103.8438298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281022430291502,
+        "lng": 103.8452237302915
+      },
+      "southwest": {
+        "lat": 1.278324469708498,
+        "lng": 103.8425257697085
+      }
+    }
+  },
+  "name": "Opp Fairfield Meth Ch",
+  "place_id": "ChIJA0OLWG0Z2jERvhWo6Eqk5MQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ratikarn Yongtassanakul",
+      "author_url": "https://www.google.com/maps/contrib/106889728478260716919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHaxsiyUKX-QWwjXOrZMbA015vQy7Y5DTcbjX0Ye98x2mcrPC2=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Easy for a traveller to drop off here and walk to Chinatown",
+      "time": 1707414752,
+      "translated": false
+    },
+    {
+      "author_name": "Nam Phan",
+      "author_url": "https://www.google.com/maps/contrib/100269757260378900868/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7niIIs6mVFvg-Alwwb6BOE2fKNUFXYPT-2pmg4hfEwThG4_WA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Fresh air, many shops so cute.\nYou should going out and go around.",
+      "time": 1577869580,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14187645367761769918",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

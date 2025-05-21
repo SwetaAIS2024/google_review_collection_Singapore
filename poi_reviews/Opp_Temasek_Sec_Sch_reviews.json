@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.317031,
+      "lng": 103.9474015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318371530291502,
+        "lng": 103.9487347802915
+      },
+      "southwest": {
+        "lat": 1.315673569708498,
+        "lng": 103.9460368197085
+      }
+    }
+  },
+  "name": "Opp Temasek Sec Sch",
+  "place_id": "ChIJTQN5js8i2jERVZ3WWu7Hc6I",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "ChefJoef Lutong Haybol:",
+      "author_url": "https://www.google.com/maps/contrib/106953490509589935351/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZYqFbVx393e7xVpuMNcUlCqh2GwfMhux2V0nkaKSzvjan2w=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479529291,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11705919683006209365",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

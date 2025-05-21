@@ -1,0 +1,47 @@
+{
+  "formatted_address": "80 Changi Rd, #02-72, Singapore 419715",
+  "geometry": {
+    "location": {
+      "lat": 1.3164003,
+      "lng": 103.9004214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.317814930291502,
+        "lng": 103.9016691802915
+      },
+      "southwest": {
+        "lat": 1.315116969708498,
+        "lng": 103.8989712197085
+      }
+    }
+  },
+  "name": "JC Aquatic Trading Pte Ltd (Sianlon Aquatic Singapore)",
+  "place_id": "ChIJa-0NSngZ2jERXe4-PPq3pGc",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "ted ng",
+      "author_url": "https://www.google.com/maps/contrib/105865462762189430614/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuuK63WtByXxDyFsIXW_TyusQ6KIsuHNLIbZXgl9fAzd5-cQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "Slow reply. Then halfway just MIA",
+      "time": 1747110510,
+      "translated": false
+    }
+  ],
+  "types": [
+    "aquarium",
+    "pet_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7468296367467589213",
+  "user_ratings_total": 1,
+  "vicinity": "80 Changi Road, #02-72"
+}

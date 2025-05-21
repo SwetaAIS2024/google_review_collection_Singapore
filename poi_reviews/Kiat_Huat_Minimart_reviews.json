@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Jurong West Street 25, Singapore 643276",
+  "geometry": {
+    "location": {
+      "lat": 1.3538433,
+      "lng": 103.7038235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.355247280291502,
+        "lng": 103.7051675802915
+      },
+      "southwest": {
+        "lat": 1.352549319708498,
+        "lng": 103.7024696197085
+      }
+    }
+  },
+  "name": "Kiat Huat Minimart",
+  "place_id": "ChIJF2yZOUMP2jERVZExlvAq8jk",
+  "types": [
+    "convenience_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4175447017326219605",
+  "vicinity": "Jurong West Street 25, Singapore"
+}

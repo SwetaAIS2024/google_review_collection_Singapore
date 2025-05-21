@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Buroh St, #08-25 West Connect Bldg, Singapore 627564",
+  "geometry": {
+    "location": {
+      "lat": 1.3122601,
+      "lng": 103.7030347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314063330291502,
+        "lng": 103.7040851802915
+      },
+      "southwest": {
+        "lat": 1.311365369708498,
+        "lng": 103.7013872197085
+      }
+    }
+  },
+  "name": "BunnyGo",
+  "place_id": "ChIJx1e70AwF2jERBD7ieLRqSsk",
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14504522873254854148",
+  "vicinity": "10 Buroh Street, #08-25 West Connect Bldg"
+}

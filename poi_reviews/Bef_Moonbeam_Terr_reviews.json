@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3186506,
+      "lng": 103.7812757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319960980291502,
+        "lng": 103.7826748802915
+      },
+      "southwest": {
+        "lat": 1.317263019708498,
+        "lng": 103.7799769197085
+      }
+    }
+  },
+  "name": "Bef Moonbeam Terr",
+  "place_id": "ChIJ1dwwXnsa2jER5emo8cj1kmQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7247124993789192677",
+  "vicinity": "Singapore"
+}

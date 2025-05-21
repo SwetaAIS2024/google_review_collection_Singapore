@@ -1,0 +1,29 @@
+{
+  "formatted_address": "No. 865 Mountbatten Road, Katong Shopping Centre, Singapore 437844",
+  "geometry": {
+    "location": {
+      "lat": 1.3037611,
+      "lng": 103.9008959
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305103930291502,
+        "lng": 103.9024132302915
+      },
+      "southwest": {
+        "lat": 1.302405969708498,
+        "lng": 103.8997152697085
+      }
+    }
+  },
+  "name": "UOB ATM - Katong Shopping Centre",
+  "place_id": "ChIJXQXXUEMZ2jERu50H6vPXFLI",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12832118680888778171",
+  "vicinity": "No. 865 Mountbatten Road, Katong Shopping Centre"
+}

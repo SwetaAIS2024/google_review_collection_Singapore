@@ -1,0 +1,29 @@
+{
+  "formatted_address": "51 Tampines Ave 4, #B1-20, Singapore 529684",
+  "geometry": {
+    "location": {
+      "lat": 1.3527734,
+      "lng": 103.9406841
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354382180291502,
+        "lng": 103.9424095302915
+      },
+      "southwest": {
+        "lat": 1.351684219708498,
+        "lng": 103.9397115697085
+      }
+    }
+  },
+  "name": "DBS ATM - Our Tampines Hub",
+  "place_id": "ChIJ____XhI92jERPnsfpHDj4dk",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15700079848919628606",
+  "vicinity": "51 Tampines Avenue 4, #B1-20"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "10 Eunos Rd 8, #01-106 107/108, Singapore 408600",
+  "geometry": {
+    "location": {
+      "lat": 1.3189548,
+      "lng": 103.8944549
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320508580291502,
+        "lng": 103.8957646802915
+      },
+      "southwest": {
+        "lat": 1.317810619708498,
+        "lng": 103.8930667197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB PAYA LEBAR BRANCH",
+  "place_id": "ChIJLzq2TCQZ2jERAUBfzwVU2uE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "刘成",
+      "author_url": "https://www.google.com/maps/contrib/113044957794328736770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWReYI0oPZ_nZEjeRNDb547yGKV0VvAXPXGMqUek6kwx03pCxmC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Many atms to deposit and withdraw(including $2 $5 $10).\nCan deposit coins\nVtm.",
+      "time": 1712274679,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16274412587387404289",
+  "user_ratings_total": 1,
+  "vicinity": "10 Eunos Road 8, #01-106 107/108"
+}

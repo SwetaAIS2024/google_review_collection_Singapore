@@ -1,0 +1,29 @@
+{
+  "formatted_address": "1257 Upper Serangoon Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3731865,
+      "lng": 103.8978882
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.374425480291502,
+        "lng": 103.8991604302915
+      },
+      "southwest": {
+        "lat": 1.371727519708498,
+        "lng": 103.8964624697085
+      }
+    }
+  },
+  "name": "Myra school",
+  "place_id": "ChIJH5QdLAAX2jERYTMSfUjsWiY",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2763781117425365857",
+  "vicinity": "1257 Upper Serangoon Road"
+}

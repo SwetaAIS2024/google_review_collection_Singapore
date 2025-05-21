@@ -1,0 +1,29 @@
+{
+  "formatted_address": "820 Thomson Rd, MT Alvernia Hospital, Singapore 574623",
+  "geometry": {
+    "location": {
+      "lat": 1.341779,
+      "lng": 103.837631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343033830291502,
+        "lng": 103.8389931302915
+      },
+      "southwest": {
+        "lat": 1.340335869708498,
+        "lng": 103.8362951697085
+      }
+    }
+  },
+  "name": "Marymount Radiologic Consultants",
+  "place_id": "ChIJNXHxv0YX2jER70psECIdW-4",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17175353636049144559",
+  "vicinity": "820 Thomson Road, MT Alvernia Hospital"
+}

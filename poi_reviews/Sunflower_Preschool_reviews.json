@@ -1,0 +1,42 @@
+{
+  "formatted_address": "513 Yishun St 51, Singapore 760513",
+  "geometry": {
+    "location": {
+      "lat": 1.4161833,
+      "lng": 103.8444494
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.417559880291502,
+        "lng": 103.8457516302915
+      },
+      "southwest": {
+        "lat": 1.414861919708498,
+        "lng": 103.8430536697085
+      }
+    }
+  },
+  "name": "Sunflower Preschool",
+  "place_id": "ChIJvca0BTIV2jER0sVSBwi2ang",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "KaiRu Chong",
+      "author_url": "https://www.google.com/maps/contrib/109875113584745154764/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7p3LIEAlyfnKgdCwx2-owb_reY-l1tkNRn6ZrdopBqJCx3EI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693360186,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8676947777681540562",
+  "user_ratings_total": 1,
+  "vicinity": "513 Yishun Street 51"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.40112,
+      "lng": 103.90309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.402500130291502,
+        "lng": 103.9044548302915
+      },
+      "southwest": {
+        "lat": 1.399802169708498,
+        "lng": 103.9017568697085
+      }
+    }
+  },
+  "name": "Opp Blk 201A, Punggol Field",
+  "place_id": "ChIJoUc__wcW2jERfzPpqTZQUF0",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6723962439373239167",
+  "vicinity": "Singapore"
+}

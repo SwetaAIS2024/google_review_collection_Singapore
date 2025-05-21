@@ -1,0 +1,29 @@
+{
+  "formatted_address": "303 Hougang Ave 5, Singapore 530303",
+  "geometry": {
+    "location": {
+      "lat": 1.3667768,
+      "lng": 103.8943359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.368130280291502,
+        "lng": 103.8957836302915
+      },
+      "southwest": {
+        "lat": 1.365432319708498,
+        "lng": 103.8930856697085
+      }
+    }
+  },
+  "name": "Saint Francis' Gate",
+  "place_id": "ChIJm4oxTDQW2jERXq1NWWhXu3s",
+  "types": [
+    "primary_school",
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8915815992996506974",
+  "vicinity": "303 Hougang Avenue 5"
+}

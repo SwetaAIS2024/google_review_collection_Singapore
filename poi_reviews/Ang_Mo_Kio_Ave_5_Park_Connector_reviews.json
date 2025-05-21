@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Ang Mo Kio Ave 5, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3790983,
+      "lng": 103.8762783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380389630291502,
+        "lng": 103.8776154802915
+      },
+      "southwest": {
+        "lat": 1.377691669708498,
+        "lng": 103.8749175197085
+      }
+    }
+  },
+  "name": "Ang Mo Kio Ave 5 Park Connector",
+  "place_id": "ChIJUfX7ewAX2jERgOh_DElLseU",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16551092882677688448",
+  "vicinity": "Ang Mo Kio Avenue 5"
+}

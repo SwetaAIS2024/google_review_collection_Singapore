@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 166 #01-3531A, Bukit Merah Central, Singapore 150166",
+  "geometry": {
+    "location": {
+      "lat": 1.2831258,
+      "lng": 103.817696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284255630291502,
+        "lng": 103.8188439802915
+      },
+      "southwest": {
+        "lat": 1.281557669708498,
+        "lng": 103.8161460197085
+      }
+    }
+  },
+  "name": "UOB ATM - Bukit Merah Central",
+  "place_id": "ChIJCYBv6dYb2jERXI4VnbQLWOo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16886259673183129180",
+  "vicinity": "Blk 166 #01-3531A, Bukit Merah Central"
+}

@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3385734,
+      "lng": 103.9601849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339900380291502,
+        "lng": 103.9615711802915
+      },
+      "southwest": {
+        "lat": 1.337202419708498,
+        "lng": 103.9588732197085
+      }
+    }
+  },
+  "name": "Bef Simei Rd",
+  "place_id": "ChIJfQtPZic92jER4Rt79588CrE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Rahul Sonawane",
+      "author_url": "https://www.google.com/maps/contrib/111320632914518625206/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkzerRWnX8EbcsQl4BDPzTuneny7WDbdsNmqaS7GH4CLJgLhF7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Majestic tree",
+      "time": 1647165196,
+      "translated": false
+    },
+    {
+      "author_name": "Kasun Edirisinghe",
+      "author_url": "https://www.google.com/maps/contrib/116621983317983585997/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjSFpqo9gNLyefx4r7heFYrQxoJ5pK5IQWSWi_Re5P-Ar7Fpuc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1573634412,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12757075552229858273",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

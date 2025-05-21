@@ -1,0 +1,45 @@
+{
+  "formatted_address": "309 Hougang Ave 5, Block 309, Singapore 530309",
+  "geometry": {
+    "location": {
+      "lat": 1.36622,
+      "lng": 103.89496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367670330291502,
+        "lng": 103.8964200302915
+      },
+      "southwest": {
+        "lat": 1.364972369708498,
+        "lng": 103.8937220697085
+      }
+    }
+  },
+  "name": "Chang Cheng - 309 Hougang Avenue 5",
+  "place_id": "ChIJIVhNWDQW2jERJPa4kF5lq1U",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "JL",
+      "author_url": "https://www.google.com/maps/contrib/111923653431439408688/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgYRR-e9ZzxGKQjtRwr4lpLjnyJmahOcZRvxkPEuWSsYaW8M2OzA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Simple mixed rice. Likes the dark green leavy vegetables and many choices for meat",
+      "time": 1596082397,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6173139171070768676",
+  "user_ratings_total": 1,
+  "vicinity": "309 Hougang Avenue 5, Block 309"
+}

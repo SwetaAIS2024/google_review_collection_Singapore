@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Jurong East, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3328805,
+      "lng": 103.7435217
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.333990080291502,
+        "lng": 103.7447684802915
+      },
+      "southwest": {
+        "lat": 1.331292119708498,
+        "lng": 103.7420705197085
+      }
+    }
+  },
+  "name": "A52 Orthopaedic Level 5 Ng Teng Fong Hospital",
+  "place_id": "ChIJLfdCFgAR2jERWWdcTChx9j8",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4608995686554036057",
+  "vicinity": ""
+}

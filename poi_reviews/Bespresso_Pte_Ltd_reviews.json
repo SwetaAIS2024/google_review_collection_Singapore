@@ -1,0 +1,30 @@
+{
+  "formatted_address": "25 International Business Park, #04-19/21 German Centre, Singapore 609916",
+  "geometry": {
+    "location": {
+      "lat": 1.3250851,
+      "lng": 103.7467721
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326446180291502,
+        "lng": 103.7480450802915
+      },
+      "southwest": {
+        "lat": 1.323748219708498,
+        "lng": 103.7453471197085
+      }
+    }
+  },
+  "name": "Bespresso Pte Ltd",
+  "place_id": "ChIJuXzpotcb2jERYD1EVgt5ExA",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1158402618763263328",
+  "vicinity": "25 International Business Park, #04-19/21 German Centre"
+}

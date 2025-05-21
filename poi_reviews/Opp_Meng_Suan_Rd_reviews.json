@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.402173,
+      "lng": 103.813988
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403531680291502,
+        "lng": 103.8153342302915
+      },
+      "southwest": {
+        "lat": 1.400833719708498,
+        "lng": 103.8126362697085
+      }
+    }
+  },
+  "name": "Opp Meng Suan Rd",
+  "place_id": "ChIJmSsljP0T2jER_sy1fQdR0p4",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Thanat Chomchuen",
+      "author_url": "https://www.google.com/maps/contrib/117107088414921998070/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBDjgLOf41Q_rzkJQENDsOUhPLmgZpVj6UInVyk5e8Jl7HrToDYA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1693611104,
+      "translated": false
+    },
+    {
+      "author_name": "Hans tu",
+      "author_url": "https://www.google.com/maps/contrib/109538470777683462203/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7SnrOUayLEdYf2pHG7sE9Avia9U632L_seYsXlEbGf8A1YQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1558783906,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11444298695717539070",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

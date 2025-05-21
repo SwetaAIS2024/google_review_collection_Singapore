@@ -1,0 +1,29 @@
+{
+  "formatted_address": "134 Jurong E St 13, Singapore 600134",
+  "geometry": {
+    "location": {
+      "lat": 1.3341522,
+      "lng": 103.7388366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335675580291502,
+        "lng": 103.7400980802915
+      },
+      "southwest": {
+        "lat": 1.332977619708497,
+        "lng": 103.7374001197085
+      }
+    }
+  },
+  "name": "The Green Kitchen",
+  "place_id": "ChIJ0-D1oQUQ2jERDSmoVoHUils",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6596318256207243533",
+  "vicinity": "134 Jurong East Street 13"
+}

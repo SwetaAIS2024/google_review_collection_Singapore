@@ -1,0 +1,29 @@
+{
+  "formatted_address": "233 Jln Kayu, Singapore 799457",
+  "geometry": {
+    "location": {
+      "lat": 1.3960485,
+      "lng": 103.8728863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397390180291502,
+        "lng": 103.8743105302915
+      },
+      "southwest": {
+        "lat": 1.394692219708498,
+        "lng": 103.8716125697085
+      }
+    }
+  },
+  "name": "Panda kitchen",
+  "place_id": "ChIJfVu4T3wX2jERue7VlOSZI9A",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14998000391102525113",
+  "vicinity": "233 Jalan Kayu, Singapore"
+}

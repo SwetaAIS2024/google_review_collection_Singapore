@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Fishery Port Rd, Singapore 619729",
+  "geometry": {
+    "location": {
+      "lat": 1.3128359,
+      "lng": 103.723967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314075830291502,
+        "lng": 103.7253777802915
+      },
+      "southwest": {
+        "lat": 1.311377869708498,
+        "lng": 103.7226798197085
+      }
+    }
+  },
+  "name": "BeerStyle",
+  "place_id": "ChIJO-3F8EsF2jERbXI1T0tcjqw",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12433977099737723501",
+  "vicinity": "1 Fishery Port Road"
+}

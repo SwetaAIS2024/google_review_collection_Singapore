@@ -1,0 +1,53 @@
+{
+  "formatted_address": "22 Jurong Port Rd, #04-02 Tower B, Singapore 619114",
+  "geometry": {
+    "location": {
+      "lat": 1.31809,
+      "lng": 103.719138
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319504980291502,
+        "lng": 103.7204983802915
+      },
+      "southwest": {
+        "lat": 1.316807019708498,
+        "lng": 103.7178004197085
+      }
+    }
+  },
+  "name": "Splendor Innovative Pte Ltd",
+  "place_id": "ChIJBbxsfpsF2jER77oN8o3GJ-o",
+  "rating": 2.5,
+  "reviews": [
+    {
+      "author_name": "Desmond Koh",
+      "author_url": "https://www.google.com/maps/contrib/116099614054988513842/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnHDlKAxBopArTk3C7dgVGqSgqRYGPiZgyL3YbQLhgaAGc2Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "Address: 22 Jurong Port Road Tower B #04-02 SIngapore 619114",
+      "time": 1540805306,
+      "translated": false
+    },
+    {
+      "author_name": "The Linear",
+      "author_url": "https://www.google.com/maps/contrib/110916611645639185859/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4LKxWEAHWk4k5Nao74XitrO7ClVzsXxshdoRCfILGlP6jjg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "",
+      "time": 1738659523,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16872672841920527087",
+  "user_ratings_total": 2,
+  "vicinity": "22 Jurong Port Road, #04-02 Tower B"
+}

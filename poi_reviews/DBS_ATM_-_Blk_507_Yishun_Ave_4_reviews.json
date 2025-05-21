@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Yishun Ave 4, #01-K1 Blk 507, Singapore 768454",
+  "geometry": {
+    "location": {
+      "lat": 1.4155504,
+      "lng": 103.8396956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.416931680291502,
+        "lng": 103.8409670802915
+      },
+      "southwest": {
+        "lat": 1.414233719708498,
+        "lng": 103.8382691197085
+      }
+    }
+  },
+  "name": "DBS ATM - Blk 507 Yishun Ave 4",
+  "place_id": "ChIJq6p6qBYU2jERsOiZ-zSKeuo",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16895968912197937328",
+  "vicinity": "Yishun Avenue 4, #01-K1 Blk 507"
+}

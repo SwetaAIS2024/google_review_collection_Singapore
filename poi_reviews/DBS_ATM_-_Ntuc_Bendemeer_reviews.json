@@ -1,0 +1,45 @@
+{
+  "formatted_address": "30 Bendemeer Rd, #01-871, Singapore 330030",
+  "geometry": {
+    "location": {
+      "lat": 1.3194407,
+      "lng": 103.8640637
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.320814230291502,
+        "lng": 103.8653817802915
+      },
+      "southwest": {
+        "lat": 1.318116269708498,
+        "lng": 103.8626838197085
+      }
+    }
+  },
+  "name": "DBS ATM - Ntuc Bendemeer",
+  "place_id": "ChIJSezFkf8Z2jERqs9jCvfftsQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Su Zi Wei",
+      "author_url": "https://www.google.com/maps/contrib/107269169904233956622/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcjeiUkf6d41eEcL4j3bVLJ1Sp2Qe9aqvVfc_K0RV9QbRToXM=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 years ago",
+      "text": "Out of service",
+      "time": 1678442047,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14174763129319444394",
+  "user_ratings_total": 1,
+  "vicinity": "30 Bendemeer Road, #01-871"
+}

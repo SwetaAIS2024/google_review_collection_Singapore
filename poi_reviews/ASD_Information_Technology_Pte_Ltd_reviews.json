@@ -1,0 +1,53 @@
+{
+  "formatted_address": "21 Bukit Batok Cres, #14-79, Singapore 658065",
+  "geometry": {
+    "location": {
+      "lat": 1.3371117,
+      "lng": 103.7597177
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338599430291502,
+        "lng": 103.7610821802915
+      },
+      "southwest": {
+        "lat": 1.335901469708498,
+        "lng": 103.7583842197085
+      }
+    }
+  },
+  "name": "ASD Information Technology Pte Ltd",
+  "place_id": "ChIJtRCke24Q2jERiciX3r5ltBQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Gani Setiyawan",
+      "author_url": "https://www.google.com/maps/contrib/113976706869591239631/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhwxtvC0SjqOEHnyGdgI6Mg7UH6A5KRHDyMS5KB70_adUv35FI=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "A magnificent mosque I have ever visited",
+      "time": 1696872443,
+      "translated": false
+    },
+    {
+      "author_name": "Ghafar Mohamad",
+      "author_url": "https://www.google.com/maps/contrib/107592045283387181445/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ3e4DZpcx14OPTi5DyGfrOAosJ9kv4KGNxBwNYIHstTjudmRz=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516661707,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1491929247019157641",
+  "user_ratings_total": 2,
+  "vicinity": "21 Bukit Batok Crescent, #14-79"
+}

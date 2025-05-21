@@ -1,0 +1,55 @@
+{
+  "formatted_address": "1 Upper Aljunied Ln, #01-01, Singapore 360001",
+  "geometry": {
+    "location": {
+      "lat": 1.33424,
+      "lng": 103.87889
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335538830291502,
+        "lng": 103.8802517302915
+      },
+      "southwest": {
+        "lat": 1.332840869708498,
+        "lng": 103.8775537697085
+      }
+    }
+  },
+  "name": "DBS ATM - Upper Aljunied Road",
+  "place_id": "ChIJzWq1VSYX2jERHeDF1aEtBbk",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Leo Leong",
+      "author_url": "https://www.google.com/maps/contrib/118133525631445179828/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdN0a2JB6PdUWHRGPVsNIan1xECYOPWE-z9FX0mfbFtNcxdKyZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "ATM at prime supermarket",
+      "time": 1708841081,
+      "translated": false
+    },
+    {
+      "author_name": "貴天耒",
+      "author_url": "https://www.google.com/maps/contrib/104415571931008097767/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-TPcytzOGcJAw76p_5_idFnJ8Fh8ACxy1StaVk0a3MuOsg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1536147266,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13332112444999720989",
+  "user_ratings_total": 2,
+  "vicinity": "1 Upper Aljunied Lane, #01-01, Singapore"
+}

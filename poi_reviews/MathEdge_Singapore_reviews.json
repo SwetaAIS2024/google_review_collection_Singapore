@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Blk 208 Hougang St 21, #02-209, Singapore 530208",
+  "geometry": {
+    "location": {
+      "lat": 1.3586194,
+      "lng": 103.886532
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359919680291502,
+        "lng": 103.8880137802915
+      },
+      "southwest": {
+        "lat": 1.357221719708498,
+        "lng": 103.8853158197085
+      }
+    }
+  },
+  "name": "MathEdge Singapore",
+  "place_id": "ChIJM8G2AzcW2jERZdFQlPSP4lo",
+  "types": [
+    "point_of_interest",
+    "school",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6548955088773239141",
+  "vicinity": "Blk 208 Hougang Street 21, #02-209"
+}

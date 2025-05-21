@@ -1,0 +1,51 @@
+{
+  "formatted_address": "Island Club Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3609755,
+      "lng": 103.8207286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362353830291502,
+        "lng": 103.8220665302915
+      },
+      "southwest": {
+        "lat": 1.359655869708498,
+        "lng": 103.8193685697085
+      }
+    }
+  },
+  "name": "Jobs in Singapore - Alljobspo",
+  "place_id": "ChIJ4e3SxdQQ2jEREzaViWdBYZY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hasan Hasan",
+      "author_url": "https://www.google.com/maps/contrib/106661465147633520007/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVptxTATRe2nA4Tw-jW8I05LIMssOLpl4_ybt41loUTIujenrzC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656148346,
+      "translated": false
+    },
+    {
+      "author_name": "Itohoimo Tom",
+      "author_url": "https://www.google.com/maps/contrib/104712965474491379507/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtgtzFRfChKwvnYEmh6nAUuQggh1bB8nQHmQvKkuyo6GI0GY6M=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1636451644,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10836014091375818259",
+  "user_ratings_total": 2,
+  "vicinity": "Island Club Road"
+}

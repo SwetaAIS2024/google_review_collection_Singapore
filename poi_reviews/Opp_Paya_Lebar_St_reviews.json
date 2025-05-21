@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3396167,
+      "lng": 103.8864648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340926930291502,
+        "lng": 103.8877693802915
+      },
+      "southwest": {
+        "lat": 1.338228969708498,
+        "lng": 103.8850714197085
+      }
+    }
+  },
+  "name": "Opp Paya Lebar St",
+  "place_id": "ChIJr2NC7pMX2jERI25-os1GUGQ",
+  "rating": 3.7,
+  "reviews": [
+    {
+      "author_name": "Kenn Tan",
+      "author_url": "https://www.google.com/maps/contrib/111708291978895661841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxVQnLyEAqyHOVd6gAW2XspR0eOWxhMQL2sF_j5EvyFqyBCxA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Lone bus stop out there. Seems to serve people working in the depot only.\n\nNo amenities here, so good luck if you are stranded here. 3 stars for the sheltered walkway to the opposite side where you can get food and drinks.\n\nIf you need to transfer to another bus, it's better to do it two stops further down where there is a small mall to kill time.",
+      "time": 1742636488,
+      "translated": false
+    },
+    {
+      "author_name": "Willie Ng",
+      "author_url": "https://www.google.com/maps/contrib/104097253026367188545/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0fir9xNLmSLfui0nAiiAJpgoT0qRwxk5v35KycWcID-BFe1Am=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1675852766,
+      "translated": false
+    },
+    {
+      "author_name": "Lê Minh Tú",
+      "author_url": "https://www.google.com/maps/contrib/118311925185804988903/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0tkYSegEvAPyRhfZrlS_T-agT6pER658nP4KGuqESJKxtPuxY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1595032061,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7228355250938080803",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

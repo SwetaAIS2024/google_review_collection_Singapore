@@ -1,0 +1,57 @@
+{
+  "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+  "geometry": {
+    "location": {
+      "lat": 1.2558734,
+      "lng": 103.8219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.257095880291502,
+        "lng": 103.8232034302915
+      },
+      "southwest": {
+        "lat": 1.254397919708498,
+        "lng": 103.8205054697085
+      }
+    }
+  },
+  "name": "Celebrity Cafe & Bakery",
+  "place_id": "ChIJUbkv81UZ2jER5lVRjqtKPhQ",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "世界のともちゃん",
+      "author_url": "https://www.google.com/maps/contrib/100407517395337092521/reviews",
+      "language": "en-US",
+      "original_language": "ja",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJM7pi-2zXo9BYgqTzDee58BOhoc-HWnK28Z5xbZwFtZYrb9rb=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I guess it's highly rated.\n\nThey're all lined up.\n\nIt seems to be an exceptionally crowded place even on the USS.\n\nIt's like standing in line at a bakery.\nActually, it's one of the attractions...lol",
+      "time": 1690347943,
+      "translated": true
+    },
+    {
+      "author_name": "Żotkiwka",
+      "author_url": "https://www.google.com/maps/contrib/111520189897056912539/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz6kKJf7jFV__BgoexflS5fQvz4E41OPtJh0cMpOTRDFjDNKc=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1705034144,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1458685430002177510",
+  "user_ratings_total": 2,
+  "vicinity": "8 Sentosa Gateway"
+}

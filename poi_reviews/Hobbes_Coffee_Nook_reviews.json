@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 55 Teban Gardens Rd, Singapore 600055",
+  "geometry": {
+    "location": {
+      "lat": 1.3218541,
+      "lng": 103.7373988
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323169930291502,
+        "lng": 103.7387782802915
+      },
+      "southwest": {
+        "lat": 1.320471969708498,
+        "lng": 103.7360803197085
+      }
+    }
+  },
+  "name": "Hobbes Coffee Nook",
+  "place_id": "ChIJiZGV6bgb2jERfDKWrn2uFDM",
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3680758650291761788",
+  "vicinity": "Blk 55 Teban Gardens Road"
+}

@@ -1,0 +1,51 @@
+{
+  "formatted_address": "57 New Upper Changi Rd, #01-1340, Singapore 461057",
+  "geometry": {
+    "location": {
+      "lat": 1.3240592,
+      "lng": 103.9416239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.325712130291502,
+        "lng": 103.9429879802915
+      },
+      "southwest": {
+        "lat": 1.323014169708498,
+        "lng": 103.9402900197085
+      }
+    }
+  },
+  "name": "Honey Treatment De Beaute Care",
+  "place_id": "ChIJ1XBGBLMi2jERe5X6MScMmeg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Marini",
+      "author_url": "https://www.google.com/maps/contrib/104841579253385557483/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8HMwooC_LDkfghj0vvOmsniTv7rR3zpWHJf344PD1YtbViBe88w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577445406,
+      "translated": false
+    },
+    {
+      "author_name": "Nitesh Pawar",
+      "author_url": "https://www.google.com/maps/contrib/112127011688648825846/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkcKd14rXQDKxVoG27x2-HinJbIVA6bi1JFFu4Xl3tUKsoHJ1o=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1559724868,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16760440850717775227",
+  "user_ratings_total": 2,
+  "vicinity": "57 New Upper Changi Road, #01-1340, Singapore"
+}

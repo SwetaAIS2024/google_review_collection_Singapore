@@ -1,0 +1,42 @@
+{
+  "formatted_address": "1 Irving Pl, #06-09 The Commerze@ Irving, Singapore 369546",
+  "geometry": {
+    "location": {
+      "lat": 1.336236,
+      "lng": 103.886403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337623230291502,
+        "lng": 103.8875136302915
+      },
+      "southwest": {
+        "lat": 1.334925269708498,
+        "lng": 103.8848156697085
+      }
+    }
+  },
+  "name": "Creatick",
+  "place_id": "ChIJc0ofDpIX2jER6Gw11V9JUZQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Ryan Foo",
+      "author_url": "https://www.google.com/maps/contrib/107435015591812507539/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoznfzzaR_W3vdFen-PDYhxOP-9k2M0b4jc9lI6k_bpwa0nzc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502447991,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10687404066674666728",
+  "user_ratings_total": 1,
+  "vicinity": "1 Irving Place, #06-09 The Commerze@ Irving"
+}

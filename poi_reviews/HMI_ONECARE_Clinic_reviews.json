@@ -1,0 +1,29 @@
+{
+  "formatted_address": "282 Bishan Street 24, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3574881,
+      "lng": 103.8444524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358823030291502,
+        "lng": 103.8458182802915
+      },
+      "southwest": {
+        "lat": 1.356125069708498,
+        "lng": 103.8431203197085
+      }
+    }
+  },
+  "name": "HMI ONECARE Clinic",
+  "place_id": "ChIJn7q1dVYX2jERYe-qnv-BPxM",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1386970145132048225",
+  "vicinity": "282 Bishan Street 24"
+}

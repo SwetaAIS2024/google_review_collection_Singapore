@@ -1,0 +1,45 @@
+{
+  "formatted_address": "Changi Airport T4, 10 Airport Blvd., #02-K16 Departure Hall, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3384416,
+      "lng": 103.9836789
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339945130291502,
+        "lng": 103.9846536802915
+      },
+      "southwest": {
+        "lat": 1.337247169708498,
+        "lng": 103.9819557197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Changi Airport T4 Departure Hall",
+  "place_id": "ChIJWYaoKd892jERm8_3F2ntMJo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "It's a little hard to find, especially if you're in need of some cash from this ATM Machine. It's located after crossing immigration, across the hallway, nearer to the side of the International Food Hall / lounges. Ground floor, next to the escalator, together with the other ATM machines next to each other.",
+      "time": 1691810513,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11110641316352479131",
+  "user_ratings_total": 1,
+  "vicinity": "Changi Airport T4, 10 Airport Boulevard, #02-K16 Departure Hall"
+}

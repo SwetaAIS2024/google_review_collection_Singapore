@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3994704,
+      "lng": 103.9057964
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.400682430291502,
+        "lng": 103.9072577302915
+      },
+      "southwest": {
+        "lat": 1.397984469708498,
+        "lng": 103.9045597697085
+      }
+    }
+  },
+  "name": "Cove",
+  "place_id": "ChIJuehsCAcW2jERYYkpFkq84eQ",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16492670336792889697",
+  "vicinity": "Singapore"
+}

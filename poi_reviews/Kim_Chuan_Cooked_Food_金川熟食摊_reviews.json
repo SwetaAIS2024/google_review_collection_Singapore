@@ -1,0 +1,57 @@
+{
+  "formatted_address": "50A Marine Ter, #01-301 &, Singapore 441050",
+  "geometry": {
+    "location": {
+      "lat": 1.3056956,
+      "lng": 103.9156908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.307021730291502,
+        "lng": 103.9172658802915
+      },
+      "southwest": {
+        "lat": 1.304323769708498,
+        "lng": 103.9145679197085
+      }
+    }
+  },
+  "name": "Kim Chuan Cooked Food (金川熟食摊)",
+  "place_id": "ChIJl-V2x58i2jERFraNoTJV6Fs",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Sean Goh",
+      "author_url": "https://www.google.com/maps/contrib/113608706305591448585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEaTeEStI-pfTIXqsvSF6l02FivQ-XBDO9hy5SPhzxdS9tTA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "One of the few stalls inside the 50A Marine Terrace Market and food centre that operate till late evening. Basically they are a zhichar stall operating inside a hawker centre. The menu list is pretty extensive for such a small stall.\n\nOrdered a total of 4 dishes, Portion was consider quite generous but the food was a little too salty for our liking.",
+      "time": 1606657294,
+      "translated": false
+    },
+    {
+      "author_name": "Sebastian Tng",
+      "author_url": "https://www.google.com/maps/contrib/105953305744594940229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ50eNzsm8oXQDgS9NmZz9J4gBBQwai3yxKmFhQx5O9Ub2D=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "Average zhar char stall, if one is there to fill the stomach.",
+      "time": 1647674582,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6622636927995459094",
+  "user_ratings_total": 2,
+  "vicinity": "50A Marine Terrace, #01-301 &, Singapore"
+}

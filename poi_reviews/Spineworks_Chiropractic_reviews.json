@@ -1,0 +1,28 @@
+{
+  "formatted_address": "80 Marine Parade Rd, Singapore 449269",
+  "geometry": {
+    "location": {
+      "lat": 1.3012511,
+      "lng": 103.9039592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302653180291502,
+        "lng": 103.9053328302915
+      },
+      "southwest": {
+        "lat": 1.299955219708498,
+        "lng": 103.9026348697085
+      }
+    }
+  },
+  "name": "Spineworks Chiropractic",
+  "place_id": "ChIJ37DAxnEY2jER9kodhBzNY_w",
+  "types": [
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18186605242611485430",
+  "vicinity": "80 Marine Parade Road, Singapore"
+}

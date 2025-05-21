@@ -1,0 +1,45 @@
+{
+  "formatted_address": "16 Bedok S Rd, Singapore 460016",
+  "geometry": {
+    "location": {
+      "lat": 1.320547,
+      "lng": 103.9355572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.321946630291502,
+        "lng": 103.9371477302915
+      },
+      "southwest": {
+        "lat": 1.319248669708498,
+        "lng": 103.9344497697085
+      }
+    }
+  },
+  "name": "DBS ATM - Bedok South Food Court",
+  "place_id": "ChIJ9cNYnZYj2jERE-ulabqVGMQ",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "WR C",
+      "author_url": "https://www.google.com/maps/contrib/112596587712143563410/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF5yhC25Swh1jn96xrp0FpXUi43nWzXtAHMHlVXD73vFG5q0EY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "No coin deposit machine here",
+      "time": 1743140129,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14130208458743868179",
+  "user_ratings_total": 1,
+  "vicinity": "16 Bedok South Road"
+}

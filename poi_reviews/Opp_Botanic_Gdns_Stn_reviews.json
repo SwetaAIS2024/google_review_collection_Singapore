@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3233533,
+      "lng": 103.8162689
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324663330291502,
+        "lng": 103.8175570302915
+      },
+      "southwest": {
+        "lat": 1.321965369708498,
+        "lng": 103.8148590697085
+      }
+    }
+  },
+  "name": "Opp Botanic Gdns Stn",
+  "place_id": "ChIJ36pYNgEa2jER7LaGFSuwiLM",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Lawrence Ang",
+      "author_url": "https://www.google.com/maps/contrib/116621168823831019190/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKFacSrvK6T1RUw9FwfOAM2N-SJRMJd20Dw97Wzfn4fMV7EjzJ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "standard bus stop oppo mrt. sheltered linkway all the way from mrt as well",
+      "time": 1512608196,
+      "translated": false
+    },
+    {
+      "author_name": "CELANAT Man",
+      "author_url": "https://www.google.com/maps/contrib/109183577504423132063/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeAHtYg0Ed1vzEetCYSPHFddQMaFpqmWjIB002Ixd94bjCiA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1615880630,
+      "translated": false
+    },
+    {
+      "author_name": "ting happyting",
+      "author_url": "https://www.google.com/maps/contrib/104240253125422520036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWJNSzEJfVCrKZ7b8-VnL83kDkj1EXiNjgcU3Pw5jbfWMCig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1497932442,
+      "translated": false
+    },
+    {
+      "author_name": "Takuya Yamada",
+      "author_url": "https://www.google.com/maps/contrib/105181678668912707680/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfNvFMvPGbkKgsLmmG0x0XMIsQiiEqg8bRITX16JuKaaoFDcOksA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1480734223,
+      "translated": false
+    },
+    {
+      "author_name": "Thow Min Jerald Cham",
+      "author_url": "https://www.google.com/maps/contrib/106029279755645050304/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSk-GoyEUJscZpudSnLq1Ai2VdASTM4OqJzmOlOAcNfV7niDZe_Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1472313086,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12936783628712982252",
+  "user_ratings_total": 6,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "98 Punggol Walk, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4018415,
+      "lng": 103.8986922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.403128530291502,
+        "lng": 103.9002593802915
+      },
+      "southwest": {
+        "lat": 1.400430569708498,
+        "lng": 103.8975614197085
+      }
+    }
+  },
+  "name": "Media Resources Library",
+  "place_id": "ChIJKUKObeIV2jEReNXD-sPneYM",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Noomery",
+      "author_url": "https://www.google.com/maps/contrib/112434870817764052641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hWFQH__0-nXCcWSbBrTUrdbCrW6s4OHLzjlZ1GZ-0e0W5tjz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "Very convenient for Punggol Green Primary School's students to visit during recess. Except Mdm June, the librarian's service should be improved.",
+      "time": 1505035950,
+      "translated": false
+    },
+    {
+      "author_name": "Master E - Trần Nhựt Đăng Khoa",
+      "author_url": "https://www.google.com/maps/contrib/106957519572535963060/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1xAJicqTG04Y5GCuA_T7W6G_ImCon1VOHswsWLXd9v5L-WSdS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Hey there’s Noomery face",
+      "time": 1586593785,
+      "translated": false
+    }
+  ],
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9473858120062326136",
+  "user_ratings_total": 2,
+  "vicinity": "98 Punggol Walk"
+}

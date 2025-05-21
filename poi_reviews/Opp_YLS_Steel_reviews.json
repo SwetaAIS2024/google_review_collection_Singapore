@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.29325,
+      "lng": 103.637001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.294596380291502,
+        "lng": 103.6383847302915
+      },
+      "southwest": {
+        "lat": 1.291898419708498,
+        "lng": 103.6356867697085
+      }
+    }
+  },
+  "name": "Opp YLS Steel",
+  "place_id": "ChIJCTwnkNUF2jERIuo4M6618kk",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Khaarthi Krishnan",
+      "author_url": "https://www.google.com/maps/contrib/108514681959629751303/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu-xCAxgqORiHXdhJscSbzP7LJ-Df3Q9NqY6vC7hAf1pPco2h9=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Route clear",
+      "time": 1484522831,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5328521068921023010",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

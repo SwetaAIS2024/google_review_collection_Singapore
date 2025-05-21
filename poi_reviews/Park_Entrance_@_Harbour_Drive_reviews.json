@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Harbour Dr, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2809951,
+      "lng": 103.7816922
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.282432380291502,
+        "lng": 103.7830542802915
+      },
+      "southwest": {
+        "lat": 1.279734419708498,
+        "lng": 103.7803563197085
+      }
+    }
+  },
+  "name": "Park Entrance @ Harbour Drive",
+  "place_id": "ChIJm2z7EQAb2jERDq8fbisbRzo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Forest BK",
+      "author_url": "https://www.google.com/maps/contrib/116448453673911455728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL76LHGcdk_DWwI1Uwpxr5pFf5padq-ZcHhARkF7WFUdeyixQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Feel much safer, quieter and more relax after entering here at Pasir Panjang Park.\nPark is still new. Give it some time and the trees will grow to provide better shade.",
+      "time": 1709874983,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4199355050891390734",
+  "user_ratings_total": 1,
+  "vicinity": "Harbour Drive"
+}

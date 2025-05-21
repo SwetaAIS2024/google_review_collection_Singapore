@@ -1,0 +1,29 @@
+{
+  "formatted_address": "8 Victoria Park Rd, Singapore 266492",
+  "geometry": {
+    "location": {
+      "lat": 1.3183899,
+      "lng": 103.8049296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.319828630291502,
+        "lng": 103.8062855302915
+      },
+      "southwest": {
+        "lat": 1.317130669708498,
+        "lng": 103.8035875697085
+      }
+    }
+  },
+  "name": "Church carpark",
+  "place_id": "ChIJE9uCDQ4a2jERdMtIJ1oAQ7c",
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13205398919586564980",
+  "vicinity": "8 Victoria Park Road, Singapore"
+}

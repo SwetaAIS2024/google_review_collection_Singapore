@@ -1,0 +1,31 @@
+{
+  "formatted_address": "86 Kaki Bukit Industrial Terrace, Singapore 416166",
+  "geometry": {
+    "location": {
+      "lat": 1.3355844,
+      "lng": 103.9017226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336879380291502,
+        "lng": 103.9030209302915
+      },
+      "southwest": {
+        "lat": 1.334181419708498,
+        "lng": 103.9003229697085
+      }
+    }
+  },
+  "name": "Hook Chai Enterprise",
+  "place_id": "ChIJuxzyXOoX2jER76YBLThNYKI",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11700436735577138927",
+  "vicinity": "86 Kaki Bukit Industrial Terrace, Singapore"
+}

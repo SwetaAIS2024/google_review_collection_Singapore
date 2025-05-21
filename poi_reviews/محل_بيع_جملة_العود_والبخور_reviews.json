@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3377616,
+      "lng": 103.8988293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338997480291502,
+        "lng": 103.9003163302915
+      },
+      "southwest": {
+        "lat": 1.336299519708498,
+        "lng": 103.8976183697085
+      }
+    }
+  },
+  "name": "محل بيع جملة العود والبخور",
+  "place_id": "ChIJAcctWe4X2jERTl6LubxvB30",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "علي ابو صالح",
+      "author_url": "https://www.google.com/maps/contrib/109194930673081823166/reviews",
+      "language": "en-US",
+      "original_language": "ar",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbVxmRcNsdMq8gkKYDHGZkA6Gz7kNrfekGpUHIO9aOy61cQg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 years ago",
+      "text": "A multi-storey complex of aloes and incense trading shops\nPrices and quality vary, I advise not to rush\nStudy the market more than once",
+      "time": 1655410685,
+      "translated": true
+    }
+  ],
+  "types": [
+    "shopping_mall",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9009292435935419982",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

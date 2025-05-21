@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6001 Beach Rd, Singapore 199589",
+  "geometry": {
+    "location": {
+      "lat": 1.3020753,
+      "lng": 103.8639297
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303501930291502,
+        "lng": 103.8652259802915
+      },
+      "southwest": {
+        "lat": 1.300803969708498,
+        "lng": 103.8625280197085
+      }
+    }
+  },
+  "name": "Xuhwa Entreprise",
+  "place_id": "ChIJ0YjYlbMZ2jERq0ugVBp5kKk",
+  "types": [
+    "convenience_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12218398943052057515",
+  "vicinity": "6001 Beach Road"
+}

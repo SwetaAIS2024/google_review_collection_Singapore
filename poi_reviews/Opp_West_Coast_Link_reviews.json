@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.298541,
+      "lng": 103.763428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.299870080291502,
+        "lng": 103.7647338802915
+      },
+      "southwest": {
+        "lat": 1.297172119708498,
+        "lng": 103.7620359197085
+      }
+    }
+  },
+  "name": "Opp West Coast Link",
+  "place_id": "ChIJcQWHU-Ua2jERU9ajWbgW0NQ",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "cheran v",
+      "author_url": "https://www.google.com/maps/contrib/107182664861342606350/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXezdJdvhKCJO5-ir0AyQaD5sPVSS-jkfOCz7S2wxCmDHyEACBXDw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "8 years ago",
+      "text": "Happy to spend time on holidays",
+      "time": 1480831525,
+      "translated": false
+    },
+    {
+      "author_name": "Frederick Wu",
+      "author_url": "https://www.google.com/maps/contrib/117159753673334146971/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTty-scjzf-9FEbbeO3XCA0BXpgmPl0GlqvMcG-LbVK2PGEIRLYg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "bus 175 should stop here. You can do that by shifting bus stop down the road so that 175 can stop there as well",
+      "time": 1662776149,
+      "translated": false
+    },
+    {
+      "author_name": "CHUN SAM TOH",
+      "author_url": "https://www.google.com/maps/contrib/111552420492711008771/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTC5VySK_9fr9awWhBN734Cnfq4av5GcKMJJThnabx85Bnw-EH=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1438299364,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15334781712230241875",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Kampung Tanjung Kupang, 81550 Gelang Patah, Johor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.3511696,
+      "lng": 103.6005608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.352553330291502,
+        "lng": 103.6019006302915
+      },
+      "southwest": {
+        "lat": 1.349855369708498,
+        "lng": 103.5992026697085
+      }
+    }
+  },
+  "name": "Kedai Serbaneka J.K.K.K Kupang",
+  "place_id": "ChIJ1y1HHPII2jERN9t0Bvbumdo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "HABIB KHAN",
+      "author_url": "https://www.google.com/maps/contrib/117330502601343666432/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt78XUjqjccBascAI2a4PZubbQ-pWmsrPciY5X2v-Qqb1e_WcI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Good",
+      "time": 1645399871,
+      "translated": false
+    },
+    {
+      "author_name": "Aktar Hussein",
+      "author_url": "https://www.google.com/maps/contrib/100447344049833744575/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsstwgbFpdUL9fhP-DTAph3WDkODBLpMggADhMzK66WnVd4w=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1650876059,
+      "translated": false
+    },
+    {
+      "author_name": "Rao Asif",
+      "author_url": "https://www.google.com/maps/contrib/100845246019408201029/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt8T1UXdmvT4XuYCMt4aT9Nvhel3zBdcmZjPJ9zsr2JBD1bRi5=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1550737625,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15751883912142707511",
+  "user_ratings_total": 3,
+  "vicinity": "Malaysia"
+}

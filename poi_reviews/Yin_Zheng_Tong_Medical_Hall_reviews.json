@@ -1,0 +1,54 @@
+{
+  "formatted_address": "163 Ang Mo Kio Ave 4, Singapore 560163",
+  "geometry": {
+    "location": {
+      "lat": 1.3739915,
+      "lng": 103.8377433
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.375423680291502,
+        "lng": 103.8391472302915
+      },
+      "southwest": {
+        "lat": 1.372725719708498,
+        "lng": 103.8364492697085
+      }
+    }
+  },
+  "name": "Yin Zheng Tong Medical Hall",
+  "place_id": "ChIJqzXdtsQW2jERyInDSRYosYo",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gerianne Tan",
+      "author_url": "https://www.google.com/maps/contrib/108787977204642506794/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKraCWhCKgG2x_ex7zGo-socaS6SErOoSM2Wv3t93QwHrBlly4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1725175962,
+      "translated": false
+    },
+    {
+      "author_name": "ming tai",
+      "author_url": "https://www.google.com/maps/contrib/113014068774543867615/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRnjBQwFnHTsWovUZHOA1r9v-jWPwrMyES1iyT4fUkzAP1LA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1560872124,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9993813124303784392",
+  "user_ratings_total": 2,
+  "vicinity": "163 Ang Mo Kio Avenue 4, Singapore"
+}

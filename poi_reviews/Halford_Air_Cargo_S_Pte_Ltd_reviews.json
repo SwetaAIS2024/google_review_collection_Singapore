@@ -1,0 +1,41 @@
+{
+  "formatted_address": "9 Airline Rd, Singapore 819827",
+  "geometry": {
+    "location": {
+      "lat": 1.382831,
+      "lng": 103.999542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384317130291502,
+        "lng": 104.0005482802915
+      },
+      "southwest": {
+        "lat": 1.381619169708498,
+        "lng": 103.9978503197085
+      }
+    }
+  },
+  "name": "Halford Air Cargo (S) Pte Ltd",
+  "place_id": "ChIJd8TRwAw82jERgZ3riZsDZmA",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Irwan Yosha Cheah",
+      "author_url": "https://www.google.com/maps/contrib/110982130295178780851/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmY0Ti-NLXqK5hGDrzGcKJjE1DV2Sr9q2IJFngOd46I1G86w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1529343748,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6946243441834302849",
+  "user_ratings_total": 1,
+  "vicinity": "9 Airline Road"
+}

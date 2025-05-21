@@ -1,0 +1,61 @@
+{
+  "formatted_address": "5 Tampines Central 6, #01-06 Telepark, Singapore 529482",
+  "geometry": {
+    "location": {
+      "lat": 1.3532093,
+      "lng": 103.9417315
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354559830291502,
+        "lng": 103.9429897302915
+      },
+      "southwest": {
+        "lat": 1.351861869708498,
+        "lng": 103.9402917697085
+      }
+    }
+  },
+  "name": "KRTC Tampines",
+  "place_id": "ChIJnRywEBI92jERPJvxEg3qwgA",
+  "rating": 4.7,
+  "reviews": [
+    {
+      "author_name": "Ck Ng",
+      "author_url": "https://www.google.com/maps/contrib/116703856698697216549/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyLr3p-QWyT8PdbjqoLx00NCETlkVL4-eDTrTQs1gdGEgv-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1642305797,
+      "translated": false
+    },
+    {
+      "author_name": "Poonam Veerbhanani",
+      "author_url": "https://www.google.com/maps/contrib/109964800972147165209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBkh0c8IXIJpsu5ISC_s0JlQUuAp9IGvuwCmfkf6EBE56Z3g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569329392,
+      "translated": false
+    },
+    {
+      "author_name": "J Muzhen",
+      "author_url": "https://www.google.com/maps/contrib/108162602950902985468/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ34FyaHm34bgPP62yvZGD0AS59LV1NONL4z-eNZ9BJGXSTL5D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1516527296,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=54863487355165500",
+  "user_ratings_total": 3,
+  "vicinity": "5 Tampines Central 6, #01-06 Telepark, Singapore"
+}

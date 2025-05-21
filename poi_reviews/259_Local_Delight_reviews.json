@@ -1,0 +1,56 @@
+{
+  "formatted_address": "259 Pasir Ris Street 21, #02-30 Loyang Point, Singapore 510259",
+  "geometry": {
+    "location": {
+      "lat": 1.3663557,
+      "lng": 103.964653
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.367666730291502,
+        "lng": 103.9660260302915
+      },
+      "southwest": {
+        "lat": 1.364968769708498,
+        "lng": 103.9633280697085
+      }
+    }
+  },
+  "name": "259 Local Delight",
+  "place_id": "ChIJPT3u2y492jERRaZwbQFzPlg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "L Koh",
+      "author_url": "https://www.google.com/maps/contrib/108923984564077134125/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFxTWp_3whk6Ohnrky4L1azOv6OKQ4SZlVLaC1te7s_nadtZke=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "Very friendly uncle selling good quality mua chee with generous serving of peanuts. Also have freshly made mee jiang kueh that's great for breakfast and snack.",
+      "time": 1628035537,
+      "translated": false
+    },
+    {
+      "author_name": "dang tue",
+      "author_url": "https://www.google.com/maps/contrib/101327333335513946205/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOd4KSubswfnZ6Im_b-oMNZMouB0ZEwXL97pgCWLX3U_dzDS-e=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "",
+      "time": 1731880505,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6358646173861979717",
+  "user_ratings_total": 2,
+  "vicinity": "259 Pasir Ris Street 21, #02-30 Loyang Point"
+}

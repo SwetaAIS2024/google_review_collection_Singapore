@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore 486041",
+  "geometry": {
+    "location": {
+      "lat": 1.3364871,
+      "lng": 103.966477
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.337834380291502,
+        "lng": 103.9678289802915
+      },
+      "southwest": {
+        "lat": 1.335136419708498,
+        "lng": 103.9651310197085
+      }
+    }
+  },
+  "name": "Aft Akzonobel",
+  "place_id": "ChIJiRQtitk82jERGkq7mY-SUxg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Gin D Pang",
+      "author_url": "https://www.google.com/maps/contrib/111360154638965372233/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLWMtwveyRGlkPheqXyr9h_Z5_aj7olyxKXFvLVFU1S4Y6LcxKTw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "There is a premium bus service 593 that go directly to Punggol (bi-directions). S$3.50 per trip. Save me lots of time.",
+      "time": 1649990761,
+      "translated": false
+    },
+    {
+      "author_name": "lmh aviation",
+      "author_url": "https://www.google.com/maps/contrib/107129977799378377749/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBBc8KcVu5VXWr8DohGkLGBGzfO1DROlM6S59EKZcVKlLgRkU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Best Place For Plane Spotting",
+      "time": 1523074799,
+      "translated": false
+    },
+    {
+      "author_name": "Raju Mopidevi",
+      "author_url": "https://www.google.com/maps/contrib/109068398538510055408/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-uaaGeWfH-Om7DVMQNVh31ZB5pijJhAIJUAvP8Prrmif1JNA-=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1502193225,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1752905825434421786",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

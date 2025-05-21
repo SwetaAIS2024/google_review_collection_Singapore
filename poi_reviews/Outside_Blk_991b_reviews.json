@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.383486,
+      "lng": 103.882607
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384818580291502,
+        "lng": 103.8839727302915
+      },
+      "southwest": {
+        "lat": 1.382120619708498,
+        "lng": 103.8812747697085
+      }
+    }
+  },
+  "name": "Outside Blk 991b",
+  "place_id": "ChIJ1xcnM2gW2jER_KKTKeV4Dxg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1733737307201315580",
+  "vicinity": "Singapore"
+}

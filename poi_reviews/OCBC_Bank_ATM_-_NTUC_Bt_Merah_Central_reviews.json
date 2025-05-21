@@ -1,0 +1,67 @@
+{
+  "formatted_address": "166 Bukit Merah Central, #01-3531, Singapore 150166",
+  "geometry": {
+    "location": {
+      "lat": 1.2830511,
+      "lng": 103.8174283
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284251380291502,
+        "lng": 103.8188602302915
+      },
+      "southwest": {
+        "lat": 1.281553419708498,
+        "lng": 103.8161622697085
+      }
+    }
+  },
+  "name": "OCBC Bank ATM - NTUC Bt Merah Central",
+  "place_id": "ChIJ5fuX6NYb2jERaVM8a9rdE5A",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "Harsha Codes",
+      "author_url": "https://www.google.com/maps/contrib/103957937905420463714/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0OcGL3nw7t_POCR0_078EIfz4r0fEIxiK1qJ-J4FqDV9wmKdgIA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "No bank. Only the ATM",
+      "time": 1522984206,
+      "translated": false
+    },
+    {
+      "author_name": "夏宇ARG Leo",
+      "author_url": "https://www.google.com/maps/contrib/115307062354547467102/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlGI1HyIENH86DWgGkZhwcJC8dwGPcVMiUItpzBsVoogVPVFcM=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "There are no banks here wth",
+      "time": 1512438325,
+      "translated": true
+    },
+    {
+      "author_name": "Muthu Saravanan",
+      "author_url": "https://www.google.com/maps/contrib/107457816754105604195/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmorrzB4QFqNhZe4vz2QVUHoJMKaEmJWSzN1MwWqmIybMxwQjp=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1509435685,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10381885496190849897",
+  "user_ratings_total": 3,
+  "vicinity": "166 Bukit Merah Central, #01-3531"
+}

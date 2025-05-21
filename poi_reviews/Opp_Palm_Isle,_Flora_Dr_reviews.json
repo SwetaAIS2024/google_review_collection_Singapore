@@ -1,0 +1,86 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.356979,
+      "lng": 103.965187
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.358335980291502,
+        "lng": 103.9665535802915
+      },
+      "southwest": {
+        "lat": 1.355638019708498,
+        "lng": 103.9638556197085
+      }
+    }
+  },
+  "name": "Opp Palm Isle, Flora Dr",
+  "place_id": "ChIJ-cQlaPw82jERJZIMeZyNedU",
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Adrain Goh",
+      "author_url": "https://www.google.com/maps/contrib/113633025578197494326/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmFMJKDOhj2UnCWwACHMq6g5OPs8qYbuso0IwIYFIIMS42lihG=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Just sitting at the bus stop you can just see the sun setting.",
+      "time": 1604834067,
+      "translated": false
+    },
+    {
+      "author_name": "Nakshathra",
+      "author_url": "https://www.google.com/maps/contrib/103776180210048041879/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTa_xGoVzni2y_62fkAC8nA_hHeJYA_c489VIGiihQM_P_PqYV=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "careful",
+      "time": 1667788780,
+      "translated": false
+    },
+    {
+      "author_name": "Lenju Pathrose Koshy",
+      "author_url": "https://www.google.com/maps/contrib/101349934672793949132/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAoxGsbHckGEjeLM0ReWk47rno7tt99jBkcQPNxqVuE3gQEYltvg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1608011676,
+      "translated": false
+    },
+    {
+      "author_name": "Sahith Aadya",
+      "author_url": "https://www.google.com/maps/contrib/114497482785222167975/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaon-ZoHHfaVgEAyuKtybbaRiVRZAH53jP4t96yCmbKeJO587g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1632642000,
+      "translated": false
+    },
+    {
+      "author_name": "Roopa Reddy",
+      "author_url": "https://www.google.com/maps/contrib/105145963439272754844/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTBJbNacBmUuLa8DKl7rQ00EgN7JET6d3ovzrUst1t2tHMwE5K=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1564450470,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15382481705445921317",
+  "user_ratings_total": 5,
+  "vicinity": "Singapore"
+}

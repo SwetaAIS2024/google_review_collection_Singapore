@@ -1,0 +1,66 @@
+{
+  "formatted_address": "210 Lor 8 Toa Payoh, #01-43, Singapore 310210",
+  "geometry": {
+    "location": {
+      "lat": 1.3402503,
+      "lng": 103.854348
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341393230291502,
+        "lng": 103.8556336302915
+      },
+      "southwest": {
+        "lat": 1.338695269708498,
+        "lng": 103.8529356697085
+      }
+    }
+  },
+  "name": "217 Hot and Cold Drinks",
+  "place_id": "ChIJTeYL9uIX2jER1vDSxsF-QNg",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Royal Pears",
+      "author_url": "https://www.google.com/maps/contrib/108275532362304111934/reviews",
+      "language": "en-US",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7fWXYs74WHcXX9QkvI86GlbDyQ-pr1RmiDBEiTfZqq38Z6w=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "The empty teh-c was ok.",
+      "time": 1605517292,
+      "translated": true
+    },
+    {
+      "author_name": "kek low",
+      "author_url": "https://www.google.com/maps/contrib/114609286289035459712/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLP-lQ4REebyI_7ladMbPwEg7tOmJakPHlPek44qArIZ6IEQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "",
+      "time": 1746506523,
+      "translated": false
+    },
+    {
+      "author_name": "qq",
+      "author_url": "https://www.google.com/maps/contrib/102051636011055757052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHR0e3dSxLiIx5AyqxRwpC1eUs1xnqVSt9SgfPvMwOBSaBMmsw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "",
+      "time": 1723614692,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15582594081431417046",
+  "user_ratings_total": 3,
+  "vicinity": "210 Lorong 8 Toa Payoh, #01-43, Singapore"
+}

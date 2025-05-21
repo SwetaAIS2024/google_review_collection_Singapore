@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.377006,
+      "lng": 104.0019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378371380291502,
+        "lng": 104.0033059802915
+      },
+      "southwest": {
+        "lat": 1.375673419708498,
+        "lng": 104.0006080197085
+      }
+    }
+  },
+  "name": "Menlo Worldwide",
+  "place_id": "ChIJK0MKqXY82jERZjYWcFcAD3c",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Sufuanu Ali",
+      "author_url": "https://www.google.com/maps/contrib/105747045989355418009/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-NF-i5cadDGWk3Fij499XZWF1XSMyIaINd2PdTmKgnDpK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1479515392,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8579076190706742886",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

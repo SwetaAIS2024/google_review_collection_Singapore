@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 625 Elias Rd, #01-K3 Elias Mall, Singapore 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.3786144,
+      "lng": 103.9420438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.379833880291502,
+        "lng": 103.9435094302915
+      },
+      "southwest": {
+        "lat": 1.377135919708498,
+        "lng": 103.9408114697085
+      }
+    }
+  },
+  "name": "UOB ATM - Elias Mall",
+  "place_id": "ChIJ7RfSTD892jERo0yE6EG15jc",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4028106211407973539",
+  "vicinity": "Blk 625 Elias Road, #01-K3 Elias Mall"
+}

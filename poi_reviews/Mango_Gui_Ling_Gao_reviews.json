@@ -1,0 +1,30 @@
+{
+  "formatted_address": "28 Upper Cross St, Singapore 058337",
+  "geometry": {
+    "location": {
+      "lat": 1.284053,
+      "lng": 103.8451657
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285457030291502,
+        "lng": 103.8465477802915
+      },
+      "southwest": {
+        "lat": 1.282759069708498,
+        "lng": 103.8438498197085
+      }
+    }
+  },
+  "name": "Mango Gui Ling Gao",
+  "place_id": "ChIJU2MerAwZ2jERgOvKvi0vauk",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16819307631889542016",
+  "vicinity": "28 Upper Cross Street, Singapore"
+}

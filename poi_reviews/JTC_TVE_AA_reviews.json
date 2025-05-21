@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Tuas S Blvd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2835342,
+      "lng": 103.6205969
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284866980291502,
+        "lng": 103.6219903802915
+      },
+      "southwest": {
+        "lat": 1.282169019708498,
+        "lng": 103.6192924197085
+      }
+    }
+  },
+  "name": "JTC TVE AA",
+  "place_id": "ChIJTWt6GMQH2jERLpbTYsF6k2k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Project Infinity",
+      "author_url": "https://www.google.com/maps/contrib/109799013252653876074/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULl6WDYogrHlwxUqmpZZXebWLJW8HrK-JVdyrQtxu1KdvO9AuV=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "This place is not mine. It belongs to JTC. I set this location for parcel/ food delivery convenience.",
+      "time": 1617060752,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7607559166564210222",
+  "user_ratings_total": 1,
+  "vicinity": "Tuas South Boulevard"
+}

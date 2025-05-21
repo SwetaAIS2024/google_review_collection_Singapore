@@ -1,0 +1,30 @@
+{
+  "formatted_address": "704 Bedok Reservoir Rd, #01-3620, Singapore 470704",
+  "geometry": {
+    "location": {
+      "lat": 1.3366458,
+      "lng": 103.9203292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338012430291502,
+        "lng": 103.9216267302915
+      },
+      "southwest": {
+        "lat": 1.335314469708498,
+        "lng": 103.9189287697085
+      }
+    }
+  },
+  "name": "Jeff-Yee Trading",
+  "place_id": "ChIJ_RYAHlo92jERyXNHIJZ4lik",
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2996715188243624905",
+  "vicinity": "704 Bedok Reservoir Road, #01-3620"
+}

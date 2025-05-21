@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.40536,
+      "lng": 103.9023
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.406695430291502,
+        "lng": 103.9036411802915
+      },
+      "southwest": {
+        "lat": 1.403997469708498,
+        "lng": 103.9009432197085
+      }
+    }
+  },
+  "name": "Punggol Stn (Waterway Pt)(65251), Along Punggol Central",
+  "place_id": "ChIJMVjPUeMV2jERbH9l6agwfPU",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17689066938432847724",
+  "vicinity": "Singapore"
+}

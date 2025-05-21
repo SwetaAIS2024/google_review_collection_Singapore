@@ -1,0 +1,29 @@
+{
+  "formatted_address": "142 Lor Ah Soo, Singapore 530142",
+  "geometry": {
+    "location": {
+      "lat": 1.353003,
+      "lng": 103.8826371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.354435530291502,
+        "lng": 103.8839771802915
+      },
+      "southwest": {
+        "lat": 1.351737569708498,
+        "lng": 103.8812792197085
+      }
+    }
+  },
+  "name": "Kidney Clinic",
+  "place_id": "ChIJq6o6X7oX2jERxmrfOBX6guY",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16610113344751233734",
+  "vicinity": "142 Lorong Ah Soo"
+}

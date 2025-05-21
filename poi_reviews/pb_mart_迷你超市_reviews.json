@@ -1,0 +1,58 @@
+{
+  "formatted_address": "249 Jln Kayu, Singapore 799473",
+  "geometry": {
+    "location": {
+      "lat": 1.3965022,
+      "lng": 103.8728336
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.397794480291502,
+        "lng": 103.8743019802915
+      },
+      "southwest": {
+        "lat": 1.395096519708498,
+        "lng": 103.8716040197085
+      }
+    }
+  },
+  "name": "pb mart 迷你超市",
+  "place_id": "ChIJl4u2sl4X2jERgkrCaMqEFVw",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Sakilah Gaddafi",
+      "author_url": "https://www.google.com/maps/contrib/105372915210345673584/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuIKPbFUKVLMVeI8vH_CE6GS5unlvDKKA4gVfrHzwtFc0ytQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Great customer service! Always very helpful. You can find alot of items here!",
+      "time": 1720442395,
+      "translated": false
+    },
+    {
+      "author_name": "Tan Chiangfoo",
+      "author_url": "https://www.google.com/maps/contrib/115757218845514061973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6_IogPwdH_iF86VY-4G343G4vIxR7qFCjFrM7gZgyhwdK4g=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "8 months ago",
+      "text": "Order item but not pack.",
+      "time": 1724745168,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6635355630876117634",
+  "user_ratings_total": 2,
+  "vicinity": "249 Jalan Kayu"
+}

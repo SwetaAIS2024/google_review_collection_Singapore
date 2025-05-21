@@ -1,0 +1,63 @@
+{
+  "formatted_address": "16 College Rd, College of Medicine Building, Singapore 169854",
+  "geometry": {
+    "location": {
+      "lat": 1.2804373,
+      "lng": 103.8338135
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.281706230291502,
+        "lng": 103.8352922302915
+      },
+      "southwest": {
+        "lat": 1.279008269708498,
+        "lng": 103.8325942697085
+      }
+    }
+  },
+  "name": "College Of Family Physicians S'pore",
+  "place_id": "ChIJqRkUbnAZ2jERslvYTmyYrAY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "JQ",
+      "author_url": "https://www.google.com/maps/contrib/101038805843330224243/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK3RQ-_4mPsNUK0ZR2Tu4JQmIqU0vlNBla7tNEOWfcT_nMZe9M=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "",
+      "time": 1741908734,
+      "translated": false
+    },
+    {
+      "author_name": "Krishna Giri",
+      "author_url": "https://www.google.com/maps/contrib/102579173647152729687/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFmpJPC9fNY-m21qfwcNG0LoRu7m8g3MOaG2L2CKiFPvzDbQtF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583210370,
+      "translated": false
+    },
+    {
+      "author_name": "Kenny Chua",
+      "author_url": "https://www.google.com/maps/contrib/116297858667564013126/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx8tLxwDNUeaHOHMuUAmxwZv7w-yCoTejPBE0dzME8RMujlCtHXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1513101339,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=480926851168492466",
+  "user_ratings_total": 3,
+  "vicinity": "16 College Road, College of Medicine Building"
+}

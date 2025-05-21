@@ -1,0 +1,29 @@
+{
+  "formatted_address": "220 Orchard Rd, #04-04 Midpoint Orchard, Singapore 238852",
+  "geometry": {
+    "location": {
+      "lat": 1.301654,
+      "lng": 103.838554
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302911230291502,
+        "lng": 103.8398813802915
+      },
+      "southwest": {
+        "lat": 1.300213269708498,
+        "lng": 103.8371834197085
+      }
+    }
+  },
+  "name": "Florilia Surgery",
+  "place_id": "ChIJ11E4MZEZ2jERlfwd2fmQrgU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=409424018901171349",
+  "vicinity": "220 Orchard Road, #04-04 Midpoint Orchard"
+}

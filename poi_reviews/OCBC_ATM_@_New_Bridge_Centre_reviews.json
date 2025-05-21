@@ -1,0 +1,55 @@
+{
+  "formatted_address": "241 New Bridge Rd, Singapore 059439",
+  "geometry": {
+    "location": {
+      "lat": 1.2829469,
+      "lng": 103.8428519
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284345930291502,
+        "lng": 103.8442101802915
+      },
+      "southwest": {
+        "lat": 1.281647969708498,
+        "lng": 103.8415122197085
+      }
+    }
+  },
+  "name": "OCBC ATM @ New Bridge Centre",
+  "place_id": "ChIJG-eHDXMZ2jERAtTBgKfkZGM",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Luca Kozak",
+      "author_url": "https://www.google.com/maps/contrib/107801954661805071267/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIcTf7EjTRBScMV48UQ4O-UAb78lJwCypQV4CEW6fxvnLr-5w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Pulled my card inside, didn’t give back. Fee was 8$… Assistance number didn’t work, so I had to terminate my card.",
+      "time": 1744435142,
+      "translated": false
+    },
+    {
+      "author_name": "Dinesh Patel",
+      "author_url": "https://www.google.com/maps/contrib/109277425505057887141/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUwbxEFpvKuYAitb8b0woghhRQc0g7WH-U7a6LU7xSwaumzPI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1553229584,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7162100715496788994",
+  "user_ratings_total": 2,
+  "vicinity": "241 New Bridge Road, Singapore"
+}

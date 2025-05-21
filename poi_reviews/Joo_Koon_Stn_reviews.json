@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3277375,
+      "lng": 103.6779298
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.329003080291502,
+        "lng": 103.6795735302915
+      },
+      "southwest": {
+        "lat": 1.326305119708498,
+        "lng": 103.6768755697085
+      }
+    }
+  },
+  "name": "Joo Koon Stn",
+  "place_id": "ChIJH7q6Hn4P2jERYhDYdCi9NVg",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6356194430559981666",
+  "vicinity": "Singapore"
+}

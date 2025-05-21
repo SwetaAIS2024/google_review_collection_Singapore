@@ -1,0 +1,27 @@
+{
+  "formatted_address": "Fernvale Rd, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3968439,
+      "lng": 103.875724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.398193730291502,
+        "lng": 103.8770653802915
+      },
+      "southwest": {
+        "lat": 1.395495769708498,
+        "lng": 103.8743674197085
+      }
+    }
+  },
+  "name": "67741 Thanggam Stn Exit B",
+  "place_id": "ChIJdeWaPXsW2jERQzCkEaJNv0w",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5530224225910272067",
+  "vicinity": "Fernvale Road"
+}

@@ -1,0 +1,67 @@
+{
+  "formatted_address": "Bugis SMRT Station, 220 Victoria St, Singapore 188022",
+  "geometry": {
+    "location": {
+      "lat": 1.2992631,
+      "lng": 103.8552214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.300550730291502,
+        "lng": 103.8566386802915
+      },
+      "southwest": {
+        "lat": 1.297852769708498,
+        "lng": 103.8539407197085
+      }
+    }
+  },
+  "name": "Citibank Singapore ATM - Bugis MRT",
+  "place_id": "ChIJB-kGh7oZ2jERgXmOk5fWPNI",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "Nubia",
+      "author_url": "https://www.google.com/maps/contrib/110335268119578574562/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeRCCfZnCH5z3JilvWs8P_CFvrhE0y77O4pDq4m4x8lO6gXHUg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "It’s on the way to EW(green) Line, there is no more citi bank ATM at B1-K15 Bugis junction, I spend a while to find one finally!",
+      "time": 1643865268,
+      "translated": false
+    },
+    {
+      "author_name": "La Ha",
+      "author_url": "https://www.google.com/maps/contrib/114708837016852189257/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfVNtd0QtT6gZZE_a4fjJVzAA4hBne7azm8mytA8lZuNyvdHo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Underground inside the station",
+      "time": 1674617634,
+      "translated": false
+    },
+    {
+      "author_name": "Lee Weiping",
+      "author_url": "https://www.google.com/maps/contrib/110316372887943249641/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo6PDTCylNYwsq0n7-iy7QzMj4bcaQdRESHlkJRc6zxJdmFw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1568227327,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15149219193071499649",
+  "user_ratings_total": 3,
+  "vicinity": "Bugis SMRT Station, 220 Victoria Street"
+}

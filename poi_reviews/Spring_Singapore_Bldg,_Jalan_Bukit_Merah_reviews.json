@@ -1,0 +1,66 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.28504,
+      "lng": 103.81368
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.286427980291502,
+        "lng": 103.8150405302915
+      },
+      "southwest": {
+        "lat": 1.283730019708498,
+        "lng": 103.8123425697085
+      }
+    }
+  },
+  "name": "Spring Singapore Bldg, Jalan Bukit Merah",
+  "place_id": "ChIJaXeE2tMb2jERiNrv5FeoDm0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Swaminathan Ekambaram",
+      "author_url": "https://www.google.com/maps/contrib/106930731063055616892/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJSMajOxh1uMUAAnAkA-lehG6GulXTgTpf1v9JHnLyNhtvk7P8Eg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Nice auditorium 👍 If they have their own mic setting then it would have been much better.",
+      "time": 1723465891,
+      "translated": false
+    },
+    {
+      "author_name": "TY Kwa",
+      "author_url": "https://www.google.com/maps/contrib/110362762403668558284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjuTNM9spZmMI6o7MCcPb2jAEQV38Fr6oqG2oxxKn77wNr4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "This Bukit Merah Central address is old address for SPRING SINGAPORE. It has already moved to new address",
+      "time": 1512962832,
+      "translated": false
+    },
+    {
+      "author_name": "rayan",
+      "author_url": "https://www.google.com/maps/contrib/114084114464974163544/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7gBNI3LKAPenCm77pHwDinW3GK5rbR8B4VN-EEbaKJTU9sCyi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1532877458,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7858403495264639624",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

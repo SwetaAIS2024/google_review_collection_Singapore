@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.384368,
+      "lng": 103.90226
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385686430291502,
+        "lng": 103.9036601802915
+      },
+      "southwest": {
+        "lat": 1.382988469708498,
+        "lng": 103.9009622197085
+      }
+    }
+  },
+  "name": "Kangkar Stn Exit A",
+  "place_id": "ChIJOyZWhBcW2jERikTVjxJ5jE4",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5660031952327361674",
+  "vicinity": "Singapore"
+}

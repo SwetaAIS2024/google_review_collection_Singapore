@@ -1,0 +1,62 @@
+{
+  "formatted_address": "Singapore 637459",
+  "geometry": {
+    "location": {
+      "lat": 1.3441808,
+      "lng": 103.6803555
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345446330291502,
+        "lng": 103.6816268302915
+      },
+      "southwest": {
+        "lat": 1.342748369708498,
+        "lng": 103.6789288697085
+      }
+    }
+  },
+  "name": "NTU (College of Engineering) - Centre for Biotechnology",
+  "place_id": "ChIJe_lA23QP2jEROkwHgUoBua8",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Mother Baby",
+      "author_url": "https://www.google.com/maps/contrib/104960498068004281521/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxpTQpWKNP71IRnWGmm69_oyIgY0N9wjf_P1njA3veJxV32HDgLw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1569603406,
+      "translated": false
+    },
+    {
+      "author_name": "Aniket Mimani",
+      "author_url": "https://www.google.com/maps/contrib/106464575370427258714/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm4jXTBc3oIa5cUm81AdvA_NpgTnvwIkVktf7V3emeUXr6TA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1687843920,
+      "translated": false
+    },
+    {
+      "author_name": "chokku lingam",
+      "author_url": "https://www.google.com/maps/contrib/110779973630163358770/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgVyNDLHQixEGA5Piy31dZx9uZpckDAez1niNHsK2uPTyD63s=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1555244953,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12662153246832806970",
+  "user_ratings_total": 3,
+  "vicinity": ""
+}

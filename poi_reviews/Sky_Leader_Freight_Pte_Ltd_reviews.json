@@ -1,0 +1,55 @@
+{
+  "formatted_address": "7 Airline Rd, #02-11 E Cargo Agents Building, Singapore 819834",
+  "geometry": {
+    "location": {
+      "lat": 1.3840178,
+      "lng": 103.9999693
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.385473130291502,
+        "lng": 104.0010748802915
+      },
+      "southwest": {
+        "lat": 1.382775169708498,
+        "lng": 103.9983769197085
+      }
+    }
+  },
+  "name": "Sky Leader Freight Pte Ltd",
+  "place_id": "ChIJ2WxM9Qw82jER6DMtcsIoFVE",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "J Tan",
+      "author_url": "https://www.google.com/maps/contrib/110729650588173737366/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIxBE7YPnGgOfAbyWRdwBLotBq-96F8crF7iQVUMXpf3E5PCuPsA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I've had a great experience with this freight forwarding company. They are highly efficient, well-organised, and offer very competitive pricing. Their attention to detail and timely delivery make them a reliable choice for any shipping needs. Highly recommend!",
+      "time": 1727533259,
+      "translated": false
+    },
+    {
+      "author_name": "Abangidris Tongkateddy",
+      "author_url": "https://www.google.com/maps/contrib/113626151651021062091/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQGl7hSQQoOACBUaMUQAdb1vJo5e0yl-i5ffCO7Mcm9ZftVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "Normal airfreight import and export .",
+      "time": 1700404566,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5842620907187418088",
+  "user_ratings_total": 2,
+  "vicinity": "7 Airline Road, #02-11 E Cargo Agents Building"
+}

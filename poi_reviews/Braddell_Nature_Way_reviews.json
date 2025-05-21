@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Bishan, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3443259,
+      "lng": 103.84696
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.345659780291502,
+        "lng": 103.8481839802915
+      },
+      "southwest": {
+        "lat": 1.342961819708498,
+        "lng": 103.8454860197085
+      }
+    }
+  },
+  "name": "Braddell Nature Way",
+  "place_id": "ChIJIS2_yNoX2jERJQpBxL6q6w8",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "S L",
+      "author_url": "https://www.google.com/maps/contrib/111316266362121177513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8I2uN7gwPn5CkePxatLABOvENTIHlM1m1__Wx9OjEuTf-wA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Sad state of affairs re the shrubs along the road. Feedback provided to LTA via OneService on 25/1/25. Let’s see what happens!",
+      "time": 1737799460,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1147198266409028133",
+  "user_ratings_total": 1,
+  "vicinity": ""
+}

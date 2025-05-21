@@ -1,0 +1,47 @@
+{
+  "formatted_address": "BLK 237 Jurong East Street 21, #01-402, Singapore 600237",
+  "geometry": {
+    "location": {
+      "lat": 1.3407223,
+      "lng": 103.741218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342072130291502,
+        "lng": 103.7426518302915
+      },
+      "southwest": {
+        "lat": 1.339374169708498,
+        "lng": 103.7399538697085
+      }
+    }
+  },
+  "name": "Star Mars Pte Ltd",
+  "place_id": "ChIJsRQQsBAR2jERrGj3vFhXCDY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kathijha Almas",
+      "author_url": "https://www.google.com/maps/contrib/105647015100718375231/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmF2-kqgJ_514uCzcavcppEDEHQk7_YPtbg9s6ae-6NHGYvg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Variety of goods! Love the people working there :)",
+      "time": 1736061757,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3893457916500863148",
+  "user_ratings_total": 1,
+  "vicinity": "BLK 237 Jurong East Street 21, #01-402"
+}

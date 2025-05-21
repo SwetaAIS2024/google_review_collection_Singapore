@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Bain St, #04-11 Block 231, Singapore 180231",
+  "geometry": {
+    "location": {
+      "lat": 1.297105,
+      "lng": 103.853681
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298510980291502,
+        "lng": 103.8550911802915
+      },
+      "southwest": {
+        "lat": 1.295813019708498,
+        "lng": 103.8523932197085
+      }
+    }
+  },
+  "name": "Pin Xuan Ge Pte. Ltd.",
+  "place_id": "ChIJPaWdBKUZ2jERiqwA0iDycM4",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Philip Tan",
+      "author_url": "https://www.google.com/maps/contrib/109165066736699439811/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJnjQSL-7kt0pqfCvXbPdjroyjLjZlJEziRGMoTPM1Ct1yPQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "",
+      "time": 1742817677,
+      "translated": false
+    }
+  ],
+  "types": [
+    "art_gallery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14875655791980883082",
+  "user_ratings_total": 1,
+  "vicinity": "Bain Street, #04-11 Block 231"
+}

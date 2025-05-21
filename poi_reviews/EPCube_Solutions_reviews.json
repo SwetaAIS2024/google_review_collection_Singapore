@@ -1,0 +1,27 @@
+{
+  "formatted_address": "15 Changi Business Park Central 1, Singapore 486057",
+  "geometry": {
+    "location": {
+      "lat": 1.3371942,
+      "lng": 103.9641636
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338581530291502,
+        "lng": 103.9655716302915
+      },
+      "southwest": {
+        "lat": 1.335883569708498,
+        "lng": 103.9628736697085
+      }
+    }
+  },
+  "name": "EPCube Solutions",
+  "place_id": "ChIJ_TzIrtk82jERmeDoqtu4woc",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9782584594206875801",
+  "vicinity": "15 Changi Business Park Central 1"
+}

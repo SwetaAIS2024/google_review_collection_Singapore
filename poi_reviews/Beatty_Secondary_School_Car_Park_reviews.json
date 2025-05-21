@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3415302,
+      "lng": 103.8522164
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343246730291502,
+        "lng": 103.8530892302915
+      },
+      "southwest": {
+        "lat": 1.340548769708498,
+        "lng": 103.8503912697085
+      }
+    }
+  },
+  "name": "Beatty Secondary School Car Park",
+  "place_id": "ChIJyYMmKWwX2jER9a40DIIOxZ4",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Chuan Sim",
+      "author_url": "https://www.google.com/maps/contrib/100854993077878141371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPlisa8cFbcdBV0z8IrjAl3k2dnjxt_H3ka2PQU9JDtI1RH6fH=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Outdoor car park with wheelchair access.",
+      "time": 1657333531,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11440566380117929717",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

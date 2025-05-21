@@ -1,0 +1,45 @@
+{
+  "formatted_address": "433 Clementi Ave 3, Singapore 120433",
+  "geometry": {
+    "location": {
+      "lat": 1.3139753,
+      "lng": 103.7621348
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315308480291502,
+        "lng": 103.7635223802915
+      },
+      "southwest": {
+        "lat": 1.312610519708498,
+        "lng": 103.7608244197085
+      }
+    }
+  },
+  "name": "Lim Kian Hin TCM",
+  "place_id": "ChIJfcYlTAAb2jERvU-sPo28R3w",
+  "rating": 1,
+  "reviews": [
+    {
+      "author_name": "Jon Lee",
+      "author_url": "https://www.google.com/maps/contrib/109373452789844479635/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUuOCc6QxGvmLfz6doEXRbYxOq17E7SMClXEQT8QgFToryB-k=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Worst ever TCM visited! Never on-time and give alot of stupid excuse! Dun ever trust this TCM, VISIT AT YOUR OWN RISK!!!!",
+      "time": 1740274339,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8955333698877411261",
+  "user_ratings_total": 1,
+  "vicinity": "433 Clementi Avenue 3, Singapore"
+}

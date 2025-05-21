@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.355867,
+      "lng": 103.686921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.357244780291502,
+        "lng": 103.6882798302915
+      },
+      "southwest": {
+        "lat": 1.354546819708498,
+        "lng": 103.6855818697085
+      }
+    }
+  },
+  "name": "Blk 55 (20 Nanyang Ave)",
+  "place_id": "ChIJ2fCqmKgP2jER4U8nNENl2a8",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12671270365895806945",
+  "vicinity": "Singapore"
+}

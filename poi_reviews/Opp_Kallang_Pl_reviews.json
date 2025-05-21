@@ -1,0 +1,43 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3141018,
+      "lng": 103.865793
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.315477330291502,
+        "lng": 103.8671606302915
+      },
+      "southwest": {
+        "lat": 1.312779369708498,
+        "lng": 103.8644626697085
+      }
+    }
+  },
+  "name": "Opp Kallang Pl",
+  "place_id": "ChIJK2Kw-swZ2jERPGUmjPPJ_oQ",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Vairavan Rajendran",
+      "author_url": "https://www.google.com/maps/contrib/111336797659349833085/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxbW0N86lC2KsgRti4b0VzXk6Tx4lJyxs4jCQjg0xXoud01w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1508822898,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bus_station",
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9583319104956556604",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

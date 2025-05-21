@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.324656,
+      "lng": 103.636131
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326003830291502,
+        "lng": 103.6374812302915
+      },
+      "southwest": {
+        "lat": 1.323305869708498,
+        "lng": 103.6347832697085
+      }
+    }
+  },
+  "name": "Rotary Engrg",
+  "place_id": "ChIJLyEGnQAG2jERmg9vA8-Uj10",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6741770784033673114",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,41 @@
+{
+  "formatted_address": "8 Tuas Bay Ln, Singapore 636986",
+  "geometry": {
+    "location": {
+      "lat": 1.2974524,
+      "lng": 103.6359865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.298856430291502,
+        "lng": 103.6369030302915
+      },
+      "southwest": {
+        "lat": 1.296158469708498,
+        "lng": 103.6342050697085
+      }
+    }
+  },
+  "name": "Novartis BioProduction Operations Singapore",
+  "place_id": "ChIJ4R1oi3gG2jERV9tDsUCDKUM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Sarah Klingam",
+      "author_url": "https://www.google.com/maps/contrib/109378540007662997886/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPM7ePtvqHvKN_jk8oDJ7xjKWnQ2rj2iA11LeHk3cT-Wj32ZHL=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1656419002,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4839543588461468503",
+  "user_ratings_total": 1,
+  "vicinity": "8 Tuas Bay Lane, Singapore"
+}

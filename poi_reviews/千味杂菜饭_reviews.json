@@ -1,0 +1,30 @@
+{
+  "formatted_address": "210 Hougang St 21, Singapore 530210",
+  "geometry": {
+    "location": {
+      "lat": 1.3591212,
+      "lng": 103.8874802
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.360497880291502,
+        "lng": 103.8886413802915
+      },
+      "southwest": {
+        "lat": 1.357799919708498,
+        "lng": 103.8859434197085
+      }
+    }
+  },
+  "name": "千味杂菜饭",
+  "place_id": "ChIJJW2eKAAX2jERGcmI1ibLvvM",
+  "types": [
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17563698964459997465",
+  "vicinity": "210 Hougang Street 21, Singapore"
+}

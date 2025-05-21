@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3077263,
+      "lng": 103.8200865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309176930291502,
+        "lng": 103.8214504802915
+      },
+      "southwest": {
+        "lat": 1.306478969708498,
+        "lng": 103.8187525197085
+      }
+    }
+  },
+  "name": "Frances Children Clinic",
+  "place_id": "ChIJvY5xIiAa2jERMfjVPqQnGhk",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1808801786725005361",
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "10 Airport Blvd, Changi International Airport, Level 2 #02-71 Transit Area near gate H, Terminal 4, Singapore 819665",
+  "geometry": {
+    "location": {
+      "lat": 1.3390218,
+      "lng": 103.9820703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.340326480291502,
+        "lng": 103.9833999302915
+      },
+      "southwest": {
+        "lat": 1.337628519708498,
+        "lng": 103.9807019697085
+      }
+    }
+  },
+  "name": "IRVINS at Changi Terminal 4",
+  "place_id": "ChIJV-N14ss92jERWLgeDvwS-84",
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14914535464745482328",
+  "vicinity": "10 Airport Blvd, Changi International Airport, Level 2 #02-71 Transit Area near gate H, Terminal 4"
+}

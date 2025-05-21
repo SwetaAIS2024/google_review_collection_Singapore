@@ -1,0 +1,30 @@
+{
+  "formatted_address": "9006 Tampines Street 93, Singapore 528840",
+  "geometry": {
+    "location": {
+      "lat": 1.3418565,
+      "lng": 103.9425877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343237530291502,
+        "lng": 103.9438128802915
+      },
+      "southwest": {
+        "lat": 1.340539569708498,
+        "lng": 103.9411149197085
+      }
+    }
+  },
+  "name": "Seng Sin Chinese Medical Hall Pte Ltd",
+  "place_id": "ChIJS5Pnmz492jERbk0pi6NOmo0",
+  "types": [
+    "pharmacy",
+    "point_of_interest",
+    "health",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10203554370082655598",
+  "vicinity": "9006 Tampines Street 93"
+}

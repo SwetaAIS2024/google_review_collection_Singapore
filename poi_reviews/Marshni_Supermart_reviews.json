@@ -1,0 +1,31 @@
+{
+  "formatted_address": "249 Jurong East St 24, #01-80, Singapore 600249",
+  "geometry": {
+    "location": {
+      "lat": 1.3425265,
+      "lng": 103.7393792
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.343946680291502,
+        "lng": 103.7407700302915
+      },
+      "southwest": {
+        "lat": 1.341248719708498,
+        "lng": 103.7380720697085
+      }
+    }
+  },
+  "name": "Marshni Supermart",
+  "place_id": "ChIJ_ccNR08R2jERKxMIGE2Nub8",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13815228694190887723",
+  "vicinity": "249 Jurong East Street 24, #01-80"
+}

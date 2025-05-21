@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Hougang, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3791901,
+      "lng": 103.8768881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380608880291502,
+        "lng": 103.8781691302915
+      },
+      "southwest": {
+        "lat": 1.377910919708498,
+        "lng": 103.8754711697085
+      }
+    }
+  },
+  "name": "Buangkok Park Connector",
+  "place_id": "ChIJZXb0cwAX2jERuuiZzjZGlUs",
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5446336525582854330",
+  "vicinity": ""
+}

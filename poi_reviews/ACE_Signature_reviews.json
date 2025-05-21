@@ -1,0 +1,59 @@
+{
+  "formatted_address": "448 Geylang Rd, Singapore 389407",
+  "geometry": {
+    "location": {
+      "lat": 1.3132173,
+      "lng": 103.883655
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314656080291502,
+        "lng": 103.8849859802915
+      },
+      "southwest": {
+        "lat": 1.311958119708498,
+        "lng": 103.8822880197085
+      }
+    }
+  },
+  "name": "ACE Signature",
+  "place_id": "ChIJS7baTgAZ2jERqGW9LWRCZf0",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "Terence Lim",
+      "author_url": "https://www.google.com/maps/contrib/112514011369798913499/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInCUrBA-9FDpZ4oabecfnOtek3W4lgsRQ3ukXU5ViXPP5xGw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This supermarket seems to be operated by Value shop. I saw items and price tags from value shop. You are able to get cheap items here.",
+      "time": 1738249564,
+      "translated": false
+    },
+    {
+      "author_name": "Shr Es",
+      "author_url": "https://www.google.com/maps/contrib/107084274001946385523/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_61Dlgg51L_x4dRkTPQmxIBHczvF44g8cQm4cnIHinCDen8jE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "It is shut sometimes although it says 24 hrs. On a Friday eve I went there around 10pm and it was closed",
+      "time": 1739617563,
+      "translated": false
+    }
+  ],
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18259073262275093928",
+  "user_ratings_total": 2,
+  "vicinity": "448 Geylang Road, Singapore"
+}

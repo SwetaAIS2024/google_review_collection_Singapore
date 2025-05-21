@@ -1,0 +1,55 @@
+{
+  "formatted_address": "233 Hougang St 21, Singapore 530233",
+  "geometry": {
+    "location": {
+      "lat": 1.35795,
+      "lng": 103.8881644
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359211130291502,
+        "lng": 103.8895141802915
+      },
+      "southwest": {
+        "lat": 1.356513169708498,
+        "lng": 103.8868162197085
+      }
+    }
+  },
+  "name": "Block 233 HDB Hougang",
+  "place_id": "ChIJjZje9bYX2jERTfowP4lexUY",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Christopher Seow",
+      "author_url": "https://www.google.com/maps/contrib/109499295766146670121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURRPNE0nZ7ED2qNk0xnkv1W7NvhEimTGteyiMUp3RbJLXvIx-zcQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "Full of Taoist burning paper and neighbors making noises at night.",
+      "time": 1488343485,
+      "translated": false
+    },
+    {
+      "author_name": "Chloe Corona",
+      "author_url": "https://www.google.com/maps/contrib/102153918439782873585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNQvIksIl27EGatrBd9rQj9vuoUwCueUF88W_U3YcmPIjYwd34=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "10 years ago",
+      "text": "So lively",
+      "time": 1429241077,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5099586096630659661",
+  "user_ratings_total": 2,
+  "vicinity": "233 Hougang Street 21, Singapore"
+}

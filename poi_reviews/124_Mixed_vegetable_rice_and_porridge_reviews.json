@@ -1,0 +1,44 @@
+{
+  "formatted_address": "124 Lor 1 Toa Payoh, Singapore 310124",
+  "geometry": {
+    "location": {
+      "lat": 1.338661,
+      "lng": 103.8447333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339936680291502,
+        "lng": 103.8457907802915
+      },
+      "southwest": {
+        "lat": 1.337238719708498,
+        "lng": 103.8430928197085
+      }
+    }
+  },
+  "name": "124 Mixed vegetable rice and porridge",
+  "place_id": "ChIJp4xwdUIX2jERIMB2ha2z3Vs",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Hello Boung",
+      "author_url": "https://www.google.com/maps/contrib/111883306811835692052/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKI7_kytKhbMs_wYRJrW45n2_ez0tokf6Ktdpf26PN-w8ZDYg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1668669880,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6619644585154363424",
+  "user_ratings_total": 1,
+  "vicinity": "124 Lorong 1 Toa Payoh, Singapore"
+}

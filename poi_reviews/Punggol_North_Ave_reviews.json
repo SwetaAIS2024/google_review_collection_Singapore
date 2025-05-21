@@ -1,0 +1,42 @@
+{
+  "formatted_address": "Punggol North Ave, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.4026646,
+      "lng": 103.9188261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.404039280291502,
+        "lng": 103.9201942302915
+      },
+      "southwest": {
+        "lat": 1.401341319708498,
+        "lng": 103.9174962697085
+      }
+    }
+  },
+  "name": "Punggol North Ave",
+  "place_id": "ChIJCb94jXA_2jERJkV_MC8sc40",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Fishermen Lifestyle",
+      "author_url": "https://www.google.com/maps/contrib/111432636504132671498/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcsE_OX9dCifK1ygnjG_klHVKtZcnJ8Mvdj5Aq8FygOLYDseMXzQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "",
+      "time": 1733750002,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10192538962858296614",
+  "user_ratings_total": 1,
+  "vicinity": "Punggol North Avenue"
+}

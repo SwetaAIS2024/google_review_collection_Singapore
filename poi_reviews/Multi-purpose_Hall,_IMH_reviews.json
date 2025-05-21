@@ -1,0 +1,65 @@
+{
+  "formatted_address": "10 Buangkok View, Singapore 539747",
+  "geometry": {
+    "location": {
+      "lat": 1.3830769,
+      "lng": 103.885005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.384480080291502,
+        "lng": 103.8864067302915
+      },
+      "southwest": {
+        "lat": 1.381782119708498,
+        "lng": 103.8837087697085
+      }
+    }
+  },
+  "name": "Multi-purpose Hall, IMH",
+  "place_id": "ChIJgdQb-mkW2jERujQevwpEXHg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Shawn Hui",
+      "author_url": "https://www.google.com/maps/contrib/103086648199332358574/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHDdZGR-uMIu93xfzksXLO8dAIhwKY27Xt6MOMjrc4daunVNLd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Pleasant place.",
+      "time": 1696323270,
+      "translated": false
+    },
+    {
+      "author_name": "Rabi Kumar",
+      "author_url": "https://www.google.com/maps/contrib/117401688477271575080/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwR5fywD23uVaUfBmVEOVoPSPH-6-Pf7JtzgbGdkPo1M5h=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "",
+      "time": 1724682781,
+      "translated": false
+    },
+    {
+      "author_name": "Yi Kang Ng",
+      "author_url": "https://www.google.com/maps/contrib/108619597284500748522/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImXzn2rKEhjiwj8vdSXNZU8mIfK3mVNP8Lzgr1AI9NpVckPw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1683955999,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8672881795355522234",
+  "user_ratings_total": 3,
+  "vicinity": "10 Buangkok View, Singapore"
+}

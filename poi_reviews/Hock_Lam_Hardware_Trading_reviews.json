@@ -1,0 +1,41 @@
+{
+  "formatted_address": "23 Jln Tepong, Singapore 619339",
+  "geometry": {
+    "location": {
+      "lat": 1.3081259,
+      "lng": 103.722364
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.309284080291502,
+        "lng": 103.7234717802915
+      },
+      "southwest": {
+        "lat": 1.306586119708498,
+        "lng": 103.7207738197085
+      }
+    }
+  },
+  "name": "Hock Lam Hardware Trading",
+  "place_id": "ChIJddc3GzYF2jER8W8Pbo8Pyqc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kian Hock Tan",
+      "author_url": "https://www.google.com/maps/contrib/104035357887499326241/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxO8wPR8oXd2GgEHGP8xPzBOtFh0S4Lxi4Q-2cWiVLn3aq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1702259206,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12090493258330763249",
+  "user_ratings_total": 1,
+  "vicinity": "23 Jalan Tepong, Singapore"
+}

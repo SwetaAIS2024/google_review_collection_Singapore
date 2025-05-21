@@ -1,0 +1,31 @@
+{
+  "formatted_address": "#07-01 Harbour Front Centre, 1 Maritime Square, Singapore 099253, Singapore 099253",
+  "geometry": {
+    "location": {
+      "lat": 1.2634389,
+      "lng": 103.8200419
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.264982480291502,
+        "lng": 103.8214992802915
+      },
+      "southwest": {
+        "lat": 1.262284519708498,
+        "lng": 103.8188013197085
+      }
+    }
+  },
+  "name": "Elite Home",
+  "place_id": "ChIJHSFu9eIb2jERrgmF8mJ152Y",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7415024379324860846",
+  "vicinity": "#07-01 Harbour Front Centre, 1 Maritime Square, Singapore 099253"
+}

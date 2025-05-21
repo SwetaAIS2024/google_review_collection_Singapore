@@ -1,0 +1,52 @@
+{
+  "formatted_address": "Blk 27 Tuas Ave 13, #01-23, Singapore 638993",
+  "geometry": {
+    "location": {
+      "lat": 1.3217266,
+      "lng": 103.639965
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.323030180291502,
+        "lng": 103.6413616302915
+      },
+      "southwest": {
+        "lat": 1.320332219708498,
+        "lng": 103.6386636697085
+      }
+    }
+  },
+  "name": "AVM Diesel (F.E.) Pte. Ltd.",
+  "place_id": "ChIJv5HpSPwF2jERf-LUNk_WXlA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Lee Weng Sun",
+      "author_url": "https://www.google.com/maps/contrib/110004623537414830083/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7nY7zpLCXqTmzVXB7l9pIa33Bxr1Y8TbKnsDbdJxlJmdO00bI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1704453952,
+      "translated": false
+    },
+    {
+      "author_name": "易永全",
+      "author_url": "https://www.google.com/maps/contrib/105662394953552503432/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZW8P1SkaeP7WnbFPkJLSjmk_jC1NHqwvVpKUNBcDf2hHyPw=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1643090710,
+      "translated": false
+    }
+  ],
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5791301806555718271",
+  "user_ratings_total": 2,
+  "vicinity": "Blk 27 Tuas Avenue 13, #01-23"
+}

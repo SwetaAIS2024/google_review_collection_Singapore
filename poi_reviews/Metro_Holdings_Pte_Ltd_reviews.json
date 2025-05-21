@@ -1,0 +1,44 @@
+{
+  "formatted_address": "391A Orchard Rd, Singapore 238873",
+  "geometry": {
+    "location": {
+      "lat": 1.3040938,
+      "lng": 103.8359038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.305422330291502,
+        "lng": 103.8374498302915
+      },
+      "southwest": {
+        "lat": 1.302724369708498,
+        "lng": 103.8347518697085
+      }
+    }
+  },
+  "name": "Metro Holdings Pte Ltd",
+  "place_id": "ChIJI8KQ8pEZ2jER6kXdkvgyMRc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "E.Yusanti Siregar",
+      "author_url": "https://www.google.com/maps/contrib/101654518997354677864/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdsQeszVYoLE1IomTyeL_ausTKqbGYCs_JbKXh862aa4VBqA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1580800798,
+      "translated": false
+    }
+  ],
+  "types": [
+    "convenience_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1671172979928417770",
+  "user_ratings_total": 1,
+  "vicinity": "391A Orchard Road, Singapore"
+}

@@ -1,0 +1,57 @@
+{
+  "formatted_address": "Elias Rd, Elias Mall, Singapura 510625",
+  "geometry": {
+    "location": {
+      "lat": 1.3776221,
+      "lng": 103.9425248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.378888580291502,
+        "lng": 103.9438146302915
+      },
+      "southwest": {
+        "lat": 1.376190619708498,
+        "lng": 103.9411166697085
+      }
+    }
+  },
+  "name": "Grandma's Taste Ipoh Claypot (南洋 • 怡保砂煲)",
+  "place_id": "ChIJdQA9bAA92jERRml8-xCR-KY",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Darren",
+      "author_url": "https://www.google.com/maps/contrib/109978737325132432353/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6Bi3t32HufY00Cw7q33sBQbeuCui7GSnIWopK_HOZa7boig=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Garbage with little portion. Try at your own risk.",
+      "time": 1743505730,
+      "translated": false
+    },
+    {
+      "author_name": "Ho Cheong Keet",
+      "author_url": "https://www.google.com/maps/contrib/100980012785820292539/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7kcNIXIbejkeHMWp9UKC0GYh_hcmrQwFAXVb4KITQFrP3Z94=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "The food in the coffee shop tastes like my grandma's home. The food is delicious and really has the taste of home.",
+      "time": 1747731498,
+      "translated": true
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12031525906645018950",
+  "user_ratings_total": 2,
+  "vicinity": "Elias Road, Elias Mall, Singapura"
+}

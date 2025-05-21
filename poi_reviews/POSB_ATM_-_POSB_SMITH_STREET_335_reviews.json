@@ -1,0 +1,45 @@
+{
+  "formatted_address": "335 Smith St, CHINATOWN COMPLEX, Singapore 050335",
+  "geometry": {
+    "location": {
+      "lat": 1.2824043,
+      "lng": 103.8433125
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.283800330291502,
+        "lng": 103.8446709802915
+      },
+      "southwest": {
+        "lat": 1.281102369708498,
+        "lng": 103.8419730197085
+      }
+    }
+  },
+  "name": "POSB ATM - POSB SMITH STREET/335",
+  "place_id": "ChIJYcaxAScZ2jERYTKL__M9BKM",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Flo Yeow",
+      "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Located on the ground floor of Chinatown Complex, the POSB ATM is quite visible if you're visiting the hawker centre. The bright blue of the POSB logo, and the open space at which it's housed around. Hard to miss, provided you need to withdraw some cash.",
+      "time": 1711951514,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11746581846262755937",
+  "user_ratings_total": 1,
+  "vicinity": "335 Smith Street, CHINATOWN COMPLEX"
+}

@@ -1,0 +1,58 @@
+{
+  "formatted_address": "929 Tampines Street 91, #01-451 Tampines Palmspring, Singapore 520929",
+  "geometry": {
+    "location": {
+      "lat": 1.3462807,
+      "lng": 103.9393719
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347706830291502,
+        "lng": 103.9406781802915
+      },
+      "southwest": {
+        "lat": 1.345008869708498,
+        "lng": 103.9379802197085
+      }
+    }
+  },
+  "name": "Yak Hong Kopitiam",
+  "place_id": "ChIJ-UaqRAA92jERsfX0yjqCb6M",
+  "rating": 3,
+  "reviews": [
+    {
+      "author_name": "Ng Wei Meng",
+      "author_url": "https://www.google.com/maps/contrib/103072959491907955597/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR3H19JG2Sx6g3QY5XFHqQ8euwPiZoaPUsbUGmEEGTrPmpjQkl=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Bought kopi o kosong here at $1.30. I added milk powder to my kopi o kosong. The body is averagely ok, the flavor is averagely ok also. The price is on the higher side.",
+      "time": 1734424130,
+      "translated": false
+    },
+    {
+      "author_name": "Alvin Quah",
+      "author_url": "https://www.google.com/maps/contrib/118052387079754411357/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26rfOxo2hDKgwHYBGXoE-Nux__abaMwjW0nTebbYxkDebIlK7IA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 weeks ago",
+      "text": "I have been to so many coffeeshops around Tampines, this is the WORSE place for coffee. Kopi-O Kosong (black coffee without milk or sugar) for S$1.30??? That's ridiculous. Cut throat prices. This is heartland area with many old retired folks. Food wise is ok. Don't buy drinks from the drink stall....",
+      "time": 1745723343,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11776774739621901745",
+  "user_ratings_total": 2,
+  "vicinity": "929 Tampines Street 91, #01-451 Tampines Palmspring, Singapore"
+}

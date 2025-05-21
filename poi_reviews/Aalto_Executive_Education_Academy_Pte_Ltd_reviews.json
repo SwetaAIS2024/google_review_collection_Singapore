@@ -1,0 +1,44 @@
+{
+  "formatted_address": "10 Anson Rd, #05-01 International Plaza, Singapore 079903",
+  "geometry": {
+    "location": {
+      "lat": 1.2760024,
+      "lng": 103.8459451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.277337830291502,
+        "lng": 103.8474060802915
+      },
+      "southwest": {
+        "lat": 1.274639869708498,
+        "lng": 103.8447081197085
+      }
+    }
+  },
+  "name": "Aalto Executive Education Academy Pte Ltd",
+  "place_id": "ChIJB4VbuKAZ2jERvunnXHSK-y0",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Olivia",
+      "author_url": "https://www.google.com/maps/contrib/109526921258259110875/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3MDEgllNKpkJXYFc8r9hTIc1RprF2taKh14-wWc4_00OX_4W-=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Aalto EE, a Finnish company owned by Aalto University, offers executive education and leadership development services.",
+      "time": 1691310584,
+      "translated": false
+    }
+  ],
+  "types": [
+    "university",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3313394183240673726",
+  "user_ratings_total": 1,
+  "vicinity": "10 Anson Road, #05-01 International Plaza"
+}

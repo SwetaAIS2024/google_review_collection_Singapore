@@ -1,0 +1,45 @@
+{
+  "formatted_address": "No. 30 Raffles Pl, #01-K4 Chevron House, Singapore 048622",
+  "geometry": {
+    "location": {
+      "lat": 1.2841089,
+      "lng": 103.852015
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285733180291502,
+        "lng": 103.8535818302915
+      },
+      "southwest": {
+        "lat": 1.283035219708498,
+        "lng": 103.8508838697085
+      }
+    }
+  },
+  "name": "UOB ATM - Chevron House",
+  "place_id": "ChIJmUx0CKoZ2jERVpSWZEIjSE8",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Tan Clarence",
+      "author_url": "https://www.google.com/maps/contrib/113374753427328973495/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9m4g3oOdbmuVnpx-p7CMqb-gObDIJAxjH6TPICndByN9pc4tH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "Nice",
+      "time": 1530104420,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5712854895381877846",
+  "user_ratings_total": 1,
+  "vicinity": "No. 30 Raffles Place, #01-K4 Chevron House"
+}

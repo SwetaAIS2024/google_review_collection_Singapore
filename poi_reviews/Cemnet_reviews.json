@@ -1,0 +1,41 @@
+{
+  "formatted_address": "N4-B2-c-6, 50 Nanyang Ave, Singapore 639798",
+  "geometry": {
+    "location": {
+      "lat": 1.3461433,
+      "lng": 103.6821276
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.347577930291502,
+        "lng": 103.6834764302915
+      },
+      "southwest": {
+        "lat": 1.344879969708498,
+        "lng": 103.6807784697085
+      }
+    }
+  },
+  "name": "Cemnet",
+  "place_id": "ChIJt3I2U3UP2jERxROwb8LkIjc",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Dezhou W",
+      "author_url": "https://www.google.com/maps/contrib/104212273277170255519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ73M4EzCPUyA1GezfTZDh7VgzOZjC5xQGw6dlXSR1D1zryeKbdQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1462422352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3972989345042797509",
+  "user_ratings_total": 1,
+  "vicinity": "N4-B2-c-6, 50 Nanyang Avenue, Singapore"
+}

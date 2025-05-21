@@ -1,0 +1,30 @@
+{
+  "formatted_address": "164 Bukit Merah Central, ACX Foodcourt, Singapore 150164",
+  "geometry": {
+    "location": {
+      "lat": 1.2833836,
+      "lng": 103.8168058
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.284872180291502,
+        "lng": 103.8179955802915
+      },
+      "southwest": {
+        "lat": 1.282174219708498,
+        "lng": 103.8152976197085
+      }
+    }
+  },
+  "name": "Crazie Chef Cuisine",
+  "place_id": "ChIJv7F2ttYb2jER7LPaAD2U8WU",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7345815456946238444",
+  "vicinity": "164 Bukit Merah Central, ACX Foodcourt"
+}

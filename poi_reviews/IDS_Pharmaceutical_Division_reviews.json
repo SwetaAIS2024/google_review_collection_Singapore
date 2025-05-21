@@ -1,0 +1,30 @@
+{
+  "formatted_address": "279 Jln. Ahmad Ibrahim, Singapore 639938",
+  "geometry": {
+    "location": {
+      "lat": 1.3259784,
+      "lng": 103.6592458
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.327530380291502,
+        "lng": 103.6608019802915
+      },
+      "southwest": {
+        "lat": 1.324832419708498,
+        "lng": 103.6581040197085
+      }
+    }
+  },
+  "name": "IDS Pharmaceutical Division",
+  "place_id": "ChIJhfDxM_UF2jERxLkuqwAEAqU",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11890070367130008004",
+  "vicinity": "279 Jalan Ahmad Ibrahim"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "10 Jurong East Street 12, Singapore 609690",
+  "geometry": {
+    "location": {
+      "lat": 1.3330632,
+      "lng": 103.7423624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.334134280291502,
+        "lng": 103.7439884802915
+      },
+      "southwest": {
+        "lat": 1.331436319708498,
+        "lng": 103.7412905197085
+      }
+    }
+  },
+  "name": "OCBC ATM - Jurong East MRT Station",
+  "place_id": "ChIJO6e-Eg8Q2jERPjOnKEus7KE",
+  "rating": 3.5,
+  "reviews": [
+    {
+      "author_name": "cheng douglas",
+      "author_url": "https://www.google.com/maps/contrib/106575120416250110476/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7sZDDqylnH29dScdLYk-lmCEwGccmwfOngHgsJevHQxgISA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1501930730,
+      "translated": false
+    },
+    {
+      "author_name": "jixu zhang",
+      "author_url": "https://www.google.com/maps/contrib/103597188335791964263/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS2xkTBIY4ME4r6jrOiGEDG8ZOQLmep5QhakF-RvCZPKWj=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "9 years ago",
+      "text": "",
+      "time": 1462668074,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11667890173414683454",
+  "user_ratings_total": 2,
+  "vicinity": "10 Jurong East Street 12"
+}

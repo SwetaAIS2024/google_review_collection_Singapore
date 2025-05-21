@@ -1,0 +1,44 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3136672,
+      "lng": 103.8607613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.314992130291502,
+        "lng": 103.8620765302915
+      },
+      "southwest": {
+        "lat": 1.312294169708498,
+        "lng": 103.8593785697085
+      }
+    }
+  },
+  "name": "Opp Arc 380",
+  "place_id": "ChIJYT7Q6s4Z2jERcaVty1eYKVc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Maxime LMA",
+      "author_url": "https://www.google.com/maps/contrib/100155584989015015572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNjuQT8gv_WgXx3BdMJi9Pc9Ed4YCD6n29FV_jrjggA8x9Jg8YBw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "Big stop",
+      "time": 1581649633,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6280718658187404657",
+  "user_ratings_total": 1,
+  "vicinity": "Singapore"
+}

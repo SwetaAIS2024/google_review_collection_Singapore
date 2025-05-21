@@ -1,0 +1,54 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3381313,
+      "lng": 103.8389634
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339324130291502,
+        "lng": 103.8404297302915
+      },
+      "southwest": {
+        "lat": 1.336626169708498,
+        "lng": 103.8377317697085
+      }
+    }
+  },
+  "name": "Bef Caldecott Stn/Savh",
+  "place_id": "ChIJn1bhgUQX2jERJIP8UwEITHg",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "Gunasekaran M",
+      "author_url": "https://www.google.com/maps/contrib/106641012525352944454/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS5OmRNUr6D4bO1y0v9wFoFhpRTDH982-HIy2WW7W_gRaYaHn_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Clean ... outer area ....",
+      "time": 1596249014,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Tan Kim Wah",
+      "author_url": "https://www.google.com/maps/contrib/113412784458576371293/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHUzR2I3c5qHbMnKNWTTQbsEleytkxCvz3HpbckvHwJYm74Z_Xrw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1515580316,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8668312184578409252",
+  "user_ratings_total": 2,
+  "vicinity": "Singapore"
+}

@@ -1,0 +1,53 @@
+{
+  "formatted_address": "7 Benoi Rd, Singapore 629882",
+  "geometry": {
+    "location": {
+      "lat": 1.3023592,
+      "lng": 103.6799341
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.303677680291502,
+        "lng": 103.6810313302915
+      },
+      "southwest": {
+        "lat": 1.300979719708498,
+        "lng": 103.6783333697085
+      }
+    }
+  },
+  "name": "Marineaid & Engrg Pte Ltd",
+  "place_id": "ChIJbb0hDacF2jERRz8n9zFS-wA",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "MD MAHBUB HASAN BHUYAN",
+      "author_url": "https://www.google.com/maps/contrib/112003283481591139913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnrl-wjn5sxttnv190GGgHMo3bsKHvpIHeGWFfDiPH_LWFs_wDfA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "7 years ago",
+      "text": "You can visit here whenever you need something important.",
+      "time": 1526016403,
+      "translated": false
+    },
+    {
+      "author_name": "Md ruhul amin H M R AMIN",
+      "author_url": "https://www.google.com/maps/contrib/110046831612053919849/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJH4AK6QB2BCuYHAiQ3nmlXbPwXLRv8xD1koifNoCubW5nqsQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "",
+      "time": 1727318319,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=70740593707794247",
+  "user_ratings_total": 2,
+  "vicinity": "7 Benoi Road"
+}

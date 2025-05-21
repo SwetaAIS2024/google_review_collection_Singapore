@@ -1,0 +1,41 @@
+{
+  "formatted_address": "95 Aljunied Cres, Singapore 380095",
+  "geometry": {
+    "location": {
+      "lat": 1.3208958,
+      "lng": 103.8869053
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.322324580291502,
+        "lng": 103.8882753802915
+      },
+      "southwest": {
+        "lat": 1.319626619708498,
+        "lng": 103.8855774197085
+      }
+    }
+  },
+  "name": "GNG Enterprise",
+  "place_id": "ChIJAWf19iMY2jERyIipsEl2Apo",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Darlord Eld",
+      "author_url": "https://www.google.com/maps/contrib/105768084500117548036/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1h_HPE4yH4N9Fb2q-og-XdqTBLYtkprXu5Ufv96ingEaEm3cP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1657202917,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11097562490662914248",
+  "user_ratings_total": 1,
+  "vicinity": "95 Aljunied Crescent"
+}

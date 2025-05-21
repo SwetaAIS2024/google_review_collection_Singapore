@@ -1,0 +1,29 @@
+{
+  "formatted_address": "10 Neo Tiew Lane 2, Singapore 718813",
+  "geometry": {
+    "location": {
+      "lat": 1.4198284,
+      "lng": 103.7187067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.421153930291502,
+        "lng": 103.7201236802915
+      },
+      "southwest": {
+        "lat": 1.418455969708498,
+        "lng": 103.7174257197085
+      }
+    }
+  },
+  "name": "Burger Inc. SG",
+  "place_id": "ChIJUx1FNuEN2jERhm3sbHywgrk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13367440692438920582",
+  "vicinity": "10 Neo Tiew Lane 2, Singapore"
+}

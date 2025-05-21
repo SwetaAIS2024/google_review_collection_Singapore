@@ -1,0 +1,43 @@
+{
+  "formatted_address": "438A Alexandra Rd, #01-07/08 Alexandra Technopark, Singapore 119967",
+  "geometry": {
+    "location": {
+      "lat": 1.2777047,
+      "lng": 103.8008548
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278925480291502,
+        "lng": 103.8021414302915
+      },
+      "southwest": {
+        "lat": 1.276227519708498,
+        "lng": 103.7994434697085
+      }
+    }
+  },
+  "name": "Fedegari Asia Pte. Ltd.",
+  "place_id": "ChIJ39XVRXUQ2jERv3BV9S3ny4k",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Chooi Michael",
+      "author_url": "https://www.google.com/maps/contrib/110059346824911899588/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItBf7GwXaonIG1kqma-6txiUrkosm8Rm5_7EuOOU4dY69CEQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "Nice company setting.",
+      "time": 1513767746,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9929283988043952319",
+  "user_ratings_total": 1,
+  "vicinity": "438A Alexandra Road, #01-07/08 Alexandra Technopark, Singapore"
+}

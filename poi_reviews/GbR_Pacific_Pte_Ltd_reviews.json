@@ -1,0 +1,31 @@
+{
+  "formatted_address": "Singapore 608609",
+  "geometry": {
+    "location": {
+      "lat": 1.3375285,
+      "lng": 103.7547136
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.338959730291502,
+        "lng": 103.7562190802915
+      },
+      "southwest": {
+        "lat": 1.336261769708498,
+        "lng": 103.7535211197085
+      }
+    }
+  },
+  "name": "GbR Pacific Pte Ltd",
+  "place_id": "ChIJi1FBC20Q2jER20vrfWWOReE",
+  "types": [
+    "grocery_or_supermarket",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16232536998482234331",
+  "vicinity": ""
+}

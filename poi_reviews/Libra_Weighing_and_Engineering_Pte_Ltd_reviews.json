@@ -1,0 +1,41 @@
+{
+  "formatted_address": "17 Tuas Ave 11, Singapore 639083",
+  "geometry": {
+    "location": {
+      "lat": 1.3225873,
+      "lng": 103.6439463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.324072380291502,
+        "lng": 103.6454253802915
+      },
+      "southwest": {
+        "lat": 1.321374419708498,
+        "lng": 103.6427274197085
+      }
+    }
+  },
+  "name": "Libra Weighing & Engineering Pte Ltd",
+  "place_id": "ChIJ____z_sF2jERXTFFqMWNxXc",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Arielle Kow",
+      "author_url": "https://www.google.com/maps/contrib/112696063290166452679/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDrFENXisSiIeA0lmkQ_0I_yO9DrLeE6FOU0fniazHbqpmfWD3=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1686552558,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8630460140996604253",
+  "user_ratings_total": 1,
+  "vicinity": "17 Tuas Avenue 11"
+}

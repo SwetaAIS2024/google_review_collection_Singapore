@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3152081,
+      "lng": 103.8782463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.316541130291502,
+        "lng": 103.8795683302915
+      },
+      "southwest": {
+        "lat": 1.313843169708498,
+        "lng": 103.8768703697085
+      }
+    }
+  },
+  "name": "Bef Sims Ave",
+  "place_id": "ChIJqyHnZjAY2jERIwRX61QLgbA",
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12718459282024498211",
+  "vicinity": "Singapore"
+}

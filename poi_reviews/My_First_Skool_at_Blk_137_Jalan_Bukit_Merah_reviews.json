@@ -1,0 +1,42 @@
+{
+  "formatted_address": "137 Jalan Bukit Merah, #01-1380 Block 137, Singapore 160137",
+  "geometry": {
+    "location": {
+      "lat": 1.2781766,
+      "lng": 103.8270126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.279619430291502,
+        "lng": 103.8282969302915
+      },
+      "southwest": {
+        "lat": 1.276921469708498,
+        "lng": 103.8255989697085
+      }
+    }
+  },
+  "name": "My First Skool at Blk 137 Jalan Bukit Merah",
+  "place_id": "ChIJ80-TZGMZ2jER07TvBO32Z9U",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Hur II Moreno",
+      "author_url": "https://www.google.com/maps/contrib/115863194992032215199/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnAjeEOBAjaD2l8wSswnH01OJpleSyxy9ONBI2aYXRwklDjYbYQA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1698125979,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15377530950530348243",
+  "user_ratings_total": 1,
+  "vicinity": "137 Jalan Bukit Merah, #01-1380 Block 137"
+}

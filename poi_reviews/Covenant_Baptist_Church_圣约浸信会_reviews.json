@@ -1,0 +1,45 @@
+{
+  "formatted_address": "17 Mattar Rd, Singapore 387722",
+  "geometry": {
+    "location": {
+      "lat": 1.3254818,
+      "lng": 103.8824559
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.326697930291502,
+        "lng": 103.8837683802915
+      },
+      "southwest": {
+        "lat": 1.323999969708498,
+        "lng": 103.8810704197085
+      }
+    }
+  },
+  "name": "Covenant Baptist Church 圣约浸信会",
+  "place_id": "ChIJe79lc0IX2jERH5jvPiFxAcg",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Martyn Wong",
+      "author_url": "https://www.google.com/maps/contrib/105701199379862690278/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN2AksofQgsqHTltFVxw1y_qDHF6GBy6EI4KhjJbdXNqVDlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Friendly Chinese speaking church with good Reformed teaching",
+      "time": 1704415116,
+      "translated": false
+    }
+  ],
+  "types": [
+    "church",
+    "place_of_worship",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14411924670166046751",
+  "user_ratings_total": 1,
+  "vicinity": "17 Mattar Road"
+}

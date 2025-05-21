@@ -1,0 +1,27 @@
+{
+  "formatted_address": "25 Pioneer Sector 1, Singapore 628432",
+  "geometry": {
+    "location": {
+      "lat": 1.303382,
+      "lng": 103.657447
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.304845880291502,
+        "lng": 103.6589745302915
+      },
+      "southwest": {
+        "lat": 1.302147919708498,
+        "lng": 103.6562765697085
+      }
+    }
+  },
+  "name": "CMA Peakmore",
+  "place_id": "ChIJsRWiO8cF2jERfttYPxnTsl4",
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6823748490810153854",
+  "vicinity": "25 Pioneer Sector 1"
+}

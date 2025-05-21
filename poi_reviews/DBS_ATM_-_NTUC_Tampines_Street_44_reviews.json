@@ -1,0 +1,43 @@
+{
+  "formatted_address": "475 Tampines Street 44, Singapore 520475",
+  "geometry": {
+    "location": {
+      "lat": 1.3613995,
+      "lng": 103.9531897
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.362787630291502,
+        "lng": 103.9546318302915
+      },
+      "southwest": {
+        "lat": 1.360089669708498,
+        "lng": 103.9519338697085
+      }
+    }
+  },
+  "name": "DBS ATM - NTUC Tampines Street 44",
+  "place_id": "ChIJsWTacxY92jERHb8TDjJQTrU",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jun Mizuno",
+      "author_url": "https://www.google.com/maps/contrib/103316743482037313012/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYBr2CFWL_t_fSaPr2InZpV0zWnTsWduagV3TZ3iiZ_McA_1vCNw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1583624719,
+      "translated": false
+    }
+  ],
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13064467744963149597",
+  "user_ratings_total": 1,
+  "vicinity": "475 Tampines Street 44, Singapore"
+}

@@ -1,0 +1,45 @@
+{
+  "formatted_address": "8 Somapah Rd, #02-201, SUTD Building 2, Singapore 487372",
+  "geometry": {
+    "location": {
+      "lat": 1.341091,
+      "lng": 103.9629686
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.342570780291502,
+        "lng": 103.9642932302915
+      },
+      "southwest": {
+        "lat": 1.339872819708498,
+        "lng": 103.9615952697085
+      }
+    }
+  },
+  "name": "Al-Masha Kitchen",
+  "place_id": "ChIJ_WenBgA92jERbzLQhmH-WUE",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "TJ RDRGZ",
+      "author_url": "https://www.google.com/maps/contrib/100735893724515724472/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy1Xfn_kcT2bu426CrwbL6C3SqnrxnLVYjZe8yOqueow_Yu6Efhg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Delicious indian meals at an affordable price",
+      "time": 1733979927,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4709074580219638383",
+  "user_ratings_total": 1,
+  "vicinity": "8 Somapah Road, #02-201, SUTD Building 2, Singapore"
+}

@@ -1,0 +1,28 @@
+{
+  "formatted_address": "Singapore 680456",
+  "geometry": {
+    "location": {
+      "lat": 1.379032,
+      "lng": 103.735201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.380425830291502,
+        "lng": 103.7364975302915
+      },
+      "southwest": {
+        "lat": 1.377727869708498,
+        "lng": 103.7337995697085
+      }
+    }
+  },
+  "name": "Book Harvest @ Keat Hong",
+  "place_id": "ChIJ7w8etAIR2jERu9ApIAX5pEU",
+  "types": [
+    "library",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5018409685207339195",
+  "vicinity": "Singapore"
+}

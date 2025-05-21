@@ -1,0 +1,68 @@
+{
+  "formatted_address": "282 Bishan Street 22, Singapore 570282",
+  "geometry": {
+    "location": {
+      "lat": 1.3579846,
+      "lng": 103.8446774
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359256180291502,
+        "lng": 103.8458611302915
+      },
+      "southwest": {
+        "lat": 1.356558219708498,
+        "lng": 103.8431631697085
+      }
+    }
+  },
+  "name": "Yeap Seng Handmade Pau tim",
+  "place_id": "ChIJkUo2dCIX2jERWhV-ikoOv60",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Irving Tang",
+      "author_url": "https://www.google.com/maps/contrib/107466452516910503261/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMDb0RHksYs_-mzpZMvc3j8_y7HE3V7KqIPxURgj2Ekv6JVQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Great dim sum at affordable prices",
+      "time": 1705323853,
+      "translated": false
+    },
+    {
+      "author_name": "Bryan",
+      "author_url": "https://www.google.com/maps/contrib/102500016470867886790/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpQfxAIU8I229u_e9ICKjrAameDdyfNWfU9nwtwDqus0cd9sbQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good and cheap Pau",
+      "time": 1711241853,
+      "translated": false
+    },
+    {
+      "author_name": "Stephen C",
+      "author_url": "https://www.google.com/maps/contrib/114272597298012896414/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWX7JWeRha0CeCXXa2zqj7mtYZAzIFXKzBzZHso4hMKPmfwZVj=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1645799795,
+      "translated": false
+    }
+  ],
+  "types": [
+    "cafe",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12519741202427155802",
+  "user_ratings_total": 3,
+  "vicinity": "282 Bishan Street 22, Singapore"
+}

@@ -1,0 +1,42 @@
+{
+  "formatted_address": "61 Nanyang Dr, L1, Singapore 637460",
+  "geometry": {
+    "location": {
+      "lat": 1.3466876,
+      "lng": 103.682251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.348038330291502,
+        "lng": 103.6835303302915
+      },
+      "southwest": {
+        "lat": 1.345340369708498,
+        "lng": 103.6808323697085
+      }
+    }
+  },
+  "name": "Graduate College (GC)",
+  "place_id": "ChIJEZG5apgP2jERIC3VypAaNUw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "jeremy sim",
+      "author_url": "https://www.google.com/maps/contrib/103389123669242102453/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwGNVlRgGLvUm0H_tBAxSEDqEaAGGBykUwDSKkr1-9-hBwAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1638378632,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5491324529828769056",
+  "user_ratings_total": 1,
+  "vicinity": "61 Nanyang Drive, L1"
+}

@@ -1,0 +1,30 @@
+{
+  "formatted_address": "1 Park Rd, #01-43 People’s Park Complex, Singapore 059108",
+  "geometry": {
+    "location": {
+      "lat": 1.283858,
+      "lng": 103.8424623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.285209330291502,
+        "lng": 103.8439265802915
+      },
+      "southwest": {
+        "lat": 1.282511369708498,
+        "lng": 103.8412286197085
+      }
+    }
+  },
+  "name": "Sinchong Meheco",
+  "place_id": "ChIJ73GHenMZ2jERcWjZB-FyZpc",
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10909533458176501873",
+  "vicinity": "1 Park Rd, #01-43 People’s Park Complex"
+}

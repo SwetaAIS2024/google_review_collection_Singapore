@@ -1,0 +1,53 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3349386,
+      "lng": 103.7437876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.336251130291502,
+        "lng": 103.7450279302915
+      },
+      "southwest": {
+        "lat": 1.333553169708498,
+        "lng": 103.7423299697085
+      }
+    }
+  },
+  "name": "Jurong Health",
+  "place_id": "ChIJEX54dK8R2jERluybb_mQPgc",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author_name": "LL Low",
+      "author_url": "https://www.google.com/maps/contrib/113471370063333847519/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNJUzc66IZGaslEWKKLsFsh_siSrlNJnorC6TFGCC5dK54Wg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1599994095,
+      "translated": false
+    },
+    {
+      "author_name": "Rani Muru",
+      "author_url": "https://www.google.com/maps/contrib/101215697548044016540/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUfYlhxedvEK-XpyPbNAR5bJEtBq_1-ima6hRw68mtqSwE=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1577100952,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=522014007815302294",
+  "user_ratings_total": 2,
+  "vicinity": ""
+}

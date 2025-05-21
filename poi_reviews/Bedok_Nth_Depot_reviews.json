@@ -1,0 +1,84 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.338001,
+      "lng": 103.947502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.339263130291502,
+        "lng": 103.9488337302915
+      },
+      "southwest": {
+        "lat": 1.336565169708498,
+        "lng": 103.9461357697085
+      }
+    }
+  },
+  "name": "Bedok Nth Depot",
+  "place_id": "ChIJDan0PTs92jERGs2yRIPMz-0",
+  "rating": 4.4,
+  "reviews": [
+    {
+      "author_name": "KLSG RAO",
+      "author_url": "https://www.google.com/maps/contrib/104457794680042836761/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPh_fnnzABfwAVd9AWwzOX7SiG1f0CA1lfSY1PkzQpZ0RRRQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "8 months ago",
+      "text": "There are no bus stations, it might be on the other side of the road but have no traffic lights. This is also made me go though privet properties which is also illegal.",
+      "time": 1724918379,
+      "translated": false
+    },
+    {
+      "author_name": "Zacchaeus Tan",
+      "author_url": "https://www.google.com/maps/contrib/108562986090242195014/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtwKELUVCt8lgykipdT_aPgwmbgQnmjwtMmnY3FYesPrw6fQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1647889541,
+      "translated": false
+    },
+    {
+      "author_name": "Jackson voon",
+      "author_url": "https://www.google.com/maps/contrib/117134923980305965091/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgF_ymCqiLLw7xbp1mLRnsmrKDX3RUNM4n2LtwN53Wt0XnGm3F=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "",
+      "time": 1641723762,
+      "translated": false
+    },
+    {
+      "author_name": "Valerie Lim",
+      "author_url": "https://www.google.com/maps/contrib/113447786280347167728/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUagcSq-OIH9Je7Bt3EBMhHeXbcBf4Fm5X98UurWSHbI95F0Na7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "",
+      "time": 1619354023,
+      "translated": false
+    },
+    {
+      "author_name": "Jed Ng",
+      "author_url": "https://www.google.com/maps/contrib/104286841316009722050/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINaLkvlxrBIujJAoG5pWs8tgbmePieb7bKW8UxhJWGKqrFLg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 years ago",
+      "text": "",
+      "time": 1562476873,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17136139971333377306",
+  "user_ratings_total": 10,
+  "vicinity": "Singapore"
+}

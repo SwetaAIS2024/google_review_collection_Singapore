@@ -1,0 +1,30 @@
+{
+  "formatted_address": "22 Sin Ming Ln, #06-76 Midview City, Singapore 573969",
+  "geometry": {
+    "location": {
+      "lat": 1.3584691,
+      "lng": 103.8336621
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.359687680291502,
+        "lng": 103.8347105302915
+      },
+      "southwest": {
+        "lat": 1.356989719708498,
+        "lng": 103.8320125697085
+      }
+    }
+  },
+  "name": "Millionaire CEO Club",
+  "place_id": "ChIJ5Svq8yUX2jERYYE2haX6ZnQ",
+  "types": [
+    "art_gallery",
+    "museum",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8387666944835617121",
+  "vicinity": "22 Sin Ming Lane, #06-76 Midview City"
+}

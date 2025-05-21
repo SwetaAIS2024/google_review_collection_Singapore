@@ -1,0 +1,30 @@
+{
+  "formatted_address": "Pasir Ris St 13, Singapore 510149",
+  "geometry": {
+    "location": {
+      "lat": 1.3621274,
+      "lng": 103.962389
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.363519180291502,
+        "lng": 103.9637839802915
+      },
+      "southwest": {
+        "lat": 1.360821219708498,
+        "lng": 103.9610860197085
+      }
+    }
+  },
+  "name": "Aura Touch Beauty",
+  "place_id": "ChIJyfBwfLUi2jERei8FXTkLSYw",
+  "types": [
+    "beauty_salon",
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10108623179611451258",
+  "vicinity": "Pasir Ris St 13"
+}

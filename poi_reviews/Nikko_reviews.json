@@ -1,0 +1,41 @@
+{
+  "formatted_address": "SG, #01-05 Everton Park, Block 7, Singapore 080007",
+  "geometry": {
+    "location": {
+      "lat": 1.277112,
+      "lng": 103.8392358
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.278514230291502,
+        "lng": 103.8406763302915
+      },
+      "southwest": {
+        "lat": 1.275816269708498,
+        "lng": 103.8379783697085
+      }
+    }
+  },
+  "name": "Nikko",
+  "place_id": "ChIJt2g4KmwZ2jERhY6HoEm49rQ",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "koe Er",
+      "author_url": "https://www.google.com/maps/contrib/113582622560939825682/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2ZqzpJgCiK4UoTgusj7rwFt6-L6WONuhyJirOuWmzl8_erQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "12 years ago",
+      "text": "",
+      "time": 1349011215,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13039812397463211653",
+  "user_ratings_total": 1,
+  "vicinity": "SG, #01-05 Everton Park, Block 7"
+}

@@ -1,0 +1,56 @@
+{
+  "formatted_address": "9 Tosca St, Singapore 455449",
+  "geometry": {
+    "location": {
+      "lat": 1.3171915,
+      "lng": 103.9281981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.318495830291502,
+        "lng": 103.9294491302915
+      },
+      "southwest": {
+        "lat": 1.315797869708498,
+        "lng": 103.9267511697085
+      }
+    }
+  },
+  "name": "Sangitas Trading (Singapore) Pte Ltd",
+  "place_id": "ChIJ368icrAi2jERtIXyvAJAEQI",
+  "rating": 2,
+  "reviews": [
+    {
+      "author_name": "skywalk7",
+      "author_url": "https://www.google.com/maps/contrib/102628625207953797876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqvhhQluTgzsEwTAR2vmOAYqU7c2yzzBqxwevsyjA3aQrme74I=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "is everything ok?",
+      "time": 1743816148,
+      "translated": false
+    },
+    {
+      "author_name": "Luqman Hkm",
+      "author_url": "https://www.google.com/maps/contrib/105010974112897769209/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImi4xlp6cI2zbtgKlReodf7wSm3z4thIfNq4WhoTWqfNIdn--Y=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "10 months ago",
+      "text": "",
+      "time": 1721104952,
+      "translated": false
+    }
+  ],
+  "types": [
+    "pharmacy",
+    "health",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=148970643184059828",
+  "user_ratings_total": 2,
+  "vicinity": "9 Tosca Street, Singapore"
+}

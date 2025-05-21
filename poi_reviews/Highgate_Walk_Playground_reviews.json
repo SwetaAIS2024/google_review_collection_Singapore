@@ -1,0 +1,80 @@
+{
+  "formatted_address": "Highgate Walk, Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.3405019,
+      "lng": 103.7660677
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.341757230291502,
+        "lng": 103.7675952302915
+      },
+      "southwest": {
+        "lat": 1.339059269708498,
+        "lng": 103.7648972697085
+      }
+    }
+  },
+  "name": "Highgate Walk Playground",
+  "place_id": "ChIJQQNE0mUQ2jERxpIl98rk7VI",
+  "rating": 4,
+  "reviews": [
+    {
+      "author_name": "Inigo de Guzman",
+      "author_url": "https://www.google.com/maps/contrib/115878834422715340668/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFliJ80Y6TqS3hCEw3dlYS_PNSoS1qOLC9VEKceOJICrqE_58=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Fun.",
+      "time": 1714189777,
+      "translated": false
+    },
+    {
+      "author_name": "Pohboon Yeo",
+      "author_url": "https://www.google.com/maps/contrib/102258065092472992485/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqSffbJAmJemzsSvjKb618oOrVht7WnbN0737kNZ6772mww5ASYw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "Small quaint park",
+      "time": 1529923223,
+      "translated": false
+    },
+    {
+      "author_name": "Alan Tang",
+      "author_url": "https://www.google.com/maps/contrib/112416216155761470086/reviews",
+      "language": "en-US",
+      "original_language": "zh",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEO-O-Bhs1w8KsaYSBAbU__ya8iiOQ56zn1CyaqLG3OWDbRgP7QQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "The playground is small,",
+      "time": 1539242882,
+      "translated": true
+    },
+    {
+      "author_name": "G Vengatesan",
+      "author_url": "https://www.google.com/maps/contrib/112214062054049227043/reviews",
+      "language": "ta",
+      "original_language": "ta",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5o9lOtEKbr8kDAGg1kqiit-0ybAuX3guXK-oemSAuluC6gmAM3Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "நன்றாக இருக்கிறது",
+      "time": 1556100897,
+      "translated": false
+    }
+  ],
+  "types": [
+    "park",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5975683840971477702",
+  "user_ratings_total": 4,
+  "vicinity": "Highgate Walk"
+}

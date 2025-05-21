@@ -1,0 +1,31 @@
+{
+  "formatted_address": "149 Rochor Rd, Singapore 188425",
+  "geometry": {
+    "location": {
+      "lat": 1.301531,
+      "lng": 103.854515
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302666830291502,
+        "lng": 103.8560037802915
+      },
+      "southwest": {
+        "lat": 1.299968869708498,
+        "lng": 103.8533058197085
+      }
+    }
+  },
+  "name": "Haifa Medic Company",
+  "place_id": "ChIJJyJqRLoZ2jERHmqsiK0K2Sg",
+  "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2943395571901950494",
+  "vicinity": "149 Rochor Road, Singapore"
+}

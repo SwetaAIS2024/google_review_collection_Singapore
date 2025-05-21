@@ -1,0 +1,29 @@
+{
+  "formatted_address": "82, Jalan Eko Botani 3/2, 79100 Gelang Patah, Johor Darul Ta'zim, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 1.4390575,
+      "lng": 103.6205824
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.440457580291502,
+        "lng": 103.6219668302915
+      },
+      "southwest": {
+        "lat": 1.437759619708498,
+        "lng": 103.6192688697085
+      }
+    }
+  },
+  "name": "JB",
+  "place_id": "ChIJSZmaZAAL2jERura83vC3c0A",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4644257885906056890",
+  "vicinity": "82, Jalan Eko Botani 3/2, Gelang Patah"
+}

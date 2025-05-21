@@ -1,0 +1,30 @@
+{
+  "formatted_address": "6 Napier Rd, #03-01 Gleneagles Medical Centre, Singapore 258499",
+  "geometry": {
+    "location": {
+      "lat": 1.3076257,
+      "lng": 103.8202012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.308891530291502,
+        "lng": 103.8215099802915
+      },
+      "southwest": {
+        "lat": 1.306193569708498,
+        "lng": 103.8188120197085
+      }
+    }
+  },
+  "name": "Dr Chin Tan Min",
+  "place_id": "ChIJpR06a-sb2jER_JxBvdBCp_I",
+  "types": [
+    "hospital",
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17485017542585064700",
+  "vicinity": "6 Napier Road, #03-01 Gleneagles Medical Centre"
+}

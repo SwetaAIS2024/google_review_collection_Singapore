@@ -1,0 +1,44 @@
+{
+  "formatted_address": "21, Blk 1 Tampines Ave 1, Level 2, Singapore 529757",
+  "geometry": {
+    "location": {
+      "lat": 1.3453968,
+      "lng": 103.9341941
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.346868030291502,
+        "lng": 103.9355794302915
+      },
+      "southwest": {
+        "lat": 1.344170069708498,
+        "lng": 103.9328814697085
+      }
+    }
+  },
+  "name": "IT Security & Forensics Hub",
+  "place_id": "ChIJzTTRzDo92jERnfOl1G6TK5o",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Jade Eight",
+      "author_url": "https://www.google.com/maps/contrib/115255954089171831694/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV_pelpBq7O7nx6qo3Qpea74lgzpQXV9CTN6-pdc38iuV43LE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Nice learning environment.",
+      "time": 1683624494,
+      "translated": false
+    }
+  ],
+  "types": [
+    "school",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11109135010062791581",
+  "user_ratings_total": 1,
+  "vicinity": "21, Blk 1 Tampines Avenue 1, Level 2, Singapore"
+}

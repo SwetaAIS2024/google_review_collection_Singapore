@@ -1,0 +1,43 @@
+{
+  "formatted_address": "585 N Bridge Rd, Singapore 188770",
+  "geometry": {
+    "location": {
+      "lat": 1.3011904,
+      "lng": 103.8572692
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302400980291502,
+        "lng": 103.8587736802915
+      },
+      "southwest": {
+        "lat": 1.299703019708498,
+        "lng": 103.8560757197085
+      }
+    }
+  },
+  "name": "Raffles Diagnostica Pte Ltd",
+  "place_id": "ChIJMwLrhbAZ2jERUYIn0m9kUAw",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Kevin Pang",
+      "author_url": "https://www.google.com/maps/contrib/106587695414443791593/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgh1GUga65jt2Cq-Sbff6rYI5eNMCLaZLkmDNBwCDe15jJOA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1551273739,
+      "translated": false
+    }
+  ],
+  "types": [
+    "hospital",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=887319558021939793",
+  "user_ratings_total": 1,
+  "vicinity": "585 North Bridge Road"
+}

@@ -1,0 +1,29 @@
+{
+  "formatted_address": "5 Temasek Blvd, Singapore 038985",
+  "geometry": {
+    "location": {
+      "lat": 1.2944161,
+      "lng": 103.8580221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.295892130291502,
+        "lng": 103.8588737302915
+      },
+      "southwest": {
+        "lat": 1.293194169708498,
+        "lng": 103.8561757697085
+      }
+    }
+  },
+  "name": "International Institute of Quantum Genetics",
+  "place_id": "ChIJb5Au06gZ2jERvDbtS0ZIqeU",
+  "types": [
+    "hospital",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16548837772508346044",
+  "vicinity": "5 Temasek Boulevard"
+}

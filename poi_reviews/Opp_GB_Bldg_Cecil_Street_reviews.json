@@ -1,0 +1,64 @@
+{
+  "formatted_address": "Singapore",
+  "geometry": {
+    "location": {
+      "lat": 1.2789503,
+      "lng": 103.8477901
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.280282980291502,
+        "lng": 103.8491810802915
+      },
+      "southwest": {
+        "lat": 1.277585019708498,
+        "lng": 103.8464831197085
+      }
+    }
+  },
+  "name": "Opp GB Bldg/Cecil Street",
+  "place_id": "ChIJh-htYhIZ2jERpNtaJIooHv0",
+  "rating": 4.3,
+  "reviews": [
+    {
+      "author_name": "N Siddique",
+      "author_url": "https://www.google.com/maps/contrib/117431637990125579511/reviews",
+      "language": "id",
+      "original_language": "id",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIOfXzoaDOVpYwyjXnDQprnB-utfcd0ntSC0ztzbbDqNLJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Usman",
+      "time": 1616837193,
+      "translated": false
+    },
+    {
+      "author_name": "Rudy H",
+      "author_url": "https://www.google.com/maps/contrib/103737441234086541014/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgnwlK6_eCBk4lSR6tgQDxZw_8_KEJhk1Cbn9Jz2vtu0Fnnm-Wpw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "8 years ago",
+      "text": "",
+      "time": 1482795891,
+      "translated": false
+    },
+    {
+      "author_name": "taifa zheng",
+      "author_url": "https://www.google.com/maps/contrib/113783786128237148629/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYlAYi5vQjg-50lwxamtJwej3QEQJw2v00vc2ei7cLX9rP6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 years ago",
+      "text": "",
+      "time": 1517916365,
+      "translated": false
+    }
+  ],
+  "types": [
+    "transit_station",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18239060114677619620",
+  "user_ratings_total": 3,
+  "vicinity": "Singapore"
+}

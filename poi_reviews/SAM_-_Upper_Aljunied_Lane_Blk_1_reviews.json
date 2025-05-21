@@ -1,0 +1,29 @@
+{
+  "formatted_address": "Blk 1 Upper Aljunied Ln, #01-1 outside, Blk 1, Singapore 360001",
+  "geometry": {
+    "location": {
+      "lat": 1.3343204,
+      "lng": 103.8794806
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.335631780291502,
+        "lng": 103.8808857302915
+      },
+      "southwest": {
+        "lat": 1.332933819708498,
+        "lng": 103.8781877697085
+      }
+    }
+  },
+  "name": "SAM - Upper Aljunied Lane Blk 1",
+  "place_id": "ChIJq6qqWm4U2jERd4k_ACU0hR0",
+  "types": [
+    "atm",
+    "finance",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2127163732525025655",
+  "vicinity": "Blk 1 Upper Aljunied Lane, #01-1 outside, Blk 1"
+}

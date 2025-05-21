@@ -1,0 +1,56 @@
+{
+  "formatted_address": "150 Orchard Rd, #05-14 Orchard Plaza, Singapore 238841",
+  "geometry": {
+    "location": {
+      "lat": 1.301284,
+      "lng": 103.841309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.302716680291502,
+        "lng": 103.8427077302915
+      },
+      "southwest": {
+        "lat": 1.300018719708498,
+        "lng": 103.8400097697085
+      }
+    }
+  },
+  "name": "OnlyFriends Karaoke Bar",
+  "place_id": "ChIJmf8eaiUZ2jERGE-UnxDulfY",
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Gregory Sim (Pwaggygreggy)",
+      "author_url": "https://www.google.com/maps/contrib/113172202438931282425/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBBzyq5uzdRTZkPg1k70ysbe0cZgAFJQJ4gXW88eJA6NS4tQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Good vibes, love the boss at this place who was very polite & botak.\n\nAbit bright but after knocking down afew drinks, all was good.\n\nNo staffs asking me to buy LD, so was a good experience",
+      "time": 1733034624,
+      "translated": false
+    },
+    {
+      "author_name": "kaden ng",
+      "author_url": "https://www.google.com/maps/contrib/108971961474887709765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLQ4s3Z5sYoErwxOAJhX3knoEcdhJiozPwWXyk8HP31Q2loFPL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Sick vibes and chill boss",
+      "time": 1743520218,
+      "translated": false
+    }
+  ],
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17768369660024344344",
+  "user_ratings_total": 2,
+  "vicinity": "150 Orchard Road, #05-14 Orchard Plaza"
+}

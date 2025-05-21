@@ -1,0 +1,30 @@
+{
+  "formatted_address": "190 Middle Rd, Singapore 188979",
+  "geometry": {
+    "location": {
+      "lat": 1.3005243,
+      "lng": 103.8521508
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 1.301761480291502,
+        "lng": 103.8533968802915
+      },
+      "southwest": {
+        "lat": 1.299063519708498,
+        "lng": 103.8506989197085
+      }
+    }
+  },
+  "name": "Vas Consultants",
+  "place_id": "ChIJZxTlBbsZ2jERmPBwry1G9SU",
+  "types": [
+    "art_gallery",
+    "electronics_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2735169510728331416",
+  "vicinity": "190 Middle Road"
+}
