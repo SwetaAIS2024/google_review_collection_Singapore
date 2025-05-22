@@ -64,6 +64,13 @@ if 'review_text' in df_clean.columns:
     analysis.append(f'\nReview text length statistics:')
     analysis.append(str(df_clean['review_length'].describe()))
 
+# d. Count of each rating (1-5)
+rating_counts = df_clean['rating'].value_counts().sort_index()
+analysis.append('\nReview counts by rating:')
+for rating in [5, 4, 3, 2, 1]:
+    count = rating_counts.get(rating, 0)
+    analysis.append(f'  {rating}-star: {count}')
+
 # Save analysis
 with open(ANALYSIS_TXT, 'w') as f:
     f.write('\n'.join(analysis))

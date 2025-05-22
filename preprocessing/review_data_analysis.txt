@@ -789,3 +789,10 @@ min          1.000000
 75%        473.000000
 max       4087.000000
 Name: review_length, dtype: float64
+
+Review counts by rating:
+  5-star: 29717
+  4-star: 7382
+  3-star: 3273
+  2-star: 1796
+  1-star: 6850
