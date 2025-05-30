@@ -23,6 +23,8 @@ poi_type_map = reviews.drop_duplicates('place_id').set_index('place_id')['poi_ty
 google_fsq['poi_type'] = google_fsq['poi_id'].map(poi_type_map)
 # Flatten categories (comma separated)
 all_types = google_fsq['poi_type'].dropna().str.split(',').explode()
+# Remove 'point_of_interest' and 'establishment' from the list for plotting
+all_types = all_types[~all_types.str.strip().isin(['point_of_interest', 'establishment'])]
 top20_types = all_types.value_counts().head(20)
 plt.figure(figsize=(10,6))
 top20_types.plot(kind='bar')
